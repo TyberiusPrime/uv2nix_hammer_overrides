@@ -2,6 +2,9 @@
   mxp = {
     "0.3" = import ./overrides/mxp/0.3;
   };
+  numpy = {
+    "2.1.0" = import ./overrides/numpy/2.1.0;
+  };
   python-dateutil = {
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
   };
