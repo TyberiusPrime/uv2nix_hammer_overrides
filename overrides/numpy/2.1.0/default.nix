@@ -1,7 +1,11 @@
 { final, ... }:
-old: {
-  nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [
-    final.meson-python
-    final.cython
-  ];
-}
+old:
+if (old.format == "wheel") then
+  { }
+else
+  {
+    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [
+      final.cython
+      final.meson-python
+    ];
+  }

@@ -1,8 +1,12 @@
 { final, ... }:
-old: {
-  nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [
-    final.setuptools
-    final.setuptools-scm
-    final.wheel
-  ];
-}
+old:
+if (old.format == "wheel") then
+  { }
+else
+  {
+    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [
+      final.setuptools-scm
+      final.wheel
+      final.setuptools
+    ];
+  }
