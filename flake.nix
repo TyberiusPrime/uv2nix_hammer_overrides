@@ -39,7 +39,7 @@
             matched_version = version_match name prev.${name}.version;
           in
             prev.${name}.overridePythonAttrs (
-              available_versions.${matched_version} {
+              available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
                 inherit final prev helpers;
                 #pkgs = nixpkgs;
               }
