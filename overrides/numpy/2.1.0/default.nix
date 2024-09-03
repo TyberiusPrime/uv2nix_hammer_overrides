@@ -1,6 +1,6 @@
 { final, ... }:
 old:
-if (old.format == "wheel") then
+if ((old.format or "sdist") == "wheel") then
   { }
 else
   {
