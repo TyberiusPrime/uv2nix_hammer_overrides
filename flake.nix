@@ -17,7 +17,8 @@
       overrides_by_version = import ./collected.nix;
       # find the latest version of the override that is older than the current version
       # or if no version is older than the requestd one, find the first one.
-      version_match = name: version:
+      version_match =
+        name: version:
         let
           versions_available = lib.attrsets.attrNames (overrides_by_version.${name} or { });
           sorted_versions_available = lib.lists.sort lib.versionOlder versions_available;
