@@ -28,23 +28,22 @@
           else builtins.elemAt sorted_versions_available 0 # what happens if sorted_versions_available is empty?
         )
       else lib.lists.last older_versions;
+
+    helpers = import ./helpers.nix {pkgs = nixpkgs.legacyPackages.x86_64-linux;};
   in {
     formatter = eachSystem (pkgs: treefmtEval.${pkgs.system}.config.build.wrapper);
-    overrides = final: prev:
-      eachSystem (pkgs: let
-        helpers = import ./helpers.nix {inherit pkgs;};
-      in (lib.attrsets.mapAttrs (
-          #todo: how do they get packages?
-          name: available_versions: let
-            matched_version = version_match name prev.${name}.version;
-          in
-            prev.${name}.overridePythonAttrs (
-              available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
-                inherit final prev helpers;
-                #pkgs = nixpkgs;
-              }
-            )
-        )
-        overrides_by_version));
+    overrides = final: prev: (lib.attrsets.mapAttrs (
+        #todo: how do they get packages?
+        name: available_versions: let
+          matched_version = version_match name prev.${name}.version;
+        in
+          prev.${name}.overridePythonAttrs (
+            available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
+              inherit final prev helpers;
+              #pkgs = nixpkgs;
+            }
+          )
+      )
+      overrides_by_version);
   };
 }
