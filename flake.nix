@@ -6,11 +6,13 @@
     nixpkgs,
   }: let
     inherit (nixpkgs) lib;
-    pkgs_with_overrides = let
-      dir_contents = builtins.readDir ./overrides;
+    get_subdirs = dir: let
+      dir_contents = builtins.readDir dir;
       subdirs = lib.attrsets.filterAttrs (key: value: value == "directory") dir_contents;
     in
-      dir_contents; # todo: turn into list?
+      subdirs; # todo: turn into list?
+
+    pkgs_with_overrides = get_subdirs ./overrides;
     # find the latest version of the override that is older than the current version
     # or if no version is older than the requestd one, find the first one.
     version_match = (
@@ -22,7 +24,12 @@
         older_versions = lib.lists.filter (v: lib.versionOlder v version) sorted_versions_available;
       in
         if builtins.length older_versions == 0
-        then builtins.elemAt sorted_versions_available 0 # what happens if sorted_versions_available is empty?
+        then
+          (
+            if builtins.length sorted_versions_available == 0
+            then throw ("No versions available for " + name)
+            else builtins.elemAt sorted_versions_available 0 # what happens if sorted_versions_available is empty?
+          )
         else lib.lists.last older_versions
     );
     helpers = import ./helpers.nix;
@@ -30,18 +37,15 @@
     overrides = final: prev: (lib.attrsets.mapAttrs
       (
         #todo: how do they get packages?
-        name: _ignored:
-          prev.${name}.overridePythonAttrs (import ./overrides/${name}/${version_match name prev.${name}.version}/default.nix {
+        name: _ignored: let
+          matched_version = version_match name prev.${name}.version;
+          path = ./overrides/${name}/${matched_version}/default.nix;
+        in
+          prev.${name}.overridePythonAttrs (import path {
             inherit final prev helpers;
             #pkgs = nixpkgs;
           })
       )
       pkgs_with_overrides);
-    override_files =
-      lib.attrsets.mapAttrs
-      (
-        name: _ignored: ./overrides/${name}/${version_match name "0.4"}/default.nix
-      )
-      pkgs_with_overrides;
   };
 }
