@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.ffmpeg",]
+BuildSystems = [ "cython", "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config",]
