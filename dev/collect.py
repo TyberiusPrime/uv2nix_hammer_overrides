@@ -1,7 +1,9 @@
+#!/usr/bin/env python3
 """Collect all the overwrites into an importable format.
 
 We do this because dynamically building the paths confuses nix and it copies
 the overwrites out of the nix-store-flake-folder into seperate files in the nix store"""
+print("collecting overrides")
 
 from pathlib import Path
 import subprocess

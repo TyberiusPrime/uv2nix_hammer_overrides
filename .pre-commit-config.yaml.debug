@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: regenerate-file
+        name: Regenerate File
+        entry: ./dev/collect.py
+        language: system
+        stages: [commit]
+

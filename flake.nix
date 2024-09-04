@@ -41,7 +41,7 @@
     {
       formatter = eachSystem (pkgs: treefmtEval.${pkgs.system}.config.build.wrapper);
       overrides =
-        final: prev:
+        nixpkgs_pkgs: final: prev:
         (lib.attrsets.mapAttrs (
           #todo: how do they get packages?
           name: available_versions:
@@ -51,9 +51,14 @@
           prev.${name}.overridePythonAttrs (
             available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
               inherit final prev helpers;
-              #pkgs = nixpkgs;
+              pkgs = nixpkgs_pkgs;
             }
           )
         ) overrides_by_version);
+      devShell.x86_64-linux =
+        let
+          pkgs = nixpkgs.legacyPackages.x86_64-linux;
+        in
+        pkgs.mkShell { buildInputs = [ pkgs.pre-commit ]; };
     };
 }
