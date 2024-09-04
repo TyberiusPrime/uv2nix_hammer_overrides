@@ -22,7 +22,9 @@
         let
           versions_available = lib.attrsets.attrNames (overrides_by_version.${name} or { });
           sorted_versions_available = lib.lists.sort lib.versionOlder versions_available;
-          older_versions = lib.lists.filter (v: ((v == version) || (lib.versionOlder v version))) sorted_versions_available;
+          older_versions = lib.lists.filter (
+            v: ((v == version) || (lib.versionOlder v version))
+          ) sorted_versions_available;
         in
         if builtins.length older_versions == 0 then
           (

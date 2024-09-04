@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "meson", "meson-python", "numpy", "versioneer", "wheel",]
+TomlRequiresPatcher = true
