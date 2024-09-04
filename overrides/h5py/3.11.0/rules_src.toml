@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.hdf5",]
+BuildSystems = [ "cython ", "numpy ", "oldest-supported-numpy", "pkgconfig", "setuptools", "setuptools ",]
