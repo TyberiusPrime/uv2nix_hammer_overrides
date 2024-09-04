@@ -1,2 +1,0 @@
-BuildSystems = [ "wheel", "setuptools", "cython_0",]
-TomlRequiresPatcher = true

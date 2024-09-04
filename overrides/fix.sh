@@ -1,0 +1,13 @@
+mv anndata/0.10.9/rules_src.toml anndata/0.10.9/rules.toml
+mv array-api-compat/1.8/rules_src.toml array-api-compat/1.8/rules.toml
+mv h5py/3.11.0/rules_src.toml h5py/3.11.0/rules.toml
+mv natsort/8.4.0/rules_src.toml natsort/8.4.0/rules.toml
+mv numpy/1.24.4/rules_src.toml numpy/1.24.4/rules.toml
+mv numpy/1.24.4/rules_wheel.toml numpy/1.24.4/rules.toml
+mv numpy/2.1.0/rules_src.toml numpy/2.1.0/rules.toml
+mv pandas/2.2.2/rules_src.toml pandas/2.2.2/rules.toml
+mv python-dateutil/2.9.0/rules_src.toml python-dateutil/2.9.0/rules.toml
+mv python-dateutil/2.9.0.post0/rules_src.toml python-dateutil/2.9.0.post0/rules.toml
+mv pytz/2024.1/rules_src.toml pytz/2024.1/rules.toml
+mv six/1.16.0/rules_src.toml six/1.16.0/rules.toml
+mv tzdata/2024.1/rules_src.toml tzdata/2024.1/rules_src.toml
