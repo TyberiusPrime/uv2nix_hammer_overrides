@@ -1,1 +1,2 @@
 BuildSystems = [ "setuptools",]
+VersioneerBitRot = true
