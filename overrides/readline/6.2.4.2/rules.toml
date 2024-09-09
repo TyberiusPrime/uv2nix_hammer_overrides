@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.ncurses",]
+BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:readline/6.2.4.2/default.nix"
