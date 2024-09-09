@@ -1,0 +1,13 @@
+[
+  "dppd",
+  "dppd-plotnine",
+  "i3-instant-layout",
+  "marburg-biobank",
+  "mbf-bam",
+  "mbf-gtf",
+  "mbf-heatmap",
+  "mbf-nested-intervals",
+  "pypipegraph",
+  "pypipegraph2",
+  "solidpython-ff"
+]
