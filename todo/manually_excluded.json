@@ -1,0 +1,8 @@
+{
+  "shove": "requires futures, which is python2 only. Doc says it should work with python3 though",
+  "vyper": "Automatic: infinite recursion encountered",
+  "language-tool-python": "Automatic: infinite recursion encountered",
+  "pyobjc": "pep580 bug, also I don't have a mac",
+  "tensorflow-data-validation": "Automatic: infinite recursion encountered",
+  "pcapy": "AttributeError: module 'distutils.sysconfig' has no attribute '_init_posix'.:"
+}
