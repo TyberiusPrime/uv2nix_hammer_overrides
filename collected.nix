@@ -84,6 +84,9 @@
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
+  dockerpty = {
+    "0.4.1" = import ./overrides/dockerpty/0.4.1;
+  };
   docopt = {
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
@@ -164,6 +167,9 @@
   pyfarmhash = {
     "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
   };
+  pygithub = {
+    "1.45" = import ./overrides/pygithub/1.45;
+  };
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
@@ -195,6 +201,9 @@
   pyudorandom = {
     "1.0.0" = import ./overrides/pyudorandom/1.0.0;
   };
+  pyyaml = {
+    "5.3" = import ./overrides/pyyaml/5.3;
+  };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
@@ -212,6 +221,9 @@
   };
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
+  };
+  svn = {
+    "1.0.1" = import ./overrides/svn/1.0.1;
   };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
