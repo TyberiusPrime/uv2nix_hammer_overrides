@@ -176,6 +176,9 @@
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
+  pystemd = {
+    "0.13.2" = import ./overrides/pystemd/0.13.2;
+  };
   python-axolotl-curve25519 = {
     "0.4.1.post2" = import ./overrides/python-axolotl-curve25519/0.4.1.post2;
   };
