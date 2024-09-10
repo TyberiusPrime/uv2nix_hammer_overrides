@@ -153,6 +153,9 @@
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
+  flatbencode = {
+    "0.2.1" = import ./overrides/flatbencode/0.2.1;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
