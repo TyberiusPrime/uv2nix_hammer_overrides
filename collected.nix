@@ -80,6 +80,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  cs-ansi-colour = {
+    "20220227" = import ./overrides/cs-ansi-colour/20220227;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
