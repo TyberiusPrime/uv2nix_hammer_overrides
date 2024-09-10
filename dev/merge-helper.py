@@ -2,10 +2,12 @@ import subprocess
 import shutil
 from pathlib import Path
 
-
-available = [x for x in Path("../builds/").glob("hammer_build*") if x.is_dir() and (x / 'build' / 'result').exists()]
+found = list(Path("../builds/").glob("hammer_build*"))
+available = [x for x in found if x.is_dir() and (x / 'build' / 'result').exists()]
 if not available:
     print("No hammer_build* directories found")
+    print("Found without build result:")
+    print(found)
     exit(1)
 
 # if len(available) > 1:

@@ -24,7 +24,7 @@ done = [
 ]
 done = set([x.split("_")[2] for x in done])
 imported_done = set([
-    x.name
+    x.name.split("_")[3]
     for x in Path(".").glob("imported_hammer_build*")
     if (x / "build" / "result").exists()
 ])
@@ -51,6 +51,10 @@ while True:
     stdout, stderr = p.communicate()
     stderr = stderr.decode()
     if p.returncode != 0:
+        if "No non-pre release found" in stderr:
+            excluded_pkgs[chosen] = "Automatic: no (non-pre) release found"
+            write_excluded_pkgs()
+            continue
         run_0 = list(Path('.').glob(f'hammer_build_{chosen}_*'))[0] / "build/run_0.log"
         if run_0.exists():
             r0 = run_0.read_text()
@@ -67,4 +71,5 @@ while True:
         print("return code was not 0")
         sys.stdout.write(stdout.decode('utf-8'))
         sys.stdout.write(stderr)
-        sys.exit(1)
+        if not '--keep-going' in sys.argv:
+            sys.exit(1)

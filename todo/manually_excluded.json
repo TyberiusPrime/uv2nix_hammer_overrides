@@ -4,5 +4,10 @@
   "language-tool-python": "Automatic: infinite recursion encountered",
   "pyobjc": "pep580 bug, also I don't have a mac",
   "tensorflow-data-validation": "Automatic: infinite recursion encountered",
-  "pcapy": "AttributeError: module 'distutils.sysconfig' has no attribute '_init_posix'.:"
+  "pcapy": "AttributeError: module 'distutils.sysconfig' has no attribute '_init_posix'.:",
+  "toggl-cli": "assert match fail in installer/utils.py",
+  "pyslurm": "todo: old version on pypi, github has newer",
+  "r3sponse": "ImportError: cannot import name 'Sequence' from 'collections'",
+  "micropython-os": "Micropython module, not for cpython",
+  "sqlalchemy2-stubs": "Automatic: no (non-pre) release found"
 }
