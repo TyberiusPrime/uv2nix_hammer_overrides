@@ -204,6 +204,9 @@
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
+  rpi-gpio = {
+    "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
@@ -212,6 +215,9 @@
   };
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
+  };
+  spidev = {
+    "3.6" = import ./overrides/spidev/3.6;
   };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
