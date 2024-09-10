@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  ligo-segments = {
+    "1.4.0" = import ./overrides/ligo-segments/1.4.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
@@ -305,6 +308,9 @@
   };
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
+  };
+  python-ligo-lw = {
+    "1.8.3" = import ./overrides/python-ligo-lw/1.8.3;
   };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
