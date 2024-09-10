@@ -130,6 +130,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  lucene-querybuilder = {
+    "0.2" = import ./overrides/lucene-querybuilder/0.2;
+  };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
