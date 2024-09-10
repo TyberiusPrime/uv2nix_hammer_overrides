@@ -190,6 +190,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  markuppy = {
+    "1.14" = import ./overrides/markuppy/1.14;
+  };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
