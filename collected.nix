@@ -239,6 +239,9 @@
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
+  pandoc = {
+    "2.4" = import ./overrides/pandoc/2.4;
+  };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
