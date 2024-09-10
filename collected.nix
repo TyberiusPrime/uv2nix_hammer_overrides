@@ -399,6 +399,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  vmtools = {
+    "0.45" = import ./overrides/vmtools/0.45;
+  };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
