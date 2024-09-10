@@ -105,6 +105,9 @@
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
+  django-staticfiles = {
+    "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
+  };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
