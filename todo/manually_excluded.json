@@ -8,6 +8,20 @@
   "toggl-cli": "assert match fail in installer/utils.py",
   "pyslurm": "todo: old version on pypi, github has newer",
   "r3sponse": "ImportError: cannot import name 'Sequence' from 'collections'",
+  "rows": "ImportError: cannot import name 'Sequence' from 'collections'",
   "micropython-os": "Micropython module, not for cpython",
-  "sqlalchemy2-stubs": "Automatic: no (non-pre) release found"
+  "fsleyes-widgets": "todo wxpython",
+  "sqlalchemy2-stubs": "Automatic: no (non-pre) release found",
+  "llama-index-llms-openai-like": "Automatic: infinite recursion encountered",
+  "th2-grpc-common": "cpp error",
+  "archetypes.markerfield": "ValueError: Archetypes is Python 2 only.",
+  "bert-for-tf2": "uv lock failure",
+  "proton-vpn-network-manager-openvpn": "Automatic: no releases available",
+  "products.linguaplone": "Automatic: infinite recursion encountered",
+  "dbt": "Tries to download go binary? Could probably be fixed",
+  "python-efl": "Todo: nixpkgs derivation is complex",
+  "z3c.formjs": "Requires ptyhon-cjson, that appears to be python2 only",
+  "pulpcore-plugin": "not on pypi?",
+  "apache-airflow-providers-imap": "Automatic: infinite recursion encountered",
+  "ward": "Automatic: no (non-pre) release found"
 }

@@ -1,4 +1,5 @@
 import subprocess
+import os
 import shutil
 from pathlib import Path
 
@@ -30,5 +31,8 @@ for chosen in available:
         print('Conflict exists')
         subprocess.run(["./dev/collect.py"])
         subprocess.run(["git", "add", "collected.nix"])
-        subprocess.check_call(["git", "merge", "--continue"])
+        env = os.environ.copy()
+        env['GIT_MERGE_AUTOEDIT'] = 'no'
+        subprocess.check_call(["git", "merge", "--continue"],
+                              env = env)
     shutil.move(chosen, chosen.with_name("imported_" + chosen.name))
