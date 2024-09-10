@@ -213,6 +213,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  strict-functions = {
+    "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
+  };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
