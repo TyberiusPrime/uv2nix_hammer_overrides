@@ -173,6 +173,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  pycairo = {
+    "1.27.0" = import ./overrides/pycairo/1.27.0;
+  };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
@@ -181,6 +184,9 @@
   };
   pyfarmhash = {
     "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
+  };
+  pygobject = {
+    "3.48.2" = import ./overrides/pygobject/3.48.2;
   };
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
