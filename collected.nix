@@ -153,6 +153,9 @@
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
+  ftputil = {
+    "5.1.0" = import ./overrides/ftputil/5.1.0;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
