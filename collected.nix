@@ -399,11 +399,17 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  wavedrom = {
+    "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
+  };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
+  };
+  xcffib = {
+    "1.5.0" = import ./overrides/xcffib/1.5.0;
   };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
