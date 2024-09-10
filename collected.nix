@@ -387,6 +387,9 @@
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
   };
+  unqlite = {
+    "0.9.6" = import ./overrides/unqlite/0.9.6;
+  };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
