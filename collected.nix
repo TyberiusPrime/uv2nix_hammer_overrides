@@ -226,6 +226,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  naturalsort = {
+    "1.5.1" = import ./overrides/naturalsort/1.5.1;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
