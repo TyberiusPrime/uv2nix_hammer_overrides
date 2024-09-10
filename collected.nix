@@ -53,6 +53,9 @@
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
   };
+  astroplan = {
+    "0.9.1" = import ./overrides/astroplan/0.9.1;
+  };
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
@@ -344,6 +347,9 @@
   };
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
+  };
+  slixmpp = {
+    "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
