@@ -287,6 +287,9 @@
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
+  pyppeteer = {
+    "0.0.25" = import ./overrides/pyppeteer/0.0.25;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
@@ -335,6 +338,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  sgmllib3k = {
+    "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
