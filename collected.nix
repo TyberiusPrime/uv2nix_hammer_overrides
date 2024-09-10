@@ -169,6 +169,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  grpclib = {
+    "0.4.7" = import ./overrides/grpclib/0.4.7;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
