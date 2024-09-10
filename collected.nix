@@ -29,6 +29,9 @@
   ansible = {
     "10.3.0" = import ./overrides/ansible/10.3.0;
   };
+  antlr4-python3-runtime = {
+    "4.9.3" = import ./overrides/antlr4-python3-runtime/4.9.3;
+  };
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
@@ -76,6 +79,9 @@
   };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
+  };
+  cpe = {
+    "1.3.0" = import ./overrides/cpe/1.3.0;
   };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
