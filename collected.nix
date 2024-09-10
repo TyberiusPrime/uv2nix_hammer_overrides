@@ -226,6 +226,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  neobolt = {
+    "1.7.17" = import ./overrides/neobolt/1.7.17;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
