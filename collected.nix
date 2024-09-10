@@ -330,6 +330,9 @@
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
+  robotframework-pabot = {
+    "2.18.0" = import ./overrides/robotframework-pabot/2.18.0;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
