@@ -133,6 +133,9 @@
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
+  nanohttp = {
+    "1.11.10" = import ./overrides/nanohttp/1.11.10;
+  };
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
@@ -169,6 +172,9 @@
   };
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
+  };
+  pymlconf = {
+    "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
