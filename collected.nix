@@ -196,6 +196,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  lucene-querybuilder = {
+    "0.2" = import ./overrides/lucene-querybuilder/0.2;
+  };
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
