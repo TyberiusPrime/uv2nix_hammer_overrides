@@ -74,6 +74,9 @@
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
+  dkist-header-validator = {
+    "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
+  };
   docopt = {
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
