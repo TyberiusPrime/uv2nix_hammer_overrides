@@ -41,6 +41,9 @@
   array-api-compat = {
     "1.8" = import ./overrides/array-api-compat/1.8;
   };
+  asciitree = {
+    "0.3.3" = import ./overrides/asciitree/0.3.3;
+  };
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
   };
