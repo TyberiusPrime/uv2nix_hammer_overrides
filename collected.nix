@@ -53,6 +53,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  bravado-core = {
+    "6.1.1" = import ./overrides/bravado-core/6.1.1;
+  };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
