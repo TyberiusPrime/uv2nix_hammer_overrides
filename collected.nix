@@ -254,6 +254,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  pyaes = {
+    "1.6.1" = import ./overrides/pyaes/1.6.1;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
@@ -365,6 +368,9 @@
   };
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
+  };
+  telethon = {
+    "1.36.0" = import ./overrides/telethon/1.36.0;
   };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
