@@ -74,6 +74,21 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  dada-serde = {
+    "0.0.9" = import ./overrides/dada-serde/0.0.9;
+  };
+  dada-settings = {
+    "0.0.9" = import ./overrides/dada-settings/0.0.9;
+  };
+  dada-text = {
+    "0.0.9" = import ./overrides/dada-text/0.0.9;
+  };
+  dada-types = {
+    "0.0.9" = import ./overrides/dada-types/0.0.9;
+  };
+  dada-utils = {
+    "0.0.9" = import ./overrides/dada-utils/0.0.9;
+  };
   dill = {
     "0.2.9" = import ./overrides/dill/0.2.9;
     "0.3.1.1" = import ./overrides/dill/0.3.1.1;
