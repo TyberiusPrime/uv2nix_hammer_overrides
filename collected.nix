@@ -194,6 +194,9 @@
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
+  pycatch22 = {
+    "0.4.5" = import ./overrides/pycatch22/0.4.5;
+  };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
