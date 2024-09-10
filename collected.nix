@@ -133,6 +133,9 @@
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
+  mutesync = {
+    "0.0.2" = import ./overrides/mutesync/0.0.2;
+  };
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
