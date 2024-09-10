@@ -234,6 +234,9 @@
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
+  python-iptables = {
+    "1.0.1" = import ./overrides/python-iptables/1.0.1;
+  };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
