@@ -284,6 +284,9 @@
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
+  pypdf3 = {
+    "1.0.6" = import ./overrides/pypdf3/1.0.6;
+  };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
