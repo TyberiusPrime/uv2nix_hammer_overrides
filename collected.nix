@@ -254,6 +254,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  pyactiveresource = {
+    "2.2.2" = import ./overrides/pyactiveresource/2.2.2;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
@@ -335,6 +338,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  shopifyapi = {
+    "12.6.0" = import ./overrides/shopifyapi/12.6.0;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
