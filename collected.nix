@@ -166,6 +166,9 @@
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
+  http3 = {
+    "0.6.7" = import ./overrides/http3/0.6.7;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
