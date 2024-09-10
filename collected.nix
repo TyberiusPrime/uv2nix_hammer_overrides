@@ -176,6 +176,9 @@
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
+  rpcq = {
+    "3.11.0" = import ./overrides/rpcq/3.11.0;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
