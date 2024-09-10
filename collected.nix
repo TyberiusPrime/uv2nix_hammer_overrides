@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  limitlessled = {
+    "1.1.3" = import ./overrides/limitlessled/1.1.3;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
