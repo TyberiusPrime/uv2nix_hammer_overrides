@@ -96,6 +96,15 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  flask-kvsession-invenio = {
+    "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
+  };
+  flask-mail = {
+    "0.9.1" = import ./overrides/flask-mail/0.9.1;
+  };
+  flask-principal = {
+    "0.4.0" = import ./overrides/flask-principal/0.4.0;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
@@ -124,6 +133,9 @@
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
+  jsmin = {
+    "3.0.1" = import ./overrides/jsmin/3.0.1;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
@@ -132,6 +144,9 @@
   };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
+  };
+  maxminddb-geolite2 = {
+    "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
@@ -212,6 +227,9 @@
   };
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
+  };
+  speaklater = {
+    "1.3" = import ./overrides/speaklater/1.3;
   };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
