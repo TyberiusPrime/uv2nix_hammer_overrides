@@ -405,6 +405,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  xapp = {
+    "0.0.1" = import ./overrides/xapp/0.0.1;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
