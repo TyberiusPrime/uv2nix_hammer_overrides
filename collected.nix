@@ -78,8 +78,17 @@
     "0.2.9" = import ./overrides/dill/0.2.9;
     "0.3.1.1" = import ./overrides/dill/0.3.1.1;
   };
+  dimagi-utils = {
+    "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
+  };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
+  };
+  django-devserver = {
+    "0.8.0" = import ./overrides/django-devserver/0.8.0;
+  };
+  django-redis = {
+    "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
@@ -124,6 +133,9 @@
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
+  jsonobject = {
+    "2.2.0" = import ./overrides/jsonobject/2.2.0;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
@@ -132,6 +144,9 @@
   };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
+  };
+  msgpack-python = {
+    "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
