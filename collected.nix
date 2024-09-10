@@ -226,6 +226,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  ndms2-client = {
+    "0.1.3" = import ./overrides/ndms2-client/0.1.3;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
