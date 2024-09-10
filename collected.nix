@@ -252,6 +252,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  weakrefmethod = {
+    "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
