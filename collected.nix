@@ -212,6 +212,9 @@
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
   };
+  upyun = {
+    "2.5.5" = import ./overrides/upyun/2.5.5;
+  };
   urwid-readline = {
     "0.14" = import ./overrides/urwid-readline/0.14;
   };
