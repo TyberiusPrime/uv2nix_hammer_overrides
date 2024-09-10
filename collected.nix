@@ -32,6 +32,9 @@
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
+  arc4 = {
+    "0.4.0" = import ./overrides/arc4/0.4.0;
+  };
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
@@ -43,6 +46,9 @@
   };
   asciitree = {
     "0.3.3" = import ./overrides/asciitree/0.3.3;
+  };
+  asn1tools = {
+    "0.167.0" = import ./overrides/asn1tools/0.167.0;
   };
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
