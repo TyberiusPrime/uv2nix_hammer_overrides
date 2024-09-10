@@ -351,6 +351,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  weakrefmethod = {
+    "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
+  };
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
