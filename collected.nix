@@ -11,6 +11,9 @@
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
+  affinity = {
+    "0.1.0" = import ./overrides/affinity/0.1.0;
+  };
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
