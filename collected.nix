@@ -207,6 +207,9 @@
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
+  python-ntlm = {
+    "1.1.0" = import ./overrides/python-ntlm/1.1.0;
+  };
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
