@@ -74,6 +74,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  cloud-compose = {
+    "0.4.1" = import ./overrides/cloud-compose/0.4.1;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
