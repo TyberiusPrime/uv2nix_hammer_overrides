@@ -375,6 +375,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  trueskill = {
+    "0.4.5" = import ./overrides/trueskill/0.4.5;
+  };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
   };
