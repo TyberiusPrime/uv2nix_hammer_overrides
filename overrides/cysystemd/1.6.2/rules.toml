@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.systemd",]
+BuildSystems = [ "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config",]

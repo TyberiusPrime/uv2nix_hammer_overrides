@@ -71,6 +71,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  cysystemd = {
+    "1.6.2" = import ./overrides/cysystemd/1.6.2;
+  };
   dill = {
     "0.2.9" = import ./overrides/dill/0.2.9;
     "0.3.1.1" = import ./overrides/dill/0.3.1.1;
