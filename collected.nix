@@ -236,6 +236,9 @@
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
+  opuslib = {
+    "3.0.1" = import ./overrides/opuslib/3.0.1;
+  };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
