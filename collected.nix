@@ -181,6 +181,9 @@
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
+  ioctl-opt = {
+    "1.3" = import ./overrides/ioctl-opt/1.3;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
