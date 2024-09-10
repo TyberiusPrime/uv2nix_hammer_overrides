@@ -193,6 +193,9 @@
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
+  mutesync = {
+    "0.0.2" = import ./overrides/mutesync/0.0.2;
+  };
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
