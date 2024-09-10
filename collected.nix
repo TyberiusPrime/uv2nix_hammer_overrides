@@ -342,6 +342,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  webbot = {
+    "0.34" = import ./overrides/webbot/0.34;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
