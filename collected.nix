@@ -68,8 +68,12 @@
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
+  crcmod = {
+    "1.7" = import ./overrides/crcmod/1.7;
+  };
   dill = {
     "0.2.9" = import ./overrides/dill/0.2.9;
+    "0.3.1.1" = import ./overrides/dill/0.3.1.1;
   };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
@@ -102,8 +106,14 @@
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
+  google-apitools = {
+    "0.5.31" = import ./overrides/google-apitools/0.5.31;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
+  };
+  hdfs = {
+    "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
@@ -148,8 +158,14 @@
   pyfakewebcam = {
     "0.1.0" = import ./overrides/pyfakewebcam/0.1.0;
   };
+  pyfarmhash = {
+    "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
+  };
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
+  };
+  pyjsparser = {
+    "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
@@ -202,6 +218,9 @@
   };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
+  };
+  tensorflow-io-gcs-filesystem = {
+    "0.37.1" = import ./overrides/tensorflow-io-gcs-filesystem/0.37.1;
   };
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
