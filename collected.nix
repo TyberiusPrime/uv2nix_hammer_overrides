@@ -184,6 +184,9 @@
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
+  inflection = {
+    "0.3.1" = import ./overrides/inflection/0.3.1;
+  };
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
@@ -323,6 +326,9 @@
   };
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
+  };
+  qds-sdk = {
+    "1.16.1" = import ./overrides/qds-sdk/1.16.1;
   };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
