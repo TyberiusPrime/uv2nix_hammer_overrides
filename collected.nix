@@ -80,6 +80,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  customerio = {
+    "2.1" = import ./overrides/customerio/2.1;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
