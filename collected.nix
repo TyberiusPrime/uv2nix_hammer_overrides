@@ -2,6 +2,9 @@
   accumulation-tree = {
     "0.6.2" = import ./overrides/accumulation-tree/0.6.2;
   };
+  acor = {
+    "1.1.1" = import ./overrides/acor/1.1.1;
+  };
   adapt-parser = {
     "1.0.0" = import ./overrides/adapt-parser/1.0.0;
   };
