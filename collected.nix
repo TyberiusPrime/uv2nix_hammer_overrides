@@ -121,6 +121,9 @@
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
+  ioctl-opt = {
+    "1.3" = import ./overrides/ioctl-opt/1.3;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
