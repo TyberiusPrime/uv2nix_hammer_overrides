@@ -327,6 +327,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  rencode = {
+    "1.0.6" = import ./overrides/rencode/1.0.6;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
