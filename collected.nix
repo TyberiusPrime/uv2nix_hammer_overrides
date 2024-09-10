@@ -29,6 +29,9 @@
   ansible = {
     "10.3.0" = import ./overrides/ansible/10.3.0;
   };
+  apiclient = {
+    "1.0.4" = import ./overrides/apiclient/1.0.4;
+  };
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
