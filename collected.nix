@@ -117,6 +117,9 @@
   dm-reuse = {
     "2.2" = import ./overrides/dm-reuse/2.2;
   };
+  dockerpty = {
+    "0.4.1" = import ./overrides/dockerpty/0.4.1;
+  };
   docopt = {
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
@@ -242,6 +245,9 @@
   pyfarmhash = {
     "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
   };
+  pygithub = {
+    "1.45" = import ./overrides/pygithub/1.45;
+  };
   pygobject = {
     "3.48.2" = import ./overrides/pygobject/3.48.2;
   };
@@ -288,6 +294,9 @@
   pyxdameraulevenshtein = {
     "1.8.0" = import ./overrides/pyxdameraulevenshtein/1.8.0;
   };
+  pyyaml = {
+    "5.3" = import ./overrides/pyyaml/5.3;
+  };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
@@ -320,6 +329,9 @@
   };
   strict-functions = {
     "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
+  };
+  svn = {
+    "1.0.1" = import ./overrides/svn/1.0.1;
   };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
