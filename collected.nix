@@ -405,6 +405,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  wiringpi = {
+    "2.60.1" = import ./overrides/wiringpi/2.60.1;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
