@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  lightwave2 = {
+    "0.8.23" = import ./overrides/lightwave2/0.8.23;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
