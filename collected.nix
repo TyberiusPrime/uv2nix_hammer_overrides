@@ -212,6 +212,9 @@
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
+  progressbar33 = {
+    "2.4" = import ./overrides/progressbar33/2.4;
+  };
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
