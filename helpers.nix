@@ -1,4 +1,4 @@
-{pkgs}: {
+{pkgs}: rec {
   bi = newBuildInputs: old: {buildInputs = (old.buildInputs or []) ++ newBuildInputs;};
   nbi = newNativeBuildInputs: old: {
     nativeBuildInputs = (old.nativeBuildInputsor []) ++ newNativeBuildInputs;
@@ -32,7 +32,10 @@
 
       tomlkit.dump(input, open(filename, "w"))
     '';
+  notNull = x: !(builtins.isNull x);
+
   removePackagesByName = packages: packagesToRemove: let
+    lib = pkgs.lib;
     namesToRemove = map lib.getName (lib.filter notNull packagesToRemove);
   in
     lib.filter (x: !(builtins.elem (lib.getName x) namesToRemove)) packages;
