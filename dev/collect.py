@@ -53,7 +53,7 @@ def main():
         nested[pkg][ver] = nix_literal("import ./" + str(default_nix.parent))
 
     Path("collected.nix").write_text(nix_format(nested))
-    subprocess.check_call(["nix", "fmt"])
+    subprocess.check_call(["nix", "fmt", "collected.nix"])
 
 
 if __name__ == "__main__":
