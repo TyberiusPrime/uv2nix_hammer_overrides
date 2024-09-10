@@ -136,6 +136,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  nimporter = {
+    "2.0.0" = import ./overrides/nimporter/2.0.0;
+  };
   numpy = {
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
