@@ -243,6 +243,9 @@
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
+  straight-plugin = {
+    "1.5.0" = import ./overrides/straight-plugin/1.5.0;
+  };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
