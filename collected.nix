@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  lazy-string = {
+    "1.0.0" = import ./overrides/lazy-string/1.0.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
@@ -398,6 +401,9 @@
   };
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
+  };
+  verboselib = {
+    "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
