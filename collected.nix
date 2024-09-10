@@ -254,6 +254,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  pybars3 = {
+    "0.9.7" = import ./overrides/pybars3/0.9.7;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
@@ -280,6 +283,9 @@
   };
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
+  };
+  pymeta3 = {
+    "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
