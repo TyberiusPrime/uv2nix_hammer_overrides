@@ -213,6 +213,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  straight-plugin = {
+    "1.5.0" = import ./overrides/straight-plugin/1.5.0;
+  };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
