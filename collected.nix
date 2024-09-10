@@ -11,6 +11,9 @@
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
+  aiocqhttp = {
+    "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
+  };
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
@@ -228,6 +231,9 @@
   };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
+  };
+  nonebot = {
+    "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
   numba = {
     "0.60.0" = import ./overrides/numba/0.60.0;
