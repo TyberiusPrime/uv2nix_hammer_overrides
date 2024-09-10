@@ -138,6 +138,9 @@
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
+  fire = {
+    "0.6.0" = import ./overrides/fire/0.6.0;
+  };
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
