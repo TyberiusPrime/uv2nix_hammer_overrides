@@ -74,6 +74,24 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  cloudshell-automation-api = {
+    "8.3.0.168355" = import ./overrides/cloudshell-automation-api/8.3.0.168355;
+  };
+  cloudshell-cli = {
+    "3.3.3" = import ./overrides/cloudshell-cli/3.3.3;
+  };
+  cloudshell-core = {
+    "2.2.180" = import ./overrides/cloudshell-core/2.2.180;
+  };
+  cloudshell-networking-devices = {
+    "2.8.0" = import ./overrides/cloudshell-networking-devices/2.8.0;
+  };
+  cloudshell-shell-core = {
+    "4.0.242" = import ./overrides/cloudshell-shell-core/4.0.242;
+  };
+  cloudshell-snmp = {
+    "3.3.0" = import ./overrides/cloudshell-snmp/3.3.0;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
@@ -187,6 +205,9 @@
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
+  ipcalc = {
+    "1.1.3" = import ./overrides/ipcalc/1.1.3;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
@@ -195,6 +216,9 @@
   };
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
+  };
+  jsonpickle = {
+    "0.9.3" = import ./overrides/jsonpickle/0.9.3;
   };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
@@ -259,6 +283,12 @@
   };
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
+  };
+  pycrypto = {
+    "2.6.1" = import ./overrides/pycrypto/2.6.1;
+  };
+  pycryptodome = {
+    "3.4.7" = import ./overrides/pycryptodome/3.4.7;
   };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
@@ -335,6 +365,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  scpclient = {
+    "0.7" = import ./overrides/scpclient/0.7;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
