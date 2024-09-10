@@ -93,6 +93,9 @@
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
+  dm-reuse = {
+    "2.2" = import ./overrides/dm-reuse/2.2;
+  };
   docopt = {
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
