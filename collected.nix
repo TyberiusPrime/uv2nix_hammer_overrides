@@ -184,6 +184,9 @@
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
+  img2pdf = {
+    "0.5.1" = import ./overrides/img2pdf/0.5.1;
+  };
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
