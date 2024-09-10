@@ -236,6 +236,12 @@
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
+  openpaperwork-core = {
+    "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
+  };
+  openpaperwork-gtk = {
+    "2.2.5" = import ./overrides/openpaperwork-gtk/2.2.5;
+  };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
