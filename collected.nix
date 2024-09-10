@@ -196,6 +196,9 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  jsonpath-rw = {
+    "1.4.0" = import ./overrides/jsonpath-rw/1.4.0;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
