@@ -351,6 +351,9 @@
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
+  sqlitedict = {
+    "2.1.0" = import ./overrides/sqlitedict/2.1.0;
+  };
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
