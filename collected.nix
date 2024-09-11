@@ -214,6 +214,12 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  mozdevice = {
+    "4.1.2" = import ./overrides/mozdevice/4.1.2;
+  };
+  mozlog = {
+    "8.0.0" = import ./overrides/mozlog/8.0.0;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
