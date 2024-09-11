@@ -169,6 +169,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  h2o = {
+    "3.46.0.5" = import ./overrides/h2o/3.46.0.5;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
