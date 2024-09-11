@@ -38,6 +38,9 @@
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
+  args = {
+    "0.1.0" = import ./overrides/args/0.1.0;
+  };
   arpeggio = {
     "2.0.2" = import ./overrides/arpeggio/2.0.2;
   };
@@ -70,6 +73,9 @@
   };
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
+  };
+  clint = {
+    "0.5.1" = import ./overrides/clint/0.5.1;
   };
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
