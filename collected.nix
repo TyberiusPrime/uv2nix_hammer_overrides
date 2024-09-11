@@ -169,6 +169,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  graphql-server-core = {
+    "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
@@ -335,6 +338,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  rx = {
+    "1.6.3" = import ./overrides/rx/1.6.3;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
