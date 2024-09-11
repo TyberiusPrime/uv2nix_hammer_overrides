@@ -312,6 +312,9 @@
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
+  python-wink = {
+    "1.10.5" = import ./overrides/python-wink/1.10.5;
+  };
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
