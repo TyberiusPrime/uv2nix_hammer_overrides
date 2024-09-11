@@ -29,6 +29,9 @@
   ansible = {
     "10.3.0" = import ./overrides/ansible/10.3.0;
   };
+  antlr4-python3-runtime = {
+    "4.9.3" = import ./overrides/antlr4-python3-runtime/4.9.3;
+  };
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
@@ -323,6 +326,7 @@
   };
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
+    "6.0" = import ./overrides/pyyaml/6.0;
   };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
