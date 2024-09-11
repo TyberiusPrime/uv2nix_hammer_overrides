@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  linear-tsv = {
+    "1.1.0" = import ./overrides/linear-tsv/1.1.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
