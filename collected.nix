@@ -132,6 +132,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  emport = {
+    "1.3.1" = import ./overrides/emport/1.3.1;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
@@ -183,6 +186,9 @@
   };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
+  };
+  infi-pyutils = {
+    "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
