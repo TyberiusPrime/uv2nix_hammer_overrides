@@ -375,14 +375,23 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  twitter-common-contextutil = {
+    "0.3.11" = import ./overrides/twitter-common-contextutil/0.3.11;
+  };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
+  };
+  twitter-common-dirutil = {
+    "0.3.11" = import ./overrides/twitter-common-dirutil/0.3.11;
   };
   twitter-common-exceptions = {
     "0.3.11" = import ./overrides/twitter-common-exceptions/0.3.11;
   };
   twitter-common-lang = {
     "0.3.11" = import ./overrides/twitter-common-lang/0.3.11;
+  };
+  twitter-common-util = {
+    "0.3.11" = import ./overrides/twitter-common-util/0.3.11;
   };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
