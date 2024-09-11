@@ -160,6 +160,12 @@
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
   };
+  gaebusiness = {
+    "4.5.3" = import ./overrides/gaebusiness/4.5.3;
+  };
+  gaeforms = {
+    "0.21" = import ./overrides/gaeforms/0.21;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
