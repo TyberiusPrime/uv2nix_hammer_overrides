@@ -405,6 +405,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  winshell = {
+    "0.6" = import ./overrides/winshell/0.6;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
