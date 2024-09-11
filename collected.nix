@@ -278,6 +278,9 @@
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
+  pyiceberg = {
+    "0.7.1" = import ./overrides/pyiceberg/0.7.1;
+  };
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
