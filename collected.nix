@@ -62,6 +62,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  beaker = {
+    "1.13.0" = import ./overrides/beaker/1.13.0;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
@@ -138,6 +141,9 @@
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
+  filedepot = {
+    "0.11.0" = import ./overrides/filedepot/0.11.0;
+  };
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
@@ -198,6 +204,9 @@
   };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
+  };
+  kotti = {
+    "2.0.9" = import ./overrides/kotti/2.0.9;
   };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
