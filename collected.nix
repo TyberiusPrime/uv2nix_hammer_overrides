@@ -248,6 +248,9 @@
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
+  progress = {
+    "1.6" = import ./overrides/progress/1.6;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
@@ -365,6 +368,12 @@
   };
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
+  };
+  tendril-utils-core = {
+    "0.5.20" = import ./overrides/tendril-utils-core/0.5.20;
+  };
+  tendril-utils-fsutils = {
+    "0.3.0" = import ./overrides/tendril-utils-fsutils/0.3.0;
   };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
