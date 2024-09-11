@@ -53,6 +53,9 @@
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
   };
+  astutils = {
+    "0.0.6" = import ./overrides/astutils/0.0.6;
+  };
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
