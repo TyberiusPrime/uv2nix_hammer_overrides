@@ -172,6 +172,9 @@
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
+  h5pyd = {
+    "0.18.0" = import ./overrides/h5pyd/0.18.0;
+  };
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
