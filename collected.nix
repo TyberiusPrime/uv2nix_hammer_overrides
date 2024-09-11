@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  lifxlan = {
+    "1.2.7" = import ./overrides/lifxlan/1.2.7;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
