@@ -160,6 +160,9 @@
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
   };
+  gcs-oauth2-boto-plugin = {
+    "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
@@ -315,6 +318,9 @@
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
+  pyu2f = {
+    "0.1.5" = import ./overrides/pyu2f/0.1.5;
+  };
   pyudorandom = {
     "1.0.0" = import ./overrides/pyudorandom/1.0.0;
   };
@@ -329,6 +335,9 @@
   };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
+  };
+  retry-decorator = {
+    "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
