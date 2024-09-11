@@ -287,6 +287,9 @@
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
+  pyschedule = {
+    "0.2.34" = import ./overrides/pyschedule/0.2.34;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
