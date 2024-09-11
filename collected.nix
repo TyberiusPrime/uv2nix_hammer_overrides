@@ -71,6 +71,9 @@
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
   };
+  chiki-base = {
+    "0.0.3" = import ./overrides/chiki-base/0.0.3;
+  };
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
@@ -144,8 +147,14 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  flask = {
+    "0.10.1" = import ./overrides/flask/0.10.1;
+  };
   flask-kvsession-invenio = {
     "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
+  };
+  flask-login = {
+    "0.2.11" = import ./overrides/flask-login/0.2.11;
   };
   flask-mail = {
     "0.9.1" = import ./overrides/flask-mail/0.9.1;
