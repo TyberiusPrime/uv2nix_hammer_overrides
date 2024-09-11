@@ -169,6 +169,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  gpsd-py3 = {
+    "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
