@@ -132,6 +132,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  edalize = {
+    "0.5.4" = import ./overrides/edalize/0.5.4;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
