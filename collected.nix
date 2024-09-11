@@ -309,6 +309,9 @@
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
+  python-oauth2 = {
+    "1.1.1" = import ./overrides/python-oauth2/1.1.1;
+  };
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
