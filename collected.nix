@@ -144,6 +144,9 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  flask-jsonpify = {
+    "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
+  };
   flask-kvsession-invenio = {
     "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
   };
