@@ -205,6 +205,9 @@
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
+  m-caching = {
+    "0.1.15" = import ./overrides/m-caching/0.1.15;
+  };
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
