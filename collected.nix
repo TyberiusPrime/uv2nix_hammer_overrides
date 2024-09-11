@@ -153,6 +153,9 @@
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
+  flask-restless = {
+    "0.17.0" = import ./overrides/flask-restless/0.17.0;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
@@ -213,6 +216,9 @@
   };
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
+  };
+  mimerender = {
+    "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
