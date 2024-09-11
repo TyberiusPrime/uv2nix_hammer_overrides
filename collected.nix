@@ -105,6 +105,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  django-autocomplete-light = {
+    "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
+  };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
