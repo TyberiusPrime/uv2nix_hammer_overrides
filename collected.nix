@@ -38,6 +38,9 @@
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
+  args = {
+    "0.1.0" = import ./overrides/args/0.1.0;
+  };
   arpeggio = {
     "2.0.2" = import ./overrides/arpeggio/2.0.2;
   };
@@ -70,6 +73,9 @@
   };
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
+  };
+  clint = {
+    "0.5.1" = import ./overrides/clint/0.5.1;
   };
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
@@ -131,6 +137,9 @@
   };
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
+  };
+  etgen = {
+    "1.1.4" = import ./overrides/etgen/1.1.4;
   };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
@@ -199,6 +208,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  lino = {
+    "24.9.0" = import ./overrides/lino/24.9.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
@@ -235,6 +247,9 @@
   numpy = {
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
+  };
+  odfpy = {
+    "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
@@ -312,6 +327,9 @@
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
+  pytidylib = {
+    "0.3.2" = import ./overrides/pytidylib/0.3.2;
+  };
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
@@ -335,6 +353,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  rstgen = {
+    "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
@@ -386,6 +407,9 @@
   };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
+  };
+  unipath = {
+    "1.1" = import ./overrides/unipath/1.1;
   };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
