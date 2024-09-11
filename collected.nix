@@ -153,6 +153,9 @@
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
+  fortranformat = {
+    "2.0.0" = import ./overrides/fortranformat/2.0.0;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
