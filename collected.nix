@@ -226,6 +226,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  ng-adapter = {
+    "0.2.1" = import ./overrides/ng-adapter/0.2.1;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
@@ -238,6 +241,9 @@
   };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
+  };
+  pd-lib = {
+    "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
