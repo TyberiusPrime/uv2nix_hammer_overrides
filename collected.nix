@@ -236,6 +236,12 @@
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
+  nvidia-cusolver-cu12 = {
+    "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
+  };
+  nvidia-cusparse-cu12 = {
+    "12.1.0.106" = import ./overrides/nvidia-cusparse-cu12/12.1.0.106;
+  };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
@@ -374,6 +380,9 @@
   };
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
+  };
+  torch = {
+    "2.4.1" = import ./overrides/torch/2.4.1;
   };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
