@@ -214,6 +214,9 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  metayaml = {
+    "1.2" = import ./overrides/metayaml/1.2;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
@@ -374,6 +377,24 @@
   };
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
+  };
+  tpdcc-config = {
+    "0.0.9" = import ./overrides/tpdcc-config/0.0.9;
+  };
+  tpdcc-core = {
+    "0.0.30" = import ./overrides/tpdcc-core/0.0.30;
+  };
+  tpdcc-libs-plugin = {
+    "0.0.1" = import ./overrides/tpdcc-libs-plugin/0.0.1;
+  };
+  tpdcc-libs-python = {
+    "0.0.15" = import ./overrides/tpdcc-libs-python/0.0.15;
+  };
+  tpdcc-libs-qt = {
+    "0.0.23" = import ./overrides/tpdcc-libs-qt/0.0.23;
+  };
+  tpdcc-libs-resources = {
+    "0.0.2" = import ./overrides/tpdcc-libs-resources/0.0.2;
   };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
