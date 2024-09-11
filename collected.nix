@@ -190,6 +190,9 @@
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
+  jpeg4py = {
+    "0.1.4" = import ./overrides/jpeg4py/0.1.4;
+  };
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
   };
