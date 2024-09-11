@@ -254,6 +254,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  px-pipeline = {
+    "0.1.2" = import ./overrides/px-pipeline/0.1.2;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
