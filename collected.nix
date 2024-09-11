@@ -248,6 +248,9 @@
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
+  prettyprint = {
+    "0.1.5" = import ./overrides/prettyprint/0.1.5;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
