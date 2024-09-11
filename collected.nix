@@ -366,6 +366,9 @@
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
+  telepath = {
+    "0.3.1" = import ./overrides/telepath/0.3.1;
+  };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
   };
