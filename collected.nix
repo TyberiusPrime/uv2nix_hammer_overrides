@@ -196,6 +196,15 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  jsonrpc-async = {
+    "2.1.2" = import ./overrides/jsonrpc-async/2.1.2;
+  };
+  jsonrpc-base = {
+    "2.2.0" = import ./overrides/jsonrpc-base/2.2.0;
+  };
+  jsonrpc-websocket = {
+    "3.1.5" = import ./overrides/jsonrpc-websocket/3.1.5;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
