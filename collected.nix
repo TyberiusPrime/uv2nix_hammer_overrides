@@ -62,6 +62,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  barenecessities = {
+    "0.2.8" = import ./overrides/barenecessities/0.2.8;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
