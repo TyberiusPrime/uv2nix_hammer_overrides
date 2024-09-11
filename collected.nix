@@ -175,6 +175,9 @@
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
+  hitchbuild = {
+    "0.6.3" = import ./overrides/hitchbuild/0.6.3;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
@@ -239,8 +242,14 @@
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
+  pathquery = {
+    "0.3.0" = import ./overrides/pathquery/0.3.0;
+  };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
+  };
+  peewee = {
+    "3.17.6" = import ./overrides/peewee/3.17.6;
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
