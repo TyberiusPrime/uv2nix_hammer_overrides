@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "oldest-supported-numpy", "pytest-runner", "setuptools", "wheel",]
+TomlRequiresPatcher = [ [ false, false, false, false, false, false,],]

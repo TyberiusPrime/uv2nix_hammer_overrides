@@ -387,6 +387,9 @@
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
   };
+  ultranest = {
+    "4.3.2" = import ./overrides/ultranest/4.3.2;
+  };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
