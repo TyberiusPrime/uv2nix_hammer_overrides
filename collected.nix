@@ -62,6 +62,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  blinker = {
+    "1.4" = import ./overrides/blinker/1.4;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
@@ -335,6 +338,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  signals-utils = {
+    "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
