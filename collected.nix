@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  kitchen = {
+    "1.2.6" = import ./overrides/kitchen/1.2.6;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
