@@ -242,6 +242,9 @@
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
+  peewee = {
+    "3.17.6" = import ./overrides/peewee/3.17.6;
+  };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
