@@ -202,6 +202,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  logging-exceptions = {
+    "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
