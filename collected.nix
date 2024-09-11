@@ -399,6 +399,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  venn = {
+    "0.1.3" = import ./overrides/venn/0.1.3;
+  };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
