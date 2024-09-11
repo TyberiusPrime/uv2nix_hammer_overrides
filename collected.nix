@@ -287,6 +287,9 @@
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
+  pyrect = {
+    "0.2.0" = import ./overrides/pyrect/0.2.0;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
