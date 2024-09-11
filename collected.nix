@@ -393,6 +393,9 @@
   urwid-readline = {
     "0.14" = import ./overrides/urwid-readline/0.14;
   };
+  utm = {
+    "0.7.0" = import ./overrides/utm/0.7.0;
+  };
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
