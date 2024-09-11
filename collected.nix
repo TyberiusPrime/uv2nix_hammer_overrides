@@ -281,6 +281,9 @@
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
+  pykmtronic = {
+    "0.3.0" = import ./overrides/pykmtronic/0.3.0;
+  };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
