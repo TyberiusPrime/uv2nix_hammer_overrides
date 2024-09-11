@@ -62,6 +62,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  binary2strings = {
+    "0.1.13" = import ./overrides/binary2strings/0.1.13;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
