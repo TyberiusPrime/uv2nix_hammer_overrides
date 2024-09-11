@@ -175,6 +175,9 @@
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
+  homura = {
+    "0.1.5" = import ./overrides/homura/0.1.5;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
