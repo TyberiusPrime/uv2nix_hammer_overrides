@@ -68,6 +68,9 @@
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
+  cdislogging = {
+    "1.1.1" = import ./overrides/cdislogging/1.1.1;
+  };
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
   };
