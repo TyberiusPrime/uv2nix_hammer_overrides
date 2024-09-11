@@ -405,6 +405,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  whylogs-sketching = {
+    "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
