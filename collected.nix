@@ -150,6 +150,9 @@
   flask-mail = {
     "0.9.1" = import ./overrides/flask-mail/0.9.1;
   };
+  flask-markdown = {
+    "0.3" = import ./overrides/flask-markdown/0.3;
+  };
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
