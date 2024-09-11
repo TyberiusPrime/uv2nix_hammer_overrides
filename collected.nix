@@ -117,6 +117,9 @@
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
+  django-tastypie = {
+    "0.14.7" = import ./overrides/django-tastypie/0.14.7;
+  };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
