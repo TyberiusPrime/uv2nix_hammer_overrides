@@ -330,6 +330,9 @@
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
+  requests-aws = {
+    "0.1.8" = import ./overrides/requests-aws/0.1.8;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
