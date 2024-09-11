@@ -378,6 +378,9 @@
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
   };
+  twitter-common-dirutil = {
+    "0.3.11" = import ./overrides/twitter-common-dirutil/0.3.11;
+  };
   twitter-common-exceptions = {
     "0.3.11" = import ./overrides/twitter-common-exceptions/0.3.11;
   };
