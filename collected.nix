@@ -181,6 +181,9 @@
   http3 = {
     "0.6.7" = import ./overrides/http3/0.6.7;
   };
+  husl = {
+    "4.0.3" = import ./overrides/husl/4.0.3;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
