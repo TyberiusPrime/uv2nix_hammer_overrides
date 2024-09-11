@@ -62,6 +62,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  barenecessities = {
+    "0.2.8" = import ./overrides/barenecessities/0.2.8;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
@@ -76,6 +79,9 @@
   };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
+  };
+  conversionkit = {
+    "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
@@ -356,6 +362,9 @@
   };
   strict-functions = {
     "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
+  };
+  stringconvert = {
+    "0.3.2" = import ./overrides/stringconvert/0.3.2;
   };
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
