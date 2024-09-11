@@ -129,6 +129,9 @@
   docopt = {
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
+  docrep = {
+    "0.3.2" = import ./overrides/docrep/0.3.2;
+  };
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
@@ -335,6 +338,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  session-info = {
+    "1.0.0" = import ./overrides/session-info/1.0.0;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
