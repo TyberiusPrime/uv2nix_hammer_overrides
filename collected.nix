@@ -323,6 +323,7 @@
   };
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
+    "5.4.1" = import ./overrides/pyyaml/5.4.1;
   };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
