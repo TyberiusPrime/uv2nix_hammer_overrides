@@ -98,6 +98,9 @@
   dada-utils = {
     "0.0.9" = import ./overrides/dada-utils/0.0.9;
   };
+  defang = {
+    "0.5.3" = import ./overrides/defang/0.5.3;
+  };
   dill = {
     "0.2.9" = import ./overrides/dill/0.2.9;
     "0.3.1.1" = import ./overrides/dill/0.3.1.1;
