@@ -196,6 +196,9 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  kavenegar = {
+    "1.1.2" = import ./overrides/kavenegar/1.1.2;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
