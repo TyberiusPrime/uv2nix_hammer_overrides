@@ -111,6 +111,9 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-libs = {
+    "2.0.3" = import ./overrides/django-libs/2.0.3;
+  };
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
