@@ -74,6 +74,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  coffeescript = {
+    "2.0.3" = import ./overrides/coffeescript/2.0.3;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
@@ -262,6 +265,9 @@
   };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
+  };
+  pyexecjs = {
+    "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
   pyfakewebcam = {
     "0.1.0" = import ./overrides/pyfakewebcam/0.1.0;
