@@ -77,6 +77,9 @@
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
+  cpg-utils = {
+    "5.1.0" = import ./overrides/cpg-utils/5.1.0;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
