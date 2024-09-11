@@ -336,6 +336,9 @@
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
+  sat-stac = {
+    "0.4.1" = import ./overrides/sat-stac/0.4.1;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
