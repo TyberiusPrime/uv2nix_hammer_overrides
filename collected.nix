@@ -114,6 +114,9 @@
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
+  django-redis-cache = {
+    "3.0.1" = import ./overrides/django-redis-cache/3.0.1;
+  };
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
