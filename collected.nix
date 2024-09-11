@@ -202,6 +202,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  lru-dict = {
+    "1.2.0" = import ./overrides/lru-dict/1.2.0;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
@@ -239,6 +242,9 @@
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
+  parsimonious = {
+    "0.9.0" = import ./overrides/parsimonious/0.9.0;
+  };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
@@ -271,6 +277,9 @@
   };
   pygithub = {
     "1.45" = import ./overrides/pygithub/1.45;
+  };
+  pygments-lexer-solidity = {
+    "0.7.0" = import ./overrides/pygments-lexer-solidity/0.7.0;
   };
   pygobject = {
     "3.48.2" = import ./overrides/pygobject/3.48.2;
@@ -317,6 +326,9 @@
   };
   pyudorandom = {
     "1.0.0" = import ./overrides/pyudorandom/1.0.0;
+  };
+  pyunormalize = {
+    "15.1.0" = import ./overrides/pyunormalize/15.1.0;
   };
   pyxdameraulevenshtein = {
     "1.8.0" = import ./overrides/pyxdameraulevenshtein/1.8.0;
