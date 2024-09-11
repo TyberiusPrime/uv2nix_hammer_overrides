@@ -74,6 +74,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  cometblue-lite = {
+    "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
