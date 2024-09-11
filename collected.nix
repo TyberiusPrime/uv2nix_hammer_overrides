@@ -245,6 +245,9 @@
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
+  pims = {
+    "0.7" = import ./overrides/pims/0.7;
+  };
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
