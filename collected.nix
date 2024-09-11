@@ -196,6 +196,9 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  kaggle = {
+    "1.6.17" = import ./overrides/kaggle/1.6.17;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
