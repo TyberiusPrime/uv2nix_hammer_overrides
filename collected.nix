@@ -236,6 +236,9 @@
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
+  nvidia-ml-py3 = {
+    "7.352.0" = import ./overrides/nvidia-ml-py3/7.352.0;
+  };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
