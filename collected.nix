@@ -193,6 +193,9 @@
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
   };
+  json-table-schema = {
+    "0.2.1" = import ./overrides/json-table-schema/0.2.1;
+  };
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
@@ -213,6 +216,9 @@
   };
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
+  };
+  messytables = {
+    "0.15.2" = import ./overrides/messytables/0.15.2;
   };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
