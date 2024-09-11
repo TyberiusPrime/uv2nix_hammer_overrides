@@ -260,6 +260,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycosat = {
+    "0.6.6" = import ./overrides/pycosat/0.6.6;
+  };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
