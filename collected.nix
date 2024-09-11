@@ -108,6 +108,9 @@
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
+  django-dajaxice = {
+    "0.7" = import ./overrides/django-dajaxice/0.7;
+  };
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
