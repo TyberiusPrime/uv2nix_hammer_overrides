@@ -175,6 +175,9 @@
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
+  houdini-py = {
+    "0.1.0" = import ./overrides/houdini-py/0.1.0;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
