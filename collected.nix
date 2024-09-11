@@ -248,6 +248,9 @@
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
+  pmsensor = {
+    "0.4" = import ./overrides/pmsensor/0.4;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
