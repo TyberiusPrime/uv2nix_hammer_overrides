@@ -62,6 +62,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  beatbox = {
+    "32.1" = import ./overrides/beatbox/32.1;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
