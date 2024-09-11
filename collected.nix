@@ -80,6 +80,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  cronex = {
+    "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
@@ -183,6 +186,9 @@
   };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
+  };
+  inotify = {
+    "0.2.10" = import ./overrides/inotify/0.2.10;
   };
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
