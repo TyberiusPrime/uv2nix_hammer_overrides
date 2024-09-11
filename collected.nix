@@ -135,6 +135,9 @@
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
+  fastimport = {
+    "0.9.14" = import ./overrides/fastimport/0.9.14;
+  };
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
