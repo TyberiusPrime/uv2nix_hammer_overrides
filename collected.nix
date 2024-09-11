@@ -375,6 +375,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  tonyg-rfc3339 = {
+    "0.1" = import ./overrides/tonyg-rfc3339/0.1;
+  };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
   };
