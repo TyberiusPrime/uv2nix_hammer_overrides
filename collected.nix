@@ -77,6 +77,9 @@
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
+  cov-core = {
+    "1.15.0" = import ./overrides/cov-core/1.15.0;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
