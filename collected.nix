@@ -65,6 +65,9 @@
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
+  bsuite = {
+    "0.3.5" = import ./overrides/bsuite/0.3.5;
+  };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
@@ -168,6 +171,9 @@
   };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
+  };
+  gym = {
+    "0.26.2" = import ./overrides/gym/0.26.2;
   };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
