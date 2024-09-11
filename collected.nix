@@ -375,6 +375,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  timeloop = {
+    "1.0.2" = import ./overrides/timeloop/1.0.2;
+  };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
   };
