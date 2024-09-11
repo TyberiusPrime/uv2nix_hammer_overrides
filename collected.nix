@@ -260,6 +260,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycollada = {
+    "0.8" = import ./overrides/pycollada/0.8;
+  };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
