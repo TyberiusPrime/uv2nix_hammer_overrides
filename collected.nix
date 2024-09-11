@@ -175,6 +175,9 @@
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
+  hdl21 = {
+    "6.0.0" = import ./overrides/hdl21/6.0.0;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
@@ -237,6 +240,7 @@
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
   pandas = {
+    "1.5.3" = import ./overrides/pandas/1.5.3;
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
   pdpyras = {
@@ -398,6 +402,12 @@
   };
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
+  };
+  vlsir = {
+    "6.0.0" = import ./overrides/vlsir/6.0.0;
+  };
+  vlsirtools = {
+    "6.0.0" = import ./overrides/vlsirtools/6.0.0;
   };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
