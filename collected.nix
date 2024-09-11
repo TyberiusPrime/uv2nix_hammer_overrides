@@ -405,6 +405,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  wf-minimal-honeycomb-python = {
+    "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
