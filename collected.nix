@@ -242,6 +242,9 @@
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
+  phpserialize = {
+    "1.3" = import ./overrides/phpserialize/1.3;
+  };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
