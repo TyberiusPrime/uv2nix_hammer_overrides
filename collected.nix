@@ -312,6 +312,9 @@
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
+  python-status = {
+    "1.0.1" = import ./overrides/python-status/1.0.1;
+  };
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
