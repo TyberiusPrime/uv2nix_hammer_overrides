@@ -160,6 +160,9 @@
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
   };
+  fuzzysearch = {
+    "0.7.3" = import ./overrides/fuzzysearch/0.7.3;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
