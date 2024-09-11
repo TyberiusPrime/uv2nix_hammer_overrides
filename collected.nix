@@ -132,6 +132,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  easyhid = {
+    "0.0.10" = import ./overrides/easyhid/0.0.10;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
