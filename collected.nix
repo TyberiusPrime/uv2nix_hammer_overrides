@@ -248,6 +248,9 @@
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
+  pod-base = {
+    "1.0.3" = import ./overrides/pod-base/1.0.3;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
