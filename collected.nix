@@ -330,6 +330,9 @@
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
+  rlcard = {
+    "1.2.0" = import ./overrides/rlcard/1.2.0;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
