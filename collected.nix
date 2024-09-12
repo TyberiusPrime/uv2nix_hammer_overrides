@@ -89,6 +89,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  cometblue-lite = {
+    "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
