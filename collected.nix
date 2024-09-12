@@ -144,6 +144,9 @@
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
+  binary2strings = {
+    "0.1.13" = import ./overrides/binary2strings/0.1.13;
+  };
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
