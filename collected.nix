@@ -657,6 +657,9 @@
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
+  helputils = {
+    "1.4.38" = import ./overrides/helputils/1.4.38;
+  };
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
