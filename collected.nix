@@ -174,6 +174,9 @@
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
+  django-cacheops = {
+    "7.0.2" = import ./overrides/django-cacheops/7.0.2;
+  };
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
