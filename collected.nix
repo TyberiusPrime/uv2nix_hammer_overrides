@@ -1147,6 +1147,12 @@
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
+  python-geoip = {
+    "1.2" = import ./overrides/python-geoip/1.2;
+  };
+  python-geoip-geolite2 = {
+    "2015.303" = import ./overrides/python-geoip-geolite2/2015.303;
+  };
   python-gflags = {
     "3.1.2" = import ./overrides/python-gflags/3.1.2;
   };
