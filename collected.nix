@@ -464,6 +464,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  duckietown-docker-utils-daffy = {
+    "6.1.1" = import ./overrides/duckietown-docker-utils-daffy/6.1.1;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
@@ -1142,6 +1145,9 @@
   };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
+  };
+  pur = {
+    "7.3.2" = import ./overrides/pur/7.3.2;
   };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
