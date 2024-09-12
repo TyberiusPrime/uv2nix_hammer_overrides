@@ -573,6 +573,9 @@
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
+  isodatetimehandler = {
+    "1.0.2" = import ./overrides/isodatetimehandler/1.0.2;
+  };
   isospecpy = {
     "2.2.2" = import ./overrides/isospecpy/2.2.2;
   };
