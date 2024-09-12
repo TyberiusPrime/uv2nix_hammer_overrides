@@ -2,6 +2,9 @@
   accumulation-tree = {
     "0.6.2" = import ./overrides/accumulation-tree/0.6.2;
   };
+  adafruit-gpio = {
+    "1.0.3" = import ./overrides/adafruit-gpio/1.0.3;
+  };
   adapt-parser = {
     "1.0.0" = import ./overrides/adapt-parser/1.0.0;
   };
