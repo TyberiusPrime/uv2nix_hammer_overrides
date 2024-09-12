@@ -956,6 +956,9 @@
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
+  pims = {
+    "0.7" = import ./overrides/pims/0.7;
+  };
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
