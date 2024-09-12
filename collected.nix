@@ -421,6 +421,9 @@
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
+  idds-common = {
+    "2.1.40" = import ./overrides/idds-common/2.1.40;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
