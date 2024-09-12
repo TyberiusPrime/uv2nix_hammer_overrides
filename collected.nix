@@ -561,6 +561,9 @@
   graphql-server-core = {
     "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
   };
+  greenlet = {
+    "3.1.0" = import ./overrides/greenlet/3.1.0;
+  };
   grpc-google-logging-v2 = {
     "0.11.1" = import ./overrides/grpc-google-logging-v2/0.11.1;
   };
