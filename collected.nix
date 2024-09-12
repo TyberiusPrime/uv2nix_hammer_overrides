@@ -408,6 +408,9 @@
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
+  yasi = {
+    "2.1.2" = import ./overrides/yasi/2.1.2;
+  };
   zuper-commons-z6 = {
     "6.2.4" = import ./overrides/zuper-commons-z6/6.2.4;
   };
