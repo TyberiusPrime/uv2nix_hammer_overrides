@@ -636,6 +636,9 @@
   urwid-readline = {
     "0.14" = import ./overrides/urwid-readline/0.14;
   };
+  user-agent = {
+    "0.1.10" = import ./overrides/user-agent/0.1.10;
+  };
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
