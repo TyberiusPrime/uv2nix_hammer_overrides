@@ -1161,6 +1161,9 @@
   pybars3 = {
     "0.9.7" = import ./overrides/pybars3/0.9.7;
   };
+  pybitcointools = {
+    "1.1.15" = import ./overrides/pybitcointools/1.1.15;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
