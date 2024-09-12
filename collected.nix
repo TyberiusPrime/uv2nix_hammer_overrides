@@ -1101,6 +1101,9 @@
   pydevccu = {
     "0.1.8" = import ./overrides/pydevccu/0.1.8;
   };
+  pyeapi = {
+    "1.0.4" = import ./overrides/pyeapi/1.0.4;
+  };
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
