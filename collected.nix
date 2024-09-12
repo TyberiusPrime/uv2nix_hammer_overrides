@@ -181,6 +181,9 @@
   http3 = {
     "0.6.7" = import ./overrides/http3/0.6.7;
   };
+  idds-common = {
+    "2.1.40" = import ./overrides/idds-common/2.1.40;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
