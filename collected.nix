@@ -406,6 +406,9 @@
   hopcroftkarp = {
     "1.2.5" = import ./overrides/hopcroftkarp/1.2.5;
   };
+  houdini-py = {
+    "0.1.0" = import ./overrides/houdini-py/0.1.0;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
