@@ -324,6 +324,9 @@
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
   };
+  randomname = {
+    "0.2.1" = import ./overrides/randomname/0.2.1;
+  };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
