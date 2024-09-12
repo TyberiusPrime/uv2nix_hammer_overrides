@@ -110,6 +110,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  combo = {
+    "0.1.3" = import ./overrides/combo/0.1.3;
+  };
   cometblue-lite = {
     "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
   };
@@ -472,6 +475,9 @@
   };
   pymsgbox = {
     "1.0.9" = import ./overrides/pymsgbox/1.0.9;
+  };
+  pyod = {
+    "2.0.2" = import ./overrides/pyod/2.0.2;
   };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
