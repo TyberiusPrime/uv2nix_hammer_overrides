@@ -918,6 +918,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  mmcif-utils = {
+    "0.28" = import ./overrides/mmcif-utils/0.28;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
@@ -956,6 +959,9 @@
   };
   mysql-replication = {
     "1.0.9" = import ./overrides/mysql-replication/1.0.9;
+  };
+  mysqlclient = {
+    "2.2.4" = import ./overrides/mysqlclient/2.2.4;
   };
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
@@ -1803,6 +1809,21 @@
   };
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
+  };
+  wwpdb-io = {
+    "0.33.4" = import ./overrides/wwpdb-io/0.33.4;
+  };
+  wwpdb-utils-config = {
+    "0.45" = import ./overrides/wwpdb-utils-config/0.45;
+  };
+  wwpdb-utils-dp = {
+    "0.54" = import ./overrides/wwpdb-utils-dp/0.54;
+  };
+  wwpdb-utils-session = {
+    "0.17" = import ./overrides/wwpdb-utils-session/0.17;
+  };
+  wwpdb-utils-wf = {
+    "0.38.2" = import ./overrides/wwpdb-utils-wf/0.38.2;
   };
   www-authenticate = {
     "0.9.2" = import ./overrides/www-authenticate/0.9.2;

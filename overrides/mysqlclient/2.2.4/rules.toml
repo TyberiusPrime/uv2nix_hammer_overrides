@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.libmysqlclient",]
+BuildSystems = [ "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.libmysqlclient", "~literal:!:pkgs.pkg-config",]
