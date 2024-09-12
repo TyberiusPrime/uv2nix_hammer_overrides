@@ -503,6 +503,9 @@
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
+  fsc-export = {
+    "1.2.0" = import ./overrides/fsc-export/1.2.0;
+  };
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
