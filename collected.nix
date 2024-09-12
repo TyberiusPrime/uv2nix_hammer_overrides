@@ -436,6 +436,9 @@
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
+  inflection = {
+    "0.3.1" = import ./overrides/inflection/0.3.1;
+  };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
@@ -813,6 +816,9 @@
   };
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
+  };
+  qds-sdk = {
+    "1.16.1" = import ./overrides/qds-sdk/1.16.1;
   };
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
