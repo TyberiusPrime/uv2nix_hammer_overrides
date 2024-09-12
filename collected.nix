@@ -1468,6 +1468,9 @@
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
+  rpmfluff = {
+    "0.6.5" = import ./overrides/rpmfluff/0.6.5;
+  };
   rstgen = {
     "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
