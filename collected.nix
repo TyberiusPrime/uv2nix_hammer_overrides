@@ -1031,6 +1031,9 @@
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
+  utm = {
+    "0.7.0" = import ./overrides/utm/0.7.0;
+  };
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
