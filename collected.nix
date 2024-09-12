@@ -1429,6 +1429,9 @@
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
     "6.0" = import ./overrides/pyyaml/6.0;
   };
+  pyzerproc = {
+    "0.4.12" = import ./overrides/pyzerproc/0.4.12;
+  };
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
   };
@@ -1437,9 +1440,6 @@
   };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
-  };
-  pyzerproc = {
-    "0.4.12" = import ./overrides/pyzerproc/0.4.12;
   };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
@@ -1767,6 +1767,9 @@
   };
   vlsirtools = {
     "6.0.0" = import ./overrides/vlsirtools/6.0.0;
+  };
+  vmtools = {
+    "0.45" = import ./overrides/vmtools/0.45;
   };
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
