@@ -1642,6 +1642,9 @@
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
   };
+  tlslite = {
+    "0.4.9" = import ./overrides/tlslite/0.4.9;
+  };
   tonyg-rfc3339 = {
     "0.1" = import ./overrides/tonyg-rfc3339/0.1;
   };
