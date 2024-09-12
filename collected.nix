@@ -296,6 +296,9 @@
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
+  pgpdump = {
+    "1.5" = import ./overrides/pgpdump/1.5;
+  };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
