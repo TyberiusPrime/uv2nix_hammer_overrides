@@ -491,6 +491,9 @@
   flask-mail = {
     "0.9.1" = import ./overrides/flask-mail/0.9.1;
   };
+  flask-markdown = {
+    "0.3" = import ./overrides/flask-markdown/0.3;
+  };
   flask-oauth = {
     "0.12" = import ./overrides/flask-oauth/0.12;
   };
