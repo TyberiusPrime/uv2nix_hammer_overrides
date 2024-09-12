@@ -1080,6 +1080,9 @@
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
   };
+  phpserialize = {
+    "1.3" = import ./overrides/phpserialize/1.3;
+  };
   pidfile = {
     "0.1.1" = import ./overrides/pidfile/0.1.1;
   };
