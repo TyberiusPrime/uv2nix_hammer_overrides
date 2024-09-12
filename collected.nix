@@ -464,6 +464,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  dppd-plotnine = {
+    "0.2.7" = import ./overrides/dppd-plotnine/0.2.7;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
