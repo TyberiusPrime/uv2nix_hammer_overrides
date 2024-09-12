@@ -1,4 +1,7 @@
 {
+  accessify = {
+    "0.3.1" = import ./overrides/accessify/0.3.1;
+  };
   accumulation-tree = {
     "0.6.2" = import ./overrides/accumulation-tree/0.6.2;
   };
