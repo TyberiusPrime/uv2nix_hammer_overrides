@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  libsaas = {
+    "0.4" = import ./overrides/libsaas/0.4;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
