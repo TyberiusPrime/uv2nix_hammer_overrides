@@ -1027,6 +1027,9 @@
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
+  opcua = {
+    "0.98.13" = import ./overrides/opcua/0.98.13;
+  };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
   };
