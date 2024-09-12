@@ -744,6 +744,9 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  nose-cprof = {
+    "0.2.1" = import ./overrides/nose-cprof/0.2.1;
+  };
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
