@@ -449,6 +449,9 @@
   empy = {
     "3.3.4" = import ./overrides/empy/3.3.4;
   };
+  espeak-phonemizer = {
+    "1.3.1" = import ./overrides/espeak-phonemizer/1.3.1;
+  };
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
