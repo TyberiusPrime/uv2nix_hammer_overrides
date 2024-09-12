@@ -1164,6 +1164,9 @@
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
+  urwid-mitmproxy = {
+    "2.1.2.1" = import ./overrides/urwid-mitmproxy/2.1.2.1;
+  };
   urwid-readline = {
     "0.14" = import ./overrides/urwid-readline/0.14;
   };
