@@ -433,6 +433,9 @@
   micawber = {
     "0.5.5" = import ./overrides/micawber/0.5.5;
   };
+  modgrammar = {
+    "0.10" = import ./overrides/modgrammar/0.10;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
