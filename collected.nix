@@ -705,6 +705,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  paho-mqtt = {
+    "1.6.1" = import ./overrides/paho-mqtt/1.6.1;
+  };
   pandas = {
     "1.5.3" = import ./overrides/pandas/1.5.3;
     "2.2.2" = import ./overrides/pandas/2.2.2;
