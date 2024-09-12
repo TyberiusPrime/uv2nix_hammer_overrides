@@ -1465,6 +1465,9 @@
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
+  reverse-geocoder = {
+    "1.5.1" = import ./overrides/reverse-geocoder/1.5.1;
+  };
   rhasspy-hermes = {
     "0.6.2" = import ./overrides/rhasspy-hermes/0.6.2;
   };
