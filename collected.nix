@@ -884,6 +884,9 @@
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
   };
+  proxy-tools = {
+    "0.1.0" = import ./overrides/proxy-tools/0.1.0;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
