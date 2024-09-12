@@ -74,6 +74,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  compressed-rtf = {
+    "1.0.6" = import ./overrides/compressed-rtf/1.0.6;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
