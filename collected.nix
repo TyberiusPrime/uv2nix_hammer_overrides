@@ -690,6 +690,9 @@
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
+  jaconv = {
+    "0.4.0" = import ./overrides/jaconv/0.4.0;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
