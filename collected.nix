@@ -357,6 +357,9 @@
   strict-functions = {
     "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
   };
+  subprocess32 = {
+    "3.5.4" = import ./overrides/subprocess32/3.5.4;
+  };
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
   };
