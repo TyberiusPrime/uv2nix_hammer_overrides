@@ -310,6 +310,9 @@
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
+  hexathon = {
+    "0.1.7" = import ./overrides/hexathon/0.1.7;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
