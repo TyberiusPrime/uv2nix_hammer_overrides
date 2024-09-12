@@ -666,6 +666,9 @@
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
+  jsonformatter = {
+    "0.3.2" = import ./overrides/jsonformatter/0.3.2;
+  };
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
