@@ -98,6 +98,9 @@
   dada-utils = {
     "0.0.9" = import ./overrides/dada-utils/0.0.9;
   };
+  daemon = {
+    "1.2" = import ./overrides/daemon/1.2;
+  };
   dill = {
     "0.2.9" = import ./overrides/dill/0.2.9;
     "0.3.1.1" = import ./overrides/dill/0.3.1.1;
