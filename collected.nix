@@ -263,6 +263,9 @@
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
+  pyexecjs = {
+    "1.5.1" = import ./overrides/pyexecjs/1.5.1;
+  };
   pyfakewebcam = {
     "0.1.0" = import ./overrides/pyfakewebcam/0.1.0;
   };
