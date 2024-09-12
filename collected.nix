@@ -74,6 +74,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  blindspin = {
+    "2.0.1" = import ./overrides/blindspin/2.0.1;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
