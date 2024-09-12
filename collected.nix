@@ -306,6 +306,9 @@
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
+  python-libnmap = {
+    "0.7.3" = import ./overrides/python-libnmap/0.7.3;
+  };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
