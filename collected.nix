@@ -1027,6 +1027,9 @@
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
+  wiringpi = {
+    "2.60.1" = import ./overrides/wiringpi/2.60.1;
+  };
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
   };
