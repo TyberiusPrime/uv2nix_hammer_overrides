@@ -107,6 +107,9 @@
   cloeepy = {
     "0.0.2" = import ./overrides/cloeepy/0.0.2;
   };
+  cloud-compose = {
+    "0.4.1" = import ./overrides/cloud-compose/0.4.1;
+  };
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
