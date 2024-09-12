@@ -464,6 +464,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  drf-access-policy = {
+    "1.5.0" = import ./overrides/drf-access-policy/1.5.0;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
