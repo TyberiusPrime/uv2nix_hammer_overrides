@@ -1321,6 +1321,9 @@
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
+  pytest-cram = {
+    "0.2.2" = import ./overrides/pytest-cram/0.2.2;
+  };
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
   };
