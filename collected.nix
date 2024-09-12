@@ -134,6 +134,9 @@
   dada-utils = {
     "0.0.9" = import ./overrides/dada-utils/0.0.9;
   };
+  dash-renderer = {
+    "1.9.1" = import ./overrides/dash-renderer/1.9.1;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
