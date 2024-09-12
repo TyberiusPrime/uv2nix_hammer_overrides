@@ -902,6 +902,9 @@
   pyunormalize = {
     "15.1.0" = import ./overrides/pyunormalize/15.1.0;
   };
+  pyvips = {
+    "2.2.3" = import ./overrides/pyvips/2.2.3;
+  };
   pyvlx = {
     "0.2.23" = import ./overrides/pyvlx/0.2.23;
   };
