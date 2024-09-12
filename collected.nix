@@ -214,6 +214,9 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  mouseinfo = {
+    "0.1.3" = import ./overrides/mouseinfo/0.1.3;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
@@ -254,6 +257,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  pyautogui = {
+    "0.9.54" = import ./overrides/pyautogui/0.9.54;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
@@ -268,6 +274,9 @@
   };
   pyfarmhash = {
     "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
+  };
+  pygetwindow = {
+    "0.0.9" = import ./overrides/pygetwindow/0.0.9;
   };
   pygithub = {
     "1.45" = import ./overrides/pygithub/1.45;
@@ -284,8 +293,17 @@
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
+  pymsgbox = {
+    "1.0.9" = import ./overrides/pymsgbox/1.0.9;
+  };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
+  };
+  pyrect = {
+    "0.2.0" = import ./overrides/pyrect/0.2.0;
+  };
+  pyscreeze = {
+    "1.0.1" = import ./overrides/pyscreeze/1.0.1;
   };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
@@ -311,6 +329,12 @@
   };
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
+  };
+  python3-xlib = {
+    "0.15" = import ./overrides/python3-xlib/0.15;
+  };
+  pytweening = {
+    "1.2.0" = import ./overrides/pytweening/1.2.0;
   };
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
