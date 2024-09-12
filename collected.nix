@@ -1268,6 +1268,9 @@
   shortid = {
     "0.1.2" = import ./overrides/shortid/0.1.2;
   };
+  showit = {
+    "1.1.4" = import ./overrides/showit/1.1.4;
+  };
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
