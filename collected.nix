@@ -866,6 +866,9 @@
   pidfile = {
     "0.1.1" = import ./overrides/pidfile/0.1.1;
   };
+  piep = {
+    "0.10.0" = import ./overrides/piep/0.10.0;
+  };
   pilasopencv = {
     "2.7" = import ./overrides/pilasopencv/2.7;
   };
