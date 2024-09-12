@@ -324,6 +324,9 @@
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
   };
+  pyzerproc = {
+    "0.4.12" = import ./overrides/pyzerproc/0.4.12;
+  };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
