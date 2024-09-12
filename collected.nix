@@ -117,6 +117,9 @@
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
+  django-templated-email = {
+    "3.0.1" = import ./overrides/django-templated-email/3.0.1;
+  };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
