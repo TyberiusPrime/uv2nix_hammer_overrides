@@ -1026,6 +1026,9 @@
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
   };
+  pyqrcode = {
+    "1.2.1" = import ./overrides/pyqrcode/1.2.1;
+  };
   pyrect = {
     "0.2.0" = import ./overrides/pyrect/0.2.0;
   };
