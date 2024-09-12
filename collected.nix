@@ -582,6 +582,9 @@
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
+  tailer = {
+    "0.4.1" = import ./overrides/tailer/0.4.1;
+  };
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
