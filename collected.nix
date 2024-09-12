@@ -1584,6 +1584,9 @@
   tpdcc-core = {
     "0.0.30" = import ./overrides/tpdcc-core/0.0.30;
   };
+  tpdcc-dccs-maya = {
+    "0.0.18" = import ./overrides/tpdcc-dccs-maya/0.0.18;
+  };
   tpdcc-libs-plugin = {
     "0.0.1" = import ./overrides/tpdcc-libs-plugin/0.0.1;
   };
