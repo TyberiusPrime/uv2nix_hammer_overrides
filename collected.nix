@@ -135,6 +135,9 @@
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
+  fastapi-camelcase = {
+    "2.0.0" = import ./overrides/fastapi-camelcase/2.0.0;
+  };
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
