@@ -267,6 +267,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  easyutils = {
+    "0.1.7" = import ./overrides/easyutils/0.1.7;
+  };
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
