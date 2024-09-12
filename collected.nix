@@ -169,6 +169,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  gruut-ipa = {
+    "0.13.0" = import ./overrides/gruut-ipa/0.13.0;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
