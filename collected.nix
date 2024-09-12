@@ -1078,6 +1078,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  slimit = {
+    "0.8.1" = import ./overrides/slimit/0.8.1;
+  };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
