@@ -408,6 +408,9 @@
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
+  zdesk = {
+    "2.8.1" = import ./overrides/zdesk/2.8.1;
+  };
   zuper-commons-z6 = {
     "6.2.4" = import ./overrides/zuper-commons-z6/6.2.4;
   };
