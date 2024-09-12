@@ -65,6 +65,9 @@
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
+  captain = {
+    "4.5.0" = import ./overrides/captain/4.5.0;
+  };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
