@@ -108,6 +108,9 @@
   asset = {
     "0.6.13" = import ./overrides/asset/0.6.13;
   };
+  astmonkey = {
+    "0.3.6" = import ./overrides/astmonkey/0.3.6;
+  };
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
   };
