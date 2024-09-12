@@ -71,6 +71,9 @@
   astutils = {
     "0.0.6" = import ./overrides/astutils/0.0.6;
   };
+  atomicwrites = {
+    "1.4.1" = import ./overrides/atomicwrites/1.4.1;
+  };
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
