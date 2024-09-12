@@ -1204,6 +1204,9 @@
   python-highcharts = {
     "0.4.2" = import ./overrides/python-highcharts/0.4.2;
   };
+  python-hostlist = {
+    "1.23.0" = import ./overrides/python-hostlist/1.23.0;
+  };
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
