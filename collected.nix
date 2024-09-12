@@ -365,6 +365,9 @@
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
+  django-redis-cache = {
+    "3.0.1" = import ./overrides/django-redis-cache/3.0.1;
+  };
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
