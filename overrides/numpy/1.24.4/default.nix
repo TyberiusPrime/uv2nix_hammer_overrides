@@ -9,7 +9,4 @@ else
       final.cython_0
       final.wheel
     ];
-    patchPhase = ''
-      ${helpers.tomlreplace} pyproject.toml build-system.requires "[]"
-    '';
   }
