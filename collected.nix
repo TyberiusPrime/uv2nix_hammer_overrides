@@ -731,6 +731,9 @@
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
+  pexif = {
+    "0.15" = import ./overrides/pexif/0.15;
+  };
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
   };
