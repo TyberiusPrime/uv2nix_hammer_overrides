@@ -498,6 +498,9 @@
   grpc-google-pubsub-v1 = {
     "0.11.1" = import ./overrides/grpc-google-pubsub-v1/0.11.1;
   };
+  grpclib = {
+    "0.4.7" = import ./overrides/grpclib/0.4.7;
+  };
   gruut-ipa = {
     "0.13.0" = import ./overrides/gruut-ipa/0.13.0;
   };
