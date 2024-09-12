@@ -293,6 +293,9 @@
   pystemd = {
     "0.13.2" = import ./overrides/pystemd/0.13.2;
   };
+  pyswarm = {
+    "0.6" = import ./overrides/pyswarm/0.6;
+  };
   python-axolotl-curve25519 = {
     "0.4.1.post2" = import ./overrides/python-axolotl-curve25519/0.4.1.post2;
   };
