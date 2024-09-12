@@ -419,6 +419,9 @@
   flask-jsonpify = {
     "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
   };
+  flask-jwt = {
+    "0.3.2" = import ./overrides/flask-jwt/0.3.2;
+  };
   flask-kvsession-invenio = {
     "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
   };
