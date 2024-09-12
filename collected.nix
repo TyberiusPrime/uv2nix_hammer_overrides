@@ -5,6 +5,9 @@
   accumulation-tree = {
     "0.6.2" = import ./overrides/accumulation-tree/0.6.2;
   };
+  adafruit-io = {
+    "2.7.2" = import ./overrides/adafruit-io/2.7.2;
+  };
   adapt-parser = {
     "1.0.0" = import ./overrides/adapt-parser/1.0.0;
   };
