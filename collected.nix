@@ -1597,6 +1597,9 @@
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
   };
+  systemcmd = {
+    "3.0.1" = import ./overrides/systemcmd/3.0.1;
+  };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
