@@ -654,6 +654,9 @@
   mercurial-extension-utils = {
     "1.5.2" = import ./overrides/mercurial-extension-utils/1.5.2;
   };
+  miasm = {
+    "0.1.5" = import ./overrides/miasm/0.1.5;
+  };
   micawber = {
     "0.5.5" = import ./overrides/micawber/0.5.5;
   };
