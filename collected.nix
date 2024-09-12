@@ -516,6 +516,12 @@
   fuzzysearch = {
     "0.7.3" = import ./overrides/fuzzysearch/0.7.3;
   };
+  gaebusiness = {
+    "4.5.3" = import ./overrides/gaebusiness/4.5.3;
+  };
+  gaeforms = {
+    "0.21" = import ./overrides/gaeforms/0.21;
+  };
   gazpacho = {
     "1.1" = import ./overrides/gazpacho/1.1;
   };
