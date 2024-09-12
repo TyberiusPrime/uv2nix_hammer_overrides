@@ -1261,6 +1261,9 @@
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
+  pymongo = {
+    "3.5.1" = import ./overrides/pymongo/3.5.1;
+  };
   pymoo = {
     "0.6.1.3" = import ./overrides/pymoo/0.6.1.3;
   };
@@ -1788,6 +1791,9 @@
   };
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
+  };
+  websocket-client = {
+    "0.40.0" = import ./overrides/websocket-client/0.40.0;
   };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
