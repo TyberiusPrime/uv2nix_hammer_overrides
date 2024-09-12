@@ -181,6 +181,9 @@
   http3 = {
     "0.6.7" = import ./overrides/http3/0.6.7;
   };
+  httpagentparser = {
+    "1.9.5" = import ./overrides/httpagentparser/1.9.5;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
