@@ -44,10 +44,10 @@
     furtherArgs ? {},
     maturinHook ? pkgs.rustPlatform.maturinBuildHook,
   }: old:
-    lib.optionalAttrs (!(old.src.isWheel or false)) (
+    pkgs.lib.optionalAttrs (!(old.src.isWheel or false)) (
       {
         cargoDeps = pkgs.rustPlatform.importCargoLock {
-          lockFile = ./. + "/overides/${old.pname}/${old.version}/Cargo.lock";
+          lockFile = ./. + "/overrides/${old.pname}/${old.version}/Cargo.lock";
         };
         nativeBuildInputs =
           (old.nativeBuildInputs or [])
@@ -58,7 +58,7 @@
           ++ (furtherArgs.nativeBuildInputs or []);
       }
       # furtherargs without nativeBuildInputs
-      // lib.attrsets.filterAttrs (name: _value: name != "nativeBuildInputs") furtherArgs
+      // pkgs.lib.attrsets.filterAttrs (name: _value: name != "nativeBuildInputs") furtherArgs
     );
   offlineMaturinHook = pkgs.callPackage ({pkgsHostTarget}:
     pkgs.makeSetupHook {
