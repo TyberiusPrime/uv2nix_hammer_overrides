@@ -380,6 +380,9 @@
   django-tastypie = {
     "0.14.7" = import ./overrides/django-tastypie/0.14.7;
   };
+  django-templated-email = {
+    "3.0.1" = import ./overrides/django-templated-email/3.0.1;
+  };
   django-timedeltafield = {
     "0.7.10" = import ./overrides/django-timedeltafield/0.7.10;
   };
