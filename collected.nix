@@ -86,6 +86,9 @@
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
+  basicsr = {
+    "1.4.2" = import ./overrides/basicsr/1.4.2;
+  };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
@@ -780,6 +783,9 @@
   };
   torch = {
     "2.4.1" = import ./overrides/torch/2.4.1;
+  };
+  torchvision = {
+    "0.19.1" = import ./overrides/torchvision/0.19.1;
   };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
