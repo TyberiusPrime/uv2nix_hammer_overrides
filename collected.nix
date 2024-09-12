@@ -245,6 +245,9 @@
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
+  pipwin = {
+    "0.5.2" = import ./overrides/pipwin/0.5.2;
+  };
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
