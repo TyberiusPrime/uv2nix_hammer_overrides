@@ -187,6 +187,9 @@
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
+  isodatetimehandler = {
+    "1.0.2" = import ./overrides/isodatetimehandler/1.0.2;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
