@@ -856,6 +856,9 @@
   pyric = {
     "0.1.6.3" = import ./overrides/pyric/0.1.6.3;
   };
+  pyschedule = {
+    "0.2.34" = import ./overrides/pyschedule/0.2.34;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
