@@ -1804,6 +1804,9 @@
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
   };
+  wwpdb-utils-config = {
+    "0.45" = import ./overrides/wwpdb-utils-config/0.45;
+  };
   www-authenticate = {
     "0.9.2" = import ./overrides/www-authenticate/0.9.2;
   };
