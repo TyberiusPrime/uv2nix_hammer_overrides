@@ -410,6 +410,9 @@
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
+  gitignorefile = {
+    "1.1.2" = import ./overrides/gitignorefile/1.1.2;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
