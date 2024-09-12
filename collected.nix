@@ -407,6 +407,9 @@
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
+  gif2numpy = {
+    "1.3" = import ./overrides/gif2numpy/1.3;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
@@ -651,6 +654,9 @@
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
+  numpy2gif = {
+    "1.0" = import ./overrides/numpy2gif/1.0;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
@@ -702,6 +708,9 @@
   };
   pidfile = {
     "0.1.1" = import ./overrides/pidfile/0.1.1;
+  };
+  pilasopencv = {
+    "2.7" = import ./overrides/pilasopencv/2.7;
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
