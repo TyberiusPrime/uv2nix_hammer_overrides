@@ -840,6 +840,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  naturalsort = {
+    "1.5.1" = import ./overrides/naturalsort/1.5.1;
+  };
   neo4jrestclient = {
     "2.1.1" = import ./overrides/neo4jrestclient/2.1.1;
   };
