@@ -491,6 +491,9 @@
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
+  imm-source = {
+    "1.0.30" = import ./overrides/imm-source/1.0.30;
+  };
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
