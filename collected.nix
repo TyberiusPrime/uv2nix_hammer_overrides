@@ -1161,6 +1161,9 @@
   pybars3 = {
     "0.9.7" = import ./overrides/pybars3/0.9.7;
   };
+  pyblake2 = {
+    "1.1.2" = import ./overrides/pyblake2/1.1.2;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
