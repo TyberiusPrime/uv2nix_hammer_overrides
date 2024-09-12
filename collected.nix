@@ -238,6 +238,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  netifaces = {
+    "0.11.0" = import ./overrides/netifaces/0.11.0;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
