@@ -263,6 +263,9 @@
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
+  pyderive3 = {
+    "0.0.6" = import ./overrides/pyderive3/0.0.6;
+  };
   pyfakewebcam = {
     "0.1.0" = import ./overrides/pyfakewebcam/0.1.0;
   };
