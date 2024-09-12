@@ -464,6 +464,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  dsnparse = {
+    "0.2.1" = import ./overrides/dsnparse/0.2.1;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
