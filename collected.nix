@@ -503,6 +503,9 @@
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
+  jpeg4py = {
+    "0.1.4" = import ./overrides/jpeg4py/0.1.4;
+  };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
   };
