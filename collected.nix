@@ -83,6 +83,9 @@
   auroranoaa = {
     "0.0.3" = import ./overrides/auroranoaa/0.0.3;
   };
+  authres = {
+    "1.2.0" = import ./overrides/authres/1.2.0;
+  };
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
