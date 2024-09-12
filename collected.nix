@@ -184,8 +184,23 @@
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
     "2.20.0" = import ./overrides/cloudflare/2.20.0;
   };
+  cloudshell-automation-api = {
+    "8.3.0.168355" = import ./overrides/cloudshell-automation-api/8.3.0.168355;
+  };
+  cloudshell-cli = {
+    "3.3.3" = import ./overrides/cloudshell-cli/3.3.3;
+  };
   cloudshell-core = {
     "2.2.180" = import ./overrides/cloudshell-core/2.2.180;
+  };
+  cloudshell-networking-devices = {
+    "2.8.0" = import ./overrides/cloudshell-networking-devices/2.8.0;
+  };
+  cloudshell-shell-core = {
+    "4.0.242" = import ./overrides/cloudshell-shell-core/4.0.242;
+  };
+  cloudshell-snmp = {
+    "3.3.0" = import ./overrides/cloudshell-snmp/3.3.0;
   };
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
@@ -522,6 +537,9 @@
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
+  ipcalc = {
+    "1.1.3" = import ./overrides/ipcalc/1.1.3;
+  };
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
@@ -545,6 +563,9 @@
   };
   jsonpath-rw = {
     "1.4.0" = import ./overrides/jsonpath-rw/1.4.0;
+  };
+  jsonpickle = {
+    "0.9.3" = import ./overrides/jsonpickle/0.9.3;
   };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
@@ -817,6 +838,7 @@
   };
   pycryptodome = {
     "3.3.1" = import ./overrides/pycryptodome/3.3.1;
+    "3.4.7" = import ./overrides/pycryptodome/3.4.7;
   };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
@@ -1022,6 +1044,9 @@
   };
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
+  };
+  scpclient = {
+    "0.7" = import ./overrides/scpclient/0.7;
   };
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
