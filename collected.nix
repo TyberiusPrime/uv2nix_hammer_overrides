@@ -702,6 +702,9 @@
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
   };
+  www-authenticate = {
+    "0.9.2" = import ./overrides/www-authenticate/0.9.2;
+  };
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
   };
