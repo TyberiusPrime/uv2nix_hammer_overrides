@@ -159,6 +159,9 @@
   binary2strings = {
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
+  bintrees = {
+    "2.2.0" = import ./overrides/bintrees/2.2.0;
+  };
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
