@@ -867,6 +867,9 @@
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
+  mouseinfo = {
+    "0.1.3" = import ./overrides/mouseinfo/0.1.3;
+  };
   mozdevice = {
     "4.1.2" = import ./overrides/mozdevice/4.1.2;
   };
@@ -1067,6 +1070,9 @@
   pyaes = {
     "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
+  pyautogui = {
+    "0.9.54" = import ./overrides/pyautogui/0.9.54;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
@@ -1115,6 +1121,9 @@
   };
   pyfarmhash = {
     "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
+  };
+  pygetwindow = {
+    "0.0.9" = import ./overrides/pygetwindow/0.0.9;
   };
   pygithub = {
     "1.45" = import ./overrides/pygithub/1.45;
@@ -1187,6 +1196,9 @@
   };
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
+  };
+  pyscreeze = {
+    "1.0.1" = import ./overrides/pyscreeze/1.0.1;
   };
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
@@ -1267,8 +1279,14 @@
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
+  python3-xlib = {
+    "0.15" = import ./overrides/python3-xlib/0.15;
+  };
   pytidylib = {
     "0.3.2" = import ./overrides/pytidylib/0.3.2;
+  };
+  pytweening = {
+    "1.2.0" = import ./overrides/pytweening/1.2.0;
   };
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
