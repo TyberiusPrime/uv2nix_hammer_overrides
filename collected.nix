@@ -419,6 +419,9 @@
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
   };
+  django-pure-pagination = {
+    "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
+  };
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
