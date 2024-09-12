@@ -1283,6 +1283,9 @@
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
   };
+  truncnorm = {
+    "0.0.2" = import ./overrides/truncnorm/0.0.2;
+  };
   tsam = {
     "2.3.3" = import ./overrides/tsam/2.3.3;
   };
