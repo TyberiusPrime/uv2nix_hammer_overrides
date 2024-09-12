@@ -1379,6 +1379,9 @@
   python-oauth2 = {
     "1.1.1" = import ./overrides/python-oauth2/1.1.1;
   };
+  python-opendata-transport = {
+    "0.4.0" = import ./overrides/python-opendata-transport/0.4.0;
+  };
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
