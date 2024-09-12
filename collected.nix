@@ -169,6 +169,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  grpc-google-logging-v2 = {
+    "0.11.1" = import ./overrides/grpc-google-logging-v2/0.11.1;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
@@ -235,6 +238,9 @@
   numpy = {
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
+  };
+  oauth2client = {
+    "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
