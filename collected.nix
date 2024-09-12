@@ -843,6 +843,9 @@
   logi-circle = {
     "0.2.3" = import ./overrides/logi-circle/0.2.3;
   };
+  logmatic-python = {
+    "0.1.7" = import ./overrides/logmatic-python/0.1.7;
+  };
   logutils = {
     "0.3.5" = import ./overrides/logutils/0.3.5;
   };
