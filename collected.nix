@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  libmagic = {
+    "1.0" = import ./overrides/libmagic/1.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
