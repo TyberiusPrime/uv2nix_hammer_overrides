@@ -660,6 +660,9 @@
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
+  monero = {
+    "1.1.1" = import ./overrides/monero/1.1.1;
+  };
   mozdevice = {
     "4.1.2" = import ./overrides/mozdevice/4.1.2;
   };
