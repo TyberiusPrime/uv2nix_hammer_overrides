@@ -374,6 +374,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycontracts = {
+    "1.8.12" = import ./overrides/pycontracts/1.8.12;
+  };
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
   };
