@@ -117,6 +117,9 @@
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
+  django-timedeltafield = {
+    "0.7.10" = import ./overrides/django-timedeltafield/0.7.10;
+  };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
