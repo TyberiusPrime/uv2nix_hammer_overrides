@@ -271,6 +271,9 @@
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
+  libmr = {
+    "0.1.9" = import ./overrides/libmr/0.1.9;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
