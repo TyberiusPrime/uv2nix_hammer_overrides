@@ -558,6 +558,9 @@
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
   };
+  json-log-formatter = {
+    "0.5.2" = import ./overrides/json-log-formatter/0.5.2;
+  };
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
@@ -1002,6 +1005,7 @@
   };
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
+    "5.4.1" = import ./overrides/pyyaml/5.4.1;
   };
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
