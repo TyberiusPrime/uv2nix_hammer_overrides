@@ -348,6 +348,9 @@
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
+  sphinx-autodoc-annotation = {
+    "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
+  };
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
