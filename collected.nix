@@ -74,6 +74,9 @@
   astutils = {
     "0.0.6" = import ./overrides/astutils/0.0.6;
   };
+  asynccmd = {
+    "0.2.4" = import ./overrides/asynccmd/0.2.4;
+  };
   atomicwrites = {
     "1.4.1" = import ./overrides/atomicwrites/1.4.1;
   };
