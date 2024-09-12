@@ -183,6 +183,9 @@
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
+  filterpy = {
+    "1.4.5" = import ./overrides/filterpy/1.4.5;
+  };
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
