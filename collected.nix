@@ -1155,6 +1155,9 @@
   pypattyrn = {
     "1.2" = import ./overrides/pypattyrn/1.2;
   };
+  pypdf3 = {
+    "1.0.6" = import ./overrides/pypdf3/1.0.6;
+  };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
