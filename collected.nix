@@ -289,6 +289,9 @@
   libmr = {
     "0.1.9" = import ./overrides/libmr/0.1.9;
   };
+  librouteros = {
+    "3.2.1" = import ./overrides/librouteros/3.2.1;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
