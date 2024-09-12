@@ -283,6 +283,9 @@
   compressed-rtf = {
     "1.0.6" = import ./overrides/compressed-rtf/1.0.6;
   };
+  cons = {
+    "0.4.6" = import ./overrides/cons/0.4.6;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
@@ -487,6 +490,9 @@
   };
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
+  };
+  etuples = {
+    "0.3.9" = import ./overrides/etuples/0.3.9;
   };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
@@ -864,6 +870,9 @@
   logi-circle = {
     "0.2.3" = import ./overrides/logi-circle/0.2.3;
   };
+  logical-unification = {
+    "0.4.6" = import ./overrides/logical-unification/0.4.6;
+  };
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
   };
@@ -917,6 +926,9 @@
   };
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
+  };
+  minikanren = {
+    "1.0.3" = import ./overrides/minikanren/1.0.3;
   };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
