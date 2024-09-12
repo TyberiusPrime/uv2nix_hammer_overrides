@@ -425,6 +425,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  easyhid = {
+    "0.0.10" = import ./overrides/easyhid/0.0.10;
+  };
   easyutils = {
     "0.1.7" = import ./overrides/easyutils/0.1.7;
   };
