@@ -798,6 +798,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  kerberos = {
+    "1.3.1" = import ./overrides/kerberos/1.3.1;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };

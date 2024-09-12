@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.krb5Full",]
