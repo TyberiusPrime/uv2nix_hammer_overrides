@@ -549,6 +549,9 @@
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
+  pipwin = {
+    "0.5.2" = import ./overrides/pipwin/0.5.2;
+  };
   pkgtools = {
     "0.7.3" = import ./overrides/pkgtools/0.7.3;
   };
