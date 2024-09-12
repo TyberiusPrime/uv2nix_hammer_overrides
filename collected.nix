@@ -68,6 +68,9 @@
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
+  biom-format = {
+    "2.1.16" = import ./overrides/biom-format/2.1.16;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
@@ -419,6 +422,9 @@
   };
   sat-stac = {
     "0.4.1" = import ./overrides/sat-stac/0.4.1;
+  };
+  scikit-bio = {
+    "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
