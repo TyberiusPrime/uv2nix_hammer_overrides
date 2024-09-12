@@ -343,6 +343,9 @@
   librouteros = {
     "3.2.1" = import ./overrides/librouteros/3.2.1;
   };
+  lightwave2 = {
+    "0.8.23" = import ./overrides/lightwave2/0.8.23;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
