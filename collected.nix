@@ -392,6 +392,9 @@
   factor-analyzer = {
     "0.5.1" = import ./overrides/factor-analyzer/0.5.1;
   };
+  fastapi-camelcase = {
+    "2.0.0" = import ./overrides/fastapi-camelcase/2.0.0;
+  };
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
