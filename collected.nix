@@ -918,6 +918,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  miniful = {
+    "0.0.6" = import ./overrides/miniful/0.0.6;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
