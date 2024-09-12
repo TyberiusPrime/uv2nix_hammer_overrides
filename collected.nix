@@ -810,6 +810,9 @@
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
   };
+  latlon = {
+    "1.0.2" = import ./overrides/latlon/1.0.2;
+  };
   lazy-string = {
     "1.0.0" = import ./overrides/lazy-string/1.0.0;
   };
