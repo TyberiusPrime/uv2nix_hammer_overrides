@@ -8,7 +8,8 @@ available = [x for x in found if x.is_dir() and (x / 'build' / 'result').exists(
 if not available:
     print("No hammer_build* directories found")
     print("Found without build result:")
-    print(found)
+    for f in found:
+        print("\t", f)
     exit(1)
 
 # if len(available) > 1:
@@ -23,16 +24,23 @@ if not available:
 #     chosen = available[0]
 # print("pulling from", chosen)
 
+commited_any = False
+
 for chosen in available:
     print(chosen)
-    subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase"])
-    output = subprocess.check_output(['git', 'status', '--porcelain'])
+    env = os.environ.copy()
+    env['EDITOR'] = 'true'
+    subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase"], env=env)
+    output = subprocess.check_output(['git', 'status', '--porcelain'], env=env)
     if b'UU' in output:
         print('Conflict exists')
         subprocess.run(["./dev/collect.py"])
-        subprocess.run(["git", "add", "collected.nix"])
-        env = os.environ.copy()
-        env['GIT_MERGE_AUTOEDIT'] = 'no'
+        subprocess.run(["git", "add", "collected.nix"], env=env)
         subprocess.check_call(["git", "merge", "--continue"],
                               env = env)
     shutil.move(chosen, chosen.with_name("imported_" + chosen.name))
+    commited_any = True
+
+
+if commited_any:
+    subprocess.check_call(['nix-collect-garbage'])
