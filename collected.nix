@@ -1612,6 +1612,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  thriftpy2 = {
+    "0.5.2" = import ./overrides/thriftpy2/0.5.2;
+  };
   timeloop = {
     "1.0.2" = import ./overrides/timeloop/1.0.2;
   };
