@@ -351,6 +351,9 @@
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
+  srt = {
+    "3.5.3" = import ./overrides/srt/3.5.3;
+  };
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
