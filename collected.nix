@@ -1129,6 +1129,9 @@
   python-gflags = {
     "3.1.2" = import ./overrides/python-gflags/3.1.2;
   };
+  python-highcharts = {
+    "0.4.2" = import ./overrides/python-highcharts/0.4.2;
+  };
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
