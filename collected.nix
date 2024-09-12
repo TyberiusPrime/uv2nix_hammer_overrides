@@ -1034,6 +1034,7 @@
     "1.1" = import ./overrides/ordereddict/1.1;
   };
   paho-mqtt = {
+    "1.5.0" = import ./overrides/paho-mqtt/1.5.0;
     "1.6.1" = import ./overrides/paho-mqtt/1.6.1;
   };
   pandas = {
@@ -1430,6 +1431,9 @@
   };
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
+  };
+  rhasspy-hermes = {
+    "0.6.2" = import ./overrides/rhasspy-hermes/0.6.2;
   };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
