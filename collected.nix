@@ -147,6 +147,9 @@
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
+  beatbox = {
+    "32.1" = import ./overrides/beatbox/32.1;
+  };
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
