@@ -77,6 +77,9 @@
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
+  cppimport = {
+    "22.8.2" = import ./overrides/cppimport/22.8.2;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
