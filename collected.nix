@@ -402,6 +402,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  vivisect-vstruct-wb = {
+    "1.0.3" = import ./overrides/vivisect-vstruct-wb/1.0.3;
+  };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
