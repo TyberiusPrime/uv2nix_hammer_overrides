@@ -135,6 +135,9 @@
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
+  fancyimpute = {
+    "0.7.0" = import ./overrides/fancyimpute/0.7.0;
+  };
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
@@ -198,6 +201,9 @@
   };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
+  };
+  knnimpute = {
+    "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
