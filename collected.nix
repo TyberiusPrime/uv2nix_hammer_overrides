@@ -437,6 +437,9 @@
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
+  pmsensor = {
+    "0.4" = import ./overrides/pmsensor/0.4;
+  };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
