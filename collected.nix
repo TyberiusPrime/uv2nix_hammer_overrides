@@ -1080,6 +1080,9 @@
   pyderive3 = {
     "0.0.6" = import ./overrides/pyderive3/0.0.6;
   };
+  pydes = {
+    "2.0.1" = import ./overrides/pydes/2.0.1;
+  };
   pydevccu = {
     "0.1.8" = import ./overrides/pydevccu/0.1.8;
   };
