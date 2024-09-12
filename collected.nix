@@ -1382,6 +1382,9 @@
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
+  python-packer = {
+    "0.1.2" = import ./overrides/python-packer/0.1.2;
+  };
   python-singleton-metaclasses = {
     "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
   };
@@ -1518,6 +1521,9 @@
   };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
+  };
+  sh = {
+    "1.11" = import ./overrides/sh/1.11;
   };
   shopifyapi = {
     "12.6.0" = import ./overrides/shopifyapi/12.6.0;
