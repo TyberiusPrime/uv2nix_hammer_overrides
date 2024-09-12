@@ -1559,6 +1559,9 @@
   vlsirtools = {
     "6.0.0" = import ./overrides/vlsirtools/6.0.0;
   };
+  volkanic = {
+    "0.5.3" = import ./overrides/volkanic/0.5.3;
+  };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
