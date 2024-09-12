@@ -1385,6 +1385,9 @@
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
+  trueskill = {
+    "0.4.5" = import ./overrides/trueskill/0.4.5;
+  };
   truncnorm = {
     "0.0.2" = import ./overrides/truncnorm/0.0.2;
   };
