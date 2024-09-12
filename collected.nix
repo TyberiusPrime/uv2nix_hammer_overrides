@@ -193,6 +193,9 @@
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
   };
+  json-log-formatter = {
+    "0.5.2" = import ./overrides/json-log-formatter/0.5.2;
+  };
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
@@ -323,6 +326,7 @@
   };
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
+    "5.4.1" = import ./overrides/pyyaml/5.4.1;
   };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
