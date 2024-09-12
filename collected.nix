@@ -1106,6 +1106,9 @@
   umap = {
     "0.1.1" = import ./overrides/umap/0.1.1;
   };
+  unifiled = {
+    "1.1" = import ./overrides/unifiled/1.1;
+  };
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
   };
