@@ -1099,6 +1099,9 @@
   pyxdameraulevenshtein = {
     "1.8.0" = import ./overrides/pyxdameraulevenshtein/1.8.0;
   };
+  pyxis = {
+    "0.2.1" = import ./overrides/pyxis/0.2.1;
+  };
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
