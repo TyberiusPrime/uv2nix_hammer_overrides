@@ -379,6 +379,9 @@
   ihm = {
     "1.5" = import ./overrides/ihm/1.5;
   };
+  image = {
+    "1.5.33" = import ./overrides/image/1.5.33;
+  };
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
