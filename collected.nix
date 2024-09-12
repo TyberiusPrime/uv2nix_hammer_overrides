@@ -1466,6 +1466,9 @@
   tsam = {
     "2.3.3" = import ./overrides/tsam/2.3.3;
   };
+  twitter-common-contextutil = {
+    "0.3.11" = import ./overrides/twitter-common-contextutil/0.3.11;
+  };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
   };
@@ -1477,6 +1480,9 @@
   };
   twitter-common-lang = {
     "0.3.11" = import ./overrides/twitter-common-lang/0.3.11;
+  };
+  twitter-common-util = {
+    "0.3.11" = import ./overrides/twitter-common-util/0.3.11;
   };
   typogrify = {
     "2.0.7" = import ./overrides/typogrify/2.0.7;
