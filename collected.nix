@@ -132,6 +132,9 @@
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
+  bkcharts = {
+    "0.2" = import ./overrides/bkcharts/0.2;
+  };
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
   };
