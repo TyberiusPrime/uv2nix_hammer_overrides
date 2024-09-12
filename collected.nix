@@ -732,6 +732,9 @@
   kabaret = {
     "2.3.0" = import ./overrides/kabaret/2.3.0;
   };
+  kamene = {
+    "0.32" = import ./overrides/kamene/0.32;
+  };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
