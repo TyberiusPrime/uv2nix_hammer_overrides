@@ -744,6 +744,9 @@
   jaconv = {
     "0.4.0" = import ./overrides/jaconv/0.4.0;
   };
+  jcloud = {
+    "0.3" = import ./overrides/jcloud/0.3;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
