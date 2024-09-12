@@ -1094,6 +1094,9 @@
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
+  pyactiveresource = {
+    "2.2.2" = import ./overrides/pyactiveresource/2.2.2;
+  };
   pyaes = {
     "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
@@ -1424,6 +1427,9 @@
   };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
+  };
+  shopifyapi = {
+    "12.6.0" = import ./overrides/shopifyapi/12.6.0;
   };
   shortid = {
     "0.1.2" = import ./overrides/shortid/0.1.2;
