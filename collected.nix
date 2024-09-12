@@ -281,6 +281,12 @@
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
+  pylint-celery = {
+    "0.3" = import ./overrides/pylint-celery/0.3;
+  };
+  pylint-flask = {
+    "0.6" = import ./overrides/pylint-flask/0.6;
+  };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
