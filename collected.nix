@@ -361,6 +361,9 @@
   httpagentparser = {
     "1.9.5" = import ./overrides/httpagentparser/1.9.5;
   };
+  httpretty = {
+    "1.1.4" = import ./overrides/httpretty/1.1.4;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
