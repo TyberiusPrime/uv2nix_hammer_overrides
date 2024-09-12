@@ -528,6 +528,9 @@
   gaeforms = {
     "0.21" = import ./overrides/gaeforms/0.21;
   };
+  gammapy = {
+    "1.2" = import ./overrides/gammapy/1.2;
+  };
   gazpacho = {
     "1.1" = import ./overrides/gazpacho/1.1;
   };
