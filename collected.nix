@@ -899,6 +899,9 @@
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
+  python-singleton-metaclasses = {
+    "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
+  };
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
