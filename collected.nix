@@ -313,6 +313,9 @@
   cpg-utils = {
     "5.1.0" = import ./overrides/cpg-utils/5.1.0;
   };
+  cppheaderparser = {
+    "2.7.4" = import ./overrides/cppheaderparser/2.7.4;
+  };
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
