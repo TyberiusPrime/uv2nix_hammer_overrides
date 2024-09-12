@@ -395,6 +395,9 @@
   django-cacheops = {
     "7.0.2" = import ./overrides/django-cacheops/7.0.2;
   };
+  django-cratis = {
+    "0.9.1" = import ./overrides/django-cratis/0.9.1;
+  };
   django-dajaxice = {
     "0.7" = import ./overrides/django-dajaxice/0.7;
   };
