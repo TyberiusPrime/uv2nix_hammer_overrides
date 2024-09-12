@@ -364,6 +364,9 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  jsonpath-rw = {
+    "1.4.0" = import ./overrides/jsonpath-rw/1.4.0;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
