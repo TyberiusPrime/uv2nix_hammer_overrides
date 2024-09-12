@@ -260,6 +260,9 @@
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
+  prodict = {
+    "0.8.18" = import ./overrides/prodict/0.8.18;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
