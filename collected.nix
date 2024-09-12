@@ -1438,6 +1438,9 @@
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
+  pyzerproc = {
+    "0.4.12" = import ./overrides/pyzerproc/0.4.12;
+  };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
