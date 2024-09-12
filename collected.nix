@@ -192,6 +192,9 @@
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
+  click-completion = {
+    "0.5.2" = import ./overrides/click-completion/0.5.2;
+  };
   clint = {
     "0.5.1" = import ./overrides/clint/0.5.1;
   };
