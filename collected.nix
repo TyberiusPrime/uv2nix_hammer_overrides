@@ -259,6 +259,9 @@
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
   };
+  json-table-schema = {
+    "0.2.1" = import ./overrides/json-table-schema/0.2.1;
+  };
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
