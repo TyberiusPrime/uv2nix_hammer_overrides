@@ -1046,6 +1046,9 @@
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
+  yamlcfg = {
+    "0.5.3" = import ./overrides/yamlcfg/0.5.3;
+  };
   zuper-commons-z6 = {
     "6.2.4" = import ./overrides/zuper-commons-z6/6.2.4;
   };
