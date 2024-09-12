@@ -416,6 +416,9 @@
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
+  homura = {
+    "0.1.5" = import ./overrides/homura/0.1.5;
+  };
   hopcroftkarp = {
     "1.2.5" = import ./overrides/hopcroftkarp/1.2.5;
   };
