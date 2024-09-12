@@ -1501,6 +1501,9 @@
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
+  sciunit = {
+    "0.2.8" = import ./overrides/sciunit/0.2.8;
+  };
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
