@@ -138,6 +138,9 @@
   basicsr = {
     "1.4.2" = import ./overrides/basicsr/1.4.2;
   };
+  batinfo = {
+    "0.4.2" = import ./overrides/batinfo/0.4.2;
+  };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
