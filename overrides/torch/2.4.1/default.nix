@@ -31,5 +31,4 @@ else
       pkgs.cudaPackages.nccl
       pkgs.cudaPackages_11.libcusolver
     ];
-    env = { };
   }
