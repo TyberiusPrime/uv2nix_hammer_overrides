@@ -238,6 +238,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  coffeescript = {
+    "2.0.3" = import ./overrides/coffeescript/2.0.3;
+  };
   combo = {
     "0.1.3" = import ./overrides/combo/0.1.3;
   };
@@ -1031,6 +1034,9 @@
   };
   pydevccu = {
     "0.1.8" = import ./overrides/pydevccu/0.1.8;
+  };
+  pyexecjs = {
+    "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
   pyfakewebcam = {
     "0.1.0" = import ./overrides/pyfakewebcam/0.1.0;
