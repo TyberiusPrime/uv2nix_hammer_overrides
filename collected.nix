@@ -92,6 +92,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  bitvavo-aio = {
+    "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
+  };
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
   };
