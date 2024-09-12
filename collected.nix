@@ -470,6 +470,9 @@
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
   };
+  pidfile = {
+    "0.1.1" = import ./overrides/pidfile/0.1.1;
+  };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
