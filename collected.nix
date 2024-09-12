@@ -444,6 +444,9 @@
   gazpacho = {
     "1.1" = import ./overrides/gazpacho/1.1;
   };
+  gcs-oauth2-boto-plugin = {
+    "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
@@ -994,6 +997,9 @@
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
+  pyu2f = {
+    "0.1.5" = import ./overrides/pyu2f/0.1.5;
+  };
   pyudorandom = {
     "1.0.0" = import ./overrides/pyudorandom/1.0.0;
   };
@@ -1033,6 +1039,9 @@
   };
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
+  };
+  retry-decorator = {
+    "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
