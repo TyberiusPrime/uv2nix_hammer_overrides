@@ -648,6 +648,9 @@
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
   };
+  nanotime = {
+    "0.5.2" = import ./overrides/nanotime/0.5.2;
+  };
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
