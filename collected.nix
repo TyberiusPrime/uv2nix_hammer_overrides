@@ -554,6 +554,9 @@
   odfpy = {
     "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
+  ofxparse = {
+    "0.21" = import ./overrides/ofxparse/0.21;
+  };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
   };
