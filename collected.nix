@@ -380,6 +380,12 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  distributedlock = {
+    "1.2" = import ./overrides/distributedlock/1.2;
+  };
+  django-annoying = {
+    "0.10.7" = import ./overrides/django-annoying/0.10.7;
+  };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
   };
@@ -418,6 +424,9 @@
   };
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
+  };
+  django-oauth-tokens = {
+    "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
   };
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
