@@ -1024,6 +1024,9 @@
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
+  onetimepass = {
+    "1.0.1" = import ./overrides/onetimepass/1.0.1;
+  };
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
