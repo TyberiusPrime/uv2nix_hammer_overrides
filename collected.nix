@@ -331,6 +331,9 @@
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
+  lolcat = {
+    "1.4" = import ./overrides/lolcat/1.4;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
