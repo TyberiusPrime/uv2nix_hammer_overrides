@@ -50,6 +50,9 @@
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
+  args = {
+    "0.1.0" = import ./overrides/args/0.1.0;
+  };
   armstrong-utils-backends = {
     "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
   };
@@ -130,6 +133,9 @@
   };
   circuit-webhook = {
     "1.0.1" = import ./overrides/circuit-webhook/1.0.1;
+  };
+  clint = {
+    "0.5.1" = import ./overrides/clint/0.5.1;
   };
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
@@ -278,6 +284,9 @@
   };
   empy = {
     "3.3.4" = import ./overrides/empy/3.3.4;
+  };
+  etgen = {
+    "1.1.4" = import ./overrides/etgen/1.1.4;
   };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
@@ -448,6 +457,9 @@
   lightwave2 = {
     "0.8.23" = import ./overrides/lightwave2/0.8.23;
   };
+  lino = {
+    "24.9.0" = import ./overrides/lino/24.9.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
@@ -523,6 +535,9 @@
   };
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
+  };
+  odfpy = {
+    "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
@@ -700,6 +715,9 @@
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
+  pytidylib = {
+    "0.3.2" = import ./overrides/pytidylib/0.3.2;
+  };
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
@@ -735,6 +753,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  rstgen = {
+    "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
@@ -849,6 +870,9 @@
   };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
+  };
+  unipath = {
+    "1.1" = import ./overrides/unipath/1.1;
   };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
