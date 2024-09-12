@@ -222,6 +222,9 @@
   emport = {
     "1.3.1" = import ./overrides/emport/1.3.1;
   };
+  empy = {
+    "3.3.4" = import ./overrides/empy/3.3.4;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
