@@ -189,6 +189,9 @@
   cometblue-lite = {
     "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
   };
+  compose = {
+    "1.5.0" = import ./overrides/compose/1.5.0;
+  };
   compressed-rtf = {
     "1.0.6" = import ./overrides/compressed-rtf/1.0.6;
   };
