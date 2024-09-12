@@ -1,0 +1,1 @@
+BuildSystems = [ "cython", "extension-helpers", "oldest-supported-numpy", "setuptools", "setuptools-scm", "wheel",]

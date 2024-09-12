@@ -160,6 +160,9 @@
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
   };
+  gammapy = {
+    "1.2" = import ./overrides/gammapy/1.2;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
