@@ -242,6 +242,9 @@
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
+  pidfile = {
+    "0.1.1" = import ./overrides/pidfile/0.1.1;
+  };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
