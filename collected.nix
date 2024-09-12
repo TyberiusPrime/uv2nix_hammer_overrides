@@ -464,6 +464,9 @@
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
+  opster = {
+    "5.0" = import ./overrides/opster/5.0;
+  };
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
