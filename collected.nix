@@ -247,6 +247,9 @@
   core-parser-app = {
     "2.10.0" = import ./overrides/core-parser-app/2.10.0;
   };
+  cov-core = {
+    "1.15.0" = import ./overrides/cov-core/1.15.0;
+  };
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
