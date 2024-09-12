@@ -1024,6 +1024,9 @@
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
+  onkyo-eiscp = {
+    "1.2.7" = import ./overrides/onkyo-eiscp/1.2.7;
+  };
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
