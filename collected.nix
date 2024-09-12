@@ -83,6 +83,15 @@
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
+  core-main-app = {
+    "2.10.0" = import ./overrides/core-main-app/2.10.0;
+  };
+  core-main-registry-app = {
+    "2.10.0" = import ./overrides/core-main-registry-app/2.10.0;
+  };
+  core-parser-app = {
+    "2.10.0" = import ./overrides/core-parser-app/2.10.0;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
@@ -473,6 +482,9 @@
   };
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
+  };
+  xml-utils = {
+    "1.21.0" = import ./overrides/xml-utils/1.21.0;
   };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
