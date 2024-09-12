@@ -359,6 +359,9 @@
   django-timedeltafield = {
     "0.7.10" = import ./overrides/django-timedeltafield/0.7.10;
   };
+  django-transmeta = {
+    "0.7.3" = import ./overrides/django-transmeta/0.7.3;
+  };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
