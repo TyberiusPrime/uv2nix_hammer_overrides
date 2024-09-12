@@ -1155,6 +1155,9 @@
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
+  pyjwkest = {
+    "1.4.2" = import ./overrides/pyjwkest/1.4.2;
+  };
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
   };
