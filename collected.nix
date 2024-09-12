@@ -873,6 +873,9 @@
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
+  metayaml = {
+    "1.2" = import ./overrides/metayaml/1.2;
+  };
   miasm = {
     "0.1.5" = import ./overrides/miasm/0.1.5;
   };
@@ -1565,6 +1568,24 @@
   };
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
+  };
+  tpdcc-config = {
+    "0.0.9" = import ./overrides/tpdcc-config/0.0.9;
+  };
+  tpdcc-core = {
+    "0.0.30" = import ./overrides/tpdcc-core/0.0.30;
+  };
+  tpdcc-libs-plugin = {
+    "0.0.1" = import ./overrides/tpdcc-libs-plugin/0.0.1;
+  };
+  tpdcc-libs-python = {
+    "0.0.15" = import ./overrides/tpdcc-libs-python/0.0.15;
+  };
+  tpdcc-libs-qt = {
+    "0.0.23" = import ./overrides/tpdcc-libs-qt/0.0.23;
+  };
+  tpdcc-libs-resources = {
+    "0.0.2" = import ./overrides/tpdcc-libs-resources/0.0.2;
   };
   trading-calendars = {
     "2.1.1" = import ./overrides/trading-calendars/2.1.1;
