@@ -654,6 +654,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  lmtpd = {
+    "6.2.0" = import ./overrides/lmtpd/6.2.0;
+  };
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
