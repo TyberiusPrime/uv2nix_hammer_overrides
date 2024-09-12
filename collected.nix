@@ -465,6 +465,9 @@
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
+  getdist = {
+    "1.5.2" = import ./overrides/getdist/1.5.2;
+  };
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
