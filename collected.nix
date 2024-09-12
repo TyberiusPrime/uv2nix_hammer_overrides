@@ -87,6 +87,9 @@
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
   };
+  astroplan = {
+    "0.9.1" = import ./overrides/astroplan/0.9.1;
+  };
   astutils = {
     "0.0.6" = import ./overrides/astutils/0.0.6;
   };
@@ -1105,6 +1108,9 @@
   };
   slimit = {
     "0.8.1" = import ./overrides/slimit/0.8.1;
+  };
+  slixmpp = {
+    "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
