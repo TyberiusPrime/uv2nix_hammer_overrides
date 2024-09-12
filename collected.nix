@@ -174,6 +174,9 @@
   cloud-compose = {
     "0.4.1" = import ./overrides/cloud-compose/0.4.1;
   };
+  cloudflare = {
+    "2.20.0" = import ./overrides/cloudflare/2.20.0;
+  };
   cloudshell-core = {
     "2.2.180" = import ./overrides/cloudshell-core/2.2.180;
   };
