@@ -254,6 +254,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  proxy-tools = {
+    "0.1.0" = import ./overrides/proxy-tools/0.1.0;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
