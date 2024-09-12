@@ -1059,6 +1059,9 @@
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
+  stashy = {
+    "0.7" = import ./overrides/stashy/0.7;
+  };
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
