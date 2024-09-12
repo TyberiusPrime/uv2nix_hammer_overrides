@@ -362,6 +362,9 @@
   pystemd = {
     "0.13.2" = import ./overrides/pystemd/0.13.2;
   };
+  pyswarm = {
+    "0.6" = import ./overrides/pyswarm/0.6;
+  };
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
   };
