@@ -392,6 +392,9 @@
   django-jquery-js = {
     "3.1.1" = import ./overrides/django-jquery-js/3.1.1;
   };
+  django-libs = {
+    "2.0.3" = import ./overrides/django-libs/2.0.3;
+  };
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
   };
