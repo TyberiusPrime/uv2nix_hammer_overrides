@@ -205,6 +205,9 @@
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
+  manifestparser = {
+    "2.1.0" = import ./overrides/manifestparser/2.1.0;
+  };
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
@@ -213,6 +216,9 @@
   };
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
+  };
+  mozlog = {
+    "8.0.0" = import ./overrides/mozlog/8.0.0;
   };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
