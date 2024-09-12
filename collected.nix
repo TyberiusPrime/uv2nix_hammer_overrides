@@ -213,6 +213,9 @@
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
+  cs-ansi-colour = {
+    "20220227" = import ./overrides/cs-ansi-colour/20220227;
+  };
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
