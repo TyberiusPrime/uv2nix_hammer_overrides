@@ -1726,6 +1726,9 @@
   umap = {
     "0.1.1" = import ./overrides/umap/0.1.1;
   };
+  undetected-chromedriver = {
+    "3.5.5" = import ./overrides/undetected-chromedriver/3.5.5;
+  };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
   };
