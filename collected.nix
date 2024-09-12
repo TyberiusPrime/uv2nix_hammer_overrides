@@ -202,6 +202,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  lru-dict = {
+    "1.2.0" = import ./overrides/lru-dict/1.2.0;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
@@ -317,6 +320,9 @@
   };
   pyudorandom = {
     "1.0.0" = import ./overrides/pyudorandom/1.0.0;
+  };
+  pyunormalize = {
+    "15.1.0" = import ./overrides/pyunormalize/15.1.0;
   };
   pyxdameraulevenshtein = {
     "1.8.0" = import ./overrides/pyxdameraulevenshtein/1.8.0;
