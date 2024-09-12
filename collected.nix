@@ -336,6 +336,9 @@
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
+  showit = {
+    "1.1.4" = import ./overrides/showit/1.1.4;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
