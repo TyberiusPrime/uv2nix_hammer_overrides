@@ -1370,6 +1370,9 @@
   strict-functions = {
     "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
   };
+  stringcase = {
+    "1.2.0" = import ./overrides/stringcase/1.2.0;
+  };
   stringconvert = {
     "0.3.2" = import ./overrides/stringconvert/0.3.2;
   };
