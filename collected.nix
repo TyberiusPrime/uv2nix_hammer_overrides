@@ -1016,6 +1016,9 @@
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
   };
+  umap = {
+    "0.1.1" = import ./overrides/umap/0.1.1;
+  };
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
   };
