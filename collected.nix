@@ -1115,6 +1115,9 @@
   pyautogui = {
     "0.9.54" = import ./overrides/pyautogui/0.9.54;
   };
+  pybrowserid = {
+    "0.14.0" = import ./overrides/pybrowserid/0.14.0;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
