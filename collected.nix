@@ -787,6 +787,9 @@
   pyudorandom = {
     "1.0.0" = import ./overrides/pyudorandom/1.0.0;
   };
+  pyunormalize = {
+    "15.1.0" = import ./overrides/pyunormalize/15.1.0;
+  };
   pyvlx = {
     "0.2.23" = import ./overrides/pyvlx/0.2.23;
   };
