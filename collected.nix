@@ -1641,6 +1641,9 @@
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
+  visitor = {
+    "0.1.3" = import ./overrides/visitor/0.1.3;
+  };
   vivisect-vstruct-wb = {
     "1.0.3" = import ./overrides/vivisect-vstruct-wb/1.0.3;
   };
