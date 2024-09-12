@@ -754,6 +754,9 @@
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
+  pyderive3 = {
+    "0.0.6" = import ./overrides/pyderive3/0.0.6;
+  };
   pydevccu = {
     "0.1.8" = import ./overrides/pydevccu/0.1.8;
   };
