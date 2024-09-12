@@ -129,6 +129,9 @@
   auroranoaa = {
     "0.0.3" = import ./overrides/auroranoaa/0.0.3;
   };
+  authheaders = {
+    "0.16.3" = import ./overrides/authheaders/0.16.3;
+  };
   authres = {
     "1.2.0" = import ./overrides/authres/1.2.0;
   };
@@ -442,6 +445,9 @@
   };
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
+  };
+  dkimpy = {
+    "1.1.8" = import ./overrides/dkimpy/1.1.8;
   };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
