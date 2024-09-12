@@ -504,6 +504,9 @@
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
+  shortid = {
+    "0.1.2" = import ./overrides/shortid/0.1.2;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
