@@ -244,6 +244,9 @@
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
+  colortools = {
+    "0.1.2" = import ./overrides/colortools/0.1.2;
+  };
   combo = {
     "0.1.3" = import ./overrides/combo/0.1.3;
   };
@@ -743,6 +746,9 @@
   };
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
+  };
+  lazyutils = {
+    "0.3.3" = import ./overrides/lazyutils/0.3.3;
   };
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
@@ -1456,6 +1462,9 @@
   };
   trading-calendars = {
     "2.1.1" = import ./overrides/trading-calendars/2.1.1;
+  };
+  transpyler = {
+    "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
