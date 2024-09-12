@@ -555,6 +555,9 @@
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
+  isospecpy = {
+    "2.2.2" = import ./overrides/isospecpy/2.2.2;
+  };
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
