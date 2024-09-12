@@ -210,6 +210,9 @@
   core-parser-app = {
     "2.10.0" = import ./overrides/core-parser-app/2.10.0;
   };
+  cpe = {
+    "1.3.0" = import ./overrides/cpe/1.3.0;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
