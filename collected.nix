@@ -593,6 +593,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  neo4jrestclient = {
+    "2.1.1" = import ./overrides/neo4jrestclient/2.1.1;
+  };
   neobolt = {
     "1.7.17" = import ./overrides/neobolt/1.7.17;
   };
