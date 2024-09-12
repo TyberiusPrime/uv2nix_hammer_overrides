@@ -481,6 +481,9 @@
   libsaas = {
     "0.4" = import ./overrides/libsaas/0.4;
   };
+  lifxlan = {
+    "1.2.7" = import ./overrides/lifxlan/1.2.7;
+  };
   lightwave2 = {
     "0.8.23" = import ./overrides/lightwave2/0.8.23;
   };
