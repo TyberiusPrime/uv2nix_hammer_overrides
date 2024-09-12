@@ -62,6 +62,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  biom-format = {
+    "2.1.16" = import ./overrides/biom-format/2.1.16;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
@@ -335,6 +338,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  scikit-bio = {
+    "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
