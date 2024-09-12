@@ -153,6 +153,9 @@
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
+  chiki-base = {
+    "0.0.3" = import ./overrides/chiki-base/0.0.3;
+  };
   circuit-webhook = {
     "1.0.1" = import ./overrides/circuit-webhook/1.0.1;
   };
@@ -340,11 +343,17 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  flask = {
+    "0.10.1" = import ./overrides/flask/0.10.1;
+  };
   flask-apscheduler = {
     "1.13.1" = import ./overrides/flask-apscheduler/1.13.1;
   };
   flask-kvsession-invenio = {
     "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
+  };
+  flask-login = {
+    "0.2.11" = import ./overrides/flask-login/0.2.11;
   };
   flask-mail = {
     "0.9.1" = import ./overrides/flask-mail/0.9.1;
