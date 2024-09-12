@@ -216,6 +216,9 @@
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
+  emport = {
+    "1.3.1" = import ./overrides/emport/1.3.1;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
@@ -294,6 +297,9 @@
   };
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
+  };
+  infi-pyutils = {
+    "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
