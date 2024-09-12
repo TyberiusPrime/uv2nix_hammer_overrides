@@ -1382,6 +1382,9 @@
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
   };
+  tri-struct = {
+    "4.1.0" = import ./overrides/tri-struct/4.1.0;
+  };
   truncnorm = {
     "0.0.2" = import ./overrides/truncnorm/0.0.2;
   };
