@@ -1451,6 +1451,9 @@
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
   };
+  trading-calendars = {
+    "2.1.1" = import ./overrides/trading-calendars/2.1.1;
+  };
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
