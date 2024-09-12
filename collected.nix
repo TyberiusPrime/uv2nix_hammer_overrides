@@ -169,6 +169,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  grapheme = {
+    "0.6.0" = import ./overrides/grapheme/0.6.0;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
@@ -283,6 +286,9 @@
   };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
+  };
+  pymoo = {
+    "0.6.1.3" = import ./overrides/pymoo/0.6.1.3;
   };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
