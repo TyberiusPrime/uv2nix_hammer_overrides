@@ -1208,6 +1208,9 @@
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
+  sewar = {
+    "0.4.6" = import ./overrides/sewar/0.4.6;
+  };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
