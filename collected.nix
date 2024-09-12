@@ -179,6 +179,9 @@
   dada-utils = {
     "0.0.9" = import ./overrides/dada-utils/0.0.9;
   };
+  daemonocle = {
+    "1.2.3" = import ./overrides/daemonocle/1.2.3;
+  };
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
