@@ -108,6 +108,9 @@
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
+  django-bootstrap3-datetimepicker = {
+    "2.2.3" = import ./overrides/django-bootstrap3-datetimepicker/2.2.3;
+  };
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
