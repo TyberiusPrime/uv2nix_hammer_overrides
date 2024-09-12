@@ -318,6 +318,9 @@
   pyudorandom = {
     "1.0.0" = import ./overrides/pyudorandom/1.0.0;
   };
+  pyvips = {
+    "2.2.3" = import ./overrides/pyvips/2.2.3;
+  };
   pyxdameraulevenshtein = {
     "1.8.0" = import ./overrides/pyxdameraulevenshtein/1.8.0;
   };
