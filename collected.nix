@@ -276,6 +276,9 @@
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
+  factor-analyzer = {
+    "0.5.1" = import ./overrides/factor-analyzer/0.5.1;
+  };
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
