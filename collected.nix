@@ -132,6 +132,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  espeak-phonemizer = {
+    "1.3.1" = import ./overrides/espeak-phonemizer/1.3.1;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
