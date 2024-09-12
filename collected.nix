@@ -636,8 +636,14 @@
   grpclib = {
     "0.4.7" = import ./overrides/grpclib/0.4.7;
   };
+  gruut = {
+    "2.4.0" = import ./overrides/gruut/2.4.0;
+  };
   gruut-ipa = {
     "0.13.0" = import ./overrides/gruut-ipa/0.13.0;
+  };
+  gruut-lang-en = {
+    "2.0.1" = import ./overrides/gruut-lang-en/2.0.1;
   };
   gym = {
     "0.26.2" = import ./overrides/gym/0.26.2;
