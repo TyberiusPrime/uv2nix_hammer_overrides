@@ -928,6 +928,9 @@
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
+  opal-adal = {
+    "1.2.4" = import ./overrides/opal-adal/1.2.4;
+  };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
   };
