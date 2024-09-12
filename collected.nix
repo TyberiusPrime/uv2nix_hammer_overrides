@@ -260,6 +260,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycontracts = {
+    "1.8.12" = import ./overrides/pycontracts/1.8.12;
+  };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
