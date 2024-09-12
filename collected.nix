@@ -135,6 +135,9 @@
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
+  autosemver = {
+    "1.0.0" = import ./overrides/autosemver/1.0.0;
+  };
   av = {
     "13.0.0" = import ./overrides/av/13.0.0;
   };
