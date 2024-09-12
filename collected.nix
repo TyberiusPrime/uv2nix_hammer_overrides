@@ -183,6 +183,9 @@
   blinker = {
     "1.4" = import ./overrides/blinker/1.4;
   };
+  bottle-utils-common = {
+    "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
