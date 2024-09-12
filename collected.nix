@@ -383,6 +383,9 @@
   flask-apscheduler = {
     "1.13.1" = import ./overrides/flask-apscheduler/1.13.1;
   };
+  flask-jsonpify = {
+    "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
+  };
   flask-kvsession-invenio = {
     "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
   };
