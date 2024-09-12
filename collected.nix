@@ -284,6 +284,9 @@
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
+  pypattyrn = {
+    "1.2" = import ./overrides/pypattyrn/1.2;
+  };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
