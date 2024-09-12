@@ -651,6 +651,9 @@
   h5pyd = {
     "0.18.0" = import ./overrides/h5pyd/0.18.0;
   };
+  hanziconv = {
+    "0.3.2" = import ./overrides/hanziconv/0.3.2;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
