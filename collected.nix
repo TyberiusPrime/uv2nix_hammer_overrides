@@ -225,6 +225,9 @@
   django-daterange-filter = {
     "1.3.0" = import ./overrides/django-daterange-filter/1.3.0;
   };
+  django-datetime-widget = {
+    "0.9.3" = import ./overrides/django-datetime-widget/0.9.3;
+  };
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
