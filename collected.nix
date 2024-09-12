@@ -308,6 +308,9 @@
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
+  pymsgbox = {
+    "1.0.9" = import ./overrides/pymsgbox/1.0.9;
+  };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
