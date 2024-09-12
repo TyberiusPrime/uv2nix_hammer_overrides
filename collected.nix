@@ -217,6 +217,9 @@
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
+  multidict = {
+    "4.7.6" = import ./overrides/multidict/4.7.6;
+  };
   mutesync = {
     "0.0.2" = import ./overrides/mutesync/0.0.2;
   };
