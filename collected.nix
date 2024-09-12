@@ -328,6 +328,9 @@
   easyutils = {
     "0.1.7" = import ./overrides/easyutils/0.1.7;
   };
+  edalize = {
+    "0.5.4" = import ./overrides/edalize/0.5.4;
+  };
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
