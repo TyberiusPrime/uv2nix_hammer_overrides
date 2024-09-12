@@ -466,6 +466,9 @@
   lightwave2 = {
     "0.8.23" = import ./overrides/lightwave2/0.8.23;
   };
+  linear-tsv = {
+    "1.1.0" = import ./overrides/linear-tsv/1.1.0;
+  };
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
