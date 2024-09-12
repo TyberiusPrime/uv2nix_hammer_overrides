@@ -978,6 +978,9 @@
   neobolt = {
     "1.7.17" = import ./overrides/neobolt/1.7.17;
   };
+  nested-lookup = {
+    "0.2.25" = import ./overrides/nested-lookup/0.2.25;
+  };
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
