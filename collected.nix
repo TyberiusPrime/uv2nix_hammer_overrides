@@ -146,6 +146,9 @@
   cloud-compose = {
     "0.4.1" = import ./overrides/cloud-compose/0.4.1;
   };
+  cloudshell-core = {
+    "2.2.180" = import ./overrides/cloudshell-core/2.2.180;
+  };
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
