@@ -159,6 +159,9 @@
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
   };
+  betacode = {
+    "1.0" = import ./overrides/betacode/1.0;
+  };
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
