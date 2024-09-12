@@ -636,6 +636,9 @@
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
+  session-info = {
+    "1.0.0" = import ./overrides/session-info/1.0.0;
+  };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
