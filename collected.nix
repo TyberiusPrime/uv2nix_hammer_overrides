@@ -375,6 +375,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  thriftpy2 = {
+    "0.5.2" = import ./overrides/thriftpy2/0.5.2;
+  };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
   };
