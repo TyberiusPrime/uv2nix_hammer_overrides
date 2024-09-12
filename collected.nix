@@ -585,6 +585,9 @@
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
+  husl = {
+    "4.0.3" = import ./overrides/husl/4.0.3;
+  };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
