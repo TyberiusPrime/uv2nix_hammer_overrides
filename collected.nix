@@ -8,6 +8,9 @@
   addonfactory-splunk-conf-parser-lib = {
     "0.4.3" = import ./overrides/addonfactory-splunk-conf-parser-lib/0.4.3;
   };
+  adict = {
+    "0.1.7" = import ./overrides/adict/0.1.7;
+  };
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
