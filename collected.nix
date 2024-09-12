@@ -278,6 +278,9 @@
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
+  opensensemap-api = {
+    "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
+  };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
