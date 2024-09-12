@@ -1301,6 +1301,9 @@
   www-authenticate = {
     "0.9.2" = import ./overrides/www-authenticate/0.9.2;
   };
+  xapp = {
+    "0.0.1" = import ./overrides/xapp/0.0.1;
+  };
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
   };
