@@ -384,6 +384,9 @@
   twitter-common-lang = {
     "0.3.11" = import ./overrides/twitter-common-lang/0.3.11;
   };
+  typechecks = {
+    "0.1.0" = import ./overrides/typechecks/0.1.0;
+  };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
   };
