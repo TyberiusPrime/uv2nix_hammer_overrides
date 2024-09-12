@@ -192,6 +192,9 @@
   bsuite = {
     "0.3.5" = import ./overrides/bsuite/0.3.5;
   };
+  caep = {
+    "1.1.0" = import ./overrides/caep/1.1.0;
+  };
   captain = {
     "4.5.0" = import ./overrides/captain/4.5.0;
   };
