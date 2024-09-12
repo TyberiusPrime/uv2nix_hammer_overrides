@@ -380,6 +380,9 @@
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
   };
+  pycrypto = {
+    "2.6.1" = import ./overrides/pycrypto/2.6.1;
+  };
   pycryptodome = {
     "3.3.1" = import ./overrides/pycryptodome/3.3.1;
   };
