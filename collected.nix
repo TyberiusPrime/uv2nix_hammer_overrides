@@ -336,6 +336,9 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  flask-apscheduler = {
+    "1.13.1" = import ./overrides/flask-apscheduler/1.13.1;
+  };
   flask-kvsession-invenio = {
     "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
   };
