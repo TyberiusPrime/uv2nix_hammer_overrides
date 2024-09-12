@@ -199,6 +199,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  librato-metrics = {
+    "3.1.0" = import ./overrides/librato-metrics/3.1.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
