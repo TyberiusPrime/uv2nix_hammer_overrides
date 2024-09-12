@@ -1498,6 +1498,9 @@
   scales = {
     "1.0.9" = import ./overrides/scales/1.0.9;
   };
+  scheduler-cron = {
+    "0.1" = import ./overrides/scheduler-cron/0.1;
+  };
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
@@ -1506,6 +1509,9 @@
   };
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
+  };
+  sentinels = {
+    "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
