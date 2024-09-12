@@ -69,6 +69,9 @@
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
+  apiclient = {
+    "1.0.4" = import ./overrides/apiclient/1.0.4;
+  };
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
