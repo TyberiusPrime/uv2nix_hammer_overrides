@@ -164,6 +164,9 @@
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
+  cursor = {
+    "1.3.5" = import ./overrides/cursor/1.3.5;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
