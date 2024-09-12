@@ -108,6 +108,9 @@
   asynccmd = {
     "0.2.4" = import ./overrides/asynccmd/0.2.4;
   };
+  asyncmy = {
+    "0.2.9" = import ./overrides/asyncmy/0.2.9;
+  };
   atomicwrites = {
     "1.4.1" = import ./overrides/atomicwrites/1.4.1;
   };
