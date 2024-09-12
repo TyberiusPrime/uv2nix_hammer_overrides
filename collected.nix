@@ -41,6 +41,15 @@
   ansible = {
     "10.3.0" = import ./overrides/ansible/10.3.0;
   };
+  antlr-ast = {
+    "0.7.0" = import ./overrides/antlr-ast/0.7.0;
+  };
+  antlr-tsql = {
+    "0.12.6" = import ./overrides/antlr-tsql/0.12.6;
+  };
+  antlr4-python3-runtime = {
+    "4.7.2" = import ./overrides/antlr4-python3-runtime/4.7.2;
+  };
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
