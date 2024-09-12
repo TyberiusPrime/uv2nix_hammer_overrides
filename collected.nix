@@ -49,6 +49,7 @@
   };
   antlr4-python3-runtime = {
     "4.7.2" = import ./overrides/antlr4-python3-runtime/4.7.2;
+    "4.9.3" = import ./overrides/antlr4-python3-runtime/4.9.3;
   };
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
