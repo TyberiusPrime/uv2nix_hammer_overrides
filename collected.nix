@@ -375,6 +375,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  trading-calendars = {
+    "2.1.1" = import ./overrides/trading-calendars/2.1.1;
+  };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
   };
