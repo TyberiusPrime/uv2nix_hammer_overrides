@@ -213,6 +213,9 @@
   cursor = {
     "1.3.5" = import ./overrides/cursor/1.3.5;
   };
+  customerio = {
+    "2.1" = import ./overrides/customerio/2.1;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
