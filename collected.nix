@@ -530,6 +530,9 @@
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
+  libmagic = {
+    "1.0" = import ./overrides/libmagic/1.0;
+  };
   libmr = {
     "0.1.9" = import ./overrides/libmr/0.1.9;
   };
