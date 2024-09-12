@@ -469,6 +469,9 @@
   lightwave2 = {
     "0.8.23" = import ./overrides/lightwave2/0.8.23;
   };
+  ligo-segments = {
+    "1.4.0" = import ./overrides/ligo-segments/1.4.0;
+  };
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
@@ -732,6 +735,9 @@
   };
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
+  };
+  python-ligo-lw = {
+    "1.8.3" = import ./overrides/python-ligo-lw/1.8.3;
   };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
