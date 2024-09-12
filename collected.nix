@@ -32,6 +32,9 @@
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
+  aiocqhttp = {
+    "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
+  };
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
@@ -953,6 +956,9 @@
   };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
+  };
+  nonebot = {
+    "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
   nose-cprof = {
     "0.2.1" = import ./overrides/nose-cprof/0.2.1;
