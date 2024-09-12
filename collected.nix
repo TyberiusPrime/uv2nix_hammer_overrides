@@ -1356,6 +1356,9 @@
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
+  screen = {
+    "1.0.1" = import ./overrides/screen/1.0.1;
+  };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
   };
