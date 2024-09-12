@@ -776,6 +776,9 @@
     "1.5.3" = import ./overrides/pandas/1.5.3;
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
+  pandoc = {
+    "2.4" = import ./overrides/pandoc/2.4;
+  };
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
