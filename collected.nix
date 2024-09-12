@@ -187,6 +187,9 @@
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
+  isospecpy = {
+    "2.2.2" = import ./overrides/isospecpy/2.2.2;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
