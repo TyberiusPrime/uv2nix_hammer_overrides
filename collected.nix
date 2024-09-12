@@ -645,6 +645,9 @@
   h5pyd = {
     "0.18.0" = import ./overrides/h5pyd/0.18.0;
   };
+  hash-ring = {
+    "1.3.1" = import ./overrides/hash-ring/1.3.1;
+  };
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
