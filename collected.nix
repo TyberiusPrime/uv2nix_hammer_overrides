@@ -497,6 +497,9 @@
   libmr = {
     "0.1.9" = import ./overrides/libmr/0.1.9;
   };
+  librato-metrics = {
+    "3.1.0" = import ./overrides/librato-metrics/3.1.0;
+  };
   librouteros = {
     "3.2.1" = import ./overrides/librouteros/3.2.1;
   };
