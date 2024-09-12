@@ -1207,6 +1207,9 @@
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
+  pyelasticsearch = {
+    "1.4.1" = import ./overrides/pyelasticsearch/1.4.1;
+  };
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
