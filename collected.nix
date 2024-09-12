@@ -1708,6 +1708,9 @@
   twitter-common-util = {
     "0.3.11" = import ./overrides/twitter-common-util/0.3.11;
   };
+  typechecks = {
+    "0.1.0" = import ./overrides/typechecks/0.1.0;
+  };
   typogrify = {
     "2.0.7" = import ./overrides/typogrify/2.0.7;
   };
