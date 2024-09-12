@@ -380,6 +380,9 @@
   django-cacheops = {
     "7.0.2" = import ./overrides/django-cacheops/7.0.2;
   };
+  django-dajaxice = {
+    "0.7" = import ./overrides/django-dajaxice/0.7;
+  };
   django-daterange-filter = {
     "1.3.0" = import ./overrides/django-daterange-filter/1.3.0;
   };
