@@ -663,6 +663,9 @@
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
   };
+  srt = {
+    "3.5.3" = import ./overrides/srt/3.5.3;
+  };
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
