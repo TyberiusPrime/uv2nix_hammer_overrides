@@ -80,6 +80,9 @@
   atomicwrites = {
     "1.4.1" = import ./overrides/atomicwrites/1.4.1;
   };
+  auroranoaa = {
+    "0.0.3" = import ./overrides/auroranoaa/0.0.3;
+  };
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
