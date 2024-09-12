@@ -488,6 +488,9 @@
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
+  execo = {
+    "2.8" = import ./overrides/execo/2.8;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
