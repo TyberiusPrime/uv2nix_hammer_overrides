@@ -630,6 +630,9 @@
   micawber = {
     "0.5.5" = import ./overrides/micawber/0.5.5;
   };
+  micropython-cpython-micropython = {
+    "0.1.1" = import ./overrides/micropython-cpython-micropython/0.1.1;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
