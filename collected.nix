@@ -153,6 +153,9 @@
   batinfo = {
     "0.4.2" = import ./overrides/batinfo/0.4.2;
   };
+  bch = {
+    "1.2.1" = import ./overrides/bch/1.2.1;
+  };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
