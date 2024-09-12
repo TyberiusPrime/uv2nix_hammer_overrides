@@ -936,6 +936,9 @@
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
+  pyinotify = {
+    "0.9.6" = import ./overrides/pyinotify/0.9.6;
+  };
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
