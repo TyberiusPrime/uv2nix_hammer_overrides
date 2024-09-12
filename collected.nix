@@ -1007,6 +1007,9 @@
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
+  progress = {
+    "1.6" = import ./overrides/progress/1.6;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
@@ -1390,6 +1393,12 @@
   };
   telethon = {
     "1.36.0" = import ./overrides/telethon/1.36.0;
+  };
+  tendril-utils-core = {
+    "0.5.20" = import ./overrides/tendril-utils-core/0.5.20;
+  };
+  tendril-utils-fsutils = {
+    "0.3.0" = import ./overrides/tendril-utils-fsutils/0.3.0;
   };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
