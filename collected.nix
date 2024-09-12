@@ -957,6 +957,9 @@
   naturalsort = {
     "1.5.1" = import ./overrides/naturalsort/1.5.1;
   };
+  ndms2-client = {
+    "0.1.3" = import ./overrides/ndms2-client/0.1.3;
+  };
   neo4jrestclient = {
     "2.1.1" = import ./overrides/neo4jrestclient/2.1.1;
   };
