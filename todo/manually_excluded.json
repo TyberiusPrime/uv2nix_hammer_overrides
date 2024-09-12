@@ -175,7 +175,5 @@
   "minitage-paste": "Automatic: python2 only, Missing parentheses in call to 'print'.",
   "socketio": "AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader'?",
   "openlabs-sale-channel": "Automatic: Is_python2_only (uses execfile): ('trytond', '3.4.18')",
-  "zope2": "todo: after https://github.com/adisbladis/uv2nix/issues/11",
-  "terra-proto": "Automatic: Is_python2_only (uses execfile): ('markupsafe', '2.0.1')",
-  "breezy": "Automatic: Is_python2_only (uses execfile): ('breezy', '3.3.8')"
+  "zope2": "todo: after https://github.com/adisbladis/uv2nix/issues/11"
 }

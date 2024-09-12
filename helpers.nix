@@ -39,4 +39,38 @@
     namesToRemove = map lib.getName (lib.filter notNull packagesToRemove);
   in
     lib.filter (x: !(builtins.elem (lib.getName x) namesToRemove)) packages;
+
+  standardMaturin = {
+    furtherArgs ? {},
+    maturinHook ? pkgs.rustPlatform.maturinBuildHook,
+  }: old:
+    lib.optionalAttrs (!(old.src.isWheel or false)) (
+      {
+        cargoDeps = pkgs.rustPlatform.importCargoLock {
+          lockFile = ./. + "/overides/${old.pname}/${old.version}/Cargo.lock";
+        };
+        nativeBuildInputs =
+          (old.nativeBuildInputs or [])
+          ++ [
+            pkgs.rustPlatform.cargoSetupHook
+            maturinHook
+          ]
+          ++ (furtherArgs.nativeBuildInputs or []);
+      }
+      # furtherargs without nativeBuildInputs
+      // lib.attrsets.filterAttrs (name: _value: name != "nativeBuildInputs") furtherArgs
+    );
+  offlineMaturinHook = pkgs.callPackage ({pkgsHostTarget}:
+    pkgs.makeSetupHook {
+      name = "offline-maturin-build-hook.sh";
+      propagatedBuildInputs = [
+        pkgsHostTarget.maturin
+        pkgsHostTarget.cargo
+        pkgsHostTarget.rustc
+      ];
+      substitutions = {
+        inherit (pkgs.rust.envVars) rustTargetPlatformSpec setEnv;
+      };
+    }
+    ./offline-maturin-build-hook.sh) {};
 }
