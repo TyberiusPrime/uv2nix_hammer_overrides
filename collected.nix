@@ -1372,6 +1372,9 @@
   pyunormalize = {
     "15.1.0" = import ./overrides/pyunormalize/15.1.0;
   };
+  pyuv = {
+    "1.4.0" = import ./overrides/pyuv/1.4.0;
+  };
   pyvips = {
     "2.2.3" = import ./overrides/pyvips/2.2.3;
   };
