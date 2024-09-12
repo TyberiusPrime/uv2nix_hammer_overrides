@@ -705,6 +705,9 @@
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
+  lru-dict = {
+    "1.2.0" = import ./overrides/lru-dict/1.2.0;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
@@ -854,6 +857,9 @@
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
+  parsimonious = {
+    "0.9.0" = import ./overrides/parsimonious/0.9.0;
+  };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
@@ -962,6 +968,9 @@
   };
   pygithub = {
     "1.45" = import ./overrides/pygithub/1.45;
+  };
+  pygments-lexer-solidity = {
+    "0.7.0" = import ./overrides/pygments-lexer-solidity/0.7.0;
   };
   pygobject = {
     "3.48.2" = import ./overrides/pygobject/3.48.2;
