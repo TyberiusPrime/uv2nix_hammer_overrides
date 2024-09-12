@@ -1029,6 +1029,9 @@
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
   };
+  pysmb = {
+    "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
