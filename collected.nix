@@ -110,6 +110,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  cssbeautifier = {
+    "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
@@ -167,6 +170,9 @@
   };
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
+  };
+  editorconfig = {
+    "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
@@ -243,6 +249,9 @@
   };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
+  };
+  jsbeautifier = {
+    "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
   };
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
