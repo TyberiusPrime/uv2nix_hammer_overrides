@@ -690,6 +690,9 @@
   opster = {
     "5.0" = import ./overrides/opster/5.0;
   };
+  optional-django = {
+    "0.3.0" = import ./overrides/optional-django/0.3.0;
+  };
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
