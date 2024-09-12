@@ -71,6 +71,9 @@
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
   };
+  cgen = {
+    "2020.1" = import ./overrides/cgen/2020.1;
+  };
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
