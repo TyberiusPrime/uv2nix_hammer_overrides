@@ -38,6 +38,9 @@
   aiolivisi = {
     "0.0.19" = import ./overrides/aiolivisi/0.0.19;
   };
+  aiosocks = {
+    "0.2.6" = import ./overrides/aiosocks/0.2.6;
+  };
   aliyun-python-sdk-core = {
     "2.15.2" = import ./overrides/aliyun-python-sdk-core/2.15.2;
   };
