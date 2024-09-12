@@ -214,6 +214,9 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  modgrammar = {
+    "0.10" = import ./overrides/modgrammar/0.10;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
