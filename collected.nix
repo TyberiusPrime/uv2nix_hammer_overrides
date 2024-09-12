@@ -328,6 +328,9 @@
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
+  graphql-server-core = {
+    "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
+  };
   grpc-google-pubsub-v1 = {
     "0.11.1" = import ./overrides/grpc-google-pubsub-v1/0.11.1;
   };
@@ -714,6 +717,9 @@
   };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
+  };
+  rx = {
+    "1.6.3" = import ./overrides/rx/1.6.3;
   };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
