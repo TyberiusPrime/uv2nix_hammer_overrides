@@ -934,6 +934,9 @@
   torchvision = {
     "0.19.1" = import ./overrides/torchvision/0.19.1;
   };
+  torpy = {
+    "1.1.6" = import ./overrides/torpy/1.1.6;
+  };
   tsam = {
     "2.3.3" = import ./overrides/tsam/2.3.3;
   };
