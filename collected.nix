@@ -202,6 +202,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  lmtpd = {
+    "6.2.0" = import ./overrides/lmtpd/6.2.0;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
