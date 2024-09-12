@@ -356,6 +356,9 @@
   python-baseconv = {
     "1.2.2" = import ./overrides/python-baseconv/1.2.2;
   };
+  python-bugzilla = {
+    "3.2.0" = import ./overrides/python-bugzilla/3.2.0;
+  };
   python-dateutil = {
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
