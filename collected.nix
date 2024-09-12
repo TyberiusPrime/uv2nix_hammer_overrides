@@ -1541,6 +1541,9 @@
   z3 = {
     "0.2.0" = import ./overrides/z3/0.2.0;
   };
+  zdesk = {
+    "2.8.1" = import ./overrides/zdesk/2.8.1;
+  };
   zipseeker = {
     "1.0.11" = import ./overrides/zipseeker/1.0.11;
   };
