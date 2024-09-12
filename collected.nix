@@ -187,6 +187,9 @@
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
+  ivy = {
+    "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
