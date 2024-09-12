@@ -1194,6 +1194,9 @@
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
+  pyiceberg = {
+    "0.7.1" = import ./overrides/pyiceberg/0.7.1;
+  };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
