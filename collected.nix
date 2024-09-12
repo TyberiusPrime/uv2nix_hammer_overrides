@@ -1282,6 +1282,7 @@
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
+    "6.0" = import ./overrides/pyyaml/6.0;
   };
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
