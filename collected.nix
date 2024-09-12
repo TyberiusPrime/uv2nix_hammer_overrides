@@ -123,6 +123,9 @@
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
+  bibtexparser = {
+    "1.4.1" = import ./overrides/bibtexparser/1.4.1;
+  };
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
