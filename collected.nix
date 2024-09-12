@@ -83,6 +83,9 @@
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
+  contextvars = {
+    "2.4" = import ./overrides/contextvars/2.4;
+  };
   core-main-app = {
     "2.10.0" = import ./overrides/core-main-app/2.10.0;
   };
