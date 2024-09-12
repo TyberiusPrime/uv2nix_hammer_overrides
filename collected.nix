@@ -125,6 +125,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  cronex = {
+    "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
+  };
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
@@ -267,6 +270,9 @@
   };
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
+  };
+  inotify = {
+    "0.2.10" = import ./overrides/inotify/0.2.10;
   };
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
