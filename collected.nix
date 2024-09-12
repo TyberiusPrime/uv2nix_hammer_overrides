@@ -1021,6 +1021,9 @@
   odfpy = {
     "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
+  ofxhome = {
+    "0.3.3" = import ./overrides/ofxhome/0.3.3;
+  };
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
