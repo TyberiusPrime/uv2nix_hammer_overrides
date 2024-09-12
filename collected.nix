@@ -271,6 +271,9 @@
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
+  cpg-utils = {
+    "5.1.0" = import ./overrides/cpg-utils/5.1.0;
+  };
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
