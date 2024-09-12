@@ -1711,6 +1711,9 @@
   twitter-common-util = {
     "0.3.11" = import ./overrides/twitter-common-util/0.3.11;
   };
+  twobitreader = {
+    "3.1.7" = import ./overrides/twobitreader/3.1.7;
+  };
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
