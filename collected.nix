@@ -833,6 +833,9 @@
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
+  python-libnmap = {
+    "0.7.3" = import ./overrides/python-libnmap/0.7.3;
+  };
   python-ligo-lw = {
     "1.8.3" = import ./overrides/python-ligo-lw/1.8.3;
   };
