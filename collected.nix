@@ -1455,6 +1455,9 @@
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
+  sphinx-autodoc-annotation = {
+    "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
+  };
   sphinxcontrib-newsfeed = {
     "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
   };
