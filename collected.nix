@@ -362,6 +362,9 @@
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
+  pkgtools = {
+    "0.7.3" = import ./overrides/pkgtools/0.7.3;
+  };
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
