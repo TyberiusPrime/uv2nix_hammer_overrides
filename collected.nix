@@ -408,6 +408,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  tipfy = {
+    "0.6.4" = import ./overrides/tipfy/0.6.4;
+  };
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
   };
