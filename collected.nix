@@ -736,6 +736,9 @@
   pmsensor = {
     "0.4" = import ./overrides/pmsensor/0.4;
   };
+  prettyprint = {
+    "0.1.5" = import ./overrides/prettyprint/0.1.5;
+  };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
