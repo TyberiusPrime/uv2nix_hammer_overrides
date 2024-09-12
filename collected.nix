@@ -210,6 +210,9 @@
   django-cacheops = {
     "7.0.2" = import ./overrides/django-cacheops/7.0.2;
   };
+  django-daterange-filter = {
+    "1.3.0" = import ./overrides/django-daterange-filter/1.3.0;
+  };
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
