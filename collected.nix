@@ -942,6 +942,9 @@
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
+  ms-cv = {
+    "0.1.1" = import ./overrides/ms-cv/0.1.1;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
