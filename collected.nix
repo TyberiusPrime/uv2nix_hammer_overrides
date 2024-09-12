@@ -1,4 +1,7 @@
 {
+  aadict = {
+    "0.2.3" = import ./overrides/aadict/0.2.3;
+  };
   accessify = {
     "0.3.1" = import ./overrides/accessify/0.3.1;
   };
@@ -86,6 +89,9 @@
   };
   asn1tools = {
     "0.167.0" = import ./overrides/asn1tools/0.167.0;
+  };
+  asset = {
+    "0.6.13" = import ./overrides/asset/0.6.13;
   };
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
@@ -491,6 +497,9 @@
   };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
+  };
+  globre = {
+    "0.1.5" = import ./overrides/globre/0.1.5;
   };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
