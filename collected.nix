@@ -265,6 +265,9 @@
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
+  cppimport = {
+    "22.8.2" = import ./overrides/cppimport/22.8.2;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
