@@ -491,6 +491,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  pronouncing = {
+    "0.2.0" = import ./overrides/pronouncing/0.2.0;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
