@@ -71,6 +71,9 @@
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
   };
+  click-completion = {
+    "0.5.2" = import ./overrides/click-completion/0.5.2;
+  };
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
