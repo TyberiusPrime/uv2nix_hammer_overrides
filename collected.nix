@@ -1052,6 +1052,9 @@
     "1.5.0" = import ./overrides/paho-mqtt/1.5.0;
     "1.6.1" = import ./overrides/paho-mqtt/1.6.1;
   };
+  pandarallel = {
+    "1.6.5" = import ./overrides/pandarallel/1.6.5;
+  };
   pandas = {
     "1.5.3" = import ./overrides/pandas/1.5.3;
     "2.2.2" = import ./overrides/pandas/2.2.2;
