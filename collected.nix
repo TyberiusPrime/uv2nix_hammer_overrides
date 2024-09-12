@@ -65,6 +65,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  barenecessities = {
+    "0.2.8" = import ./overrides/barenecessities/0.2.8;
+  };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
@@ -88,6 +91,9 @@
   };
   contextvars = {
     "2.4" = import ./overrides/contextvars/2.4;
+  };
+  conversionkit = {
+    "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
   core-main-app = {
     "2.10.0" = import ./overrides/core-main-app/2.10.0;
@@ -449,6 +455,9 @@
   };
   strict-functions = {
     "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
+  };
+  stringconvert = {
+    "0.3.2" = import ./overrides/stringconvert/0.3.2;
   };
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
