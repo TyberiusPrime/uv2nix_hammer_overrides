@@ -795,6 +795,9 @@
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
   };
+  lazy-string = {
+    "1.0.0" = import ./overrides/lazy-string/1.0.0;
+  };
   lazyutils = {
     "0.3.3" = import ./overrides/lazyutils/0.3.3;
   };
@@ -1694,6 +1697,9 @@
   };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
+  };
+  verboselib = {
+    "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
   visitor = {
     "0.1.3" = import ./overrides/visitor/0.1.3;
