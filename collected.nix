@@ -202,6 +202,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  logmatic-python = {
+    "0.1.7" = import ./overrides/logmatic-python/0.1.7;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
