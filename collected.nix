@@ -905,6 +905,9 @@
   pmsensor = {
     "0.4" = import ./overrides/pmsensor/0.4;
   };
+  pod-base = {
+    "1.0.3" = import ./overrides/pod-base/1.0.3;
+  };
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
