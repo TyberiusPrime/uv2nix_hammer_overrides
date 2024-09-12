@@ -578,6 +578,9 @@
   mozlog = {
     "8.0.0" = import ./overrides/mozlog/8.0.0;
   };
+  mroylib-min = {
+    "2.2.5" = import ./overrides/mroylib-min/2.2.5;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
@@ -696,6 +699,9 @@
   };
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
+  };
+  pyaes = {
+    "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
@@ -967,6 +973,9 @@
   };
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
+  };
+  telethon = {
+    "1.36.0" = import ./overrides/telethon/1.36.0;
   };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
