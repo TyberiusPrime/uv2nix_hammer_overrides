@@ -229,6 +229,9 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  noseapp = {
+    "2.2.2" = import ./overrides/noseapp/2.2.2;
+  };
   numba = {
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
