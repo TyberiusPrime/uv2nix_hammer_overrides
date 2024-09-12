@@ -488,6 +488,9 @@
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
+  flask-restless = {
+    "0.17.0" = import ./overrides/flask-restless/0.17.0;
+  };
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
@@ -782,6 +785,9 @@
   };
   migen = {
     "0.9.2" = import ./overrides/migen/0.9.2;
+  };
+  mimerender = {
+    "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
