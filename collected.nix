@@ -828,6 +828,9 @@
   ligo-segments = {
     "1.4.0" = import ./overrides/ligo-segments/1.4.0;
   };
+  limitlessled = {
+    "1.1.3" = import ./overrides/limitlessled/1.1.3;
+  };
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
