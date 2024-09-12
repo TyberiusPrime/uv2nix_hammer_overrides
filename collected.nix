@@ -235,6 +235,9 @@
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
   };
+  gazpacho = {
+    "1.1" = import ./overrides/gazpacho/1.1;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
