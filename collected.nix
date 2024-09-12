@@ -308,6 +308,9 @@
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
   };
+  pylatexenc = {
+    "2.10" = import ./overrides/pylatexenc/2.10;
+  };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
