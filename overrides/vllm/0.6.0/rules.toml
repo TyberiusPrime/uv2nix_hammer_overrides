@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.cudaPackages.cuda_cudart",]
+Torch = true
