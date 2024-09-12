@@ -1330,6 +1330,9 @@
   python-ligo-lw = {
     "1.8.3" = import ./overrides/python-ligo-lw/1.8.3;
   };
+  python-modargs = {
+    "1.7" = import ./overrides/python-modargs/1.7;
+  };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
