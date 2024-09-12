@@ -778,6 +778,9 @@
   pycoin = {
     "0.92.20230326" = import ./overrides/pycoin/0.92.20230326;
   };
+  pycollada = {
+    "0.8" = import ./overrides/pycollada/0.8;
+  };
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
