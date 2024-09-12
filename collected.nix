@@ -277,6 +277,9 @@
   grpc-google-pubsub-v1 = {
     "0.11.1" = import ./overrides/grpc-google-pubsub-v1/0.11.1;
   };
+  gym = {
+    "0.26.2" = import ./overrides/gym/0.26.2;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
   };
