@@ -35,6 +35,9 @@
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
+  amqpstorm = {
+    "2.10.8" = import ./overrides/amqpstorm/2.10.8;
+  };
   anndata = {
     "0.10.9" = import ./overrides/anndata/0.10.9;
   };
