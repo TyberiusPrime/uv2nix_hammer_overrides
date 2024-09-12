@@ -352,6 +352,9 @@
   dada-utils = {
     "0.0.9" = import ./overrides/dada-utils/0.0.9;
   };
+  daemon = {
+    "1.2" = import ./overrides/daemon/1.2;
+  };
   daemonocle = {
     "1.2.3" = import ./overrides/daemonocle/1.2.3;
   };
