@@ -461,6 +461,9 @@
   fastapi-camelcase = {
     "2.0.0" = import ./overrides/fastapi-camelcase/2.0.0;
   };
+  fastimport = {
+    "0.9.14" = import ./overrides/fastimport/0.9.14;
+  };
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
