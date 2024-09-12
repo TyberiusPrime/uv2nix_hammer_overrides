@@ -943,6 +943,9 @@
   twitter-common-lang = {
     "0.3.11" = import ./overrides/twitter-common-lang/0.3.11;
   };
+  typogrify = {
+    "2.0.7" = import ./overrides/typogrify/2.0.7;
+  };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
   };
