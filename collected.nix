@@ -958,6 +958,9 @@
   vlsirtools = {
     "6.0.0" = import ./overrides/vlsirtools/6.0.0;
   };
+  wavedrom = {
+    "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
+  };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
@@ -972,6 +975,9 @@
   };
   www-authenticate = {
     "0.9.2" = import ./overrides/www-authenticate/0.9.2;
+  };
+  xcffib = {
+    "1.5.0" = import ./overrides/xcffib/1.5.0;
   };
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
