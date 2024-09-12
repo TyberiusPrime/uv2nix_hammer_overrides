@@ -546,6 +546,9 @@
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
+  requests-wsgi-adapter = {
+    "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
