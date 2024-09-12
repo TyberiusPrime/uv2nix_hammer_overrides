@@ -74,6 +74,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  colortools = {
+    "0.1.2" = import ./overrides/colortools/0.1.2;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
@@ -198,6 +201,9 @@
   };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
+  };
+  lazyutils = {
+    "0.3.3" = import ./overrides/lazyutils/0.3.3;
   };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
@@ -374,6 +380,9 @@
   };
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
+  };
+  transpyler = {
+    "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
   twitter-common-decorators = {
     "0.3.11" = import ./overrides/twitter-common-decorators/0.3.11;
