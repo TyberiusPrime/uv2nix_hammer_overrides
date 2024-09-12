@@ -519,6 +519,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  googleads = {
+    "43.0.0" = import ./overrides/googleads/43.0.0;
+  };
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
