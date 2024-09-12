@@ -823,6 +823,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  ordereddict = {
+    "1.1" = import ./overrides/ordereddict/1.1;
+  };
   paho-mqtt = {
     "1.6.1" = import ./overrides/paho-mqtt/1.6.1;
   };
