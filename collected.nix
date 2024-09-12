@@ -401,6 +401,12 @@
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
+  openpaperwork-core = {
+    "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
+  };
+  openpaperwork-gtk = {
+    "2.2.5" = import ./overrides/openpaperwork-gtk/2.2.5;
+  };
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
