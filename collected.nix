@@ -311,6 +311,9 @@
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
+  opuslib = {
+    "3.0.1" = import ./overrides/opuslib/3.0.1;
+  };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
