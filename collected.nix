@@ -575,6 +575,9 @@
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
+  mozdevice = {
+    "4.1.2" = import ./overrides/mozdevice/4.1.2;
+  };
   mozlog = {
     "8.0.0" = import ./overrides/mozlog/8.0.0;
   };
