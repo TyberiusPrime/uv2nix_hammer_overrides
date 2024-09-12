@@ -80,6 +80,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  cryptoconditions = {
+    "0.8.1" = import ./overrides/cryptoconditions/0.8.1;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
