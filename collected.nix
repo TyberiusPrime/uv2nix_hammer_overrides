@@ -343,6 +343,9 @@
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
+  ihm = {
+    "1.5" = import ./overrides/ihm/1.5;
+  };
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
