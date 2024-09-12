@@ -163,6 +163,9 @@
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
+  gif2numpy = {
+    "1.3" = import ./overrides/gif2numpy/1.3;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
@@ -236,11 +239,17 @@
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
+  numpy2gif = {
+    "1.0" = import ./overrides/numpy2gif/1.0;
+  };
   pandas = {
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
+  };
+  pilasopencv = {
+    "2.7" = import ./overrides/pilasopencv/2.7;
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
