@@ -488,6 +488,9 @@
   nvidia-cusparse-cu12 = {
     "12.1.0.106" = import ./overrides/nvidia-cusparse-cu12/12.1.0.106;
   };
+  nvidia-ml-py3 = {
+    "7.352.0" = import ./overrides/nvidia-ml-py3/7.352.0;
+  };
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
