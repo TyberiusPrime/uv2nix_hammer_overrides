@@ -186,6 +186,9 @@
   compressed-rtf = {
     "1.0.6" = import ./overrides/compressed-rtf/1.0.6;
   };
+  construct = {
+    "2.8.8" = import ./overrides/construct/2.8.8;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
