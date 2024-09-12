@@ -798,8 +798,14 @@
   mozdevice = {
     "4.1.2" = import ./overrides/mozdevice/4.1.2;
   };
+  mozhttpd = {
+    "0.7.1" = import ./overrides/mozhttpd/0.7.1;
+  };
   mozlog = {
     "8.0.0" = import ./overrides/mozlog/8.0.0;
+  };
+  moznetwork = {
+    "1.1.0" = import ./overrides/moznetwork/1.1.0;
   };
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
