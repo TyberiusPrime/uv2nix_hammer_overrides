@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:pkgs.freetype", "~literal:!:pkgs.libGLU", "~literal:!:pkgs.libxml2", "~literal:!:pkgs.xz",]
