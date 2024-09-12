@@ -424,6 +424,9 @@
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
+  intervaltree = {
+    "3.1.0" = import ./overrides/intervaltree/3.1.0;
+  };
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
