@@ -897,6 +897,9 @@
   mercurial-extension-utils = {
     "1.5.2" = import ./overrides/mercurial-extension-utils/1.5.2;
   };
+  mergedb = {
+    "0.1.1" = import ./overrides/mergedb/0.1.1;
+  };
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
