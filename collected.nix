@@ -386,6 +386,9 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-jinja2 = {
+    "0.1" = import ./overrides/django-jinja2/0.1;
+  };
   django-jquery-js = {
     "3.1.1" = import ./overrides/django-jquery-js/3.1.1;
   };
