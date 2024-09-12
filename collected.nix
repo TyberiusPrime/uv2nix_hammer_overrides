@@ -281,6 +281,9 @@
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
+  pyjwkest = {
+    "1.4.2" = import ./overrides/pyjwkest/1.4.2;
+  };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
