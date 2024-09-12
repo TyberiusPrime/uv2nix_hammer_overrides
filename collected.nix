@@ -367,6 +367,9 @@
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
+  kabaret = {
+    "2.3.0" = import ./overrides/kabaret/2.3.0;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
