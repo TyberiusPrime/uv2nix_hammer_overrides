@@ -316,6 +316,9 @@
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
+  crc16 = {
+    "0.1.1" = import ./overrides/crc16/0.1.1;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
