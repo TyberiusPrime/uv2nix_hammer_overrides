@@ -225,6 +225,9 @@
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
+  cryptoconditions = {
+    "0.8.1" = import ./overrides/cryptoconditions/0.8.1;
+  };
   cs-ansi-colour = {
     "20220227" = import ./overrides/cs-ansi-colour/20220227;
   };
