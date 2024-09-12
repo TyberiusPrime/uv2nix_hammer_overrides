@@ -505,6 +505,9 @@
   logi-circle = {
     "0.2.3" = import ./overrides/logi-circle/0.2.3;
   };
+  logutils = {
+    "0.3.5" = import ./overrides/logutils/0.3.5;
+  };
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
