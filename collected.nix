@@ -181,6 +181,9 @@
   http3 = {
     "0.6.7" = import ./overrides/http3/0.6.7;
   };
+  httpretty = {
+    "1.1.4" = import ./overrides/httpretty/1.1.4;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
