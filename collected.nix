@@ -141,6 +141,9 @@
   bson = {
     "0.5.10" = import ./overrides/bson/0.5.10;
   };
+  bsuite = {
+    "0.3.5" = import ./overrides/bsuite/0.3.5;
+  };
   captain = {
     "4.5.0" = import ./overrides/captain/4.5.0;
   };
