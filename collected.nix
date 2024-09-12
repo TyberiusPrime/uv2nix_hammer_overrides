@@ -615,6 +615,9 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  profig = {
+    "0.5.1" = import ./overrides/profig/0.5.1;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
