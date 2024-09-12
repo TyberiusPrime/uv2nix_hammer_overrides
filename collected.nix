@@ -1789,6 +1789,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  websockets = {
+    "8.1" = import ./overrides/websockets/8.1;
+  };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
