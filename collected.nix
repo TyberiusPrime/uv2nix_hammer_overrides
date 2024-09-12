@@ -720,6 +720,9 @@
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
   };
+  pytest-logging = {
+    "2015.11.4" = import ./overrides/pytest-logging/2015.11.4;
+  };
   pytest-watch = {
     "4.2.0" = import ./overrides/pytest-watch/4.2.0;
   };
