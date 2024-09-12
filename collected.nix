@@ -252,6 +252,9 @@
   docopt = {
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
+  docrep = {
+    "0.3.2" = import ./overrides/docrep/0.3.2;
+  };
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
   };
