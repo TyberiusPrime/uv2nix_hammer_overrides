@@ -745,6 +745,9 @@
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
   };
+  qingcloud-sdk = {
+    "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
+  };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
