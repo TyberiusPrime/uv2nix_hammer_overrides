@@ -717,6 +717,9 @@
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
+  m-caching = {
+    "0.1.15" = import ./overrides/m-caching/0.1.15;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
