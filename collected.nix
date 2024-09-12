@@ -975,6 +975,9 @@
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
+  ng-adapter = {
+    "0.2.1" = import ./overrides/ng-adapter/0.2.1;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
@@ -1058,6 +1061,9 @@
   };
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
+  };
+  pd-lib = {
+    "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
