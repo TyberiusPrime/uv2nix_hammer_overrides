@@ -793,6 +793,9 @@
   sat-stac = {
     "0.4.1" = import ./overrides/sat-stac/0.4.1;
   };
+  scales = {
+    "1.0.9" = import ./overrides/scales/1.0.9;
+  };
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
