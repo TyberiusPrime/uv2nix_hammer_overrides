@@ -101,6 +101,9 @@
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
   };
+  blinker = {
+    "1.4" = import ./overrides/blinker/1.4;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
@@ -717,6 +720,9 @@
   };
   shortid = {
     "0.1.2" = import ./overrides/shortid/0.1.2;
+  };
+  signals-utils = {
+    "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
