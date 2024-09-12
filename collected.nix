@@ -78,6 +78,9 @@
   array-api-compat = {
     "1.8" = import ./overrides/array-api-compat/1.8;
   };
+  ascii-graph = {
+    "1.5.1" = import ./overrides/ascii-graph/1.5.1;
+  };
   asciitree = {
     "0.3.3" = import ./overrides/asciitree/0.3.3;
   };
