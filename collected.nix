@@ -41,6 +41,9 @@
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
+  armstrong-utils-backends = {
+    "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
+  };
   arpeggio = {
     "2.0.2" = import ./overrides/arpeggio/2.0.2;
   };
