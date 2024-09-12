@@ -345,6 +345,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  snownlp = {
+    "0.12.3" = import ./overrides/snownlp/0.12.3;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
