@@ -938,6 +938,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  snownlp = {
+    "0.12.3" = import ./overrides/snownlp/0.12.3;
+  };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
