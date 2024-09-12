@@ -630,6 +630,9 @@
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
+  hitchbuild = {
+    "0.6.3" = import ./overrides/hitchbuild/0.6.3;
+  };
   homura = {
     "0.1.5" = import ./overrides/homura/0.1.5;
   };
@@ -1000,6 +1003,9 @@
   };
   parsimonious = {
     "0.9.0" = import ./overrides/parsimonious/0.9.0;
+  };
+  pathquery = {
+    "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
