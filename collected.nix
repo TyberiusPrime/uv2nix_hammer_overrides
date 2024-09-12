@@ -1271,6 +1271,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  wf-minimal-honeycomb-python = {
+    "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
+  };
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
