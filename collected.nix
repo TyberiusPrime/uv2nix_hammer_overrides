@@ -672,6 +672,9 @@
   mercurial-extension-utils = {
     "1.5.2" = import ./overrides/mercurial-extension-utils/1.5.2;
   };
+  messytables = {
+    "0.15.2" = import ./overrides/messytables/0.15.2;
+  };
   miasm = {
     "0.1.5" = import ./overrides/miasm/0.1.5;
   };
