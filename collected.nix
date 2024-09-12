@@ -408,6 +408,9 @@
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
+  zipseeker = {
+    "1.0.11" = import ./overrides/zipseeker/1.0.11;
+  };
   zuper-commons-z6 = {
     "6.2.4" = import ./overrides/zuper-commons-z6/6.2.4;
   };
