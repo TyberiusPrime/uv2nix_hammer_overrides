@@ -1515,6 +1515,9 @@
   stashy = {
     "0.7" = import ./overrides/stashy/0.7;
   };
+  stdiomask = {
+    "0.0.6" = import ./overrides/stdiomask/0.0.6;
+  };
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
