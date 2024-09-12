@@ -1804,6 +1804,9 @@
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
   };
+  wsgitools = {
+    "0.3.1" = import ./overrides/wsgitools/0.3.1;
+  };
   www-authenticate = {
     "0.9.2" = import ./overrides/www-authenticate/0.9.2;
   };
