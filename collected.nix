@@ -1777,6 +1777,9 @@
   vmtools = {
     "0.45" = import ./overrides/vmtools/0.45;
   };
+  voidpp-tools = {
+    "1.11.0" = import ./overrides/voidpp-tools/1.11.0;
+  };
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
   };
