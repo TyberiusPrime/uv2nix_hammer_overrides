@@ -824,6 +824,9 @@
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
   };
+  px-pipeline = {
+    "0.1.2" = import ./overrides/px-pipeline/0.1.2;
+  };
   pyaes = {
     "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
