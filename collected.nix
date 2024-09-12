@@ -388,6 +388,9 @@
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
+  logi-circle = {
+    "0.2.3" = import ./overrides/logi-circle/0.2.3;
+  };
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
