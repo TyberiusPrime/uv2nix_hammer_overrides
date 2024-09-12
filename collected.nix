@@ -1331,6 +1331,9 @@
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
+  sep = {
+    "1.2.1" = import ./overrides/sep/1.2.1;
+  };
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
