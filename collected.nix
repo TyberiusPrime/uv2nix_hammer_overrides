@@ -639,6 +639,9 @@
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
+  imgviz = {
+    "1.7.5" = import ./overrides/imgviz/1.7.5;
+  };
   imm-source = {
     "1.0.30" = import ./overrides/imm-source/1.0.30;
   };
