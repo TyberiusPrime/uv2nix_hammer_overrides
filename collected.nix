@@ -458,6 +458,9 @@
   pyrect = {
     "0.2.0" = import ./overrides/pyrect/0.2.0;
   };
+  pyric = {
+    "0.1.6.3" = import ./overrides/pyric/0.1.6.3;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
