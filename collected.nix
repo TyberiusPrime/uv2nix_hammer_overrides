@@ -1511,6 +1511,9 @@
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
+  z3 = {
+    "0.2.0" = import ./overrides/z3/0.2.0;
+  };
   zipseeker = {
     "1.0.11" = import ./overrides/zipseeker/1.0.11;
   };
