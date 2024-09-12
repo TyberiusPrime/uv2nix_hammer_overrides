@@ -1441,6 +1441,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  query = {
+    "0.1.4" = import ./overrides/query/0.1.4;
+  };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
