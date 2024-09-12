@@ -717,6 +717,9 @@
   micropython-cpython-micropython = {
     "0.1.1" = import ./overrides/micropython-cpython-micropython/0.1.1;
   };
+  migen = {
+    "0.9.2" = import ./overrides/migen/0.9.2;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
