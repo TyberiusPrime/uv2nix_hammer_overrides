@@ -555,6 +555,9 @@
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
+  grapheme = {
+    "0.6.0" = import ./overrides/grapheme/0.6.0;
+  };
   graphql-server-core = {
     "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
   };
@@ -1085,6 +1088,9 @@
   };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
+  };
+  pymoo = {
+    "0.6.1.3" = import ./overrides/pymoo/0.6.1.3;
   };
   pymsgbox = {
     "1.0.9" = import ./overrides/pymsgbox/1.0.9;
