@@ -1140,6 +1140,9 @@
   pyautogui = {
     "0.9.54" = import ./overrides/pyautogui/0.9.54;
   };
+  pybars3 = {
+    "0.9.7" = import ./overrides/pybars3/0.9.7;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
@@ -1233,6 +1236,9 @@
   };
   pylint-flask = {
     "0.6" = import ./overrides/pylint-flask/0.6;
+  };
+  pymeta3 = {
+    "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
