@@ -621,6 +621,9 @@
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
+  sphinxcontrib-newsfeed = {
+    "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
+  };
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
