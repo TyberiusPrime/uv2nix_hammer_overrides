@@ -95,6 +95,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  cloeepy = {
+    "0.0.2" = import ./overrides/cloeepy/0.0.2;
+  };
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
