@@ -377,6 +377,9 @@
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
+  pytankerkoenig = {
+    "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
+  };
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
   };
