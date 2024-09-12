@@ -1626,6 +1626,9 @@
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
+  winshell = {
+    "0.6" = import ./overrides/winshell/0.6;
+  };
   wiringpi = {
     "2.60.1" = import ./overrides/wiringpi/2.60.1;
   };
