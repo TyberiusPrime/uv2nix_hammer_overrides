@@ -918,6 +918,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  mock-open = {
+    "1.4.0" = import ./overrides/mock-open/1.4.0;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
