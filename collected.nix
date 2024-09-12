@@ -1062,6 +1062,9 @@
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
+  parse = {
+    "1.6.5" = import ./overrides/parse/1.6.5;
+  };
   parsimonious = {
     "0.9.0" = import ./overrides/parsimonious/0.9.0;
   };
@@ -1272,6 +1275,9 @@
   };
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
+  };
+  pyparser = {
+    "1.0" = import ./overrides/pyparser/1.0;
   };
   pypattyrn = {
     "1.2" = import ./overrides/pypattyrn/1.2;
