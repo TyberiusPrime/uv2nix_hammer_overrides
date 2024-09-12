@@ -1410,6 +1410,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  reikna = {
+    "0.9.0" = import ./overrides/reikna/0.9.0;
+  };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
