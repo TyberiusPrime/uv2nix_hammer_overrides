@@ -591,6 +591,9 @@
   gcs-oauth2-boto-plugin = {
     "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
   };
+  gdspy = {
+    "1.6.13" = import ./overrides/gdspy/1.6.13;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
