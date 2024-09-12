@@ -53,6 +53,9 @@
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
   };
+  asynccmd = {
+    "0.2.4" = import ./overrides/asynccmd/0.2.4;
+  };
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
