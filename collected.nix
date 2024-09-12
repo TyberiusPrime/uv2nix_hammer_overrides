@@ -254,6 +254,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  pyastronomy = {
+    "0.22.0" = import ./overrides/pyastronomy/0.22.0;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
