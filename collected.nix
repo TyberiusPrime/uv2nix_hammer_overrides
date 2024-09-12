@@ -74,6 +74,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  combo = {
+    "0.1.3" = import ./overrides/combo/0.1.3;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
@@ -283,6 +286,9 @@
   };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
+  };
+  pyod = {
+    "2.0.2" = import ./overrides/pyod/2.0.2;
   };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
