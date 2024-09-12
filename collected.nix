@@ -536,6 +536,9 @@
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
+  fortranformat = {
+    "2.0.0" = import ./overrides/fortranformat/2.0.0;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
