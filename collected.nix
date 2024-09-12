@@ -727,6 +727,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  south = {
+    "1.0.2" = import ./overrides/south/1.0.2;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
