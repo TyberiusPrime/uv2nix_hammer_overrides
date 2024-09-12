@@ -1166,6 +1166,9 @@
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
+  telepath = {
+    "0.3.1" = import ./overrides/telepath/0.3.1;
+  };
   telethon = {
     "1.36.0" = import ./overrides/telethon/1.36.0;
   };
