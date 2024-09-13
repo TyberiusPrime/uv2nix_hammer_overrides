@@ -165,6 +165,9 @@
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
+  autosemver = {
+    "1.0.0" = import ./overrides/autosemver/1.0.0;
+  };
   autowrapt = {
     "1.0" = import ./overrides/autowrapt/1.0;
   };
