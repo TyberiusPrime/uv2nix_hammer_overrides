@@ -1282,6 +1282,9 @@
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
+  pypif = {
+    "2.1.2" = import ./overrides/pypif/2.1.2;
+  };
   pypika = {
     "0.48.9" = import ./overrides/pypika/0.48.9;
   };
