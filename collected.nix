@@ -451,6 +451,9 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  dacktool = {
+    "0.0.7" = import ./overrides/dacktool/0.0.7;
+  };
   dada-serde = {
     "0.0.9" = import ./overrides/dada-serde/0.0.9;
   };
@@ -477,6 +480,9 @@
   };
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
+  };
+  dbstream = {
+    "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
   dd-aliyun-python-sdk-core = {
     "2.8.2" = import ./overrides/dd-aliyun-python-sdk-core/2.8.2;
