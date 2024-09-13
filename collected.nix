@@ -2216,6 +2216,9 @@
   pysendfile = {
     "2.0.1" = import ./overrides/pysendfile/2.0.1;
   };
+  pysigset = {
+    "0.4.0" = import ./overrides/pysigset/0.4.0;
+  };
   pysmarthome = {
     "3.1.1" = import ./overrides/pysmarthome/3.1.1;
   };
