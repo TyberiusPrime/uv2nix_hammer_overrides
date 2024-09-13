@@ -1630,6 +1630,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  tflearn = {
+    "0.5.0" = import ./overrides/tflearn/0.5.0;
+  };
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
