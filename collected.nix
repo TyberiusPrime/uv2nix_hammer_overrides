@@ -1825,6 +1825,9 @@
   yasi = {
     "2.1.2" = import ./overrides/yasi/2.1.2;
   };
+  yolk3k = {
+    "0.9" = import ./overrides/yolk3k/0.9;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
