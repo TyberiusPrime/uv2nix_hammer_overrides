@@ -603,6 +603,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  distorm3 = {
+    "3.5.2" = import ./overrides/distorm3/3.5.2;
+  };
   distributedlock = {
     "1.2" = import ./overrides/distributedlock/1.2;
   };
