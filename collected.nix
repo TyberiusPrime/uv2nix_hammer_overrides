@@ -1240,6 +1240,9 @@
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
+  pyjstat = {
+    "2.4.0" = import ./overrides/pyjstat/2.4.0;
+  };
   pyjwkest = {
     "1.4.2" = import ./overrides/pyjwkest/1.4.2;
   };
