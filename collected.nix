@@ -2284,6 +2284,9 @@
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
   };
+  systemcmd = {
+    "3.0.1" = import ./overrides/systemcmd/3.0.1;
+  };
   systemcmd-z6 = {
     "3.0.5" = import ./overrides/systemcmd-z6/3.0.5;
   };
