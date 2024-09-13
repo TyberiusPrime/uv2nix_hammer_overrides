@@ -1027,6 +1027,9 @@
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
+  openidc-client = {
+    "0.6.0" = import ./overrides/openidc-client/0.6.0;
+  };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
   };
