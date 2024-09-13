@@ -1071,6 +1071,9 @@
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
+  pdftotext = {
+    "2.2.2" = import ./overrides/pdftotext/2.2.2;
+  };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
