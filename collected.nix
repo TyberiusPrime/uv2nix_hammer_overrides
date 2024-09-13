@@ -639,6 +639,9 @@
   gruut-ipa = {
     "0.13.0" = import ./overrides/gruut-ipa/0.13.0;
   };
+  gtts-token = {
+    "1.1.4" = import ./overrides/gtts-token/1.1.4;
+  };
   gym = {
     "0.26.2" = import ./overrides/gym/0.26.2;
   };
