@@ -1387,6 +1387,9 @@
   ordereddict = {
     "1.1" = import ./overrides/ordereddict/1.1;
   };
+  osascript = {
+    "2020.12.3" = import ./overrides/osascript/2020.12.3;
+  };
   paho-mqtt = {
     "1.5.0" = import ./overrides/paho-mqtt/1.5.0;
     "1.6.1" = import ./overrides/paho-mqtt/1.6.1;
@@ -1914,6 +1917,9 @@
   };
   rstgen = {
     "24.4.0" = import ./overrides/rstgen/24.4.0;
+  };
+  runcmd = {
+    "2020.12.3" = import ./overrides/runcmd/2020.12.3;
   };
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
