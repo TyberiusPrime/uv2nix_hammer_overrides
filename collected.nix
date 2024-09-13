@@ -698,6 +698,9 @@
   flask-testing = {
     "0.7.1" = import ./overrides/flask-testing/0.7.1;
   };
+  flask-themes2 = {
+    "1.0.1" = import ./overrides/flask-themes2/1.0.1;
+  };
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
