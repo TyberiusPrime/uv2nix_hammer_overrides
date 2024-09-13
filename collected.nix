@@ -2354,6 +2354,9 @@
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
   };
+  uflash = {
+    "2.0.0" = import ./overrides/uflash/2.0.0;
+  };
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
   };
