@@ -882,6 +882,9 @@
   m-caching = {
     "0.1.15" = import ./overrides/m-caching/0.1.15;
   };
+  mailchimp = {
+    "2.0.10" = import ./overrides/mailchimp/2.0.10;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
