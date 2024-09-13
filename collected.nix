@@ -2554,6 +2554,9 @@
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
   };
+  wsgitools = {
+    "0.3.1" = import ./overrides/wsgitools/0.3.1;
+  };
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
   };
