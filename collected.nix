@@ -1306,6 +1306,9 @@
   pyscreeze = {
     "1.0.1" = import ./overrides/pyscreeze/1.0.1;
   };
+  pysdl2 = {
+    "0.9.16" = import ./overrides/pysdl2/0.9.16;
+  };
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
   };
