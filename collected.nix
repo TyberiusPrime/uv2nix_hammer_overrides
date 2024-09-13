@@ -2330,6 +2330,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  webexteamssdk = {
+    "1.7" = import ./overrides/webexteamssdk/1.7;
+  };
   websocket-client = {
     "0.40.0" = import ./overrides/websocket-client/0.40.0;
   };
