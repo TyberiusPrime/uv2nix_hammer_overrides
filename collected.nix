@@ -614,6 +614,9 @@
   django-templated-email = {
     "3.0.1" = import ./overrides/django-templated-email/3.0.1;
   };
+  django-tenants = {
+    "3.7.0" = import ./overrides/django-tenants/3.7.0;
+  };
   django-timedeltafield = {
     "0.7.10" = import ./overrides/django-timedeltafield/0.7.10;
   };
