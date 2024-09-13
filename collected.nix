@@ -771,6 +771,9 @@
   durationpy = {
     "0.7" = import ./overrides/durationpy/0.7;
   };
+  durc = {
+    "3.1.0" = import ./overrides/durc/3.1.0;
+  };
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
@@ -2164,6 +2167,9 @@
   };
   pysendfile = {
     "2.0.1" = import ./overrides/pysendfile/2.0.1;
+  };
+  pysmarthome = {
+    "3.1.1" = import ./overrides/pysmarthome/3.1.1;
   };
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
