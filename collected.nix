@@ -2024,6 +2024,9 @@
   pylint-flask = {
     "0.6" = import ./overrides/pylint-flask/0.6;
   };
+  pylzma = {
+    "0.5.0" = import ./overrides/pylzma/0.5.0;
+  };
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
