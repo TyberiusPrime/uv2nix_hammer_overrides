@@ -609,6 +609,9 @@
   globre = {
     "0.1.5" = import ./overrides/globre/0.1.5;
   };
+  gluonnlp = {
+    "0.10.0" = import ./overrides/gluonnlp/0.10.0;
+  };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
