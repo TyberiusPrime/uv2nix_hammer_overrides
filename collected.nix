@@ -840,6 +840,9 @@
   lightwave2 = {
     "0.8.23" = import ./overrides/lightwave2/0.8.23;
   };
+  ligo-gracedb = {
+    "2.12.0" = import ./overrides/ligo-gracedb/2.12.0;
+  };
   ligo-segments = {
     "1.4.0" = import ./overrides/ligo-segments/1.4.0;
   };
@@ -1142,6 +1145,9 @@
   };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
+  };
+  ptemcee = {
+    "1.0.0" = import ./overrides/ptemcee/1.0.0;
   };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
