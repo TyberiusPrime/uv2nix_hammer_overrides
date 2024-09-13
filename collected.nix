@@ -1254,6 +1254,9 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  memoization = {
+    "0.4.0" = import ./overrides/memoization/0.4.0;
+  };
   memoized-property = {
     "1.0.3" = import ./overrides/memoized-property/1.0.3;
   };
