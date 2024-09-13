@@ -1468,6 +1468,9 @@
   rhasspy-hermes = {
     "0.6.2" = import ./overrides/rhasspy-hermes/0.6.2;
   };
+  rhasspy-silence = {
+    "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
+  };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
@@ -1788,6 +1791,9 @@
   };
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
+  };
+  webrtcvad = {
+    "2.0.10" = import ./overrides/webrtcvad/2.0.10;
   };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
