@@ -921,6 +921,9 @@
   m-caching = {
     "0.1.15" = import ./overrides/m-caching/0.1.15;
   };
+  m2r = {
+    "0.3.1" = import ./overrides/m2r/0.3.1;
+  };
   mailmanclient = {
     "3.3.5" = import ./overrides/mailmanclient/3.3.5;
   };
