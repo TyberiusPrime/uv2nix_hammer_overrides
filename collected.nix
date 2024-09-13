@@ -1813,6 +1813,9 @@
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
   };
+  xerox = {
+    "0.4.1" = import ./overrides/xerox/0.4.1;
+  };
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
   };
