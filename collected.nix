@@ -470,6 +470,9 @@
   easyutils = {
     "0.1.7" = import ./overrides/easyutils/0.1.7;
   };
+  ebooklib = {
+    "0.18" = import ./overrides/ebooklib/0.18;
+  };
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
