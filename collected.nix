@@ -1567,6 +1567,9 @@
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
   };
+  sqlalchemy-mptt = {
+    "0.2.5" = import ./overrides/sqlalchemy-mptt/0.2.5;
+  };
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
