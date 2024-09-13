@@ -398,6 +398,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  django-allauth = {
+    "64.2.1" = import ./overrides/django-allauth/64.2.1;
+  };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
   };
@@ -917,6 +920,9 @@
   };
   m-caching = {
     "0.1.15" = import ./overrides/m-caching/0.1.15;
+  };
+  mailmanclient = {
+    "3.3.5" = import ./overrides/mailmanclient/3.3.5;
   };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
