@@ -942,6 +942,9 @@
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
+  iso-639 = {
+    "0.4.5" = import ./overrides/iso-639/0.4.5;
+  };
   isodatetimehandler = {
     "1.0.2" = import ./overrides/isodatetimehandler/1.0.2;
   };
