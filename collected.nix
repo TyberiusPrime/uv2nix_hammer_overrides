@@ -1507,6 +1507,9 @@
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
   };
+  scripttest = {
+    "1.3" = import ./overrides/scripttest/1.3;
+  };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
   };
