@@ -1071,6 +1071,9 @@
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
+  pdfminer3 = {
+    "2018.12.3.0" = import ./overrides/pdfminer3/2018.12.3.0;
+  };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
