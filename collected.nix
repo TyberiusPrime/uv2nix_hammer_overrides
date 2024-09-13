@@ -334,6 +334,9 @@
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
+  cssmin = {
+    "0.2.0" = import ./overrides/cssmin/0.2.0;
+  };
   cursor = {
     "1.3.5" = import ./overrides/cursor/1.3.5;
   };
@@ -1237,6 +1240,9 @@
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
+  pyjade = {
+    "4.0.0" = import ./overrides/pyjade/4.0.0;
+  };
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
@@ -1590,6 +1596,9 @@
   };
   stringconvert = {
     "0.3.2" = import ./overrides/stringconvert/0.3.2;
+  };
+  stylus = {
+    "0.1.2" = import ./overrides/stylus/0.1.2;
   };
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
