@@ -446,6 +446,9 @@
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
+  dlx = {
+    "1.0.4" = import ./overrides/dlx/1.0.4;
+  };
   dm-reuse = {
     "2.2" = import ./overrides/dm-reuse/2.2;
   };
