@@ -1404,6 +1404,12 @@
   moznetwork = {
     "1.1.0" = import ./overrides/moznetwork/1.1.0;
   };
+  mozprofile = {
+    "3.0.0" = import ./overrides/mozprofile/3.0.0;
+  };
+  mozrunner = {
+    "8.3.1" = import ./overrides/mozrunner/8.3.1;
+  };
   mplcursors = {
     "0.5.3" = import ./overrides/mplcursors/0.5.3;
   };
