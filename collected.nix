@@ -1756,6 +1756,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  vcfpy = {
+    "0.13.8" = import ./overrides/vcfpy/0.13.8;
+  };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
