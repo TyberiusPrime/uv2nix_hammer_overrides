@@ -1027,6 +1027,12 @@
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
+  openerp-process = {
+    "7.0.406" = import ./overrides/openerp-process/7.0.406;
+  };
+  openerp-web = {
+    "7.0.406" = import ./overrides/openerp-web/7.0.406;
+  };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
   };
