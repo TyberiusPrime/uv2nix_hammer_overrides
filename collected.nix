@@ -654,6 +654,9 @@
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
+  hdbscan = {
+    "0.8.38.post1" = import ./overrides/hdbscan/0.8.38.post1;
+  };
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
