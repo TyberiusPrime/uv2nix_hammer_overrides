@@ -234,6 +234,9 @@
   cloeepy = {
     "0.0.2" = import ./overrides/cloeepy/0.0.2;
   };
+  closure = {
+    "20191111" = import ./overrides/closure/20191111;
+  };
   cloud-compose = {
     "0.4.1" = import ./overrides/cloud-compose/0.4.1;
   };
