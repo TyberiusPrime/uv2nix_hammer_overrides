@@ -1531,6 +1531,9 @@
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
+  simple-rlp = {
+    "0.1.3" = import ./overrides/simple-rlp/0.1.3;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
