@@ -1146,6 +1146,9 @@
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
+  py-ubjson = {
+    "0.16.1" = import ./overrides/py-ubjson/0.16.1;
+  };
   pyactiveresource = {
     "2.2.2" = import ./overrides/pyactiveresource/2.2.2;
   };
