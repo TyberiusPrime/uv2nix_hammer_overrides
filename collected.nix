@@ -406,6 +406,9 @@
   cs-ansi-colour = {
     "20220227" = import ./overrides/cs-ansi-colour/20220227;
   };
+  cs-timeutils = {
+    "20211208" = import ./overrides/cs-timeutils/20211208;
+  };
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
