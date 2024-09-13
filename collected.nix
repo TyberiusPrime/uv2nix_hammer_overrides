@@ -1267,6 +1267,9 @@
   pymsgbox = {
     "1.0.9" = import ./overrides/pymsgbox/1.0.9;
   };
+  pynagios = {
+    "0.1.1" = import ./overrides/pynagios/0.1.1;
+  };
   pync = {
     "2.0.3" = import ./overrides/pync/2.0.3;
   };
