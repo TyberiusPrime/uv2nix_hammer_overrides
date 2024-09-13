@@ -828,6 +828,9 @@
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
+  hangups = {
+    "0.4.18" = import ./overrides/hangups/0.4.18;
+  };
   hanziconv = {
     "0.3.2" = import ./overrides/hanziconv/0.3.2;
   };
@@ -1807,6 +1810,9 @@
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
+  reparser = {
+    "1.4.3" = import ./overrides/reparser/1.4.3;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
@@ -2157,6 +2163,9 @@
   };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
+  };
+  urwid = {
+    "2.1.2" = import ./overrides/urwid/2.1.2;
   };
   urwid-mitmproxy = {
     "2.1.2.1" = import ./overrides/urwid-mitmproxy/2.1.2.1;
