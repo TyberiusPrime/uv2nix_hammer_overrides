@@ -1477,6 +1477,9 @@
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
+  pyes = {
+    "0.99.6" = import ./overrides/pyes/0.99.6;
+  };
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
