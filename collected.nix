@@ -692,6 +692,9 @@
   flask-restless = {
     "0.17.0" = import ./overrides/flask-restless/0.17.0;
   };
+  flask-script = {
+    "2.0.6" = import ./overrides/flask-script/2.0.6;
+  };
   flask-testing = {
     "0.7.1" = import ./overrides/flask-testing/0.7.1;
   };
