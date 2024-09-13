@@ -1357,6 +1357,9 @@
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
+  langid = {
+    "1.1.6" = import ./overrides/langid/1.1.6;
+  };
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
