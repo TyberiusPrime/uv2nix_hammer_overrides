@@ -1429,6 +1429,9 @@
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
   };
+  pykulersky = {
+    "0.5.5" = import ./overrides/pykulersky/0.5.5;
+  };
   pylatexenc = {
     "2.10" = import ./overrides/pylatexenc/2.10;
   };
