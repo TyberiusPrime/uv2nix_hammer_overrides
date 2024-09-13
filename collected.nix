@@ -2575,6 +2575,9 @@
   xdis = {
     "6.1.1" = import ./overrides/xdis/6.1.1;
   };
+  xerox = {
+    "0.4.1" = import ./overrides/xerox/0.4.1;
+  };
   xformers = {
     "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
   };
