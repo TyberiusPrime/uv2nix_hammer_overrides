@@ -2903,6 +2903,9 @@
   yasi = {
     "2.1.2" = import ./overrides/yasi/2.1.2;
   };
+  ydiff = {
+    "1.3" = import ./overrides/ydiff/1.3;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
