@@ -596,6 +596,9 @@
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
+  elasticutils = {
+    "0.10.3" = import ./overrides/elasticutils/0.10.3;
+  };
   emoji = {
     "1.6.3" = import ./overrides/emoji/1.6.3;
   };
