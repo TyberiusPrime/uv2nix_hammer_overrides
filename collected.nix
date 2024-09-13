@@ -367,6 +367,9 @@
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
+  deap = {
+    "1.4.1" = import ./overrides/deap/1.4.1;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
