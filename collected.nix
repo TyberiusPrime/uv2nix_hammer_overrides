@@ -23,6 +23,9 @@
   addonfactory-splunk-conf-parser-lib = {
     "0.4.3" = import ./overrides/addonfactory-splunk-conf-parser-lib/0.4.3;
   };
+  addressable = {
+    "1.4.2" = import ./overrides/addressable/1.4.2;
+  };
   adict = {
     "0.1.7" = import ./overrides/adict/0.1.7;
   };
