@@ -364,6 +364,9 @@
   daemonocle = {
     "1.2.3" = import ./overrides/daemonocle/1.2.3;
   };
+  daff = {
+    "1.3.46" = import ./overrides/daff/1.3.46;
+  };
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
@@ -858,6 +861,9 @@
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
+  logbook = {
+    "1.5.3" = import ./overrides/logbook/1.5.3;
+  };
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
@@ -917,6 +923,9 @@
   };
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
+  };
+  minimal-snowplow-tracker = {
+    "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
