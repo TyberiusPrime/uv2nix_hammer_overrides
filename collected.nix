@@ -1870,6 +1870,9 @@
   phpserialize = {
     "1.3" = import ./overrides/phpserialize/1.3;
   };
+  pickle-mixin = {
+    "1.0.2" = import ./overrides/pickle-mixin/1.0.2;
+  };
   pickledb = {
     "0.9.2" = import ./overrides/pickledb/0.9.2;
   };
