@@ -225,6 +225,9 @@
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
   };
+  clime = {
+    "0.3.1" = import ./overrides/clime/0.3.1;
+  };
   clint = {
     "0.5.1" = import ./overrides/clint/0.5.1;
   };
