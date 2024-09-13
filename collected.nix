@@ -2071,6 +2071,9 @@
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
   };
+  tlslite = {
+    "0.4.9" = import ./overrides/tlslite/0.4.9;
+  };
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
