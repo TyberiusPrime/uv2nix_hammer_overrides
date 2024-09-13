@@ -948,6 +948,9 @@
   hydralit-components = {
     "1.0.10" = import ./overrides/hydralit-components/1.0.10;
   };
+  i3-py = {
+    "0.6.4" = import ./overrides/i3-py/0.6.4;
+  };
   ibm-cos-sdk-core = {
     "2.13.6" = import ./overrides/ibm-cos-sdk-core/2.13.6;
   };
