@@ -1116,6 +1116,9 @@
   lazyutils = {
     "0.3.3" = import ./overrides/lazyutils/0.3.3;
   };
+  lcogt-logging = {
+    "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
+  };
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
