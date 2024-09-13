@@ -765,6 +765,9 @@
   dppd-plotnine = {
     "0.2.7" = import ./overrides/dppd-plotnine/0.2.7;
   };
+  drawille = {
+    "0.1.0" = import ./overrides/drawille/0.1.0;
+  };
   drf-access-policy = {
     "1.5.0" = import ./overrides/drf-access-policy/1.5.0;
   };
