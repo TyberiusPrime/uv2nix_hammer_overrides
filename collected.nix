@@ -11,6 +11,9 @@
   acor = {
     "1.1.1" = import ./overrides/acor/1.1.1;
   };
+  active-alchemy = {
+    "1.1.0" = import ./overrides/active-alchemy/1.1.0;
+  };
   adafruit-gpio = {
     "1.0.3" = import ./overrides/adafruit-gpio/1.0.3;
   };
@@ -1452,6 +1455,9 @@
   };
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
+  };
+  paginator = {
+    "0.5.1" = import ./overrides/paginator/0.5.1;
   };
   paho-mqtt = {
     "1.5.0" = import ./overrides/paho-mqtt/1.5.0;
