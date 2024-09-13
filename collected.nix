@@ -382,6 +382,9 @@
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
+  delta = {
+    "0.4.2" = import ./overrides/delta/0.4.2;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
