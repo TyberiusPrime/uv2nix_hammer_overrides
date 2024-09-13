@@ -723,6 +723,9 @@
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
+  interlap = {
+    "0.2.7" = import ./overrides/interlap/0.2.7;
+  };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
   };
