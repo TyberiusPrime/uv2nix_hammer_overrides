@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+TomlRequiresPatcher = [ [ false, false, false, true, false, true,],]
