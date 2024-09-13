@@ -1495,6 +1495,9 @@
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
+  mailchecker = {
+    "6.0.8" = import ./overrides/mailchecker/6.0.8;
+  };
   mailchimp = {
     "2.0.10" = import ./overrides/mailchimp/2.0.10;
   };
