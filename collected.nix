@@ -1,4 +1,7 @@
 {
+  "3to2" = {
+    "1.1.1" = import ./overrides/3to2/1.1.1;
+  };
   aadict = {
     "0.2.3" = import ./overrides/aadict/0.2.3;
   };
