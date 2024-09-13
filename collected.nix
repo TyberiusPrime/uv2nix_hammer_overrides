@@ -2066,6 +2066,9 @@
   pyvlx = {
     "0.2.23" = import ./overrides/pyvlx/0.2.23;
   };
+  pyvoro = {
+    "1.3.2" = import ./overrides/pyvoro/1.3.2;
+  };
   pyxbe = {
     "1.0.3" = import ./overrides/pyxbe/1.0.3;
   };
