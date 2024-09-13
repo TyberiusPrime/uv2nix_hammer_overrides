@@ -704,6 +704,9 @@
   easywebdav = {
     "1.2.0" = import ./overrides/easywebdav/1.2.0;
   };
+  ebooklib = {
+    "0.18" = import ./overrides/ebooklib/0.18;
+  };
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
