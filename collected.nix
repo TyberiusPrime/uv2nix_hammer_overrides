@@ -2356,6 +2356,9 @@
   timeloop = {
     "1.0.2" = import ./overrides/timeloop/1.0.2;
   };
+  tinycss = {
+    "0.4" = import ./overrides/tinycss/0.4;
+  };
   tinyec = {
     "0.4.0" = import ./overrides/tinyec/0.4.0;
   };
