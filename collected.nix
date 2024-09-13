@@ -291,6 +291,9 @@
   bw2data = {
     "3.6.6" = import ./overrides/bw2data/3.6.6;
   };
+  cachecontrol = {
+    "0.12.3" = import ./overrides/cachecontrol/0.12.3;
+  };
   cached-ipaddress = {
     "0.5.0" = import ./overrides/cached-ipaddress/0.5.0;
   };
