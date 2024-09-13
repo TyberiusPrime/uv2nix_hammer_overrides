@@ -987,6 +987,18 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  nlptoolkit-corpus = {
+    "1.0.25" = import ./overrides/nlptoolkit-corpus/1.0.25;
+  };
+  nlptoolkit-dictionary = {
+    "1.0.35" = import ./overrides/nlptoolkit-dictionary/1.0.35;
+  };
+  nlptoolkit-math = {
+    "1.0.18" = import ./overrides/nlptoolkit-math/1.0.18;
+  };
+  nlptoolkit-util = {
+    "1.0.11" = import ./overrides/nlptoolkit-util/1.0.11;
+  };
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
