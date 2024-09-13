@@ -963,6 +963,9 @@
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
+  interegular = {
+    "0.3.3" = import ./overrides/interegular/0.3.3;
+  };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
   };
@@ -1244,6 +1247,9 @@
   };
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
+  };
+  multiprocess = {
+    "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
   mutesync = {
     "0.0.2" = import ./overrides/mutesync/0.0.2;
@@ -2150,6 +2156,7 @@
     "0.1" = import ./overrides/tonyg-rfc3339/0.1;
   };
   torch = {
+    "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
   };
   torchnet = {
@@ -2287,6 +2294,12 @@
   vkontakte = {
     "1.3.5" = import ./overrides/vkontakte/1.3.5;
   };
+  vllm = {
+    "0.6.0" = import ./overrides/vllm/0.6.0;
+  };
+  vllm-flash-attn = {
+    "2.6.1" = import ./overrides/vllm-flash-attn/2.6.1;
+  };
   vlsir = {
     "6.0.0" = import ./overrides/vlsir/6.0.0;
   };
@@ -2344,6 +2357,9 @@
   };
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
+  };
+  xformers = {
+    "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
   };
   xlwt-future = {
     "0.8.0" = import ./overrides/xlwt-future/0.8.0;
