@@ -807,6 +807,9 @@
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
+  hanziconv = {
+    "0.3.2" = import ./overrides/hanziconv/0.3.2;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
