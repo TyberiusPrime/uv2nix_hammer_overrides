@@ -557,6 +557,9 @@
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
+  fleep = {
+    "1.0.1" = import ./overrides/fleep/1.0.1;
+  };
   fortranformat = {
     "2.0.0" = import ./overrides/fortranformat/2.0.0;
   };
