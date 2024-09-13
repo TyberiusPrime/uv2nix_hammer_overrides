@@ -455,6 +455,9 @@
   docopt = {
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
+  docplex = {
+    "2.28.240" = import ./overrides/docplex/2.28.240;
+  };
   docrep = {
     "0.3.2" = import ./overrides/docrep/0.3.2;
   };
