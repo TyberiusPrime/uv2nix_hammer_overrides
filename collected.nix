@@ -1831,6 +1831,9 @@
   py-ubjson = {
     "0.16.1" = import ./overrides/py-ubjson/0.16.1;
   };
+  pyacoustid = {
+    "1.3.0" = import ./overrides/pyacoustid/1.3.0;
+  };
   pyactiveresource = {
     "2.2.2" = import ./overrides/pyactiveresource/2.2.2;
   };
