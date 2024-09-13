@@ -1954,6 +1954,9 @@
   requests-aws = {
     "0.1.8" = import ./overrides/requests-aws/0.1.8;
   };
+  requests-ftp = {
+    "0.3.1" = import ./overrides/requests-ftp/0.3.1;
+  };
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
