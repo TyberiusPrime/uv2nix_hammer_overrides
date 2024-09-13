@@ -816,6 +816,9 @@
   lazyutils = {
     "0.3.3" = import ./overrides/lazyutils/0.3.3;
   };
+  lesscli = {
+    "0.2.1" = import ./overrides/lesscli/0.2.1;
+  };
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
