@@ -1597,6 +1597,9 @@
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
   };
+  mgzip = {
+    "0.2.1" = import ./overrides/mgzip/0.2.1;
+  };
   miasm = {
     "0.1.5" = import ./overrides/miasm/0.1.5;
   };
