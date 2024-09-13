@@ -1540,6 +1540,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  slacker = {
+    "0.14.0" = import ./overrides/slacker/0.14.0;
+  };
   slimit = {
     "0.8.1" = import ./overrides/slimit/0.8.1;
   };
