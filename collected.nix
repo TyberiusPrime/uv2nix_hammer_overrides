@@ -1146,6 +1146,9 @@
   jaconv = {
     "0.4.0" = import ./overrides/jaconv/0.4.0;
   };
+  jadi = {
+    "1.0.3" = import ./overrides/jadi/1.0.3;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
@@ -2187,6 +2190,9 @@
   };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
+  };
+  reconfigure = {
+    "0.1.82" = import ./overrides/reconfigure/0.1.82;
   };
   rectpack = {
     "0.2.2" = import ./overrides/rectpack/0.2.2;
