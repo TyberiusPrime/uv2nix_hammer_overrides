@@ -1257,6 +1257,9 @@
   nlptoolkit-util = {
     "1.0.11" = import ./overrides/nlptoolkit-util/1.0.11;
   };
+  nodejs = {
+    "0.1.1" = import ./overrides/nodejs/0.1.1;
+  };
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
