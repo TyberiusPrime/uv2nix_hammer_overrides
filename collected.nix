@@ -2140,6 +2140,9 @@
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
   };
+  svglib = {
+    "1.5.1" = import ./overrides/svglib/1.5.1;
+  };
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
   };
