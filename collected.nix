@@ -1549,6 +1549,9 @@
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
+  solrpy = {
+    "1.0.0" = import ./overrides/solrpy/1.0.0;
+  };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
