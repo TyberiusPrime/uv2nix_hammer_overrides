@@ -704,6 +704,9 @@
   flask-apscheduler = {
     "1.13.1" = import ./overrides/flask-apscheduler/1.13.1;
   };
+  flask-bootstrap = {
+    "3.3.7.1" = import ./overrides/flask-bootstrap/3.3.7.1;
+  };
   flask-csrf = {
     "0.9.2" = import ./overrides/flask-csrf/0.9.2;
   };
