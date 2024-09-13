@@ -225,6 +225,9 @@
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
+  breezy = {
+    "3.3.8" = import ./overrides/breezy/3.3.8;
+  };
   bson = {
     "0.5.10" = import ./overrides/bson/0.5.10;
   };
