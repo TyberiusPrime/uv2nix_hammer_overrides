@@ -665,6 +665,9 @@
   flask-apscheduler = {
     "1.13.1" = import ./overrides/flask-apscheduler/1.13.1;
   };
+  flask-csrf = {
+    "0.9.2" = import ./overrides/flask-csrf/0.9.2;
+  };
   flask-jsonpify = {
     "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
   };
