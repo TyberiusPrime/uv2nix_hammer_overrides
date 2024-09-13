@@ -512,6 +512,9 @@
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
+  filemagic = {
+    "1.6" = import ./overrides/filemagic/1.6;
+  };
   filterpy = {
     "1.4.5" = import ./overrides/filterpy/1.4.5;
   };
