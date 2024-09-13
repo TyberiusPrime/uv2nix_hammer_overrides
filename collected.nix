@@ -192,6 +192,9 @@
   bsuite = {
     "0.3.5" = import ./overrides/bsuite/0.3.5;
   };
+  bw2data = {
+    "3.6.6" = import ./overrides/bw2data/3.6.6;
+  };
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
@@ -1725,6 +1728,9 @@
   };
   umap = {
     "0.1.1" = import ./overrides/umap/0.1.1;
+  };
+  unicodecsv = {
+    "0.14.1" = import ./overrides/unicodecsv/0.14.1;
   };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
