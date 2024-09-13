@@ -1321,6 +1321,9 @@
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
+  lesscli = {
+    "0.2.1" = import ./overrides/lesscli/0.2.1;
+  };
   libclang-py3 = {
     "3.9.0" = import ./overrides/libclang-py3/3.9.0;
   };
