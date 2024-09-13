@@ -1915,6 +1915,9 @@
   pybitcointools = {
     "1.1.15" = import ./overrides/pybitcointools/1.1.15;
   };
+  pyblake2 = {
+    "1.1.2" = import ./overrides/pyblake2/1.1.2;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
