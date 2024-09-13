@@ -1879,6 +1879,9 @@
   sphinxcontrib-newsfeed = {
     "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
   };
+  sphinxcontrib-plantuml = {
+    "0.30" = import ./overrides/sphinxcontrib-plantuml/0.30;
+  };
   sphinxcontrib-tikz = {
     "0.4.20" = import ./overrides/sphinxcontrib-tikz/0.4.20;
   };
