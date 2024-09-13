@@ -2531,6 +2531,9 @@
   showit = {
     "1.1.4" = import ./overrides/showit/1.1.4;
   };
+  shutils = {
+    "0.1.0" = import ./overrides/shutils/0.1.0;
+  };
   shutilwhich = {
     "1.1.0" = import ./overrides/shutilwhich/1.1.0;
   };
