@@ -591,6 +591,9 @@
   gcs-oauth2-boto-plugin = {
     "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
   };
+  genson = {
+    "1.2.2" = import ./overrides/genson/1.2.2;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
@@ -1812,6 +1815,9 @@
   };
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
+  };
+  xdsmjs = {
+    "2.0.0" = import ./overrides/xdsmjs/2.0.0;
   };
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
