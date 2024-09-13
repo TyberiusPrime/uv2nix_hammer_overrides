@@ -1039,6 +1039,9 @@
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
+  helium = {
+    "5.1.0" = import ./overrides/helium/5.1.0;
+  };
   helputils = {
     "1.4.38" = import ./overrides/helputils/1.4.38;
   };
