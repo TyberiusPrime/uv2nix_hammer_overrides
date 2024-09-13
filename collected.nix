@@ -1783,6 +1783,9 @@
   pysdl2 = {
     "0.9.16" = import ./overrides/pysdl2/0.9.16;
   };
+  pysendfile = {
+    "2.0.1" = import ./overrides/pysendfile/2.0.1;
+  };
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
   };
