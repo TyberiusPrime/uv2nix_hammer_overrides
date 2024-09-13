@@ -1975,6 +1975,9 @@
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
   };
+  sqlalchemy-mptt = {
+    "0.2.5" = import ./overrides/sqlalchemy-mptt/0.2.5;
+  };
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
