@@ -707,6 +707,9 @@
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
+  fabtools = {
+    "0.20.0" = import ./overrides/fabtools/0.20.0;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
