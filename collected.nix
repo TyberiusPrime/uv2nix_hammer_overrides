@@ -1413,6 +1413,9 @@
   mysql-replication = {
     "1.0.9" = import ./overrides/mysql-replication/1.0.9;
   };
+  nad-receiver = {
+    "0.3.0" = import ./overrides/nad-receiver/0.3.0;
+  };
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
   };
