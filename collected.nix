@@ -1693,6 +1693,9 @@
   tsam = {
     "2.3.3" = import ./overrides/tsam/2.3.3;
   };
+  tubeup = {
+    "2023.9.19" = import ./overrides/tubeup/2023.9.19;
+  };
   twitter-common-contextutil = {
     "0.3.11" = import ./overrides/twitter-common-contextutil/0.3.11;
   };
