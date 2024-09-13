@@ -1224,6 +1224,9 @@
   moznetwork = {
     "1.1.0" = import ./overrides/moznetwork/1.1.0;
   };
+  mplcursors = {
+    "0.5.3" = import ./overrides/mplcursors/0.5.3;
+  };
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
