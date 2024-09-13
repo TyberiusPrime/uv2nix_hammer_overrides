@@ -407,6 +407,9 @@
   configparser = {
     "3.5.0" = import ./overrides/configparser/3.5.0;
   };
+  cons = {
+    "0.4.6" = import ./overrides/cons/0.4.6;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
@@ -788,6 +791,9 @@
   };
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
+  };
+  etuples = {
+    "0.3.9" = import ./overrides/etuples/0.3.9;
   };
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
@@ -1375,6 +1381,9 @@
   logi-circle = {
     "0.2.3" = import ./overrides/logi-circle/0.2.3;
   };
+  logical-unification = {
+    "0.4.6" = import ./overrides/logical-unification/0.4.6;
+  };
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
   };
@@ -1458,6 +1467,9 @@
   };
   miniful = {
     "0.0.6" = import ./overrides/miniful/0.0.6;
+  };
+  minikanren = {
+    "1.0.3" = import ./overrides/minikanren/1.0.3;
   };
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
