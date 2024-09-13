@@ -274,6 +274,9 @@
   cmlibs-zinc = {
     "4.1.2" = import ./overrides/cmlibs-zinc/4.1.2;
   };
+  cmsis-svd = {
+    "0.4" = import ./overrides/cmsis-svd/0.4;
+  };
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
