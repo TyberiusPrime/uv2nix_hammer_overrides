@@ -1690,6 +1690,9 @@
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
   };
+  pynagios = {
+    "0.1.1" = import ./overrides/pynagios/0.1.1;
+  };
   pync = {
     "2.0.3" = import ./overrides/pync/2.0.3;
   };
