@@ -407,6 +407,9 @@
   combo = {
     "0.1.3" = import ./overrides/combo/0.1.3;
   };
+  combo-lock = {
+    "0.2.6" = import ./overrides/combo-lock/0.2.6;
+  };
   cometblue-lite = {
     "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
   };
@@ -1248,6 +1251,9 @@
   };
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
+  };
+  json-database = {
+    "0.7.0" = import ./overrides/json-database/0.7.0;
   };
   json-log-formatter = {
     "0.5.2" = import ./overrides/json-log-formatter/0.5.2;
