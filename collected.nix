@@ -219,6 +219,9 @@
   bsuite = {
     "0.3.5" = import ./overrides/bsuite/0.3.5;
   };
+  btrfs = {
+    "14.1" = import ./overrides/btrfs/14.1;
+  };
   bw2data = {
     "3.6.6" = import ./overrides/bw2data/3.6.6;
   };
