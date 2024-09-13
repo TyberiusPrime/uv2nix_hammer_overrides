@@ -192,6 +192,9 @@
   bsuite = {
     "0.3.5" = import ./overrides/bsuite/0.3.5;
   };
+  btrfs = {
+    "14.1" = import ./overrides/btrfs/14.1;
+  };
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
