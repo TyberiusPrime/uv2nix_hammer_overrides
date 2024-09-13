@@ -1787,6 +1787,9 @@
   pyunormalize = {
     "15.1.0" = import ./overrides/pyunormalize/15.1.0;
   };
+  pyupdate = {
+    "1.4.0" = import ./overrides/pyupdate/1.4.0;
+  };
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
   };
