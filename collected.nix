@@ -1434,6 +1434,9 @@
   pims = {
     "0.7" = import ./overrides/pims/0.7;
   };
+  pinyin = {
+    "0.4.0" = import ./overrides/pinyin/0.4.0;
+  };
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
