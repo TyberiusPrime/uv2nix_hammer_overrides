@@ -1140,6 +1140,9 @@
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
   };
+  proto-google-cloud-datastore-v1 = {
+    "0.90.4" = import ./overrides/proto-google-cloud-datastore-v1/0.90.4;
+  };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
