@@ -138,6 +138,9 @@
   av = {
     "13.0.0" = import ./overrides/av/13.0.0;
   };
+  avro = {
+    "1.11.3" = import ./overrides/avro/1.11.3;
+  };
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
