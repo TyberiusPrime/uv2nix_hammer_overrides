@@ -605,6 +605,9 @@
   durabledict = {
     "0.9.4" = import ./overrides/durabledict/0.9.4;
   };
+  durationpy = {
+    "0.7" = import ./overrides/durationpy/0.7;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
