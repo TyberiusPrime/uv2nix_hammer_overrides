@@ -65,6 +65,9 @@
   aipy = {
     "3.0.6" = import ./overrides/aipy/3.0.6;
   };
+  alembic = {
+    "1.6.2" = import ./overrides/alembic/1.6.2;
+  };
   aliyun-log-python-sdk = {
     "0.9.11" = import ./overrides/aliyun-log-python-sdk/0.9.11;
   };
@@ -353,6 +356,9 @@
   };
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
+  };
+  click-didyoumean = {
+    "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
   };
   clime = {
     "0.3.1" = import ./overrides/clime/0.3.1;
@@ -2740,6 +2746,9 @@
   };
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
+  };
+  sqlalchemy = {
+    "1.4.15" = import ./overrides/sqlalchemy/1.4.15;
   };
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
