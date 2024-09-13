@@ -1561,6 +1561,9 @@
   sphinxcontrib-newsfeed = {
     "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
   };
+  sphinxcontrib-plantuml = {
+    "0.30" = import ./overrides/sphinxcontrib-plantuml/0.30;
+  };
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
