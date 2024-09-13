@@ -1309,6 +1309,9 @@
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
+  libclang-py3 = {
+    "3.9.0" = import ./overrides/libclang-py3/3.9.0;
+  };
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
