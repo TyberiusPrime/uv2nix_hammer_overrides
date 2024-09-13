@@ -2781,6 +2781,9 @@
   utilitybelt = {
     "0.2.6" = import ./overrides/utilitybelt/0.2.6;
   };
+  utils = {
+    "1.0.2" = import ./overrides/utils/1.0.2;
+  };
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
   };
