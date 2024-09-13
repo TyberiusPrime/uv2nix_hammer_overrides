@@ -987,6 +987,9 @@
   fortranformat = {
     "2.0.0" = import ./overrides/fortranformat/2.0.0;
   };
+  fpdf = {
+    "1.7.2" = import ./overrides/fpdf/1.7.2;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
