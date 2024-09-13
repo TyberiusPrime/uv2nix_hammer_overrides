@@ -2173,6 +2173,9 @@
   systemcmd-z6 = {
     "3.0.5" = import ./overrides/systemcmd-z6/3.0.5;
   };
+  ta = {
+    "0.11.0" = import ./overrides/ta/0.11.0;
+  };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
