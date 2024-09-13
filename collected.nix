@@ -590,6 +590,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  dppd-plotnine = {
+    "0.2.7" = import ./overrides/dppd-plotnine/0.2.7;
+  };
   dsinternals = {
     "1.2.4" = import ./overrides/dsinternals/1.2.4;
   };
