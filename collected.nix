@@ -810,6 +810,9 @@
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
   };
+  krakenex = {
+    "2.2.2" = import ./overrides/krakenex/2.2.2;
+  };
   lazy-string = {
     "1.0.0" = import ./overrides/lazy-string/1.0.0;
   };
