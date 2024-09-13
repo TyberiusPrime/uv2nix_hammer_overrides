@@ -1394,6 +1394,9 @@
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
   };
+  pythontoolskit = {
+    "1.2.6" = import ./overrides/pythontoolskit/1.2.6;
+  };
   pytidylib = {
     "0.3.2" = import ./overrides/pytidylib/0.3.2;
   };
