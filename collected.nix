@@ -192,6 +192,9 @@
   bsuite = {
     "0.3.5" = import ./overrides/bsuite/0.3.5;
   };
+  busrt = {
+    "0.1.2" = import ./overrides/busrt/0.1.2;
+  };
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
@@ -487,6 +490,9 @@
   };
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
+  };
+  evaics = {
+    "0.2.29" = import ./overrides/evaics/0.2.29;
   };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
