@@ -2645,6 +2645,9 @@
   sockjs-tornado = {
     "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
   };
+  solrpy = {
+    "1.0.0" = import ./overrides/solrpy/1.0.0;
+  };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
