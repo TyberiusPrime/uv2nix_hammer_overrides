@@ -460,6 +460,9 @@
   cursor = {
     "1.3.5" = import ./overrides/cursor/1.3.5;
   };
+  curve25519-donna = {
+    "1.3" = import ./overrides/curve25519-donna/1.3;
+  };
   customerio = {
     "2.1" = import ./overrides/customerio/2.1;
   };
