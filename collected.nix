@@ -1361,6 +1361,9 @@
   python-hostlist = {
     "1.23.0" = import ./overrides/python-hostlist/1.23.0;
   };
+  python-instagram = {
+    "1.3.2" = import ./overrides/python-instagram/1.3.2;
+  };
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
