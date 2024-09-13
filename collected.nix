@@ -1429,6 +1429,9 @@
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
+  opcua = {
+    "0.98.13" = import ./overrides/opcua/0.98.13;
+  };
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
