@@ -1849,6 +1849,9 @@
   torch = {
     "2.4.1" = import ./overrides/torch/2.4.1;
   };
+  torchnet = {
+    "0.0.4" = import ./overrides/torchnet/0.0.4;
+  };
   torchvision = {
     "0.19.1" = import ./overrides/torchvision/0.19.1;
   };
@@ -1962,6 +1965,9 @@
   };
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
+  };
+  visdom = {
+    "0.2.4" = import ./overrides/visdom/0.2.4;
   };
   visitor = {
     "0.1.3" = import ./overrides/visitor/0.1.3;
