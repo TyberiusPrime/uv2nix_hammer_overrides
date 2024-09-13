@@ -590,6 +590,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  dsinternals = {
+    "1.2.4" = import ./overrides/dsinternals/1.2.4;
+  };
   dsnparse = {
     "0.2.1" = import ./overrides/dsnparse/0.2.1;
   };
@@ -923,6 +926,9 @@
   };
   imm-source = {
     "1.0.30" = import ./overrides/imm-source/1.0.30;
+  };
+  impacket = {
+    "0.11.0" = import ./overrides/impacket/0.11.0;
   };
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
