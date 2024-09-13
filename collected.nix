@@ -259,6 +259,9 @@
   cloudshell-snmp = {
     "3.3.0" = import ./overrides/cloudshell-snmp/3.3.0;
   };
+  cmdline = {
+    "0.2.0" = import ./overrides/cmdline/0.2.0;
+  };
   cmlibs-zinc = {
     "4.1.2" = import ./overrides/cmlibs-zinc/4.1.2;
   };
