@@ -403,6 +403,9 @@
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
+  dd-aliyun-python-sdk-core = {
+    "2.8.2" = import ./overrides/dd-aliyun-python-sdk-core/2.8.2;
+  };
   debts = {
     "0.5" = import ./overrides/debts/0.5;
   };
