@@ -690,6 +690,9 @@
   django-next-prev = {
     "1.1.0" = import ./overrides/django-next-prev/1.1.0;
   };
+  django-oauth-tokens = {
+    "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
+  };
   django-pure-pagination = {
     "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
   };
