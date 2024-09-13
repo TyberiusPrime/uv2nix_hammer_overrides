@@ -858,6 +858,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  keyrings-cryptfile = {
+    "1.3.9" = import ./overrides/keyrings-cryptfile/1.3.9;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
