@@ -428,6 +428,9 @@
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
+  django-standard-form = {
+    "1.1.1" = import ./overrides/django-standard-form/1.1.1;
+  };
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
