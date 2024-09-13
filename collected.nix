@@ -1305,6 +1305,9 @@
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
+  lock = {
+    "2018.3.25.2110" = import ./overrides/lock/2018.3.25.2110;
+  };
   log-colorizer = {
     "2.0.0" = import ./overrides/log-colorizer/2.0.0;
   };
