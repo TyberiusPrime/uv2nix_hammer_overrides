@@ -1246,6 +1246,9 @@
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
+  jinjaroot = {
+    "0.0.6" = import ./overrides/jinjaroot/0.0.6;
+  };
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
   };
@@ -1302,6 +1305,9 @@
   };
   kabaret = {
     "2.3.0" = import ./overrides/kabaret/2.3.0;
+  };
+  kachery-client = {
+    "1.2.0" = import ./overrides/kachery-client/1.2.0;
   };
   kachery-cloud = {
     "0.4.9" = import ./overrides/kachery-cloud/0.4.9;
