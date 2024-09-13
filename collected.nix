@@ -2309,6 +2309,9 @@
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
+  videocr = {
+    "0.1.6" = import ./overrides/videocr/0.1.6;
+  };
   visdom = {
     "0.2.4" = import ./overrides/visdom/0.2.4;
   };
