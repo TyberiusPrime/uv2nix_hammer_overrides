@@ -705,6 +705,9 @@
   image = {
     "1.5.33" = import ./overrides/image/1.5.33;
   };
+  imageio = {
+    "2.1.2" = import ./overrides/imageio/2.1.2;
+  };
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
@@ -722,6 +725,9 @@
   };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
+  };
+  instagramapi = {
+    "1.0.2" = import ./overrides/instagramapi/1.0.2;
   };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
