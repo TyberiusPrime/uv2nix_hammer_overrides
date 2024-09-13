@@ -2348,6 +2348,7 @@
   websockets = {
     "10.4" = import ./overrides/websockets/10.4;
     "8.1" = import ./overrides/websockets/8.1;
+    "9.1" = import ./overrides/websockets/9.1;
   };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
