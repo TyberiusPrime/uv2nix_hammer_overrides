@@ -651,6 +651,9 @@
   h5pyd = {
     "0.18.0" = import ./overrides/h5pyd/0.18.0;
   };
+  hangups = {
+    "0.4.18" = import ./overrides/hangups/0.4.18;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
@@ -1453,6 +1456,9 @@
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
+  reparser = {
+    "1.4.3" = import ./overrides/reparser/1.4.3;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
@@ -1737,6 +1743,9 @@
   };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
+  };
+  urwid = {
+    "2.1.2" = import ./overrides/urwid/2.1.2;
   };
   urwid-mitmproxy = {
     "2.1.2.1" = import ./overrides/urwid-mitmproxy/2.1.2.1;
