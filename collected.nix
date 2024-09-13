@@ -939,6 +939,12 @@
   moznetwork = {
     "1.1.0" = import ./overrides/moznetwork/1.1.0;
   };
+  mozprofile = {
+    "3.0.0" = import ./overrides/mozprofile/3.0.0;
+  };
+  mozrunner = {
+    "8.3.1" = import ./overrides/mozrunner/8.3.1;
+  };
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
