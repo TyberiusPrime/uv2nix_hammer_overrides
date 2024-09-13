@@ -816,6 +816,9 @@
   lazyutils = {
     "0.3.3" = import ./overrides/lazyutils/0.3.3;
   };
+  libclang-py3 = {
+    "3.9.0" = import ./overrides/libclang-py3/3.9.0;
+  };
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
