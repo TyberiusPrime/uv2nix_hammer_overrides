@@ -810,6 +810,9 @@
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
   };
+  langid = {
+    "1.1.6" = import ./overrides/langid/1.1.6;
+  };
   lazy-string = {
     "1.0.0" = import ./overrides/lazy-string/1.0.0;
   };
