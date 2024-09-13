@@ -2129,6 +2129,9 @@
   pyvips = {
     "2.2.3" = import ./overrides/pyvips/2.2.3;
   };
+  pyvizio = {
+    "0.1.61" = import ./overrides/pyvizio/0.1.61;
+  };
   pyvlx = {
     "0.2.23" = import ./overrides/pyvlx/0.2.23;
   };
