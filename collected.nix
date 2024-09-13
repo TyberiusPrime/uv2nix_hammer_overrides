@@ -419,6 +419,9 @@
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
   };
+  django-push-notifications = {
+    "3.1.0" = import ./overrides/django-push-notifications/3.1.0;
+  };
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
