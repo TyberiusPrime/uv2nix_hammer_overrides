@@ -364,6 +364,9 @@
   daemonocle = {
     "1.2.3" = import ./overrides/daemonocle/1.2.3;
   };
+  dartsclone = {
+    "0.10.2" = import ./overrides/dartsclone/0.10.2;
+  };
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
