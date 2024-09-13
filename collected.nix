@@ -337,6 +337,9 @@
   cloudshell-core = {
     "2.2.180" = import ./overrides/cloudshell-core/2.2.180;
   };
+  cloudshell-logging = {
+    "1.1.0" = import ./overrides/cloudshell-logging/1.1.0;
+  };
   cloudshell-networking-devices = {
     "2.8.0" = import ./overrides/cloudshell-networking-devices/2.8.0;
   };
