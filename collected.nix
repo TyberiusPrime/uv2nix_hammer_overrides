@@ -1149,6 +1149,9 @@
   pyactiveresource = {
     "2.2.2" = import ./overrides/pyactiveresource/2.2.2;
   };
+  pyads = {
+    "3.4.2" = import ./overrides/pyads/3.4.2;
+  };
   pyaes = {
     "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
