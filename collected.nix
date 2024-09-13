@@ -629,6 +629,9 @@
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
+  fleep = {
+    "1.0.1" = import ./overrides/fleep/1.0.1;
+  };
   fnvhash = {
     "0.1.0" = import ./overrides/fnvhash/0.1.0;
   };
