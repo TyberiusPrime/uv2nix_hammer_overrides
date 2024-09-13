@@ -87,6 +87,9 @@
   args = {
     "0.1.0" = import ./overrides/args/0.1.0;
   };
+  argumental = {
+    "1.13" = import ./overrides/argumental/1.13;
+  };
   armstrong-utils-backends = {
     "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
   };
@@ -152,6 +155,9 @@
   };
   batinfo = {
     "0.4.2" = import ./overrides/batinfo/0.4.2;
+  };
+  baubles = {
+    "1.6" = import ./overrides/baubles/1.6;
   };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
@@ -615,6 +621,9 @@
   googleads = {
     "43.0.0" = import ./overrides/googleads/43.0.0;
   };
+  googlemaps = {
+    "4.10.0" = import ./overrides/googlemaps/4.10.0;
+  };
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
@@ -767,6 +776,9 @@
   };
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
+  };
+  jsonpath = {
+    "0.82.2" = import ./overrides/jsonpath/0.82.2;
   };
   jsonpath-rw = {
     "1.4.0" = import ./overrides/jsonpath-rw/1.4.0;
@@ -1076,6 +1088,9 @@
   };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
+  };
+  perdy = {
+    "1.12" = import ./overrides/perdy/1.12;
   };
   pexif = {
     "0.15" = import ./overrides/pexif/0.15;
@@ -1551,6 +1566,9 @@
   };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
+  };
+  spanners = {
+    "1.20" = import ./overrides/spanners/1.20;
   };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
