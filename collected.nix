@@ -2158,6 +2158,9 @@
   requests-ftp = {
     "0.3.1" = import ./overrides/requests-ftp/0.3.1;
   };
+  requests-oauth = {
+    "0.4.1" = import ./overrides/requests-oauth/0.4.1;
+  };
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
