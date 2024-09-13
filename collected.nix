@@ -909,6 +909,9 @@
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
   };
+  logster = {
+    "0.10.0" = import ./overrides/logster/0.10.0;
+  };
   logutils = {
     "0.3.5" = import ./overrides/logutils/0.3.5;
   };
