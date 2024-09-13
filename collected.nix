@@ -1441,6 +1441,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  qprompt = {
+    "0.16.3" = import ./overrides/qprompt/0.16.3;
+  };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
