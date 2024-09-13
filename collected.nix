@@ -1385,6 +1385,9 @@
   python-singleton-metaclasses = {
     "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
   };
+  python-slugify = {
+    "1.2.6" = import ./overrides/python-slugify/1.2.6;
+  };
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
