@@ -591,6 +591,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  dirsync = {
+    "2.2.5" = import ./overrides/dirsync/2.2.5;
+  };
   dis = {
     "1.0.1" = import ./overrides/dis/1.0.1;
   };
