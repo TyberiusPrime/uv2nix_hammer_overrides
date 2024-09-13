@@ -1819,6 +1819,9 @@
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
   };
+  sacremoses = {
+    "0.0.53" = import ./overrides/sacremoses/0.0.53;
+  };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
   };
