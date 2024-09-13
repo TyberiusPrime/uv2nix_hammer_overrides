@@ -59,6 +59,9 @@
   ansible = {
     "10.3.0" = import ./overrides/ansible/10.3.0;
   };
+  anthemav = {
+    "1.4.2" = import ./overrides/anthemav/1.4.2;
+  };
   antlr-ast = {
     "0.7.0" = import ./overrides/antlr-ast/0.7.0;
   };
