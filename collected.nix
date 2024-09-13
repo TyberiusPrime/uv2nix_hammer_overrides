@@ -380,6 +380,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  discid = {
+    "1.2.0" = import ./overrides/discid/1.2.0;
+  };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
   };
