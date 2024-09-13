@@ -882,6 +882,9 @@
   m-caching = {
     "0.1.15" = import ./overrides/m-caching/0.1.15;
   };
+  m2r = {
+    "0.3.1" = import ./overrides/m2r/0.3.1;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
