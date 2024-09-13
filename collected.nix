@@ -1722,6 +1722,9 @@
   properties = {
     "0.6.1" = import ./overrides/properties/0.6.1;
   };
+  proto-google-cloud-datastore-v1 = {
+    "0.90.4" = import ./overrides/proto-google-cloud-datastore-v1/0.90.4;
+  };
   protocoin = {
     "0.2" = import ./overrides/protocoin/0.2;
   };
