@@ -1388,6 +1388,9 @@
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
+  python-terraform = {
+    "0.10.1" = import ./overrides/python-terraform/0.10.1;
+  };
   python-wink = {
     "1.10.5" = import ./overrides/python-wink/1.10.5;
   };
