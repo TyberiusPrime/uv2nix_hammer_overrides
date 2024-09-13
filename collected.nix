@@ -1802,6 +1802,9 @@
   openerp-web = {
     "7.0.406" = import ./overrides/openerp-web/7.0.406;
   };
+  openidc-client = {
+    "0.6.0" = import ./overrides/openidc-client/0.6.0;
+  };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
   };
