@@ -849,6 +849,9 @@
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
+  linkheader = {
+    "0.4.3" = import ./overrides/linkheader/0.4.3;
+  };
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
