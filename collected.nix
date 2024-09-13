@@ -821,6 +821,9 @@
   flask-apscheduler = {
     "1.13.1" = import ./overrides/flask-apscheduler/1.13.1;
   };
+  flask-autoindex = {
+    "0.6.6" = import ./overrides/flask-autoindex/0.6.6;
+  };
   flask-bootstrap = {
     "3.3.7.1" = import ./overrides/flask-bootstrap/3.3.7.1;
   };
@@ -862,6 +865,9 @@
   };
   flask-script = {
     "2.0.6" = import ./overrides/flask-script/2.0.6;
+  };
+  flask-silk = {
+    "0.2" = import ./overrides/flask-silk/0.2;
   };
   flask-testing = {
     "0.7.1" = import ./overrides/flask-testing/0.7.1;
