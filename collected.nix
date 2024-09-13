@@ -1792,6 +1792,9 @@
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
+  whaaaaat = {
+    "0.5.2" = import ./overrides/whaaaaat/0.5.2;
+  };
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
