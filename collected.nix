@@ -994,6 +994,9 @@
   gluonnlp = {
     "0.10.0" = import ./overrides/gluonnlp/0.10.0;
   };
+  gmusicapi = {
+    "13.0.0" = import ./overrides/gmusicapi/13.0.0;
+  };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
@@ -1833,6 +1836,9 @@
   };
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
+  };
+  proboscis = {
+    "1.2.6.0" = import ./overrides/proboscis/1.2.6.0;
   };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
