@@ -2229,6 +2229,9 @@
   python-packer = {
     "0.1.2" = import ./overrides/python-packer/0.1.2;
   };
+  python-pipedrive = {
+    "0.4.0" = import ./overrides/python-pipedrive/0.4.0;
+  };
   python-singleton-metaclasses = {
     "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
   };
