@@ -1736,6 +1736,9 @@
   onetimepass = {
     "1.0.1" = import ./overrides/onetimepass/1.0.1;
   };
+  onkyo-eiscp = {
+    "1.2.7" = import ./overrides/onkyo-eiscp/1.2.7;
+  };
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
