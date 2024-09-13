@@ -147,6 +147,9 @@
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
+  bashplotlib = {
+    "0.6.5" = import ./overrides/bashplotlib/0.6.5;
+  };
   basicsr = {
     "1.4.2" = import ./overrides/basicsr/1.4.2;
   };
