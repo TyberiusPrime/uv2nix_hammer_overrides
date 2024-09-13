@@ -1967,6 +1967,9 @@
   pyfarmhash = {
     "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
   };
+  pyfim = {
+    "6.28" = import ./overrides/pyfim/6.28;
+  };
   pygetwindow = {
     "0.0.9" = import ./overrides/pygetwindow/0.0.9;
   };
