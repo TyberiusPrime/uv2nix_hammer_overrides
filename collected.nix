@@ -476,6 +476,9 @@
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
+  emoji = {
+    "1.6.3" = import ./overrides/emoji/1.6.3;
+  };
   emport = {
     "1.3.1" = import ./overrides/emport/1.3.1;
   };
