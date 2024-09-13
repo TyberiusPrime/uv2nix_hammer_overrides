@@ -870,6 +870,9 @@
   feedfinder2 = {
     "0.0.4" = import ./overrides/feedfinder2/0.0.4;
   };
+  feedgen = {
+    "1.0.0" = import ./overrides/feedgen/1.0.0;
+  };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
