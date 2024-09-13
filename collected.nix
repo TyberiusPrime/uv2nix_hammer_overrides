@@ -120,6 +120,9 @@
   asynccmd = {
     "0.2.4" = import ./overrides/asynccmd/0.2.4;
   };
+  asyncio-nats-client = {
+    "0.11.5" = import ./overrides/asyncio-nats-client/0.11.5;
+  };
   asyncmy = {
     "0.2.9" = import ./overrides/asyncmy/0.2.9;
   };
