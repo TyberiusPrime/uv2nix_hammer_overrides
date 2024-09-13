@@ -482,6 +482,9 @@
   empy = {
     "3.3.4" = import ./overrides/empy/3.3.4;
   };
+  env = {
+    "0.1.0" = import ./overrides/env/0.1.0;
+  };
   espeak-phonemizer = {
     "1.3.1" = import ./overrides/espeak-phonemizer/1.3.1;
   };
