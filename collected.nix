@@ -1447,6 +1447,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  rectpack = {
+    "0.2.2" = import ./overrides/rectpack/0.2.2;
+  };
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
