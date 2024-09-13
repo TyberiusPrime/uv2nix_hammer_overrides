@@ -798,6 +798,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  keylib = {
+    "0.1.1" = import ./overrides/keylib/0.1.1;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
@@ -1139,6 +1142,9 @@
   };
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
+  };
+  protocoin = {
+    "0.2" = import ./overrides/protocoin/0.2;
   };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
@@ -1747,6 +1753,9 @@
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
+  utilitybelt = {
+    "0.2.6" = import ./overrides/utilitybelt/0.2.6;
+  };
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
   };
@@ -1761,6 +1770,9 @@
   };
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
+  };
+  virtualchain = {
+    "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
   visitor = {
     "0.1.3" = import ./overrides/visitor/0.1.3;
