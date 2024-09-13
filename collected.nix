@@ -443,8 +443,14 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  distributedlock = {
+    "1.2" = import ./overrides/distributedlock/1.2;
+  };
   django-allauth = {
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
+  };
+  django-annoying = {
+    "0.10.7" = import ./overrides/django-annoying/0.10.7;
   };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
@@ -503,6 +509,9 @@
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
+  django-social-api = {
+    "0.1.1" = import ./overrides/django-social-api/0.1.1;
+  };
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
@@ -517,6 +526,15 @@
   };
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
+  };
+  django-vkontakte-api = {
+    "0.8.7" = import ./overrides/django-vkontakte-api/0.8.7;
+  };
+  django-vkontakte-places = {
+    "0.7.1" = import ./overrides/django-vkontakte-places/0.7.1;
+  };
+  django-vkontakte-users = {
+    "0.8.7" = import ./overrides/django-vkontakte-users/0.8.7;
   };
   djangorestframework-camel-case = {
     "1.4.2" = import ./overrides/djangorestframework-camel-case/1.4.2;
@@ -2082,6 +2100,9 @@
   };
   vivisect-vstruct-wb = {
     "1.0.3" = import ./overrides/vivisect-vstruct-wb/1.0.3;
+  };
+  vkontakte = {
+    "1.3.5" = import ./overrides/vkontakte/1.3.5;
   };
   vlsir = {
     "6.0.0" = import ./overrides/vlsir/6.0.0;
