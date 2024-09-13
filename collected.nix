@@ -1110,6 +1110,9 @@
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
+  markupsafe = {
+    "2.0.1" = import ./overrides/markupsafe/2.0.1;
+  };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
