@@ -834,6 +834,9 @@
   libsaas = {
     "0.4" = import ./overrides/libsaas/0.4;
   };
+  libsixel-python = {
+    "0.5.0" = import ./overrides/libsixel-python/0.5.0;
+  };
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
@@ -1115,6 +1118,9 @@
   };
   pmsensor = {
     "0.4" = import ./overrides/pmsensor/0.4;
+  };
+  pocket = {
+    "0.3.6" = import ./overrides/pocket/0.3.6;
   };
   pod-base = {
     "1.0.3" = import ./overrides/pod-base/1.0.3;
@@ -1461,6 +1467,9 @@
   };
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
+  };
+  resize-image = {
+    "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
