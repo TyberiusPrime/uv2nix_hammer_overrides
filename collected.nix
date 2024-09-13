@@ -1421,6 +1421,9 @@
   pyvlx = {
     "0.2.23" = import ./overrides/pyvlx/0.2.23;
   };
+  pyxbe = {
+    "1.0.3" = import ./overrides/pyxbe/1.0.3;
+  };
   pyxdameraulevenshtein = {
     "1.8.0" = import ./overrides/pyxdameraulevenshtein/1.8.0;
   };
