@@ -1086,6 +1086,9 @@
   phpserialize = {
     "1.3" = import ./overrides/phpserialize/1.3;
   };
+  pickledb = {
+    "0.9.2" = import ./overrides/pickledb/0.9.2;
+  };
   pidfile = {
     "0.1.1" = import ./overrides/pidfile/0.1.1;
   };
