@@ -222,6 +222,9 @@
   baubles = {
     "1.6" = import ./overrides/baubles/1.6;
   };
+  bayespy = {
+    "0.6.2" = import ./overrides/bayespy/0.6.2;
+  };
   bch = {
     "1.2.1" = import ./overrides/bch/1.2.1;
   };
