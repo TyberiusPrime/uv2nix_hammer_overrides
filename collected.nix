@@ -651,6 +651,9 @@
   h5pyd = {
     "0.18.0" = import ./overrides/h5pyd/0.18.0;
   };
+  ha-philipsjs = {
+    "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
