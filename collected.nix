@@ -759,6 +759,9 @@
   json-log-formatter = {
     "0.5.2" = import ./overrides/json-log-formatter/0.5.2;
   };
+  json-schema-to-class = {
+    "0.2.4" = import ./overrides/json-schema-to-class/0.2.4;
+  };
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
@@ -812,6 +815,9 @@
   };
   lazy-string = {
     "1.0.0" = import ./overrides/lazy-string/1.0.0;
+  };
+  lazy-write = {
+    "0.0.1" = import ./overrides/lazy-write/0.0.1;
   };
   lazyutils = {
     "0.3.3" = import ./overrides/lazyutils/0.3.3;
