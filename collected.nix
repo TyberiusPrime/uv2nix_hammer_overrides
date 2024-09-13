@@ -1173,6 +1173,9 @@
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
+  log-colorizer = {
+    "2.0.0" = import ./overrides/log-colorizer/2.0.0;
+  };
   logbook = {
     "1.5.3" = import ./overrides/logbook/1.5.3;
   };
@@ -2475,6 +2478,9 @@
   };
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
+  };
+  xdis = {
+    "6.1.1" = import ./overrides/xdis/6.1.1;
   };
   xformers = {
     "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
