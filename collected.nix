@@ -2327,6 +2327,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  quantile-python = {
+    "1.1" = import ./overrides/quantile-python/1.1;
+  };
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
   };
