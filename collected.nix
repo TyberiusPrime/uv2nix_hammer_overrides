@@ -1789,6 +1789,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  webexteamssdk = {
+    "1.7" = import ./overrides/webexteamssdk/1.7;
+  };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
