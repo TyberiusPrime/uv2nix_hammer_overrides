@@ -322,6 +322,9 @@
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
+  cronsim = {
+    "2.5" = import ./overrides/cronsim/2.5;
+  };
   crontab = {
     "0.23.0" = import ./overrides/crontab/0.23.0;
   };
