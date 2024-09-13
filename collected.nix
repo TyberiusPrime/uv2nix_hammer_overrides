@@ -2975,6 +2975,9 @@
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
   };
+  yolk3k = {
+    "0.9" = import ./overrides/yolk3k/0.9;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
