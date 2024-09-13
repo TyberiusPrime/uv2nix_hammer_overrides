@@ -557,6 +557,9 @@
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
+  fluent = {
+    "0.10.0" = import ./overrides/fluent/0.10.0;
+  };
   fortranformat = {
     "2.0.0" = import ./overrides/fortranformat/2.0.0;
   };
