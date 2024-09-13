@@ -117,6 +117,9 @@
   astutils = {
     "0.0.6" = import ./overrides/astutils/0.0.6;
   };
+  async-cache = {
+    "1.1.1" = import ./overrides/async-cache/1.1.1;
+  };
   asynccmd = {
     "0.2.4" = import ./overrides/asynccmd/0.2.4;
   };
