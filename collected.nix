@@ -876,6 +876,9 @@
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
+  fireworks = {
+    "2.0.3" = import ./overrides/fireworks/2.0.3;
+  };
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
