@@ -325,6 +325,9 @@
   core-parser-app = {
     "2.10.0" = import ./overrides/core-parser-app/2.10.0;
   };
+  coreschema = {
+    "0.0.4" = import ./overrides/coreschema/0.0.4;
+  };
   cov-core = {
     "1.15.0" = import ./overrides/cov-core/1.15.0;
   };
@@ -1140,6 +1143,9 @@
   };
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
+  };
+  openapi-codec = {
+    "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
