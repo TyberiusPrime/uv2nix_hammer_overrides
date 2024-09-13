@@ -74,6 +74,9 @@
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
+  android-backup = {
+    "0.2.0" = import ./overrides/android-backup/0.2.0;
+  };
   anitopy = {
     "2.1.1" = import ./overrides/anitopy/2.1.1;
   };
@@ -1470,6 +1473,9 @@
   };
   micawber = {
     "0.5.5" = import ./overrides/micawber/0.5.5;
+  };
+  micloud = {
+    "0.6" = import ./overrides/micloud/0.6;
   };
   micropython-cpython-micropython = {
     "0.1.1" = import ./overrides/micropython-cpython-micropython/0.1.1;
