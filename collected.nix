@@ -153,6 +153,9 @@
   autocorrect = {
     "2.6.1" = import ./overrides/autocorrect/2.6.1;
   };
+  autograd-gamma = {
+    "0.5.0" = import ./overrides/autograd-gamma/0.5.0;
+  };
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
