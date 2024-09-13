@@ -1726,6 +1726,9 @@
   umap = {
     "0.1.1" = import ./overrides/umap/0.1.1;
   };
+  unicodecsv = {
+    "0.14.1" = import ./overrides/unicodecsv/0.14.1;
+  };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
   };
