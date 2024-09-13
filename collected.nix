@@ -2273,6 +2273,7 @@
     "0.40.0" = import ./overrides/websocket-client/0.40.0;
   };
   websockets = {
+    "10.4" = import ./overrides/websockets/10.4;
     "8.1" = import ./overrides/websockets/8.1;
   };
   wf-minimal-honeycomb-python = {
