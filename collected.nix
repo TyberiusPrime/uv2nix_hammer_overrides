@@ -174,6 +174,9 @@
   baubles = {
     "1.6" = import ./overrides/baubles/1.6;
   };
+  bch = {
+    "1.2.1" = import ./overrides/bch/1.2.1;
+  };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
