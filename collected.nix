@@ -1491,6 +1491,9 @@
   progress = {
     "1.6" = import ./overrides/progress/1.6;
   };
+  progressbar-latest = {
+    "2.4" = import ./overrides/progressbar-latest/2.4;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
