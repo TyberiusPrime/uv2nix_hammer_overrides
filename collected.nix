@@ -494,6 +494,9 @@
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
   };
+  django-pure-pagination = {
+    "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
+  };
   django-push-notifications = {
     "3.1.0" = import ./overrides/django-push-notifications/3.1.0;
   };
