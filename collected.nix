@@ -879,6 +879,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  kerberos = {
+    "1.3.1" = import ./overrides/kerberos/1.3.1;
+  };
   keyrings-cryptfile = {
     "1.3.9" = import ./overrides/keyrings-cryptfile/1.3.9;
   };
