@@ -291,6 +291,9 @@
   captain = {
     "4.5.0" = import ./overrides/captain/4.5.0;
   };
+  carefree-toolkit = {
+    "0.3.12" = import ./overrides/carefree-toolkit/0.3.12;
+  };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
