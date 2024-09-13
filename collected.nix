@@ -723,6 +723,9 @@
   googleads = {
     "43.0.0" = import ./overrides/googleads/43.0.0;
   };
+  googlemaps = {
+    "4.10.0" = import ./overrides/googlemaps/4.10.0;
+  };
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
@@ -1809,6 +1812,9 @@
   };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
+  };
+  spanners = {
+    "1.20" = import ./overrides/spanners/1.20;
   };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
