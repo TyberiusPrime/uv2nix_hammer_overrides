@@ -858,6 +858,9 @@
   kabaret = {
     "2.3.0" = import ./overrides/kabaret/2.3.0;
   };
+  kachery-cloud = {
+    "0.4.9" = import ./overrides/kachery-cloud/0.4.9;
+  };
   kaggle = {
     "1.6.17" = import ./overrides/kaggle/1.6.17;
   };
@@ -1244,6 +1247,9 @@
   };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
+  };
+  pubnub = {
+    "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
