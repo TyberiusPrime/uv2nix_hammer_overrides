@@ -783,6 +783,9 @@
   jsonrpc-websocket = {
     "3.1.5" = import ./overrides/jsonrpc-websocket/3.1.5;
   };
+  jupyter-existing-provisioner = {
+    "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
