@@ -1849,4 +1849,7 @@
   zuper-typing-z6 = {
     "6.2.3" = import ./overrides/zuper-typing-z6/6.2.3;
   };
+  zxcvbn-python = {
+    "4.4.24" = import ./overrides/zxcvbn-python/4.4.24;
+  };
 }
