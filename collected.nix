@@ -1170,6 +1170,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pyclustering = {
+    "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
+  };
   pycoin = {
     "0.92.20230326" = import ./overrides/pycoin/0.92.20230326;
   };
