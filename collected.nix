@@ -2341,6 +2341,9 @@
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
   };
+  stem = {
+    "1.8.2" = import ./overrides/stem/1.8.2;
+  };
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
@@ -2461,6 +2464,9 @@
   };
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
+  };
+  torrequest = {
+    "0.1.0" = import ./overrides/torrequest/0.1.0;
   };
   tpdcc-config = {
     "0.0.9" = import ./overrides/tpdcc-config/0.0.9;
