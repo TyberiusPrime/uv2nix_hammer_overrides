@@ -1056,6 +1056,9 @@
   kamene = {
     "0.32" = import ./overrides/kamene/0.32;
   };
+  kappa = {
+    "0.7.0" = import ./overrides/kappa/0.7.0;
+  };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
@@ -1481,6 +1484,9 @@
   };
   pkgtools = {
     "0.7.3" = import ./overrides/pkgtools/0.7.3;
+  };
+  placebo = {
+    "0.10.0" = import ./overrides/placebo/0.10.0;
   };
   ply = {
     "3.8" = import ./overrides/ply/3.8;
