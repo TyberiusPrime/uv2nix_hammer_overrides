@@ -2546,6 +2546,9 @@
   systemcmd-z6 = {
     "3.0.5" = import ./overrides/systemcmd-z6/3.0.5;
   };
+  systemd = {
+    "0.17.1" = import ./overrides/systemd/0.17.1;
+  };
   ta = {
     "0.11.0" = import ./overrides/ta/0.11.0;
   };
