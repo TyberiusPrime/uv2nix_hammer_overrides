@@ -237,6 +237,9 @@
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
+  busrt = {
+    "0.1.2" = import ./overrides/busrt/0.1.2;
+  };
   bw2data = {
     "3.6.6" = import ./overrides/bw2data/3.6.6;
   };
@@ -685,6 +688,9 @@
   };
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
+  };
+  evaics = {
+    "0.2.29" = import ./overrides/evaics/0.2.29;
   };
   execo = {
     "2.8" = import ./overrides/execo/2.8;
