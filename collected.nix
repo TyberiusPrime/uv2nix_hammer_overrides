@@ -1045,6 +1045,9 @@
   gitignorefile = {
     "1.1.2" = import ./overrides/gitignorefile/1.1.2;
   };
+  gitlab = {
+    "1.0.2" = import ./overrides/gitlab/1.0.2;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
