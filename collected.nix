@@ -783,6 +783,9 @@
   jsonrpc-websocket = {
     "3.1.5" = import ./overrides/jsonrpc-websocket/3.1.5;
   };
+  jstyleson = {
+    "0.0.2" = import ./overrides/jstyleson/0.0.2;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
