@@ -1189,6 +1189,9 @@
     "3.3.1" = import ./overrides/pycryptodome/3.3.1;
     "3.4.7" = import ./overrides/pycryptodome/3.4.7;
   };
+  pydataset = {
+    "0.2.0" = import ./overrides/pydataset/0.2.0;
+  };
   pydateinfer = {
     "0.3.0" = import ./overrides/pydateinfer/0.3.0;
   };
