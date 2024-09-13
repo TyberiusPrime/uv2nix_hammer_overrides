@@ -527,6 +527,9 @@
   flask-apscheduler = {
     "1.13.1" = import ./overrides/flask-apscheduler/1.13.1;
   };
+  flask-autoindex = {
+    "0.6.6" = import ./overrides/flask-autoindex/0.6.6;
+  };
   flask-jsonpify = {
     "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
   };
@@ -553,6 +556,9 @@
   };
   flask-restless = {
     "0.17.0" = import ./overrides/flask-restless/0.17.0;
+  };
+  flask-silk = {
+    "0.2" = import ./overrides/flask-silk/0.2;
   };
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
