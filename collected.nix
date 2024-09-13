@@ -1441,6 +1441,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  radiotherm = {
+    "2.1.0" = import ./overrides/radiotherm/2.1.0;
+  };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
