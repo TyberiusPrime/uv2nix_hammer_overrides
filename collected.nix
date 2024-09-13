@@ -987,8 +987,14 @@
   grpclib = {
     "0.4.7" = import ./overrides/grpclib/0.4.7;
   };
+  gruut = {
+    "2.4.0" = import ./overrides/gruut/2.4.0;
+  };
   gruut-ipa = {
     "0.13.0" = import ./overrides/gruut-ipa/0.13.0;
+  };
+  gruut-lang-en = {
+    "2.0.1" = import ./overrides/gruut-lang-en/2.0.1;
   };
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
