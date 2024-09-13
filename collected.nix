@@ -1189,6 +1189,9 @@
   offtrac = {
     "0.1.0" = import ./overrides/offtrac/0.1.0;
   };
+  ofxhome = {
+    "0.3.3" = import ./overrides/ofxhome/0.3.3;
+  };
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
