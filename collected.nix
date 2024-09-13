@@ -747,6 +747,9 @@
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
+  johnny-cache = {
+    "1.4" = import ./overrides/johnny-cache/1.4;
+  };
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
