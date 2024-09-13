@@ -2378,6 +2378,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  qprompt = {
+    "0.16.3" = import ./overrides/qprompt/0.16.3;
+  };
   quantile-python = {
     "1.1" = import ./overrides/quantile-python/1.1;
   };
