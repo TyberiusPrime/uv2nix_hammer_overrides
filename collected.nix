@@ -1816,6 +1816,9 @@
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
+  setuptools-lint = {
+    "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
+  };
   sewar = {
     "0.4.6" = import ./overrides/sewar/0.4.6;
   };
