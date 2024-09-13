@@ -1041,6 +1041,9 @@
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
+  jabberbot = {
+    "0.16" = import ./overrides/jabberbot/0.16;
+  };
   jaconv = {
     "0.4.0" = import ./overrides/jaconv/0.4.0;
   };
