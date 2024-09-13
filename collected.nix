@@ -2931,6 +2931,9 @@
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
+  valideer = {
+    "0.4.2" = import ./overrides/valideer/0.4.2;
+  };
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
