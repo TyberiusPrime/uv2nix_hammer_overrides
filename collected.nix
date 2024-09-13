@@ -644,6 +644,9 @@
   dsnparse = {
     "0.2.1" = import ./overrides/dsnparse/0.2.1;
   };
+  duckietown-docker-utils-daffy = {
+    "6.1.1" = import ./overrides/duckietown-docker-utils-daffy/6.1.1;
+  };
   durabledict = {
     "0.9.4" = import ./overrides/durabledict/0.9.4;
   };
@@ -1610,6 +1613,9 @@
   };
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
+  };
+  pur = {
+    "7.3.2" = import ./overrides/pur/7.3.2;
   };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
