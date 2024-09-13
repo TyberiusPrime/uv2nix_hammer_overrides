@@ -449,6 +449,9 @@
   conversionkit = {
     "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
+  core-explore-common-app = {
+    "2.10.0" = import ./overrides/core-explore-common-app/2.10.0;
+  };
   core-main-app = {
     "2.10.0" = import ./overrides/core-main-app/2.10.0;
   };
