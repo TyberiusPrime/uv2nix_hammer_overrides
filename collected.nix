@@ -1185,6 +1185,9 @@
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
   };
+  logstash-formatter = {
+    "0.5.17" = import ./overrides/logstash-formatter/0.5.17;
+  };
   logster = {
     "0.10.0" = import ./overrides/logster/0.10.0;
   };
