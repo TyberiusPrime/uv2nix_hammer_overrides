@@ -764,6 +764,9 @@
   flask-csrf = {
     "0.9.2" = import ./overrides/flask-csrf/0.9.2;
   };
+  flask-expects-json = {
+    "1.7.0" = import ./overrides/flask-expects-json/1.7.0;
+  };
   flask-jsonpify = {
     "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
   };
