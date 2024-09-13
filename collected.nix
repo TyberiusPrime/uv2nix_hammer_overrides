@@ -1767,6 +1767,9 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  ptest = {
+    "2.0.3" = import ./overrides/ptest/2.0.3;
+  };
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
