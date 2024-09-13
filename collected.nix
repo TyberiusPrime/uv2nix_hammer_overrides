@@ -1543,6 +1543,9 @@
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
   };
+  sentinels = {
+    "1.0.0" = import ./overrides/sentinels/1.0.0;
+  };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
   };
