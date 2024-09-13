@@ -62,6 +62,9 @@
   aioxmpp = {
     "0.13.3" = import ./overrides/aioxmpp/0.13.3;
   };
+  aliyun-log-python-sdk = {
+    "0.9.11" = import ./overrides/aliyun-log-python-sdk/0.9.11;
+  };
   aliyun-python-sdk-core = {
     "2.15.2" = import ./overrides/aliyun-python-sdk-core/2.15.2;
   };
