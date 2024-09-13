@@ -2047,6 +2047,9 @@
   rhasspy-hermes = {
     "0.6.2" = import ./overrides/rhasspy-hermes/0.6.2;
   };
+  rhasspy-silence = {
+    "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
+  };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
@@ -2503,6 +2506,9 @@
   };
   webexteamssdk = {
     "1.7" = import ./overrides/webexteamssdk/1.7;
+  };
+  webrtcvad = {
+    "2.0.10" = import ./overrides/webrtcvad/2.0.10;
   };
   websocket-client = {
     "0.40.0" = import ./overrides/websocket-client/0.40.0;
