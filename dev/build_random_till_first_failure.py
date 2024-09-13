@@ -1,4 +1,5 @@
 import json
+import toml
 import sys
 import subprocess
 from pathlib import Path
@@ -8,23 +9,25 @@ random.seed(0)
 
 
 def normalize_python_package_name(pkg):
-    return pkg.lower().replace("_", "-").replace('.','-')
+    return pkg.lower().replace("_", "-").replace(".", "-")
 
 
 all_pkgs = json.loads((Path(__file__).parent.parent / "todo" / "todo.json").read_text())
-excluded_pkgs = json.loads(
-    (Path(__file__).parent.parent / "todo" / "manually_excluded.json").read_text()
+excluded_pkgs = toml.loads(
+    (Path(__file__).parent.parent / "todo" / "excluded.toml").read_text()
 )
 
 
 def write_excluded_pkgs():
-    (Path(__file__).parent.parent / "todo" / "manually_excluded.json").write_text(
-        json.dumps(excluded_pkgs, indent=2)
+    (Path(__file__).parent.parent / "todo" / "excluded.toml").write_text(
+        toml.dumps(excluded_pkgs, indent=2)
     )
 
 
 done = [
-    x.name for x in Path(".").glob("hammer_build*") if (x / "build" / "result").is_symlink()
+    x.name
+    for x in Path(".").glob("hammer_build*")
+    if (x / "build" / "result").is_symlink()
 ]
 done = set([normalize_python_package_name(x.split("_")[2]) for x in done])
 imported_done = set(
@@ -68,39 +71,40 @@ while True:
         print("skipping, attempted (&keep-going)", chosen)
         continue
     cmd = ["uv2nix-hammer", "--wheel", chosen]
-    print("executing", " ".join(cmd), "count", count, "of", total)
+    print("executing", " ".join(cmd), "(count", count, "of", total, ")")
     p = subprocess.Popen(cmd, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
     stdout, stderr = p.communicate()
     stderr = stderr.decode()
+    msg = None
     if p.returncode != 0:
         if "No non-pre release found" in stderr:
-            excluded_pkgs[chosen] = "Automatic: no (non-pre) release found"
+            msg == "Automatic: no (non-pre) release found"
+
+        if "No releases available" in stderr:
+            msg = "Automatic: no releases available"
+        if "has no wheels with a matching Python ABI" in stderr:
+            msg = "Automatic: no wheels for this ABI (and no source). Possibly we misidentified the supported python version"
+        if "NeedsExclusion" in stderr:
+            reason = stderr.rsplit("NeedsExclusion: ", 1)[1].strip().split("\n")[0]
+            msg = f"Automatic: {reason}"
+        if "Missing parentheses in call to 'print'." in stderr:
+            msg = "Automatic: python2 only, Missing parentheses in call to 'print'."
+        if "except ParseBaseException, err:" in stderr:
+            msg = "Automatic: python2 only, except statement"
+        if "assertion '(compatibleWheels != [ ])' failed" in stderr:
+            msg = "Automatic: no compatible wheels (and no source)"
+        if (
+            "ModuleNotFoundError: No module named 'imp'" in stderr
+            and "'['uv', 'lock'," in stderr
+        ):
+            msg = "Automatic: uv failure, required imp."
+
+        if msg:
+            print(msg)
+            excluded_pkgs[chosen] = msg
             write_excluded_pkgs()
             continue
 
-        if "No releases available" in stderr:
-            print("No releases available", chosen)
-            excluded_pkgs[chosen] = "Automatic: no releases available"
-            write_excluded_pkgs()
-            continue
-        if "has no wheels with a matching Python ABI" in stderr:
-            print("no wheels for this ABI")
-            excluded_pkgs[chosen] = (
-                "Automatic: no wheels for this ABI (and no source). Possibly we misidentified the supported python version"
-            )
-            write_excluded_pkgs()
-            continue
-        if 'NeedsExclusion' in stderr:
-            reason = stderr.rsplit('NeedsExclusion: ', 1)[1].strip().split("\n")[0]
-            print("needed to be excluded", reason)
-            excluded_pkgs[chosen] = f"Automatic: {reason}"
-            write_excluded_pkgs()
-            continue
-        if "Missing parentheses in call to 'print'." in stderr:
-            print("Missing parentheses in call to 'print'.")
-            excluded_pkgs[chosen] = "Automatic: python2 only, Missing parentheses in call to 'print'."
-            write_excluded_pkgs()
-            continue
         try:
             run_0 = None
             run_0 = (

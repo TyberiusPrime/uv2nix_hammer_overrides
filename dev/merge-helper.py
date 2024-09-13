@@ -4,7 +4,9 @@ import shutil
 from pathlib import Path
 
 found = list(Path("../builds/").glob("hammer_build*"))
-available = [x for x in found if x.is_dir() and (x / 'build' / 'result').exists()]
+# we have to check the symlink,
+# since we're currently building in a container with a separate nix store.
+available = [x for x in found if x.is_dir() and (x / 'build' / 'result').is_symlink()]
 if not available:
     print("No hammer_build* directories found")
     print("Found without build result:")

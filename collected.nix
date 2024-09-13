@@ -2092,6 +2092,9 @@
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
+  sox = {
+    "1.5.0" = import ./overrides/sox/1.5.0;
+  };
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
