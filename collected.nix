@@ -1377,6 +1377,9 @@
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
+  mmcif-utils = {
+    "0.28" = import ./overrides/mmcif-utils/0.28;
+  };
   mobly = {
     "1.12.4" = import ./overrides/mobly/1.12.4;
   };
@@ -1433,6 +1436,9 @@
   };
   mysql-replication = {
     "1.0.9" = import ./overrides/mysql-replication/1.0.9;
+  };
+  mysqlclient = {
+    "2.2.4" = import ./overrides/mysqlclient/2.2.4;
   };
   nad-receiver = {
     "0.3.0" = import ./overrides/nad-receiver/0.3.0;
@@ -2715,6 +2721,21 @@
   };
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
+  };
+  wwpdb-io = {
+    "0.33.4" = import ./overrides/wwpdb-io/0.33.4;
+  };
+  wwpdb-utils-config = {
+    "0.45" = import ./overrides/wwpdb-utils-config/0.45;
+  };
+  wwpdb-utils-dp = {
+    "0.54" = import ./overrides/wwpdb-utils-dp/0.54;
+  };
+  wwpdb-utils-session = {
+    "0.17" = import ./overrides/wwpdb-utils-session/0.17;
+  };
+  wwpdb-utils-wf = {
+    "0.38.2" = import ./overrides/wwpdb-utils-wf/0.38.2;
   };
   www-authenticate = {
     "0.9.2" = import ./overrides/www-authenticate/0.9.2;
