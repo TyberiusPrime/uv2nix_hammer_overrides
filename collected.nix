@@ -2089,6 +2089,9 @@
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
   };
+  xlwt-future = {
+    "0.8.0" = import ./overrides/xlwt-future/0.8.0;
+  };
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
   };
