@@ -1086,6 +1086,9 @@
   kerberos = {
     "1.3.1" = import ./overrides/kerberos/1.3.1;
   };
+  keylib = {
+    "0.1.1" = import ./overrides/keylib/0.1.1;
+  };
   keyrings-cryptfile = {
     "1.3.9" = import ./overrides/keyrings-cryptfile/1.3.9;
   };
@@ -1556,6 +1559,9 @@
   };
   properties = {
     "0.6.1" = import ./overrides/properties/0.6.1;
+  };
+  protocoin = {
+    "0.2" = import ./overrides/protocoin/0.2;
   };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
@@ -2336,6 +2342,9 @@
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
+  utilitybelt = {
+    "0.2.6" = import ./overrides/utilitybelt/0.2.6;
+  };
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
   };
@@ -2353,6 +2362,9 @@
   };
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
+  };
+  virtualchain = {
+    "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
   visdom = {
     "0.2.4" = import ./overrides/visdom/0.2.4;
