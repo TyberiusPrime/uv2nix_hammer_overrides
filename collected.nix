@@ -2862,6 +2862,9 @@
   transpyler = {
     "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
+  trectools = {
+    "0.0.50" = import ./overrides/trectools/0.0.50;
+  };
   tree-format = {
     "0.1.2" = import ./overrides/tree-format/0.1.2;
   };
