@@ -563,6 +563,9 @@
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
+  ee-extra = {
+    "0.0.15" = import ./overrides/ee-extra/0.0.15;
+  };
   emoji = {
     "1.6.3" = import ./overrides/emoji/1.6.3;
   };
