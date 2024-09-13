@@ -1858,6 +1858,9 @@
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
+  pysrt = {
+    "1.1.2" = import ./overrides/pysrt/1.1.2;
+  };
   pystemd = {
     "0.13.2" = import ./overrides/pystemd/0.13.2;
   };
