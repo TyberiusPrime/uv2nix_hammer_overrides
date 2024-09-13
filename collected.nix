@@ -1645,6 +1645,9 @@
   tonyg-rfc3339 = {
     "0.1" = import ./overrides/tonyg-rfc3339/0.1;
   };
+  toolkity = {
+    "1.9.5" = import ./overrides/toolkity/1.9.5;
+  };
   torch = {
     "2.4.1" = import ./overrides/torch/2.4.1;
   };
