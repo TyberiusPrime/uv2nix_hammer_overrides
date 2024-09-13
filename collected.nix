@@ -1197,6 +1197,9 @@
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
   };
+  properties = {
+    "0.6.1" = import ./overrides/properties/0.6.1;
+  };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
