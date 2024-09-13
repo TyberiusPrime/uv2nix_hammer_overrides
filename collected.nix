@@ -1444,6 +1444,9 @@
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
+  rauth = {
+    "0.7.3" = import ./overrides/rauth/0.7.3;
+  };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
