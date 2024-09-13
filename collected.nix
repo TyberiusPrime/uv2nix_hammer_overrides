@@ -3060,6 +3060,9 @@
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
+  vext = {
+    "0.7.6" = import ./overrides/vext/0.7.6;
+  };
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
