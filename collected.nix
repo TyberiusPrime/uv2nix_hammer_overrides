@@ -521,6 +521,9 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  fixture = {
+    "1.5.11" = import ./overrides/fixture/1.5.11;
+  };
   flask = {
     "0.10.1" = import ./overrides/flask/0.10.1;
   };
