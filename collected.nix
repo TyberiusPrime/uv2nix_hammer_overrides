@@ -443,6 +443,9 @@
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
   };
+  djangorestframework-camel-case = {
+    "1.4.2" = import ./overrides/djangorestframework-camel-case/1.4.2;
+  };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
