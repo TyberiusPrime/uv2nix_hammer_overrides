@@ -1651,6 +1651,9 @@
   torchvision = {
     "0.19.1" = import ./overrides/torchvision/0.19.1;
   };
+  tornadis = {
+    "0.8.1" = import ./overrides/tornadis/0.8.1;
+  };
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
   };
