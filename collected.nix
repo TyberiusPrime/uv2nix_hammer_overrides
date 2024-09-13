@@ -505,6 +505,9 @@
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
+  data = {
+    "0.4" = import ./overrides/data/0.4;
+  };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
@@ -1238,6 +1241,9 @@
   };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
+  };
+  latex = {
+    "0.7.0" = import ./overrides/latex/0.7.0;
   };
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
@@ -2311,6 +2317,9 @@
   showit = {
     "1.1.4" = import ./overrides/showit/1.1.4;
   };
+  shutilwhich = {
+    "1.1.0" = import ./overrides/shutilwhich/1.1.0;
+  };
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
@@ -2451,6 +2460,9 @@
   };
   telethon = {
     "1.36.0" = import ./overrides/telethon/1.36.0;
+  };
+  tempdir = {
+    "0.7.1" = import ./overrides/tempdir/0.7.1;
   };
   tendril-utils-core = {
     "0.5.20" = import ./overrides/tendril-utils-core/0.5.20;
