@@ -464,6 +464,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  durc = {
+    "3.1.0" = import ./overrides/durc/3.1.0;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
@@ -1305,6 +1308,9 @@
   };
   pyscreeze = {
     "1.0.1" = import ./overrides/pyscreeze/1.0.1;
+  };
+  pysmarthome = {
+    "3.1.1" = import ./overrides/pysmarthome/3.1.1;
   };
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
