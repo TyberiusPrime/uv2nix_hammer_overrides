@@ -1552,6 +1552,9 @@
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
+  sox = {
+    "1.5.0" = import ./overrides/sox/1.5.0;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
