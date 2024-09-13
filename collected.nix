@@ -858,6 +858,9 @@
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
+  lock = {
+    "2018.3.25.2110" = import ./overrides/lock/2018.3.25.2110;
+  };
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
