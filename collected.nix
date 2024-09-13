@@ -894,6 +894,9 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  memoization = {
+    "0.4.0" = import ./overrides/memoization/0.4.0;
+  };
   mercurial-extension-utils = {
     "1.5.2" = import ./overrides/mercurial-extension-utils/1.5.2;
   };
