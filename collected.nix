@@ -2092,6 +2092,9 @@
   scapy-python3 = {
     "0.26" = import ./overrides/scapy-python3/0.26;
   };
+  scheduler-cron = {
+    "0.1" = import ./overrides/scheduler-cron/0.1;
+  };
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
