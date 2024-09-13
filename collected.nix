@@ -192,6 +192,9 @@
   betacode = {
     "1.0" = import ./overrides/betacode/1.0;
   };
+  betamax-matchers = {
+    "0.4.0" = import ./overrides/betamax-matchers/0.4.0;
+  };
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
