@@ -1015,6 +1015,9 @@
   nvidia-ml-py3 = {
     "7.352.0" = import ./overrides/nvidia-ml-py3/7.352.0;
   };
+  nydus = {
+    "0.11.0" = import ./overrides/nydus/0.11.0;
+  };
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
