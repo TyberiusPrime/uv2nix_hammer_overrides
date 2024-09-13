@@ -1747,6 +1747,9 @@
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
+  utils = {
+    "1.0.2" = import ./overrides/utils/1.0.2;
+  };
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
   };
