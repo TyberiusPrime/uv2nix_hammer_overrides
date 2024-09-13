@@ -464,6 +464,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  durationpy = {
+    "0.7" = import ./overrides/durationpy/0.7;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
