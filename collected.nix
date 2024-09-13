@@ -1681,6 +1681,9 @@
   transpyler = {
     "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
+  tree-format = {
+    "0.1.2" = import ./overrides/tree-format/0.1.2;
+  };
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
