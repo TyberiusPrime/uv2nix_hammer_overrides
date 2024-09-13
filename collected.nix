@@ -395,6 +395,9 @@
   django-cacheops = {
     "7.0.2" = import ./overrides/django-cacheops/7.0.2;
   };
+  django-celery-beat = {
+    "2.6.0" = import ./overrides/django-celery-beat/2.6.0;
+  };
   django-dajaxice = {
     "0.7" = import ./overrides/django-dajaxice/0.7;
   };
@@ -620,6 +623,9 @@
   };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
+  };
+  graphene-django-optimizer = {
+    "0.8.0" = import ./overrides/graphene-django-optimizer/0.8.0;
   };
   graphql-server-core = {
     "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
