@@ -768,6 +768,9 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  jsonpath = {
+    "0.82.2" = import ./overrides/jsonpath/0.82.2;
+  };
   jsonpath-rw = {
     "1.4.0" = import ./overrides/jsonpath-rw/1.4.0;
   };
