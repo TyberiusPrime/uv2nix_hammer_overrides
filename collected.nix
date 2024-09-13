@@ -1498,6 +1498,9 @@
   scales = {
     "1.0.9" = import ./overrides/scales/1.0.9;
   };
+  scandir = {
+    "1.10.0" = import ./overrides/scandir/1.10.0;
+  };
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
