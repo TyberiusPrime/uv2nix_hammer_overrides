@@ -693,6 +693,9 @@
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
+  i3-py = {
+    "0.6.4" = import ./overrides/i3-py/0.6.4;
+  };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
