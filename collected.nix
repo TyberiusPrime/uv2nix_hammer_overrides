@@ -1516,6 +1516,9 @@
   sewar = {
     "0.4.6" = import ./overrides/sewar/0.4.6;
   };
+  sfdmap = {
+    "0.1.1" = import ./overrides/sfdmap/0.1.1;
+  };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
