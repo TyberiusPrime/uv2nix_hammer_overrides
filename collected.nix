@@ -373,6 +373,12 @@
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
+  digdictionaryextractor = {
+    "0.3.0" = import ./overrides/digdictionaryextractor/0.3.0;
+  };
+  digextractor = {
+    "0.4.0" = import ./overrides/digextractor/0.4.0;
+  };
   dill = {
     "0.2.9" = import ./overrides/dill/0.2.9;
     "0.3.1.1" = import ./overrides/dill/0.3.1.1;
