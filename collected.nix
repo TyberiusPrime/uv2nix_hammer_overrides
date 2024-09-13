@@ -2173,6 +2173,9 @@
   radical-utils = {
     "1.81.0" = import ./overrides/radical-utils/1.81.0;
   };
+  radiotherm = {
+    "2.1.0" = import ./overrides/radiotherm/2.1.0;
+  };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
