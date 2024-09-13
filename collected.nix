@@ -1131,6 +1131,9 @@
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
+  lineedit = {
+    "0.1.6" = import ./overrides/lineedit/0.1.6;
+  };
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
