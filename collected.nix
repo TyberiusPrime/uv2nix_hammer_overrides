@@ -1777,6 +1777,9 @@
   pykulersky = {
     "0.5.5" = import ./overrides/pykulersky/0.5.5;
   };
+  pylatex = {
+    "1.4.2" = import ./overrides/pylatex/1.4.2;
+  };
   pylatexenc = {
     "2.10" = import ./overrides/pylatexenc/2.10;
   };
