@@ -1128,6 +1128,9 @@
   perdy = {
     "1.12" = import ./overrides/perdy/1.12;
   };
+  periodictable = {
+    "1.7.1" = import ./overrides/periodictable/1.7.1;
+  };
   pexif = {
     "0.15" = import ./overrides/pexif/0.15;
   };
