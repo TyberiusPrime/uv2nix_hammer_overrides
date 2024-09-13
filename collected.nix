@@ -1317,6 +1317,9 @@
   mobly = {
     "1.12.4" = import ./overrides/mobly/1.12.4;
   };
+  mock-open = {
+    "1.4.0" = import ./overrides/mock-open/1.4.0;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
