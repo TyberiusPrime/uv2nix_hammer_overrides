@@ -918,6 +918,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  mobly = {
+    "1.12.4" = import ./overrides/mobly/1.12.4;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
