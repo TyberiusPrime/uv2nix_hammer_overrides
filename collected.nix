@@ -1014,6 +1014,9 @@
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
+  interlap = {
+    "0.2.7" = import ./overrides/interlap/0.2.7;
+  };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
   };
