@@ -1573,6 +1573,9 @@
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
+  starline = {
+    "0.2.0" = import ./overrides/starline/0.2.0;
+  };
   stashy = {
     "0.7" = import ./overrides/stashy/0.7;
   };
