@@ -885,6 +885,9 @@
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
+  manuf = {
+    "1.1.5" = import ./overrides/manuf/1.1.5;
+  };
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
