@@ -283,6 +283,9 @@
   compressed-rtf = {
     "1.0.6" = import ./overrides/compressed-rtf/1.0.6;
   };
+  conan = {
+    "2.7.0" = import ./overrides/conan/2.7.0;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
@@ -1064,6 +1067,9 @@
   };
   parsimonious = {
     "0.9.0" = import ./overrides/parsimonious/0.9.0;
+  };
+  patch-ng = {
+    "1.18.0" = import ./overrides/patch-ng/1.18.0;
   };
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
