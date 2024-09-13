@@ -1192,6 +1192,12 @@
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
+  openerp-process = {
+    "7.0.406" = import ./overrides/openerp-process/7.0.406;
+  };
+  openerp-web = {
+    "7.0.406" = import ./overrides/openerp-web/7.0.406;
+  };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
   };
