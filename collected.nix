@@ -1504,6 +1504,9 @@
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
+  pyelasticsearch = {
+    "1.4.1" = import ./overrides/pyelasticsearch/1.4.1;
+  };
   pyes = {
     "0.99.6" = import ./overrides/pyes/0.99.6;
   };
