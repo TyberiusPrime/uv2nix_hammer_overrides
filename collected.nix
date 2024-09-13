@@ -292,6 +292,9 @@
   cometblue-lite = {
     "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
   };
+  compmake-z6 = {
+    "6.1.5" = import ./overrides/compmake-z6/6.1.5;
+  };
   compose = {
     "1.5.0" = import ./overrides/compose/1.5.0;
   };
@@ -1704,6 +1707,9 @@
   };
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
+  };
+  systemcmd-z6 = {
+    "3.0.5" = import ./overrides/systemcmd-z6/3.0.5;
   };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
