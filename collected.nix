@@ -1434,6 +1434,9 @@
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
+  pbkdf2 = {
+    "1.3" = import ./overrides/pbkdf2/1.3;
+  };
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
