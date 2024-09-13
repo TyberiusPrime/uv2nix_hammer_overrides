@@ -87,6 +87,9 @@
   args = {
     "0.1.0" = import ./overrides/args/0.1.0;
   };
+  argumental = {
+    "1.13" = import ./overrides/argumental/1.13;
+  };
   armstrong-utils-backends = {
     "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
   };
@@ -155,6 +158,9 @@
   };
   batinfo = {
     "0.4.2" = import ./overrides/batinfo/0.4.2;
+  };
+  baubles = {
+    "1.6" = import ./overrides/baubles/1.6;
   };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
@@ -777,6 +783,9 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  jsonpath = {
+    "0.82.2" = import ./overrides/jsonpath/0.82.2;
+  };
   jsonpath-rw = {
     "1.4.0" = import ./overrides/jsonpath-rw/1.4.0;
   };
@@ -1088,6 +1097,9 @@
   };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
+  };
+  perdy = {
+    "1.12" = import ./overrides/perdy/1.12;
   };
   pexif = {
     "0.15" = import ./overrides/pexif/0.15;
