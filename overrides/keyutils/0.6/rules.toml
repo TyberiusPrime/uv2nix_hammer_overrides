@@ -1,0 +1,2 @@
+BuildSystems = [ "pytest-runner", "setuptools",]
+ManualOverrides = "__file__:keyutils/0.6/default.nix"
