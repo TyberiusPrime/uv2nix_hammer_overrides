@@ -479,6 +479,9 @@
   django-redis-cache = {
     "3.0.1" = import ./overrides/django-redis-cache/3.0.1;
   };
+  django-rest-framework-mongoengine = {
+    "3.4.1" = import ./overrides/django-rest-framework-mongoengine/3.4.1;
+  };
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
