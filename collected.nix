@@ -578,6 +578,9 @@
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
+  datasize = {
+    "1.0.0" = import ./overrides/datasize/1.0.0;
+  };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
