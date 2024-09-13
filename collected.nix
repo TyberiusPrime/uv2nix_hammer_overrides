@@ -1246,6 +1246,9 @@
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
   };
+  pykwb = {
+    "0.0.10" = import ./overrides/pykwb/0.0.10;
+  };
   pylatexenc = {
     "2.10" = import ./overrides/pylatexenc/2.10;
   };
