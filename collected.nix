@@ -2282,6 +2282,9 @@
   python-bugzilla = {
     "3.2.0" = import ./overrides/python-bugzilla/3.2.0;
   };
+  python-card-me = {
+    "0.9.3" = import ./overrides/python-card-me/0.9.3;
+  };
   python-dateutil = {
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
