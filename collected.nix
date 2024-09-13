@@ -2501,6 +2501,9 @@
   singer-python = {
     "5.1.5" = import ./overrides/singer-python/5.1.5;
   };
+  siphash = {
+    "0.0.1" = import ./overrides/siphash/0.0.1;
+  };
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
