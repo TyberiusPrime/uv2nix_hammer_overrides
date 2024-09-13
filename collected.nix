@@ -1498,6 +1498,9 @@
   scales = {
     "1.0.9" = import ./overrides/scales/1.0.9;
   };
+  scapy-python3 = {
+    "0.26" = import ./overrides/scapy-python3/0.26;
+  };
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
