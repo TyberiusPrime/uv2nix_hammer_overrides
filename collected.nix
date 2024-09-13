@@ -1684,6 +1684,9 @@
   pymsgbox = {
     "1.0.9" = import ./overrides/pymsgbox/1.0.9;
   };
+  pymsteams = {
+    "0.2.3" = import ./overrides/pymsteams/0.2.3;
+  };
   pync = {
     "2.0.3" = import ./overrides/pync/2.0.3;
   };
