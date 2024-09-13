@@ -554,6 +554,9 @@
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
+  datapipelines = {
+    "1.0.7" = import ./overrides/datapipelines/1.0.7;
+  };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
