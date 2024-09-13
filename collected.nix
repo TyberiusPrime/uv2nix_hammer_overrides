@@ -1984,6 +1984,9 @@
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
+  rattail = {
+    "0.18.11" = import ./overrides/rattail/0.18.11;
+  };
   rauth = {
     "0.7.3" = import ./overrides/rauth/0.7.3;
   };
@@ -2502,6 +2505,9 @@
   };
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
+  };
+  wuttjamaican = {
+    "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
   };
   www-authenticate = {
     "0.9.2" = import ./overrides/www-authenticate/0.9.2;
