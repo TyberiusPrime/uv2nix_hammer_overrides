@@ -59,6 +59,9 @@
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
+  anitopy = {
+    "2.1.1" = import ./overrides/anitopy/2.1.1;
+  };
   anndata = {
     "0.10.9" = import ./overrides/anndata/0.10.9;
   };
