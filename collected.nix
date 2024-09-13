@@ -1378,6 +1378,9 @@
   lineedit = {
     "0.1.6" = import ./overrides/lineedit/0.1.6;
   };
+  linkheader = {
+    "0.4.3" = import ./overrides/linkheader/0.4.3;
+  };
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
