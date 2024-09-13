@@ -2294,6 +2294,9 @@
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
+  pytest-cache = {
+    "1.0" = import ./overrides/pytest-cache/1.0;
+  };
   pytest-clarity = {
     "1.0.1" = import ./overrides/pytest-clarity/1.0.1;
   };
