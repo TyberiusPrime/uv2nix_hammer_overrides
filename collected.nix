@@ -379,6 +379,9 @@
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
+  debts = {
+    "0.5" = import ./overrides/debts/0.5;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
@@ -722,6 +725,9 @@
   };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
+  };
+  ihatemoney = {
+    "6.1.5" = import ./overrides/ihatemoney/6.1.5;
   };
   ihm = {
     "1.5" = import ./overrides/ihm/1.5;
