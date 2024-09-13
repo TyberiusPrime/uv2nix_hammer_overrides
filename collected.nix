@@ -2228,6 +2228,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  query = {
+    "0.1.4" = import ./overrides/query/0.1.4;
+  };
   radical-gtod = {
     "1.81.0" = import ./overrides/radical-gtod/1.81.0;
   };
