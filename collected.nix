@@ -1173,6 +1173,9 @@
   jadi = {
     "1.0.3" = import ./overrides/jadi/1.0.3;
   };
+  jcloud = {
+    "0.3" = import ./overrides/jcloud/0.3;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
