@@ -1146,6 +1146,9 @@
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
+  pyacoustid = {
+    "1.3.0" = import ./overrides/pyacoustid/1.3.0;
+  };
   pyactiveresource = {
     "2.2.2" = import ./overrides/pyactiveresource/2.2.2;
   };
