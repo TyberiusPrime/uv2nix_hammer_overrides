@@ -1579,6 +1579,9 @@
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
   };
+  stormbot = {
+    "2.1.1" = import ./overrides/stormbot/2.1.1;
+  };
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
