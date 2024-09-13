@@ -228,6 +228,9 @@
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
+  cfunits = {
+    "3.3.7" = import ./overrides/cfunits/3.3.7;
+  };
   cgen = {
     "2020.1" = import ./overrides/cgen/2020.1;
   };
