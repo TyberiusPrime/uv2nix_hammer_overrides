@@ -138,6 +138,9 @@
   av = {
     "13.0.0" = import ./overrides/av/13.0.0;
   };
+  aws-cdk-constructs = {
+    "2.32.0.post0" = import ./overrides/aws-cdk-constructs/2.32.0.post0;
+  };
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
