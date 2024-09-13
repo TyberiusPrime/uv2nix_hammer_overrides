@@ -50,8 +50,17 @@
   aiolivisi = {
     "0.0.19" = import ./overrides/aiolivisi/0.0.19;
   };
+  aioopenssl = {
+    "0.6.0" = import ./overrides/aioopenssl/0.6.0;
+  };
+  aiosasl = {
+    "0.5.0" = import ./overrides/aiosasl/0.5.0;
+  };
   aiosocks = {
     "0.2.6" = import ./overrides/aiosocks/0.2.6;
+  };
+  aioxmpp = {
+    "0.13.3" = import ./overrides/aioxmpp/0.13.3;
   };
   aliyun-python-sdk-core = {
     "2.15.2" = import ./overrides/aliyun-python-sdk-core/2.15.2;
