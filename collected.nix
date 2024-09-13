@@ -747,6 +747,9 @@
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
+  jinjaroot = {
+    "0.0.6" = import ./overrides/jinjaroot/0.0.6;
+  };
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
@@ -788,6 +791,9 @@
   };
   kabaret = {
     "2.3.0" = import ./overrides/kabaret/2.3.0;
+  };
+  kachery-client = {
+    "1.2.0" = import ./overrides/kachery-client/1.2.0;
   };
   kaggle = {
     "1.6.17" = import ./overrides/kaggle/1.6.17;
