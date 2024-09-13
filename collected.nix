@@ -966,6 +966,9 @@
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
+  idx2numpy = {
+    "1.2.3" = import ./overrides/idx2numpy/1.2.3;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
