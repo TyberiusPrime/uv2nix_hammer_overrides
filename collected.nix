@@ -987,6 +987,9 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  nodejs = {
+    "0.1.1" = import ./overrides/nodejs/0.1.1;
+  };
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
