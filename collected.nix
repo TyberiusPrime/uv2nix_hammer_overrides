@@ -222,6 +222,9 @@
   bw2data = {
     "3.6.6" = import ./overrides/bw2data/3.6.6;
   };
+  cached-ipaddress = {
+    "0.5.0" = import ./overrides/cached-ipaddress/0.5.0;
+  };
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
