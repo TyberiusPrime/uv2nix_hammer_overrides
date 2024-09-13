@@ -283,6 +283,9 @@
   compressed-rtf = {
     "1.0.6" = import ./overrides/compressed-rtf/1.0.6;
   };
+  configparser = {
+    "3.5.0" = import ./overrides/configparser/3.5.0;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
@@ -553,6 +556,9 @@
   };
   flask-restless = {
     "0.17.0" = import ./overrides/flask-restless/0.17.0;
+  };
+  flask-testing = {
+    "0.7.1" = import ./overrides/flask-testing/0.7.1;
   };
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
@@ -1641,6 +1647,9 @@
   };
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
+  };
+  tokenleaderclient = {
+    "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
   tonyg-rfc3339 = {
     "0.1" = import ./overrides/tonyg-rfc3339/0.1;
