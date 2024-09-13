@@ -1801,6 +1801,9 @@
   wiringpi = {
     "2.60.1" = import ./overrides/wiringpi/2.60.1;
   };
+  word2vec = {
+    "0.11.1" = import ./overrides/word2vec/0.11.1;
+  };
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
   };
