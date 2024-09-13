@@ -927,6 +927,9 @@
   jstyleson = {
     "0.0.2" = import ./overrides/jstyleson/0.0.2;
   };
+  jupyter-existing-provisioner = {
+    "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
