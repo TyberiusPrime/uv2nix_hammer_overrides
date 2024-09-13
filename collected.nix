@@ -1438,6 +1438,9 @@
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
   };
+  pyreadline = {
+    "2.1" = import ./overrides/pyreadline/2.1;
+  };
   pyrect = {
     "0.2.0" = import ./overrides/pyrect/0.2.0;
   };
