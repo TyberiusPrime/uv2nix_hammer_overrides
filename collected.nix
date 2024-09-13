@@ -370,6 +370,9 @@
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
+  curio = {
+    "1.6" = import ./overrides/curio/1.6;
+  };
   cursor = {
     "1.3.5" = import ./overrides/cursor/1.3.5;
   };
