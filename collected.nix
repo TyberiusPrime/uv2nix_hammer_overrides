@@ -1816,6 +1816,9 @@
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
   };
+  xmlbuilder = {
+    "1.0" = import ./overrides/xmlbuilder/1.0;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
