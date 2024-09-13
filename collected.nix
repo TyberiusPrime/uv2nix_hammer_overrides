@@ -1765,6 +1765,9 @@
   visitor = {
     "0.1.3" = import ./overrides/visitor/0.1.3;
   };
+  vital-tools = {
+    "0.1.13" = import ./overrides/vital-tools/0.1.13;
+  };
   vivisect-vstruct-wb = {
     "1.0.3" = import ./overrides/vivisect-vstruct-wb/1.0.3;
   };
