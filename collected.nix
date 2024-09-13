@@ -681,6 +681,9 @@
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
+  html5lib = {
+    "0.9999999" = import ./overrides/html5lib/0.9999999;
+  };
   http3 = {
     "0.6.7" = import ./overrides/http3/0.6.7;
   };
