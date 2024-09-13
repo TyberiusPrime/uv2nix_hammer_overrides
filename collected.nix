@@ -524,6 +524,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  dsnparse = {
+    "0.2.1" = import ./overrides/dsnparse/0.2.1;
+  };
   durabledict = {
     "0.9.4" = import ./overrides/durabledict/0.9.4;
   };
