@@ -2951,6 +2951,9 @@
   wiringpi = {
     "2.60.1" = import ./overrides/wiringpi/2.60.1;
   };
+  word2vec = {
+    "0.11.1" = import ./overrides/word2vec/0.11.1;
+  };
   wordninja = {
     "2.0.0" = import ./overrides/wordninja/2.0.0;
   };
