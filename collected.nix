@@ -2086,6 +2086,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  rectpack = {
+    "0.2.2" = import ./overrides/rectpack/0.2.2;
+  };
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
