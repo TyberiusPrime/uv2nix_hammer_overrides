@@ -729,6 +729,12 @@
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
+  hydralit = {
+    "1.0.14" = import ./overrides/hydralit/1.0.14;
+  };
+  hydralit-components = {
+    "1.0.10" = import ./overrides/hydralit-components/1.0.10;
+  };
   ibm-cos-sdk-core = {
     "2.13.6" = import ./overrides/ibm-cos-sdk-core/2.13.6;
   };
