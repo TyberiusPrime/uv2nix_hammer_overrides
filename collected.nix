@@ -416,6 +416,9 @@
   django-libs = {
     "2.0.3" = import ./overrides/django-libs/2.0.3;
   };
+  django-localeurl = {
+    "2.0.2" = import ./overrides/django-localeurl/2.0.2;
+  };
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
   };
