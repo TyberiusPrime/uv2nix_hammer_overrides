@@ -431,6 +431,9 @@
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
+  django-taggit-templatetags = {
+    "0.2.5" = import ./overrides/django-taggit-templatetags/0.2.5;
+  };
   django-tastypie = {
     "0.14.7" = import ./overrides/django-tastypie/0.14.7;
   };
