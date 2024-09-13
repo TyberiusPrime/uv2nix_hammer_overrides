@@ -651,6 +651,9 @@
   h5pyd = {
     "0.18.0" = import ./overrides/h5pyd/0.18.0;
   };
+  handout = {
+    "1.1.2" = import ./overrides/handout/1.1.2;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
