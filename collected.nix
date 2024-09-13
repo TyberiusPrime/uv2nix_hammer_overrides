@@ -693,6 +693,12 @@
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
+  hydralit = {
+    "1.0.14" = import ./overrides/hydralit/1.0.14;
+  };
+  hydralit-components = {
+    "1.0.10" = import ./overrides/hydralit-components/1.0.10;
+  };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
