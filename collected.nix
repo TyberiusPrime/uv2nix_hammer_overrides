@@ -446,6 +446,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  dis = {
+    "1.0.1" = import ./overrides/dis/1.0.1;
+  };
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
