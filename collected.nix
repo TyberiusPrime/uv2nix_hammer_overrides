@@ -1248,6 +1248,9 @@
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
   };
+  krakenex = {
+    "2.2.2" = import ./overrides/krakenex/2.2.2;
+  };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
