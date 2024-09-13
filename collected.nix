@@ -821,6 +821,9 @@
   flask-bootstrap = {
     "3.3.7.1" = import ./overrides/flask-bootstrap/3.3.7.1;
   };
+  flask-cache = {
+    "0.13.1" = import ./overrides/flask-cache/0.13.1;
+  };
   flask-csrf = {
     "0.9.2" = import ./overrides/flask-csrf/0.9.2;
   };
