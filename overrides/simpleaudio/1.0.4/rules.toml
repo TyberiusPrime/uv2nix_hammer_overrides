@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.pkgs.alsa-lib",]
+BuildSystems = [ "setuptools",]

@@ -2053,6 +2053,9 @@
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
+  simpleaudio = {
+    "1.0.4" = import ./overrides/simpleaudio/1.0.4;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
