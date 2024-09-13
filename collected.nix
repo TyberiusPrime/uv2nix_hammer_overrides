@@ -1143,6 +1143,9 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  ptest = {
+    "2.0.3" = import ./overrides/ptest/2.0.3;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
