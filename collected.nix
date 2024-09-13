@@ -86,6 +86,9 @@
   anndata = {
     "0.10.9" = import ./overrides/anndata/0.10.9;
   };
+  annoy = {
+    "1.17.3" = import ./overrides/annoy/1.17.3;
+  };
   ansible = {
     "10.3.0" = import ./overrides/ansible/10.3.0;
   };
