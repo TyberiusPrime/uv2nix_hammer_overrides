@@ -741,6 +741,9 @@
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
+  htools = {
+    "7.7.0" = import ./overrides/htools/7.7.0;
+  };
   http3 = {
     "0.6.7" = import ./overrides/http3/0.6.7;
   };
@@ -1956,6 +1959,9 @@
   };
   wiringpi = {
     "2.60.1" = import ./overrides/wiringpi/2.60.1;
+  };
+  wordninja = {
+    "2.0.0" = import ./overrides/wordninja/2.0.0;
   };
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
