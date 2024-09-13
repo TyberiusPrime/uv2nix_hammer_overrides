@@ -1096,6 +1096,9 @@
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
+  html5lib = {
+    "0.9999999" = import ./overrides/html5lib/0.9999999;
+  };
   htmlmin = {
     "0.1.12" = import ./overrides/htmlmin/0.1.12;
   };
