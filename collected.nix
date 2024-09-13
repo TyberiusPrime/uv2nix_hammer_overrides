@@ -401,6 +401,9 @@
   cmdline = {
     "0.2.0" = import ./overrides/cmdline/0.2.0;
   };
+  cmigemo = {
+    "0.1.6" = import ./overrides/cmigemo/0.1.6;
+  };
   cmlibs-zinc = {
     "4.1.2" = import ./overrides/cmlibs-zinc/4.1.2;
   };
