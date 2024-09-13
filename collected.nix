@@ -858,6 +858,9 @@
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
+  log-colorizer = {
+    "2.0.0" = import ./overrides/log-colorizer/2.0.0;
+  };
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
@@ -1812,6 +1815,9 @@
   };
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
+  };
+  xdis = {
+    "6.1.1" = import ./overrides/xdis/6.1.1;
   };
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
