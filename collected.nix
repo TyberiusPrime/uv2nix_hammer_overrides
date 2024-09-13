@@ -467,6 +467,9 @@
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
+  durabledict = {
+    "0.9.4" = import ./overrides/durabledict/0.9.4;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
