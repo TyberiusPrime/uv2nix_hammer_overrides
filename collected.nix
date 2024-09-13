@@ -2012,6 +2012,9 @@
   pytidylib = {
     "0.3.2" = import ./overrides/pytidylib/0.3.2;
   };
+  pytils = {
+    "0.4.1" = import ./overrides/pytils/0.4.1;
+  };
   pytweening = {
     "1.2.0" = import ./overrides/pytweening/1.2.0;
   };
