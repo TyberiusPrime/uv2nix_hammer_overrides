@@ -1519,6 +1519,9 @@
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
+  shap = {
+    "0.43.0" = import ./overrides/shap/0.43.0;
+  };
   shopifyapi = {
     "12.6.0" = import ./overrides/shopifyapi/12.6.0;
   };
