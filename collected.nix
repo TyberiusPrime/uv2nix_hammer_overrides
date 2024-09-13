@@ -458,6 +458,9 @@
   docrep = {
     "0.3.2" = import ./overrides/docrep/0.3.2;
   };
+  docx2txt = {
+    "0.8" = import ./overrides/docx2txt/0.8;
+  };
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
   };
