@@ -2359,6 +2359,9 @@
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
+  str2bool = {
+    "1.1" = import ./overrides/str2bool/1.1;
+  };
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
