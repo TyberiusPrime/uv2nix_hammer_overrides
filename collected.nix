@@ -2444,6 +2444,9 @@
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
   };
+  scripttest = {
+    "1.3" = import ./overrides/scripttest/1.3;
+  };
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
