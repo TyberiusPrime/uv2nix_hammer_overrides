@@ -2561,6 +2561,9 @@
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
+  timecode = {
+    "1.4.1" = import ./overrides/timecode/1.4.1;
+  };
   timeloop = {
     "1.0.2" = import ./overrides/timeloop/1.0.2;
   };
