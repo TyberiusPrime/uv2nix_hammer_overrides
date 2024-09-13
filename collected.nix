@@ -1225,6 +1225,9 @@
   pygments-lexer-solidity = {
     "0.7.0" = import ./overrides/pygments-lexer-solidity/0.7.0;
   };
+  pygnmi = {
+    "0.8.14" = import ./overrides/pygnmi/0.8.14;
+  };
   pygobject = {
     "3.48.2" = import ./overrides/pygobject/3.48.2;
   };
