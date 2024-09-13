@@ -1549,6 +1549,9 @@
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
+  sockjs-tornado = {
+    "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
+  };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
