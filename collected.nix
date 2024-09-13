@@ -1378,6 +1378,9 @@
   odfpy = {
     "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
+  odictliteral = {
+    "1.0.0" = import ./overrides/odictliteral/1.0.0;
+  };
   offtrac = {
     "0.1.0" = import ./overrides/offtrac/0.1.0;
   };
