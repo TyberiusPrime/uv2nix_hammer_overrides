@@ -1014,6 +1014,9 @@
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
+  htmlmin = {
+    "0.1.12" = import ./overrides/htmlmin/0.1.12;
+  };
   htools = {
     "7.7.0" = import ./overrides/htools/7.7.0;
   };
