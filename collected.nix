@@ -228,6 +228,9 @@
   clint = {
     "0.5.1" = import ./overrides/clint/0.5.1;
   };
+  clip = {
+    "0.2.0" = import ./overrides/clip/0.2.0;
+  };
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
