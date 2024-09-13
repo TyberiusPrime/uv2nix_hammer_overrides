@@ -1198,6 +1198,9 @@
   jadi = {
     "1.0.3" = import ./overrides/jadi/1.0.3;
   };
+  jaxlinop = {
+    "0.0.3" = import ./overrides/jaxlinop/0.0.3;
+  };
   jcloud = {
     "0.3" = import ./overrides/jcloud/0.3;
   };
