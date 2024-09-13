@@ -596,6 +596,9 @@
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
+  fnvhash = {
+    "0.1.0" = import ./overrides/fnvhash/0.1.0;
+  };
   fortranformat = {
     "2.0.0" = import ./overrides/fortranformat/2.0.0;
   };
