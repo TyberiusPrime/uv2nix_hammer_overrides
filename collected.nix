@@ -192,6 +192,9 @@
   bsuite = {
     "0.3.5" = import ./overrides/bsuite/0.3.5;
   };
+  cachecontrol = {
+    "0.12.3" = import ./overrides/cachecontrol/0.12.3;
+  };
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
