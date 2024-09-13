@@ -692,6 +692,9 @@
   filterpy = {
     "1.4.5" = import ./overrides/filterpy/1.4.5;
   };
+  findlibs = {
+    "0.0.5" = import ./overrides/findlibs/0.0.5;
+  };
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
