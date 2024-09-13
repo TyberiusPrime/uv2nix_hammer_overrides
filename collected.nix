@@ -1305,6 +1305,9 @@
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
+  mailchimp = {
+    "2.0.10" = import ./overrides/mailchimp/2.0.10;
+  };
   mailmanclient = {
     "3.3.5" = import ./overrides/mailmanclient/3.3.5;
   };
