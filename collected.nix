@@ -490,6 +490,9 @@
   daff = {
     "1.3.46" = import ./overrides/daff/1.3.46;
   };
+  dartsclone = {
+    "0.10.2" = import ./overrides/dartsclone/0.10.2;
+  };
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
