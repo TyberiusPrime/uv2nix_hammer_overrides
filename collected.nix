@@ -669,6 +669,9 @@
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
+  hkdf = {
+    "0.0.3" = import ./overrides/hkdf/0.0.3;
+  };
   homura = {
     "0.1.5" = import ./overrides/homura/0.1.5;
   };
