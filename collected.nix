@@ -1765,6 +1765,9 @@
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
+  streql = {
+    "3.0.2" = import ./overrides/streql/3.0.2;
+  };
   strict-functions = {
     "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
   };
