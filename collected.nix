@@ -714,6 +714,9 @@
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
+  ibm-cos-sdk-core = {
+    "2.13.6" = import ./overrides/ibm-cos-sdk-core/2.13.6;
+  };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
