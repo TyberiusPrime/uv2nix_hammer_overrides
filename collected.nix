@@ -404,6 +404,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  discid = {
+    "1.2.0" = import ./overrides/discid/1.2.0;
+  };
   django-allauth = {
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
