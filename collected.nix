@@ -1585,6 +1585,9 @@
   sphinxcontrib-newsfeed = {
     "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
   };
+  sphinxcontrib-tikz = {
+    "0.4.20" = import ./overrides/sphinxcontrib-tikz/0.4.20;
+  };
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
