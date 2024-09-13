@@ -1221,6 +1221,9 @@
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
+  mobly = {
+    "1.12.4" = import ./overrides/mobly/1.12.4;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
