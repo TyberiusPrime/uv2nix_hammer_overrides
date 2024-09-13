@@ -2669,6 +2669,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  tflearn = {
+    "0.5.0" = import ./overrides/tflearn/0.5.0;
+  };
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
   };
