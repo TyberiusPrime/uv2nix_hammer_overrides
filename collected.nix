@@ -861,6 +861,9 @@
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
+  envparse = {
+    "0.2.0" = import ./overrides/envparse/0.2.0;
+  };
   epion = {
     "0.0.3" = import ./overrides/epion/0.0.3;
   };
