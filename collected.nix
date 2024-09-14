@@ -1219,6 +1219,9 @@
   hydralit-components = {
     "1.0.10" = import ./overrides/hydralit-components/1.0.10;
   };
+  hyperdash = {
+    "0.15.3" = import ./overrides/hyperdash/0.15.3;
+  };
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
   };
