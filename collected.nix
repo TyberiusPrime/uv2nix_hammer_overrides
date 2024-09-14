@@ -2858,6 +2858,9 @@
   timecode = {
     "1.4.1" = import ./overrides/timecode/1.4.1;
   };
+  timelib = {
+    "0.3.0" = import ./overrides/timelib/0.3.0;
+  };
   timeloop = {
     "1.0.2" = import ./overrides/timeloop/1.0.2;
   };
