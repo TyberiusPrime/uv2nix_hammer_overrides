@@ -1615,6 +1615,9 @@
   micloud = {
     "0.6" = import ./overrides/micloud/0.6;
   };
+  microdata = {
+    "0.8.0" = import ./overrides/microdata/0.8.0;
+  };
   micropython-cpython-micropython = {
     "0.1.1" = import ./overrides/micropython-cpython-micropython/0.1.1;
   };
