@@ -1969,6 +1969,9 @@
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
+  ppp-datamodel = {
+    "0.6.12.1" = import ./overrides/ppp-datamodel/0.6.12.1;
+  };
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
