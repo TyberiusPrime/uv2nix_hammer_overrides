@@ -690,6 +690,9 @@
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
   };
+  django-m2m-history = {
+    "0.3.6" = import ./overrides/django-m2m-history/0.3.6;
+  };
   django-markdown-deux = {
     "1.0.6" = import ./overrides/django-markdown-deux/1.0.6;
   };
