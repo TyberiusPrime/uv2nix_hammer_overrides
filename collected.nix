@@ -2216,6 +2216,9 @@
   pync = {
     "2.0.3" = import ./overrides/pync/2.0.3;
   };
+  pynisher = {
+    "1.0.10" = import ./overrides/pynisher/1.0.10;
+  };
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
