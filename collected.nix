@@ -1648,6 +1648,9 @@
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
+  mosestokenizer = {
+    "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
+  };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
@@ -2891,6 +2894,9 @@
   toolkity = {
     "1.9.5" = import ./overrides/toolkity/1.9.5;
   };
+  toolwrapper = {
+    "2.1.0" = import ./overrides/toolwrapper/2.1.0;
+  };
   torch = {
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
@@ -2990,6 +2996,9 @@
   };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
+  };
+  uctools = {
+    "1.3.0" = import ./overrides/uctools/1.3.0;
   };
   uflash = {
     "2.0.0" = import ./overrides/uflash/2.0.0;
