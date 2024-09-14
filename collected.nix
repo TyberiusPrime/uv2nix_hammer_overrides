@@ -1759,6 +1759,9 @@
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
+  npm = {
+    "0.1.1" = import ./overrides/npm/0.1.1;
+  };
   numba = {
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
