@@ -1999,6 +1999,9 @@
   properties = {
     "0.6.1" = import ./overrides/properties/0.6.1;
   };
+  propobject = {
+    "0.1.3" = import ./overrides/propobject/0.1.3;
+  };
   proto-google-cloud-datastore-v1 = {
     "0.90.4" = import ./overrides/proto-google-cloud-datastore-v1/0.90.4;
   };
