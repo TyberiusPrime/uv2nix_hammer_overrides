@@ -437,6 +437,9 @@
   cometblue-lite = {
     "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
   };
+  commandlib = {
+    "0.3.5" = import ./overrides/commandlib/0.3.5;
+  };
   compmake-z6 = {
     "6.1.5" = import ./overrides/compmake-z6/6.1.5;
   };
