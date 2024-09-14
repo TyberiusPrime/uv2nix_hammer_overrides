@@ -2480,6 +2480,9 @@
   qprompt = {
     "0.16.3" = import ./overrides/qprompt/0.16.3;
   };
+  qualname = {
+    "0.1.0" = import ./overrides/qualname/0.1.0;
+  };
   quantile-python = {
     "1.1" = import ./overrides/quantile-python/1.1;
   };
