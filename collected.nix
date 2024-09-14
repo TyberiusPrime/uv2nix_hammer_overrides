@@ -575,6 +575,9 @@
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
+  dashing = {
+    "0.1.0" = import ./overrides/dashing/0.1.0;
+  };
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
