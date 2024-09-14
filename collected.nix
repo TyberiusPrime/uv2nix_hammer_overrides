@@ -2153,6 +2153,9 @@
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
+  pyipma = {
+    "3.0.7" = import ./overrides/pyipma/3.0.7;
+  };
   pyjade = {
     "4.0.0" = import ./overrides/pyjade/4.0.0;
   };
