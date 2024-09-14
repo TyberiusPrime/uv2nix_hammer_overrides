@@ -774,6 +774,9 @@
   dm-reuse = {
     "2.2" = import ./overrides/dm-reuse/2.2;
   };
+  dnspython3 = {
+    "1.15.0" = import ./overrides/dnspython3/1.15.0;
+  };
   dockerpty = {
     "0.4.1" = import ./overrides/dockerpty/0.4.1;
   };
