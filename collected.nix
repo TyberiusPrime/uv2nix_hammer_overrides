@@ -2219,6 +2219,9 @@
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
+  pyoo = {
+    "1.4" = import ./overrides/pyoo/1.4;
+  };
   pyopengl = {
     "3.1.0" = import ./overrides/pyopengl/3.1.0;
   };
