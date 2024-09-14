@@ -2337,6 +2337,9 @@
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
+  python-firebase = {
+    "1.2" = import ./overrides/python-firebase/1.2;
+  };
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
