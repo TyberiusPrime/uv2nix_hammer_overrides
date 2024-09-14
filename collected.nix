@@ -3114,6 +3114,9 @@
   webexteamssdk = {
     "1.7" = import ./overrides/webexteamssdk/1.7;
   };
+  webhelpers = {
+    "1.3" = import ./overrides/webhelpers/1.3;
+  };
   webrtcvad = {
     "2.0.10" = import ./overrides/webrtcvad/2.0.10;
   };
