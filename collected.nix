@@ -3102,6 +3102,9 @@
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
   };
+  volkszaehler = {
+    "0.4.0" = import ./overrides/volkszaehler/0.4.0;
+  };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
