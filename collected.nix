@@ -1189,6 +1189,9 @@
   houdini-py = {
     "0.1.0" = import ./overrides/houdini-py/0.1.0;
   };
+  hrpc = {
+    "1.0.9" = import ./overrides/hrpc/1.0.9;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
