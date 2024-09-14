@@ -228,6 +228,9 @@
   basicsr = {
     "1.4.2" = import ./overrides/basicsr/1.4.2;
   };
+  batchgenerators = {
+    "0.25" = import ./overrides/batchgenerators/0.25;
+  };
   batinfo = {
     "0.4.2" = import ./overrides/batinfo/0.4.2;
   };
