@@ -2451,6 +2451,9 @@
   pyvoro = {
     "1.3.2" = import ./overrides/pyvoro/1.3.2;
   };
+  pyxattr = {
+    "0.8.1" = import ./overrides/pyxattr/0.8.1;
+  };
   pyxbe = {
     "1.0.3" = import ./overrides/pyxbe/1.0.3;
   };
