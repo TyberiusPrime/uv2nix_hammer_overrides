@@ -312,6 +312,9 @@
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
+  canonical = {
+    "0.52.0" = import ./overrides/canonical/0.52.0;
+  };
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
@@ -347,6 +350,9 @@
   };
   circuit-webhook = {
     "1.0.1" = import ./overrides/circuit-webhook/1.0.1;
+  };
+  ckms = {
+    "0.65.0" = import ./overrides/ckms/0.65.0;
   };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
@@ -3008,6 +3014,9 @@
   };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
+  };
+  unimatrix = {
+    "1.14.0" = import ./overrides/unimatrix/1.14.0;
   };
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
