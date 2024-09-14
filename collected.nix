@@ -267,6 +267,9 @@
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
+  bizkaibus = {
+    "0.1.4" = import ./overrides/bizkaibus/0.1.4;
+  };
   bkcharts = {
     "0.2" = import ./overrides/bkcharts/0.2;
   };
