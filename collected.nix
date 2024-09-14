@@ -222,6 +222,9 @@
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
+  base32hex = {
+    "1.0.2" = import ./overrides/base32hex/1.0.2;
+  };
   bashplotlib = {
     "0.6.5" = import ./overrides/bashplotlib/0.6.5;
   };
