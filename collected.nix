@@ -1144,6 +1144,9 @@
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
+  haigha = {
+    "0.9.0" = import ./overrides/haigha/0.9.0;
+  };
   handout = {
     "1.1.2" = import ./overrides/handout/1.1.2;
   };
