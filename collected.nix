@@ -1033,6 +1033,9 @@
   fuzzysearch = {
     "0.7.3" = import ./overrides/fuzzysearch/0.7.3;
   };
+  fvcore = {
+    "0.1.5.post20221221" = import ./overrides/fvcore/0.1.5.post20221221;
+  };
   gaebusiness = {
     "4.5.3" = import ./overrides/gaebusiness/4.5.3;
   };
@@ -1287,6 +1290,9 @@
   };
   ionhash = {
     "1.2.1" = import ./overrides/ionhash/1.2.1;
+  };
+  iopath = {
+    "0.1.10" = import ./overrides/iopath/0.1.10;
   };
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
@@ -2417,6 +2423,9 @@
   };
   pytils = {
     "0.4.1" = import ./overrides/pytils/0.4.1;
+  };
+  pytorchvideo = {
+    "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
   pytweening = {
     "1.2.0" = import ./overrides/pytweening/1.2.0;
