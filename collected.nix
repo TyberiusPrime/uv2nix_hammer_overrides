@@ -2852,6 +2852,9 @@
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
   };
+  theano-pymc = {
+    "1.1.2" = import ./overrides/theano-pymc/1.1.2;
+  };
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
