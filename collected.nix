@@ -2108,6 +2108,9 @@
   pydevccu = {
     "0.1.8" = import ./overrides/pydevccu/0.1.8;
   };
+  pydrive = {
+    "1.3.1" = import ./overrides/pydrive/1.3.1;
+  };
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
