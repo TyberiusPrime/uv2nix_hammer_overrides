@@ -1820,6 +1820,9 @@
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
+  opencmiss-utils = {
+    "0.4.2" = import ./overrides/opencmiss-utils/0.4.2;
+  };
   openerp-process = {
     "7.0.406" = import ./overrides/openerp-process/7.0.406;
   };
