@@ -2576,6 +2576,9 @@
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
+  rplidar-roboticia = {
+    "0.9.5" = import ./overrides/rplidar-roboticia/0.9.5;
+  };
   rpmfluff = {
     "0.6.5" = import ./overrides/rpmfluff/0.6.5;
   };
