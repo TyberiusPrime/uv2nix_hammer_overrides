@@ -599,6 +599,9 @@
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
+  delfick-error = {
+    "1.8" = import ./overrides/delfick-error/1.8;
+  };
   delta = {
     "0.4.2" = import ./overrides/delta/0.4.2;
   };
@@ -1266,6 +1269,9 @@
   };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
+  };
+  input-algorithms = {
+    "0.6.0" = import ./overrides/input-algorithms/0.6.0;
   };
   insightface = {
     "0.7.3" = import ./overrides/insightface/0.7.3;
@@ -2909,6 +2915,9 @@
   };
   torrequest = {
     "0.1.0" = import ./overrides/torrequest/0.1.0;
+  };
+  total-ordering = {
+    "0.1.0" = import ./overrides/total-ordering/0.1.0;
   };
   tpdcc-config = {
     "0.0.9" = import ./overrides/tpdcc-config/0.0.9;
