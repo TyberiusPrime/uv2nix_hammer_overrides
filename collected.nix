@@ -497,6 +497,9 @@
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
+  cqlengine = {
+    "0.21.0" = import ./overrides/cqlengine/0.21.0;
+  };
   crc16 = {
     "0.1.1" = import ./overrides/crc16/0.1.1;
   };
