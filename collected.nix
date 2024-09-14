@@ -1351,6 +1351,9 @@
   jsonformatter = {
     "0.3.2" = import ./overrides/jsonformatter/0.3.2;
   };
+  jsonify = {
+    "0.5" = import ./overrides/jsonify/0.5;
+  };
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
