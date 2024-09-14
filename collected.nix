@@ -2026,6 +2026,9 @@
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
   };
+  py-tlsh = {
+    "4.7.2" = import ./overrides/py-tlsh/4.7.2;
+  };
   py-ubjson = {
     "0.16.1" = import ./overrides/py-ubjson/0.16.1;
   };
@@ -2402,6 +2405,9 @@
   };
   python-terraform = {
     "0.10.1" = import ./overrides/python-terraform/0.10.1;
+  };
+  python-tlsh = {
+    "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
   python-wink = {
     "1.10.5" = import ./overrides/python-wink/1.10.5;
