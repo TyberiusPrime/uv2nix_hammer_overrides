@@ -2594,6 +2594,9 @@
   sacremoses = {
     "0.0.53" = import ./overrides/sacremoses/0.0.53;
   };
+  safeio = {
+    "1.2" = import ./overrides/safeio/1.2;
+  };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
   };
