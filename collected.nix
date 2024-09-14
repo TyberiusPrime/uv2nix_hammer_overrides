@@ -2501,6 +2501,9 @@
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
+  ratelimit = {
+    "2.2.1" = import ./overrides/ratelimit/2.2.1;
+  };
   rattail = {
     "0.18.11" = import ./overrides/rattail/0.18.11;
   };
