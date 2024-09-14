@@ -1570,6 +1570,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  marionette-transport = {
+    "1.2.0" = import ./overrides/marionette-transport/1.2.0;
+  };
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
