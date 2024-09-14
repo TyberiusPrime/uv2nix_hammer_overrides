@@ -2528,6 +2528,9 @@
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
+  repackage = {
+    "0.7.3" = import ./overrides/repackage/0.7.3;
+  };
   reparser = {
     "1.4.3" = import ./overrides/reparser/1.4.3;
   };
