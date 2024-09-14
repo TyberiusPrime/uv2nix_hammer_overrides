@@ -2588,6 +2588,9 @@
   runcmd = {
     "2020.12.3" = import ./overrides/runcmd/2020.12.3;
   };
+  runipy = {
+    "0.1.5" = import ./overrides/runipy/0.1.5;
+  };
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
   };
