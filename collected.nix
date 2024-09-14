@@ -2083,6 +2083,9 @@
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
   };
+  pycron = {
+    "3.0.0" = import ./overrides/pycron/3.0.0;
+  };
   pycrypto = {
     "2.6.1" = import ./overrides/pycrypto/2.6.1;
   };
