@@ -723,6 +723,9 @@
   django-social-api = {
     "0.1.1" = import ./overrides/django-social-api/0.1.1;
   };
+  django-sr = {
+    "0.0.4" = import ./overrides/django-sr/0.0.4;
+  };
   django-standard-form = {
     "1.1.1" = import ./overrides/django-standard-form/1.1.1;
   };
