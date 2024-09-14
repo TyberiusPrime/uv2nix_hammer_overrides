@@ -891,6 +891,9 @@
   factor-analyzer = {
     "0.5.1" = import ./overrides/factor-analyzer/0.5.1;
   };
+  falcon-cors = {
+    "1.1.7" = import ./overrides/falcon-cors/1.1.7;
+  };
   fancyimpute = {
     "0.7.0" = import ./overrides/fancyimpute/0.7.0;
   };
