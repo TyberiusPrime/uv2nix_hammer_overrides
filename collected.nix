@@ -2080,6 +2080,9 @@
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
+  pycorenlp = {
+    "0.3.0" = import ./overrides/pycorenlp/0.3.0;
+  };
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
   };
