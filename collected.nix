@@ -3015,6 +3015,9 @@
   unqlite = {
     "0.9.6" = import ./overrides/unqlite/0.9.6;
   };
+  uptime-kuma-api = {
+    "1.2.1" = import ./overrides/uptime-kuma-api/1.2.1;
+  };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
