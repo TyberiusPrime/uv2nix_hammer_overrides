@@ -2976,6 +2976,12 @@
   twitter-common-lang = {
     "0.3.11" = import ./overrides/twitter-common-lang/0.3.11;
   };
+  twitter-common-log = {
+    "0.3.11" = import ./overrides/twitter-common-log/0.3.11;
+  };
+  twitter-common-options = {
+    "0.3.11" = import ./overrides/twitter-common-options/0.3.11;
+  };
   twitter-common-util = {
     "0.3.11" = import ./overrides/twitter-common-util/0.3.11;
   };
