@@ -879,6 +879,9 @@
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
+  expects = {
+    "0.9.0" = import ./overrides/expects/0.9.0;
+  };
   fabtools = {
     "0.20.0" = import ./overrides/fabtools/0.20.0;
   };
