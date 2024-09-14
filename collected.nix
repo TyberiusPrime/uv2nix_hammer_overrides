@@ -2684,6 +2684,9 @@
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
+  simplepam = {
+    "0.1.5" = import ./overrides/simplepam/0.1.5;
+  };
   singer-python = {
     "5.1.5" = import ./overrides/singer-python/5.1.5;
   };
