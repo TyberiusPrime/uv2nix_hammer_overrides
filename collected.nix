@@ -2231,6 +2231,9 @@
   pypdf3 = {
     "1.0.6" = import ./overrides/pypdf3/1.0.6;
   };
+  pypdftk = {
+    "0.5" = import ./overrides/pypdftk/0.5;
+  };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
