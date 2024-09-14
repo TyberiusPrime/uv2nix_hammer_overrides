@@ -482,6 +482,9 @@
   coreschema = {
     "0.0.4" = import ./overrides/coreschema/0.0.4;
   };
+  cos-python-sdk-v5 = {
+    "1.9.31" = import ./overrides/cos-python-sdk-v5/1.9.31;
+  };
   cov-core = {
     "1.15.0" = import ./overrides/cov-core/1.15.0;
   };
