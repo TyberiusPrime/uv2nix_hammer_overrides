@@ -858,6 +858,9 @@
   empy = {
     "3.3.4" = import ./overrides/empy/3.3.4;
   };
+  empyrical = {
+    "0.5.5" = import ./overrides/empyrical/0.5.5;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
