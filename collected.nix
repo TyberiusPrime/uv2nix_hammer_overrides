@@ -348,6 +348,9 @@
   circuit-webhook = {
     "1.0.1" = import ./overrides/circuit-webhook/1.0.1;
   };
+  ckantoolkit = {
+    "0.0.7" = import ./overrides/ckantoolkit/0.0.7;
+  };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
