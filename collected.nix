@@ -2765,6 +2765,9 @@
   stem = {
     "1.8.2" = import ./overrides/stem/1.8.2;
   };
+  stompest = {
+    "2.3.0" = import ./overrides/stompest/2.3.0;
+  };
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
