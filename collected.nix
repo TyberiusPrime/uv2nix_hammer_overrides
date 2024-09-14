@@ -2421,6 +2421,9 @@
   pytweening = {
     "1.2.0" = import ./overrides/pytweening/1.2.0;
   };
+  pytype = {
+    "2024.4.11" = import ./overrides/pytype/2024.4.11;
+  };
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
