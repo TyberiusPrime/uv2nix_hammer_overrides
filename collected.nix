@@ -1669,6 +1669,9 @@
   mozrunner = {
     "8.3.1" = import ./overrides/mozrunner/8.3.1;
   };
+  moztest = {
+    "1.1.0" = import ./overrides/moztest/1.1.0;
+  };
   mplcursors = {
     "0.5.3" = import ./overrides/mplcursors/0.5.3;
   };
