@@ -846,6 +846,9 @@
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
+  elasticsearch-async = {
+    "6.2.0" = import ./overrides/elasticsearch-async/6.2.0;
+  };
   elasticutils = {
     "0.10.3" = import ./overrides/elasticutils/0.10.3;
   };
