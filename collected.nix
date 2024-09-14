@@ -2567,6 +2567,9 @@
   robotframework-pabot = {
     "2.18.0" = import ./overrides/robotframework-pabot/2.18.0;
   };
+  roku = {
+    "4.1.0" = import ./overrides/roku/4.1.0;
+  };
   rouge-score = {
     "0.1.2" = import ./overrides/rouge-score/0.1.2;
   };
