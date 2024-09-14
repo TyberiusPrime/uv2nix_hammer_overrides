@@ -912,6 +912,9 @@
   feedgen = {
     "1.0.0" = import ./overrides/feedgen/1.0.0;
   };
+  feeluown = {
+    "4.1.7" = import ./overrides/feeluown/4.1.7;
+  };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
