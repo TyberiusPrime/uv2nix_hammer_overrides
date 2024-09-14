@@ -1642,6 +1642,9 @@
   mock-open = {
     "1.4.0" = import ./overrides/mock-open/1.4.0;
   };
+  modelcif = {
+    "1.0" = import ./overrides/modelcif/1.0;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
