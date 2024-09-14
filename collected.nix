@@ -2020,6 +2020,9 @@
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
   };
+  purepng = {
+    "0.2.0" = import ./overrides/purepng/0.2.0;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
