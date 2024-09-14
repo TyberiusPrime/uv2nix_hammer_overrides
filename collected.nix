@@ -2451,6 +2451,9 @@
   pyvoro = {
     "1.3.2" = import ./overrides/pyvoro/1.3.2;
   };
+  pywurfl = {
+    "7.2.1" = import ./overrides/pywurfl/7.2.1;
+  };
   pyxbe = {
     "1.0.3" = import ./overrides/pyxbe/1.0.3;
   };
