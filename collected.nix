@@ -1033,6 +1033,9 @@
   fuzzysearch = {
     "0.7.3" = import ./overrides/fuzzysearch/0.7.3;
   };
+  fysom = {
+    "2.1.6" = import ./overrides/fysom/2.1.6;
+  };
   gaebusiness = {
     "4.5.3" = import ./overrides/gaebusiness/4.5.3;
   };
