@@ -2561,6 +2561,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  ritassist = {
+    "0.9.3" = import ./overrides/ritassist/0.9.3;
+  };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
@@ -2752,6 +2755,9 @@
   };
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
+  };
+  sseclient = {
+    "0.0.27" = import ./overrides/sseclient/0.0.27;
   };
   starline = {
     "0.2.0" = import ./overrides/starline/0.2.0;
