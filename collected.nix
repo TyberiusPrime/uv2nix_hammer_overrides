@@ -1207,6 +1207,9 @@
   httpagentparser = {
     "1.9.5" = import ./overrides/httpagentparser/1.9.5;
   };
+  httpcache = {
+    "0.1.3" = import ./overrides/httpcache/0.1.3;
+  };
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
