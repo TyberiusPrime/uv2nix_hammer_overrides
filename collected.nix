@@ -3063,6 +3063,12 @@
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
+  virtstrap-core = {
+    "0.3.16" = import ./overrides/virtstrap-core/0.3.16;
+  };
+  virtstrap-local = {
+    "0.3.16" = import ./overrides/virtstrap-local/0.3.16;
+  };
   virtualchain = {
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
