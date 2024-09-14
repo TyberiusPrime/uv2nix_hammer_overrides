@@ -419,6 +419,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  cocotb-bus = {
+    "0.2.1" = import ./overrides/cocotb-bus/0.2.1;
+  };
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
