@@ -1870,6 +1870,9 @@
   pandoc = {
     "2.4" = import ./overrides/pandoc/2.4;
   };
+  pangocffi = {
+    "0.13.0" = import ./overrides/pangocffi/0.13.0;
+  };
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
