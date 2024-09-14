@@ -2358,6 +2358,9 @@
   python-instagram = {
     "1.3.2" = import ./overrides/python-instagram/1.3.2;
   };
+  python-interface = {
+    "1.6.1" = import ./overrides/python-interface/1.6.1;
+  };
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
