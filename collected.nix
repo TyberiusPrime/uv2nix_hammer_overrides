@@ -1072,6 +1072,9 @@
   gitlab = {
     "1.0.2" = import ./overrides/gitlab/1.0.2;
   };
+  gitpython = {
+    "1.0.2" = import ./overrides/gitpython/1.0.2;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
@@ -3005,6 +3008,9 @@
   };
   unicodecsv = {
     "0.14.1" = import ./overrides/unicodecsv/0.14.1;
+  };
+  unidecode = {
+    "0.4.16" = import ./overrides/unidecode/0.4.16;
   };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
