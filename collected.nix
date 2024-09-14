@@ -1756,6 +1756,9 @@
   nose-cprof = {
     "0.2.1" = import ./overrides/nose-cprof/0.2.1;
   };
+  nose-exclude = {
+    "0.5.0" = import ./overrides/nose-exclude/0.5.0;
+  };
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
