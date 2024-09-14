@@ -2657,6 +2657,9 @@
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
   };
+  sharedarray = {
+    "3.2.4" = import ./overrides/sharedarray/3.2.4;
+  };
   shopifyapi = {
     "12.6.0" = import ./overrides/shopifyapi/12.6.0;
   };
