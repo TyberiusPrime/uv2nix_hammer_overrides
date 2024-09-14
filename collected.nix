@@ -2195,6 +2195,9 @@
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
+  pyminizip = {
+    "0.2.6" = import ./overrides/pyminizip/0.2.6;
+  };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
