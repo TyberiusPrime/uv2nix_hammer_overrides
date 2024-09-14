@@ -1042,6 +1042,9 @@
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
+  gatspy = {
+    "0.3" = import ./overrides/gatspy/0.3;
+  };
   gazpacho = {
     "1.1" = import ./overrides/gazpacho/1.1;
   };
