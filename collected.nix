@@ -198,6 +198,9 @@
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
+  autopaths = {
+    "1.6.0" = import ./overrides/autopaths/1.6.0;
+  };
   autosemver = {
     "1.0.0" = import ./overrides/autosemver/1.0.0;
   };
@@ -1953,6 +1956,9 @@
   };
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
+  };
+  plumbing = {
+    "2.11.2" = import ./overrides/plumbing/2.11.2;
   };
   ply = {
     "3.8" = import ./overrides/ply/3.8;
