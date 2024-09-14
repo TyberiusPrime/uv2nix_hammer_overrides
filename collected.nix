@@ -2822,6 +2822,9 @@
   telepath = {
     "0.3.1" = import ./overrides/telepath/0.3.1;
   };
+  telepot = {
+    "12.7" = import ./overrides/telepot/12.7;
+  };
   telethon = {
     "1.36.0" = import ./overrides/telethon/1.36.0;
   };
