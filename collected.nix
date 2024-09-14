@@ -3203,6 +3203,9 @@
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
+  yahooweather = {
+    "0.10" = import ./overrides/yahooweather/0.10;
+  };
   yamlcfg = {
     "0.5.3" = import ./overrides/yamlcfg/0.5.3;
   };
