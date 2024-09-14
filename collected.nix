@@ -2090,6 +2090,9 @@
     "3.3.1" = import ./overrides/pycryptodome/3.3.1;
     "3.4.7" = import ./overrides/pycryptodome/3.4.7;
   };
+  pycryptodomex = {
+    "3.9.9" = import ./overrides/pycryptodomex/3.9.9;
+  };
   pydataset = {
     "0.2.0" = import ./overrides/pydataset/0.2.0;
   };
