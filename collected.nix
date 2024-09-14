@@ -912,6 +912,9 @@
   feedgen = {
     "1.0.0" = import ./overrides/feedgen/1.0.0;
   };
+  filebytes = {
+    "0.10.2" = import ./overrides/filebytes/0.10.2;
+  };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
@@ -2566,6 +2569,9 @@
   };
   robotframework-pabot = {
     "2.18.0" = import ./overrides/robotframework-pabot/2.18.0;
+  };
+  ropper = {
+    "1.13.8" = import ./overrides/ropper/1.13.8;
   };
   rouge-score = {
     "0.1.2" = import ./overrides/rouge-score/0.1.2;
