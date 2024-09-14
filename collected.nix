@@ -2285,6 +2285,9 @@
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
   };
+  pysolr = {
+    "3.9.0" = import ./overrides/pysolr/3.9.0;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
