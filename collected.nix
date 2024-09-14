@@ -2979,6 +2979,9 @@
   twitter-common-util = {
     "0.3.11" = import ./overrides/twitter-common-util/0.3.11;
   };
+  twitterapi = {
+    "2.8.2" = import ./overrides/twitterapi/2.8.2;
+  };
   twobitreader = {
     "3.1.7" = import ./overrides/twobitreader/3.1.7;
   };
