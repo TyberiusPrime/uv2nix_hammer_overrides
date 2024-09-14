@@ -1648,6 +1648,9 @@
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
+  money = {
+    "1.3.0" = import ./overrides/money/1.3.0;
+  };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
