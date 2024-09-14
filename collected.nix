@@ -2486,6 +2486,9 @@
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
   };
+  radian = {
+    "0.6.13" = import ./overrides/radian/0.6.13;
+  };
   radical-gtod = {
     "1.81.0" = import ./overrides/radical-gtod/1.81.0;
   };
