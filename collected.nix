@@ -2985,6 +2985,9 @@
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
+  typelike = {
+    "0.0.32" = import ./overrides/typelike/0.0.32;
+  };
   typogrify = {
     "2.0.7" = import ./overrides/typogrify/2.0.7;
   };
