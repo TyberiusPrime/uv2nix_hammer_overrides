@@ -2080,6 +2080,15 @@
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
+  pycopy-cpython-micropython = {
+    "1.0" = import ./overrides/pycopy-cpython-micropython/1.0;
+  };
+  pycopy-cpython-pycopy = {
+    "0.4.1" = import ./overrides/pycopy-cpython-pycopy/0.4.1;
+  };
+  pycopy-cpython-uio = {
+    "0.4" = import ./overrides/pycopy-cpython-uio/0.4;
+  };
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
   };
