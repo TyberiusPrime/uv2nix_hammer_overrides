@@ -1222,6 +1222,9 @@
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
   };
+  ibapi = {
+    "9.81.1.post1" = import ./overrides/ibapi/9.81.1.post1;
+  };
   ibm-cos-sdk-core = {
     "2.13.6" = import ./overrides/ibm-cos-sdk-core/2.13.6;
   };
