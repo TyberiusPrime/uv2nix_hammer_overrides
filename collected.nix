@@ -2261,6 +2261,9 @@
   pyric = {
     "0.1.6.3" = import ./overrides/pyric/0.1.6.3;
   };
+  pyrsistent = {
+    "0.17.4rc1" = import ./overrides/pyrsistent/0.17.4rc1;
+  };
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
   };
