@@ -2675,6 +2675,9 @@
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
+  signalslot = {
+    "0.2.0" = import ./overrides/signalslot/0.2.0;
+  };
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
