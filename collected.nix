@@ -1708,6 +1708,9 @@
   nanotime = {
     "0.5.2" = import ./overrides/nanotime/0.5.2;
   };
+  nats-py = {
+    "2.9.0" = import ./overrides/nats-py/2.9.0;
+  };
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
