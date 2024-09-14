@@ -3102,6 +3102,9 @@
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
   };
+  wallet-py3k = {
+    "0.0.4" = import ./overrides/wallet-py3k/0.0.4;
+  };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
