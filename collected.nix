@@ -2183,6 +2183,9 @@
   pylatexenc = {
     "2.10" = import ./overrides/pylatexenc/2.10;
   };
+  pyleri = {
+    "1.4.3" = import ./overrides/pyleri/1.4.3;
+  };
   pylint-celery = {
     "0.3" = import ./overrides/pylint-celery/0.3;
   };
