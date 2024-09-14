@@ -219,6 +219,9 @@
   backport-collections = {
     "0.1" = import ./overrides/backport-collections/0.1;
   };
+  bar = {
+    "0.2.1" = import ./overrides/bar/0.2.1;
+  };
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
