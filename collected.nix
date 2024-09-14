@@ -1918,6 +1918,12 @@
   pickle-mixin = {
     "1.0.2" = import ./overrides/pickle-mixin/1.0.2;
   };
+  pickle-warehouse = {
+    "0.1.1" = import ./overrides/pickle-warehouse/0.1.1;
+  };
+  picklecache = {
+    "0.0.5" = import ./overrides/picklecache/0.0.5;
+  };
   pickledb = {
     "0.9.2" = import ./overrides/pickledb/0.9.2;
   };
