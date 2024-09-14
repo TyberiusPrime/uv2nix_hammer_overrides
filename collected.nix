@@ -530,6 +530,9 @@
   curio = {
     "1.6" = import ./overrides/curio/1.6;
   };
+  curlify = {
+    "2.2.1" = import ./overrides/curlify/2.2.1;
+  };
   cursor = {
     "1.3.5" = import ./overrides/cursor/1.3.5;
   };
