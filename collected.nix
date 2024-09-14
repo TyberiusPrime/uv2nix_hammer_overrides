@@ -41,6 +41,9 @@
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
+  ago = {
+    "0.0.95" = import ./overrides/ago/0.0.95;
+  };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
@@ -1017,6 +1020,9 @@
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
+  frasco = {
+    "3.5.1" = import ./overrides/frasco/3.5.1;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
@@ -1320,6 +1326,9 @@
   };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
+  };
+  jinja-macro-tags = {
+    "0.2" = import ./overrides/jinja-macro-tags/0.2;
   };
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
@@ -2791,6 +2800,9 @@
   };
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
+  };
+  suds-py3 = {
+    "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
