@@ -219,6 +219,9 @@
   backport-collections = {
     "0.1" = import ./overrides/backport-collections/0.1;
   };
+  backports-strenum = {
+    "1.1.1" = import ./overrides/backports-strenum/1.1.1;
+  };
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
@@ -350,6 +353,9 @@
   };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
+  };
+  cleandev-config-loader = {
+    "0.3.5" = import ./overrides/cleandev-config-loader/0.3.5;
   };
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
