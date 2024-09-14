@@ -672,6 +672,9 @@
   django-datetime-widget = {
     "0.9.3" = import ./overrides/django-datetime-widget/0.9.3;
   };
+  django-deprecate-fields = {
+    "0.1.2" = import ./overrides/django-deprecate-fields/0.1.2;
+  };
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
