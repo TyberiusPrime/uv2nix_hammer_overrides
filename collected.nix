@@ -1258,6 +1258,9 @@
   impacket = {
     "0.11.0" = import ./overrides/impacket/0.11.0;
   };
+  imutils = {
+    "0.5.4" = import ./overrides/imutils/0.5.4;
+  };
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
