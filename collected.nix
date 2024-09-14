@@ -1687,6 +1687,9 @@
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
+  music-tag = {
+    "0.4.3" = import ./overrides/music-tag/0.4.3;
+  };
   mutesync = {
     "0.0.2" = import ./overrides/mutesync/0.0.2;
   };
