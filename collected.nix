@@ -2991,6 +2991,9 @@
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
   };
+  udatetime = {
+    "0.0.17" = import ./overrides/udatetime/0.0.17;
+  };
   uflash = {
     "2.0.0" = import ./overrides/uflash/2.0.0;
   };
