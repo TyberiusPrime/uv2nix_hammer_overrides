@@ -825,6 +825,9 @@
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
+  easy-config = {
+    "0.2.0" = import ./overrides/easy-config/0.2.0;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
@@ -2500,6 +2503,9 @@
   };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
+  };
+  ratelimit = {
+    "2.2.1" = import ./overrides/ratelimit/2.2.1;
   };
   rattail = {
     "0.18.11" = import ./overrides/rattail/0.18.11;
