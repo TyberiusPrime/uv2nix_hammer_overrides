@@ -2549,6 +2549,9 @@
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
+  restructuredtext-lint = {
+    "1.4.0" = import ./overrides/restructuredtext-lint/1.4.0;
+  };
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
