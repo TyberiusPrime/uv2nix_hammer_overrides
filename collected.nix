@@ -2023,6 +2023,9 @@
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
+  py-air-control-exporter = {
+    "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
+  };
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
   };
