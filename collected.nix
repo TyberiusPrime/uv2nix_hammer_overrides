@@ -2279,6 +2279,9 @@
   pysigset = {
     "0.4.0" = import ./overrides/pysigset/0.4.0;
   };
+  pysistence = {
+    "0.4.1" = import ./overrides/pysistence/0.4.1;
+  };
   pysmarthome = {
     "3.1.1" = import ./overrides/pysmarthome/3.1.1;
   };
