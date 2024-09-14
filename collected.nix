@@ -1144,6 +1144,9 @@
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
+  halo = {
+    "0.0.31" = import ./overrides/halo/0.0.31;
+  };
   handout = {
     "1.1.2" = import ./overrides/handout/1.1.2;
   };
@@ -1686,6 +1689,9 @@
   };
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
+  };
+  murmuration = {
+    "1.4" = import ./overrides/murmuration/1.4;
   };
   mutesync = {
     "0.0.2" = import ./overrides/mutesync/0.0.2;
@@ -3101,6 +3107,9 @@
   };
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
+  };
+  waddle = {
+    "1.8" = import ./overrides/waddle/1.8;
   };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
