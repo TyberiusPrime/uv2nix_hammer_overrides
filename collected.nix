@@ -1681,6 +1681,9 @@
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
+  multi-key-dict = {
+    "2.0.3" = import ./overrides/multi-key-dict/2.0.3;
+  };
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
