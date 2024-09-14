@@ -1600,6 +1600,15 @@
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
+  metadir = {
+    "0.0.2" = import ./overrides/metadir/0.0.2;
+  };
+  metaform = {
+    "1.0.2.4" = import ./overrides/metaform/1.0.2.4;
+  };
+  metawiki = {
+    "0.1.13" = import ./overrides/metawiki/0.1.13;
+  };
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
   };
@@ -2987,6 +2996,9 @@
   };
   typogrify = {
     "2.0.7" = import ./overrides/typogrify/2.0.7;
+  };
+  typology = {
+    "0.2.3" = import ./overrides/typology/0.2.3;
   };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
