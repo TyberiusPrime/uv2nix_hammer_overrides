@@ -1453,6 +1453,9 @@
   lesscli = {
     "0.2.1" = import ./overrides/lesscli/0.2.1;
   };
+  libais = {
+    "0.17" = import ./overrides/libais/0.17;
+  };
   libclang-py3 = {
     "3.9.0" = import ./overrides/libclang-py3/3.9.0;
   };
