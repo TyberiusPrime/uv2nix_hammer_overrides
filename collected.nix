@@ -2792,6 +2792,9 @@
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
   };
+  surt = {
+    "0.3.1" = import ./overrides/surt/0.3.1;
+  };
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
   };
