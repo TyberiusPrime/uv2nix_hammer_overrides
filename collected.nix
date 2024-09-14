@@ -3200,6 +3200,9 @@
   xmlbuilder = {
     "1.0" = import ./overrides/xmlbuilder/1.0;
   };
+  xobjects = {
+    "0.4.4" = import ./overrides/xobjects/0.4.4;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
