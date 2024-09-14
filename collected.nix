@@ -1093,6 +1093,9 @@
   googlemaps = {
     "4.10.0" = import ./overrides/googlemaps/4.10.0;
   };
+  gpgrecord = {
+    "0.0.5" = import ./overrides/gpgrecord/0.0.5;
+  };
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
@@ -1599,6 +1602,12 @@
   };
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
+  };
+  metatype = {
+    "0.1.3.7" = import ./overrides/metatype/0.1.3.7;
+  };
+  metawiki = {
+    "0.1.13" = import ./overrides/metawiki/0.1.13;
   };
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
@@ -2987,6 +2996,9 @@
   };
   typogrify = {
     "2.0.7" = import ./overrides/typogrify/2.0.7;
+  };
+  typology = {
+    "0.2.3" = import ./overrides/typology/0.2.3;
   };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
