@@ -566,6 +566,9 @@
   daemonocle = {
     "1.2.3" = import ./overrides/daemonocle/1.2.3;
   };
+  daemons = {
+    "1.3.2" = import ./overrides/daemons/1.3.2;
+  };
   daff = {
     "1.3.46" = import ./overrides/daff/1.3.46;
   };
