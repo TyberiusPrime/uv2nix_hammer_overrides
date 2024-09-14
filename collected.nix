@@ -605,6 +605,9 @@
   demands = {
     "3.0.0" = import ./overrides/demands/3.0.0;
   };
+  dexy = {
+    "2.0.9" = import ./overrides/dexy/2.0.9;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
@@ -2405,6 +2408,9 @@
   };
   python-wink = {
     "1.10.5" = import ./overrides/python-wink/1.10.5;
+  };
+  python3-modargs = {
+    "2.0.2" = import ./overrides/python3-modargs/2.0.2;
   };
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
