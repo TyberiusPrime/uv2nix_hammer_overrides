@@ -2657,6 +2657,9 @@
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
   };
+  shinkenplugins = {
+    "0.4.2" = import ./overrides/shinkenplugins/0.4.2;
+  };
   shopifyapi = {
     "12.6.0" = import ./overrides/shopifyapi/12.6.0;
   };
