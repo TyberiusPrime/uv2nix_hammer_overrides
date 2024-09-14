@@ -2711,6 +2711,9 @@
   solrpy = {
     "1.0.0" = import ./overrides/solrpy/1.0.0;
   };
+  sonopy = {
+    "0.1.2" = import ./overrides/sonopy/0.1.2;
+  };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
