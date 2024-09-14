@@ -1960,6 +1960,9 @@
   pmsensor = {
     "0.4" = import ./overrides/pmsensor/0.4;
   };
+  pmw = {
+    "2.1.1" = import ./overrides/pmw/2.1.1;
+  };
   pocket = {
     "0.3.6" = import ./overrides/pocket/0.3.6;
   };
@@ -2067,6 +2070,9 @@
   };
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
+  };
+  pycifrw = {
+    "4.4.6" = import ./overrides/pycifrw/4.4.6;
   };
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
