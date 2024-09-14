@@ -1390,6 +1390,9 @@
   kachery-cloud = {
     "0.4.9" = import ./overrides/kachery-cloud/0.4.9;
   };
+  kafnafparserpy = {
+    "1.896" = import ./overrides/kafnafparserpy/1.896;
+  };
   kaggle = {
     "1.6.17" = import ./overrides/kaggle/1.6.17;
   };
