@@ -246,6 +246,9 @@
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
   };
+  bencode = {
+    "1.0" = import ./overrides/bencode/1.0;
+  };
   betacode = {
     "1.0" = import ./overrides/betacode/1.0;
   };
@@ -2500,6 +2503,9 @@
   };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
+  };
+  rask = {
+    "0.1.5" = import ./overrides/rask/0.1.5;
   };
   rattail = {
     "0.18.11" = import ./overrides/rattail/0.18.11;
