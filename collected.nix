@@ -1844,6 +1844,9 @@
   optional-django = {
     "0.3.0" = import ./overrides/optional-django/0.3.0;
   };
+  optproblems = {
+    "1.3" = import ./overrides/optproblems/1.3;
+  };
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
