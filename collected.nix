@@ -1702,6 +1702,9 @@
   nad-receiver = {
     "0.3.0" = import ./overrides/nad-receiver/0.3.0;
   };
+  names = {
+    "0.3.0" = import ./overrides/names/0.3.0;
+  };
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
   };
