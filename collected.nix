@@ -2753,6 +2753,9 @@
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
+  srvlookup = {
+    "3.0.0" = import ./overrides/srvlookup/3.0.0;
+  };
   starline = {
     "0.2.0" = import ./overrides/starline/0.2.0;
   };
