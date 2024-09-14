@@ -2549,6 +2549,9 @@
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
+  retranslator = {
+    "0.2.2" = import ./overrides/retranslator/0.2.2;
+  };
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
