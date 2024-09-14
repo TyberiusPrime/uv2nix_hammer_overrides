@@ -1808,6 +1808,9 @@
   onetimepass = {
     "1.0.1" = import ./overrides/onetimepass/1.0.1;
   };
+  onetrick = {
+    "2.1.1" = import ./overrides/onetrick/2.1.1;
+  };
   onkyo-eiscp = {
     "1.2.7" = import ./overrides/onkyo-eiscp/1.2.7;
   };
