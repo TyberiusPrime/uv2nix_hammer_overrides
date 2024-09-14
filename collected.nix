@@ -1912,6 +1912,9 @@
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
   };
+  phonetics = {
+    "1.0.5" = import ./overrides/phonetics/1.0.5;
+  };
   phpserialize = {
     "1.3" = import ./overrides/phpserialize/1.3;
   };
