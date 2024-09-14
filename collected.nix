@@ -825,6 +825,9 @@
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
+  easycli = {
+    "1.9.3" = import ./overrides/easycli/1.9.3;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
