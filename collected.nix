@@ -2828,6 +2828,9 @@
   tempdir = {
     "0.7.1" = import ./overrides/tempdir/0.7.1;
   };
+  temppathlib = {
+    "1.2.0" = import ./overrides/temppathlib/1.2.0;
+  };
   tendril-utils-core = {
     "0.5.20" = import ./overrides/tendril-utils-core/0.5.20;
   };
