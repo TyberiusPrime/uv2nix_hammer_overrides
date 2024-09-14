@@ -41,6 +41,9 @@
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
+  aido-protocols-daffy = {
+    "6.1.1" = import ./overrides/aido-protocols-daffy/6.1.1;
+  };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
