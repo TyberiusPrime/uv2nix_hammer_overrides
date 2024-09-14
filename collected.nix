@@ -1642,6 +1642,9 @@
   mock-open = {
     "1.4.0" = import ./overrides/mock-open/1.4.0;
   };
+  mock-services = {
+    "0.3.1" = import ./overrides/mock-services/0.3.1;
+  };
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
