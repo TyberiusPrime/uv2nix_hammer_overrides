@@ -455,6 +455,9 @@
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
+  consolemsg = {
+    "0.3.3" = import ./overrides/consolemsg/0.3.3;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
