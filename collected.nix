@@ -3102,6 +3102,9 @@
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
   };
+  volvooncall = {
+    "0.10.4" = import ./overrides/volvooncall/0.10.4;
+  };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
