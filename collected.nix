@@ -1087,6 +1087,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  google-images-download = {
+    "2.8.0" = import ./overrides/google-images-download/2.8.0;
+  };
   googleads = {
     "43.0.0" = import ./overrides/googleads/43.0.0;
   };
