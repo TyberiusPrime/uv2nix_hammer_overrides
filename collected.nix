@@ -1375,6 +1375,9 @@
   jstyleson = {
     "0.0.2" = import ./overrides/jstyleson/0.0.2;
   };
+  jujuclient = {
+    "0.54.0" = import ./overrides/jujuclient/0.54.0;
+  };
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
