@@ -867,6 +867,9 @@
   espeak-phonemizer = {
     "1.3.1" = import ./overrides/espeak-phonemizer/1.3.1;
   };
+  etcd3 = {
+    "0.12.0" = import ./overrides/etcd3/0.12.0;
+  };
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
