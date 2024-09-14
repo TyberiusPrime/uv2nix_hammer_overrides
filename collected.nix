@@ -1969,6 +1969,9 @@
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
+  prettyconf = {
+    "2.2.1" = import ./overrides/prettyconf/2.2.1;
+  };
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
