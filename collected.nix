@@ -1873,6 +1873,9 @@
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
+  paramtools = {
+    "0.18.3" = import ./overrides/paramtools/0.18.3;
+  };
   parse = {
     "1.6.5" = import ./overrides/parse/1.6.5;
   };
