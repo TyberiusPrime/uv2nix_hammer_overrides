@@ -117,6 +117,9 @@
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
+  aqualogic = {
+    "3.4" = import ./overrides/aqualogic/3.4;
+  };
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
