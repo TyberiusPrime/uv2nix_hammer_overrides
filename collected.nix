@@ -2510,6 +2510,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  reana-commons = {
+    "0.9.8" = import ./overrides/reana-commons/0.9.8;
+  };
   reconfigure = {
     "0.1.82" = import ./overrides/reconfigure/0.1.82;
   };
@@ -2779,6 +2782,9 @@
   };
   strict-functions = {
     "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
+  };
+  strict-rfc3339 = {
+    "0.7" = import ./overrides/strict-rfc3339/0.7;
   };
   stringcase = {
     "1.2.0" = import ./overrides/stringcase/1.2.0;
