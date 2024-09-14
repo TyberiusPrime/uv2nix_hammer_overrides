@@ -3018,6 +3018,9 @@
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
+  urlparse2 = {
+    "1.1.1" = import ./overrides/urlparse2/1.1.1;
+  };
   urwid = {
     "2.1.2" = import ./overrides/urwid/2.1.2;
   };
