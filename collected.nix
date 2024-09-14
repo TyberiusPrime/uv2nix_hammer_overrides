@@ -2002,6 +2002,9 @@
   proto-google-cloud-datastore-v1 = {
     "0.90.4" = import ./overrides/proto-google-cloud-datastore-v1/0.90.4;
   };
+  protobuf3-to-dict = {
+    "0.1.5" = import ./overrides/protobuf3-to-dict/0.1.5;
+  };
   protocoin = {
     "0.2" = import ./overrides/protocoin/0.2;
   };
