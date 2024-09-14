@@ -1543,6 +1543,9 @@
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
+  lottie = {
+    "0.7.0" = import ./overrides/lottie/0.7.0;
+  };
   lru-dict = {
     "1.2.0" = import ./overrides/lru-dict/1.2.0;
   };
@@ -3005,6 +3008,9 @@
   };
   unicodecsv = {
     "0.14.1" = import ./overrides/unicodecsv/0.14.1;
+  };
+  unified-message-relay = {
+    "4.2" = import ./overrides/unified-message-relay/4.2;
   };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
