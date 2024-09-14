@@ -44,6 +44,9 @@
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
+  aiohttp-apispec = {
+    "2.2.3" = import ./overrides/aiohttp-apispec/2.2.3;
+  };
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
