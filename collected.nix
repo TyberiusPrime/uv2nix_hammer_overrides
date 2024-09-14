@@ -3063,6 +3063,9 @@
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
+  vincenty = {
+    "0.1.4" = import ./overrides/vincenty/0.1.4;
+  };
   virtualchain = {
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
