@@ -1210,6 +1210,9 @@
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
+  huepy = {
+    "1.2.1" = import ./overrides/huepy/1.2.1;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
