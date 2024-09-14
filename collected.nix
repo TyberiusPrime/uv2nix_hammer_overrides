@@ -1108,6 +1108,9 @@
   greenlet = {
     "3.1.0" = import ./overrides/greenlet/3.1.0;
   };
+  gripcontrol = {
+    "4.2.0" = import ./overrides/gripcontrol/4.2.0;
+  };
   grpc-google-logging-v2 = {
     "0.11.1" = import ./overrides/grpc-google-logging-v2/0.11.1;
   };
@@ -2013,6 +2016,9 @@
   };
   ptest = {
     "2.0.3" = import ./overrides/ptest/2.0.3;
+  };
+  pubcontrol = {
+    "3.5.0" = import ./overrides/pubcontrol/3.5.0;
   };
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
