@@ -2705,6 +2705,9 @@
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
+  socketio-client-2 = {
+    "0.7.5" = import ./overrides/socketio-client-2/0.7.5;
+  };
   sockjs-tornado = {
     "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
   };
