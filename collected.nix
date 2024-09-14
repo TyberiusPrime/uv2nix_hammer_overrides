@@ -912,6 +912,9 @@
   feedgen = {
     "1.0.0" = import ./overrides/feedgen/1.0.0;
   };
+  filebytes = {
+    "0.10.2" = import ./overrides/filebytes/0.10.2;
+  };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
