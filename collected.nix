@@ -2997,6 +2997,9 @@
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
   };
+  umalqurra = {
+    "0.2" = import ./overrides/umalqurra/0.2;
+  };
   umap = {
     "0.1.1" = import ./overrides/umap/0.1.1;
   };
