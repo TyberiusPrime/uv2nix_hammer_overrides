@@ -422,6 +422,9 @@
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
+  colorconsole = {
+    "0.8.0" = import ./overrides/colorconsole/0.8.0;
+  };
   colormath = {
     "3.0.0" = import ./overrides/colormath/3.0.0;
   };
