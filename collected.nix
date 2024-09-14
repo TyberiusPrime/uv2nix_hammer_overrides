@@ -642,6 +642,9 @@
   django-annoying = {
     "0.10.7" = import ./overrides/django-annoying/0.10.7;
   };
+  django-apptemplates = {
+    "1.5" = import ./overrides/django-apptemplates/1.5;
+  };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
   };
