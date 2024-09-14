@@ -324,6 +324,9 @@
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
+  caveclient = {
+    "5.29.1" = import ./overrides/caveclient/5.29.1;
+  };
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
