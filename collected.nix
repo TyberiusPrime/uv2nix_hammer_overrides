@@ -2448,6 +2448,9 @@
   pyvlx = {
     "0.2.23" = import ./overrides/pyvlx/0.2.23;
   };
+  pyvmomi = {
+    "8.0.3.0.1" = import ./overrides/pyvmomi/8.0.3.0.1;
+  };
   pyvoro = {
     "1.3.2" = import ./overrides/pyvoro/1.3.2;
   };
