@@ -1153,6 +1153,9 @@
   hanziconv = {
     "0.3.2" = import ./overrides/hanziconv/0.3.2;
   };
+  hapiclient = {
+    "0.2.6" = import ./overrides/hapiclient/0.2.6;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
