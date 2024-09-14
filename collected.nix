@@ -300,6 +300,9 @@
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
   };
+  bw2calc = {
+    "1.8.2" = import ./overrides/bw2calc/1.8.2;
+  };
   bw2data = {
     "3.6.6" = import ./overrides/bw2data/3.6.6;
   };
