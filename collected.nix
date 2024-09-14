@@ -876,6 +876,9 @@
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
+  ewmh = {
+    "0.1.6" = import ./overrides/ewmh/0.1.6;
+  };
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
