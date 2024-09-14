@@ -1648,6 +1648,9 @@
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
+  mongodict = {
+    "0.3.1" = import ./overrides/mongodict/0.3.1;
+  };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
