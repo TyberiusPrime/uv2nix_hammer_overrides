@@ -2361,6 +2361,9 @@
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
+  python-ldap-test = {
+    "0.3.1" = import ./overrides/python-ldap-test/0.3.1;
+  };
   python-libnmap = {
     "0.7.3" = import ./overrides/python-libnmap/0.7.3;
   };
