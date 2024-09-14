@@ -1853,6 +1853,9 @@
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
   };
+  osm2geojson = {
+    "0.2.5" = import ./overrides/osm2geojson/0.2.5;
+  };
   paginator = {
     "0.5.1" = import ./overrides/paginator/0.5.1;
   };
