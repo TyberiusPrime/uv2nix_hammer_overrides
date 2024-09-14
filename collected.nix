@@ -3036,6 +3036,9 @@
   utils = {
     "1.0.2" = import ./overrides/utils/1.0.2;
   };
+  utilum = {
+    "0.1.3" = import ./overrides/utilum/0.1.3;
+  };
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
   };
