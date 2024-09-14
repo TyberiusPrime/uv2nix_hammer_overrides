@@ -1459,6 +1459,9 @@
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
+  libfsntfs-python = {
+    "20240501" = import ./overrides/libfsntfs-python/20240501;
+  };
   libmagic = {
     "1.0" = import ./overrides/libmagic/1.0;
   };
