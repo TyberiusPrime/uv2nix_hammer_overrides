@@ -2192,6 +2192,9 @@
   pylzma = {
     "0.5.0" = import ./overrides/pylzma/0.5.0;
   };
+  pymeeus = {
+    "0.5.12" = import ./overrides/pymeeus/0.5.12;
+  };
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
