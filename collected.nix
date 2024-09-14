@@ -342,6 +342,9 @@
   cgen = {
     "2020.1" = import ./overrides/cgen/2020.1;
   };
+  charlesbot = {
+    "0.10.1" = import ./overrides/charlesbot/0.10.1;
+  };
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
@@ -2692,6 +2695,9 @@
   };
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
+  };
+  slackclient = {
+    "0.16" = import ./overrides/slackclient/0.16;
   };
   slacker = {
     "0.14.0" = import ./overrides/slacker/0.14.0;
