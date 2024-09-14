@@ -837,6 +837,9 @@
   ebooklib = {
     "0.18" = import ./overrides/ebooklib/0.18;
   };
+  ecmwf-api-client = {
+    "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
+  };
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
