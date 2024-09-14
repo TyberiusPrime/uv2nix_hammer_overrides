@@ -3015,6 +3015,9 @@
   unqlite = {
     "0.9.6" = import ./overrides/unqlite/0.9.6;
   };
+  untokenize = {
+    "0.1.1" = import ./overrides/untokenize/0.1.1;
+  };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
