@@ -1477,6 +1477,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  licorice = {
+    "0.0.7" = import ./overrides/licorice/0.0.7;
+  };
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
@@ -1968,6 +1971,9 @@
   };
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
+  };
+  posix-ipc = {
+    "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
@@ -2656,6 +2662,9 @@
   };
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
+  };
+  sharedarray = {
+    "3.2.4" = import ./overrides/sharedarray/3.2.4;
   };
   shopifyapi = {
     "12.6.0" = import ./overrides/shopifyapi/12.6.0;
