@@ -1564,6 +1564,9 @@
   mailmanclient = {
     "3.3.5" = import ./overrides/mailmanclient/3.3.5;
   };
+  manage-py = {
+    "0.2.10" = import ./overrides/manage-py/0.2.10;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
