@@ -2337,6 +2337,9 @@
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
+  python-ev3dev2 = {
+    "2.1.0.post1" = import ./overrides/python-ev3dev2/2.1.0.post1;
+  };
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
