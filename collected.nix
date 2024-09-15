@@ -1456,6 +1456,9 @@
   gmusicapi = {
     "13.0.0" = import ./overrides/gmusicapi/13.0.0;
   };
+  gnupg = {
+    "2.3.1" = import ./overrides/gnupg/2.3.1;
+  };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
