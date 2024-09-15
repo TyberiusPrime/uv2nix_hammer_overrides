@@ -189,6 +189,9 @@
   asyncmy = {
     "0.2.9" = import ./overrides/asyncmy/0.2.9;
   };
+  asyncpgsa = {
+    "0.27.1" = import ./overrides/asyncpgsa/0.27.1;
+  };
   atomicwrites = {
     "1.4.1" = import ./overrides/atomicwrites/1.4.1;
   };
