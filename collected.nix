@@ -2302,6 +2302,9 @@
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
   };
+  pwinput = {
+    "1.0.3" = import ./overrides/pwinput/1.0.3;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
