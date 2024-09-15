@@ -2702,6 +2702,9 @@
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
+  snaptime = {
+    "0.2.4" = import ./overrides/snaptime/0.2.4;
+  };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
