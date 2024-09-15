@@ -482,6 +482,9 @@
   coreschema = {
     "0.0.4" = import ./overrides/coreschema/0.0.4;
   };
+  couleur = {
+    "0.7.4" = import ./overrides/couleur/0.7.4;
+  };
   cov-core = {
     "1.15.0" = import ./overrides/cov-core/1.15.0;
   };
@@ -1452,6 +1455,9 @@
   };
   lesscli = {
     "0.2.1" = import ./overrides/lesscli/0.2.1;
+  };
+  lettuce = {
+    "0.2.23" = import ./overrides/lettuce/0.2.23;
   };
   libclang-py3 = {
     "3.9.0" = import ./overrides/libclang-py3/3.9.0;
@@ -2791,6 +2797,9 @@
   };
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
+  };
+  sure = {
+    "3.0a2" = import ./overrides/sure/3.0a2;
   };
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
