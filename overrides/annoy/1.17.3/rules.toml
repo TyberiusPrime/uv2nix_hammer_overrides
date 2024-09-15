@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:annoy/1.17.3/default.nix"
