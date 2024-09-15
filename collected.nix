@@ -4417,6 +4417,9 @@
   rpmfluff = {
     "0.6.5" = import ./overrides/rpmfluff/0.6.5;
   };
+  rq = {
+    "1.0" = import ./overrides/rq/1.0;
+  };
   rrcf = {
     "0.4.4" = import ./overrides/rrcf/0.4.4;
   };
