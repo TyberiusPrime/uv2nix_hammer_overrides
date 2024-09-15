@@ -2819,6 +2819,9 @@
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
+  tba-api-v3client = {
+    "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
+  };
   telepath = {
     "0.3.1" = import ./overrides/telepath/0.3.1;
   };
