@@ -2885,6 +2885,9 @@
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
+  toml-py = {
+    "0.1.7" = import ./overrides/toml-py/0.1.7;
+  };
   tonyg-rfc3339 = {
     "0.1" = import ./overrides/tonyg-rfc3339/0.1;
   };
