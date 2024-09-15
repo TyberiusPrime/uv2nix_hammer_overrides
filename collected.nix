@@ -1180,6 +1180,9 @@
   hkdf = {
     "0.0.3" = import ./overrides/hkdf/0.0.3;
   };
+  hole = {
+    "0.8.0" = import ./overrides/hole/0.8.0;
+  };
   homura = {
     "0.1.5" = import ./overrides/homura/0.1.5;
   };
