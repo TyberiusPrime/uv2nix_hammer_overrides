@@ -4184,6 +4184,9 @@
   sqlmap = {
     "1.8.9" = import ./overrides/sqlmap/1.8.9;
   };
+  sqre-apikit = {
+    "0.1.3" = import ./overrides/sqre-apikit/0.1.3;
+  };
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
