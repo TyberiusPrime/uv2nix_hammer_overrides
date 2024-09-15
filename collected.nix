@@ -3971,6 +3971,9 @@
   scandir = {
     "1.10.0" = import ./overrides/scandir/1.10.0;
   };
+  scapy = {
+    "2.5.0" = import ./overrides/scapy/2.5.0;
+  };
   scapy-python3 = {
     "0.26" = import ./overrides/scapy-python3/0.26;
   };
