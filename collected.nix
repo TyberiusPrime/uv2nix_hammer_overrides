@@ -2302,6 +2302,9 @@
   pyblake2 = {
     "1.1.2" = import ./overrides/pyblake2/1.1.2;
   };
+  pybloom-live = {
+    "4.0.0" = import ./overrides/pybloom-live/4.0.0;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
