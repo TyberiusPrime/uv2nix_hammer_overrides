@@ -1838,6 +1838,9 @@
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
+  opentypespec = {
+    "1.9.1" = import ./overrides/opentypespec/1.9.1;
+  };
   opster = {
     "5.0" = import ./overrides/opster/5.0;
   };
