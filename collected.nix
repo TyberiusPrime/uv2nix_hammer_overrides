@@ -141,6 +141,9 @@
   arrayterator = {
     "1.0.1" = import ./overrides/arrayterator/1.0.1;
   };
+  artellapipe-config = {
+    "0.0.32" = import ./overrides/artellapipe-config/0.0.32;
+  };
   ascii-graph = {
     "1.5.1" = import ./overrides/ascii-graph/1.5.1;
   };
