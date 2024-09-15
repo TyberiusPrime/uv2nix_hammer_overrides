@@ -1317,6 +1317,9 @@
   flask-kvsession-invenio = {
     "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
   };
+  flask-limiter = {
+    "1.1.0" = import ./overrides/flask-limiter/1.1.0;
+  };
   flask-login = {
     "0.2.11" = import ./overrides/flask-login/0.2.11;
   };
