@@ -2567,6 +2567,9 @@
   robotframework-pabot = {
     "2.18.0" = import ./overrides/robotframework-pabot/2.18.0;
   };
+  robotframework-sshlibrary = {
+    "3.8.0" = import ./overrides/robotframework-sshlibrary/3.8.0;
+  };
   rouge-score = {
     "0.1.2" = import ./overrides/rouge-score/0.1.2;
   };
