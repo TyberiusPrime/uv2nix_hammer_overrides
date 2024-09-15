@@ -1057,6 +1057,9 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-el-pagination = {
+    "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
+  };
   django-fernet-fields = {
     "0.6" = import ./overrides/django-fernet-fields/0.6;
   };
@@ -1116,6 +1119,9 @@
   };
   django-pglocks = {
     "1.0.4" = import ./overrides/django-pglocks/1.0.4;
+  };
+  django-phonenumber-field = {
+    "1.3.0" = import ./overrides/django-phonenumber-field/1.3.0;
   };
   django-preferences = {
     "1.0.0" = import ./overrides/django-preferences/1.0.0;
@@ -1203,6 +1209,9 @@
   };
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
+  };
+  django-treebeard = {
+    "4.2.0" = import ./overrides/django-treebeard/4.2.0;
   };
   django-ultracache = {
     "2.2" = import ./overrides/django-ultracache/2.2;
@@ -1749,6 +1758,7 @@
     "1.0.2" = import ./overrides/gitlab/1.0.2;
   };
   gitpython = {
+    "1.0.1" = import ./overrides/gitpython/1.0.1;
     "1.0.2" = import ./overrides/gitpython/1.0.2;
   };
   glob2 = {
@@ -1929,6 +1939,9 @@
   hrpc = {
     "1.0.9" = import ./overrides/hrpc/1.0.9;
   };
+  html2markdown = {
+    "0.1.7" = import ./overrides/html2markdown/0.1.7;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
@@ -2039,6 +2052,9 @@
   };
   image = {
     "1.5.33" = import ./overrides/image/1.5.33;
+  };
+  imagehash = {
+    "3.4" = import ./overrides/imagehash/3.4;
   };
   imageio = {
     "2.1.2" = import ./overrides/imageio/2.1.2;
@@ -5199,6 +5215,9 @@
   };
   uflash = {
     "2.0.0" = import ./overrides/uflash/2.0.0;
+  };
+  ujson = {
+    "1.35" = import ./overrides/ujson/1.35;
   };
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
