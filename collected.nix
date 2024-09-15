@@ -50,6 +50,9 @@
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
+  agent-py = {
+    "0.0.23" = import ./overrides/agent-py/0.0.23;
+  };
   ago = {
     "0.0.95" = import ./overrides/ago/0.0.95;
   };
