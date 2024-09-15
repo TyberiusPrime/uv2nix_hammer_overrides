@@ -2841,6 +2841,9 @@
   ndms2-client = {
     "0.1.3" = import ./overrides/ndms2-client/0.1.3;
   };
+  neo4j = {
+    "5.19.0" = import ./overrides/neo4j/5.19.0;
+  };
   neo4j-driver = {
     "5.24.0" = import ./overrides/neo4j-driver/5.24.0;
   };
