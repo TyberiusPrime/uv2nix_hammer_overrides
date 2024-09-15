@@ -1913,6 +1913,9 @@
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
+  opentracing = {
+    "2.4.0" = import ./overrides/opentracing/2.4.0;
+  };
   opster = {
     "5.0" = import ./overrides/opster/5.0;
   };
@@ -3017,6 +3020,9 @@
   };
   tornadis = {
     "0.8.1" = import ./overrides/tornadis/0.8.1;
+  };
+  tornado = {
+    "5.1.1" = import ./overrides/tornado/5.1.1;
   };
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
