@@ -4331,6 +4331,9 @@
   singleton-decorator = {
     "1.0.0" = import ./overrides/singleton-decorator/1.0.0;
   };
+  singleton3 = {
+    "1.0" = import ./overrides/singleton3/1.0;
+  };
   siphash = {
     "0.0.1" = import ./overrides/siphash/0.0.1;
   };
