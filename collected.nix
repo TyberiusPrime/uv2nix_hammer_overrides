@@ -1576,6 +1576,9 @@
   idx2numpy = {
     "1.2.3" = import ./overrides/idx2numpy/1.2.3;
   };
+  ifconfig-parser = {
+    "0.0.5" = import ./overrides/ifconfig-parser/0.0.5;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
