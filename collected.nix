@@ -2120,6 +2120,9 @@
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
+  pyfab = {
+    "0.3.6" = import ./overrides/pyfab/0.3.6;
+  };
   pyfakewebcam = {
     "0.1.0" = import ./overrides/pyfakewebcam/0.1.0;
   };
@@ -2482,6 +2485,9 @@
   };
   quantile-python = {
     "1.1" = import ./overrides/quantile-python/1.1;
+  };
+  quantiphyse-fabber = {
+    "0.9.2" = import ./overrides/quantiphyse-fabber/0.9.2;
   };
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
