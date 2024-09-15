@@ -975,6 +975,9 @@
   flask-markdown = {
     "0.3" = import ./overrides/flask-markdown/0.3;
   };
+  flask-nav = {
+    "0.6" = import ./overrides/flask-nav/0.6;
+  };
   flask-oauth = {
     "0.12" = import ./overrides/flask-oauth/0.12;
   };
