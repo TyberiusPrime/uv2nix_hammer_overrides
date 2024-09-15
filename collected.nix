@@ -4063,6 +4063,9 @@
   tubeup = {
     "2023.9.19" = import ./overrides/tubeup/2023.9.19;
   };
+  tvdb-api = {
+    "3.1.0" = import ./overrides/tvdb-api/3.1.0;
+  };
   twitter-common-contextutil = {
     "0.3.11" = import ./overrides/twitter-common-contextutil/0.3.11;
   };
