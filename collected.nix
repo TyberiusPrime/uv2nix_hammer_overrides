@@ -3359,6 +3359,9 @@
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
+  prettytable = {
+    "0.7.2" = import ./overrides/prettytable/0.7.2;
+  };
   proboscis = {
     "1.2.6.0" = import ./overrides/proboscis/1.2.6.0;
   };
