@@ -3287,6 +3287,9 @@
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
+  socketio-client = {
+    "0.7.2" = import ./overrides/socketio-client/0.7.2;
+  };
   socketio-client-2 = {
     "0.7.5" = import ./overrides/socketio-client-2/0.7.5;
   };
