@@ -2934,6 +2934,9 @@
   trading-calendars = {
     "2.1.1" = import ./overrides/trading-calendars/2.1.1;
   };
+  translitcodec = {
+    "0.7.0" = import ./overrides/translitcodec/0.7.0;
+  };
   transpyler = {
     "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
