@@ -1534,6 +1534,9 @@
   logstash-formatter = {
     "0.5.17" = import ./overrides/logstash-formatter/0.5.17;
   };
+  logstats = {
+    "0.3.0" = import ./overrides/logstats/0.3.0;
+  };
   logster = {
     "0.10.0" = import ./overrides/logster/0.10.0;
   };
