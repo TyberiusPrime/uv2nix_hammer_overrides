@@ -2192,6 +2192,9 @@
   pylzma = {
     "0.5.0" = import ./overrides/pylzma/0.5.0;
   };
+  pymailgunner = {
+    "1.5" = import ./overrides/pymailgunner/1.5;
+  };
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
