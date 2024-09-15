@@ -3755,6 +3755,9 @@
   sharedmem = {
     "0.3.8" = import ./overrides/sharedmem/0.3.8;
   };
+  shinkenplugins = {
+    "0.4.2" = import ./overrides/shinkenplugins/0.4.2;
+  };
   shopifyapi = {
     "12.6.0" = import ./overrides/shopifyapi/12.6.0;
   };
