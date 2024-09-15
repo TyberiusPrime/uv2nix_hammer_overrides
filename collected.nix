@@ -636,6 +636,9 @@
   configparser2 = {
     "4.0.0" = import ./overrides/configparser2/4.0.0;
   };
+  configspace = {
+    "1.2.0" = import ./overrides/configspace/1.2.0;
+  };
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
