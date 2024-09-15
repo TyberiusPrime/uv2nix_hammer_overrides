@@ -3645,6 +3645,9 @@
   unqlite = {
     "0.9.6" = import ./overrides/unqlite/0.9.6;
   };
+  unsync = {
+    "1.4.0" = import ./overrides/unsync/1.4.0;
+  };
   upsetplot = {
     "0.9.0" = import ./overrides/upsetplot/0.9.0;
   };
