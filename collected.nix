@@ -2368,6 +2368,9 @@
   pychalk = {
     "2.0.1" = import ./overrides/pychalk/2.0.1;
   };
+  pychm = {
+    "0.8.6" = import ./overrides/pychm/0.8.6;
+  };
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
   };

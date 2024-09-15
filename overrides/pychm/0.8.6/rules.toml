@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.chmlib",]
+BuildSystems = [ "setuptools",]
