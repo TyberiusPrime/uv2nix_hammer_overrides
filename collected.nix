@@ -3485,6 +3485,9 @@
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
+  pymetar = {
+    "1.4" = import ./overrides/pymetar/1.4;
+  };
   pyminizip = {
     "0.2.6" = import ./overrides/pyminizip/0.2.6;
   };
