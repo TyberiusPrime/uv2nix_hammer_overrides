@@ -2681,6 +2681,9 @@
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
   };
+  seqeval = {
+    "1.2.2" = import ./overrides/seqeval/1.2.2;
+  };
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
