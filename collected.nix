@@ -3284,6 +3284,9 @@
   zipseeker = {
     "1.0.11" = import ./overrides/zipseeker/1.0.11;
   };
+  zipstream = {
+    "1.1.4" = import ./overrides/zipstream/1.1.4;
+  };
   zuper-commons-z6 = {
     "6.2.4" = import ./overrides/zuper-commons-z6/6.2.4;
   };
