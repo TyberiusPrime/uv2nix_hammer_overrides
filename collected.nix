@@ -3012,6 +3012,9 @@
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
   };
+  unisos-ucf = {
+    "0.15" = import ./overrides/unisos-ucf/0.15;
+  };
   unqlite = {
     "0.9.6" = import ./overrides/unqlite/0.9.6;
   };
