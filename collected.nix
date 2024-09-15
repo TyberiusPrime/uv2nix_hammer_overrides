@@ -1570,6 +1570,9 @@
   formatizer = {
     "0.1.1" = import ./overrides/formatizer/0.1.1;
   };
+  fortnitepy = {
+    "3.6.9" = import ./overrides/fortnitepy/3.6.9;
+  };
   fortranformat = {
     "2.0.0" = import ./overrides/fortranformat/2.0.0;
   };
