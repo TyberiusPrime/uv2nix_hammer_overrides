@@ -1014,6 +1014,9 @@
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
   };
+  finviz = {
+    "1.4.6" = import ./overrides/finviz/1.4.6;
+  };
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
