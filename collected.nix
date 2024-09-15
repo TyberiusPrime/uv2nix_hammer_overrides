@@ -1751,6 +1751,9 @@
   ihm = {
     "1.5" = import ./overrides/ihm/1.5;
   };
+  ilock = {
+    "1.0.3" = import ./overrides/ilock/1.0.3;
+  };
   image = {
     "1.5.33" = import ./overrides/image/1.5.33;
   };
