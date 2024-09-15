@@ -220,6 +220,9 @@
   asn1tools = {
     "0.167.0" = import ./overrides/asn1tools/0.167.0;
   };
+  assertpy = {
+    "1.1" = import ./overrides/assertpy/1.1;
+  };
   asset = {
     "0.6.13" = import ./overrides/asset/0.6.13;
   };
