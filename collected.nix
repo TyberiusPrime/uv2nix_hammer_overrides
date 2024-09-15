@@ -800,6 +800,9 @@
   digextractor = {
     "0.4.0" = import ./overrides/digextractor/0.4.0;
   };
+  digsparkutil = {
+    "1.0.23" = import ./overrides/digsparkutil/1.0.23;
+  };
   dill = {
     "0.2.9" = import ./overrides/dill/0.2.9;
     "0.3.1.1" = import ./overrides/dill/0.3.1.1;
