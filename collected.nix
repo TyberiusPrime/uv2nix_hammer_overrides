@@ -1291,6 +1291,9 @@
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
+  ipdbplugin = {
+    "1.5.0" = import ./overrides/ipdbplugin/1.5.0;
+  };
   iso-639 = {
     "0.4.5" = import ./overrides/iso-639/0.4.5;
   };
