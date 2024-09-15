@@ -3866,6 +3866,9 @@
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
+  z0lib = {
+    "2.0.12" = import ./overrides/z0lib/2.0.12;
+  };
   z3 = {
     "0.2.0" = import ./overrides/z3/0.2.0;
   };
