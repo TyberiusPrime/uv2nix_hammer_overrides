@@ -4240,6 +4240,9 @@
   qprompt = {
     "0.16.3" = import ./overrides/qprompt/0.16.3;
   };
+  qrcode-terminal = {
+    "0.8" = import ./overrides/qrcode-terminal/0.8;
+  };
   qualname = {
     "0.1.0" = import ./overrides/qualname/0.1.0;
   };
