@@ -4801,6 +4801,9 @@
   turbogears2 = {
     "2.4.3" = import ./overrides/turbogears2/2.4.3;
   };
+  tutor = {
+    "18.1.3" = import ./overrides/tutor/18.1.3;
+  };
   tvdb-api = {
     "3.1.0" = import ./overrides/tvdb-api/3.1.0;
   };
