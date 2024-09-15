@@ -1583,6 +1583,9 @@
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
+  ghdiff = {
+    "0.4" = import ./overrides/ghdiff/0.4;
+  };
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
