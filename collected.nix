@@ -1288,6 +1288,9 @@
   ionhash = {
     "1.2.1" = import ./overrides/ionhash/1.2.1;
   };
+  iopath = {
+    "0.1.10" = import ./overrides/iopath/0.1.10;
+  };
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
