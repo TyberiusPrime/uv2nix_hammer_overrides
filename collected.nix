@@ -1194,6 +1194,9 @@
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
   };
+  filebytes = {
+    "0.10.2" = import ./overrides/filebytes/0.10.2;
+  };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
@@ -3466,6 +3469,9 @@
   };
   robotpy-hal-sim = {
     "2019.2.3" = import ./overrides/robotpy-hal-sim/2019.2.3;
+  };
+  ropper = {
+    "1.13.8" = import ./overrides/ropper/1.13.8;
   };
   rouge-score = {
     "0.1.2" = import ./overrides/rouge-score/0.1.2;
