@@ -1026,6 +1026,9 @@
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
+  fusepy = {
+    "3.0.1" = import ./overrides/fusepy/3.0.1;
+  };
   future = {
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
