@@ -1075,6 +1075,9 @@
   django-jquery-js = {
     "3.1.1" = import ./overrides/django-jquery-js/3.1.1;
   };
+  django-json-field = {
+    "0.5.7" = import ./overrides/django-json-field/0.5.7;
+  };
   django-layers-hr = {
     "1.11.1" = import ./overrides/django-layers-hr/1.11.1;
   };
