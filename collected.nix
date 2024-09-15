@@ -1044,6 +1044,9 @@
   ezodf = {
     "0.3.2" = import ./overrides/ezodf/0.3.2;
   };
+  f5-icontrol-rest = {
+    "1.3.13" = import ./overrides/f5-icontrol-rest/1.3.13;
+  };
   fabtools = {
     "0.20.0" = import ./overrides/fabtools/0.20.0;
   };
