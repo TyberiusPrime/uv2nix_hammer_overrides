@@ -5016,6 +5016,9 @@
   tvdb-api = {
     "3.1.0" = import ./overrides/tvdb-api/3.1.0;
   };
+  tw2-core = {
+    "2.3.0" = import ./overrides/tw2-core/2.3.0;
+  };
   twitter-common-collections = {
     "0.3.11" = import ./overrides/twitter-common-collections/0.3.11;
   };
