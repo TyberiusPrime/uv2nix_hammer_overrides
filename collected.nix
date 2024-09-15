@@ -3146,6 +3146,9 @@
   signify = {
     "0.6.1" = import ./overrides/signify/0.6.1;
   };
+  similaritymeasures = {
+    "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
+  };
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
