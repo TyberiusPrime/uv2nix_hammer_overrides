@@ -2365,6 +2365,9 @@
   lantz-core = {
     "0.5.3" = import ./overrides/lantz-core/0.5.3;
   };
+  lapjv = {
+    "1.3.27" = import ./overrides/lapjv/1.3.27;
+  };
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
