@@ -2189,6 +2189,9 @@
   logbook = {
     "1.5.3" = import ./overrides/logbook/1.5.3;
   };
+  logger = {
+    "1.4" = import ./overrides/logger/1.4;
+  };
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
