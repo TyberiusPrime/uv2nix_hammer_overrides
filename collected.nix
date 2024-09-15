@@ -3303,6 +3303,9 @@
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
   };
+  pyprof2calltree = {
+    "1.4.5" = import ./overrides/pyprof2calltree/1.4.5;
+  };
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
   };
