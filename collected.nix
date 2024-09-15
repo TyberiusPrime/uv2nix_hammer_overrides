@@ -1936,6 +1936,9 @@
   hopcroftkarp = {
     "1.2.5" = import ./overrides/hopcroftkarp/1.2.5;
   };
+  horetu = {
+    "0.4.4" = import ./overrides/horetu/0.4.4;
+  };
   houdini-py = {
     "0.1.0" = import ./overrides/houdini-py/0.1.0;
   };
