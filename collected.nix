@@ -4518,6 +4518,9 @@
   wsgitools = {
     "0.3.1" = import ./overrides/wsgitools/0.3.1;
   };
+  wsgiutils = {
+    "0.7.2" = import ./overrides/wsgiutils/0.7.2;
+  };
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
   };
