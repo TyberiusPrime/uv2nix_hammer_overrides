@@ -2297,6 +2297,9 @@
   pylatexenc = {
     "2.10" = import ./overrides/pylatexenc/2.10;
   };
+  pylibscrypt = {
+    "2.0.0" = import ./overrides/pylibscrypt/2.0.0;
+  };
   pylint-celery = {
     "0.3" = import ./overrides/pylint-celery/0.3;
   };
