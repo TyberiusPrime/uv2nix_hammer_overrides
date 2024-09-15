@@ -3422,6 +3422,9 @@
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
+  srvlookup = {
+    "3.0.0" = import ./overrides/srvlookup/3.0.0;
+  };
   starkbank-ecdsa = {
     "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
   };
