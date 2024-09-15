@@ -2972,6 +2972,9 @@
   pyspf = {
     "2.0.14" = import ./overrides/pyspf/2.0.14;
   };
+  pysptk = {
+    "1.0.1" = import ./overrides/pysptk/1.0.1;
+  };
   pysrt = {
     "1.1.2" = import ./overrides/pysrt/1.1.2;
   };
