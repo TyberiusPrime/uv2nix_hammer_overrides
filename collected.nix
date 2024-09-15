@@ -2617,6 +2617,9 @@
   mergedb = {
     "0.1.1" = import ./overrides/mergedb/0.1.1;
   };
+  merkletools = {
+    "1.0.3" = import ./overrides/merkletools/1.0.3;
+  };
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
@@ -3897,6 +3900,9 @@
   };
   pysendfile = {
     "2.0.1" = import ./overrides/pysendfile/2.0.1;
+  };
+  pysha3 = {
+    "1.0.2" = import ./overrides/pysha3/1.0.2;
   };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
