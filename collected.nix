@@ -3507,6 +3507,9 @@
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
   };
+  uwsgi = {
+    "2.0.26" = import ./overrides/uwsgi/2.0.26;
+  };
   uwsgidecorators = {
     "1.1.0" = import ./overrides/uwsgidecorators/1.1.0;
   };
