@@ -1852,6 +1852,9 @@
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
+  mongokit = {
+    "0.9.1.1" = import ./overrides/mongokit/0.9.1.1;
+  };
   morph = {
     "0.1.5" = import ./overrides/morph/0.1.5;
   };
