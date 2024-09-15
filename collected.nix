@@ -2982,6 +2982,9 @@
   twobitreader = {
     "3.1.7" = import ./overrides/twobitreader/3.1.7;
   };
+  twofish = {
+    "0.3.0" = import ./overrides/twofish/0.3.0;
+  };
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
