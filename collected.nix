@@ -762,6 +762,9 @@
   djangorestframework-camel-case = {
     "1.4.2" = import ./overrides/djangorestframework-camel-case/1.4.2;
   };
+  djorm-ext-core = {
+    "0.7" = import ./overrides/djorm-ext-core/0.7;
+  };
   dkimpy = {
     "1.1.8" = import ./overrides/dkimpy/1.1.8;
   };
