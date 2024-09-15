@@ -2799,6 +2799,9 @@
   names = {
     "0.3.0" = import ./overrides/names/0.3.0;
   };
+  nanoget = {
+    "1.19.3" = import ./overrides/nanoget/1.19.3;
+  };
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
   };
