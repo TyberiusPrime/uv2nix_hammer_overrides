@@ -3246,6 +3246,9 @@
   python-gflags = {
     "3.1.2" = import ./overrides/python-gflags/3.1.2;
   };
+  python-hglib = {
+    "2.6.2" = import ./overrides/python-hglib/2.6.2;
+  };
   python-highcharts = {
     "0.4.2" = import ./overrides/python-highcharts/0.4.2;
   };
