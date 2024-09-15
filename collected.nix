@@ -3039,6 +3039,9 @@
   python-etcd = {
     "0.4.5" = import ./overrides/python-etcd/0.4.5;
   };
+  python-fedora = {
+    "1.1.1" = import ./overrides/python-fedora/1.1.1;
+  };
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
