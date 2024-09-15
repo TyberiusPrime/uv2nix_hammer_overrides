@@ -1795,6 +1795,9 @@
   mgzip = {
     "0.2.1" = import ./overrides/mgzip/0.2.1;
   };
+  mhcnames = {
+    "0.4.8" = import ./overrides/mhcnames/0.4.8;
+  };
   miasm = {
     "0.1.5" = import ./overrides/miasm/0.1.5;
   };
