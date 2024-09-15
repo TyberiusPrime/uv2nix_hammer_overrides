@@ -1891,6 +1891,9 @@
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
+  muscima = {
+    "0.10.0" = import ./overrides/muscima/0.10.0;
+  };
   mutesync = {
     "0.0.2" = import ./overrides/mutesync/0.0.2;
   };
