@@ -144,6 +144,9 @@
   arpeggio = {
     "2.0.2" = import ./overrides/arpeggio/2.0.2;
   };
+  arpy = {
+    "2.3.0" = import ./overrides/arpy/2.3.0;
+  };
   array-api-compat = {
     "1.8" = import ./overrides/array-api-compat/1.8;
   };
@@ -2046,6 +2049,9 @@
   };
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
+  };
+  pgpy = {
+    "0.6.0" = import ./overrides/pgpy/0.6.0;
   };
   phpserialize = {
     "1.3" = import ./overrides/phpserialize/1.3;
