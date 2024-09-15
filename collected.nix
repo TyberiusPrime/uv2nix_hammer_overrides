@@ -2753,6 +2753,9 @@
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
+  sslyze = {
+    "6.0.0" = import ./overrides/sslyze/6.0.0;
+  };
   starline = {
     "0.2.0" = import ./overrides/starline/0.2.0;
   };
@@ -2878,6 +2881,9 @@
   };
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
+  };
+  tls-parser = {
+    "2.0.1" = import ./overrides/tls-parser/2.0.1;
   };
   tlslite = {
     "0.4.9" = import ./overrides/tlslite/0.4.9;
