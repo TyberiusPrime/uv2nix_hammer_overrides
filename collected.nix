@@ -4406,6 +4406,9 @@
   slumber = {
     "0.7.1" = import ./overrides/slumber/0.7.1;
   };
+  snakecase = {
+    "1.0.1" = import ./overrides/snakecase/1.0.1;
+  };
   snapcast = {
     "2.3.6" = import ./overrides/snapcast/2.3.6;
   };
