@@ -1087,6 +1087,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  google-search-results = {
+    "2.4.2" = import ./overrides/google-search-results/2.4.2;
+  };
   googleads = {
     "43.0.0" = import ./overrides/googleads/43.0.0;
   };
@@ -1320,6 +1323,9 @@
   };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
+  };
+  jinja2-highlight = {
+    "0.6.1" = import ./overrides/jinja2-highlight/0.6.1;
   };
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
