@@ -2927,6 +2927,9 @@
   reverse-geocoder = {
     "1.5.1" = import ./overrides/reverse-geocoder/1.5.1;
   };
+  rfc7464 = {
+    "17.7.0" = import ./overrides/rfc7464/17.7.0;
+  };
   rhasspy-hermes = {
     "0.6.2" = import ./overrides/rhasspy-hermes/0.6.2;
   };
