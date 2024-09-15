@@ -423,6 +423,9 @@
   cgen = {
     "2020.1" = import ./overrides/cgen/2020.1;
   };
+  cgroup-utils = {
+    "0.8" = import ./overrides/cgroup-utils/0.8;
+  };
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
