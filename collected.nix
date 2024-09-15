@@ -388,6 +388,9 @@
   birdy = {
     "0.3.2" = import ./overrides/birdy/0.3.2;
   };
+  bisos2-common = {
+    "0.47" = import ./overrides/bisos2-common/0.47;
+  };
   bitcoin = {
     "1.1.39" = import ./overrides/bitcoin/1.1.39;
   };
