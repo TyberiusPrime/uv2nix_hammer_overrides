@@ -1638,6 +1638,9 @@
   gruut-lang-en = {
     "2.0.1" = import ./overrides/gruut-lang-en/2.0.1;
   };
+  grvlms-openedx = {
+    "1.0.6" = import ./overrides/grvlms-openedx/1.0.6;
+  };
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
