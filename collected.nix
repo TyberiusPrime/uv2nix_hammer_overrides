@@ -1213,6 +1213,9 @@
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
   };
+  elasticsearch-async = {
+    "6.2.0" = import ./overrides/elasticsearch-async/6.2.0;
+  };
   elasticutils = {
     "0.10.3" = import ./overrides/elasticutils/0.10.3;
   };
