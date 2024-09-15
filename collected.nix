@@ -1066,6 +1066,9 @@
   girder-client = {
     "3.2.3" = import ./overrides/girder-client/3.2.3;
   };
+  gitignore-parser = {
+    "0.1.11" = import ./overrides/gitignore-parser/0.1.11;
+  };
   gitignorefile = {
     "1.1.2" = import ./overrides/gitignorefile/1.1.2;
   };
