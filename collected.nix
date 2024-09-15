@@ -732,6 +732,9 @@
   django-summernote = {
     "0.8.20.0" = import ./overrides/django-summernote/0.8.20.0;
   };
+  django-tabbed-admin = {
+    "1.0.4" = import ./overrides/django-tabbed-admin/1.0.4;
+  };
   django-taggit-templatetags = {
     "0.2.5" = import ./overrides/django-taggit-templatetags/0.2.5;
   };
@@ -2126,6 +2129,9 @@
   pyfarmhash = {
     "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
   };
+  pyfcm = {
+    "1.4.9" = import ./overrides/pyfcm/1.4.9;
+  };
   pyfim = {
     "6.28" = import ./overrides/pyfim/6.28;
   };
@@ -3038,6 +3044,9 @@
   };
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
+  };
+  uwsgi = {
+    "2.0.26" = import ./overrides/uwsgi/2.0.26;
   };
   uwsgidecorators = {
     "1.1.0" = import ./overrides/uwsgidecorators/1.1.0;
