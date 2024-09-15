@@ -2233,6 +2233,9 @@
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
+  pep3143daemon = {
+    "0.1.0" = import ./overrides/pep3143daemon/0.1.0;
+  };
   perdy = {
     "1.12" = import ./overrides/perdy/1.12;
   };
