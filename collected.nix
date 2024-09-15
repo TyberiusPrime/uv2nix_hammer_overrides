@@ -1141,8 +1141,17 @@
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
+  gax-google-logging-v2 = {
+    "0.8.3" = import ./overrides/gax-google-logging-v2/0.8.3;
+  };
+  gax-google-pubsub-v1 = {
+    "0.8.3" = import ./overrides/gax-google-pubsub-v1/0.8.3;
+  };
   gazpacho = {
     "1.1" = import ./overrides/gazpacho/1.1;
+  };
+  gcloud = {
+    "0.18.3" = import ./overrides/gcloud/0.18.3;
   };
   gcs-oauth2-boto-plugin = {
     "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
@@ -1185,6 +1194,9 @@
   };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
+  };
+  google-gax = {
+    "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
   googleads = {
     "43.0.0" = import ./overrides/googleads/43.0.0;
