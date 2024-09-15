@@ -348,6 +348,9 @@
   blinker = {
     "1.4" = import ./overrides/blinker/1.4;
   };
+  blockchain-etl-common = {
+    "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
+  };
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
