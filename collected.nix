@@ -2314,6 +2314,9 @@
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
   };
+  pure-sasl = {
+    "0.6.2" = import ./overrides/pure-sasl/0.6.2;
+  };
   purepng = {
     "0.2.0" = import ./overrides/purepng/0.2.0;
   };
