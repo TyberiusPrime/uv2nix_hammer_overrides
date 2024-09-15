@@ -445,6 +445,9 @@
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
+  bpycv = {
+    "0.4.0" = import ./overrides/bpycv/0.4.0;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
