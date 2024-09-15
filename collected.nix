@@ -2176,6 +2176,9 @@
   jaeger-client = {
     "4.8.0" = import ./overrides/jaeger-client/4.8.0;
   };
+  janex = {
+    "0.0.80" = import ./overrides/janex/0.0.80;
+  };
   jaxlinop = {
     "0.0.3" = import ./overrides/jaxlinop/0.0.3;
   };
