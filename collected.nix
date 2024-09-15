@@ -2233,6 +2233,9 @@
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
+  jsonform = {
+    "0.0.2" = import ./overrides/jsonform/0.0.2;
+  };
   jsonformatter = {
     "0.3.2" = import ./overrides/jsonformatter/0.3.2;
   };
@@ -2259,6 +2262,9 @@
   };
   jsonrpc-websocket = {
     "3.1.5" = import ./overrides/jsonrpc-websocket/3.1.5;
+  };
+  jsonsir = {
+    "0.0.2" = import ./overrides/jsonsir/0.0.2;
   };
   jstyleson = {
     "0.0.2" = import ./overrides/jstyleson/0.0.2;
