@@ -2675,6 +2675,9 @@
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
+  similaritymeasures = {
+    "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
+  };
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
