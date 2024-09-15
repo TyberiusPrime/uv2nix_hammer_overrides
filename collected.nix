@@ -3035,6 +3035,9 @@
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
   };
+  subzerod = {
+    "1.0" = import ./overrides/subzerod/1.0;
+  };
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
   };
