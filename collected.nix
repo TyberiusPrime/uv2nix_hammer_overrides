@@ -3609,6 +3609,9 @@
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
+  pydoe2 = {
+    "1.3.0" = import ./overrides/pydoe2/1.3.0;
+  };
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
   };
