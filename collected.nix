@@ -2222,6 +2222,9 @@
   pyopengl = {
     "3.1.0" = import ./overrides/pyopengl/3.1.0;
   };
+  pyoppleio = {
+    "1.0.7" = import ./overrides/pyoppleio/1.0.7;
+  };
   pyparser = {
     "1.0" = import ./overrides/pyparser/1.0;
   };
