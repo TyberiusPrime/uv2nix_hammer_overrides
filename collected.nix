@@ -77,6 +77,12 @@
   aipy = {
     "3.0.6" = import ./overrides/aipy/3.0.6;
   };
+  aldryn-boilerplates = {
+    "0.8.0" = import ./overrides/aldryn-boilerplates/0.8.0;
+  };
+  aldryn-common = {
+    "1.0.5" = import ./overrides/aldryn-common/1.0.5;
+  };
   aliyun-log-python-sdk = {
     "0.9.11" = import ./overrides/aliyun-log-python-sdk/0.9.11;
   };
