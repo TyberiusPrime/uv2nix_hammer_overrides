@@ -216,6 +216,9 @@
   asyncpgsa = {
     "0.27.1" = import ./overrides/asyncpgsa/0.27.1;
   };
+  atomiclong = {
+    "0.1.1" = import ./overrides/atomiclong/0.1.1;
+  };
   atomicwrites = {
     "1.4.1" = import ./overrides/atomicwrites/1.4.1;
   };
