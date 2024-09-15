@@ -1512,6 +1512,7 @@
   };
   gpgrecord = {
     "0.0.4" = import ./overrides/gpgrecord/0.0.4;
+    "0.0.5" = import ./overrides/gpgrecord/0.0.5;
   };
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
