@@ -336,6 +336,9 @@
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
+  cfgraph = {
+    "0.2.1" = import ./overrides/cfgraph/0.2.1;
+  };
   cfunits = {
     "3.3.7" = import ./overrides/cfunits/3.3.7;
   };
