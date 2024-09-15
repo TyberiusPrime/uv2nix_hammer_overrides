@@ -89,6 +89,9 @@
   ansible = {
     "10.3.0" = import ./overrides/ansible/10.3.0;
   };
+  ansible-base = {
+    "2.10.17" = import ./overrides/ansible-base/2.10.17;
+  };
   anthemav = {
     "1.4.2" = import ./overrides/anthemav/1.4.2;
   };
