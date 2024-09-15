@@ -960,6 +960,9 @@
   django-summernote = {
     "0.8.20.0" = import ./overrides/django-summernote/0.8.20.0;
   };
+  django-tabbed-admin = {
+    "1.0.4" = import ./overrides/django-tabbed-admin/1.0.4;
+  };
   django-taggit-serializer = {
     "0.1.7" = import ./overrides/django-taggit-serializer/0.1.7;
   };
@@ -2917,6 +2920,9 @@
   };
   pyfasta = {
     "0.5.2" = import ./overrides/pyfasta/0.5.2;
+  };
+  pyfcm = {
+    "1.4.9" = import ./overrides/pyfcm/1.4.9;
   };
   pyfim = {
     "6.28" = import ./overrides/pyfim/6.28;
