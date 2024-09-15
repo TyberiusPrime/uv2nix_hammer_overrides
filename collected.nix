@@ -912,6 +912,9 @@
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
+  datazilla = {
+    "1.4" = import ./overrides/datazilla/1.4;
+  };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
