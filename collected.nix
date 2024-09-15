@@ -3338,6 +3338,9 @@
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
+  polyglot = {
+    "16.7.4" = import ./overrides/polyglot/16.7.4;
+  };
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
