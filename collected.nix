@@ -3045,6 +3045,9 @@
   pygithub = {
     "1.45" = import ./overrides/pygithub/1.45;
   };
+  pygltflib = {
+    "1.16.2" = import ./overrides/pygltflib/1.16.2;
+  };
   pygments-lexer-solidity = {
     "0.7.0" = import ./overrides/pygments-lexer-solidity/0.7.0;
   };
