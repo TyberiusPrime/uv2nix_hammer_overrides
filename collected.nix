@@ -3783,6 +3783,9 @@
   python-wink = {
     "1.10.5" = import ./overrides/python-wink/1.10.5;
   };
+  python-yubico = {
+    "1.3.3" = import ./overrides/python-yubico/1.3.3;
+  };
   python3-modargs = {
     "2.0.2" = import ./overrides/python3-modargs/2.0.2;
   };
