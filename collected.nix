@@ -114,6 +114,9 @@
   apiclient = {
     "1.0.4" = import ./overrides/apiclient/1.0.4;
   };
+  apistar = {
+    "0.7.2" = import ./overrides/apistar/0.7.2;
+  };
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
@@ -3101,6 +3104,9 @@
   };
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
+  };
+  watchgod = {
+    "0.6" = import ./overrides/watchgod/0.6;
   };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
