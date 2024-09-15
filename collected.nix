@@ -2637,6 +2637,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  minidb = {
+    "2.0.8" = import ./overrides/minidb/2.0.8;
+  };
   miniful = {
     "0.0.6" = import ./overrides/miniful/0.0.6;
   };
