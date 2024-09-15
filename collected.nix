@@ -1029,6 +1029,9 @@
   dynamic-pytables-where-condition = {
     "1.1.1" = import ./overrides/dynamic-pytables-where-condition/1.1.1;
   };
+  easycli = {
+    "1.9.3" = import ./overrides/easycli/1.9.3;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
