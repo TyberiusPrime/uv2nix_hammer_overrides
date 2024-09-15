@@ -3303,6 +3303,9 @@
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
+  python-vxi11 = {
+    "0.9" = import ./overrides/python-vxi11/0.9;
+  };
   python-wifi = {
     "0.6.1" = import ./overrides/python-wifi/0.6.1;
   };
