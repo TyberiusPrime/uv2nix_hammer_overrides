@@ -1300,6 +1300,9 @@
   isospecpy = {
     "2.2.2" = import ./overrides/isospecpy/2.2.2;
   };
+  isounidecode = {
+    "0.3" = import ./overrides/isounidecode/0.3;
+  };
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
