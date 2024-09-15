@@ -2750,6 +2750,9 @@
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
+  sqre-apikit = {
+    "0.1.3" = import ./overrides/sqre-apikit/0.1.3;
+  };
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
