@@ -2753,6 +2753,9 @@
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
+  sseclient = {
+    "0.0.27" = import ./overrides/sseclient/0.0.27;
+  };
   starline = {
     "0.2.0" = import ./overrides/starline/0.2.0;
   };
