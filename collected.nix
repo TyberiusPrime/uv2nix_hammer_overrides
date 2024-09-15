@@ -858,6 +858,9 @@
   empy = {
     "3.3.4" = import ./overrides/empy/3.3.4;
   };
+  encodec = {
+    "0.1.1" = import ./overrides/encodec/0.1.1;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
@@ -2894,6 +2897,9 @@
   torch = {
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
+  };
+  torchaudio = {
+    "2.4.1" = import ./overrides/torchaudio/2.4.1;
   };
   torchnet = {
     "0.0.4" = import ./overrides/torchnet/0.0.4;
