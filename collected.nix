@@ -2013,6 +2013,9 @@
   iotlabcli = {
     "3.3.0" = import ./overrides/iotlabcli/3.3.0;
   };
+  iowait = {
+    "0.2" = import ./overrides/iowait/0.2;
+  };
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
