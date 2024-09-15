@@ -4142,6 +4142,9 @@
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
+  signalslot = {
+    "0.2.0" = import ./overrides/signalslot/0.2.0;
+  };
   signify = {
     "0.6.1" = import ./overrides/signify/0.6.1;
   };
