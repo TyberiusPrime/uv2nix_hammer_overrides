@@ -1207,6 +1207,9 @@
   httpagentparser = {
     "1.9.5" = import ./overrides/httpagentparser/1.9.5;
   };
+  httplib2shim = {
+    "0.0.3" = import ./overrides/httplib2shim/0.0.3;
+  };
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
