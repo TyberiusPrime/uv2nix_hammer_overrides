@@ -1909,6 +1909,12 @@
   pexif = {
     "0.15" = import ./overrides/pexif/0.15;
   };
+  pfmisc = {
+    "2.2.14" = import ./overrides/pfmisc/2.2.14;
+  };
+  pftree = {
+    "3.4.2" = import ./overrides/pftree/3.4.2;
+  };
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
   };
