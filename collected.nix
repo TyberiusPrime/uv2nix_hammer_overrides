@@ -1516,6 +1516,9 @@
   log-colorizer = {
     "2.0.0" = import ./overrides/log-colorizer/2.0.0;
   };
+  logan = {
+    "0.7.2" = import ./overrides/logan/0.7.2;
+  };
   logbook = {
     "1.5.3" = import ./overrides/logbook/1.5.3;
   };
