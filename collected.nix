@@ -1531,6 +1531,9 @@
   flake8-mutable = {
     "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
   };
+  flake8-todo = {
+    "0.7" = import ./overrides/flake8-todo/0.7;
+  };
   flanker = {
     "0.9.11" = import ./overrides/flanker/0.9.11;
   };
