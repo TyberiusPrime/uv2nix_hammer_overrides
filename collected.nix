@@ -2871,6 +2871,9 @@
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
+  python-wifi = {
+    "0.6.1" = import ./overrides/python-wifi/0.6.1;
+  };
   python-wink = {
     "1.10.5" = import ./overrides/python-wink/1.10.5;
   };
