@@ -479,6 +479,9 @@
   core-parser-app = {
     "2.10.0" = import ./overrides/core-parser-app/2.10.0;
   };
+  coreapi-cli = {
+    "1.0.9" = import ./overrides/coreapi-cli/1.0.9;
+  };
   coreschema = {
     "0.0.4" = import ./overrides/coreschema/0.0.4;
   };
