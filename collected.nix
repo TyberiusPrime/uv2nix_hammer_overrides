@@ -4121,6 +4121,9 @@
   python-wink = {
     "1.10.5" = import ./overrides/python-wink/1.10.5;
   };
+  python-wordpress-xmlrpc = {
+    "2.3" = import ./overrides/python-wordpress-xmlrpc/2.3;
+  };
   python-yubico = {
     "1.3.3" = import ./overrides/python-yubico/1.3.3;
   };
