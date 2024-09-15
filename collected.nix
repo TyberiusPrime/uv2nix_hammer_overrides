@@ -636,6 +636,9 @@
   distributedlock = {
     "1.2" = import ./overrides/distributedlock/1.2;
   };
+  django-admin-multiple-choice-list-filter = {
+    "0.1.1" = import ./overrides/django-admin-multiple-choice-list-filter/0.1.1;
+  };
   django-allauth = {
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
