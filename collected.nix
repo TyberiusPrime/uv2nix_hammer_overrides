@@ -1687,6 +1687,9 @@
   json-log-formatter = {
     "0.5.2" = import ./overrides/json-log-formatter/0.5.2;
   };
+  json-merge-patch = {
+    "0.2" = import ./overrides/json-merge-patch/0.2;
+  };
   json-schema-to-class = {
     "0.2.4" = import ./overrides/json-schema-to-class/0.2.4;
   };
