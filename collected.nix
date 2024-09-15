@@ -4627,6 +4627,9 @@
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
   };
+  unisos-ucf = {
+    "0.15" = import ./overrides/unisos-ucf/0.15;
+  };
   unittest-data-provider = {
     "1.0.1" = import ./overrides/unittest-data-provider/1.0.1;
   };
