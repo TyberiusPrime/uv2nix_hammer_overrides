@@ -4364,6 +4364,9 @@
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
+  surt = {
+    "0.3.1" = import ./overrides/surt/0.3.1;
+  };
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
   };
