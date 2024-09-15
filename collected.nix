@@ -2314,6 +2314,9 @@
   pycollada = {
     "0.8" = import ./overrides/pycollada/0.8;
   };
+  pycolorizer = {
+    "1.1.0" = import ./overrides/pycolorizer/1.1.0;
+  };
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
@@ -3571,6 +3574,9 @@
   };
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
+  };
+  yoda = {
+    "0.1.5" = import ./overrides/yoda/0.1.5;
   };
   yolk3k = {
     "0.9" = import ./overrides/yolk3k/0.9;
