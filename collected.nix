@@ -1027,6 +1027,9 @@
   django-bootstrap3-datetimepicker = {
     "2.2.3" = import ./overrides/django-bootstrap3-datetimepicker/2.2.3;
   };
+  django-bower = {
+    "5.2.0" = import ./overrides/django-bower/5.2.0;
+  };
   django-cacheops = {
     "7.0.2" = import ./overrides/django-cacheops/7.0.2;
   };
