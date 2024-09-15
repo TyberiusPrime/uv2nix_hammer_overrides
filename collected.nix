@@ -3178,6 +3178,9 @@
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
   };
+  plotille = {
+    "5.0.0" = import ./overrides/plotille/5.0.0;
+  };
   plugnplay = {
     "0.5.4" = import ./overrides/plugnplay/0.5.4;
   };
