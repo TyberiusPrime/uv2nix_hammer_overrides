@@ -2389,6 +2389,9 @@
   pinyin = {
     "0.4.0" = import ./overrides/pinyin/0.4.0;
   };
+  pip-services3-commons = {
+    "3.3.14" = import ./overrides/pip-services3-commons/3.3.14;
+  };
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
