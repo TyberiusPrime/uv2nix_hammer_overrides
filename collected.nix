@@ -4521,6 +4521,9 @@
   signify = {
     "0.6.1" = import ./overrides/signify/0.6.1;
   };
+  silpa-common = {
+    "0.3" = import ./overrides/silpa-common/0.3;
+  };
   similaritymeasures = {
     "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
   };
