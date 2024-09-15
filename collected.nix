@@ -3332,6 +3332,9 @@
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
+  pyecowitt = {
+    "0.21" = import ./overrides/pyecowitt/0.21;
+  };
   pyelasticsearch = {
     "1.4.1" = import ./overrides/pyelasticsearch/1.4.1;
   };
