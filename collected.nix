@@ -2702,6 +2702,9 @@
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
+  snakecase = {
+    "1.0.1" = import ./overrides/snakecase/1.0.1;
+  };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
