@@ -412,6 +412,9 @@
   bitvector = {
     "3.5.0" = import ./overrides/bitvector/3.5.0;
   };
+  bizkaibus = {
+    "0.1.4" = import ./overrides/bizkaibus/0.1.4;
+  };
   bkcharts = {
     "0.2" = import ./overrides/bkcharts/0.2;
   };
