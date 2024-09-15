@@ -110,6 +110,9 @@
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
+  amino = {
+    "13.0.1" = import ./overrides/amino/13.0.1;
+  };
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
