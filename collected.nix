@@ -253,6 +253,9 @@
   auroranoaa = {
     "0.0.3" = import ./overrides/auroranoaa/0.0.3;
   };
+  aurorapy = {
+    "0.2.7" = import ./overrides/aurorapy/0.2.7;
+  };
   authheaders = {
     "0.16.3" = import ./overrides/authheaders/0.16.3;
   };
