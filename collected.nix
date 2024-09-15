@@ -936,6 +936,9 @@
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };
+  flasgger = {
+    "0.9.7.2.dev2" = import ./overrides/flasgger/0.9.7.2.dev2;
+  };
   flask = {
     "0.10.1" = import ./overrides/flask/0.10.1;
   };
