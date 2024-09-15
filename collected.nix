@@ -140,6 +140,9 @@
   anthemav = {
     "1.4.2" = import ./overrides/anthemav/1.4.2;
   };
+  antiorm = {
+    "1.2.1" = import ./overrides/antiorm/1.2.1;
+  };
   antlr-ast = {
     "0.7.0" = import ./overrides/antlr-ast/0.7.0;
   };
@@ -911,6 +914,12 @@
   };
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
+  };
+  db = {
+    "0.1.1" = import ./overrides/db/0.1.1;
+  };
+  db-sqlite3 = {
+    "0.0.1" = import ./overrides/db-sqlite3/0.0.1;
   };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
