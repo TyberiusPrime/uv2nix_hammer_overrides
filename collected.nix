@@ -3855,6 +3855,7 @@
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
   thrift = {
+    "0.16.0" = import ./overrides/thrift/0.16.0;
     "0.20.0" = import ./overrides/thrift/0.20.0;
   };
   thriftpy2 = {
