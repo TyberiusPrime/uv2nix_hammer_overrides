@@ -44,6 +44,9 @@
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
+  aiohttp-apispec = {
+    "2.2.3" = import ./overrides/aiohttp-apispec/2.2.3;
+  };
   aiohttp-route-decorator = {
     "0.1.4" = import ./overrides/aiohttp-route-decorator/0.1.4;
   };
