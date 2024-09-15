@@ -3296,6 +3296,9 @@
   robotframework-pabot = {
     "2.18.0" = import ./overrides/robotframework-pabot/2.18.0;
   };
+  robotframework-sshlibrary = {
+    "3.8.0" = import ./overrides/robotframework-sshlibrary/3.8.0;
+  };
   robotpy-hal-base = {
     "2019.2.3" = import ./overrides/robotpy-hal-base/2019.2.3;
   };
