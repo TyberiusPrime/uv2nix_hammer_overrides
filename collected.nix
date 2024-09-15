@@ -330,6 +330,9 @@
   cdumay-error = {
     "0.2.0" = import ./overrides/cdumay-error/0.2.0;
   };
+  cdumay-result = {
+    "0.1.12" = import ./overrides/cdumay-result/0.1.12;
+  };
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
   };
@@ -1425,6 +1428,9 @@
   };
   krakenex = {
     "2.2.2" = import ./overrides/krakenex/2.2.2;
+  };
+  kser = {
+    "0.8.25" = import ./overrides/kser/0.8.25;
   };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
