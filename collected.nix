@@ -2891,6 +2891,9 @@
   stem = {
     "1.8.2" = import ./overrides/stem/1.8.2;
   };
+  stemming = {
+    "1.0.1" = import ./overrides/stemming/1.0.1;
+  };
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
