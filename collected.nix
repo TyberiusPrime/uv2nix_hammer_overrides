@@ -957,6 +957,9 @@
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
+  environmental-override = {
+    "0.1.2" = import ./overrides/environmental-override/0.1.2;
+  };
   epc = {
     "0.0.5" = import ./overrides/epc/0.0.5;
   };
