@@ -2373,6 +2373,9 @@
   mmcif-utils = {
     "0.28" = import ./overrides/mmcif-utils/0.28;
   };
+  mobi = {
+    "0.3.3" = import ./overrides/mobi/0.3.3;
+  };
   mobly = {
     "1.12.4" = import ./overrides/mobly/1.12.4;
   };
