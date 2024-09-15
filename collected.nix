@@ -2162,6 +2162,9 @@
   pyfim = {
     "6.28" = import ./overrides/pyfim/6.28;
   };
+  pyflexit = {
+    "0.3" = import ./overrides/pyflexit/0.3;
+  };
   pygetwindow = {
     "0.0.9" = import ./overrides/pygetwindow/0.0.9;
   };
