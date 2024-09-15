@@ -1552,6 +1552,9 @@
   jadi = {
     "1.0.3" = import ./overrides/jadi/1.0.3;
   };
+  jaeger-client = {
+    "4.8.0" = import ./overrides/jaeger-client/4.8.0;
+  };
   jaxlinop = {
     "0.0.3" = import ./overrides/jaxlinop/0.0.3;
   };
@@ -3397,6 +3400,12 @@
   };
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
+  };
+  threadloop = {
+    "1.0.2" = import ./overrides/threadloop/1.0.2;
+  };
+  thrift = {
+    "0.20.0" = import ./overrides/thrift/0.20.0;
   };
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
