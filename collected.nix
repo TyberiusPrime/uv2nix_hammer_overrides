@@ -1318,6 +1318,9 @@
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
+  gpustat = {
+    "1.1.1" = import ./overrides/gpustat/1.1.1;
+  };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
   };
