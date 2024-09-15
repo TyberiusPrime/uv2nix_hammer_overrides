@@ -747,6 +747,9 @@
   django-fernet-fields = {
     "0.6" = import ./overrides/django-fernet-fields/0.6;
   };
+  django-htmlmin = {
+    "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
+  };
   django-jinja2 = {
     "0.1" = import ./overrides/django-jinja2/0.1;
   };
