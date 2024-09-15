@@ -1990,6 +1990,9 @@
   mplcursors = {
     "0.5.3" = import ./overrides/mplcursors/0.5.3;
   };
+  mplstereonet = {
+    "0.6.3" = import ./overrides/mplstereonet/0.6.3;
+  };
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
