@@ -629,6 +629,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  creek = {
+    "0.1.32" = import ./overrides/creek/0.1.32;
+  };
   crispy-forms-foundation = {
     "1.0.2" = import ./overrides/crispy-forms-foundation/1.0.2;
   };
@@ -1965,6 +1968,9 @@
   };
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
+  };
+  lined = {
+    "0.1.24" = import ./overrides/lined/0.1.24;
   };
   lineedit = {
     "0.1.6" = import ./overrides/lineedit/0.1.6;
