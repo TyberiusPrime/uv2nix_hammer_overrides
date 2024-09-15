@@ -557,6 +557,9 @@
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
+  collections2 = {
+    "0.3.0" = import ./overrides/collections2/0.3.0;
+  };
   colorconsole = {
     "0.8.0" = import ./overrides/colorconsole/0.8.0;
   };
