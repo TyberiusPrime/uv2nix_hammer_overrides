@@ -849,6 +849,9 @@
   elasticutils = {
     "0.10.3" = import ./overrides/elasticutils/0.10.3;
   };
+  elixir = {
+    "0.7.1" = import ./overrides/elixir/0.7.1;
+  };
   emoji = {
     "1.6.3" = import ./overrides/emoji/1.6.3;
   };
