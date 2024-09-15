@@ -455,6 +455,9 @@
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
+  consoleprinter = {
+    "95" = import ./overrides/consoleprinter/95;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
