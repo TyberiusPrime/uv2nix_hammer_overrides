@@ -3054,6 +3054,9 @@
   vcfpy = {
     "0.13.8" = import ./overrides/vcfpy/0.13.8;
   };
+  vedo = {
+    "2024.5.2" = import ./overrides/vedo/2024.5.2;
+  };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
