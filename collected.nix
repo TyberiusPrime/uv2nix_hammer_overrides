@@ -1633,6 +1633,9 @@
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
+  ml-collections = {
+    "0.1.1" = import ./overrides/ml-collections/0.1.1;
+  };
   mmcif-utils = {
     "0.28" = import ./overrides/mmcif-utils/0.28;
   };
