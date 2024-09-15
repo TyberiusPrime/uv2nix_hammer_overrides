@@ -1953,6 +1953,9 @@
   httpauth = {
     "0.4.1" = import ./overrides/httpauth/0.4.1;
   };
+  httpcache = {
+    "0.1.3" = import ./overrides/httpcache/0.1.3;
+  };
   httpexceptor = {
     "1.4.0" = import ./overrides/httpexceptor/1.4.0;
   };
