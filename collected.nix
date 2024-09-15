@@ -1802,6 +1802,9 @@
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
+  olctools = {
+    "1.3.5" = import ./overrides/olctools/1.3.5;
+  };
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
