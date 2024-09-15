@@ -3185,6 +3185,9 @@
   rstgen = {
     "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
+  rtoml = {
+    "0.8.0" = import ./overrides/rtoml/0.8.0;
+  };
   runcmd = {
     "2020.12.3" = import ./overrides/runcmd/2020.12.3;
   };

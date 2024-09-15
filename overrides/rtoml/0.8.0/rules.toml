@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools", "setuptools-rust", "wheel",]
+Rust = "setuptools_rust"
