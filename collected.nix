@@ -2043,6 +2043,9 @@
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
+  ipdbplugin = {
+    "1.5.0" = import ./overrides/ipdbplugin/1.5.0;
+  };
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
