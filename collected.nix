@@ -1917,6 +1917,9 @@
   jcloud = {
     "0.3" = import ./overrides/jcloud/0.3;
   };
+  jenkins = {
+    "1.0.2" = import ./overrides/jenkins/1.0.2;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
