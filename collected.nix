@@ -1621,6 +1621,9 @@
   migen = {
     "0.9.2" = import ./overrides/migen/0.9.2;
   };
+  mimeparse = {
+    "0.1.3" = import ./overrides/mimeparse/0.1.3;
+  };
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
@@ -1899,6 +1902,9 @@
   };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
+  };
+  pendulum = {
+    "2.1.2" = import ./overrides/pendulum/2.1.2;
   };
   perdy = {
     "1.12" = import ./overrides/perdy/1.12;
