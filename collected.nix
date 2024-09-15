@@ -3845,6 +3845,9 @@
   reana-commons = {
     "0.9.8" = import ./overrides/reana-commons/0.9.8;
   };
+  recaptcha-client = {
+    "1.0.6" = import ./overrides/recaptcha-client/1.0.6;
+  };
   reconfigure = {
     "0.1.82" = import ./overrides/reconfigure/0.1.82;
   };
