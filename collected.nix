@@ -1873,6 +1873,9 @@
   langid = {
     "1.1.6" = import ./overrides/langid/1.1.6;
   };
+  lanms-neo = {
+    "1.0.2" = import ./overrides/lanms-neo/1.0.2;
+  };
   lantz-core = {
     "0.5.3" = import ./overrides/lantz-core/0.5.3;
   };
