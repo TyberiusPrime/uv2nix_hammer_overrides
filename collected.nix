@@ -1270,6 +1270,9 @@
   insightface = {
     "0.7.3" = import ./overrides/insightface/0.7.3;
   };
+  inspect-it = {
+    "0.3.2" = import ./overrides/inspect-it/0.3.2;
+  };
   instagramapi = {
     "1.0.2" = import ./overrides/instagramapi/1.0.2;
   };
