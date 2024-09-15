@@ -1847,6 +1847,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  orcid = {
+    "1.0.3" = import ./overrides/orcid/1.0.3;
+  };
   ordereddict = {
     "1.1" = import ./overrides/ordereddict/1.1;
   };
