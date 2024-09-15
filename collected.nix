@@ -2355,6 +2355,9 @@
   lesscli = {
     "0.2.1" = import ./overrides/lesscli/0.2.1;
   };
+  lettuce = {
+    "0.2.23" = import ./overrides/lettuce/0.2.23;
+  };
   li-pagador = {
     "0.0.0.1" = import ./overrides/li-pagador/0.0.0.1;
   };
@@ -4707,6 +4710,9 @@
   };
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
+  };
+  sure = {
+    "3.0a2" = import ./overrides/sure/3.0a2;
   };
   surt = {
     "0.3.1" = import ./overrides/surt/0.3.1;
