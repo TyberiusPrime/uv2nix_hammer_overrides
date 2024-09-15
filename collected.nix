@@ -2436,6 +2436,9 @@
   pyupdate = {
     "1.4.0" = import ./overrides/pyupdate/1.4.0;
   };
+  pyutil = {
+    "3.3.6" = import ./overrides/pyutil/3.3.6;
+  };
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
   };
