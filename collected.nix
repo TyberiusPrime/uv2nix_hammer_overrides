@@ -3638,6 +3638,9 @@
   pysocks = {
     "1.6.8" = import ./overrides/pysocks/1.6.8;
   };
+  pysolr = {
+    "3.9.0" = import ./overrides/pysolr/3.9.0;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
