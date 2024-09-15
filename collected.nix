@@ -2576,6 +2576,9 @@
   nose-html-reporting = {
     "0.2.3" = import ./overrides/nose-html-reporting/0.2.3;
   };
+  nose-pattern-exclude = {
+    "0.1.3" = import ./overrides/nose-pattern-exclude/0.1.3;
+  };
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
