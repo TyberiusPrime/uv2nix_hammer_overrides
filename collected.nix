@@ -1306,6 +1306,9 @@
   htools = {
     "7.7.0" = import ./overrides/htools/7.7.0;
   };
+  http-parser = {
+    "0.9.0" = import ./overrides/http-parser/0.9.0;
+  };
   http3 = {
     "0.6.7" = import ./overrides/http3/0.6.7;
   };
@@ -2768,6 +2771,9 @@
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
+  restkit = {
+    "4.2.2" = import ./overrides/restkit/4.2.2;
+  };
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
@@ -2944,6 +2950,9 @@
   };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
+  };
+  socketpool = {
+    "0.5.3" = import ./overrides/socketpool/0.5.3;
   };
   sockjs-tornado = {
     "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
