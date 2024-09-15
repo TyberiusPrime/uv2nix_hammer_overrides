@@ -171,6 +171,9 @@
   args = {
     "0.1.0" = import ./overrides/args/0.1.0;
   };
+  argschema = {
+    "3.0.4" = import ./overrides/argschema/3.0.4;
+  };
   argumental = {
     "1.13" = import ./overrides/argumental/1.13;
   };
