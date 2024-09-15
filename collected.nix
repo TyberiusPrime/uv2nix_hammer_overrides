@@ -4621,6 +4621,9 @@
   yasi = {
     "2.1.2" = import ./overrides/yasi/2.1.2;
   };
+  yaswfp = {
+    "0.9.3" = import ./overrides/yaswfp/0.9.3;
+  };
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
   };
