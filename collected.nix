@@ -4545,6 +4545,9 @@
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
+  xvfbwrapper = {
+    "0.2.9" = import ./overrides/xvfbwrapper/0.2.9;
+  };
   yahooweather = {
     "0.10" = import ./overrides/yahooweather/0.10;
   };
