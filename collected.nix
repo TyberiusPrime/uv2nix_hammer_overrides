@@ -1495,6 +1495,9 @@
   ffmpeg = {
     "1.4" = import ./overrides/ffmpeg/1.4;
   };
+  fido2 = {
+    "0.9.3" = import ./overrides/fido2/0.9.3;
+  };
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
   };
