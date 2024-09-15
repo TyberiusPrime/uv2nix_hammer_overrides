@@ -2316,6 +2316,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  libvhdi-python = {
+    "20240509" = import ./overrides/libvhdi-python/20240509;
+  };
   libvmdk-python = {
     "20240510" = import ./overrides/libvmdk-python/20240510;
   };
