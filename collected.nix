@@ -3273,6 +3273,9 @@
   python-logstash = {
     "0.4.8" = import ./overrides/python-logstash/0.4.8;
   };
+  python-ly = {
+    "0.9.7" = import ./overrides/python-ly/0.9.7;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
