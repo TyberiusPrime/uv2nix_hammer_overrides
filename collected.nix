@@ -660,6 +660,9 @@
   django-celery-beat = {
     "2.6.0" = import ./overrides/django-celery-beat/2.6.0;
   };
+  django-compat = {
+    "1.0.15" = import ./overrides/django-compat/1.0.15;
+  };
   django-cratis = {
     "0.9.1" = import ./overrides/django-cratis/0.9.1;
   };
