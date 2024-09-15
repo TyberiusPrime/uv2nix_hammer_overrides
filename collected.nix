@@ -2675,6 +2675,9 @@
   pyogg = {
     "0.6.14a1" = import ./overrides/pyogg/0.6.14a1;
   };
+  pyoo = {
+    "1.4" = import ./overrides/pyoo/1.4;
+  };
   pyopengl = {
     "3.1.0" = import ./overrides/pyopengl/3.1.0;
   };
