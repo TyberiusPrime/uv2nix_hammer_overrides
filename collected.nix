@@ -2403,6 +2403,9 @@
   python-terraform = {
     "0.10.1" = import ./overrides/python-terraform/0.10.1;
   };
+  python-vxi11 = {
+    "0.9" = import ./overrides/python-vxi11/0.9;
+  };
   python-wink = {
     "1.10.5" = import ./overrides/python-wink/1.10.5;
   };
