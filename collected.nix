@@ -2898,6 +2898,9 @@
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
   };
+  torchaudio = {
+    "2.4.1" = import ./overrides/torchaudio/2.4.1;
+  };
   torchnet = {
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
