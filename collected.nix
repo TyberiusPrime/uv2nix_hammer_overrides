@@ -4490,6 +4490,9 @@
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
   };
+  volkszaehler = {
+    "0.4.0" = import ./overrides/volkszaehler/0.4.0;
+  };
   volvooncall = {
     "0.10.4" = import ./overrides/volvooncall/0.10.4;
   };
