@@ -3206,6 +3206,9 @@
   yamlcfg = {
     "0.5.3" = import ./overrides/yamlcfg/0.5.3;
   };
+  yapsy = {
+    "1.12.2" = import ./overrides/yapsy/1.12.2;
+  };
   yasi = {
     "2.1.2" = import ./overrides/yasi/2.1.2;
   };
