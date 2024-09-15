@@ -1402,6 +1402,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  keopscore = {
+    "2.2.3" = import ./overrides/keopscore/2.2.3;
+  };
   kerberos = {
     "1.3.1" = import ./overrides/kerberos/1.3.1;
   };
@@ -2167,6 +2170,9 @@
   };
   pykafka = {
     "2.8.0" = import ./overrides/pykafka/2.8.0;
+  };
+  pykeops = {
+    "2.2.3" = import ./overrides/pykeops/2.2.3;
   };
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
