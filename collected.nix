@@ -2857,6 +2857,9 @@
   obd = {
     "0.7.2" = import ./overrides/obd/0.7.2;
   };
+  octobot-commons = {
+    "1.9.58" = import ./overrides/octobot-commons/1.9.58;
+  };
   odfpy = {
     "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
