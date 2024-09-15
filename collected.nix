@@ -264,6 +264,9 @@
   backports-ssl-match-hostname = {
     "3.7.0.1" = import ./overrides/backports-ssl-match-hostname/3.7.0.1;
   };
+  backports-strenum = {
+    "1.1.1" = import ./overrides/backports-strenum/1.1.1;
+  };
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
@@ -428,6 +431,9 @@
   };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
+  };
+  cleandev-config-loader = {
+    "0.3.5" = import ./overrides/cleandev-config-loader/0.3.5;
   };
   clf = {
     "0.5.7" = import ./overrides/clf/0.5.7;
