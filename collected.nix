@@ -3307,6 +3307,9 @@
   pretty-midi = {
     "0.2.10" = import ./overrides/pretty-midi/0.2.10;
   };
+  prettyconf = {
+    "2.2.1" = import ./overrides/prettyconf/2.2.1;
+  };
   prettyparse = {
     "1.2.0" = import ./overrides/prettyparse/1.2.0;
   };
