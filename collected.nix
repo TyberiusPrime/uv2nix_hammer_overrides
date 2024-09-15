@@ -1594,6 +1594,9 @@
   jujuclient = {
     "0.54.0" = import ./overrides/jujuclient/0.54.0;
   };
+  julian = {
+    "0.14" = import ./overrides/julian/0.14;
+  };
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
