@@ -743,6 +743,9 @@
   debts = {
     "0.5" = import ./overrides/debts/0.5;
   };
+  decore = {
+    "0.0.1" = import ./overrides/decore/0.0.1;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
