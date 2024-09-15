@@ -596,6 +596,9 @@
   debts = {
     "0.5" = import ./overrides/debts/0.5;
   };
+  deeplift = {
+    "0.6.13.0" = import ./overrides/deeplift/0.6.13.0;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
