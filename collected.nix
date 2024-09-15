@@ -1017,6 +1017,9 @@
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
+  frida-tools = {
+    "12.5.1" = import ./overrides/frida-tools/12.5.1;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
