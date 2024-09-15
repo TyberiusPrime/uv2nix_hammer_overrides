@@ -1267,6 +1267,9 @@
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
+  inotify-simple = {
+    "1.3.5" = import ./overrides/inotify-simple/1.3.5;
+  };
   insightface = {
     "0.7.3" = import ./overrides/insightface/0.7.3;
   };
