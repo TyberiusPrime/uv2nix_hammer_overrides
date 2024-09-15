@@ -2068,6 +2068,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycflow2dot = {
+    "0.2.3" = import ./overrides/pycflow2dot/0.2.3;
+  };
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
   };
