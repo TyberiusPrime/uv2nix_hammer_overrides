@@ -5259,7 +5259,11 @@
     "1.1" = import ./overrides/unifiled/1.1;
   };
   unimatrix = {
+    "0.26.0" = import ./overrides/unimatrix/0.26.0;
     "1.14.0" = import ./overrides/unimatrix/1.14.0;
+  };
+  unimatrix-ext-model = {
+    "0.8.0" = import ./overrides/unimatrix-ext-model/0.8.0;
   };
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
