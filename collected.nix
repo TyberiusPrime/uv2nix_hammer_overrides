@@ -590,6 +590,9 @@
   consolemsg = {
     "0.3.3" = import ./overrides/consolemsg/0.3.3;
   };
+  consoleprinter = {
+    "95" = import ./overrides/consoleprinter/95;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
