@@ -4136,6 +4136,9 @@
   safe-pysha3 = {
     "1.0.4" = import ./overrides/safe-pysha3/1.0.4;
   };
+  safeio = {
+    "1.2" = import ./overrides/safeio/1.2;
+  };
   sane-python = {
     "0.1.3" = import ./overrides/sane-python/0.1.3;
   };
