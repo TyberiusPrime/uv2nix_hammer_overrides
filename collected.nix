@@ -1432,6 +1432,9 @@
   langid = {
     "1.1.6" = import ./overrides/langid/1.1.6;
   };
+  lantz-core = {
+    "0.5.3" = import ./overrides/lantz-core/0.5.3;
+  };
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
@@ -1936,6 +1939,9 @@
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
   };
+  pimpmyclass = {
+    "0.4.3" = import ./overrides/pimpmyclass/0.4.3;
+  };
   pims = {
     "0.7" = import ./overrides/pims/0.7;
   };
@@ -2275,6 +2281,9 @@
   };
   pysendfile = {
     "2.0.1" = import ./overrides/pysendfile/2.0.1;
+  };
+  pysignal = {
+    "1.1.1" = import ./overrides/pysignal/1.1.1;
   };
   pysigset = {
     "0.4.0" = import ./overrides/pysigset/0.4.0;
@@ -2635,6 +2644,9 @@
   };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
+  };
+  serialize = {
+    "0.2.1" = import ./overrides/serialize/0.2.1;
   };
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
