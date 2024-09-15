@@ -1372,6 +1372,9 @@
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
+  events = {
+    "0.3" = import ./overrides/events/0.3;
+  };
   ewmh = {
     "0.1.6" = import ./overrides/ewmh/0.1.6;
   };
@@ -1760,6 +1763,9 @@
   };
   graphene-django-optimizer = {
     "0.8.0" = import ./overrides/graphene-django-optimizer/0.8.0;
+  };
+  graphenelib = {
+    "1.6.1" = import ./overrides/graphenelib/1.6.1;
   };
   graphql-server-core = {
     "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
@@ -3597,6 +3603,7 @@
     "0.2.5" = import ./overrides/pylibconfig2/0.2.5;
   };
   pylibscrypt = {
+    "1.8.0" = import ./overrides/pylibscrypt/1.8.0;
     "2.0.0" = import ./overrides/pylibscrypt/2.0.0;
   };
   pylint-celery = {
