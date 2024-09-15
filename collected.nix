@@ -1314,6 +1314,9 @@
   fortranformat = {
     "2.0.0" = import ./overrides/fortranformat/2.0.0;
   };
+  foundationdb = {
+    "7.3.49" = import ./overrides/foundationdb/7.3.49;
+  };
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
