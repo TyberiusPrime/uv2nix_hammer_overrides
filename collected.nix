@@ -2618,6 +2618,9 @@
   pyiceberg = {
     "0.7.1" = import ./overrides/pyiceberg/0.7.1;
   };
+  pyimgur = {
+    "0.6.0" = import ./overrides/pyimgur/0.6.0;
+  };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
