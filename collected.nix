@@ -1600,6 +1600,9 @@
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
+  meta = {
+    "1.0.2" = import ./overrides/meta/1.0.2;
+  };
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
   };
