@@ -20,7 +20,7 @@ excluded_pkgs = toml.loads(
 
 def write_excluded_pkgs():
     (Path(__file__).parent.parent / "todo" / "excluded.toml").write_text(
-        toml.dumps(excluded_pkgs, indent=2)
+        toml.dumps(excluded_pkgs)
     )
 
 
@@ -70,6 +70,9 @@ while True:
     if chosen in attempted and keep_going:
         print("skipping, attempted (&keep-going)", chosen)
         continue
+    if chosen in attempted and "--break" in sys.argv:
+        print("Aborting because of prev. attempt", chosen)
+        sys.exit()
     cmd = ["uv2nix-hammer", "--wheel", chosen]
     print("executing", " ".join(cmd), "(count", count, "of", total, ")")
     p = subprocess.Popen(cmd, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
@@ -98,6 +101,12 @@ while True:
             and "'['uv', 'lock'," in stderr
         ):
             msg = "Automatic: uv failure, required imp."
+        if "package not on pypi" in stderr:
+            msg = "Automatic: package not on pypi"
+        if "was not found in the package registry" in stderr:
+            msg = "Automatic: uv failure: Dependency not found in package registry"
+        if "No solution found when resolving dependencies" in stderr:
+            msg = "Automic: uv lock failure, no solution when resolving dependencies"
 
         if msg:
             print(msg)
