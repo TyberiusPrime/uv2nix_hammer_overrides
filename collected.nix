@@ -1207,6 +1207,9 @@
   empyrical = {
     "0.5.5" = import ./overrides/empyrical/0.5.5;
   };
+  encodec = {
+    "0.1.1" = import ./overrides/encodec/0.1.1;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
