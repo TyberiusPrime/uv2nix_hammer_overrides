@@ -422,6 +422,9 @@
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
+  colored = {
+    "1.4.4" = import ./overrides/colored/1.4.4;
+  };
   colormath = {
     "3.0.0" = import ./overrides/colormath/3.0.0;
   };
