@@ -2335,6 +2335,9 @@
   kitchen = {
     "1.2.6" = import ./overrides/kitchen/1.2.6;
   };
+  kivymd = {
+    "1.2.0" = import ./overrides/kivymd/1.2.0;
+  };
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
