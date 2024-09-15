@@ -675,6 +675,9 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-fernet-fields = {
+    "0.6" = import ./overrides/django-fernet-fields/0.6;
+  };
   django-jinja2 = {
     "0.1" = import ./overrides/django-jinja2/0.1;
   };
