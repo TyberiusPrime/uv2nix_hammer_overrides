@@ -2585,6 +2585,9 @@
   rstgen = {
     "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
+  rstview = {
+    "0.4.0" = import ./overrides/rstview/0.4.0;
+  };
   runcmd = {
     "2020.12.3" = import ./overrides/runcmd/2020.12.3;
   };
