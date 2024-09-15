@@ -2161,11 +2161,17 @@
   nlptoolkit-corpus = {
     "1.0.25" = import ./overrides/nlptoolkit-corpus/1.0.25;
   };
+  nlptoolkit-datastructure = {
+    "1.0.14" = import ./overrides/nlptoolkit-datastructure/1.0.14;
+  };
   nlptoolkit-dictionary = {
     "1.0.35" = import ./overrides/nlptoolkit-dictionary/1.0.35;
   };
   nlptoolkit-math = {
     "1.0.18" = import ./overrides/nlptoolkit-math/1.0.18;
+  };
+  nlptoolkit-morphologicalanalysis = {
+    "1.0.47" = import ./overrides/nlptoolkit-morphologicalanalysis/1.0.47;
   };
   nlptoolkit-util = {
     "1.0.11" = import ./overrides/nlptoolkit-util/1.0.11;
