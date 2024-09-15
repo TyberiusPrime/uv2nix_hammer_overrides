@@ -3210,6 +3210,9 @@
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
+  pytsk3 = {
+    "20231007" = import ./overrides/pytsk3/20231007;
+  };
   pytweening = {
     "1.2.0" = import ./overrides/pytweening/1.2.0;
   };
