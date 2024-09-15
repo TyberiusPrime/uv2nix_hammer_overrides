@@ -4120,6 +4120,9 @@
   torchvision = {
     "0.19.1" = import ./overrides/torchvision/0.19.1;
   };
+  toredis = {
+    "0.1.2" = import ./overrides/toredis/0.1.2;
+  };
   tornadis = {
     "0.8.1" = import ./overrides/tornadis/0.8.1;
   };
