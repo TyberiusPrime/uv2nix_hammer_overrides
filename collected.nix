@@ -2189,6 +2189,9 @@
   packbits = {
     "0.6" = import ./overrides/packbits/0.6;
   };
+  pager = {
+    "3.3" = import ./overrides/pager/3.3;
+  };
   paginator = {
     "0.5.1" = import ./overrides/paginator/0.5.1;
   };
