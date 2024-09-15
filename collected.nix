@@ -1681,6 +1681,9 @@
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
+  mullvad-closest = {
+    "0.0.3" = import ./overrides/mullvad-closest/0.0.3;
+  };
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
