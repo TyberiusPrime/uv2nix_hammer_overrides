@@ -915,6 +915,9 @@
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
+  django-impersonate = {
+    "1.9.4" = import ./overrides/django-impersonate/1.9.4;
+  };
   django-jinja2 = {
     "0.1" = import ./overrides/django-jinja2/0.1;
   };
