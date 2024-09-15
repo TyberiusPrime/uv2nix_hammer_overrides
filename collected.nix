@@ -3386,6 +3386,9 @@
   www-authenticate = {
     "0.9.2" = import ./overrides/www-authenticate/0.9.2;
   };
+  wxpy = {
+    "0.3.9.8" = import ./overrides/wxpy/0.3.9.8;
+  };
   xapp = {
     "0.0.1" = import ./overrides/xapp/0.0.1;
   };
