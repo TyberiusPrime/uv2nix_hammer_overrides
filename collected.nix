@@ -1474,6 +1474,9 @@
   fastdtw = {
     "0.3.4" = import ./overrides/fastdtw/0.3.4;
   };
+  fastecdsa = {
+    "2.3.2" = import ./overrides/fastecdsa/2.3.2;
+  };
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
