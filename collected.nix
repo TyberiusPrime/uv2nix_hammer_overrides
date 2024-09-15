@@ -801,6 +801,9 @@
   django-summernote = {
     "0.8.20.0" = import ./overrides/django-summernote/0.8.20.0;
   };
+  django-taggit-serializer = {
+    "0.1.7" = import ./overrides/django-taggit-serializer/0.1.7;
+  };
   django-taggit-templatetags = {
     "0.2.5" = import ./overrides/django-taggit-templatetags/0.2.5;
   };
