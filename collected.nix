@@ -2206,6 +2206,9 @@
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
   };
+  journalwatch = {
+    "1.1.0" = import ./overrides/journalwatch/1.1.0;
+  };
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
