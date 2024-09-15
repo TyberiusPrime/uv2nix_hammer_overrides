@@ -1576,6 +1576,9 @@
   httpexceptor = {
     "1.4.0" = import ./overrides/httpexceptor/1.4.0;
   };
+  httplib2shim = {
+    "0.0.3" = import ./overrides/httplib2shim/0.0.3;
+  };
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
