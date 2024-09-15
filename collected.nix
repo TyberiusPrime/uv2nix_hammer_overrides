@@ -4230,6 +4230,9 @@
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
   };
+  regional = {
+    "1.1.2" = import ./overrides/regional/1.1.2;
+  };
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
