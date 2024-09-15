@@ -3711,6 +3711,9 @@
   pypdf4 = {
     "1.27.0" = import ./overrides/pypdf4/1.27.0;
   };
+  pypdftk = {
+    "0.5" = import ./overrides/pypdftk/0.5;
+  };
   pypeg2 = {
     "2.15.2" = import ./overrides/pypeg2/2.15.2;
   };
