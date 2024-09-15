@@ -1366,6 +1366,9 @@
   flake8-mutable = {
     "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
   };
+  flanker = {
+    "0.9.11" = import ./overrides/flanker/0.9.11;
+  };
   flasgger = {
     "0.9.7.2.dev2" = import ./overrides/flasgger/0.9.7.2.dev2;
   };
