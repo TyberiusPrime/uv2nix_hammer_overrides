@@ -1711,6 +1711,9 @@
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
+  natto-py = {
+    "1.0.1" = import ./overrides/natto-py/1.0.1;
+  };
   naturalsort = {
     "1.5.1" = import ./overrides/naturalsort/1.5.1;
   };
