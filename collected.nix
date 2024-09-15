@@ -4600,6 +4600,9 @@
   simpleaudio = {
     "1.0.4" = import ./overrides/simpleaudio/1.0.4;
   };
+  simpledbf = {
+    "0.2.6" = import ./overrides/simpledbf/0.2.6;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
