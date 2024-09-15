@@ -2610,6 +2610,9 @@
   morph = {
     "0.1.5" = import ./overrides/morph/0.1.5;
   };
+  mosestokenizer = {
+    "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
+  };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
@@ -4725,6 +4728,9 @@
   tools = {
     "0.1.9" = import ./overrides/tools/0.1.9;
   };
+  toolwrapper = {
+    "2.1.0" = import ./overrides/toolwrapper/2.1.0;
+  };
   torch = {
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
@@ -4899,6 +4905,9 @@
   };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
+  };
+  uctools = {
+    "1.3.0" = import ./overrides/uctools/1.3.0;
   };
   udatetime = {
     "0.0.17" = import ./overrides/udatetime/0.0.17;
