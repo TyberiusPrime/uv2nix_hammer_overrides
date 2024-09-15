@@ -3906,6 +3906,9 @@
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
   };
+  pyvimeo = {
+    "1.1.2" = import ./overrides/pyvimeo/1.1.2;
+  };
   pyvips = {
     "2.2.3" = import ./overrides/pyvips/2.2.3;
   };
