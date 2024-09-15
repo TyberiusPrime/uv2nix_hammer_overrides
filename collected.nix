@@ -978,6 +978,9 @@
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
+  expects = {
+    "0.9.0" = import ./overrides/expects/0.9.0;
+  };
   ezodf = {
     "0.3.2" = import ./overrides/ezodf/0.3.2;
   };
