@@ -5054,6 +5054,9 @@
   tornado-systemd = {
     "1.0.1" = import ./overrides/tornado-systemd/1.0.1;
   };
+  tornado-utils = {
+    "1.6" = import ./overrides/tornado-utils/1.6;
+  };
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
   };
