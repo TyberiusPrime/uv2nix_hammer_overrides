@@ -3041,6 +3041,9 @@
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
+  omf = {
+    "1.0.1" = import ./overrides/omf/1.0.1;
+  };
   onetimepass = {
     "1.0.1" = import ./overrides/onetimepass/1.0.1;
   };
@@ -5348,6 +5351,9 @@
   };
   vcversioner = {
     "2.16.0.0" = import ./overrides/vcversioner/2.16.0.0;
+  };
+  vectormath = {
+    "0.2.2" = import ./overrides/vectormath/0.2.2;
   };
   vedo = {
     "2024.5.2" = import ./overrides/vedo/2024.5.2;
