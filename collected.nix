@@ -1366,6 +1366,15 @@
   ewmh = {
     "0.1.6" = import ./overrides/ewmh/0.1.6;
   };
+  ewoks = {
+    "0.5.0" = import ./overrides/ewoks/0.5.0;
+  };
+  ewokscore = {
+    "0.8.1" = import ./overrides/ewokscore/0.8.1;
+  };
+  ewoksutils = {
+    "0.1.2" = import ./overrides/ewoksutils/0.1.2;
+  };
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
