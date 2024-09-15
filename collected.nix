@@ -1681,6 +1681,9 @@
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
+  msgpack-rpc-python = {
+    "0.4.1" = import ./overrides/msgpack-rpc-python/0.4.1;
+  };
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
@@ -2903,6 +2906,9 @@
   };
   tornadis = {
     "0.8.1" = import ./overrides/tornadis/0.8.1;
+  };
+  tornado = {
+    "4.5.3" = import ./overrides/tornado/4.5.3;
   };
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
