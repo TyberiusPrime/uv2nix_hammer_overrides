@@ -2055,6 +2055,9 @@
   iowait = {
     "0.2" = import ./overrides/iowait/0.2;
   };
+  ipadic = {
+    "1.0.0" = import ./overrides/ipadic/1.0.0;
+  };
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
