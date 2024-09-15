@@ -2251,6 +2251,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pychalk = {
+    "2.0.1" = import ./overrides/pychalk/2.0.1;
+  };
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
   };
