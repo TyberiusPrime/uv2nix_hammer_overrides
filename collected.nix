@@ -2080,6 +2080,9 @@
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
+  petname = {
+    "2.6" = import ./overrides/petname/2.6;
+  };
   pexif = {
     "0.15" = import ./overrides/pexif/0.15;
   };
