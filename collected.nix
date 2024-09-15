@@ -3602,6 +3602,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  ritassist = {
+    "0.9.3" = import ./overrides/ritassist/0.9.3;
+  };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
@@ -3892,6 +3895,9 @@
   };
   srvlookup = {
     "3.0.0" = import ./overrides/srvlookup/3.0.0;
+  };
+  sseclient = {
+    "0.0.27" = import ./overrides/sseclient/0.0.27;
   };
   starkbank-ecdsa = {
     "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
