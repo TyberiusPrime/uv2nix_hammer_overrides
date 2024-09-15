@@ -264,6 +264,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  birdy = {
+    "0.3.2" = import ./overrides/birdy/0.3.2;
+  };
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
