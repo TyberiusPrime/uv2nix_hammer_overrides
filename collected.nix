@@ -3566,6 +3566,9 @@
   pymbolic = {
     "2022.2" = import ./overrides/pymbolic/2022.2;
   };
+  pymeeus = {
+    "0.5.12" = import ./overrides/pymeeus/0.5.12;
+  };
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
