@@ -2624,6 +2624,9 @@
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
+  scrapeasy = {
+    "0.12" = import ./overrides/scrapeasy/0.12;
+  };
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
   };
