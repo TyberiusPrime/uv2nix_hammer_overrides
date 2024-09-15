@@ -879,6 +879,9 @@
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
+  f5-icontrol-rest = {
+    "1.3.13" = import ./overrides/f5-icontrol-rest/1.3.13;
+  };
   fabtools = {
     "0.20.0" = import ./overrides/fabtools/0.20.0;
   };
