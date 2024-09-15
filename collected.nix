@@ -2418,6 +2418,9 @@
   mailmanclient = {
     "3.3.5" = import ./overrides/mailmanclient/3.3.5;
   };
+  mailthon = {
+    "0.1.1" = import ./overrides/mailthon/0.1.1;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
