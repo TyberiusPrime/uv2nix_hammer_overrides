@@ -2738,6 +2738,9 @@
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
+  splunk-sdk = {
+    "2.0.2" = import ./overrides/splunk-sdk/2.0.2;
+  };
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
   };
