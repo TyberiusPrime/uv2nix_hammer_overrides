@@ -469,6 +469,9 @@
   callee = {
     "0.3.1" = import ./overrides/callee/0.3.1;
   };
+  canonical = {
+    "0.52.0" = import ./overrides/canonical/0.52.0;
+  };
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
@@ -531,6 +534,9 @@
   };
   ckantoolkit = {
     "0.0.7" = import ./overrides/ckantoolkit/0.0.7;
+  };
+  ckms = {
+    "0.65.0" = import ./overrides/ckms/0.65.0;
   };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
