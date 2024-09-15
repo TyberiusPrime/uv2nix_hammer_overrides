@@ -1396,6 +1396,9 @@
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
+  jieba3k = {
+    "0.35.1" = import ./overrides/jieba3k/0.35.1;
+  };
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
   };
