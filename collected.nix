@@ -5,6 +5,9 @@
   aaargh = {
     "0.7.1" = import ./overrides/aaargh/0.7.1;
   };
+  aacgmv2 = {
+    "2.6.3" = import ./overrides/aacgmv2/2.6.3;
+  };
   aadict = {
     "0.2.3" = import ./overrides/aadict/0.2.3;
   };
