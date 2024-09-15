@@ -328,6 +328,9 @@
   bashplotlib = {
     "0.6.5" = import ./overrides/bashplotlib/0.6.5;
   };
+  basicrpc = {
+    "0.0.2" = import ./overrides/basicrpc/0.0.2;
+  };
   basicsr = {
     "1.4.2" = import ./overrides/basicsr/1.4.2;
   };
