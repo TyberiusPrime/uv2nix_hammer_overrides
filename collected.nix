@@ -870,6 +870,9 @@
   dexy = {
     "2.0.9" = import ./overrides/dexy/2.0.9;
   };
+  dfdatetime = {
+    "20240504" = import ./overrides/dfdatetime/20240504;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
