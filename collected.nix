@@ -2672,6 +2672,9 @@
   pyld = {
     "1.0.5" = import ./overrides/pyld/1.0.5;
   };
+  pyleri = {
+    "1.4.3" = import ./overrides/pyleri/1.4.3;
+  };
   pylibconfig2 = {
     "0.2.5" = import ./overrides/pylibconfig2/0.2.5;
   };
