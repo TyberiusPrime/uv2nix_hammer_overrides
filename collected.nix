@@ -639,6 +639,9 @@
   configspace = {
     "1.2.0" = import ./overrides/configspace/1.2.0;
   };
+  connect-box = {
+    "0.4.0" = import ./overrides/connect-box/0.4.0;
+  };
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
