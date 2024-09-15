@@ -2241,6 +2241,9 @@
   kegbot-pyutils = {
     "1.0.0" = import ./overrides/kegbot-pyutils/1.0.0;
   };
+  keopscore = {
+    "2.2.3" = import ./overrides/keopscore/2.2.3;
+  };
   keras-resnet = {
     "0.2.0" = import ./overrides/keras-resnet/0.2.0;
   };
@@ -3595,6 +3598,9 @@
   };
   pykafka = {
     "2.8.0" = import ./overrides/pykafka/2.8.0;
+  };
+  pykeops = {
+    "2.2.3" = import ./overrides/pykeops/2.2.3;
   };
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
