@@ -4883,6 +4883,9 @@
   yamlreader = {
     "3.0.4" = import ./overrides/yamlreader/3.0.4;
   };
+  yapsy = {
+    "1.12.2" = import ./overrides/yapsy/1.12.2;
+  };
   yasi = {
     "2.1.2" = import ./overrides/yasi/2.1.2;
   };
