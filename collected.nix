@@ -481,6 +481,9 @@
   bw2data = {
     "3.6.6" = import ./overrides/bw2data/3.6.6;
   };
+  bz2file = {
+    "0.98" = import ./overrides/bz2file/0.98;
+  };
   cachecontrol = {
     "0.12.3" = import ./overrides/cachecontrol/0.12.3;
   };
