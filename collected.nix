@@ -4978,6 +4978,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  webdavclient3 = {
+    "3.14.6" = import ./overrides/webdavclient3/3.14.6;
+  };
   webexteamssdk = {
     "1.7" = import ./overrides/webexteamssdk/1.7;
   };
