@@ -1312,6 +1312,9 @@
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
+  ipyxact = {
+    "0.3.2" = import ./overrides/ipyxact/0.3.2;
+  };
   iso-639 = {
     "0.4.5" = import ./overrides/iso-639/0.4.5;
   };
