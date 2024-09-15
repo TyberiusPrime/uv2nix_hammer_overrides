@@ -2948,6 +2948,9 @@
   sacremoses = {
     "0.0.53" = import ./overrides/sacremoses/0.0.53;
   };
+  safe-pysha3 = {
+    "1.0.4" = import ./overrides/safe-pysha3/1.0.4;
+  };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
   };
