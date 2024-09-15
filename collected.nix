@@ -699,6 +699,9 @@
   django-oauth-tokens = {
     "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
   };
+  django-ohm2-handlers-light = {
+    "0.4.3" = import ./overrides/django-ohm2-handlers-light/0.4.3;
+  };
   django-pure-pagination = {
     "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
   };
