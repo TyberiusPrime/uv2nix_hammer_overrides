@@ -630,6 +630,9 @@
   colortools = {
     "0.1.2" = import ./overrides/colortools/0.1.2;
   };
+  colr = {
+    "0.9.1" = import ./overrides/colr/0.9.1;
+  };
   combo = {
     "0.1.3" = import ./overrides/combo/0.1.3;
   };
