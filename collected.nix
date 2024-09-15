@@ -3100,6 +3100,9 @@
   pixiedust = {
     "1.1.19" = import ./overrides/pixiedust/1.1.19;
   };
+  pkcs7 = {
+    "0.1.2" = import ./overrides/pkcs7/0.1.2;
+  };
   pkgtools = {
     "0.7.3" = import ./overrides/pkgtools/0.7.3;
   };
