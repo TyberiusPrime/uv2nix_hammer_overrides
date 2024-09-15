@@ -1390,6 +1390,9 @@
   epion = {
     "0.0.3" = import ./overrides/epion/0.0.3;
   };
+  erlastic = {
+    "2.0.0" = import ./overrides/erlastic/2.0.0;
+  };
   esdk-obs-python = {
     "3.24.6.1" = import ./overrides/esdk-obs-python/3.24.6.1;
   };
