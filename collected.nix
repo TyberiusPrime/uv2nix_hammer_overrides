@@ -1312,6 +1312,9 @@
   gazpacho = {
     "1.1" = import ./overrides/gazpacho/1.1;
   };
+  gbdxtools = {
+    "0.0.0.1" = import ./overrides/gbdxtools/0.0.0.1;
+  };
   gcloud = {
     "0.18.3" = import ./overrides/gcloud/0.18.3;
   };
