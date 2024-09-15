@@ -2591,6 +2591,9 @@
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
   };
+  sabyenc = {
+    "3.3.6" = import ./overrides/sabyenc/3.3.6;
+  };
   sacremoses = {
     "0.0.53" = import ./overrides/sacremoses/0.0.53;
   };
