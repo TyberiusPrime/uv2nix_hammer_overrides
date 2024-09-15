@@ -4214,6 +4214,9 @@
   sseclient = {
     "0.0.27" = import ./overrides/sseclient/0.0.27;
   };
+  sslyze = {
+    "6.0.0" = import ./overrides/sslyze/6.0.0;
+  };
   starkbank-ecdsa = {
     "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
   };
@@ -4436,6 +4439,9 @@
   };
   tls-client = {
     "1.0.1" = import ./overrides/tls-client/1.0.1;
+  };
+  tls-parser = {
+    "2.0.1" = import ./overrides/tls-parser/2.0.1;
   };
   tlslite = {
     "0.4.9" = import ./overrides/tlslite/0.4.9;
