@@ -816,6 +816,9 @@
   django-ohm2-handlers-light = {
     "0.4.3" = import ./overrides/django-ohm2-handlers-light/0.4.3;
   };
+  django-pglocks = {
+    "1.0.4" = import ./overrides/django-pglocks/1.0.4;
+  };
   django-pure-pagination = {
     "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
   };
