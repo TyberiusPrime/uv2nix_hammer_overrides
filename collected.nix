@@ -2092,6 +2092,9 @@
   mock-services = {
     "0.3.1" = import ./overrides/mock-services/0.3.1;
   };
+  mocker = {
+    "1.1.1" = import ./overrides/mocker/1.1.1;
+  };
   modelcif = {
     "1.0" = import ./overrides/modelcif/1.0;
   };
