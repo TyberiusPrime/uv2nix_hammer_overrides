@@ -4252,6 +4252,9 @@
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
   };
+  volvooncall = {
+    "0.10.4" = import ./overrides/volvooncall/0.10.4;
+  };
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
   };
