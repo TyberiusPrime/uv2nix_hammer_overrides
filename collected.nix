@@ -162,6 +162,9 @@
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
+  applescript = {
+    "2021.2.9" = import ./overrides/applescript/2021.2.9;
+  };
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
