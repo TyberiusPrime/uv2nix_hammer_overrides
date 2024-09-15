@@ -3224,6 +3224,9 @@
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
+  zhconv = {
+    "1.4.3" = import ./overrides/zhconv/1.4.3;
+  };
   zipseeker = {
     "1.0.11" = import ./overrides/zipseeker/1.0.11;
   };
