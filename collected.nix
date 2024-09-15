@@ -2485,6 +2485,9 @@
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
+  linuxfd = {
+    "1.5" = import ./overrides/linuxfd/1.5;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
