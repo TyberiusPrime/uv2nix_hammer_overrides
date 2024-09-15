@@ -4359,6 +4359,9 @@
   robotpy-hal-sim = {
     "2019.2.3" = import ./overrides/robotpy-hal-sim/2019.2.3;
   };
+  roku = {
+    "4.1.0" = import ./overrides/roku/4.1.0;
+  };
   ropper = {
     "1.13.8" = import ./overrides/ropper/1.13.8;
   };
