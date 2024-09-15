@@ -189,6 +189,9 @@
   authres = {
     "1.2.0" = import ./overrides/authres/1.2.0;
   };
+  autobreadcrumbs = {
+    "2.0.0" = import ./overrides/autobreadcrumbs/2.0.0;
+  };
   autocorrect = {
     "2.6.1" = import ./overrides/autocorrect/2.6.1;
   };
