@@ -1720,6 +1720,9 @@
   keyrings-cryptfile = {
     "1.3.9" = import ./overrides/keyrings-cryptfile/1.3.9;
   };
+  keyutils = {
+    "0.6" = import ./overrides/keyutils/0.6;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
