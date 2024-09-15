@@ -213,6 +213,9 @@
   aws-cdk-constructs = {
     "2.32.0.post0" = import ./overrides/aws-cdk-constructs/2.32.0.post0;
   };
+  axial-positional-embedding = {
+    "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
+  };
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
