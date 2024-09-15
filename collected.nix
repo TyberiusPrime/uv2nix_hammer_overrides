@@ -2750,6 +2750,9 @@
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
+  sqlmap = {
+    "1.8.9" = import ./overrides/sqlmap/1.8.9;
+  };
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
