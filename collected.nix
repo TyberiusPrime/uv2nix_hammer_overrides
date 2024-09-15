@@ -2255,6 +2255,9 @@
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
+  pyogg = {
+    "0.6.14a1" = import ./overrides/pyogg/0.6.14a1;
+  };
   pyopengl = {
     "3.1.0" = import ./overrides/pyopengl/3.1.0;
   };
