@@ -2376,6 +2376,9 @@
   lineedit = {
     "0.1.6" = import ./overrides/lineedit/0.1.6;
   };
+  linetable = {
+    "0.0.3" = import ./overrides/linetable/0.0.3;
+  };
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
