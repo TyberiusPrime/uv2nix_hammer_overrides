@@ -3865,6 +3865,9 @@
   python-ev3dev2 = {
     "2.1.0.post1" = import ./overrides/python-ev3dev2/2.1.0.post1;
   };
+  python-family-hub-local = {
+    "0.0.2" = import ./overrides/python-family-hub-local/0.0.2;
+  };
   python-fedora = {
     "1.1.1" = import ./overrides/python-fedora/1.1.1;
   };
