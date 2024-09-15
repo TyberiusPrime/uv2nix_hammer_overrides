@@ -1207,6 +1207,9 @@
   httpagentparser = {
     "1.9.5" = import ./overrides/httpagentparser/1.9.5;
   };
+  httpexceptor = {
+    "1.4.0" = import ./overrides/httpexceptor/1.4.0;
+  };
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
