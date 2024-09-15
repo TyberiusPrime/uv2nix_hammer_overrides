@@ -675,6 +675,9 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-el-pagination = {
+    "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
+  };
   django-jinja2 = {
     "0.1" = import ./overrides/django-jinja2/0.1;
   };
@@ -698,6 +701,9 @@
   };
   django-oauth-tokens = {
     "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
+  };
+  django-phonenumber-field = {
+    "1.3.0" = import ./overrides/django-phonenumber-field/1.3.0;
   };
   django-pure-pagination = {
     "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
@@ -749,6 +755,9 @@
   };
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
+  };
+  django-treebeard = {
+    "4.2.0" = import ./overrides/django-treebeard/4.2.0;
   };
   django-vkontakte-api = {
     "0.8.7" = import ./overrides/django-vkontakte-api/0.8.7;
@@ -1072,6 +1081,9 @@
   gitlab = {
     "1.0.2" = import ./overrides/gitlab/1.0.2;
   };
+  gitpython = {
+    "1.0.1" = import ./overrides/gitpython/1.0.1;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
@@ -1189,6 +1201,9 @@
   houdini-py = {
     "0.1.0" = import ./overrides/houdini-py/0.1.0;
   };
+  html2markdown = {
+    "0.1.7" = import ./overrides/html2markdown/0.1.7;
+  };
   html2text = {
     "2024.2.26" = import ./overrides/html2text/2024.2.26;
   };
@@ -1242,6 +1257,9 @@
   };
   image = {
     "1.5.33" = import ./overrides/image/1.5.33;
+  };
+  imagehash = {
+    "3.4" = import ./overrides/imagehash/3.4;
   };
   imageio = {
     "2.1.2" = import ./overrides/imageio/2.1.2;
@@ -2994,6 +3012,9 @@
   uflash = {
     "2.0.0" = import ./overrides/uflash/2.0.0;
   };
+  ujson = {
+    "1.35" = import ./overrides/ujson/1.35;
+  };
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
   };
@@ -3005,6 +3026,9 @@
   };
   unicodecsv = {
     "0.14.1" = import ./overrides/unicodecsv/0.14.1;
+  };
+  unidecode = {
+    "0.4.16" = import ./overrides/unidecode/0.4.16;
   };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
