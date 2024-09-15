@@ -2830,6 +2830,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycflow2dot = {
+    "0.2.3" = import ./overrides/pycflow2dot/0.2.3;
+  };
   pychalk = {
     "2.0.1" = import ./overrides/pychalk/2.0.1;
   };
