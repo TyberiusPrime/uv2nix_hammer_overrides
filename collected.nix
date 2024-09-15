@@ -2594,6 +2594,9 @@
   sacremoses = {
     "0.0.53" = import ./overrides/sacremoses/0.0.53;
   };
+  sane-python = {
+    "0.1.3" = import ./overrides/sane-python/0.1.3;
+  };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
   };
