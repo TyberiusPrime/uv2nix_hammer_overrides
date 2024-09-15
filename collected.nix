@@ -4560,6 +4560,9 @@
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
+  simplepam = {
+    "0.1.5" = import ./overrides/simplepam/0.1.5;
+  };
   simpleparse = {
     "2.2.4" = import ./overrides/simpleparse/2.2.4;
   };
