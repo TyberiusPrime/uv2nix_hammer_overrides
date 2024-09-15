@@ -2885,6 +2885,9 @@
   tarjan = {
     "0.2.4" = import ./overrides/tarjan/0.2.4;
   };
+  tba-api-v3client = {
+    "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
+  };
   telepath = {
     "0.3.1" = import ./overrides/telepath/0.3.1;
   };
