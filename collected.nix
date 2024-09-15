@@ -3006,6 +3006,9 @@
   unicodecsv = {
     "0.14.1" = import ./overrides/unicodecsv/0.14.1;
   };
+  unifi = {
+    "1.2.5" = import ./overrides/unifi/1.2.5;
+  };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
   };
