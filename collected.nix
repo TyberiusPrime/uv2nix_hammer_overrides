@@ -1969,6 +1969,9 @@
   mock-open = {
     "1.4.0" = import ./overrides/mock-open/1.4.0;
   };
+  mock-services = {
+    "0.3.1" = import ./overrides/mock-services/0.3.1;
+  };
   modelcif = {
     "1.0" = import ./overrides/modelcif/1.0;
   };
