@@ -554,6 +554,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  crlibm = {
+    "1.0.3" = import ./overrides/crlibm/1.0.3;
+  };
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
@@ -2431,6 +2434,9 @@
   };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
+  };
+  pyinterval = {
+    "1.2.0" = import ./overrides/pyinterval/1.2.0;
   };
   pyjade = {
     "4.0.0" = import ./overrides/pyjade/4.0.0;
