@@ -3388,6 +3388,9 @@
   python-fedora = {
     "1.1.1" = import ./overrides/python-fedora/1.1.1;
   };
+  python-firebase = {
+    "1.2" = import ./overrides/python-firebase/1.2;
+  };
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
