@@ -2062,6 +2062,9 @@
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
+  pybullet = {
+    "3.2.6" = import ./overrides/pybullet/3.2.6;
+  };
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
