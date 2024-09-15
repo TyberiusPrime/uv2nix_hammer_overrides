@@ -840,6 +840,9 @@
   cssmin = {
     "0.2.0" = import ./overrides/cssmin/0.2.0;
   };
+  csv342 = {
+    "1.0.1" = import ./overrides/csv342/1.0.1;
+  };
   curio = {
     "1.6" = import ./overrides/curio/1.6;
   };
