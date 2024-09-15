@@ -1853,6 +1853,9 @@
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
   };
+  otree = {
+    "5.11.0" = import ./overrides/otree/5.11.0;
+  };
   paginator = {
     "0.5.1" = import ./overrides/paginator/0.5.1;
   };
@@ -2373,6 +2376,9 @@
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
+  python-multipart = {
+    "0.0.5" = import ./overrides/python-multipart/0.0.5;
+  };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
@@ -2740,6 +2746,9 @@
   };
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
+  };
+  sqlalchemy = {
+    "1.3.22" = import ./overrides/sqlalchemy/1.3.22;
   };
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
