@@ -3160,6 +3160,9 @@
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
+  ppp-datamodel = {
+    "0.6.12.1" = import ./overrides/ppp-datamodel/0.6.12.1;
+  };
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
