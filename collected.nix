@@ -575,6 +575,9 @@
   compose = {
     "1.5.0" = import ./overrides/compose/1.5.0;
   };
+  compressai = {
+    "1.2.6" = import ./overrides/compressai/1.2.6;
+  };
   compressed-rtf = {
     "1.0.6" = import ./overrides/compressed-rtf/1.0.6;
   };
