@@ -2389,6 +2389,9 @@
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
+  prettyparse = {
+    "1.2.0" = import ./overrides/prettyparse/1.2.0;
+  };
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
