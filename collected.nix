@@ -5567,6 +5567,9 @@
   xvfbwrapper = {
     "0.2.9" = import ./overrides/xvfbwrapper/0.2.9;
   };
+  xxhash = {
+    "2.0.2" = import ./overrides/xxhash/2.0.2;
+  };
   yahooweather = {
     "0.10" = import ./overrides/yahooweather/0.10;
   };
