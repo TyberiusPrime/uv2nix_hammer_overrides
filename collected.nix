@@ -1804,6 +1804,9 @@
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
+  matrix-api-async = {
+    "0.1.0" = import ./overrides/matrix-api-async/0.1.0;
+  };
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
