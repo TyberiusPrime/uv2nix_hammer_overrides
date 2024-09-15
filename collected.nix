@@ -2873,6 +2873,9 @@
   tinysegmenter = {
     "0.4" = import ./overrides/tinysegmenter/0.4;
   };
+  tinytimer = {
+    "0.0.0" = import ./overrides/tinytimer/0.0.0;
+  };
   tipfy = {
     "0.6.4" = import ./overrides/tipfy/0.6.4;
   };
