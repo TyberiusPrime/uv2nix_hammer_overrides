@@ -4196,6 +4196,9 @@
   pywatchman = {
     "2.0.0" = import ./overrides/pywatchman/2.0.0;
   };
+  pywfa = {
+    "0.5.1" = import ./overrides/pywfa/0.5.1;
+  };
   pywurfl = {
     "7.2.1" = import ./overrides/pywurfl/7.2.1;
   };
