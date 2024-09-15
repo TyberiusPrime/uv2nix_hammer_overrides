@@ -2390,6 +2390,9 @@
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
+  mtranslate = {
+    "1.8" = import ./overrides/mtranslate/1.8;
+  };
   mullvad-closest = {
     "0.0.3" = import ./overrides/mullvad-closest/0.0.3;
   };
