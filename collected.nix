@@ -2570,6 +2570,9 @@
   nose-cprof = {
     "0.2.1" = import ./overrides/nose-cprof/0.2.1;
   };
+  nose-exclude = {
+    "0.5.0" = import ./overrides/nose-exclude/0.5.0;
+  };
   nose-html-reporting = {
     "0.2.3" = import ./overrides/nose-html-reporting/0.2.3;
   };
