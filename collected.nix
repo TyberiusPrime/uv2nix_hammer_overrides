@@ -3750,6 +3750,9 @@
   python-gflags = {
     "3.1.2" = import ./overrides/python-gflags/3.1.2;
   };
+  python-helper = {
+    "0.3.74" = import ./overrides/python-helper/0.3.74;
+  };
   python-hglib = {
     "2.6.2" = import ./overrides/python-hglib/2.6.2;
   };
