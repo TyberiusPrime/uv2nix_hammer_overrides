@@ -234,6 +234,9 @@
   baubles = {
     "1.6" = import ./overrides/baubles/1.6;
   };
+  baycomp = {
+    "1.0.3" = import ./overrides/baycomp/1.0.3;
+  };
   bayespy = {
     "0.6.2" = import ./overrides/bayespy/0.6.2;
   };
@@ -2370,6 +2373,9 @@
   python-logstash = {
     "0.4.8" = import ./overrides/python-logstash/0.4.8;
   };
+  python-louvain = {
+    "0.16" = import ./overrides/python-louvain/0.16;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
@@ -2635,6 +2641,9 @@
   };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
+  };
+  serverfiles = {
+    "0.3.1" = import ./overrides/serverfiles/0.3.1;
   };
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
