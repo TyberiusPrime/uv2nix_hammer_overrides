@@ -1306,6 +1306,9 @@
   feeluown = {
     "4.1.7" = import ./overrides/feeluown/4.1.7;
   };
+  ffmpeg = {
+    "1.4" = import ./overrides/ffmpeg/1.4;
+  };
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
   };
@@ -3747,6 +3750,9 @@
   };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
+  };
+  reolink = {
+    "0.0.64" = import ./overrides/reolink/0.0.64;
   };
   repackage = {
     "0.7.3" = import ./overrides/repackage/0.7.3;
