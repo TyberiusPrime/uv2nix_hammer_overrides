@@ -2192,6 +2192,9 @@
   pylzma = {
     "0.5.0" = import ./overrides/pylzma/0.5.0;
   };
+  pymatsolver = {
+    "0.2.0" = import ./overrides/pymatsolver/0.2.0;
+  };
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
