@@ -4159,6 +4159,9 @@
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
+  stopit = {
+    "1.1.2" = import ./overrides/stopit/1.1.2;
+  };
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
