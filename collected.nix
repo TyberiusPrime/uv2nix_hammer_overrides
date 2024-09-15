@@ -264,6 +264,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  bitcoin = {
+    "1.1.39" = import ./overrides/bitcoin/1.1.39;
+  };
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
