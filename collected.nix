@@ -1729,6 +1729,9 @@
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
+  networktools = {
+    "1.6.0" = import ./overrides/networktools/1.6.0;
+  };
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
