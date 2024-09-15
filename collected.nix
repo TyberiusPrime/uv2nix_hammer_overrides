@@ -4285,6 +4285,9 @@
   upsetplot = {
     "0.9.0" = import ./overrides/upsetplot/0.9.0;
   };
+  uptime-kuma-api = {
+    "1.2.1" = import ./overrides/uptime-kuma-api/1.2.1;
+  };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
