@@ -1399,6 +1399,9 @@
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
+  idds-workflow = {
+    "2.1.40" = import ./overrides/idds-workflow/2.1.40;
+  };
   idx2numpy = {
     "1.2.3" = import ./overrides/idx2numpy/1.2.3;
   };
