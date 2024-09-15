@@ -4082,6 +4082,9 @@
   simpleparse = {
     "2.2.4" = import ./overrides/simpleparse/2.2.4;
   };
+  simplesam = {
+    "0.1.4.1" = import ./overrides/simplesam/0.1.4.1;
+  };
   singer-python = {
     "5.1.5" = import ./overrides/singer-python/5.1.5;
   };
