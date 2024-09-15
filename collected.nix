@@ -2340,6 +2340,9 @@
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
+  python-geohash = {
+    "0.8.5" = import ./overrides/python-geohash/0.8.5;
+  };
   python-geoip = {
     "1.2" = import ./overrides/python-geoip/1.2;
   };
