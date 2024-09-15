@@ -2530,6 +2530,9 @@
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
   };
+  plugnplay = {
+    "0.5.4" = import ./overrides/plugnplay/0.5.4;
+  };
   plumbing = {
     "2.11.2" = import ./overrides/plumbing/2.11.2;
   };
