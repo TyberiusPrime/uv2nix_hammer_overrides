@@ -156,6 +156,9 @@
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
+  aorta = {
+    "2.20.0" = import ./overrides/aorta/2.20.0;
+  };
   apcaccess = {
     "0.0.13" = import ./overrides/apcaccess/0.0.13;
   };
