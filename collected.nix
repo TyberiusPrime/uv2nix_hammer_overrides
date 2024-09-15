@@ -3968,6 +3968,9 @@
   tensorflow-io-gcs-filesystem = {
     "0.37.1" = import ./overrides/tensorflow-io-gcs-filesystem/0.37.1;
   };
+  termcolor = {
+    "1.1.0" = import ./overrides/termcolor/1.1.0;
+  };
   terminal = {
     "0.4.0" = import ./overrides/terminal/0.4.0;
   };
