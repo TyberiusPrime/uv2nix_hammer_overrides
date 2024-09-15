@@ -581,6 +581,9 @@
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
+  datashape = {
+    "0.5.2" = import ./overrides/datashape/0.5.2;
+  };
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
@@ -1792,6 +1795,9 @@
   };
   odictliteral = {
     "1.0.0" = import ./overrides/odictliteral/1.0.0;
+  };
+  odo = {
+    "0.5.0" = import ./overrides/odo/0.5.0;
   };
   offtrac = {
     "0.1.0" = import ./overrides/offtrac/0.1.0;
