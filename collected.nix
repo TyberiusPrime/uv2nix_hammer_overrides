@@ -3101,6 +3101,9 @@
   strict-functions = {
     "2020.2.4" = import ./overrides/strict-functions/2020.2.4;
   };
+  strict-rfc3339 = {
+    "0.7" = import ./overrides/strict-rfc3339/0.7;
+  };
   stringcase = {
     "1.2.0" = import ./overrides/stringcase/1.2.0;
   };
