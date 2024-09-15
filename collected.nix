@@ -1420,6 +1420,9 @@
   httpagentparser = {
     "1.9.5" = import ./overrides/httpagentparser/1.9.5;
   };
+  httpauth = {
+    "0.4.1" = import ./overrides/httpauth/0.4.1;
+  };
   httpexceptor = {
     "1.4.0" = import ./overrides/httpexceptor/1.4.0;
   };
