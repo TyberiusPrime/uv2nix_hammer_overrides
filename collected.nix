@@ -3287,6 +3287,9 @@
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
     "6.0" = import ./overrides/pyyaml/6.0;
   };
+  pyyardian = {
+    "1.2.0" = import ./overrides/pyyardian/1.2.0;
+  };
   pyzerproc = {
     "0.4.12" = import ./overrides/pyzerproc/0.4.12;
   };
