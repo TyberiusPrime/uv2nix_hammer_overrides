@@ -2321,6 +2321,9 @@
   pytest-watch = {
     "4.2.0" = import ./overrides/pytest-watch/4.2.0;
   };
+  python-alipay-sdk = {
+    "3.3.0" = import ./overrides/python-alipay-sdk/3.3.0;
+  };
   python-axolotl-curve25519 = {
     "0.4.1.post2" = import ./overrides/python-axolotl-curve25519/0.4.1.post2;
   };
