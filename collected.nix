@@ -1438,6 +1438,9 @@
   frasco = {
     "3.5.1" = import ./overrides/frasco/3.5.1;
   };
+  free-proxy = {
+    "1.1.2" = import ./overrides/free-proxy/1.1.2;
+  };
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
