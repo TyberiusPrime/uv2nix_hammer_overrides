@@ -1122,6 +1122,9 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  funcargparse = {
+    "0.2.5" = import ./overrides/funcargparse/0.2.5;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
