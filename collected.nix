@@ -1998,6 +1998,9 @@
     "1.5.0" = import ./overrides/paho-mqtt/1.5.0;
     "1.6.1" = import ./overrides/paho-mqtt/1.6.1;
   };
+  pairtree = {
+    "0.8.1" = import ./overrides/pairtree/0.8.1;
+  };
   pandarallel = {
     "1.6.5" = import ./overrides/pandarallel/1.6.5;
   };
