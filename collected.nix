@@ -681,8 +681,14 @@
   django-jquery-js = {
     "3.1.1" = import ./overrides/django-jquery-js/3.1.1;
   };
+  django-layers-hr = {
+    "1.11.1" = import ./overrides/django-layers-hr/1.11.1;
+  };
   django-libs = {
     "2.0.3" = import ./overrides/django-libs/2.0.3;
+  };
+  django-likes = {
+    "2.0.1" = import ./overrides/django-likes/2.0.1;
   };
   django-localeurl = {
     "2.0.2" = import ./overrides/django-localeurl/2.0.2;
@@ -698,6 +704,15 @@
   };
   django-oauth-tokens = {
     "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
+  };
+  django-object-tools = {
+    "2.0.0" = import ./overrides/django-object-tools/2.0.0;
+  };
+  django-pagination-fork = {
+    "1.0.17" = import ./overrides/django-pagination-fork/1.0.17;
+  };
+  django-preferences = {
+    "1.0.0" = import ./overrides/django-preferences/1.0.0;
   };
   django-pure-pagination = {
     "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
@@ -719,6 +734,9 @@
   };
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
+  };
+  django-sites-groups = {
+    "1.11.1" = import ./overrides/django-sites-groups/1.11.1;
   };
   django-social-api = {
     "0.1.1" = import ./overrides/django-social-api/0.1.1;
@@ -750,6 +768,9 @@
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
   };
+  django-ultracache = {
+    "2.2" = import ./overrides/django-ultracache/2.2;
+  };
   django-vkontakte-api = {
     "0.8.7" = import ./overrides/django-vkontakte-api/0.8.7;
   };
@@ -761,6 +782,9 @@
   };
   djangorestframework-camel-case = {
     "1.4.2" = import ./overrides/djangorestframework-camel-case/1.4.2;
+  };
+  djangorestframework-extras = {
+    "0.3.0" = import ./overrides/djangorestframework-extras/0.3.0;
   };
   dkimpy = {
     "1.1.8" = import ./overrides/dkimpy/1.1.8;
@@ -1323,6 +1347,9 @@
   };
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
+  };
+  jmbo = {
+    "3.0.5" = import ./overrides/jmbo/3.0.5;
   };
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
