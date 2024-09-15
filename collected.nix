@@ -4223,6 +4223,9 @@
   slumber = {
     "0.7.1" = import ./overrides/slumber/0.7.1;
   };
+  snapcast = {
+    "2.3.6" = import ./overrides/snapcast/2.3.6;
+  };
   snaptime = {
     "0.2.4" = import ./overrides/snaptime/0.2.4;
   };
