@@ -4765,6 +4765,9 @@
   theano-pymc = {
     "1.1.2" = import ./overrides/theano-pymc/1.1.2;
   };
+  thepiratebay = {
+    "1.3.5" = import ./overrides/thepiratebay/1.3.5;
+  };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
