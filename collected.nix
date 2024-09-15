@@ -44,6 +44,12 @@
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
+  aiohttp-route-decorator = {
+    "0.1.4" = import ./overrides/aiohttp-route-decorator/0.1.4;
+  };
+  aiohttp-swagger = {
+    "1.0.15" = import ./overrides/aiohttp-swagger/1.0.15;
+  };
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
@@ -326,6 +332,12 @@
   };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
+  };
+  cbpi = {
+    "4.0.0.28" = import ./overrides/cbpi/4.0.0.28;
+  };
+  cbpi4ui = {
+    "0.0.13" = import ./overrides/cbpi4ui/0.0.13;
   };
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
