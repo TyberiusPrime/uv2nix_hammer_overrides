@@ -1878,6 +1878,9 @@
   ibm-cos-sdk-s3transfer = {
     "2.13.6" = import ./overrides/ibm-cos-sdk-s3transfer/2.13.6;
   };
+  ibm-watson = {
+    "8.1.0" = import ./overrides/ibm-watson/8.1.0;
+  };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
