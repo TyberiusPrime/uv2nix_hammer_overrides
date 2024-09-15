@@ -1570,6 +1570,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  markup = {
+    "0.2.2" = import ./overrides/markup/0.2.2;
+  };
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
