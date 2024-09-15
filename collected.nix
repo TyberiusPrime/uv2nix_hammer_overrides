@@ -1282,6 +1282,9 @@
   htmlmin = {
     "0.1.12" = import ./overrides/htmlmin/0.1.12;
   };
+  htmlparser = {
+    "0.0.2" = import ./overrides/htmlparser/0.0.2;
+  };
   htools = {
     "7.7.0" = import ./overrides/htools/7.7.0;
   };
