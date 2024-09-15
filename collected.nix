@@ -3347,6 +3347,9 @@
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
+  preggy = {
+    "1.4.4" = import ./overrides/preggy/1.4.4;
+  };
   pretty-midi = {
     "0.2.10" = import ./overrides/pretty-midi/0.2.10;
   };
