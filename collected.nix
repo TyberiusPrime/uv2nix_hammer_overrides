@@ -927,8 +927,14 @@
   django-jquery-js = {
     "3.1.1" = import ./overrides/django-jquery-js/3.1.1;
   };
+  django-layers-hr = {
+    "1.11.1" = import ./overrides/django-layers-hr/1.11.1;
+  };
   django-libs = {
     "2.0.3" = import ./overrides/django-libs/2.0.3;
+  };
+  django-likes = {
+    "2.0.1" = import ./overrides/django-likes/2.0.1;
   };
   django-localeurl = {
     "2.0.2" = import ./overrides/django-localeurl/2.0.2;
@@ -956,6 +962,9 @@
   };
   django-ohm2-handlers-light = {
     "0.4.3" = import ./overrides/django-ohm2-handlers-light/0.4.3;
+  };
+  django-pagination-fork = {
+    "1.0.17" = import ./overrides/django-pagination-fork/1.0.17;
   };
   django-pglocks = {
     "1.0.4" = import ./overrides/django-pglocks/1.0.4;
@@ -998,6 +1007,9 @@
   };
   django-shortuuidfield = {
     "0.1.3" = import ./overrides/django-shortuuidfield/0.1.3;
+  };
+  django-sites-groups = {
+    "1.11.1" = import ./overrides/django-sites-groups/1.11.1;
   };
   django-snippetscream = {
     "0.0.7" = import ./overrides/django-snippetscream/0.0.7;
@@ -1044,6 +1056,9 @@
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
   };
+  django-ultracache = {
+    "2.2" = import ./overrides/django-ultracache/2.2;
+  };
   django-vkontakte-api = {
     "0.8.7" = import ./overrides/django-vkontakte-api/0.8.7;
   };
@@ -1055,6 +1070,9 @@
   };
   djangorestframework-camel-case = {
     "1.4.2" = import ./overrides/djangorestframework-camel-case/1.4.2;
+  };
+  djangorestframework-extras = {
+    "0.3.0" = import ./overrides/djangorestframework-extras/0.3.0;
   };
   djorm-ext-core = {
     "0.7" = import ./overrides/djorm-ext-core/0.7;
@@ -1897,6 +1915,9 @@
   };
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
+  };
+  jmbo = {
+    "3.0.5" = import ./overrides/jmbo/3.0.5;
   };
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
