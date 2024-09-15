@@ -2749,6 +2749,9 @@
   pycifrw = {
     "4.4.6" = import ./overrides/pycifrw/4.4.6;
   };
+  pycld2 = {
+    "0.41" = import ./overrides/pycld2/0.41;
+  };
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
   };
