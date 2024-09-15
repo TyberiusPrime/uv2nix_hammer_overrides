@@ -4121,6 +4121,9 @@
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
   };
+  wireless = {
+    "0.3.3" = import ./overrides/wireless/0.3.3;
+  };
   wiringpi = {
     "2.60.1" = import ./overrides/wiringpi/2.60.1;
   };
