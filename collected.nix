@@ -3173,6 +3173,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  reana-commons = {
+    "0.9.8" = import ./overrides/reana-commons/0.9.8;
+  };
   reconfigure = {
     "0.1.82" = import ./overrides/reconfigure/0.1.82;
   };
