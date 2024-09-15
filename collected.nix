@@ -345,6 +345,9 @@
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
+  chroma-hnswlib = {
+    "0.7.3" = import ./overrides/chroma-hnswlib/0.7.3;
+  };
   circuit-webhook = {
     "1.0.1" = import ./overrides/circuit-webhook/1.0.1;
   };
