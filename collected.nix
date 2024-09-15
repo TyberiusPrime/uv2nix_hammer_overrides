@@ -1306,6 +1306,9 @@
   googleads = {
     "43.0.0" = import ./overrides/googleads/43.0.0;
   };
+  googleappenginecloudstorageclient = {
+    "1.9.22.1" = import ./overrides/googleappenginecloudstorageclient/1.9.22.1;
+  };
   googlemaps = {
     "4.10.0" = import ./overrides/googlemaps/4.10.0;
   };
