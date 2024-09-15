@@ -4542,6 +4542,9 @@
   slumber = {
     "0.7.1" = import ./overrides/slumber/0.7.1;
   };
+  sly = {
+    "0.4" = import ./overrides/sly/0.4;
+  };
   smbus-cffi = {
     "0.5.1" = import ./overrides/smbus-cffi/0.5.1;
   };
