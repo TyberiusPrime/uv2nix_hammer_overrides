@@ -885,6 +885,9 @@
   daemonocle = {
     "1.2.3" = import ./overrides/daemonocle/1.2.3;
   };
+  daemonpy3 = {
+    "1.0.3" = import ./overrides/daemonpy3/1.0.3;
+  };
   daemons = {
     "1.3.2" = import ./overrides/daemons/1.3.2;
   };
