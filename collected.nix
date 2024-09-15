@@ -500,6 +500,9 @@
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
+  consulate = {
+    "0.6.0" = import ./overrides/consulate/0.6.0;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
