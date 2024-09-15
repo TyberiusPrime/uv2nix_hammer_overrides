@@ -4618,6 +4618,9 @@
   total-ordering = {
     "0.1.0" = import ./overrides/total-ordering/0.1.0;
   };
+  toyplot = {
+    "1.0.3" = import ./overrides/toyplot/1.0.3;
+  };
   tpdcc-config = {
     "0.0.9" = import ./overrides/tpdcc-config/0.0.9;
   };
