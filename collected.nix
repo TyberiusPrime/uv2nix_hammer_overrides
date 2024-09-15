@@ -1643,6 +1643,9 @@
   girder-client = {
     "3.2.3" = import ./overrides/girder-client/3.2.3;
   };
+  gisdata = {
+    "0.5.4" = import ./overrides/gisdata/0.5.4;
+  };
   gitignore-parser = {
     "0.1.11" = import ./overrides/gitignore-parser/0.1.11;
   };
