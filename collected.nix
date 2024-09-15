@@ -5100,6 +5100,9 @@
   twofish = {
     "0.3.0" = import ./overrides/twofish/0.3.0;
   };
+  txredis = {
+    "2.4" = import ./overrides/txredis/2.4;
+  };
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
