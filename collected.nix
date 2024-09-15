@@ -919,6 +919,9 @@
   django-db-signals = {
     "0.1.1" = import ./overrides/django-db-signals/0.1.1;
   };
+  django-deprecate-fields = {
+    "0.1.2" = import ./overrides/django-deprecate-fields/0.1.2;
+  };
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
