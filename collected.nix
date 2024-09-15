@@ -3266,6 +3266,9 @@
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
+  streaming-form-data = {
+    "1.16.0" = import ./overrides/streaming-form-data/1.16.0;
+  };
   streql = {
     "3.0.2" = import ./overrides/streql/3.0.2;
   };
