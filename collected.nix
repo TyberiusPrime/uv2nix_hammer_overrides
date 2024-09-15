@@ -3109,6 +3109,9 @@
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
+  pql = {
+    "0.4.3" = import ./overrides/pql/0.4.3;
+  };
   prettyparse = {
     "1.2.0" = import ./overrides/prettyparse/1.2.0;
   };
