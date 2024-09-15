@@ -1971,6 +1971,9 @@
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
+  infinity = {
+    "1.5" = import ./overrides/infinity/1.5;
+  };
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
