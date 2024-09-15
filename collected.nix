@@ -2197,6 +2197,9 @@
   jinja2-highlight = {
     "0.6.1" = import ./overrides/jinja2-highlight/0.6.1;
   };
+  jinja2schema = {
+    "0.1.4" = import ./overrides/jinja2schema/0.1.4;
+  };
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
   };
