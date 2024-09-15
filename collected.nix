@@ -44,6 +44,9 @@
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
+  ago = {
+    "0.0.95" = import ./overrides/ago/0.0.95;
+  };
   aido-protocols-daffy = {
     "6.1.1" = import ./overrides/aido-protocols-daffy/6.1.1;
   };
@@ -1407,6 +1410,9 @@
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
+  frasco = {
+    "3.5.1" = import ./overrides/frasco/3.5.1;
+  };
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
@@ -1882,6 +1888,9 @@
   };
   jieba3k = {
     "0.35.1" = import ./overrides/jieba3k/0.35.1;
+  };
+  jinja-macro-tags = {
+    "0.2" = import ./overrides/jinja-macro-tags/0.2;
   };
   jinja2-highlight = {
     "0.6.1" = import ./overrides/jinja2-highlight/0.6.1;
@@ -4085,6 +4094,9 @@
   };
   subzerod = {
     "1.0" = import ./overrides/subzerod/1.0;
+  };
+  suds-py3 = {
+    "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
