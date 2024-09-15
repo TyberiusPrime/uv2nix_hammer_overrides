@@ -4097,6 +4097,9 @@
   python-pipedrive = {
     "0.4.0" = import ./overrides/python-pipedrive/0.4.0;
   };
+  python-potr = {
+    "1.0.2" = import ./overrides/python-potr/1.0.2;
+  };
   python-singleton-metaclasses = {
     "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
   };
