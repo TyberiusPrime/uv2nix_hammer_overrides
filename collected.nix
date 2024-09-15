@@ -1693,6 +1693,9 @@
   mutf8 = {
     "1.0.6" = import ./overrides/mutf8/1.0.6;
   };
+  mypy-lang = {
+    "0.5.0" = import ./overrides/mypy-lang/0.5.0;
+  };
   mysql-replication = {
     "1.0.9" = import ./overrides/mysql-replication/1.0.9;
   };
