@@ -2440,6 +2440,9 @@
   pipwin = {
     "0.5.2" = import ./overrides/pipwin/0.5.2;
   };
+  pixiedust = {
+    "1.1.19" = import ./overrides/pixiedust/1.1.19;
+  };
   pkgtools = {
     "0.7.3" = import ./overrides/pkgtools/0.7.3;
   };
