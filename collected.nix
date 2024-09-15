@@ -675,6 +675,9 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-htmlmin = {
+    "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
+  };
   django-jinja2 = {
     "0.1" = import ./overrides/django-jinja2/0.1;
   };
