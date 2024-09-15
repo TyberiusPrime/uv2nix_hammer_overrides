@@ -26,6 +26,9 @@
   adafruit-io = {
     "2.7.2" = import ./overrides/adafruit-io/2.7.2;
   };
+  adafruit-nrfutil = {
+    "0.5.3.post16" = import ./overrides/adafruit-nrfutil/0.5.3.post16;
+  };
   adapt-parser = {
     "1.0.0" = import ./overrides/adapt-parser/1.0.0;
   };
