@@ -1667,6 +1667,9 @@
   fvcore = {
     "0.1.5.post20221221" = import ./overrides/fvcore/0.1.5.post20221221;
   };
+  fysom = {
+    "2.1.6" = import ./overrides/fysom/2.1.6;
+  };
   gaebusiness = {
     "4.5.3" = import ./overrides/gaebusiness/4.5.3;
   };
