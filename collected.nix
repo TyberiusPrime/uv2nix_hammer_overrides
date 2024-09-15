@@ -4195,6 +4195,9 @@
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
+  typedecorator = {
+    "0.0.5" = import ./overrides/typedecorator/0.0.5;
+  };
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
