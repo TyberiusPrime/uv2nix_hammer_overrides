@@ -2427,6 +2427,12 @@
   limitlessled = {
     "1.1.3" = import ./overrides/limitlessled/1.1.3;
   };
+  limix = {
+    "3.0.4" = import ./overrides/limix/3.0.4;
+  };
+  limix-plot = {
+    "0.1.2" = import ./overrides/limix-plot/0.1.2;
+  };
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
@@ -2937,6 +2943,9 @@
   numpy = {
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
+  };
+  numpy-sugar = {
+    "1.5.3" = import ./overrides/numpy-sugar/1.5.3;
   };
   numpy2gif = {
     "1.0" = import ./overrides/numpy2gif/1.0;
@@ -3908,6 +3917,9 @@
   };
   pytest-raisesregexp = {
     "2.1" = import ./overrides/pytest-raisesregexp/2.1;
+  };
+  pytest-remfiles = {
+    "0.0.2" = import ./overrides/pytest-remfiles/0.0.2;
   };
   pytest-subtesthack = {
     "0.2.0" = import ./overrides/pytest-subtesthack/0.2.0;
