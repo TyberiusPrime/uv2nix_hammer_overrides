@@ -3203,6 +3203,9 @@
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
+  xvfbwrapper = {
+    "0.2.9" = import ./overrides/xvfbwrapper/0.2.9;
+  };
   yamlcfg = {
     "0.5.3" = import ./overrides/yamlcfg/0.5.3;
   };
