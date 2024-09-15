@@ -2358,6 +2358,9 @@
   python-instagram = {
     "1.3.2" = import ./overrides/python-instagram/1.3.2;
   };
+  python-ioc = {
+    "1.13.0" = import ./overrides/python-ioc/1.13.0;
+  };
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
@@ -3008,6 +3011,9 @@
   };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
+  };
+  unimatrix = {
+    "1.14.0" = import ./overrides/unimatrix/1.14.0;
   };
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
