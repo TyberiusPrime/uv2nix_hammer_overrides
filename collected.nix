@@ -1477,6 +1477,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  libvmdk-python = {
+    "20240510" = import ./overrides/libvmdk-python/20240510;
+  };
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
