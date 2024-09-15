@@ -3893,6 +3893,9 @@
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
+  reedsolo = {
+    "2.0.13" = import ./overrides/reedsolo/2.0.13;
+  };
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
   };
