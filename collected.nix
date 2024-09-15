@@ -645,6 +645,9 @@
   colorconsole = {
     "0.8.0" = import ./overrides/colorconsole/0.8.0;
   };
+  colored = {
+    "1.4.4" = import ./overrides/colored/1.4.4;
+  };
   colormath = {
     "3.0.0" = import ./overrides/colormath/3.0.0;
   };
