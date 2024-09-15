@@ -3735,6 +3735,9 @@
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
   };
+  sciencedates = {
+    "1.5.0" = import ./overrides/sciencedates/1.5.0;
+  };
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
