@@ -1240,6 +1240,9 @@
   ihm = {
     "1.5" = import ./overrides/ihm/1.5;
   };
+  ijson = {
+    "2.6.1" = import ./overrides/ijson/2.6.1;
+  };
   image = {
     "1.5.33" = import ./overrides/image/1.5.33;
   };
