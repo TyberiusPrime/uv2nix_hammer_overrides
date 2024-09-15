@@ -518,6 +518,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  codepy = {
+    "2023.1" = import ./overrides/codepy/2023.1;
+  };
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
