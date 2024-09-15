@@ -3723,6 +3723,9 @@
   rpmfluff = {
     "0.6.5" = import ./overrides/rpmfluff/0.6.5;
   };
+  rrcf = {
+    "0.4.4" = import ./overrides/rrcf/0.4.4;
+  };
   rshell = {
     "0.0.33" = import ./overrides/rshell/0.0.33;
   };
