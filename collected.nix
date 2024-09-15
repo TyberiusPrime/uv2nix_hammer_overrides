@@ -3630,6 +3630,9 @@
   pymailgunner = {
     "1.5" = import ./overrides/pymailgunner/1.5;
   };
+  pymatsolver = {
+    "0.2.0" = import ./overrides/pymatsolver/0.2.0;
+  };
   pymbolic = {
     "2022.2" = import ./overrides/pymbolic/2022.2;
   };
