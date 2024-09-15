@@ -2493,6 +2493,9 @@
   money = {
     "1.3.0" = import ./overrides/money/1.3.0;
   };
+  mongodict = {
+    "0.3.1" = import ./overrides/mongodict/0.3.1;
+  };
   mongokit = {
     "0.9.1.1" = import ./overrides/mongokit/0.9.1.1;
   };
