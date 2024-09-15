@@ -4548,6 +4548,7 @@
   };
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
+    "0.44.0" = import ./overrides/shap/0.44.0;
   };
   sharedarray = {
     "3.2.4" = import ./overrides/sharedarray/3.2.4;
