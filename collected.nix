@@ -4456,6 +4456,9 @@
   safeio = {
     "1.2" = import ./overrides/safeio/1.2;
   };
+  samsungtvws = {
+    "2.6.0" = import ./overrides/samsungtvws/2.6.0;
+  };
   sane-python = {
     "0.1.3" = import ./overrides/sane-python/0.1.3;
   };
