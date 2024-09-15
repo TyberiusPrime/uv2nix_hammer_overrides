@@ -1906,6 +1906,9 @@
   krakenex = {
     "2.2.2" = import ./overrides/krakenex/2.2.2;
   };
+  kser = {
+    "0.8.25" = import ./overrides/kser/0.8.25;
+  };
   kss = {
     "6.0.4" = import ./overrides/kss/6.0.4;
   };
