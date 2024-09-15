@@ -2451,6 +2451,9 @@
   pyvoro = {
     "1.3.2" = import ./overrides/pyvoro/1.3.2;
   };
+  pywatchman = {
+    "2.0.0" = import ./overrides/pywatchman/2.0.0;
+  };
   pyxbe = {
     "1.0.3" = import ./overrides/pyxbe/1.0.3;
   };
