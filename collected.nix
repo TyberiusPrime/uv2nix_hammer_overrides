@@ -180,6 +180,9 @@
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
+  aranet4 = {
+    "2.4.0" = import ./overrides/aranet4/2.4.0;
+  };
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
