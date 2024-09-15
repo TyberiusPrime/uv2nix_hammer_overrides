@@ -2422,6 +2422,9 @@
   librato-metrics = {
     "3.1.0" = import ./overrides/librato-metrics/3.1.0;
   };
+  libregf-python = {
+    "20240421" = import ./overrides/libregf-python/20240421;
+  };
   librouteros = {
     "3.2.1" = import ./overrides/librouteros/3.2.1;
   };
