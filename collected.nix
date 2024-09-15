@@ -1273,6 +1273,9 @@
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
+  gatspy = {
+    "0.3" = import ./overrides/gatspy/0.3;
+  };
   gax-google-logging-v2 = {
     "0.8.3" = import ./overrides/gax-google-logging-v2/0.8.3;
   };
