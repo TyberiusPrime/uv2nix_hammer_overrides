@@ -2269,6 +2269,9 @@
   mongokit = {
     "0.9.1.1" = import ./overrides/mongokit/0.9.1.1;
   };
+  monkeyhex = {
+    "1.7.4" = import ./overrides/monkeyhex/1.7.4;
+  };
   monthdelta = {
     "0.9.1" = import ./overrides/monthdelta/0.9.1;
   };
