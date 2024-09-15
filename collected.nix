@@ -487,6 +487,9 @@
   chroma-hnswlib = {
     "0.7.3" = import ./overrides/chroma-hnswlib/0.7.3;
   };
+  cipherprogram = {
+    "0.0.4" = import ./overrides/cipherprogram/0.0.4;
+  };
   circuit-webhook = {
     "1.0.1" = import ./overrides/circuit-webhook/1.0.1;
   };
