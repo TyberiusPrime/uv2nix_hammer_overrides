@@ -2873,6 +2873,9 @@
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
+  tarjan = {
+    "0.2.4" = import ./overrides/tarjan/0.2.4;
+  };
   telepath = {
     "0.3.1" = import ./overrides/telepath/0.3.1;
   };
