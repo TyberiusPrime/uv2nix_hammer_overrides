@@ -2223,6 +2223,9 @@
   ligo-segments = {
     "1.4.0" = import ./overrides/ligo-segments/1.4.0;
   };
+  lima = {
+    "0.5" = import ./overrides/lima/0.5;
+  };
   limitlessled = {
     "1.1.3" = import ./overrides/limitlessled/1.1.3;
   };
