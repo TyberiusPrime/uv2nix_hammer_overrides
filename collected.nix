@@ -2358,6 +2358,9 @@
   markovify = {
     "0.9.4" = import ./overrides/markovify/0.9.4;
   };
+  markup = {
+    "0.2.2" = import ./overrides/markup/0.2.2;
+  };
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
