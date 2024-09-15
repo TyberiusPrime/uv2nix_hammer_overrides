@@ -4115,6 +4115,9 @@
   shutilwhich = {
     "1.1.0" = import ./overrides/shutilwhich/1.1.0;
   };
+  sievelib = {
+    "1.4.1" = import ./overrides/sievelib/1.4.1;
+  };
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
