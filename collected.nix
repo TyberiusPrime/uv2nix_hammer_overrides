@@ -1978,6 +1978,9 @@
   libwapiti = {
     "0.2.1" = import ./overrides/libwapiti/0.2.1;
   };
+  licorice = {
+    "0.0.7" = import ./overrides/licorice/0.0.7;
+  };
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
@@ -2643,6 +2646,9 @@
   };
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
+  };
+  posix-ipc = {
+    "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
   prettyparse = {
     "1.2.0" = import ./overrides/prettyparse/1.2.0;
@@ -3595,6 +3601,9 @@
   };
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
+  };
+  sharedarray = {
+    "3.2.4" = import ./overrides/sharedarray/3.2.4;
   };
   sharedmem = {
     "0.3.8" = import ./overrides/sharedmem/0.3.8;
