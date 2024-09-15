@@ -1912,6 +1912,9 @@
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
   };
+  pgsu = {
+    "0.2.4" = import ./overrides/pgsu/0.2.4;
+  };
   phpserialize = {
     "1.3" = import ./overrides/phpserialize/1.3;
   };
