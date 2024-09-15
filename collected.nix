@@ -68,6 +68,9 @@
   aioxmpp = {
     "0.13.3" = import ./overrides/aioxmpp/0.13.3;
   };
+  aiozeroconf = {
+    "0.1.8" = import ./overrides/aiozeroconf/0.1.8;
+  };
   aipy = {
     "3.0.6" = import ./overrides/aipy/3.0.6;
   };
