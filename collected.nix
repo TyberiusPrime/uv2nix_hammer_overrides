@@ -1165,6 +1165,9 @@
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
+  heatshrink2 = {
+    "0.13.0" = import ./overrides/heatshrink2/0.13.0;
+  };
   helium = {
     "5.1.0" = import ./overrides/helium/5.1.0;
   };
