@@ -1768,6 +1768,9 @@
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
+  misaka = {
+    "2.1.1" = import ./overrides/misaka/2.1.1;
+  };
   mmcif-utils = {
     "0.28" = import ./overrides/mmcif-utils/0.28;
   };
