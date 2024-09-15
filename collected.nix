@@ -4026,6 +4026,9 @@
   veryprettytable = {
     "0.8.1" = import ./overrides/veryprettytable/0.8.1;
   };
+  vext = {
+    "0.7.6" = import ./overrides/vext/0.7.6;
+  };
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
