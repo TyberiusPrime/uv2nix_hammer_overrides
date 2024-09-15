@@ -2675,6 +2675,9 @@
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
+  silpa-common = {
+    "0.3" = import ./overrides/silpa-common/0.3;
+  };
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
