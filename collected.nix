@@ -1035,6 +1035,9 @@
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
+  flask-restful-swagger = {
+    "0.20.2" = import ./overrides/flask-restful-swagger/0.20.2;
+  };
   flask-restless = {
     "0.17.0" = import ./overrides/flask-restless/0.17.0;
   };
