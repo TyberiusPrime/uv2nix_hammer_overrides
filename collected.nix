@@ -1747,6 +1747,9 @@
   nlptoolkit-util = {
     "1.0.11" = import ./overrides/nlptoolkit-util/1.0.11;
   };
+  nmigen = {
+    "0.2" = import ./overrides/nmigen/0.2;
+  };
   nodejs = {
     "0.1.1" = import ./overrides/nodejs/0.1.1;
   };
