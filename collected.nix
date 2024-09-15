@@ -864,6 +864,9 @@
   epion = {
     "0.0.3" = import ./overrides/epion/0.0.3;
   };
+  esdk-obs-python = {
+    "3.24.6.1" = import ./overrides/esdk-obs-python/3.24.6.1;
+  };
   espeak-phonemizer = {
     "1.3.1" = import ./overrides/espeak-phonemizer/1.3.1;
   };
