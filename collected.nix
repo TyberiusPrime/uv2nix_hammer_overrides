@@ -2790,6 +2790,9 @@
   nlptoolkit-wordnet = {
     "1.0.24" = import ./overrides/nlptoolkit-wordnet/1.0.24;
   };
+  nmigen = {
+    "0.2" = import ./overrides/nmigen/0.2;
+  };
   nodejs = {
     "0.1.1" = import ./overrides/nodejs/0.1.1;
   };
