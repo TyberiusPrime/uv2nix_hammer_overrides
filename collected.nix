@@ -1357,6 +1357,9 @@
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
+  halo = {
+    "0.0.31" = import ./overrides/halo/0.0.31;
+  };
   hammock = {
     "0.2.4" = import ./overrides/hammock/0.2.4;
   };
@@ -2037,6 +2040,9 @@
   };
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
+  };
+  murmuration = {
+    "1.4" = import ./overrides/murmuration/1.4;
   };
   muscima = {
     "0.10.0" = import ./overrides/muscima/0.10.0;
@@ -3779,6 +3785,9 @@
   };
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
+  };
+  waddle = {
+    "1.8" = import ./overrides/waddle/1.8;
   };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
