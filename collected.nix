@@ -4737,6 +4737,9 @@
   tgext-crud = {
     "0.9.0" = import ./overrides/tgext-crud/0.9.0;
   };
+  theano-pymc = {
+    "1.1.2" = import ./overrides/theano-pymc/1.1.2;
+  };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
