@@ -2008,6 +2008,9 @@
   hyperdash = {
     "0.15.3" = import ./overrides/hyperdash/0.15.3;
   };
+  i3-instant-layout = {
+    "0.1.12" = import ./overrides/i3-instant-layout/0.1.12;
+  };
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
   };
