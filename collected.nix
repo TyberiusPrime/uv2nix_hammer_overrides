@@ -2893,6 +2893,9 @@
   neologdn = {
     "0.5.3" = import ./overrides/neologdn/0.5.3;
   };
+  neotermcolor = {
+    "2.0.10" = import ./overrides/neotermcolor/2.0.10;
+  };
   nested-lookup = {
     "0.2.25" = import ./overrides/nested-lookup/0.2.25;
   };
