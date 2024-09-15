@@ -4849,6 +4849,9 @@
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
+  trollsift = {
+    "0.5.1" = import ./overrides/trollsift/0.5.1;
+  };
   trueskill = {
     "0.4.5" = import ./overrides/trueskill/0.4.5;
   };
