@@ -2942,6 +2942,9 @@
   rhasspy-hermes = {
     "0.6.2" = import ./overrides/rhasspy-hermes/0.6.2;
   };
+  rhasspy-nlu = {
+    "0.4.0" = import ./overrides/rhasspy-nlu/0.4.0;
+  };
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
