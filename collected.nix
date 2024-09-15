@@ -351,6 +351,9 @@
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
+  clf = {
+    "0.5.7" = import ./overrides/clf/0.5.7;
+  };
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
   };
