@@ -4155,6 +4155,12 @@
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
   };
+  sw-django-utils = {
+    "0.0.54" = import ./overrides/sw-django-utils/0.0.54;
+  };
+  sw-python-utils = {
+    "0.0.18" = import ./overrides/sw-python-utils/0.0.18;
+  };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
   };
