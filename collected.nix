@@ -2243,6 +2243,9 @@
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
   };
+  pypytools = {
+    "0.6.2" = import ./overrides/pypytools/0.6.2;
+  };
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
   };
