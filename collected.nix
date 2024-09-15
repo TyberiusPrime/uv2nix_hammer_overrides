@@ -2855,6 +2855,9 @@
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
   };
+  sharedmem = {
+    "0.3.8" = import ./overrides/sharedmem/0.3.8;
+  };
   shopifyapi = {
     "12.6.0" = import ./overrides/shopifyapi/12.6.0;
   };
