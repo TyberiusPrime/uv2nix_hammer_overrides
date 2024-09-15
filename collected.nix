@@ -1534,6 +1534,9 @@
   iopath = {
     "0.1.10" = import ./overrides/iopath/0.1.10;
   };
+  iotlabcli = {
+    "3.3.0" = import ./overrides/iotlabcli/3.3.0;
+  };
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
