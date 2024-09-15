@@ -3690,6 +3690,9 @@
   transpyler = {
     "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
+  trash-cli = {
+    "0.24.5.26" = import ./overrides/trash-cli/0.24.5.26;
+  };
   trectools = {
     "0.0.50" = import ./overrides/trectools/0.0.50;
   };
