@@ -1468,6 +1468,9 @@
   fastapi-camelcase = {
     "2.0.0" = import ./overrides/fastapi-camelcase/2.0.0;
   };
+  fastcache = {
+    "1.1.0" = import ./overrides/fastcache/1.1.0;
+  };
   fastdtw = {
     "0.3.4" = import ./overrides/fastdtw/0.3.4;
   };
