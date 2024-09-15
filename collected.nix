@@ -1631,6 +1631,9 @@
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
+  geobrickscommon = {
+    "0.0.9" = import ./overrides/geobrickscommon/0.0.9;
+  };
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
