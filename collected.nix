@@ -2702,6 +2702,9 @@
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
+  smbus-cffi = {
+    "0.5.1" = import ./overrides/smbus-cffi/0.5.1;
+  };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
