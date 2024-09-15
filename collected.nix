@@ -2760,6 +2760,9 @@
   mutf8 = {
     "1.0.6" = import ./overrides/mutf8/1.0.6;
   };
+  mypy-lang = {
+    "0.5.0" = import ./overrides/mypy-lang/0.5.0;
+  };
   mysmallutils = {
     "2.0.20" = import ./overrides/mysmallutils/2.0.20;
   };
