@@ -2368,6 +2368,9 @@
   pgpy = {
     "0.6.0" = import ./overrides/pgpy/0.6.0;
   };
+  phonetics = {
+    "1.0.5" = import ./overrides/phonetics/1.0.5;
+  };
   phpserialize = {
     "1.3" = import ./overrides/phpserialize/1.3;
   };
