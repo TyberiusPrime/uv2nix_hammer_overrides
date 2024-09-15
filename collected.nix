@@ -3275,6 +3275,9 @@
   tipfy = {
     "0.6.4" = import ./overrides/tipfy/0.6.4;
   };
+  tissue = {
+    "0.9.2" = import ./overrides/tissue/0.9.2;
+  };
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
   };
