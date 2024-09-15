@@ -2949,6 +2949,9 @@
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
   };
+  pythonegardia = {
+    "1.0.52" = import ./overrides/pythonegardia/1.0.52;
+  };
   pythontoolskit = {
     "1.2.6" = import ./overrides/pythontoolskit/1.2.6;
   };
