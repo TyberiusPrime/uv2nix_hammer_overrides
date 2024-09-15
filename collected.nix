@@ -620,6 +620,9 @@
   demands = {
     "3.0.0" = import ./overrides/demands/3.0.0;
   };
+  device-detector = {
+    "5.0.1" = import ./overrides/device-detector/5.0.1;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
@@ -1719,6 +1722,9 @@
   };
   nad-receiver = {
     "0.3.0" = import ./overrides/nad-receiver/0.3.0;
+  };
+  names = {
+    "0.3.0" = import ./overrides/names/0.3.0;
   };
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
