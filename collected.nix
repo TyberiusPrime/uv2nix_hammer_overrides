@@ -4204,6 +4204,9 @@
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
+  tilemapbase = {
+    "0.4.7" = import ./overrides/tilemapbase/0.4.7;
+  };
   timecode = {
     "1.4.1" = import ./overrides/timecode/1.4.1;
   };
