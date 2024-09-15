@@ -3092,6 +3092,9 @@
   sphinx-autodoc-annotation = {
     "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
   };
+  sphinxcontrib-mscgen = {
+    "0.6" = import ./overrides/sphinxcontrib-mscgen/0.6;
+  };
   sphinxcontrib-newsfeed = {
     "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
   };
