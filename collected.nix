@@ -4898,6 +4898,9 @@
   temperusb = {
     "1.6.1" = import ./overrides/temperusb/1.6.1;
   };
+  temporenc = {
+    "0.1.0" = import ./overrides/temporenc/0.1.0;
+  };
   temppathlib = {
     "1.2.0" = import ./overrides/temppathlib/1.2.0;
   };
