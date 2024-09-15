@@ -2577,6 +2577,9 @@
   miasm = {
     "0.1.5" = import ./overrides/miasm/0.1.5;
   };
+  miauth = {
+    "0.9.7" = import ./overrides/miauth/0.9.7;
+  };
   micawber = {
     "0.5.5" = import ./overrides/micawber/0.5.5;
   };
