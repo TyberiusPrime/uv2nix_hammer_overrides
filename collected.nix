@@ -720,6 +720,9 @@
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
+  django-settings-export = {
+    "1.2.1" = import ./overrides/django-settings-export/1.2.1;
+  };
   django-social-api = {
     "0.1.1" = import ./overrides/django-social-api/0.1.1;
   };
