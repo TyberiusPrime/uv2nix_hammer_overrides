@@ -1008,6 +1008,9 @@
   feeluown = {
     "4.1.7" = import ./overrides/feeluown/4.1.7;
   };
+  figurl = {
+    "0.2.22" = import ./overrides/figurl/0.2.22;
+  };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
