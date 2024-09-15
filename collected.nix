@@ -1927,6 +1927,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  markovify = {
+    "0.9.4" = import ./overrides/markovify/0.9.4;
+  };
   markuppy = {
     "1.14" = import ./overrides/markuppy/1.14;
   };
