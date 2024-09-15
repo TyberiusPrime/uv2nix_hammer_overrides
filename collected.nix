@@ -720,6 +720,9 @@
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
   };
+  connio = {
+    "0.2.0" = import ./overrides/connio/0.2.0;
+  };
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
@@ -4522,6 +4525,9 @@
   seqeval = {
     "1.2.2" = import ./overrides/seqeval/1.2.2;
   };
+  serialio = {
+    "2.4.0" = import ./overrides/serialio/2.4.0;
+  };
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
   };
@@ -4668,6 +4674,9 @@
   };
   socketpool = {
     "0.5.3" = import ./overrides/socketpool/0.5.3;
+  };
+  sockio = {
+    "0.15.0" = import ./overrides/sockio/0.15.0;
   };
   sockjs-tornado = {
     "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
