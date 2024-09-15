@@ -1014,6 +1014,9 @@
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
+  eemont = {
+    "0.3.6" = import ./overrides/eemont/0.3.6;
+  };
   elasticutils = {
     "0.10.3" = import ./overrides/elasticutils/0.10.3;
   };
