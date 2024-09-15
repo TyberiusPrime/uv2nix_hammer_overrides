@@ -912,6 +912,9 @@
   feedgen = {
     "1.0.0" = import ./overrides/feedgen/1.0.0;
   };
+  ffmpeg = {
+    "1.4" = import ./overrides/ffmpeg/1.4;
+  };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
@@ -2527,6 +2530,9 @@
   };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
+  };
+  reolink = {
+    "0.0.64" = import ./overrides/reolink/0.0.64;
   };
   reparser = {
     "1.4.3" = import ./overrides/reparser/1.4.3;
