@@ -723,6 +723,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  distance = {
+    "0.1.3" = import ./overrides/distance/0.1.3;
+  };
   distorm3 = {
     "3.5.2" = import ./overrides/distorm3/3.5.2;
   };
@@ -1741,6 +1744,9 @@
   krakenex = {
     "2.2.2" = import ./overrides/krakenex/2.2.2;
   };
+  kss = {
+    "6.0.4" = import ./overrides/kss/6.0.4;
+  };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
@@ -2313,6 +2319,9 @@
   };
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
+  };
+  pecab = {
+    "1.0.8" = import ./overrides/pecab/1.0.8;
   };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
@@ -3614,6 +3623,9 @@
   };
   torrequest = {
     "0.1.0" = import ./overrides/torrequest/0.1.0;
+  };
+  tossi = {
+    "0.3.1" = import ./overrides/tossi/0.3.1;
   };
   total-ordering = {
     "0.1.0" = import ./overrides/total-ordering/0.1.0;
