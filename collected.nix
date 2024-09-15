@@ -2687,6 +2687,9 @@
   singer-python = {
     "5.1.5" = import ./overrides/singer-python/5.1.5;
   };
+  singleton3 = {
+    "1.0" = import ./overrides/singleton3/1.0;
+  };
   siphash = {
     "0.0.1" = import ./overrides/siphash/0.0.1;
   };
