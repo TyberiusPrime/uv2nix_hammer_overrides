@@ -1652,6 +1652,9 @@
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
+  google-images-download = {
+    "2.8.0" = import ./overrides/google-images-download/2.8.0;
+  };
   google-search-results = {
     "2.4.2" = import ./overrides/google-search-results/2.4.2;
   };
