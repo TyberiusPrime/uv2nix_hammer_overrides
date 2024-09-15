@@ -2531,6 +2531,9 @@
   pydevccu = {
     "0.1.8" = import ./overrides/pydevccu/0.1.8;
   };
+  pydevd-pycharm = {
+    "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
+  };
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
   };
