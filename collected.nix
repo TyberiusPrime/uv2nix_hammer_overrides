@@ -2931,6 +2931,9 @@
   tpdcc-libs-resources = {
     "0.0.2" = import ./overrides/tpdcc-libs-resources/0.0.2;
   };
+  trackpy = {
+    "0.6.4" = import ./overrides/trackpy/0.6.4;
+  };
   trading-calendars = {
     "2.1.1" = import ./overrides/trading-calendars/2.1.1;
   };
