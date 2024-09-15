@@ -885,6 +885,9 @@
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
+  facebookads = {
+    "2.11.4" = import ./overrides/facebookads/2.11.4;
+  };
   facepy = {
     "1.0.12" = import ./overrides/facepy/1.0.12;
   };
