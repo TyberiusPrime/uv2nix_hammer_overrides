@@ -3364,6 +3364,9 @@
   python-etcd = {
     "0.4.5" = import ./overrides/python-etcd/0.4.5;
   };
+  python-ev3dev2 = {
+    "2.1.0.post1" = import ./overrides/python-ev3dev2/2.1.0.post1;
+  };
   python-fedora = {
     "1.1.1" = import ./overrides/python-fedora/1.1.1;
   };
