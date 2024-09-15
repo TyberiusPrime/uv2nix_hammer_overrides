@@ -936,6 +936,9 @@
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };
+  flake8-mutable = {
+    "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
+  };
   flask = {
     "0.10.1" = import ./overrides/flask/0.10.1;
   };
