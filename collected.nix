@@ -3639,6 +3639,9 @@
   pyfasta = {
     "0.5.2" = import ./overrides/pyfasta/0.5.2;
   };
+  pyfastaq = {
+    "3.17.0" = import ./overrides/pyfastaq/3.17.0;
+  };
   pyfcm = {
     "1.4.9" = import ./overrides/pyfcm/1.4.9;
   };
