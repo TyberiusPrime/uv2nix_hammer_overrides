@@ -1960,6 +1960,9 @@
   pmsensor = {
     "0.4" = import ./overrides/pmsensor/0.4;
   };
+  pmw = {
+    "2.1.1" = import ./overrides/pmw/2.1.1;
+  };
   pocket = {
     "0.3.6" = import ./overrides/pocket/0.3.6;
   };
