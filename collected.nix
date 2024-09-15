@@ -346,6 +346,9 @@
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
   };
+  bernhard = {
+    "0.2.6" = import ./overrides/bernhard/0.2.6;
+  };
   betacode = {
     "1.0" = import ./overrides/betacode/1.0;
   };
