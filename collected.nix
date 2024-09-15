@@ -1375,6 +1375,9 @@
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
+  huey = {
+    "2.5.1" = import ./overrides/huey/2.5.1;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
