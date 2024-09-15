@@ -1,0 +1,3 @@
+{
+  propagatedBuildInputs = [final.capstone];
+}
