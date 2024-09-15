@@ -3810,6 +3810,9 @@
   unsync = {
     "1.4.0" = import ./overrides/unsync/1.4.0;
   };
+  untokenize = {
+    "0.1.1" = import ./overrides/untokenize/0.1.1;
+  };
   upsetplot = {
     "0.9.0" = import ./overrides/upsetplot/0.9.0;
   };
