@@ -3132,6 +3132,9 @@
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
   };
+  vsts-cd-manager = {
+    "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
+  };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
