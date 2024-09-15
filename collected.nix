@@ -1927,6 +1927,9 @@
   hkdf = {
     "0.0.3" = import ./overrides/hkdf/0.0.3;
   };
+  hnswlib = {
+    "0.8.0" = import ./overrides/hnswlib/0.8.0;
+  };
   hole = {
     "0.8.0" = import ./overrides/hole/0.8.0;
   };
