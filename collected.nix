@@ -4499,6 +4499,9 @@
   technicolor = {
     "2017.1.16.1544" = import ./overrides/technicolor/2017.1.16.1544;
   };
+  telegram = {
+    "0.0.1" = import ./overrides/telegram/0.0.1;
+  };
   telepath = {
     "0.3.1" = import ./overrides/telepath/0.3.1;
   };
