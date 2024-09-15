@@ -1733,6 +1733,9 @@
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
+  geoalchemy = {
+    "0.7.2" = import ./overrides/geoalchemy/0.7.2;
+  };
   geobrickscommon = {
     "0.0.9" = import ./overrides/geobrickscommon/0.0.9;
   };
