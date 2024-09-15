@@ -3055,6 +3055,9 @@
   pandoc-attributes = {
     "0.1.7" = import ./overrides/pandoc-attributes/0.1.7;
   };
+  pangocffi = {
+    "0.13.0" = import ./overrides/pangocffi/0.13.0;
+  };
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
