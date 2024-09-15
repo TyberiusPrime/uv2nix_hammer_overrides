@@ -2618,6 +2618,9 @@
   pylatexenc = {
     "2.10" = import ./overrides/pylatexenc/2.10;
   };
+  pyld = {
+    "1.0.5" = import ./overrides/pyld/1.0.5;
+  };
   pylibscrypt = {
     "2.0.0" = import ./overrides/pylibscrypt/2.0.0;
   };
@@ -3692,6 +3695,9 @@
   };
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
+  };
+  validators = {
+    "0.20.0" = import ./overrides/validators/0.20.0;
   };
   valideer = {
     "0.4.2" = import ./overrides/valideer/0.4.2;
