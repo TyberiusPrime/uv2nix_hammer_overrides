@@ -1078,6 +1078,9 @@
   django-layers-hr = {
     "1.11.1" = import ./overrides/django-layers-hr/1.11.1;
   };
+  django-lbutils = {
+    "1.1.0" = import ./overrides/django-lbutils/1.1.0;
+  };
   django-libs = {
     "2.0.3" = import ./overrides/django-libs/2.0.3;
   };
