@@ -2741,6 +2741,9 @@
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
   };
+  sprox = {
+    "0.11.2" = import ./overrides/sprox/0.11.2;
+  };
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
   };
