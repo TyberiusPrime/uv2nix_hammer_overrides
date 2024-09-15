@@ -1684,6 +1684,9 @@
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
+  multipartposthandler = {
+    "0.1.0" = import ./overrides/multipartposthandler/0.1.0;
+  };
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
