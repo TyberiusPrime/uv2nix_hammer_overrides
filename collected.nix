@@ -2651,6 +2651,9 @@
   pyld = {
     "1.0.5" = import ./overrides/pyld/1.0.5;
   };
+  pylibconfig2 = {
+    "0.2.5" = import ./overrides/pylibconfig2/0.2.5;
+  };
   pylibscrypt = {
     "2.0.0" = import ./overrides/pylibscrypt/2.0.0;
   };
