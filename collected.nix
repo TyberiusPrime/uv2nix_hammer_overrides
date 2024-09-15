@@ -1315,6 +1315,9 @@
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
+  iodata = {
+    "0.1.3" = import ./overrides/iodata/0.1.3;
+  };
   ionhash = {
     "1.2.1" = import ./overrides/ionhash/1.2.1;
   };
