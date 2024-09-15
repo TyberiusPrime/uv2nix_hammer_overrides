@@ -2547,6 +2547,9 @@
   muscima = {
     "0.10.0" = import ./overrides/muscima/0.10.0;
   };
+  music-tag = {
+    "0.4.3" = import ./overrides/music-tag/0.4.3;
+  };
   mutesync = {
     "0.0.2" = import ./overrides/mutesync/0.0.2;
   };
