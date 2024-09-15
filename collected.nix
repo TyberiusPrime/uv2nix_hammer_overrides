@@ -3029,6 +3029,9 @@
     "1.3.0" = import ./overrides/opentracing/1.3.0;
     "2.4.0" = import ./overrides/opentracing/2.4.0;
   };
+  opentypespec = {
+    "1.9.1" = import ./overrides/opentypespec/1.9.1;
+  };
   opster = {
     "5.0" = import ./overrides/opster/5.0;
   };
