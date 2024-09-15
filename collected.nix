@@ -1811,6 +1811,9 @@
   onkyo-eiscp = {
     "1.2.7" = import ./overrides/onkyo-eiscp/1.2.7;
   };
+  onvif-zeep = {
+    "0.2.12" = import ./overrides/onvif-zeep/0.2.12;
+  };
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
