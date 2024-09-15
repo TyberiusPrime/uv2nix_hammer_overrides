@@ -2745,6 +2745,9 @@
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
+  msgpack-rpc-python = {
+    "0.4.1" = import ./overrides/msgpack-rpc-python/0.4.1;
+  };
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
@@ -4966,6 +4969,7 @@
     "0.8.1" = import ./overrides/tornadis/0.8.1;
   };
   tornado = {
+    "4.5.3" = import ./overrides/tornado/4.5.3;
     "5.1.1" = import ./overrides/tornado/5.1.1;
   };
   tornado-systemd = {
