@@ -2594,6 +2594,9 @@
   pytest-logging = {
     "2015.11.4" = import ./overrides/pytest-logging/2015.11.4;
   };
+  pytest-subtesthack = {
+    "0.2.0" = import ./overrides/pytest-subtesthack/0.2.0;
+  };
   pytest-watch = {
     "4.2.0" = import ./overrides/pytest-watch/4.2.0;
   };
