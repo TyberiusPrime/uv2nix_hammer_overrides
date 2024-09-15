@@ -3777,6 +3777,9 @@
   trading-calendars = {
     "2.1.1" = import ./overrides/trading-calendars/2.1.1;
   };
+  traits = {
+    "6.3.2" = import ./overrides/traits/6.3.2;
+  };
   trans = {
     "2.1.0" = import ./overrides/trans/2.1.0;
   };
