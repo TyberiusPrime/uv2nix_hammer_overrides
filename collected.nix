@@ -4104,6 +4104,9 @@
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
   };
+  wallet-py3k = {
+    "0.0.4" = import ./overrides/wallet-py3k/0.0.4;
+  };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
