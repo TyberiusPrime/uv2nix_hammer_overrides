@@ -1017,6 +1017,9 @@
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
+  free-proxy = {
+    "1.1.2" = import ./overrides/free-proxy/1.1.2;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
