@@ -490,6 +490,9 @@
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
+  cairo-lang = {
+    "0.13.2" = import ./overrides/cairo-lang/0.13.2;
+  };
   callee = {
     "0.3.1" = import ./overrides/callee/0.3.1;
   };
@@ -1473,6 +1476,9 @@
   };
   fastdtw = {
     "0.3.4" = import ./overrides/fastdtw/0.3.4;
+  };
+  fastecdsa = {
+    "2.3.2" = import ./overrides/fastecdsa/2.3.2;
   };
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
