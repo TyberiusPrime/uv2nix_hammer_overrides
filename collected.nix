@@ -3324,6 +3324,9 @@
   unicodecsv = {
     "0.14.1" = import ./overrides/unicodecsv/0.14.1;
   };
+  unidic-lite = {
+    "1.0.8" = import ./overrides/unidic-lite/1.0.8;
+  };
   unifiled = {
     "1.1" = import ./overrides/unifiled/1.1;
   };
