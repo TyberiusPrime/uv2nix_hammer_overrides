@@ -2975,6 +2975,9 @@
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
+  py-lets-be-rational = {
+    "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
+  };
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
   };
@@ -2983,6 +2986,9 @@
   };
   py-ubjson = {
     "0.16.1" = import ./overrides/py-ubjson/0.16.1;
+  };
+  py-vollib = {
+    "1.0.1" = import ./overrides/py-vollib/1.0.1;
   };
   py2store = {
     "0.1.20" = import ./overrides/py2store/0.1.20;
