@@ -4672,6 +4672,9 @@
   transifex-client = {
     "0.14.4" = import ./overrides/transifex-client/0.14.4;
   };
+  translitcodec = {
+    "0.7.0" = import ./overrides/translitcodec/0.7.0;
+  };
   transpyler = {
     "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
