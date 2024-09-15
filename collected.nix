@@ -1948,6 +1948,9 @@
   pipwin = {
     "0.5.2" = import ./overrides/pipwin/0.5.2;
   };
+  pkcs7 = {
+    "0.1.2" = import ./overrides/pkcs7/0.1.2;
+  };
   pkgtools = {
     "0.7.3" = import ./overrides/pkgtools/0.7.3;
   };
