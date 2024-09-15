@@ -3347,6 +3347,9 @@
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
+  scikit-commpy = {
+    "0.8.0" = import ./overrides/scikit-commpy/0.8.0;
+  };
   scikit-surgerycore = {
     "0.7.2" = import ./overrides/scikit-surgerycore/0.7.2;
   };
