@@ -1402,6 +1402,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  keras-resnet = {
+    "0.2.0" = import ./overrides/keras-resnet/0.2.0;
+  };
   kerberos = {
     "1.3.1" = import ./overrides/kerberos/1.3.1;
   };
