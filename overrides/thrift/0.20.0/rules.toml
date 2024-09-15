@@ -1,2 +1,6 @@
 BuildSystems = [ "setuptools",]
+<<<<<<< HEAD
 DowngradePythonBecauseOfDistutils = true
+=======
+DowngradePython = "3.11"
+>>>>>>> 89a29ffc4f4f1dfc564fc8504b322263df8212f5
