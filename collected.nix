@@ -921,6 +921,9 @@
   django-shortuuidfield = {
     "0.1.3" = import ./overrides/django-shortuuidfield/0.1.3;
   };
+  django-snippetscream = {
+    "0.0.7" = import ./overrides/django-snippetscream/0.0.7;
+  };
   django-social-api = {
     "0.1.1" = import ./overrides/django-social-api/0.1.1;
   };
