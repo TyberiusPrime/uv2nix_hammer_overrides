@@ -1017,6 +1017,9 @@
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
+  frontmatter = {
+    "3.0.8" = import ./overrides/frontmatter/3.0.8;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
