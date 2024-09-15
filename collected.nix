@@ -4340,6 +4340,9 @@
   tissue = {
     "0.9.2" = import ./overrides/tissue/0.9.2;
   };
+  tkinterhtml = {
+    "0.7" = import ./overrides/tkinterhtml/0.7;
+  };
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
   };
