@@ -945,6 +945,9 @@
   flask-autoindex = {
     "0.6.6" = import ./overrides/flask-autoindex/0.6.6;
   };
+  flask-basicauth = {
+    "0.2.0" = import ./overrides/flask-basicauth/0.2.0;
+  };
   flask-bootstrap = {
     "3.3.7.1" = import ./overrides/flask-bootstrap/3.3.7.1;
   };
