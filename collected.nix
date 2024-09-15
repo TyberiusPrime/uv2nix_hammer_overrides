@@ -1853,6 +1853,9 @@
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
   };
+  p-tqdm = {
+    "1.4.2" = import ./overrides/p-tqdm/1.4.2;
+  };
   paginator = {
     "0.5.1" = import ./overrides/paginator/0.5.1;
   };
