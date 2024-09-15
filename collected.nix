@@ -1987,6 +1987,9 @@
   nodejs = {
     "0.1.1" = import ./overrides/nodejs/0.1.1;
   };
+  nodepy-runtime = {
+    "2.1.5" = import ./overrides/nodepy-runtime/2.1.5;
+  };
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
