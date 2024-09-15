@@ -2246,6 +2246,9 @@
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
   };
+  pyqwikswitch = {
+    "0.94" = import ./overrides/pyqwikswitch/0.94;
+  };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
   };
