@@ -2047,6 +2047,9 @@
   ihm = {
     "1.5" = import ./overrides/ihm/1.5;
   };
+  iisignature = {
+    "0.24" = import ./overrides/iisignature/0.24;
+  };
   ijson = {
     "2.6.1" = import ./overrides/ijson/2.6.1;
   };
