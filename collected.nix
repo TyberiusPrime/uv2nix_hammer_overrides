@@ -1799,6 +1799,9 @@
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
+  inotify-simple = {
+    "1.3.5" = import ./overrides/inotify-simple/1.3.5;
+  };
   input-algorithms = {
     "0.6.0" = import ./overrides/input-algorithms/0.6.0;
   };
