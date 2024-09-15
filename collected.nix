@@ -4136,6 +4136,9 @@
   pythontoolskit = {
     "1.2.6" = import ./overrides/pythontoolskit/1.2.6;
   };
+  pythonwhois = {
+    "2.4.3" = import ./overrides/pythonwhois/2.4.3;
+  };
   pytidylib = {
     "0.3.2" = import ./overrides/pytidylib/0.3.2;
   };
