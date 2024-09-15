@@ -3315,6 +3315,9 @@
   pyprof2calltree = {
     "1.4.5" = import ./overrides/pyprof2calltree/1.4.5;
   };
+  pypytools = {
+    "0.6.2" = import ./overrides/pypytools/0.6.2;
+  };
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
   };
