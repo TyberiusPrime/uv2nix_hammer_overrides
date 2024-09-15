@@ -2029,6 +2029,9 @@
   py-ubjson = {
     "0.16.1" = import ./overrides/py-ubjson/0.16.1;
   };
+  py2store = {
+    "0.1.20" = import ./overrides/py2store/0.1.20;
+  };
   pyacoustid = {
     "1.3.0" = import ./overrides/pyacoustid/1.3.0;
   };
