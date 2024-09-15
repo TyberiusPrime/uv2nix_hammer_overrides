@@ -1751,6 +1751,9 @@
   importlib2 = {
     "3.5.0.2" = import ./overrides/importlib2/3.5.0.2;
   };
+  imutils = {
+    "0.5.4" = import ./overrides/imutils/0.5.4;
+  };
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
