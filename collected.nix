@@ -3802,6 +3802,9 @@
   pynisher = {
     "1.0.10" = import ./overrides/pynisher/1.0.10;
   };
+  pynsq = {
+    "0.9.1" = import ./overrides/pynsq/0.9.1;
+  };
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
