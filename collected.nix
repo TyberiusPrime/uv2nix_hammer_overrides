@@ -3479,6 +3479,9 @@
   pyaes = {
     "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
+  pyaltt2 = {
+    "0.0.117" = import ./overrides/pyaltt2/0.0.117;
+  };
   pyapi-gitlab = {
     "7.8.5" = import ./overrides/pyapi-gitlab/7.8.5;
   };
