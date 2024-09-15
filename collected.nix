@@ -2723,6 +2723,9 @@
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
+  speg = {
+    "0.3" = import ./overrides/speg/0.3;
+  };
   sphinx-autodoc-annotation = {
     "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
   };
