@@ -2546,6 +2546,9 @@
   packbits = {
     "0.6" = import ./overrides/packbits/0.6;
   };
+  pactman = {
+    "2.31.0" = import ./overrides/pactman/2.31.0;
+  };
   pager = {
     "3.3" = import ./overrides/pager/3.3;
   };
