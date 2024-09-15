@@ -2998,6 +2998,9 @@
   pickle-warehouse = {
     "0.1.1" = import ./overrides/pickle-warehouse/0.1.1;
   };
+  pickle5 = {
+    "0.0.12" = import ./overrides/pickle5/0.0.12;
+  };
   picklecache = {
     "0.0.5" = import ./overrides/picklecache/0.0.5;
   };
