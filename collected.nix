@@ -3051,6 +3051,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  vcf-parser = {
+    "1.6" = import ./overrides/vcf-parser/1.6;
+  };
   vcfpy = {
     "0.13.8" = import ./overrides/vcfpy/0.13.8;
   };
