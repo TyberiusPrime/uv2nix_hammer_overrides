@@ -3263,11 +3263,20 @@
   tempdir = {
     "0.7.1" = import ./overrides/tempdir/0.7.1;
   };
+  tendril-config = {
+    "0.3.6" = import ./overrides/tendril-config/0.3.6;
+  };
   tendril-utils-core = {
     "0.5.20" = import ./overrides/tendril-utils-core/0.5.20;
   };
   tendril-utils-fsutils = {
     "0.3.0" = import ./overrides/tendril-utils-fsutils/0.3.0;
+  };
+  tendril-utils-types = {
+    "0.2.5" = import ./overrides/tendril-utils-types/0.2.5;
+  };
+  tendril-utils-www = {
+    "0.2.14" = import ./overrides/tendril-utils-www/0.2.14;
   };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
