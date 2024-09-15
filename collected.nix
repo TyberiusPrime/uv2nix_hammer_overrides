@@ -288,6 +288,9 @@
   birdy = {
     "0.3.2" = import ./overrides/birdy/0.3.2;
   };
+  bitcoin = {
+    "1.1.39" = import ./overrides/bitcoin/1.1.39;
+  };
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
