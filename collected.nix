@@ -2954,6 +2954,9 @@
   oss2 = {
     "2.19.0" = import ./overrides/oss2/2.19.0;
   };
+  otree = {
+    "5.11.0" = import ./overrides/otree/5.11.0;
+  };
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
   };
@@ -3855,6 +3858,9 @@
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
+  python-multipart = {
+    "0.0.5" = import ./overrides/python-multipart/0.0.5;
+  };
   python-nmap = {
     "0.7.1" = import ./overrides/python-nmap/0.7.1;
   };
@@ -4473,6 +4479,7 @@
     "0.11.2" = import ./overrides/sprox/0.11.2;
   };
   sqlalchemy = {
+    "1.3.22" = import ./overrides/sqlalchemy/1.3.22;
     "1.4.15" = import ./overrides/sqlalchemy/1.4.15;
   };
   sqlalchemy-citext = {
