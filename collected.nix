@@ -4207,6 +4207,9 @@
   vital-tools = {
     "0.1.13" = import ./overrides/vital-tools/0.1.13;
   };
+  vivarium-core = {
+    "1.6.4" = import ./overrides/vivarium-core/1.6.4;
+  };
   vivisect-vstruct-wb = {
     "1.0.3" = import ./overrides/vivisect-vstruct-wb/1.0.3;
   };
