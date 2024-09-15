@@ -2961,6 +2961,9 @@
   tubeup = {
     "2023.9.19" = import ./overrides/tubeup/2023.9.19;
   };
+  twitter-common-collections = {
+    "0.3.11" = import ./overrides/twitter-common-collections/0.3.11;
+  };
   twitter-common-contextutil = {
     "0.3.11" = import ./overrides/twitter-common-contextutil/0.3.11;
   };
