@@ -732,6 +732,9 @@
   django-summernote = {
     "0.8.20.0" = import ./overrides/django-summernote/0.8.20.0;
   };
+  django-tablib = {
+    "3.2" = import ./overrides/django-tablib/3.2;
+  };
   django-taggit-templatetags = {
     "0.2.5" = import ./overrides/django-taggit-templatetags/0.2.5;
   };
