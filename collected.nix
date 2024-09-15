@@ -2750,6 +2750,9 @@
   pyfarmhash = {
     "0.3.2" = import ./overrides/pyfarmhash/0.3.2;
   };
+  pyfasta = {
+    "0.5.2" = import ./overrides/pyfasta/0.5.2;
+  };
   pyfim = {
     "6.28" = import ./overrides/pyfim/6.28;
   };
