@@ -419,6 +419,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  codepy = {
+    "2023.1" = import ./overrides/codepy/2023.1;
+  };
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
@@ -1051,6 +1054,9 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  genpy = {
+    "2022.1" = import ./overrides/genpy/2022.1;
+  };
   genson = {
     "1.2.2" = import ./overrides/genson/1.2.2;
   };
@@ -1542,6 +1548,9 @@
   };
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
+  };
+  loopy = {
+    "2024.1" = import ./overrides/loopy/2024.1;
   };
   lru-dict = {
     "1.2.0" = import ./overrides/lru-dict/1.2.0;
@@ -2191,6 +2200,9 @@
   };
   pylzma = {
     "0.5.0" = import ./overrides/pylzma/0.5.0;
+  };
+  pymbolic = {
+    "2022.2" = import ./overrides/pymbolic/2022.2;
   };
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
