@@ -2828,6 +2828,9 @@
   tempdir = {
     "0.7.1" = import ./overrides/tempdir/0.7.1;
   };
+  temperusb = {
+    "1.6.1" = import ./overrides/temperusb/1.6.1;
+  };
   tendril-utils-core = {
     "0.5.20" = import ./overrides/tendril-utils-core/0.5.20;
   };
