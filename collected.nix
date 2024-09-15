@@ -1618,6 +1618,9 @@
   micropython-cpython-micropython = {
     "0.1.1" = import ./overrides/micropython-cpython-micropython/0.1.1;
   };
+  midiutil = {
+    "1.2.1" = import ./overrides/midiutil/1.2.1;
+  };
   migen = {
     "0.9.2" = import ./overrides/migen/0.9.2;
   };
