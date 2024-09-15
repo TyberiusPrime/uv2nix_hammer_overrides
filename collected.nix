@@ -1381,6 +1381,9 @@
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
+  google-search-results = {
+    "2.4.2" = import ./overrides/google-search-results/2.4.2;
+  };
   googleads = {
     "43.0.0" = import ./overrides/googleads/43.0.0;
   };
@@ -1701,6 +1704,9 @@
   };
   jieba3k = {
     "0.35.1" = import ./overrides/jieba3k/0.35.1;
+  };
+  jinja2-highlight = {
+    "0.6.1" = import ./overrides/jinja2-highlight/0.6.1;
   };
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
