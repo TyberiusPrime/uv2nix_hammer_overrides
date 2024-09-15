@@ -312,6 +312,9 @@
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
+  callee = {
+    "0.3.1" = import ./overrides/callee/0.3.1;
+  };
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
