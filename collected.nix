@@ -3404,6 +3404,9 @@
   stemming = {
     "1.0.1" = import ./overrides/stemming/1.0.1;
   };
+  stompest = {
+    "2.3.0" = import ./overrides/stompest/2.3.0;
+  };
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
