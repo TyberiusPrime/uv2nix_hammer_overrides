@@ -1693,6 +1693,9 @@
   mutf8 = {
     "1.0.6" = import ./overrides/mutf8/1.0.6;
   };
+  mysmallutils = {
+    "2.0.20" = import ./overrides/mysmallutils/2.0.20;
+  };
   mysql-replication = {
     "1.0.9" = import ./overrides/mysql-replication/1.0.9;
   };
