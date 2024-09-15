@@ -596,6 +596,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  crispy-forms-foundation = {
+    "1.0.2" = import ./overrides/crispy-forms-foundation/1.0.2;
+  };
   crlibm = {
     "1.0.3" = import ./overrides/crlibm/1.0.3;
   };
