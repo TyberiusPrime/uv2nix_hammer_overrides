@@ -2431,6 +2431,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  libusb-package = {
+    "1.0.26.1" = import ./overrides/libusb-package/1.0.26.1;
+  };
   libvhdi-python = {
     "20240509" = import ./overrides/libvhdi-python/20240509;
   };
