@@ -446,6 +446,9 @@
   cloudshell-snmp = {
     "3.3.0" = import ./overrides/cloudshell-snmp/3.3.0;
   };
+  cmapy = {
+    "0.6.6" = import ./overrides/cmapy/0.6.6;
+  };
   cmdline = {
     "0.2.0" = import ./overrides/cmdline/0.2.0;
   };
