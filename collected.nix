@@ -1171,6 +1171,9 @@
   googlemaps = {
     "4.10.0" = import ./overrides/googlemaps/4.10.0;
   };
+  googletrans = {
+    "3.0.0" = import ./overrides/googletrans/3.0.0;
+  };
   gpgrecord = {
     "0.0.4" = import ./overrides/gpgrecord/0.0.4;
   };
