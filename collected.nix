@@ -1123,6 +1123,9 @@
   django-phonenumber-field = {
     "1.3.0" = import ./overrides/django-phonenumber-field/1.3.0;
   };
+  django-pragmatic = {
+    "5.0.0" = import ./overrides/django-pragmatic/5.0.0;
+  };
   django-preferences = {
     "1.0.0" = import ./overrides/django-preferences/1.0.0;
   };
@@ -4096,6 +4099,9 @@
   };
   python-pipedrive = {
     "0.4.0" = import ./overrides/python-pipedrive/0.4.0;
+  };
+  python-pragmatic = {
+    "1.0.0" = import ./overrides/python-pragmatic/1.0.0;
   };
   python-singleton-metaclasses = {
     "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
