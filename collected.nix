@@ -2526,6 +2526,9 @@
   mutf8 = {
     "1.0.6" = import ./overrides/mutf8/1.0.6;
   };
+  mysmallutils = {
+    "2.0.20" = import ./overrides/mysmallutils/2.0.20;
+  };
   mysql-connector-python-rf = {
     "2.2.2" = import ./overrides/mysql-connector-python-rf/2.2.2;
   };
