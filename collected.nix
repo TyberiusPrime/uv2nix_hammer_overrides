@@ -419,6 +419,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  codernitydb = {
+    "0.5.0" = import ./overrides/codernitydb/0.5.0;
+  };
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
