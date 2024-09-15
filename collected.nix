@@ -3248,6 +3248,9 @@
   toolkity = {
     "1.9.5" = import ./overrides/toolkity/1.9.5;
   };
+  tools = {
+    "0.1.9" = import ./overrides/tools/0.1.9;
+  };
   torch = {
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
