@@ -2671,6 +2671,9 @@
   migen = {
     "0.9.2" = import ./overrides/migen/0.9.2;
   };
+  millify = {
+    "0.1.1" = import ./overrides/millify/0.1.1;
+  };
   mime = {
     "0.1.0" = import ./overrides/mime/0.1.0;
   };
