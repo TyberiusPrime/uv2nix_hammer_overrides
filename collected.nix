@@ -325,6 +325,9 @@
   bash = {
     "0.6" = import ./overrides/bash/0.6;
   };
+  basho-erlastic = {
+    "2.1.1" = import ./overrides/basho-erlastic/2.1.1;
+  };
   bashplotlib = {
     "0.6.5" = import ./overrides/bashplotlib/0.6.5;
   };
