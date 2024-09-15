@@ -171,6 +171,9 @@
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
+  arelle = {
+    "2.2" = import ./overrides/arelle/2.2;
+  };
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
