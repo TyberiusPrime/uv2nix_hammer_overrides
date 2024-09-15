@@ -2852,6 +2852,9 @@
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
   };
+  thepiratebay = {
+    "1.3.5" = import ./overrides/thepiratebay/1.3.5;
+  };
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
