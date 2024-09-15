@@ -3157,6 +3157,9 @@
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
+  pretty-midi = {
+    "0.2.10" = import ./overrides/pretty-midi/0.2.10;
+  };
   prettyparse = {
     "1.2.0" = import ./overrides/prettyparse/1.2.0;
   };
