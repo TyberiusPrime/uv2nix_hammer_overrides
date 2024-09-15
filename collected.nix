@@ -4005,6 +4005,12 @@
   vincenty = {
     "0.1.4" = import ./overrides/vincenty/0.1.4;
   };
+  virtstrap-core = {
+    "0.3.16" = import ./overrides/virtstrap-core/0.3.16;
+  };
+  virtstrap-local = {
+    "0.3.16" = import ./overrides/virtstrap-local/0.3.16;
+  };
   virtualchain = {
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
