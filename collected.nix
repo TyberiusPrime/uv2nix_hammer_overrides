@@ -2899,6 +2899,9 @@
   patch-ng = {
     "1.18.0" = import ./overrides/patch-ng/1.18.0;
   };
+  path-and-address = {
+    "2.0.1" = import ./overrides/path-and-address/2.0.1;
+  };
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
