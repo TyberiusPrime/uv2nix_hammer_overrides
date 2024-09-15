@@ -2353,14 +2353,23 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  nlptoolkit-annotatedsentence = {
+    "1.0.38" = import ./overrides/nlptoolkit-annotatedsentence/1.0.38;
+  };
   nlptoolkit-corpus = {
     "1.0.25" = import ./overrides/nlptoolkit-corpus/1.0.25;
   };
   nlptoolkit-datastructure = {
     "1.0.14" = import ./overrides/nlptoolkit-datastructure/1.0.14;
   };
+  nlptoolkit-dependencyparser = {
+    "1.0.25" = import ./overrides/nlptoolkit-dependencyparser/1.0.25;
+  };
   nlptoolkit-dictionary = {
     "1.0.35" = import ./overrides/nlptoolkit-dictionary/1.0.35;
+  };
+  nlptoolkit-framenet = {
+    "1.0.8" = import ./overrides/nlptoolkit-framenet/1.0.8;
   };
   nlptoolkit-math = {
     "1.0.18" = import ./overrides/nlptoolkit-math/1.0.18;
@@ -2368,8 +2377,20 @@
   nlptoolkit-morphologicalanalysis = {
     "1.0.47" = import ./overrides/nlptoolkit-morphologicalanalysis/1.0.47;
   };
+  nlptoolkit-namedentityrecognition = {
+    "1.0.11" = import ./overrides/nlptoolkit-namedentityrecognition/1.0.11;
+  };
+  nlptoolkit-propbank = {
+    "1.0.21" = import ./overrides/nlptoolkit-propbank/1.0.21;
+  };
+  nlptoolkit-sentinet = {
+    "1.0.18" = import ./overrides/nlptoolkit-sentinet/1.0.18;
+  };
   nlptoolkit-util = {
     "1.0.11" = import ./overrides/nlptoolkit-util/1.0.11;
+  };
+  nlptoolkit-wordnet = {
+    "1.0.24" = import ./overrides/nlptoolkit-wordnet/1.0.24;
   };
   nodejs = {
     "0.1.1" = import ./overrides/nodejs/0.1.1;
