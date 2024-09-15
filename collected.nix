@@ -285,6 +285,9 @@
   breezy = {
     "3.3.8" = import ./overrides/breezy/3.3.8;
   };
+  brightway2 = {
+    "2.4.6" = import ./overrides/brightway2/2.4.6;
+  };
   bson = {
     "0.5.10" = import ./overrides/bson/0.5.10;
   };
@@ -299,6 +302,12 @@
   };
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
+  };
+  bw2analyzer = {
+    "0.10" = import ./overrides/bw2analyzer/0.10;
+  };
+  bw2calc = {
+    "1.8.2" = import ./overrides/bw2calc/1.8.2;
   };
   bw2data = {
     "3.6.6" = import ./overrides/bw2data/3.6.6;
