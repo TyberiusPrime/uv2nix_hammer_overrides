@@ -4137,6 +4137,9 @@
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
+  technicolor = {
+    "2017.1.16.1544" = import ./overrides/technicolor/2017.1.16.1544;
+  };
   telepath = {
     "0.3.1" = import ./overrides/telepath/0.3.1;
   };
