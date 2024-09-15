@@ -1837,6 +1837,9 @@
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
+  morph = {
+    "0.1.5" = import ./overrides/morph/0.1.5;
+  };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
