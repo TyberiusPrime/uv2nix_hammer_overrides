@@ -1874,6 +1874,9 @@
   nydus = {
     "0.11.0" = import ./overrides/nydus/0.11.0;
   };
+  oandapyv20 = {
+    "0.7.2" = import ./overrides/oandapyv20/0.7.2;
+  };
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
