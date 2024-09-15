@@ -174,6 +174,9 @@
   applescript = {
     "2021.2.9" = import ./overrides/applescript/2021.2.9;
   };
+  aqualogic = {
+    "3.4" = import ./overrides/aqualogic/3.4;
+  };
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
