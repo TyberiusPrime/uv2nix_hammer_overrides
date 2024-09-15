@@ -659,6 +659,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  credis = {
+    "2.0.2" = import ./overrides/credis/2.0.2;
+  };
   creek = {
     "0.1.32" = import ./overrides/creek/0.1.32;
   };
