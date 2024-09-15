@@ -2020,6 +2020,9 @@
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
   };
+  pure-sasl = {
+    "0.6.2" = import ./overrides/pure-sasl/0.6.2;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
@@ -2851,6 +2854,9 @@
   };
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
+  };
+  thrift = {
+    "0.16.0" = import ./overrides/thrift/0.16.0;
   };
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
