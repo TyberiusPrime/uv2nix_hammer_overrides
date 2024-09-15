@@ -4228,6 +4228,9 @@
   unittest-data-provider = {
     "1.0.1" = import ./overrides/unittest-data-provider/1.0.1;
   };
+  unlzw = {
+    "0.1.1" = import ./overrides/unlzw/0.1.1;
+  };
   unqlite = {
     "0.9.6" = import ./overrides/unqlite/0.9.6;
   };
