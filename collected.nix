@@ -1432,6 +1432,9 @@
   langid = {
     "1.1.6" = import ./overrides/langid/1.1.6;
   };
+  lanms-neo = {
+    "1.0.2" = import ./overrides/lanms-neo/1.0.2;
+  };
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
