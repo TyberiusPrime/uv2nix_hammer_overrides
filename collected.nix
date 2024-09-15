@@ -741,6 +741,9 @@
   diversipy = {
     "0.9" = import ./overrides/diversipy/0.9;
   };
+  dj-static = {
+    "0.0.6" = import ./overrides/dj-static/0.0.6;
+  };
   django-allauth = {
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
@@ -3475,6 +3478,9 @@
   };
   stashy = {
     "0.7" = import ./overrides/stashy/0.7;
+  };
+  static3 = {
+    "0.7.0" = import ./overrides/static3/0.7.0;
   };
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
