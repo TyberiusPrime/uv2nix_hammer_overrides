@@ -3251,6 +3251,9 @@
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
+  pyi2cflash = {
+    "0.2.2" = import ./overrides/pyi2cflash/0.2.2;
+  };
   pyiceberg = {
     "0.7.1" = import ./overrides/pyiceberg/0.7.1;
   };
