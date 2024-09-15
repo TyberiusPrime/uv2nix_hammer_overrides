@@ -1153,6 +1153,9 @@
   hanziconv = {
     "0.3.2" = import ./overrides/hanziconv/0.3.2;
   };
+  happybase = {
+    "1.2.0" = import ./overrides/happybase/1.2.0;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
