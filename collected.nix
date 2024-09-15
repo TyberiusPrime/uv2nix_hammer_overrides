@@ -3359,6 +3359,9 @@
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
   };
+  semgrep = {
+    "1.68.0" = import ./overrides/semgrep/1.68.0;
+  };
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
