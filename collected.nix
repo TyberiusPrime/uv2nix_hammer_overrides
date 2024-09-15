@@ -2753,6 +2753,9 @@
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
+  starkbank-ecdsa = {
+    "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
+  };
   starline = {
     "0.2.0" = import ./overrides/starline/0.2.0;
   };
