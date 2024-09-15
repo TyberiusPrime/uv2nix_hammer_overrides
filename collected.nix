@@ -183,6 +183,9 @@
   asciitree = {
     "0.3.3" = import ./overrides/asciitree/0.3.3;
   };
+  asks = {
+    "2.4.12" = import ./overrides/asks/2.4.12;
+  };
   asn1tools = {
     "0.167.0" = import ./overrides/asn1tools/0.167.0;
   };
