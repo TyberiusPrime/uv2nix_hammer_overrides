@@ -1914,6 +1914,9 @@
   ihm = {
     "1.5" = import ./overrides/ihm/1.5;
   };
+  ijson = {
+    "2.6.1" = import ./overrides/ijson/2.6.1;
+  };
   ilock = {
     "1.0.3" = import ./overrides/ilock/1.0.3;
   };
