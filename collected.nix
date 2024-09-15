@@ -2014,6 +2014,9 @@
   ptest = {
     "2.0.3" = import ./overrides/ptest/2.0.3;
   };
+  pubchempy = {
+    "1.0.4" = import ./overrides/pubchempy/1.0.4;
+  };
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
