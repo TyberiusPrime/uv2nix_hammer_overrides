@@ -246,6 +246,9 @@
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
   };
+  bencode = {
+    "1.0" = import ./overrides/bencode/1.0;
+  };
   betacode = {
     "1.0" = import ./overrides/betacode/1.0;
   };
