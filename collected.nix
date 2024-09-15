@@ -2891,6 +2891,9 @@
   oss2 = {
     "2.19.0" = import ./overrides/oss2/2.19.0;
   };
+  p-tqdm = {
+    "1.4.2" = import ./overrides/p-tqdm/1.4.2;
+  };
   packbits = {
     "0.6" = import ./overrides/packbits/0.6;
   };
