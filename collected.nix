@@ -1350,6 +1350,9 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  func-timeout = {
+    "4.3.5" = import ./overrides/func-timeout/4.3.5;
+  };
   funcargparse = {
     "0.2.5" = import ./overrides/funcargparse/0.2.5;
   };
