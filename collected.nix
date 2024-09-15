@@ -2477,6 +2477,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  qnap-qsw = {
+    "0.3.0" = import ./overrides/qnap-qsw/0.3.0;
+  };
   qprompt = {
     "0.16.3" = import ./overrides/qprompt/0.16.3;
   };
