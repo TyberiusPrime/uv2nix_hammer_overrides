@@ -1,1 +1,2 @@
 BuildSystems = [ "setuptools",]
+DowngradePythonBecauseOfDistutils = true
