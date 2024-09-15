@@ -2590,6 +2590,9 @@
   markupsafe = {
     "2.0.1" = import ./overrides/markupsafe/2.0.1;
   };
+  marrow-util = {
+    "1.2.3" = import ./overrides/marrow-util/1.2.3;
+  };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
