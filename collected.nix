@@ -1093,6 +1093,9 @@
   googlemaps = {
     "4.10.0" = import ./overrides/googlemaps/4.10.0;
   };
+  googletrans = {
+    "3.0.0" = import ./overrides/googletrans/3.0.0;
+  };
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
