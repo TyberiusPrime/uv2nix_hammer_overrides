@@ -1756,6 +1756,9 @@
   libvmdk-python = {
     "20240510" = import ./overrides/libvmdk-python/20240510;
   };
+  libwapiti = {
+    "0.2.1" = import ./overrides/libwapiti/0.2.1;
+  };
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
