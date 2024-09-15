@@ -1477,6 +1477,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  libwapiti = {
+    "0.2.1" = import ./overrides/libwapiti/0.2.1;
+  };
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
