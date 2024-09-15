@@ -927,6 +927,9 @@
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
+  ezodf = {
+    "0.3.2" = import ./overrides/ezodf/0.3.2;
+  };
   fabtools = {
     "0.20.0" = import ./overrides/fabtools/0.20.0;
   };
