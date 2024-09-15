@@ -192,6 +192,9 @@
   argumental = {
     "1.13" = import ./overrides/argumental/1.13;
   };
+  arguments = {
+    "76" = import ./overrides/arguments/76;
+  };
   armstrong-utils-backends = {
     "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
   };
