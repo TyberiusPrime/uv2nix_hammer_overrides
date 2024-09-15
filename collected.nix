@@ -843,6 +843,9 @@
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
+  doit-py = {
+    "0.5.0" = import ./overrides/doit-py/0.5.0;
+  };
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
   };
