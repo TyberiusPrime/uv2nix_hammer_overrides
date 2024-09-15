@@ -503,6 +503,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  crispy-forms-foundation = {
+    "1.0.2" = import ./overrides/crispy-forms-foundation/1.0.2;
+  };
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
