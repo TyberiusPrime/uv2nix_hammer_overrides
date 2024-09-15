@@ -2418,6 +2418,9 @@
   pytils = {
     "0.4.1" = import ./overrides/pytils/0.4.1;
   };
+  pytsk3 = {
+    "20231007" = import ./overrides/pytsk3/20231007;
+  };
   pytweening = {
     "1.2.0" = import ./overrides/pytweening/1.2.0;
   };
