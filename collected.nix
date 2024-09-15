@@ -1149,6 +1149,9 @@
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
+  etl-utils = {
+    "0.1.11" = import ./overrides/etl-utils/0.1.11;
+  };
   etuples = {
     "0.3.9" = import ./overrides/etuples/0.3.9;
   };
@@ -1638,6 +1641,9 @@
   };
   huey = {
     "2.5.1" = import ./overrides/huey/2.5.1;
+  };
+  humanize = {
+    "0.5.1" = import ./overrides/humanize/0.5.1;
   };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
@@ -2740,6 +2746,9 @@
   progress = {
     "1.6" = import ./overrides/progress/1.6;
   };
+  progressbar = {
+    "2.2" = import ./overrides/progressbar/2.2;
+  };
   progressbar-latest = {
     "2.4" = import ./overrides/progressbar-latest/2.4;
   };
@@ -3157,6 +3166,9 @@
   };
   pysigset = {
     "0.4.0" = import ./overrides/pysigset/0.4.0;
+  };
+  pysingleton = {
+    "0.2.1" = import ./overrides/pysingleton/0.2.1;
   };
   pysistence = {
     "0.4.1" = import ./overrides/pysistence/0.4.1;
