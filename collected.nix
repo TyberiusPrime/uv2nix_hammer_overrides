@@ -2485,6 +2485,9 @@
   protocoin = {
     "0.2" = import ./overrides/protocoin/0.2;
   };
+  protorpc = {
+    "0.12.0" = import ./overrides/protorpc/0.12.0;
+  };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
