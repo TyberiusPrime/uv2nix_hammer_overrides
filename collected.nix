@@ -1144,6 +1144,9 @@
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
+  hammock = {
+    "0.2.4" = import ./overrides/hammock/0.2.4;
+  };
   handout = {
     "1.1.2" = import ./overrides/handout/1.1.2;
   };
