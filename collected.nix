@@ -636,6 +636,9 @@
   distributedlock = {
     "1.2" = import ./overrides/distributedlock/1.2;
   };
+  diversipy = {
+    "0.9" = import ./overrides/diversipy/0.9;
+  };
   django-allauth = {
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
