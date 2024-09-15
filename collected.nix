@@ -3428,6 +3428,9 @@
   telethon = {
     "1.36.0" = import ./overrides/telethon/1.36.0;
   };
+  tellduslive = {
+    "0.10.12" = import ./overrides/tellduslive/0.10.12;
+  };
   tempdir = {
     "0.7.1" = import ./overrides/tempdir/0.7.1;
   };
