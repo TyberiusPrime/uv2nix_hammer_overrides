@@ -4985,6 +4985,9 @@
   unidic-lite = {
     "1.0.8" = import ./overrides/unidic-lite/1.0.8;
   };
+  unifi = {
+    "1.2.5" = import ./overrides/unifi/1.2.5;
+  };
   unified-message-relay = {
     "4.2" = import ./overrides/unified-message-relay/4.2;
   };
