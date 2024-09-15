@@ -4432,6 +4432,9 @@
   rtoml = {
     "0.8.0" = import ./overrides/rtoml/0.8.0;
   };
+  rubymarshal = {
+    "1.2.7" = import ./overrides/rubymarshal/1.2.7;
+  };
   runcmd = {
     "2020.12.3" = import ./overrides/runcmd/2020.12.3;
   };
