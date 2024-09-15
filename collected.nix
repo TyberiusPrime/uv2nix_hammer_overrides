@@ -264,6 +264,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  bisos2-common = {
+    "0.47" = import ./overrides/bisos2-common/0.47;
+  };
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
