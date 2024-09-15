@@ -2107,6 +2107,9 @@
   migen = {
     "0.9.2" = import ./overrides/migen/0.9.2;
   };
+  mime = {
+    "0.1.0" = import ./overrides/mime/0.1.0;
+  };
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
