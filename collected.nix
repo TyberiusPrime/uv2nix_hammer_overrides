@@ -2618,6 +2618,9 @@
   scikit-surgerycore = {
     "0.7.2" = import ./overrides/scikit-surgerycore/0.7.2;
   };
+  scikit-surgeryimage = {
+    "0.10.1" = import ./overrides/scikit-surgeryimage/0.10.1;
+  };
   sciunit = {
     "0.2.8" = import ./overrides/sciunit/0.2.8;
   };
