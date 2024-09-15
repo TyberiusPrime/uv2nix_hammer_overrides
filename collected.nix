@@ -4336,6 +4336,9 @@
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
+  reqif = {
+    "0.0.42" = import ./overrides/reqif/0.0.42;
+  };
   requests-aws = {
     "0.1.8" = import ./overrides/requests-aws/0.1.8;
   };
