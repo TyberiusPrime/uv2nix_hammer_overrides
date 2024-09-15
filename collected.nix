@@ -597,6 +597,9 @@
     "1.0.3" = import ./overrides/cloudshell-logging/1.0.3;
     "1.1.0" = import ./overrides/cloudshell-logging/1.1.0;
   };
+  cloudshell-networking = {
+    "5.1.0" = import ./overrides/cloudshell-networking/5.1.0;
+  };
   cloudshell-networking-devices = {
     "2.8.0" = import ./overrides/cloudshell-networking-devices/2.8.0;
   };
