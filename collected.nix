@@ -1222,8 +1222,14 @@
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
   };
+  ibm-cos-sdk = {
+    "2.13.6" = import ./overrides/ibm-cos-sdk/2.13.6;
+  };
   ibm-cos-sdk-core = {
     "2.13.6" = import ./overrides/ibm-cos-sdk-core/2.13.6;
+  };
+  ibm-cos-sdk-s3transfer = {
+    "2.13.6" = import ./overrides/ibm-cos-sdk-s3transfer/2.13.6;
   };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
