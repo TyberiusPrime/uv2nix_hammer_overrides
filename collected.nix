@@ -1543,6 +1543,9 @@
   impacket = {
     "0.11.0" = import ./overrides/impacket/0.11.0;
   };
+  importlib2 = {
+    "3.5.0.2" = import ./overrides/importlib2/3.5.0.2;
+  };
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
