@@ -2760,6 +2760,9 @@
   ms-cv = {
     "0.1.1" = import ./overrides/ms-cv/0.1.1;
   };
+  msgpack = {
+    "1.0.2" = import ./overrides/msgpack/1.0.2;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
