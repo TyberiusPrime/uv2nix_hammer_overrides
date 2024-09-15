@@ -801,6 +801,9 @@
   django-sendsms = {
     "0.5" = import ./overrides/django-sendsms/0.5;
   };
+  django-shortuuidfield = {
+    "0.1.3" = import ./overrides/django-shortuuidfield/0.1.3;
+  };
   django-social-api = {
     "0.1.1" = import ./overrides/django-social-api/0.1.1;
   };
