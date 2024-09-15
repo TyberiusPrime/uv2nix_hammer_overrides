@@ -2726,6 +2726,9 @@
   sphinx-autodoc-annotation = {
     "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
   };
+  sphinx-fortran = {
+    "1.1.1" = import ./overrides/sphinx-fortran/1.1.1;
+  };
   sphinxcontrib-newsfeed = {
     "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
   };
