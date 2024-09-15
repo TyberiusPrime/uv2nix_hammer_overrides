@@ -1528,6 +1528,9 @@
   flask-restful-swagger = {
     "0.20.2" = import ./overrides/flask-restful-swagger/0.20.2;
   };
+  flask-restful-swagger-2 = {
+    "0.35" = import ./overrides/flask-restful-swagger-2/0.35;
+  };
   flask-restless = {
     "0.17.0" = import ./overrides/flask-restless/0.17.0;
   };
