@@ -3334,6 +3334,9 @@
   pybitcointools = {
     "1.1.15" = import ./overrides/pybitcointools/1.1.15;
   };
+  pybktree = {
+    "1.1" = import ./overrides/pybktree/1.1;
+  };
   pyblake2 = {
     "1.1.2" = import ./overrides/pyblake2/1.1.2;
   };
