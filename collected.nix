@@ -452,6 +452,9 @@
   configparser = {
     "3.5.0" = import ./overrides/configparser/3.5.0;
   };
+  connect-box = {
+    "0.4.0" = import ./overrides/connect-box/0.4.0;
+  };
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
