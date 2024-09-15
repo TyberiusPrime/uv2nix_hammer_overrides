@@ -111,6 +111,9 @@
   apcaccess = {
     "0.0.13" = import ./overrides/apcaccess/0.0.13;
   };
+  api = {
+    "0.0.7" = import ./overrides/api/0.0.7;
+  };
   apiclient = {
     "1.0.4" = import ./overrides/apiclient/1.0.4;
   };
