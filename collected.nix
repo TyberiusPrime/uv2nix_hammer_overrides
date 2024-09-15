@@ -2519,6 +2519,9 @@
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
+  redlock-py = {
+    "1.0.8" = import ./overrides/redlock-py/1.0.8;
+  };
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
   };
