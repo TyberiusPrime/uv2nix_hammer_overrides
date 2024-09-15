@@ -1447,6 +1447,9 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  genpy = {
+    "2022.1" = import ./overrides/genpy/2022.1;
+  };
   genson = {
     "1.2.2" = import ./overrides/genson/1.2.2;
   };
@@ -2131,6 +2134,9 @@
   };
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
+  };
+  loopy = {
+    "2024.1" = import ./overrides/loopy/2024.1;
   };
   lottie = {
     "0.7.0" = import ./overrides/lottie/0.7.0;
@@ -3104,6 +3110,9 @@
   };
   pymailgunner = {
     "1.5" = import ./overrides/pymailgunner/1.5;
+  };
+  pymbolic = {
+    "2022.2" = import ./overrides/pymbolic/2022.2;
   };
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
