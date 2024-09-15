@@ -1002,6 +1002,9 @@
   django-tabbed-admin = {
     "1.0.4" = import ./overrides/django-tabbed-admin/1.0.4;
   };
+  django-tablib = {
+    "3.2" = import ./overrides/django-tablib/3.2;
+  };
   django-taggit-serializer = {
     "0.1.7" = import ./overrides/django-taggit-serializer/0.1.7;
   };
