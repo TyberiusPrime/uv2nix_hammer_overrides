@@ -3665,6 +3665,9 @@
   tensorflow-io-gcs-filesystem = {
     "0.37.1" = import ./overrides/tensorflow-io-gcs-filesystem/0.37.1;
   };
+  terminal = {
+    "0.4.0" = import ./overrides/terminal/0.4.0;
+  };
   testgear-api-client = {
     "3.2.0" = import ./overrides/testgear-api-client/3.2.0;
   };
