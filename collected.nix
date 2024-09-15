@@ -3687,6 +3687,9 @@
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
+  python-nmap = {
+    "0.7.1" = import ./overrides/python-nmap/0.7.1;
+  };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
