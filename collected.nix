@@ -3290,6 +3290,9 @@
   pyinterval = {
     "1.2.0" = import ./overrides/pyinterval/1.2.0;
   };
+  pyipma = {
+    "3.0.7" = import ./overrides/pyipma/3.0.7;
+  };
   pyjade = {
     "4.0.0" = import ./overrides/pyjade/4.0.0;
   };
