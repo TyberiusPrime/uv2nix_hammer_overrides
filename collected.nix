@@ -2146,6 +2146,9 @@
   mplstereonet = {
     "0.6.3" = import ./overrides/mplstereonet/0.6.3;
   };
+  mqtt2influxdb = {
+    "1.5.2" = import ./overrides/mqtt2influxdb/1.5.2;
+  };
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
@@ -2676,6 +2679,9 @@
   };
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
+  };
+  pycron = {
+    "3.0.0" = import ./overrides/pycron/3.0.0;
   };
   pycrypto = {
     "2.6.1" = import ./overrides/pycrypto/2.6.1;
