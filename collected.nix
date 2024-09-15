@@ -1603,6 +1603,9 @@
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
   };
+  mf2util = {
+    "0.5.2" = import ./overrides/mf2util/0.5.2;
+  };
   mgzip = {
     "0.2.1" = import ./overrides/mgzip/0.2.1;
   };
