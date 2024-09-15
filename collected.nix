@@ -662,6 +662,9 @@
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
+  crank = {
+    "0.8.1" = import ./overrides/crank/0.8.1;
+  };
   crc16 = {
     "0.1.1" = import ./overrides/crc16/0.1.1;
   };
@@ -3981,6 +3984,9 @@
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
   };
+  sprox = {
+    "0.11.2" = import ./overrides/sprox/0.11.2;
+  };
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
   };
@@ -4155,6 +4161,9 @@
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
   };
+  tgext-crud = {
+    "0.9.0" = import ./overrides/tgext-crud/0.9.0;
+  };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
@@ -4321,6 +4330,9 @@
   };
   tubeup = {
     "2023.9.19" = import ./overrides/tubeup/2023.9.19;
+  };
+  turbogears2 = {
+    "2.4.3" = import ./overrides/turbogears2/2.4.3;
   };
   tvdb-api = {
     "3.1.0" = import ./overrides/tvdb-api/3.1.0;
