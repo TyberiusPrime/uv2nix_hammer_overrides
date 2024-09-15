@@ -1063,6 +1063,9 @@
   django-fernet-fields = {
     "0.6" = import ./overrides/django-fernet-fields/0.6;
   };
+  django-haystack = {
+    "3.3.0" = import ./overrides/django-haystack/3.3.0;
+  };
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
@@ -5294,6 +5297,9 @@
   };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
+  };
+  urlobject = {
+    "2.4.3" = import ./overrides/urlobject/2.4.3;
   };
   urlparse2 = {
     "1.1.1" = import ./overrides/urlparse2/1.1.1;
