@@ -5271,6 +5271,9 @@
   unisos-ucf = {
     "0.15" = import ./overrides/unisos-ucf/0.15;
   };
+  units = {
+    "0.7" = import ./overrides/units/0.7;
+  };
   unittest-data-provider = {
     "1.0.1" = import ./overrides/unittest-data-provider/1.0.1;
   };
