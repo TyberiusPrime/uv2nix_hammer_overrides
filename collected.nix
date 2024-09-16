@@ -2008,6 +2008,9 @@
   hyperdash = {
     "0.15.3" = import ./overrides/hyperdash/0.15.3;
   };
+  hyperloglog = {
+    "0.0.14" = import ./overrides/hyperloglog/0.0.14;
+  };
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
   };
@@ -4102,6 +4105,9 @@
   };
   python-slugify = {
     "1.2.6" = import ./overrides/python-slugify/1.2.6;
+  };
+  python-smpp = {
+    "0.1.9" = import ./overrides/python-smpp/0.1.9;
   };
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
