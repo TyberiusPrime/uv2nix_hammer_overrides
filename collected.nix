@@ -1736,6 +1736,9 @@
   geobrickscommon = {
     "0.0.9" = import ./overrides/geobrickscommon/0.0.9;
   };
+  geoid = {
+    "1.1.5" = import ./overrides/geoid/1.1.5;
+  };
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
