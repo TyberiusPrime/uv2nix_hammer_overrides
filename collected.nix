@@ -3194,6 +3194,9 @@
   pdfconduit-utils = {
     "1.1.2" = import ./overrides/pdfconduit-utils/1.1.2;
   };
+  pdfminer = {
+    "20191125" = import ./overrides/pdfminer/20191125;
+  };
   pdfminer3 = {
     "2018.12.3.0" = import ./overrides/pdfminer3/2018.12.3.0;
   };
