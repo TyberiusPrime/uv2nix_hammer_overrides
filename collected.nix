@@ -1483,6 +1483,9 @@
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
+  fcore = {
+    "4.0.0" = import ./overrides/fcore/4.0.0;
+  };
   feedfinder2 = {
     "0.0.4" = import ./overrides/feedfinder2/0.0.4;
   };
