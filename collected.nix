@@ -2749,6 +2749,9 @@
   mosestokenizer = {
     "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
   };
+  motuclient = {
+    "3.0.0" = import ./overrides/motuclient/3.0.0;
+  };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
