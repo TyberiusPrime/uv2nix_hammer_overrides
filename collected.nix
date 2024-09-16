@@ -693,6 +693,9 @@
   commandlib = {
     "0.3.5" = import ./overrides/commandlib/0.3.5;
   };
+  commentjson = {
+    "0.9.0" = import ./overrides/commentjson/0.9.0;
+  };
   compmake-z6 = {
     "6.1.5" = import ./overrides/compmake-z6/6.1.5;
   };
@@ -2364,6 +2367,9 @@
   };
   lantz-core = {
     "0.5.3" = import ./overrides/lantz-core/0.5.3;
+  };
+  lark-parser = {
+    "0.7.8" = import ./overrides/lark-parser/0.7.8;
   };
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
