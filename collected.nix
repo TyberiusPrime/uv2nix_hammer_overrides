@@ -4405,6 +4405,9 @@
   rouge-score = {
     "0.1.2" = import ./overrides/rouge-score/0.1.2;
   };
+  roundrobin = {
+    "0.0.4" = import ./overrides/roundrobin/0.0.4;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
