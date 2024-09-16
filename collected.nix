@@ -442,6 +442,9 @@
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
+  bmipy = {
+    "2.0.1" = import ./overrides/bmipy/2.0.1;
+  };
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
