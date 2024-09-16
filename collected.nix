@@ -2485,6 +2485,9 @@
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
+  linux-metrics = {
+    "0.1.4" = import ./overrides/linux-metrics/0.1.4;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
@@ -4251,6 +4254,9 @@
   };
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
+  };
+  rabird-core = {
+    "0.4.1" = import ./overrides/rabird-core/0.4.1;
   };
   radian = {
     "0.6.13" = import ./overrides/radian/0.6.13;
