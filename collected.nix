@@ -1660,6 +1660,9 @@
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
+  fst-pso = {
+    "1.8.1" = import ./overrides/fst-pso/1.8.1;
+  };
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
