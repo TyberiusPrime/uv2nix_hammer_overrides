@@ -5457,6 +5457,9 @@
   webrtcvad = {
     "2.0.10" = import ./overrides/webrtcvad/2.0.10;
   };
+  webservices = {
+    "0.7" = import ./overrides/webservices/0.7;
+  };
   websocket-client = {
     "0.40.0" = import ./overrides/websocket-client/0.40.0;
   };
