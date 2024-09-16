@@ -1390,6 +1390,9 @@
   epion = {
     "0.0.3" = import ./overrides/epion/0.0.3;
   };
+  epydoc = {
+    "3.0.1" = import ./overrides/epydoc/3.0.1;
+  };
   esdk-obs-python = {
     "3.24.6.1" = import ./overrides/esdk-obs-python/3.24.6.1;
   };
