@@ -3248,6 +3248,9 @@
   phpserialize = {
     "1.3" = import ./overrides/phpserialize/1.3;
   };
+  phunspell = {
+    "0.1.6" = import ./overrides/phunspell/0.1.6;
+  };
   pickle-mixin = {
     "1.0.2" = import ./overrides/pickle-mixin/1.0.2;
   };
