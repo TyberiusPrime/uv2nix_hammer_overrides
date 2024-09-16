@@ -1411,6 +1411,9 @@
   etuples = {
     "0.3.9" = import ./overrides/etuples/0.3.9;
   };
+  euclid3 = {
+    "0.1" = import ./overrides/euclid3/0.1;
+  };
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
