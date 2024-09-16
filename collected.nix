@@ -2485,6 +2485,9 @@
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
+  ll-xist = {
+    "5.76" = import ./overrides/ll-xist/5.76;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
