@@ -3763,6 +3763,9 @@
   pymbolic = {
     "2022.2" = import ./overrides/pymbolic/2022.2;
   };
+  pymediainfo = {
+    "6.1.0" = import ./overrides/pymediainfo/6.1.0;
+  };
   pymeeus = {
     "0.5.12" = import ./overrides/pymeeus/0.5.12;
   };
