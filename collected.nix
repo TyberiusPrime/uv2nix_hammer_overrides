@@ -4444,6 +4444,9 @@
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
   };
+  s3-pit-restore = {
+    "0.9" = import ./overrides/s3-pit-restore/0.9;
+  };
   sabyenc = {
     "3.3.6" = import ./overrides/sabyenc/3.3.6;
   };
