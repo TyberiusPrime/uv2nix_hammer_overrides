@@ -2857,6 +2857,9 @@
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
   };
+  nanomsg = {
+    "1.0" = import ./overrides/nanomsg/1.0;
+  };
   nanotime = {
     "0.5.2" = import ./overrides/nanotime/0.5.2;
   };
