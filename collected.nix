@@ -3428,6 +3428,9 @@
   pubcontrol = {
     "3.5.0" = import ./overrides/pubcontrol/3.5.0;
   };
+  publicsuffix = {
+    "1.1.1" = import ./overrides/publicsuffix/1.1.1;
+  };
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
