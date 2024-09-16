@@ -454,6 +454,9 @@
   brightway2 = {
     "2.4.6" = import ./overrides/brightway2/2.4.6;
   };
+  browsermob-proxy = {
+    "0.8.0" = import ./overrides/browsermob-proxy/0.8.0;
+  };
   bs4 = {
     "0.0.1" = import ./overrides/bs4/0.0.1;
   };
@@ -2575,6 +2578,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  marionette-client = {
+    "3.3.0" = import ./overrides/marionette-client/3.3.0;
+  };
   marionette-transport = {
     "1.2.0" = import ./overrides/marionette-transport/1.2.0;
   };
@@ -4195,6 +4201,9 @@
   };
   pywatchman = {
     "2.0.0" = import ./overrides/pywatchman/2.0.0;
+  };
+  pywebsocket3 = {
+    "4.0.2" = import ./overrides/pywebsocket3/4.0.2;
   };
   pywurfl = {
     "7.2.1" = import ./overrides/pywurfl/7.2.1;
