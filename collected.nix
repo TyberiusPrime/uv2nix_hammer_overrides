@@ -334,6 +334,9 @@
   backports-strenum = {
     "1.1.1" = import ./overrides/backports-strenum/1.1.1;
   };
+  bap = {
+    "1.3.1" = import ./overrides/bap/1.3.1;
+  };
   bar = {
     "0.2.1" = import ./overrides/bar/0.2.1;
   };
