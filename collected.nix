@@ -4696,6 +4696,9 @@
   sphinx-autodoc-annotation = {
     "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
   };
+  sphinx-better-theme = {
+    "0.1.5" = import ./overrides/sphinx-better-theme/0.1.5;
+  };
   sphinx-fortran = {
     "1.1.1" = import ./overrides/sphinx-fortran/1.1.1;
   };
