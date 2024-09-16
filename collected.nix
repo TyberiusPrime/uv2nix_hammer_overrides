@@ -433,6 +433,9 @@
   blackboxauditing = {
     "0.1.54" = import ./overrides/blackboxauditing/0.1.54;
   };
+  bleach-whitelist = {
+    "0.0.11" = import ./overrides/bleach-whitelist/0.0.11;
+  };
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
   };
