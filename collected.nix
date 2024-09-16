@@ -1558,6 +1558,9 @@
   flask-cache = {
     "0.13.1" = import ./overrides/flask-cache/0.13.1;
   };
+  flask-classy = {
+    "0.6.10" = import ./overrides/flask-classy/0.6.10;
+  };
   flask-csrf = {
     "0.9.2" = import ./overrides/flask-csrf/0.9.2;
   };
