@@ -1036,6 +1036,9 @@
   django-compat = {
     "1.0.15" = import ./overrides/django-compat/1.0.15;
   };
+  django-concurrency = {
+    "2.5" = import ./overrides/django-concurrency/2.5;
+  };
   django-cratis = {
     "0.9.1" = import ./overrides/django-cratis/0.9.1;
   };
