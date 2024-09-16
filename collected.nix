@@ -2125,6 +2125,9 @@
   iodata = {
     "0.1.3" = import ./overrides/iodata/0.1.3;
   };
+  ioflo = {
+    "2.0.2" = import ./overrides/ioflo/2.0.2;
+  };
   ionhash = {
     "1.2.1" = import ./overrides/ionhash/1.2.1;
   };
