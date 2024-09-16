@@ -2593,6 +2593,9 @@
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
+  matplotlib-venn = {
+    "1.1.1" = import ./overrides/matplotlib-venn/1.1.1;
+  };
   matrix-api-async = {
     "0.1.0" = import ./overrides/matrix-api-async/0.1.0;
   };
