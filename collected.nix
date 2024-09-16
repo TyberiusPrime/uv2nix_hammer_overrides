@@ -1876,6 +1876,9 @@
   halo = {
     "0.0.31" = import ./overrides/halo/0.0.31;
   };
+  hamlpy = {
+    "0.82.2" = import ./overrides/hamlpy/0.82.2;
+  };
   hammock = {
     "0.2.4" = import ./overrides/hammock/0.2.4;
   };
