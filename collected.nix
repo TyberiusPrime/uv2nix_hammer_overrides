@@ -4121,6 +4121,9 @@
   python-wink = {
     "1.10.5" = import ./overrides/python-wink/1.10.5;
   };
+  python-xbrl = {
+    "1.1.1" = import ./overrides/python-xbrl/1.1.1;
+  };
   python-yubico = {
     "1.3.3" = import ./overrides/python-yubico/1.3.3;
   };
