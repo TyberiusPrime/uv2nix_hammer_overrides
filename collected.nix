@@ -789,6 +789,9 @@
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
+  cpyparsing = {
+    "2.4.7.2.4.0" = import ./overrides/cpyparsing/2.4.7.2.4.0;
+  };
   cqlengine = {
     "0.21.0" = import ./overrides/cqlengine/0.21.0;
   };
