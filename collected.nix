@@ -5507,6 +5507,9 @@
   wsgiutils = {
     "0.7.2" = import ./overrides/wsgiutils/0.7.2;
   };
+  wtf-peewee = {
+    "3.0.5" = import ./overrides/wtf-peewee/3.0.5;
+  };
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
   };
