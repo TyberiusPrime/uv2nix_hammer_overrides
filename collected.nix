@@ -4073,6 +4073,9 @@
   python-multipart = {
     "0.0.5" = import ./overrides/python-multipart/0.0.5;
   };
+  python-nest = {
+    "4.2.0" = import ./overrides/python-nest/4.2.0;
+  };
   python-nmap = {
     "0.7.1" = import ./overrides/python-nmap/0.7.1;
   };
