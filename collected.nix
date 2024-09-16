@@ -3723,6 +3723,9 @@
   pykwb = {
     "0.0.10" = import ./overrides/pykwb/0.0.10;
   };
+  pylacrosse = {
+    "0.4" = import ./overrides/pylacrosse/0.4;
+  };
   pylatex = {
     "1.4.2" = import ./overrides/pylatex/1.4.2;
   };
