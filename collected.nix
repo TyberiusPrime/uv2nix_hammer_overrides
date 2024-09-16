@@ -3672,6 +3672,9 @@
   pygooglechart = {
     "0.4.0" = import ./overrides/pygooglechart/0.4.0;
   };
+  pygrok = {
+    "1.0.0" = import ./overrides/pygrok/1.0.0;
+  };
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
