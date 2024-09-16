@@ -912,6 +912,9 @@
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
+  datrie = {
+    "0.8.2" = import ./overrides/datrie/0.8.2;
+  };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
@@ -1494,6 +1497,9 @@
   };
   ffmpeg = {
     "1.4" = import ./overrides/ffmpeg/1.4;
+  };
+  fibheap = {
+    "0.2.1" = import ./overrides/fibheap/0.2.1;
   };
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
