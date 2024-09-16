@@ -3413,6 +3413,9 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  psycogreen = {
+    "1.0.2" = import ./overrides/psycogreen/1.0.2;
+  };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
   };
