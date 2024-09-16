@@ -1294,6 +1294,9 @@
   dsnparse = {
     "0.2.1" = import ./overrides/dsnparse/0.2.1;
   };
+  dtaidistance = {
+    "2.3.12" = import ./overrides/dtaidistance/2.3.12;
+  };
   duckietown-docker-utils-daffy = {
     "6.1.1" = import ./overrides/duckietown-docker-utils-daffy/6.1.1;
   };
