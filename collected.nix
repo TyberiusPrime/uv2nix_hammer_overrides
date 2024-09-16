@@ -1852,6 +1852,9 @@
   grvlms-openedx = {
     "1.0.6" = import ./overrides/grvlms-openedx/1.0.6;
   };
+  gssapi = {
+    "1.8.3" = import ./overrides/gssapi/1.8.3;
+  };
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
@@ -2346,6 +2349,9 @@
   };
   krakenex = {
     "2.2.2" = import ./overrides/krakenex/2.2.2;
+  };
+  krb5 = {
+    "0.6.0" = import ./overrides/krb5/0.6.0;
   };
   kser = {
     "0.8.25" = import ./overrides/kser/0.8.25;
