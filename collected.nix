@@ -3988,6 +3988,9 @@
   python-bugzilla = {
     "3.2.0" = import ./overrides/python-bugzilla/3.2.0;
   };
+  python-cantrips = {
+    "1.0.0" = import ./overrides/python-cantrips/1.0.0;
+  };
   python-card-me = {
     "0.9.3" = import ./overrides/python-card-me/0.9.3;
   };
