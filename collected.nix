@@ -3898,6 +3898,9 @@
   pysendfile = {
     "2.0.1" = import ./overrides/pysendfile/2.0.1;
   };
+  pyshorteners = {
+    "1.0.1" = import ./overrides/pyshorteners/1.0.1;
+  };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
   };
