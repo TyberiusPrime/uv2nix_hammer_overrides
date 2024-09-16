@@ -5141,6 +5141,9 @@
   tsam = {
     "2.3.3" = import ./overrides/tsam/2.3.3;
   };
+  ttkwidgets = {
+    "0.13.0" = import ./overrides/ttkwidgets/0.13.0;
+  };
   tubeup = {
     "2023.9.19" = import ./overrides/tubeup/2023.9.19;
   };
