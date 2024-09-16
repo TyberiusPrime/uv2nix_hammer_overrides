@@ -3575,6 +3575,9 @@
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
   };
+  pycparserext = {
+    "2021.1" = import ./overrides/pycparserext/2021.1;
+  };
   pycron = {
     "3.0.0" = import ./overrides/pycron/3.0.0;
   };
