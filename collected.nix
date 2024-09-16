@@ -3985,6 +3985,9 @@
   python-baseconv = {
     "1.2.2" = import ./overrides/python-baseconv/1.2.2;
   };
+  python-bitcoinrpc = {
+    "1.0" = import ./overrides/python-bitcoinrpc/1.0;
+  };
   python-bugzilla = {
     "3.2.0" = import ./overrides/python-bugzilla/3.2.0;
   };
