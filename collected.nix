@@ -2716,6 +2716,9 @@
   mocker = {
     "1.1.1" = import ./overrides/mocker/1.1.1;
   };
+  modelcatalog-api = {
+    "8.0.0" = import ./overrides/modelcatalog-api/8.0.0;
+  };
   modelcif = {
     "1.0" = import ./overrides/modelcif/1.0;
   };
