@@ -3090,6 +3090,9 @@
   opentypespec = {
     "1.9.1" = import ./overrides/opentypespec/1.9.1;
   };
+  openwrt-ubus-rpc = {
+    "0.0.3" = import ./overrides/openwrt-ubus-rpc/0.0.3;
+  };
   opster = {
     "5.0" = import ./overrides/opster/5.0;
   };
