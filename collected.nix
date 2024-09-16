@@ -3880,6 +3880,9 @@
   pyrsistent = {
     "0.17.4rc1" = import ./overrides/pyrsistent/0.17.4rc1;
   };
+  pysat = {
+    "3.2.0" = import ./overrides/pysat/3.2.0;
+  };
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
   };
