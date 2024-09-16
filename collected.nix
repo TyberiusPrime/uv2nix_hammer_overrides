@@ -1060,6 +1060,9 @@
   django-el-pagination = {
     "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
   };
+  django-endless-pagination = {
+    "2.0" = import ./overrides/django-endless-pagination/2.0;
+  };
   django-fernet-fields = {
     "0.6" = import ./overrides/django-fernet-fields/0.6;
   };
