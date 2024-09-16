@@ -2701,6 +2701,9 @@
   mmcif-utils = {
     "0.28" = import ./overrides/mmcif-utils/0.28;
   };
+  mmcv = {
+    "2.2.0" = import ./overrides/mmcv/2.2.0;
+  };
   mobi = {
     "0.3.3" = import ./overrides/mobi/0.3.3;
   };
