@@ -3059,6 +3059,9 @@
   opcua = {
     "0.98.13" = import ./overrides/opcua/0.98.13;
   };
+  openai-clip = {
+    "1.0.1" = import ./overrides/openai-clip/1.0.1;
+  };
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
