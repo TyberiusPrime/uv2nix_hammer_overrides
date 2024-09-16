@@ -2569,6 +2569,9 @@
   manage-py = {
     "0.2.10" = import ./overrides/manage-py/0.2.10;
   };
+  mandrill = {
+    "1.0.60" = import ./overrides/mandrill/1.0.60;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
