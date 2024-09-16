@@ -1477,6 +1477,9 @@
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
+  faust-streaming = {
+    "0.11.3" = import ./overrides/faust-streaming/0.11.3;
+  };
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
