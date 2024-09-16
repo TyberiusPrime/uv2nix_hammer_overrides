@@ -1003,6 +1003,9 @@
   dj-static = {
     "0.0.6" = import ./overrides/dj-static/0.0.6;
   };
+  django-admin-extra-buttons = {
+    "1.5.8" = import ./overrides/django-admin-extra-buttons/1.5.8;
+  };
   django-admin-multiple-choice-list-filter = {
     "0.1.1" = import ./overrides/django-admin-multiple-choice-list-filter/0.1.1;
   };
