@@ -5237,6 +5237,9 @@
   umap = {
     "0.1.1" = import ./overrides/umap/0.1.1;
   };
+  uncleengineer = {
+    "0.2" = import ./overrides/uncleengineer/0.2;
+  };
   undetected-chromedriver = {
     "3.5.5" = import ./overrides/undetected-chromedriver/3.5.5;
   };
