@@ -4600,6 +4600,9 @@
   simpleaudio = {
     "1.0.4" = import ./overrides/simpleaudio/1.0.4;
   };
+  simplegeneric = {
+    "0.8.1" = import ./overrides/simplegeneric/0.8.1;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
@@ -5273,6 +5276,9 @@
   };
   unittest-data-provider = {
     "1.0.1" = import ./overrides/unittest-data-provider/1.0.1;
+  };
+  unixpackage = {
+    "0.4.7" = import ./overrides/unixpackage/0.4.7;
   };
   unlzw = {
     "0.1.1" = import ./overrides/unlzw/0.1.1;
