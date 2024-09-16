@@ -4459,6 +4459,9 @@
   sane-python = {
     "0.1.3" = import ./overrides/sane-python/0.1.3;
   };
+  sas7bdat = {
+    "2.2.3" = import ./overrides/sas7bdat/2.2.3;
+  };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
   };
