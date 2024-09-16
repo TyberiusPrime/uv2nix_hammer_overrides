@@ -3621,6 +3621,9 @@
   pyelasticsearch = {
     "1.4.1" = import ./overrides/pyelasticsearch/1.4.1;
   };
+  pyephem = {
+    "9.99" = import ./overrides/pyephem/9.99;
+  };
   pyes = {
     "0.99.6" = import ./overrides/pyes/0.99.6;
   };
