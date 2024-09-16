@@ -1751,6 +1751,9 @@
   gisdata = {
     "0.5.4" = import ./overrides/gisdata/0.5.4;
   };
+  gitapi = {
+    "1.1.0a2" = import ./overrides/gitapi/1.1.0a2;
+  };
   gitignore-parser = {
     "0.1.11" = import ./overrides/gitignore-parser/0.1.11;
   };
@@ -1920,6 +1923,9 @@
   };
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
+  };
+  hgapi = {
+    "1.7.4" = import ./overrides/hgapi/1.7.4;
   };
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
