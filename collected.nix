@@ -3470,6 +3470,9 @@
   py2store = {
     "0.1.20" = import ./overrides/py2store/0.1.20;
   };
+  py3rijndael = {
+    "0.3.3" = import ./overrides/py3rijndael/0.3.3;
+  };
   pyacoustid = {
     "1.3.0" = import ./overrides/pyacoustid/1.3.0;
   };
