@@ -2554,6 +2554,9 @@
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
+  madmom = {
+    "0.16.1" = import ./overrides/madmom/0.16.1;
+  };
   mailchecker = {
     "6.0.8" = import ./overrides/mailchecker/6.0.8;
   };
