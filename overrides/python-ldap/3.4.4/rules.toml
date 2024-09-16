@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.cyrus_sasl", "~literal:!:pkgs.openldap.dev", "~literal:!:pkgs.pkg-config",]
+BuildSystems = [ "setuptools",]
