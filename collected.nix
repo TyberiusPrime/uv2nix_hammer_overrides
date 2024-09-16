@@ -1657,6 +1657,9 @@
   frontmatter = {
     "3.0.8" = import ./overrides/frontmatter/3.0.8;
   };
+  frozendict = {
+    "1.2" = import ./overrides/frozendict/1.2;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
@@ -1812,6 +1815,9 @@
   };
   gpustat = {
     "1.1.1" = import ./overrides/gpustat/1.1.1;
+  };
+  gputil = {
+    "1.4.0" = import ./overrides/gputil/1.4.0;
   };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
@@ -2400,6 +2406,9 @@
   };
   li-pagador = {
     "0.0.0.1" = import ./overrides/li-pagador/0.0.0.1;
+  };
+  liac-arff = {
+    "2.5.0" = import ./overrides/liac-arff/2.5.0;
   };
   libais = {
     "0.17" = import ./overrides/libais/0.17;
@@ -3073,6 +3082,9 @@
   };
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
+  };
+  openml = {
+    "0.11.0" = import ./overrides/openml/0.11.0;
   };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
@@ -4488,6 +4500,9 @@
   };
   scikit-commpy = {
     "0.8.0" = import ./overrides/scikit-commpy/0.8.0;
+  };
+  scikit-learn = {
+    "0.24.2" = import ./overrides/scikit-learn/0.24.2;
   };
   scikit-surgerycore = {
     "0.7.2" = import ./overrides/scikit-surgerycore/0.7.2;
