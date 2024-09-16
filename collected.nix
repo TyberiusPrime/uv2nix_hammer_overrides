@@ -1501,6 +1501,9 @@
   filebytes = {
     "0.10.2" = import ./overrides/filebytes/0.10.2;
   };
+  filechunkio = {
+    "1.8" = import ./overrides/filechunkio/1.8;
+  };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
