@@ -1261,6 +1261,9 @@
   docrep = {
     "0.3.2" = import ./overrides/docrep/0.3.2;
   };
+  doctest-ignore-unicode = {
+    "0.1.2" = import ./overrides/doctest-ignore-unicode/0.1.2;
+  };
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
