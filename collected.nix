@@ -2062,6 +2062,9 @@
   imageio = {
     "2.1.2" = import ./overrides/imageio/2.1.2;
   };
+  imantics = {
+    "0.1.12" = import ./overrides/imantics/0.1.12;
+  };
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
