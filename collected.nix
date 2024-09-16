@@ -1492,6 +1492,9 @@
   feeluown = {
     "4.1.7" = import ./overrides/feeluown/4.1.7;
   };
+  fernet = {
+    "1.0.1" = import ./overrides/fernet/1.0.1;
+  };
   ffmpeg = {
     "1.4" = import ./overrides/ffmpeg/1.4;
   };
