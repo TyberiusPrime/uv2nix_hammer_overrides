@@ -1,0 +1,2 @@
+BuildSystems = [ "jupyter-packaging", "jupyterlab", "setuptools", "wheel",]
+TomlRequiresPatcher = [ true, false, false, true, false, false,]
