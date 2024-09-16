@@ -4522,6 +4522,9 @@
   seqeval = {
     "1.2.2" = import ./overrides/seqeval/1.2.2;
   };
+  serial-device2 = {
+    "2.0.2" = import ./overrides/serial-device2/2.0.2;
+  };
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
   };
