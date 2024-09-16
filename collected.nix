@@ -2089,6 +2089,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  iniherit = {
+    "0.3.9" = import ./overrides/iniherit/0.3.9;
+  };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
