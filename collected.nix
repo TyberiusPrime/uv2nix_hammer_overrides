@@ -2993,6 +2993,9 @@
   numpy2gif = {
     "1.0" = import ./overrides/numpy2gif/1.0;
   };
+  nutil = {
+    "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
@@ -4729,6 +4732,7 @@
   sqlalchemy = {
     "1.3.22" = import ./overrides/sqlalchemy/1.3.22;
     "1.4.15" = import ./overrides/sqlalchemy/1.4.15;
+    "2.0.35" = import ./overrides/sqlalchemy/2.0.35;
   };
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
