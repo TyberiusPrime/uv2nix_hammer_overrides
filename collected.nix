@@ -2305,11 +2305,35 @@
   keopscore = {
     "2.2.3" = import ./overrides/keopscore/2.2.3;
   };
+  keras-bert = {
+    "0.89.0" = import ./overrides/keras-bert/0.89.0;
+  };
+  keras-embed-sim = {
+    "0.10.0" = import ./overrides/keras-embed-sim/0.10.0;
+  };
+  keras-layer-normalization = {
+    "0.16.0" = import ./overrides/keras-layer-normalization/0.16.0;
+  };
+  keras-multi-head = {
+    "0.29.0" = import ./overrides/keras-multi-head/0.29.0;
+  };
+  keras-pos-embd = {
+    "0.13.0" = import ./overrides/keras-pos-embd/0.13.0;
+  };
+  keras-position-wise-feed-forward = {
+    "0.8.0" = import ./overrides/keras-position-wise-feed-forward/0.8.0;
+  };
   keras-resnet = {
     "0.2.0" = import ./overrides/keras-resnet/0.2.0;
   };
   keras-retinanet = {
     "1.0.0" = import ./overrides/keras-retinanet/1.0.0;
+  };
+  keras-self-attention = {
+    "0.51.0" = import ./overrides/keras-self-attention/0.51.0;
+  };
+  keras-transformer = {
+    "0.40.0" = import ./overrides/keras-transformer/0.40.0;
   };
   kerberos = {
     "1.3.1" = import ./overrides/kerberos/1.3.1;
