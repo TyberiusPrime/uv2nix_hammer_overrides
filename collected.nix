@@ -3344,6 +3344,9 @@
   ppp-datamodel = {
     "0.6.12.1" = import ./overrides/ppp-datamodel/0.6.12.1;
   };
+  pptree = {
+    "3.1" = import ./overrides/pptree/3.1;
+  };
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
@@ -5476,6 +5479,9 @@
   };
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
+  };
+  wikipedia-api = {
+    "0.7.1" = import ./overrides/wikipedia-api/0.7.1;
   };
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
