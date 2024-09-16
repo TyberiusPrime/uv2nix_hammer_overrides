@@ -4049,6 +4049,9 @@
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
+  python-jsonrpc = {
+    "0.10.0" = import ./overrides/python-jsonrpc/0.10.0;
+  };
   python-ldap-test = {
     "0.3.1" = import ./overrides/python-ldap-test/0.3.1;
   };
