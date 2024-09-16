@@ -2233,6 +2233,9 @@
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
+  jsondate = {
+    "0.1.2" = import ./overrides/jsondate/0.1.2;
+  };
   jsonformatter = {
     "0.3.2" = import ./overrides/jsonformatter/0.3.2;
   };
