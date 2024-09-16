@@ -663,6 +663,9 @@
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
+  collection = {
+    "0.1.6" = import ./overrides/collection/0.1.6;
+  };
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
