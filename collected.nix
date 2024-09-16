@@ -2638,6 +2638,9 @@
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
   };
+  meteo-downloader = {
+    "1.0" = import ./overrides/meteo-downloader/1.0;
+  };
   mf2util = {
     "0.5.2" = import ./overrides/mf2util/0.5.2;
   };
