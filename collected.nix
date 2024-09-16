@@ -1354,6 +1354,9 @@
   elasticutils = {
     "0.10.3" = import ./overrides/elasticutils/0.10.3;
   };
+  eli5 = {
+    "0.13.0" = import ./overrides/eli5/0.13.0;
+  };
   eliqonline = {
     "1.2.2" = import ./overrides/eliqonline/1.2.2;
   };
