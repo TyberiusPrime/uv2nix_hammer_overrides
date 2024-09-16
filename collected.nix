@@ -4196,6 +4196,9 @@
   pywatchman = {
     "2.0.0" = import ./overrides/pywatchman/2.0.0;
   };
+  pywebio = {
+    "1.8.3" = import ./overrides/pywebio/1.8.3;
+  };
   pywurfl = {
     "7.2.1" = import ./overrides/pywurfl/7.2.1;
   };
