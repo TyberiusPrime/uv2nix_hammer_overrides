@@ -614,6 +614,9 @@
   cloudshell-core = {
     "2.2.180" = import ./overrides/cloudshell-core/2.2.180;
   };
+  cloudshell-firewall = {
+    "3.0.3" = import ./overrides/cloudshell-firewall/3.0.3;
+  };
   cloudshell-logging = {
     "1.0.3" = import ./overrides/cloudshell-logging/1.0.3;
     "1.1.0" = import ./overrides/cloudshell-logging/1.1.0;
