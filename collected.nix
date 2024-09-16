@@ -1921,6 +1921,9 @@
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
+  hgapi = {
+    "1.7.4" = import ./overrides/hgapi/1.7.4;
+  };
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
