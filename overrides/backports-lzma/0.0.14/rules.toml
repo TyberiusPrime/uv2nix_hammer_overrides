@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.xz.dev",]
+BuildSystems = [ "setuptools",]

@@ -328,6 +328,9 @@
   backport-collections = {
     "0.1" = import ./overrides/backport-collections/0.1;
   };
+  backports-lzma = {
+    "0.0.14" = import ./overrides/backports-lzma/0.0.14;
+  };
   backports-ssl-match-hostname = {
     "3.7.0.1" = import ./overrides/backports-ssl-match-hostname/3.7.0.1;
   };
