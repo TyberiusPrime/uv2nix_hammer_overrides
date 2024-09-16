@@ -2353,6 +2353,9 @@
   kss = {
     "6.0.4" = import ./overrides/kss/6.0.4;
   };
+  landez = {
+    "2.5.0" = import ./overrides/landez/2.5.0;
+  };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
