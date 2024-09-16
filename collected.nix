@@ -855,6 +855,9 @@
   customerio = {
     "2.1" = import ./overrides/customerio/2.1;
   };
+  cwlgen = {
+    "0.4.2" = import ./overrides/cwlgen/0.4.2;
+  };
   cykhash = {
     "2.0.1" = import ./overrides/cykhash/2.0.1;
   };
