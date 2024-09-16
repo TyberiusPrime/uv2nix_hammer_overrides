@@ -5322,6 +5322,9 @@
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
   };
+  uuid = {
+    "1.30" = import ./overrides/uuid/1.30;
+  };
   uwsgi = {
     "2.0.26" = import ./overrides/uwsgi/2.0.26;
   };
