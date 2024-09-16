@@ -605,6 +605,9 @@
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
     "2.20.0" = import ./overrides/cloudflare/2.20.0;
   };
+  cloudinary = {
+    "1.41.0" = import ./overrides/cloudinary/1.41.0;
+  };
   cloudshell-automation-api = {
     "8.3.0.168355" = import ./overrides/cloudshell-automation-api/8.3.0.168355;
   };
