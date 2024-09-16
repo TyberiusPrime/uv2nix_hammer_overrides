@@ -3347,6 +3347,9 @@
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
+  prayer-times-calculator = {
+    "0.0.12" = import ./overrides/prayer-times-calculator/0.0.12;
+  };
   pretty-midi = {
     "0.2.10" = import ./overrides/pretty-midi/0.2.10;
   };
