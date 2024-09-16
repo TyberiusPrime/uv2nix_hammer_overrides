@@ -2401,6 +2401,9 @@
   li-pagador = {
     "0.0.0.1" = import ./overrides/li-pagador/0.0.0.1;
   };
+  liac-arff = {
+    "2.5.0" = import ./overrides/liac-arff/2.5.0;
+  };
   libais = {
     "0.17" = import ./overrides/libais/0.17;
   };
