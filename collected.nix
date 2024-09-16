@@ -4510,6 +4510,9 @@
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
   };
+  self = {
+    "2020.12.3" = import ./overrides/self/2020.12.3;
+  };
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
