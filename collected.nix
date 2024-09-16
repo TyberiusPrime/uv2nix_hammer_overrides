@@ -4303,6 +4303,9 @@
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
+  redlock = {
+    "1.2.0" = import ./overrides/redlock/1.2.0;
+  };
   redlock-py = {
     "1.0.8" = import ./overrides/redlock-py/1.0.8;
   };
