@@ -5439,6 +5439,9 @@
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
+  wcag-contrast-ratio = {
+    "0.9" = import ./overrides/wcag-contrast-ratio/0.9;
+  };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
