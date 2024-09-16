@@ -3209,6 +3209,9 @@
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
+  pefile = {
+    "2019.4.18" = import ./overrides/pefile/2019.4.18;
+  };
   pendulum = {
     "2.1.2" = import ./overrides/pendulum/2.1.2;
   };
@@ -4311,6 +4314,9 @@
   };
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
+  };
+  regex = {
+    "2020.2.20" = import ./overrides/regex/2020.2.20;
   };
   regional = {
     "1.1.2" = import ./overrides/regional/1.1.2;
