@@ -253,6 +253,9 @@
   async-cache = {
     "1.1.1" = import ./overrides/async-cache/1.1.1;
   };
+  asyncblink = {
+    "0.4.0" = import ./overrides/asyncblink/0.4.0;
+  };
   asynccmd = {
     "0.2.4" = import ./overrides/asynccmd/0.2.4;
   };
