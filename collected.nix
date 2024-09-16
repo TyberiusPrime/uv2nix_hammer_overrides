@@ -3919,6 +3919,9 @@
   pysocks = {
     "1.6.8" = import ./overrides/pysocks/1.6.8;
   };
+  pysodium = {
+    "0.7.18" = import ./overrides/pysodium/0.7.18;
+  };
   pysolr = {
     "3.9.0" = import ./overrides/pysolr/3.9.0;
   };
