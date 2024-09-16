@@ -391,6 +391,9 @@
   bernhard = {
     "0.2.6" = import ./overrides/bernhard/0.2.6;
   };
+  bert4keras = {
+    "0.11.5" = import ./overrides/bert4keras/0.11.5;
+  };
   betacode = {
     "1.0" = import ./overrides/betacode/1.0;
   };
