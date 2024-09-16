@@ -1,0 +1,3 @@
+BuildSystems = [ "cython", "setuptools",]
+ManualOverrides = "__file__:gssapi/1.8.3/default.nix"
+NativeBuildInputs = [ "~literal:!:pkgs.krb5",]
