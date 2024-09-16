@@ -2257,6 +2257,9 @@
   jsonrpc-base = {
     "2.2.0" = import ./overrides/jsonrpc-base/2.2.0;
   };
+  jsonrpc-requests = {
+    "0.4.0" = import ./overrides/jsonrpc-requests/0.4.0;
+  };
   jsonrpc-websocket = {
     "3.1.5" = import ./overrides/jsonrpc-websocket/3.1.5;
   };
