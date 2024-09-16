@@ -4648,6 +4648,9 @@
   smbus-cffi = {
     "0.5.1" = import ./overrides/smbus-cffi/0.5.1;
   };
+  smt = {
+    "2.6.3" = import ./overrides/smt/2.6.3;
+  };
   snakecase = {
     "1.0.1" = import ./overrides/snakecase/1.0.1;
   };
