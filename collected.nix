@@ -3458,6 +3458,9 @@
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
   };
+  py-stringmatching = {
+    "0.4.6" = import ./overrides/py-stringmatching/0.4.6;
+  };
   py-tlsh = {
     "4.7.2" = import ./overrides/py-tlsh/4.7.2;
   };
