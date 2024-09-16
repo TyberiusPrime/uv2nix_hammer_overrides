@@ -5495,6 +5495,9 @@
   wordninja = {
     "2.0.0" = import ./overrides/wordninja/2.0.0;
   };
+  ws4py = {
+    "0.5.1" = import ./overrides/ws4py/0.5.1;
+  };
   wsgi-request-logger = {
     "0.4.6" = import ./overrides/wsgi-request-logger/0.4.6;
   };
