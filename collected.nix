@@ -2239,6 +2239,9 @@
   jsonify = {
     "0.5" = import ./overrides/jsonify/0.5;
   };
+  jsonnet = {
+    "0.20.0" = import ./overrides/jsonnet/0.20.0;
+  };
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
