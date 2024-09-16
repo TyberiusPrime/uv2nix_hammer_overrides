@@ -963,6 +963,9 @@
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
+  diffpy-structure = {
+    "3.2.1" = import ./overrides/diffpy-structure/3.2.1;
+  };
   digdictionaryextractor = {
     "0.3.0" = import ./overrides/digdictionaryextractor/0.3.0;
   };
