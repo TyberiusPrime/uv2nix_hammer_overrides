@@ -2599,6 +2599,9 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  mcfit = {
+    "0.0.22" = import ./overrides/mcfit/0.0.22;
+  };
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
