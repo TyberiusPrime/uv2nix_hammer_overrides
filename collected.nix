@@ -3335,6 +3335,9 @@
   pod-base = {
     "1.0.3" = import ./overrides/pod-base/1.0.3;
   };
+  podcats = {
+    "0.6.3" = import ./overrides/podcats/0.6.3;
+  };
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
