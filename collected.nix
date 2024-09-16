@@ -2440,6 +2440,9 @@
   libwapiti = {
     "0.2.1" = import ./overrides/libwapiti/0.2.1;
   };
+  licensing = {
+    "0.49" = import ./overrides/licensing/0.49;
+  };
   licorice = {
     "0.0.7" = import ./overrides/licorice/0.0.7;
   };
