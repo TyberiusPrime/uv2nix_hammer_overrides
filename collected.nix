@@ -415,6 +415,9 @@
   bisos2-common = {
     "0.47" = import ./overrides/bisos2-common/0.47;
   };
+  bitbucket-api = {
+    "0.5.0" = import ./overrides/bitbucket-api/0.5.0;
+  };
   bitcoin = {
     "1.1.39" = import ./overrides/bitcoin/1.1.39;
   };
