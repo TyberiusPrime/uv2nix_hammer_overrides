@@ -831,6 +831,9 @@
   cs-ansi-colour = {
     "20220227" = import ./overrides/cs-ansi-colour/20220227;
   };
+  cs-sh = {
+    "20210316" = import ./overrides/cs-sh/20210316;
+  };
   cs-timeutils = {
     "20211208" = import ./overrides/cs-timeutils/20211208;
   };
