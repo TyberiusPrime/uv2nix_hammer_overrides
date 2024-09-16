@@ -1039,6 +1039,9 @@
   django-cratis = {
     "0.9.1" = import ./overrides/django-cratis/0.9.1;
   };
+  django-crontab = {
+    "0.7.1" = import ./overrides/django-crontab/0.7.1;
+  };
   django-dajaxice = {
     "0.7" = import ./overrides/django-dajaxice/0.7;
   };
