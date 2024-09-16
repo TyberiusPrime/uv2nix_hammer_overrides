@@ -1618,6 +1618,9 @@
   flask-user = {
     "1.0.2.2" = import ./overrides/flask-user/1.0.2.2;
   };
+  flask-uuid = {
+    "0.2" = import ./overrides/flask-uuid/0.2;
+  };
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
