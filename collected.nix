@@ -1745,6 +1745,9 @@
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
+  girder = {
+    "3.2.3" = import ./overrides/girder/3.2.3;
+  };
   girder-client = {
     "3.2.3" = import ./overrides/girder-client/3.2.3;
   };
