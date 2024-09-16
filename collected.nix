@@ -3142,6 +3142,9 @@
     "1.5.0" = import ./overrides/paho-mqtt/1.5.0;
     "1.6.1" = import ./overrides/paho-mqtt/1.6.1;
   };
+  pairlist = {
+    "0.3.2" = import ./overrides/pairlist/0.3.2;
+  };
   pairtree = {
     "0.8.1" = import ./overrides/pairtree/0.8.1;
   };
