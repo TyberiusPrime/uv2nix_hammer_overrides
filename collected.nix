@@ -409,6 +409,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  biplist = {
+    "1.0.3" = import ./overrides/biplist/1.0.3;
+  };
   birdy = {
     "0.3.2" = import ./overrides/birdy/0.3.2;
   };
