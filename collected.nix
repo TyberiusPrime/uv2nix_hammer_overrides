@@ -3293,6 +3293,15 @@
   pip-services3-commons = {
     "3.3.14" = import ./overrides/pip-services3-commons/3.3.14;
   };
+  pip-services3-components = {
+    "3.5.9" = import ./overrides/pip-services3-components/3.5.9;
+  };
+  pip-services3-expressions = {
+    "3.3.6" = import ./overrides/pip-services3-expressions/3.3.6;
+  };
+  pip-services3-rpc = {
+    "3.3.4" = import ./overrides/pip-services3-rpc/3.3.4;
+  };
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
