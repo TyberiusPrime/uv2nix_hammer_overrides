@@ -5307,6 +5307,9 @@
   urwid-readline = {
     "0.14" = import ./overrides/urwid-readline/0.14;
   };
+  urwidtrees = {
+    "1.0.3" = import ./overrides/urwidtrees/1.0.3;
+  };
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
