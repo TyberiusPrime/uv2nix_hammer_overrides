@@ -397,6 +397,9 @@
   betamax-matchers = {
     "0.4.0" = import ./overrides/betamax-matchers/0.4.0;
   };
+  bgconfig = {
+    "0.10" = import ./overrides/bgconfig/0.10;
+  };
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
