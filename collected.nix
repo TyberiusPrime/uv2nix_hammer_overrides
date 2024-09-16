@@ -2365,6 +2365,9 @@
   lantz-core = {
     "0.5.3" = import ./overrides/lantz-core/0.5.3;
   };
+  lark-parser = {
+    "0.9.0" = import ./overrides/lark-parser/0.9.0;
+  };
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
