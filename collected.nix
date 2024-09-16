@@ -5035,6 +5035,9 @@
   torchaudio = {
     "2.4.1" = import ./overrides/torchaudio/2.4.1;
   };
+  torchcontrib = {
+    "0.0.2" = import ./overrides/torchcontrib/0.0.2;
+  };
   torchnet = {
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
