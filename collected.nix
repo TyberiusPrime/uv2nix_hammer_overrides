@@ -2776,6 +2776,9 @@
   mplcursors = {
     "0.5.3" = import ./overrides/mplcursors/0.5.3;
   };
+  mplleaflet = {
+    "0.0.5" = import ./overrides/mplleaflet/0.0.5;
+  };
   mplstereonet = {
     "0.6.3" = import ./overrides/mplstereonet/0.6.3;
   };
