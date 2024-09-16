@@ -1096,6 +1096,9 @@
   django-markdown-deux = {
     "1.0.6" = import ./overrides/django-markdown-deux/1.0.6;
   };
+  django-mdeditor = {
+    "0.1.20" = import ./overrides/django-mdeditor/0.1.20;
+  };
   django-mongoengine = {
     "0.5.6" = import ./overrides/django-mongoengine/0.5.6;
   };
