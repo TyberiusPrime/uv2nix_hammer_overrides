@@ -4196,6 +4196,9 @@
   pywatchman = {
     "2.0.0" = import ./overrides/pywatchman/2.0.0;
   };
+  pywinusb = {
+    "0.4.2" = import ./overrides/pywinusb/0.4.2;
+  };
   pywurfl = {
     "7.2.1" = import ./overrides/pywurfl/7.2.1;
   };
