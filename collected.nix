@@ -4781,6 +4781,9 @@
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
+  stop-words = {
+    "2018.7.23" = import ./overrides/stop-words/2018.7.23;
+  };
   stopit = {
     "1.1.2" = import ./overrides/stopit/1.1.2;
   };
