@@ -2563,6 +2563,9 @@
   mailmanclient = {
     "3.3.5" = import ./overrides/mailmanclient/3.3.5;
   };
+  mailsnake = {
+    "1.6.4" = import ./overrides/mailsnake/1.6.4;
+  };
   mailthon = {
     "0.1.1" = import ./overrides/mailthon/0.1.1;
   };
