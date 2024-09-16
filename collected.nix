@@ -3452,6 +3452,9 @@
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
+  py-bcrypt = {
+    "0.4" = import ./overrides/py-bcrypt/0.4;
+  };
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
