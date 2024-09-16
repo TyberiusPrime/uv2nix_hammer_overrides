@@ -325,6 +325,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  backpack = {
+    "0.1" = import ./overrides/backpack/0.1;
+  };
   backport-collections = {
     "0.1" = import ./overrides/backport-collections/0.1;
   };
