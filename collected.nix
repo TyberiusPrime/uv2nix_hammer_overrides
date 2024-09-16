@@ -1066,6 +1066,9 @@
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
+  django-iban = {
+    "0.3.1" = import ./overrides/django-iban/0.3.1;
+  };
   django-impersonate = {
     "1.9.4" = import ./overrides/django-impersonate/1.9.4;
   };
