@@ -4627,6 +4627,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  skosprovider = {
+    "1.2.0" = import ./overrides/skosprovider/1.2.0;
+  };
   slackclient = {
     "0.16" = import ./overrides/slackclient/0.16;
   };
