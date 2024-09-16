@@ -113,6 +113,9 @@
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
+  amazon-ion = {
+    "0.9.3" = import ./overrides/amazon-ion/0.9.3;
+  };
   amino = {
     "13.0.1" = import ./overrides/amino/13.0.1;
   };
@@ -3852,6 +3855,9 @@
   };
   pypytools = {
     "0.6.2" = import ./overrides/pypytools/0.6.2;
+  };
+  pyqldb = {
+    "3.2.4" = import ./overrides/pyqldb/3.2.4;
   };
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
