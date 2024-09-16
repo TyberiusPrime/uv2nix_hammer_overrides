@@ -1779,6 +1779,9 @@
   gnupg = {
     "2.3.1" = import ./overrides/gnupg/2.3.1;
   };
+  go-http = {
+    "0.3.2" = import ./overrides/go-http/0.3.2;
+  };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
