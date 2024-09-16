@@ -298,6 +298,9 @@
   autograd-gamma = {
     "0.5.0" = import ./overrides/autograd-gamma/0.5.0;
   };
+  autoit-ripper = {
+    "1.1.2" = import ./overrides/autoit-ripper/1.1.2;
+  };
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
