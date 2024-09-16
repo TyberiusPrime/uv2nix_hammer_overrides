@@ -580,6 +580,9 @@
   click-didyoumean = {
     "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
   };
+  clickhouse-cli = {
+    "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
+  };
   clime = {
     "0.3.1" = import ./overrides/clime/0.3.1;
   };
