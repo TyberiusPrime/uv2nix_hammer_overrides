@@ -2638,6 +2638,9 @@
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
   };
+  meteor-ejson = {
+    "1.1.0" = import ./overrides/meteor-ejson/1.1.0;
+  };
   mf2util = {
     "0.5.2" = import ./overrides/mf2util/0.5.2;
   };
@@ -3994,6 +3997,9 @@
   python-dateutil = {
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
+  };
+  python-ddp = {
+    "0.1.5" = import ./overrides/python-ddp/0.1.5;
   };
   python-etcd = {
     "0.4.5" = import ./overrides/python-etcd/0.4.5;
@@ -5494,6 +5500,9 @@
   };
   wordninja = {
     "2.0.0" = import ./overrides/wordninja/2.0.0;
+  };
+  ws4py = {
+    "0.5.1" = import ./overrides/ws4py/0.5.1;
   };
   wsgi-request-logger = {
     "0.4.6" = import ./overrides/wsgi-request-logger/0.4.6;
