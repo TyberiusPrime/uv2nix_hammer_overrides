@@ -156,6 +156,9 @@
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
+  apache-flink-libraries = {
+    "1.20.0" = import ./overrides/apache-flink-libraries/1.20.0;
+  };
   apcaccess = {
     "0.0.13" = import ./overrides/apcaccess/0.0.13;
   };
