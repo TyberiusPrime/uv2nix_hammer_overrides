@@ -1996,6 +1996,9 @@
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
+  hy = {
+    "0.29.0" = import ./overrides/hy/0.29.0;
+  };
   hydralit = {
     "1.0.14" = import ./overrides/hydralit/1.0.14;
   };
@@ -2007,6 +2010,9 @@
   };
   hyperdash = {
     "0.15.3" = import ./overrides/hyperdash/0.15.3;
+  };
+  hyrule = {
+    "0.6.0" = import ./overrides/hyrule/0.6.0;
   };
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
