@@ -439,6 +439,9 @@
   blinker = {
     "1.4" = import ./overrides/blinker/1.4;
   };
+  blist = {
+    "1.3.6" = import ./overrides/blist/1.3.6;
+  };
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
