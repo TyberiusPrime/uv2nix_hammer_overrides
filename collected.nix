@@ -1435,6 +1435,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  ez-setup = {
+    "0.9" = import ./overrides/ez-setup/0.9;
+  };
   ezodf = {
     "0.3.2" = import ./overrides/ezodf/0.3.2;
   };
