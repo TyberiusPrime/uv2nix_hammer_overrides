@@ -5603,6 +5603,9 @@
   z3 = {
     "0.2.0" = import ./overrides/z3/0.2.0;
   };
+  zcs = {
+    "0.1.25" = import ./overrides/zcs/0.1.25;
+  };
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
