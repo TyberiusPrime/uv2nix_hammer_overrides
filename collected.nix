@@ -2602,6 +2602,9 @@
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
+  mediawiki-utilities = {
+    "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
+  };
   memoization = {
     "0.4.0" = import ./overrides/memoization/0.4.0;
   };
