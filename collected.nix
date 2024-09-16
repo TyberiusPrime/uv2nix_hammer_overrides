@@ -1063,6 +1063,9 @@
   django-fernet-fields = {
     "0.6" = import ./overrides/django-fernet-fields/0.6;
   };
+  django-form-utils = {
+    "1.0.3" = import ./overrides/django-form-utils/1.0.3;
+  };
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
