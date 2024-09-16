@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools", "setuptools-scm", "wheel",]
+TomlRequiresPatcher = [ true, false, true, true, true, false,]
