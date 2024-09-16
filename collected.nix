@@ -3850,6 +3850,9 @@
   pyprof2calltree = {
     "1.4.5" = import ./overrides/pyprof2calltree/1.4.5;
   };
+  pyptlib = {
+    "0.0.6" = import ./overrides/pyptlib/0.0.6;
+  };
   pypytools = {
     "0.6.2" = import ./overrides/pypytools/0.6.2;
   };
