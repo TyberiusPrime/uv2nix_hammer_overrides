@@ -4501,6 +4501,9 @@
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
+  scrap-engine = {
+    "1.4.1" = import ./overrides/scrap-engine/1.4.1;
+  };
   scrapeasy = {
     "0.12" = import ./overrides/scrapeasy/0.12;
   };
