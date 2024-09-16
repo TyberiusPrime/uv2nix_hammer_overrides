@@ -376,6 +376,9 @@
   bcf = {
     "1.9.0" = import ./overrides/bcf/1.9.0;
   };
+  bcg = {
+    "1.17.0" = import ./overrides/bcg/1.17.0;
+  };
   bch = {
     "1.2.1" = import ./overrides/bch/1.2.1;
   };
