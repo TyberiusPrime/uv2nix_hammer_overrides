@@ -3868,6 +3868,9 @@
   pyrect = {
     "0.2.0" = import ./overrides/pyrect/0.2.0;
   };
+  pyregion = {
+    "2.2.0" = import ./overrides/pyregion/2.2.0;
+  };
   pyrepl = {
     "0.9.0" = import ./overrides/pyrepl/0.9.0;
   };
