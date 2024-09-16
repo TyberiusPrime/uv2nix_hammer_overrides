@@ -3940,6 +3940,9 @@
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
+  pytado = {
+    "1.0.3" = import ./overrides/pytado/1.0.3;
+  };
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
