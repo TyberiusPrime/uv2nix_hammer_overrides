@@ -1405,6 +1405,9 @@
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
+  ethereum = {
+    "2.3.2" = import ./overrides/ethereum/2.3.2;
+  };
   etl-utils = {
     "0.1.11" = import ./overrides/etl-utils/0.1.11;
   };
@@ -3624,6 +3627,9 @@
   pyes = {
     "0.99.6" = import ./overrides/pyes/0.99.6;
   };
+  pyethash = {
+    "0.1.27" = import ./overrides/pyethash/0.1.27;
+  };
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
@@ -3897,6 +3903,9 @@
   };
   pysendfile = {
     "2.0.1" = import ./overrides/pysendfile/2.0.1;
+  };
+  pysha3 = {
+    "1.0.2" = import ./overrides/pysha3/1.0.2;
   };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
