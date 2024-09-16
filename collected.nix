@@ -4928,6 +4928,9 @@
   terminal = {
     "0.4.0" = import ./overrides/terminal/0.4.0;
   };
+  tesseract = {
+    "0.1.3" = import ./overrides/tesseract/0.1.3;
+  };
   testgear-api-client = {
     "3.2.0" = import ./overrides/testgear-api-client/3.2.0;
   };
