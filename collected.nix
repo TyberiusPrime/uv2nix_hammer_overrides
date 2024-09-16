@@ -1921,6 +1921,9 @@
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
+  hg-evolve = {
+    "11.1.4" = import ./overrides/hg-evolve/11.1.4;
+  };
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
