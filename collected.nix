@@ -171,6 +171,9 @@
   apistar = {
     "0.7.2" = import ./overrides/apistar/0.7.2;
   };
+  apkutils2 = {
+    "1.0.0" = import ./overrides/apkutils2/1.0.0;
+  };
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
