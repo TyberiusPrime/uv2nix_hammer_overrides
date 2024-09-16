@@ -1441,6 +1441,9 @@
   f5-icontrol-rest = {
     "1.3.13" = import ./overrides/f5-icontrol-rest/1.3.13;
   };
+  f5-sdk = {
+    "3.0.21" = import ./overrides/f5-sdk/3.0.21;
+  };
   fabtools = {
     "0.20.0" = import ./overrides/fabtools/0.20.0;
   };
