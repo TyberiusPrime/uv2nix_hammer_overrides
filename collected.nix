@@ -4823,6 +4823,9 @@
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
+  sunburnt = {
+    "0.6" = import ./overrides/sunburnt/0.6;
+  };
   sure = {
     "3.0a2" = import ./overrides/sure/3.0a2;
   };
