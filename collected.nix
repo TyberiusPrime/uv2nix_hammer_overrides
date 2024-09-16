@@ -3215,6 +3215,9 @@
   pep3143daemon = {
     "0.1.0" = import ./overrides/pep3143daemon/0.1.0;
   };
+  pep362 = {
+    "0.6.2" = import ./overrides/pep362/0.6.2;
+  };
   perdy = {
     "1.12" = import ./overrides/perdy/1.12;
   };
