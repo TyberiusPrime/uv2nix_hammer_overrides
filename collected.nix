@@ -2908,6 +2908,9 @@
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
+  nilsimsa = {
+    "0.3.8" = import ./overrides/nilsimsa/0.3.8;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
