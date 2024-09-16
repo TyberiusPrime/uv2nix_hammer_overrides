@@ -20,6 +20,9 @@
   acor = {
     "1.1.1" = import ./overrides/acor/1.1.1;
   };
+  acoustics = {
+    "0.2.6" = import ./overrides/acoustics/0.2.6;
+  };
   active-alchemy = {
     "1.1.0" = import ./overrides/active-alchemy/1.1.0;
   };
