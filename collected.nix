@@ -505,6 +505,9 @@
   carefree-toolkit = {
     "0.3.12" = import ./overrides/carefree-toolkit/0.3.12;
   };
+  carto = {
+    "1.11.3" = import ./overrides/carto/1.11.3;
+  };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
@@ -3870,6 +3873,9 @@
   };
   pyrepl = {
     "0.9.0" = import ./overrides/pyrepl/0.9.0;
+  };
+  pyrestcli = {
+    "0.6.11" = import ./overrides/pyrestcli/0.6.11;
   };
   pyric = {
     "0.1.6.3" = import ./overrides/pyric/0.1.6.3;
