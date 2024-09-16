@@ -3353,6 +3353,9 @@
   prettyconf = {
     "2.2.1" = import ./overrides/prettyconf/2.2.1;
   };
+  prettyexc = {
+    "0.6.0" = import ./overrides/prettyexc/0.6.0;
+  };
   prettyparse = {
     "1.2.0" = import ./overrides/prettyparse/1.2.0;
   };
