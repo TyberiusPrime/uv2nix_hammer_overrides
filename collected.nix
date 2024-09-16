@@ -74,6 +74,9 @@
   aiolivisi = {
     "0.0.19" = import ./overrides/aiolivisi/0.0.19;
   };
+  aiomqtt = {
+    "0.1.3" = import ./overrides/aiomqtt/0.1.3;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
