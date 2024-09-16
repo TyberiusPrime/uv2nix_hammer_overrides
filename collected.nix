@@ -2491,6 +2491,9 @@
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
+  localstack-ext = {
+    "3.7.2" = import ./overrides/localstack-ext/3.7.2;
+  };
   lock = {
     "2018.3.25.2110" = import ./overrides/lock/2018.3.25.2110;
   };

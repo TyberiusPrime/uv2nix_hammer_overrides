@@ -1,0 +1,2 @@
+BuildSystems = [ "plux", "setuptools", "setuptools-scm", "wheel",]
+TomlRequiresPatcher = [ true, false, false, true, false, false,]
