@@ -319,6 +319,9 @@
   aws-cdk-constructs = {
     "2.32.0.post0" = import ./overrides/aws-cdk-constructs/2.32.0.post0;
   };
+  awscli-local = {
+    "0.22.0" = import ./overrides/awscli-local/0.22.0;
+  };
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
   };
@@ -2490,6 +2493,9 @@
   };
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
+  };
+  localstack-client = {
+    "2.6" = import ./overrides/localstack-client/2.6;
   };
   lock = {
     "2018.3.25.2110" = import ./overrides/lock/2018.3.25.2110;
