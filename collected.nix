@@ -2176,6 +2176,9 @@
   jaeger-client = {
     "4.8.0" = import ./overrides/jaeger-client/4.8.0;
   };
+  jams = {
+    "0.3.4" = import ./overrides/jams/0.3.4;
+  };
   jaxlinop = {
     "0.0.3" = import ./overrides/jaxlinop/0.0.3;
   };
@@ -2691,6 +2694,9 @@
   };
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
+  };
+  mir-eval = {
+    "0.7" = import ./overrides/mir-eval/0.7;
   };
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
