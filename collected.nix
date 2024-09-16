@@ -2410,6 +2410,9 @@
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
+  libewf-python = {
+    "20240506" = import ./overrides/libewf-python/20240506;
+  };
   libfsntfs-python = {
     "20240501" = import ./overrides/libfsntfs-python/20240501;
   };
