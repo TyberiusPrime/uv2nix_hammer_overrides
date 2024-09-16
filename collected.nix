@@ -3041,6 +3041,9 @@
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
+  onetimepad = {
+    "1.4" = import ./overrides/onetimepad/1.4;
+  };
   onetimepass = {
     "1.0.1" = import ./overrides/onetimepass/1.0.1;
   };
