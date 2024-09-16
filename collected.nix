@@ -2857,6 +2857,9 @@
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
   };
+  nanomath = {
+    "1.4.0" = import ./overrides/nanomath/1.4.0;
+  };
   nanotime = {
     "0.5.2" = import ./overrides/nanotime/0.5.2;
   };
@@ -3994,6 +3997,9 @@
   python-dateutil = {
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
+  };
+  python-deprecated = {
+    "1.1.0" = import ./overrides/python-deprecated/1.1.0;
   };
   python-etcd = {
     "0.4.5" = import ./overrides/python-etcd/0.4.5;
