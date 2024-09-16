@@ -3185,6 +3185,9 @@
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
+  pause = {
+    "0.3" = import ./overrides/pause/0.3;
+  };
   pbkdf2 = {
     "1.3" = import ./overrides/pbkdf2/1.3;
   };
