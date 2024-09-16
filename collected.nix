@@ -1312,6 +1312,9 @@
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
+  dyn = {
+    "1.8.6" = import ./overrides/dyn/1.8.6;
+  };
   dynamic-pytables-where-condition = {
     "1.1.1" = import ./overrides/dynamic-pytables-where-condition/1.1.1;
   };
