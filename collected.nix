@@ -56,6 +56,9 @@
   aido-protocols-daffy = {
     "6.1.1" = import ./overrides/aido-protocols-daffy/6.1.1;
   };
+  aiee = {
+    "0.3.2" = import ./overrides/aiee/0.3.2;
+  };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
@@ -544,6 +547,9 @@
   cgroup-utils = {
     "0.8" = import ./overrides/cgroup-utils/0.8;
   };
+  chainlib = {
+    "0.5.4" = import ./overrides/chainlib/0.5.4;
+  };
   charlesbot = {
     "0.10.1" = import ./overrides/charlesbot/0.10.1;
   };
@@ -716,6 +722,9 @@
   };
   configspace = {
     "1.2.0" = import ./overrides/configspace/1.2.0;
+  };
+  confini = {
+    "0.6.5" = import ./overrides/confini/0.6.5;
   };
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
@@ -1671,6 +1680,9 @@
   };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
+  };
+  funga = {
+    "0.5.7" = import ./overrides/funga/0.5.7;
   };
   fusepy = {
     "3.0.1" = import ./overrides/fusepy/3.0.1;
