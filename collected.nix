@@ -4378,6 +4378,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  rig = {
+    "2.4.1" = import ./overrides/rig/2.4.1;
+  };
   ritassist = {
     "0.9.3" = import ./overrides/ritassist/0.9.3;
   };
