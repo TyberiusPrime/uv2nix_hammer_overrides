@@ -4273,6 +4273,9 @@
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
+  rapidtables = {
+    "0.1.11" = import ./overrides/rapidtables/0.1.11;
+  };
   rask = {
     "0.1.5" = import ./overrides/rask/0.1.5;
   };
