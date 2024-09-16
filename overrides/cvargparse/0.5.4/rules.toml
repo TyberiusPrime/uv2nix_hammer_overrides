@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+NativeBuildInputs = [ "~literal:!:final.pip",]
