@@ -4363,6 +4363,9 @@
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
+  returns-decorator = {
+    "1.1" = import ./overrides/returns-decorator/1.1;
+  };
   reverse-geocoder = {
     "1.5.1" = import ./overrides/reverse-geocoder/1.5.1;
   };
