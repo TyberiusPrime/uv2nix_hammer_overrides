@@ -2293,6 +2293,9 @@
   kamene = {
     "0.32" = import ./overrides/kamene/0.32;
   };
+  kanilog = {
+    "0.3.3" = import ./overrides/kanilog/0.3.3;
+  };
   kappa = {
     "0.7.0" = import ./overrides/kappa/0.7.0;
   };
