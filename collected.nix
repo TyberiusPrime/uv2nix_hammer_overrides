@@ -113,6 +113,9 @@
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
+  amazon-ion = {
+    "0.12.0" = import ./overrides/amazon-ion/0.12.0;
+  };
   amino = {
     "13.0.1" = import ./overrides/amino/13.0.1;
   };
