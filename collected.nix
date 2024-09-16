@@ -654,6 +654,9 @@
   cocotb-bus = {
     "0.2.1" = import ./overrides/cocotb-bus/0.2.1;
   };
+  codegen = {
+    "1.0" = import ./overrides/codegen/1.0;
+  };
   codepy = {
     "2023.1" = import ./overrides/codepy/2023.1;
   };
