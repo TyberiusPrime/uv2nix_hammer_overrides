@@ -1006,6 +1006,9 @@
   django-admin-multiple-choice-list-filter = {
     "0.1.1" = import ./overrides/django-admin-multiple-choice-list-filter/0.1.1;
   };
+  django-admin-sortable = {
+    "2.3" = import ./overrides/django-admin-sortable/2.3;
+  };
   django-allauth = {
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
