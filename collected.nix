@@ -2398,6 +2398,9 @@
   lettuce = {
     "0.2.23" = import ./overrides/lettuce/0.2.23;
   };
+  leveldb = {
+    "0.201" = import ./overrides/leveldb/0.201;
+  };
   li-pagador = {
     "0.0.0.1" = import ./overrides/li-pagador/0.0.0.1;
   };
