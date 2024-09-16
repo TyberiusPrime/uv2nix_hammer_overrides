@@ -2089,6 +2089,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  inifile = {
+    "0.4.1" = import ./overrides/inifile/0.4.1;
+  };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
