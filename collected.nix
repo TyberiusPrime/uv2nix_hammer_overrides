@@ -903,6 +903,9 @@
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
+  datacleaner = {
+    "0.1.5" = import ./overrides/datacleaner/0.1.5;
+  };
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
