@@ -4411,6 +4411,9 @@
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
+  rpio = {
+    "0.10.0" = import ./overrides/rpio/0.10.0;
+  };
   rplidar-roboticia = {
     "0.9.5" = import ./overrides/rplidar-roboticia/0.9.5;
   };
