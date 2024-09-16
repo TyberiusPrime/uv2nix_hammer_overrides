@@ -3452,6 +3452,9 @@
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
+  py-dateutil = {
+    "2.2" = import ./overrides/py-dateutil/2.2;
+  };
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
