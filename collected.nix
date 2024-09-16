@@ -550,6 +550,9 @@
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
+  chirpstack-api = {
+    "4.9.0" = import ./overrides/chirpstack-api/4.9.0;
+  };
   chroma-hnswlib = {
     "0.7.3" = import ./overrides/chroma-hnswlib/0.7.3;
   };
