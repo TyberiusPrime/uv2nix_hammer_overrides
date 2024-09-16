@@ -1996,6 +1996,9 @@
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
+  hwdata = {
+    "2.4.1" = import ./overrides/hwdata/2.4.1;
+  };
   hydralit = {
     "1.0.14" = import ./overrides/hydralit/1.0.14;
   };
