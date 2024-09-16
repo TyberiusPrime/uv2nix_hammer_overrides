@@ -4974,6 +4974,9 @@
   timeloop = {
     "1.0.2" = import ./overrides/timeloop/1.0.2;
   };
+  timeout-decorator = {
+    "0.5.0" = import ./overrides/timeout-decorator/0.5.0;
+  };
   tinycss = {
     "0.4" = import ./overrides/tinycss/0.4;
   };
