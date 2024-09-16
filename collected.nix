@@ -2554,6 +2554,9 @@
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
+  m9s-trytond = {
+    "7.0.7" = import ./overrides/m9s-trytond/7.0.7;
+  };
   mailchecker = {
     "6.0.8" = import ./overrides/mailchecker/6.0.8;
   };
