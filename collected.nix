@@ -131,6 +131,9 @@
   annoy = {
     "1.17.3" = import ./overrides/annoy/1.17.3;
   };
+  ansi2image = {
+    "0.1.4" = import ./overrides/ansi2image/0.1.4;
+  };
   ansible = {
     "10.3.0" = import ./overrides/ansible/10.3.0;
   };
