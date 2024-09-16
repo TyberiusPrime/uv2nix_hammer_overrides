@@ -2401,6 +2401,9 @@
   li-pagador = {
     "0.0.0.1" = import ./overrides/li-pagador/0.0.0.1;
   };
+  liac-arff = {
+    "2.5.0" = import ./overrides/liac-arff/2.5.0;
+  };
   libais = {
     "0.17" = import ./overrides/libais/0.17;
   };
@@ -3073,6 +3076,9 @@
   };
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
+  };
+  openml = {
+    "0.14.2" = import ./overrides/openml/0.14.2;
   };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
