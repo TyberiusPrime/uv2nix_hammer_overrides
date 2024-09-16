@@ -1651,6 +1651,9 @@
   free-proxy = {
     "1.1.2" = import ./overrides/free-proxy/1.1.2;
   };
+  freesasa = {
+    "2.2.1" = import ./overrides/freesasa/2.2.1;
+  };
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
