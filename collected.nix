@@ -1703,6 +1703,9 @@
   gatspy = {
     "0.3" = import ./overrides/gatspy/0.3;
   };
+  gatt = {
+    "0.2.7" = import ./overrides/gatt/0.2.7;
+  };
   gax-google-logging-v2 = {
     "0.8.3" = import ./overrides/gax-google-logging-v2/0.8.3;
   };
