@@ -4252,6 +4252,9 @@
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
   };
+  quik = {
+    "0.2.2" = import ./overrides/quik/0.2.2;
+  };
   radian = {
     "0.6.13" = import ./overrides/radian/0.6.13;
   };
