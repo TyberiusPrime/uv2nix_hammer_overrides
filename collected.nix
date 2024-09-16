@@ -2233,6 +2233,9 @@
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
+  jsonfeed = {
+    "0.0.1" = import ./overrides/jsonfeed/0.0.1;
+  };
   jsonformatter = {
     "0.3.2" = import ./overrides/jsonformatter/0.3.2;
   };
@@ -3837,6 +3840,9 @@
   };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
+  };
+  pypi-publisher = {
+    "0.0.4" = import ./overrides/pypi-publisher/0.0.4;
   };
   pypif = {
     "2.1.2" = import ./overrides/pypif/2.1.2;
