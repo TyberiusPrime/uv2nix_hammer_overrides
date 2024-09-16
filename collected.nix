@@ -2482,6 +2482,9 @@
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
+  links-from-link-header = {
+    "0.1.0" = import ./overrides/links-from-link-header/0.1.0;
+  };
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
