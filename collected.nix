@@ -454,6 +454,9 @@
   brightway2 = {
     "2.4.6" = import ./overrides/brightway2/2.4.6;
   };
+  brownie = {
+    "0.5.1" = import ./overrides/brownie/0.5.1;
+  };
   bs4 = {
     "0.0.1" = import ./overrides/bs4/0.0.1;
   };
