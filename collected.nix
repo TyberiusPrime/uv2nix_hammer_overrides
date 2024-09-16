@@ -1414,6 +1414,9 @@
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
+  eventemitter = {
+    "0.2.0" = import ./overrides/eventemitter/0.2.0;
+  };
   events = {
     "0.3" = import ./overrides/events/0.3;
   };
