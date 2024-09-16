@@ -3008,6 +3008,9 @@
   oandapyv20 = {
     "0.7.2" = import ./overrides/oandapyv20/0.7.2;
   };
+  oauth = {
+    "1.0.1" = import ./overrides/oauth/1.0.1;
+  };
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
