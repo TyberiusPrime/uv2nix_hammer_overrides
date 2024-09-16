@@ -3111,6 +3111,9 @@
   ordereddict = {
     "1.1" = import ./overrides/ordereddict/1.1;
   };
+  orderedset = {
+    "2.0.3" = import ./overrides/orderedset/2.0.3;
+  };
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
   };
