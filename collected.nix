@@ -3308,6 +3308,9 @@
   pkgtools = {
     "0.7.3" = import ./overrides/pkgtools/0.7.3;
   };
+  pkuseg = {
+    "0.0.25" = import ./overrides/pkuseg/0.0.25;
+  };
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
   };
