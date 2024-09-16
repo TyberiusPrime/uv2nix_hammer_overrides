@@ -5606,6 +5606,9 @@
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
+  zerotk-zops = {
+    "0.5.3" = import ./overrides/zerotk-zops/0.5.3;
+  };
   zhconv = {
     "1.4.3" = import ./overrides/zhconv/1.4.3;
   };
