@@ -4726,6 +4726,9 @@
   sprox = {
     "0.11.2" = import ./overrides/sprox/0.11.2;
   };
+  spyne = {
+    "2.14.0" = import ./overrides/spyne/2.14.0;
+  };
   sqlalchemy = {
     "1.3.22" = import ./overrides/sqlalchemy/1.3.22;
     "1.4.15" = import ./overrides/sqlalchemy/1.4.15;
