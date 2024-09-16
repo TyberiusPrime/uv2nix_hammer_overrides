@@ -104,6 +104,9 @@
   alembic = {
     "1.6.2" = import ./overrides/alembic/1.6.2;
   };
+  alibabacloud-tea-py2 = {
+    "0.1.0" = import ./overrides/alibabacloud-tea-py2/0.1.0;
+  };
   aliyun-log-python-sdk = {
     "0.9.11" = import ./overrides/aliyun-log-python-sdk/0.9.11;
   };
