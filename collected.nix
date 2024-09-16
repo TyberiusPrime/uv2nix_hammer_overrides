@@ -3170,6 +3170,9 @@
   paramtools = {
     "0.18.3" = import ./overrides/paramtools/0.18.3;
   };
+  parmed = {
+    "4.2.2" = import ./overrides/parmed/4.2.2;
+  };
   parse = {
     "1.6.5" = import ./overrides/parse/1.6.5;
   };
