@@ -1751,6 +1751,9 @@
   gisdata = {
     "0.5.4" = import ./overrides/gisdata/0.5.4;
   };
+  git-sweep = {
+    "0.1.1" = import ./overrides/git-sweep/0.1.1;
+  };
   gitignore-parser = {
     "0.1.11" = import ./overrides/gitignore-parser/0.1.11;
   };
