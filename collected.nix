@@ -3347,6 +3347,9 @@
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
+  pretty-bad-protocol = {
+    "3.1.1" = import ./overrides/pretty-bad-protocol/3.1.1;
+  };
   pretty-midi = {
     "0.2.10" = import ./overrides/pretty-midi/0.2.10;
   };
