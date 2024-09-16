@@ -4336,6 +4336,9 @@
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
+  requests-async = {
+    "0.6.2" = import ./overrides/requests-async/0.6.2;
+  };
   requests-aws = {
     "0.1.8" = import ./overrides/requests-aws/0.1.8;
   };
