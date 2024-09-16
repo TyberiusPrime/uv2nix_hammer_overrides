@@ -5465,6 +5465,9 @@
     "8.1" = import ./overrides/websockets/8.1;
     "9.1" = import ./overrides/websockets/9.1;
   };
+  webssh = {
+    "1.6.2" = import ./overrides/webssh/1.6.2;
+  };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
