@@ -2608,6 +2608,9 @@
   memoized-property = {
     "1.0.3" = import ./overrides/memoized-property/1.0.3;
   };
+  memoizer = {
+    "0.0.1" = import ./overrides/memoizer/0.0.1;
+  };
   menpo = {
     "0.11.1" = import ./overrides/menpo/0.11.1;
   };
