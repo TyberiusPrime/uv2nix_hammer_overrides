@@ -3035,6 +3035,9 @@
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
+  ofxtools = {
+    "0.9.5" = import ./overrides/ofxtools/0.9.5;
+  };
   olctools = {
     "1.3.5" = import ./overrides/olctools/1.3.5;
   };
