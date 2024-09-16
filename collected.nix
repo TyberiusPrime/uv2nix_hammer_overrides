@@ -1803,6 +1803,9 @@
   googletrans = {
     "3.0.0" = import ./overrides/googletrans/3.0.0;
   };
+  googletransx = {
+    "2.4.2" = import ./overrides/googletransx/2.4.2;
+  };
   gpgrecord = {
     "0.0.4" = import ./overrides/gpgrecord/0.0.4;
     "0.0.5" = import ./overrides/gpgrecord/0.0.5;
@@ -5155,6 +5158,9 @@
   };
   tw2-core = {
     "2.3.0" = import ./overrides/tw2-core/2.3.0;
+  };
+  twint = {
+    "2.1.20" = import ./overrides/twint/2.1.20;
   };
   twitter-common-collections = {
     "0.3.11" = import ./overrides/twitter-common-collections/0.3.11;
