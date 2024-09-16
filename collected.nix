@@ -5102,6 +5102,9 @@
   trans = {
     "2.1.0" = import ./overrides/trans/2.1.0;
   };
+  transformers-stream-generator = {
+    "0.0.5" = import ./overrides/transformers-stream-generator/0.0.5;
+  };
   transifex-client = {
     "0.14.4" = import ./overrides/transifex-client/0.14.4;
   };
