@@ -4079,6 +4079,9 @@
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
+  python-nvd3 = {
+    "0.16.0" = import ./overrides/python-nvd3/0.16.0;
+  };
   python-oauth2 = {
     "1.1.1" = import ./overrides/python-oauth2/1.1.1;
   };
