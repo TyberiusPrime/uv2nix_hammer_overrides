@@ -2371,6 +2371,9 @@
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
   };
+  lava-tool = {
+    "0.11.1" = import ./overrides/lava-tool/0.11.1;
+  };
   lazy-import = {
     "0.2.2" = import ./overrides/lazy-import/0.2.2;
   };
@@ -5357,6 +5360,9 @@
   };
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
+  };
+  versiontools = {
+    "1.9.1" = import ./overrides/versiontools/1.9.1;
   };
   veryprettytable = {
     "0.8.1" = import ./overrides/veryprettytable/0.8.1;
