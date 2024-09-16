@@ -2113,6 +2113,9 @@
   interlap = {
     "0.2.7" = import ./overrides/interlap/0.2.7;
   };
+  interval = {
+    "1.0.0" = import ./overrides/interval/1.0.0;
+  };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
   };
