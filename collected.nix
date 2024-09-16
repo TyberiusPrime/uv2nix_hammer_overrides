@@ -3050,6 +3050,9 @@
   onkyo-eiscp = {
     "1.2.7" = import ./overrides/onkyo-eiscp/1.2.7;
   };
+  onnlogger = {
+    "0.0.6" = import ./overrides/onnlogger/0.0.6;
+  };
   onvif-zeep = {
     "0.2.12" = import ./overrides/onvif-zeep/0.2.12;
   };
