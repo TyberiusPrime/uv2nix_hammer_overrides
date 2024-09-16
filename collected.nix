@@ -3488,6 +3488,9 @@
   pyapi-gitlab = {
     "7.8.5" = import ./overrides/pyapi-gitlab/7.8.5;
   };
+  pyasn = {
+    "1.6.2" = import ./overrides/pyasn/1.6.2;
+  };
   pyastronomy = {
     "0.22.0" = import ./overrides/pyastronomy/0.22.0;
   };
