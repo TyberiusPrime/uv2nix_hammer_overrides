@@ -1773,6 +1773,9 @@
   gluonnlp = {
     "0.10.0" = import ./overrides/gluonnlp/0.10.0;
   };
+  gmail = {
+    "0.6.3" = import ./overrides/gmail/0.6.3;
+  };
   gmusicapi = {
     "13.0.0" = import ./overrides/gmusicapi/13.0.0;
   };
