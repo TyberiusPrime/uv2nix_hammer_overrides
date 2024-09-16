@@ -4787,6 +4787,9 @@
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
+  stormpath = {
+    "0.0.0.1" = import ./overrides/stormpath/0.0.0.1;
+  };
   str2bool = {
     "1.1" = import ./overrides/str2bool/1.1;
   };
