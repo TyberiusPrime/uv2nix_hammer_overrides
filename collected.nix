@@ -3266,6 +3266,9 @@
   pidfile = {
     "0.1.1" = import ./overrides/pidfile/0.1.1;
   };
+  piecash = {
+    "1.2.1" = import ./overrides/piecash/1.2.1;
+  };
   piep = {
     "0.10.0" = import ./overrides/piep/0.10.0;
   };
