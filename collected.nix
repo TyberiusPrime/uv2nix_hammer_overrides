@@ -4273,6 +4273,9 @@
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
+  randomwords = {
+    "0.4.0" = import ./overrides/randomwords/0.4.0;
+  };
   rask = {
     "0.1.5" = import ./overrides/rask/0.1.5;
   };
