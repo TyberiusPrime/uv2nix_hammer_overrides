@@ -3311,6 +3311,9 @@
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
   };
+  plaid-python = {
+    "25.0.0" = import ./overrides/plaid-python/25.0.0;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
