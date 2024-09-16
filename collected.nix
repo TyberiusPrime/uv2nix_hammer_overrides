@@ -1294,6 +1294,9 @@
   dsnparse = {
     "0.2.1" = import ./overrides/dsnparse/0.2.1;
   };
+  dtfabric = {
+    "20230520" = import ./overrides/dtfabric/20230520;
+  };
   duckietown-docker-utils-daffy = {
     "6.1.1" = import ./overrides/duckietown-docker-utils-daffy/6.1.1;
   };
