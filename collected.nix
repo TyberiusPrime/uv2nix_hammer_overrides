@@ -1960,6 +1960,9 @@
   htools = {
     "7.7.0" = import ./overrides/htools/7.7.0;
   };
+  http-ece = {
+    "1.2.1" = import ./overrides/http-ece/1.2.1;
+  };
   http-parser = {
     "0.9.0" = import ./overrides/http-parser/0.9.0;
   };
