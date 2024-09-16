@@ -666,6 +666,9 @@
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
+  collective-recaptcha = {
+    "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
+  };
   colorconsole = {
     "0.8.0" = import ./overrides/colorconsole/0.8.0;
   };
@@ -2961,6 +2964,9 @@
   };
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
+  };
+  norecaptcha = {
+    "1.0.0" = import ./overrides/norecaptcha/1.0.0;
   };
   nose-cprof = {
     "0.2.1" = import ./overrides/nose-cprof/0.2.1;
