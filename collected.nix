@@ -5246,6 +5246,9 @@
   unidecode = {
     "0.4.16" = import ./overrides/unidecode/0.4.16;
   };
+  unidic = {
+    "1.1.0" = import ./overrides/unidic/1.1.0;
+  };
   unidic-lite = {
     "1.0.8" = import ./overrides/unidic-lite/1.0.8;
   };
