@@ -5465,6 +5465,9 @@
     "8.1" = import ./overrides/websockets/8.1;
     "9.1" = import ./overrides/websockets/9.1;
   };
+  webthing-ws = {
+    "0.2.0" = import ./overrides/webthing-ws/0.2.0;
+  };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
