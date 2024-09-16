@@ -4300,6 +4300,9 @@
   rectpack = {
     "0.2.2" = import ./overrides/rectpack/0.2.2;
   };
+  red-black-tree-mod = {
+    "1.22" = import ./overrides/red-black-tree-mod/1.22;
+  };
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
