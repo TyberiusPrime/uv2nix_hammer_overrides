@@ -4675,6 +4675,9 @@
   solrpy = {
     "1.0.0" = import ./overrides/solrpy/1.0.0;
   };
+  somoclu = {
+    "1.7.6" = import ./overrides/somoclu/1.7.6;
+  };
   sonopy = {
     "0.1.2" = import ./overrides/sonopy/0.1.2;
   };
