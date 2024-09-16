@@ -2539,6 +2539,9 @@
   lottie = {
     "0.7.0" = import ./overrides/lottie/0.7.0;
   };
+  lovely-pytest-docker = {
+    "1.0.0" = import ./overrides/lovely-pytest-docker/1.0.0;
+  };
   lru-dict = {
     "1.2.0" = import ./overrides/lru-dict/1.2.0;
   };
