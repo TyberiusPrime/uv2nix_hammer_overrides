@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "setuptools",]
+TomlRequiresPatcher = [ true, true, false, true, false, false,]
