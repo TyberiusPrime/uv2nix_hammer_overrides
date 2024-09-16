@@ -35,6 +35,9 @@
   adapt-parser = {
     "1.0.0" = import ./overrides/adapt-parser/1.0.0;
   };
+  adb-shell = {
+    "0.4.4" = import ./overrides/adb-shell/0.4.4;
+  };
   addonfactory-splunk-conf-parser-lib = {
     "0.4.3" = import ./overrides/addonfactory-splunk-conf-parser-lib/0.4.3;
   };
