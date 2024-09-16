@@ -693,6 +693,9 @@
   commandlib = {
     "0.3.5" = import ./overrides/commandlib/0.3.5;
   };
+  commontools = {
+    "0.1.0" = import ./overrides/commontools/0.1.0;
+  };
   compmake-z6 = {
     "6.1.5" = import ./overrides/compmake-z6/6.1.5;
   };
@@ -3503,6 +3506,9 @@
   pybars3 = {
     "0.9.7" = import ./overrides/pybars3/0.9.7;
   };
+  pybitcoin = {
+    "0.9.9" = import ./overrides/pybitcoin/0.9.9;
+  };
   pybitcointools = {
     "1.1.15" = import ./overrides/pybitcointools/1.1.15;
   };
@@ -3984,6 +3990,9 @@
   };
   python-baseconv = {
     "1.2.2" = import ./overrides/python-baseconv/1.2.2;
+  };
+  python-bitcoinrpc = {
+    "0.1" = import ./overrides/python-bitcoinrpc/0.1;
   };
   python-bugzilla = {
     "3.2.0" = import ./overrides/python-bugzilla/3.2.0;
