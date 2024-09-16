@@ -3675,6 +3675,9 @@
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
+  pyhull = {
+    "2015.2.1" = import ./overrides/pyhull/2015.2.1;
+  };
   pyi2cflash = {
     "0.2.2" = import ./overrides/pyi2cflash/0.2.2;
   };
