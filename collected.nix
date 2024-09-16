@@ -3311,6 +3311,9 @@
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
   };
+  plant = {
+    "0.1.3" = import ./overrides/plant/0.1.3;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
