@@ -5138,6 +5138,9 @@
   trx-utils = {
     "1.0.4" = import ./overrides/trx-utils/1.0.4;
   };
+  trytond-health = {
+    "3.2.10" = import ./overrides/trytond-health/3.2.10;
+  };
   tsam = {
     "2.3.3" = import ./overrides/tsam/2.3.3;
   };
