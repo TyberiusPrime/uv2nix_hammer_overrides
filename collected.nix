@@ -4510,6 +4510,9 @@
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
   };
+  sdkmanager = {
+    "0.6.8" = import ./overrides/sdkmanager/0.6.8;
+  };
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
