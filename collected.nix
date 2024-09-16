@@ -2602,6 +2602,9 @@
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
+  meinheld = {
+    "1.0.2" = import ./overrides/meinheld/1.0.2;
+  };
   memoization = {
     "0.4.0" = import ./overrides/memoization/0.4.0;
   };
