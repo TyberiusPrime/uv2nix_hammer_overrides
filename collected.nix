@@ -2815,6 +2815,9 @@
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
+  mung = {
+    "1.2.1" = import ./overrides/mung/1.2.1;
+  };
   murmuration = {
     "1.4" = import ./overrides/murmuration/1.4;
   };
