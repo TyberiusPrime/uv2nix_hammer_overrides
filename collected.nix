@@ -1663,6 +1663,9 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  funbelts = {
+    "0.1.86" = import ./overrides/funbelts/0.1.86;
+  };
   func-timeout = {
     "4.3.5" = import ./overrides/func-timeout/4.3.5;
   };
@@ -4311,6 +4314,9 @@
   };
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
+  };
+  regex = {
+    "2021.4.4" = import ./overrides/regex/2021.4.4;
   };
   regional = {
     "1.1.2" = import ./overrides/regional/1.1.2;
