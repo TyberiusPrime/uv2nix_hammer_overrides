@@ -3449,6 +3449,9 @@
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
+  px-settings = {
+    "0.1.5" = import ./overrides/px-settings/0.1.5;
+  };
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
