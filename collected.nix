@@ -4067,6 +4067,9 @@
   python-ly = {
     "0.9.7" = import ./overrides/python-ly/0.9.7;
   };
+  python-lzf = {
+    "0.2.6" = import ./overrides/python-lzf/0.2.6;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
