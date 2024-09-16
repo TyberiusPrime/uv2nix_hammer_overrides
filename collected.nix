@@ -1267,6 +1267,9 @@
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  dopy = {
+    "0.3.7" = import ./overrides/dopy/0.3.7;
+  };
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
   };
