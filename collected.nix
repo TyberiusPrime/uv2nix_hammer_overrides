@@ -1813,6 +1813,9 @@
   gpustat = {
     "1.1.1" = import ./overrides/gpustat/1.1.1;
   };
+  gql = {
+    "3.0.0a6" = import ./overrides/gql/3.0.0a6;
+  };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
   };
