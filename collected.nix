@@ -418,6 +418,9 @@
   bitcoin = {
     "1.1.39" = import ./overrides/bitcoin/1.1.39;
   };
+  bitmath = {
+    "1.3.3.1" = import ./overrides/bitmath/1.3.3.1;
+  };
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
