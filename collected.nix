@@ -189,6 +189,9 @@
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
+  argon2 = {
+    "0.1.10" = import ./overrides/argon2/0.1.10;
+  };
   args = {
     "0.1.0" = import ./overrides/args/0.1.0;
   };
