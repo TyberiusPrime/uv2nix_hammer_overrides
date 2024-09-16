@@ -3838,6 +3838,9 @@
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
+  pypi-publisher = {
+    "0.0.4" = import ./overrides/pypi-publisher/0.0.4;
+  };
   pypif = {
     "2.1.2" = import ./overrides/pypif/2.1.2;
   };
