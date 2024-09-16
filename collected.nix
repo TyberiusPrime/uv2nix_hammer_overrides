@@ -2026,6 +2026,9 @@
   ibm-watson = {
     "8.1.0" = import ./overrides/ibm-watson/8.1.0;
   };
+  icoextract = {
+    "0.1.5" = import ./overrides/icoextract/0.1.5;
+  };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
