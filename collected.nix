@@ -4636,6 +4636,9 @@
   slimit = {
     "0.8.1" = import ./overrides/slimit/0.8.1;
   };
+  slimurl = {
+    "0.7.8" = import ./overrides/slimurl/0.7.8;
+  };
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
