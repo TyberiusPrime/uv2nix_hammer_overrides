@@ -1813,6 +1813,9 @@
   gpustat = {
     "1.1.1" = import ./overrides/gpustat/1.1.1;
   };
+  gputil = {
+    "1.4.0" = import ./overrides/gputil/1.4.0;
+  };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
   };
