@@ -5594,6 +5594,9 @@
   yolk3k = {
     "0.9" = import ./overrides/yolk3k/0.9;
   };
+  yolov5 = {
+    "7.0.13" = import ./overrides/yolov5/7.0.13;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
