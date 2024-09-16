@@ -4793,6 +4793,9 @@
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
+  stream2py = {
+    "1.0.42" = import ./overrides/stream2py/1.0.42;
+  };
   streaming-form-data = {
     "1.16.0" = import ./overrides/streaming-form-data/1.16.0;
   };
