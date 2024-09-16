@@ -442,6 +442,9 @@
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
+  boto3facade = {
+    "0.5.9" = import ./overrides/boto3facade/0.5.9;
+  };
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
@@ -1992,6 +1995,9 @@
   };
   humanize = {
     "0.5.1" = import ./overrides/humanize/0.5.1;
+  };
+  humilis = {
+    "1.7.1" = import ./overrides/humilis/1.7.1;
   };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
@@ -3575,6 +3581,9 @@
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
   };
+  pycparser = {
+    "2.14" = import ./overrides/pycparser/2.14;
+  };
   pycron = {
     "3.0.0" = import ./overrides/pycron/3.0.0;
   };
@@ -4443,6 +4452,9 @@
   };
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
+  };
+  s3keyring = {
+    "0.2.4" = import ./overrides/s3keyring/0.2.4;
   };
   sabyenc = {
     "3.3.6" = import ./overrides/sabyenc/3.3.6;
