@@ -3817,6 +3817,9 @@
   pyoppleio = {
     "1.0.7" = import ./overrides/pyoppleio/1.0.7;
   };
+  pyorbital = {
+    "1.8.3" = import ./overrides/pyorbital/1.8.3;
+  };
   pyparser = {
     "1.0" = import ./overrides/pyparser/1.0;
   };
