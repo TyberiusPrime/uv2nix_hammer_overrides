@@ -3167,6 +3167,9 @@
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
+  parametrizer = {
+    "0.0.3" = import ./overrides/parametrizer/0.0.3;
+  };
   paramtools = {
     "0.18.3" = import ./overrides/paramtools/0.18.3;
   };
