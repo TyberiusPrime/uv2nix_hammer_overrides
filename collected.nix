@@ -2215,6 +2215,9 @@
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
   };
+  jsl = {
+    "0.2.4" = import ./overrides/jsl/0.2.4;
+  };
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
   };
