@@ -3651,6 +3651,9 @@
   pyflic = {
     "2.0.4" = import ./overrides/pyflic/2.0.4;
   };
+  pygeoif = {
+    "0.7" = import ./overrides/pygeoif/0.7;
+  };
   pygetwindow = {
     "0.0.9" = import ./overrides/pygetwindow/0.0.9;
   };
