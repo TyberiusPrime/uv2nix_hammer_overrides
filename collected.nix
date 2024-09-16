@@ -5567,6 +5567,9 @@
   xvfbwrapper = {
     "0.2.9" = import ./overrides/xvfbwrapper/0.2.9;
   };
+  yahoofinancials = {
+    "1.20" = import ./overrides/yahoofinancials/1.20;
+  };
   yahooweather = {
     "0.10" = import ./overrides/yahooweather/0.10;
   };
