@@ -418,6 +418,9 @@
   bitcoin = {
     "1.1.39" = import ./overrides/bitcoin/1.1.39;
   };
+  bittorrent-bencode = {
+    "5.0.8.1" = import ./overrides/bittorrent-bencode/5.0.8.1;
+  };
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
