@@ -2398,6 +2398,9 @@
   lettuce = {
     "0.2.23" = import ./overrides/lettuce/0.2.23;
   };
+  lexicalrichness = {
+    "0.5.1" = import ./overrides/lexicalrichness/0.5.1;
+  };
   li-pagador = {
     "0.0.0.1" = import ./overrides/li-pagador/0.0.0.1;
   };
