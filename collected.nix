@@ -4351,6 +4351,9 @@
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
+  restible = {
+    "0.12.1" = import ./overrides/restible/0.12.1;
+  };
   restkit = {
     "4.2.2" = import ./overrides/restkit/4.2.2;
   };
@@ -4521,6 +4524,9 @@
   };
   seqeval = {
     "1.2.2" = import ./overrides/seqeval/1.2.2;
+  };
+  serafin = {
+    "0.12.2" = import ./overrides/serafin/0.12.2;
   };
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
