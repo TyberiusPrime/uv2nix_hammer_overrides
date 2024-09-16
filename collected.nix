@@ -717,6 +717,9 @@
   configspace = {
     "1.2.0" = import ./overrides/configspace/1.2.0;
   };
+  confutil = {
+    "0.1.4" = import ./overrides/confutil/0.1.4;
+  };
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
   };
