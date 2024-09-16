@@ -3344,6 +3344,9 @@
   ppp-datamodel = {
     "0.6.12.1" = import ./overrides/ppp-datamodel/0.6.12.1;
   };
+  pprofile = {
+    "2.2.0" = import ./overrides/pprofile/2.2.0;
+  };
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
