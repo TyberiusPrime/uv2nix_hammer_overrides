@@ -4175,6 +4175,9 @@
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
   };
+  pyversasense = {
+    "0.0.6" = import ./overrides/pyversasense/0.0.6;
+  };
   pyvimeo = {
     "1.1.2" = import ./overrides/pyvimeo/1.1.2;
   };
