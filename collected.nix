@@ -693,6 +693,9 @@
   commandlib = {
     "0.3.5" = import ./overrides/commandlib/0.3.5;
   };
+  commandparse = {
+    "1.1.2" = import ./overrides/commandparse/1.1.2;
+  };
   compmake-z6 = {
     "6.1.5" = import ./overrides/compmake-z6/6.1.5;
   };
