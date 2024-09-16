@@ -1624,6 +1624,9 @@
   fleep = {
     "1.0.1" = import ./overrides/fleep/1.0.1;
   };
+  flex = {
+    "6.14.1" = import ./overrides/flex/6.14.1;
+  };
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
