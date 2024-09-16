@@ -2533,6 +2533,9 @@
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
+  looptools = {
+    "1.2.4" = import ./overrides/looptools/1.2.4;
+  };
   loopy = {
     "2024.1" = import ./overrides/loopy/2024.1;
   };
