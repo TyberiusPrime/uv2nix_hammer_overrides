@@ -4952,6 +4952,9 @@
   thepiratebay = {
     "1.3.5" = import ./overrides/thepiratebay/1.3.5;
   };
+  thespian = {
+    "3.10.7" = import ./overrides/thespian/3.10.7;
+  };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
