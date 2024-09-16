@@ -1918,6 +1918,9 @@
   helputils = {
     "1.4.38" = import ./overrides/helputils/1.4.38;
   };
+  hetzner = {
+    "0.8.3" = import ./overrides/hetzner/0.8.3;
+  };
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
