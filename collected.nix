@@ -2485,6 +2485,9 @@
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
+  livestreamer = {
+    "1.12.2" = import ./overrides/livestreamer/1.12.2;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
