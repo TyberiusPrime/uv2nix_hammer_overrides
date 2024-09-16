@@ -3940,6 +3940,9 @@
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
+  pysynphot = {
+    "2.0.0" = import ./overrides/pysynphot/2.0.0;
+  };
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
