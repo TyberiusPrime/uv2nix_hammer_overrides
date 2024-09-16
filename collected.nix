@@ -2602,6 +2602,9 @@
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
+  mdutils = {
+    "1.6.0" = import ./overrides/mdutils/1.6.0;
+  };
   memoization = {
     "0.4.0" = import ./overrides/memoization/0.4.0;
   };
