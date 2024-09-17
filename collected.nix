@@ -5908,6 +5908,9 @@
   pywebdav = {
     "0.9.8" = import ./overrides/pywebdav/0.9.8;
   };
+  pywebio = {
+    "1.8.3" = import ./overrides/pywebio/1.8.3;
+  };
   pywebsocket3 = {
     "4.0.2" = import ./overrides/pywebsocket3/4.0.2;
   };
