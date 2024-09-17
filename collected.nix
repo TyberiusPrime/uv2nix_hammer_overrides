@@ -2812,6 +2812,9 @@
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
+  lzstring = {
+    "1.0.4" = import ./overrides/lzstring/1.0.4;
+  };
   m-caching = {
     "0.1.15" = import ./overrides/m-caching/0.1.15;
   };
