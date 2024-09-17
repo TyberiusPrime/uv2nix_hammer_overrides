@@ -2458,6 +2458,9 @@
   lima = {
     "0.5" = import ./overrides/lima/0.5;
   };
+  lime = {
+    "0.2.0.1" = import ./overrides/lime/0.2.0.1;
+  };
   limitlessled = {
     "1.1.3" = import ./overrides/limitlessled/1.1.3;
   };
