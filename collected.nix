@@ -1900,6 +1900,9 @@
   gpustat = {
     "1.1.1" = import ./overrides/gpustat/1.1.1;
   };
+  gpyopt = {
+    "1.2.6" = import ./overrides/gpyopt/1.2.6;
+  };
   gradient-statsd = {
     "1.0.1" = import ./overrides/gradient-statsd/1.0.1;
   };
