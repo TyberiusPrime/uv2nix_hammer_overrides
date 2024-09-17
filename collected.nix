@@ -4748,6 +4748,9 @@
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
+  python-unshare = {
+    "0.2" = import ./overrides/python-unshare/0.2;
+  };
   python-vxi11 = {
     "0.9" = import ./overrides/python-vxi11/0.9;
   };
