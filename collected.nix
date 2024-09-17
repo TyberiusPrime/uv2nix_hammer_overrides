@@ -6900,6 +6900,9 @@
   tgext-crud = {
     "0.9.0" = import ./overrides/tgext-crud/0.9.0;
   };
+  thealot = {
+    "0.3.2" = import ./overrides/thealot/0.3.2;
+  };
   theano-pymc = {
     "1.1.2" = import ./overrides/theano-pymc/1.1.2;
   };
