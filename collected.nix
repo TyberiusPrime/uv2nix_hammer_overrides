@@ -445,6 +445,9 @@
   bencode = {
     "1.0" = import ./overrides/bencode/1.0;
   };
+  bencodepy = {
+    "0.9.5" = import ./overrides/bencodepy/0.9.5;
+  };
   bernhard = {
     "0.2.6" = import ./overrides/bernhard/0.2.6;
   };
