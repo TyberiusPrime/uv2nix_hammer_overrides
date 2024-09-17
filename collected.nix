@@ -5636,6 +5636,9 @@
   sat-stac = {
     "0.4.1" = import ./overrides/sat-stac/0.4.1;
   };
+  sbtab = {
+    "1.0.8" = import ./overrides/sbtab/1.0.8;
+  };
   scales = {
     "1.0.9" = import ./overrides/scales/1.0.9;
   };
