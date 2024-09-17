@@ -4720,6 +4720,9 @@
   sphinx-fortran = {
     "1.1.1" = import ./overrides/sphinx-fortran/1.1.1;
   };
+  sphinxcontrib-bayesnet = {
+    "0.4" = import ./overrides/sphinxcontrib-bayesnet/0.4;
+  };
   sphinxcontrib-fulltoc = {
     "1.2.0" = import ./overrides/sphinxcontrib-fulltoc/1.2.0;
   };
