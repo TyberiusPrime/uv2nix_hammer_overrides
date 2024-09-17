@@ -4392,6 +4392,9 @@
   pyes = {
     "0.99.6" = import ./overrides/pyes/0.99.6;
   };
+  pyethash = {
+    "0.1.27" = import ./overrides/pyethash/0.1.27;
+  };
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
