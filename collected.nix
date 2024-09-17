@@ -4348,6 +4348,9 @@
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
+  reserved = {
+    "0.1.1" = import ./overrides/reserved/0.1.1;
+  };
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
