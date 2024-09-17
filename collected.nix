@@ -2845,6 +2845,9 @@
   mdutils = {
     "1.6.0" = import ./overrides/mdutils/1.6.0;
   };
+  mdv = {
+    "1.7.5" = import ./overrides/mdv/1.7.5;
+  };
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
   };
