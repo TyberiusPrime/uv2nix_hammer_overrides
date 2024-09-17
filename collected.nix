@@ -3028,6 +3028,9 @@
   marionette-transport = {
     "1.2.0" = import ./overrides/marionette-transport/1.2.0;
   };
+  markerlib = {
+    "0.6.0" = import ./overrides/markerlib/0.6.0;
+  };
   markovify = {
     "0.9.4" = import ./overrides/markovify/0.9.4;
   };
