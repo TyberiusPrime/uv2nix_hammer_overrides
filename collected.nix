@@ -3196,6 +3196,9 @@
   natto-py = {
     "1.0.1" = import ./overrides/natto-py/1.0.1;
   };
+  natural = {
+    "0.2.0" = import ./overrides/natural/0.2.0;
+  };
   naturalsort = {
     "1.5.1" = import ./overrides/naturalsort/1.5.1;
   };
