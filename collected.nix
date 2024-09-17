@@ -942,6 +942,9 @@
   codeclimate-test-reporter = {
     "0.2.3" = import ./overrides/codeclimate-test-reporter/0.2.3;
   };
+  codegen = {
+    "1.0" = import ./overrides/codegen/1.0;
+  };
   codepy = {
     "2023.1" = import ./overrides/codepy/2023.1;
   };
@@ -3480,6 +3483,9 @@
   };
   linux-metrics = {
     "0.1.4" = import ./overrides/linux-metrics/0.1.4;
+  };
+  livestats = {
+    "1.0" = import ./overrides/livestats/1.0;
   };
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
