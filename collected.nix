@@ -4820,6 +4820,9 @@
   sqlmap = {
     "1.8.9" = import ./overrides/sqlmap/1.8.9;
   };
+  sqlsoup = {
+    "0.9.1" = import ./overrides/sqlsoup/0.9.1;
+  };
   sqre-apikit = {
     "0.1.3" = import ./overrides/sqre-apikit/0.1.3;
   };
