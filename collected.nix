@@ -6429,6 +6429,9 @@
   webssh = {
     "1.6.2" = import ./overrides/webssh/1.6.2;
   };
+  webthing-ws = {
+    "0.2.0" = import ./overrides/webthing-ws/0.2.0;
+  };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
