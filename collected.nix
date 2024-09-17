@@ -2830,6 +2830,9 @@
   mutf8 = {
     "1.0.6" = import ./overrides/mutf8/1.0.6;
   };
+  mybad = {
+    "0.2.0" = import ./overrides/mybad/0.2.0;
+  };
   mypy-lang = {
     "0.5.0" = import ./overrides/mypy-lang/0.5.0;
   };
