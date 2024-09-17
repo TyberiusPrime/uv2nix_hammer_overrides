@@ -3362,6 +3362,9 @@
   memoization = {
     "0.4.0" = import ./overrides/memoization/0.4.0;
   };
+  memoized = {
+    "0.3" = import ./overrides/memoized/0.3;
+  };
   memoized-property = {
     "1.0.3" = import ./overrides/memoized-property/1.0.3;
   };
