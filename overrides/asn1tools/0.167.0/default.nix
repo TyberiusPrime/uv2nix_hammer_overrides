@@ -3,4 +3,9 @@ old:
 if ((old.format or "sdist") == "wheel") then
   { }
 else
-  { nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ final.setuptools ]; }
+  {
+    env = {
+      dontCheckRuntimeDeps = true;
+    };
+    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ final.setuptools ];
+  }
