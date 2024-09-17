@@ -1907,6 +1907,9 @@
   fastscript = {
     "0.0.0.1" = import ./overrides/fastscript/0.0.0.1;
   };
+  faust-streaming = {
+    "0.11.3" = import ./overrides/faust-streaming/0.11.3;
+  };
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
