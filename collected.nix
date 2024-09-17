@@ -3236,6 +3236,9 @@
   mergedb = {
     "0.1.1" = import ./overrides/mergedb/0.1.1;
   };
+  merkletools = {
+    "1.0.3" = import ./overrides/merkletools/1.0.3;
+  };
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
@@ -4885,6 +4888,9 @@
   };
   pysftp = {
     "0.2.9" = import ./overrides/pysftp/0.2.9;
+  };
+  pysha3 = {
+    "1.0.2" = import ./overrides/pysha3/1.0.2;
   };
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
