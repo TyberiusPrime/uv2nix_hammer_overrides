@@ -4464,6 +4464,9 @@
   opcua = {
     "0.98.13" = import ./overrides/opcua/0.98.13;
   };
+  openai-clip = {
+    "1.0.1" = import ./overrides/openai-clip/1.0.1;
+  };
   openai-whisper = {
     "20231117" = import ./overrides/openai-whisper/20231117;
   };
