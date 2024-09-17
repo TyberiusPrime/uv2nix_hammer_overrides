@@ -4931,6 +4931,9 @@
   testgear-api-client = {
     "3.2.0" = import ./overrides/testgear-api-client/3.2.0;
   };
+  testit-api-client = {
+    "4.0.0" = import ./overrides/testit-api-client/4.0.0;
+  };
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
