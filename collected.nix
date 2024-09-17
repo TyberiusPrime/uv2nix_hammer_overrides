@@ -852,6 +852,9 @@
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
+  csscompressor = {
+    "0.9.5" = import ./overrides/csscompressor/0.9.5;
+  };
   cssmin = {
     "0.2.0" = import ./overrides/cssmin/0.2.0;
   };
