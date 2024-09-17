@@ -5558,6 +5558,9 @@
   xmlbuilder = {
     "1.0" = import ./overrides/xmlbuilder/1.0;
   };
+  xmpppy = {
+    "0.7.1" = import ./overrides/xmpppy/0.7.1;
+  };
   xobjects = {
     "0.4.4" = import ./overrides/xobjects/0.4.4;
   };
