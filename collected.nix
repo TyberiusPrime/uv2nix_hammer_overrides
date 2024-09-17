@@ -1870,6 +1870,9 @@
   flask-expects-json = {
     "1.7.0" = import ./overrides/flask-expects-json/1.7.0;
   };
+  flask-graphql = {
+    "2.0.1" = import ./overrides/flask-graphql/2.0.1;
+  };
   flask-jsonpify = {
     "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
   };
