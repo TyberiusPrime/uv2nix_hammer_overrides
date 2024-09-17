@@ -2922,6 +2922,9 @@
   inifile = {
     "0.4.1" = import ./overrides/inifile/0.4.1;
   };
+  iniherit = {
+    "0.3.9" = import ./overrides/iniherit/0.3.9;
+  };
   injson = {
     "0.4.1" = import ./overrides/injson/0.4.1;
   };
