@@ -2815,6 +2815,9 @@
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
+  multiprocessing-on-dill = {
+    "3.5.0a4" = import ./overrides/multiprocessing-on-dill/3.5.0a4;
+  };
   murmuration = {
     "1.4" = import ./overrides/murmuration/1.4;
   };
