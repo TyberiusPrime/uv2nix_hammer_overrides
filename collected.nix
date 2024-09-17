@@ -3199,6 +3199,9 @@
   neotime = {
     "1.7.4" = import ./overrides/neotime/1.7.4;
   };
+  neovim = {
+    "0.3.1" = import ./overrides/neovim/0.3.1;
+  };
   nested-lookup = {
     "0.2.25" = import ./overrides/nested-lookup/0.2.25;
   };
