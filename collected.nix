@@ -5210,6 +5210,9 @@
   simpleaudio = {
     "1.0.4" = import ./overrides/simpleaudio/1.0.4;
   };
+  simplegeneric = {
+    "0.8.1" = import ./overrides/simplegeneric/0.8.1;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
