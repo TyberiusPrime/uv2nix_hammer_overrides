@@ -3612,6 +3612,9 @@
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
   };
+  pyds9 = {
+    "1.8.1" = import ./overrides/pyds9/1.8.1;
+  };
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
