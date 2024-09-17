@@ -3483,6 +3483,9 @@
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
   };
+  osc = {
+    "1.8.2" = import ./overrides/osc/1.8.2;
+  };
   osconf = {
     "0.1.3" = import ./overrides/osconf/0.1.3;
   };
