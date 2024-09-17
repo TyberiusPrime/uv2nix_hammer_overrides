@@ -4635,6 +4635,9 @@
   prettyparse = {
     "1.2.0" = import ./overrides/prettyparse/1.2.0;
   };
+  prettyplotlib = {
+    "0.1.7" = import ./overrides/prettyplotlib/0.1.7;
+  };
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
