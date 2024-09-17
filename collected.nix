@@ -5489,6 +5489,9 @@
   withings-sync = {
     "4.2.5" = import ./overrides/withings-sync/4.2.5;
   };
+  wkhtmltopdf = {
+    "0.2" = import ./overrides/wkhtmltopdf/0.2;
+  };
   word2vec = {
     "0.11.1" = import ./overrides/word2vec/0.11.1;
   };
