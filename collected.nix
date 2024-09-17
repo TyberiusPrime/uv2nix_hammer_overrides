@@ -1131,6 +1131,9 @@
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
+  diffimg = {
+    "0.3.0" = import ./overrides/diffimg/0.3.0;
+  };
   diffpy-structure = {
     "3.2.1" = import ./overrides/diffpy-structure/3.2.1;
   };
