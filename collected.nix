@@ -2638,6 +2638,9 @@
   lapjv = {
     "1.3.27" = import ./overrides/lapjv/1.3.27;
   };
+  lark-parser = {
+    "0.9.0" = import ./overrides/lark-parser/0.9.0;
+  };
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
