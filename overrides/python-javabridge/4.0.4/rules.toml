@@ -1,0 +1,4 @@
+BuildInputs = [ "~literal:!:pkgs.openjdk",]
+BuildSystems = [ "cython_0", "numpy", "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.openjdk",]
+TomlRequiresPatcher = [ false, false, true, false, false, false,]
