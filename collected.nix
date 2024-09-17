@@ -3713,6 +3713,9 @@
   pprofile = {
     "2.2.0" = import ./overrides/pprofile/2.2.0;
   };
+  pptree = {
+    "3.1" = import ./overrides/pptree/3.1;
+  };
   pq = {
     "1.9.1" = import ./overrides/pq/1.9.1;
   };
@@ -6083,6 +6086,9 @@
   };
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
+  };
+  wikipedia-api = {
+    "0.7.1" = import ./overrides/wikipedia-api/0.7.1;
   };
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
