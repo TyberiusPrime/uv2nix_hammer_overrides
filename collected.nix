@@ -3472,6 +3472,9 @@
   nodepy-runtime = {
     "2.1.5" = import ./overrides/nodepy-runtime/2.1.5;
   };
+  noise = {
+    "1.2.2" = import ./overrides/noise/1.2.2;
+  };
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
