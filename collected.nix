@@ -4591,6 +4591,9 @@
   similaritymeasures = {
     "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
   };
+  simple-crypt = {
+    "4.1.7" = import ./overrides/simple-crypt/4.1.7;
+  };
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
