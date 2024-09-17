@@ -7856,6 +7856,9 @@
   withings-sync = {
     "4.2.5" = import ./overrides/withings-sync/4.2.5;
   };
+  wkhtmltopdf = {
+    "0.2" = import ./overrides/wkhtmltopdf/0.2;
+  };
   wmd = {
     "1.3.2" = import ./overrides/wmd/1.3.2;
   };
