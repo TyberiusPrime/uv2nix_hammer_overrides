@@ -2944,6 +2944,9 @@
   localstack = {
     "3.7.2" = import ./overrides/localstack/3.7.2;
   };
+  localstack-client = {
+    "2.5" = import ./overrides/localstack-client/2.5;
+  };
   localstack-ext = {
     "3.7.2" = import ./overrides/localstack-ext/3.7.2;
   };
