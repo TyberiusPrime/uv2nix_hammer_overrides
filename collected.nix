@@ -2980,6 +2980,9 @@
   npm = {
     "0.1.1" = import ./overrides/npm/0.1.1;
   };
+  npyscreen = {
+    "4.10.5" = import ./overrides/npyscreen/4.10.5;
+  };
   numba = {
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
