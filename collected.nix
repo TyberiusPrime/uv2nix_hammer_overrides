@@ -5349,6 +5349,9 @@
   vcversioner = {
     "2.16.0.0" = import ./overrides/vcversioner/2.16.0.0;
   };
+  vdk-core = {
+    "0.3.1424848411" = import ./overrides/vdk-core/0.3.1424848411;
+  };
   vedo = {
     "2024.5.2" = import ./overrides/vedo/2024.5.2;
   };
