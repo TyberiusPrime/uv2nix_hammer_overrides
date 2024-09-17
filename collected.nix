@@ -3651,6 +3651,9 @@
   pyflic = {
     "2.0.4" = import ./overrides/pyflic/2.0.4;
   };
+  pyfma = {
+    "0.1.6" = import ./overrides/pyfma/0.1.6;
+  };
   pygetwindow = {
     "0.0.9" = import ./overrides/pygetwindow/0.0.9;
   };
