@@ -5142,6 +5142,9 @@
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
   };
+  steam = {
+    "1.4.4" = import ./overrides/steam/1.4.4;
+  };
   stem = {
     "1.8.2" = import ./overrides/stem/1.8.2;
   };
