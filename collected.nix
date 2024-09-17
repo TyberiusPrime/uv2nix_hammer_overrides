@@ -5656,6 +5656,9 @@
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
+  pyphases = {
+    "1.2.8" = import ./overrides/pyphases/1.2.8;
+  };
   pypi-publisher = {
     "0.0.4" = import ./overrides/pypi-publisher/0.0.4;
   };
