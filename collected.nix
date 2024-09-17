@@ -6180,6 +6180,9 @@
   redis3 = {
     "3.5.2.3" = import ./overrides/redis3/3.5.2.3;
   };
+  redlib = {
+    "1.5.7" = import ./overrides/redlib/1.5.7;
+  };
   redlock = {
     "1.2.0" = import ./overrides/redlock/1.2.0;
   };
