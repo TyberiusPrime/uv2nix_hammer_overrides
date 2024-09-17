@@ -1942,6 +1942,9 @@
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
+  flatdict = {
+    "4.0.1" = import ./overrides/flatdict/4.0.1;
+  };
   fleep = {
     "1.0.1" = import ./overrides/fleep/1.0.1;
   };
