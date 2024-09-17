@@ -688,6 +688,12 @@
   cdumay-error = {
     "0.2.0" = import ./overrides/cdumay-error/0.2.0;
   };
+  cdumay-http-client = {
+    "0.0.15" = import ./overrides/cdumay-http-client/0.0.15;
+  };
+  cdumay-rest-client = {
+    "0.2.6" = import ./overrides/cdumay-rest-client/0.2.6;
+  };
   cdumay-result = {
     "0.1.12" = import ./overrides/cdumay-result/0.1.12;
   };
