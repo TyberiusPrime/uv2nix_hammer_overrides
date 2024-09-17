@@ -32,7 +32,7 @@ for chosen in available:
     print(chosen)
     env = os.environ.copy()
     env['EDITOR'] = 'true'
-    subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase"], env=env)
+    subprocess.check_call(["git", "pull", chosen / "overrides", "--no-rebase"], env=env)
     output = subprocess.check_output(['git', 'status', '--porcelain'], env=env)
     if b'UU' in output:
         print('Conflict exists')
