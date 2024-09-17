@@ -2890,6 +2890,9 @@
   mutf8 = {
     "1.0.6" = import ./overrides/mutf8/1.0.6;
   };
+  mypy-extensions = {
+    "0.4.4" = import ./overrides/mypy-extensions/0.4.4;
+  };
   mypy-lang = {
     "0.5.0" = import ./overrides/mypy-lang/0.5.0;
   };
@@ -3913,6 +3916,9 @@
   pypattyrn = {
     "1.2" = import ./overrides/pypattyrn/1.2;
   };
+  pypdf2 = {
+    "1.26.0" = import ./overrides/pypdf2/1.26.0;
+  };
   pypdf3 = {
     "1.0.6" = import ./overrides/pypdf3/1.0.6;
   };
@@ -4509,6 +4515,9 @@
   };
   roku = {
     "4.1.0" = import ./overrides/roku/4.1.0;
+  };
+  roman = {
+    "3.1" = import ./overrides/roman/3.1;
   };
   ropper = {
     "1.13.8" = import ./overrides/ropper/1.13.8;
