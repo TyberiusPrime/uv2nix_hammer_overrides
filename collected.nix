@@ -2650,6 +2650,9 @@
   jsonrpc-websocket = {
     "3.1.5" = import ./overrides/jsonrpc-websocket/3.1.5;
   };
+  jsonrpcserver = {
+    "5.0.9" = import ./overrides/jsonrpcserver/5.0.9;
+  };
   jsonsir = {
     "0.0.2" = import ./overrides/jsonsir/0.0.2;
   };
