@@ -5787,6 +5787,9 @@
   systemd = {
     "0.17.1" = import ./overrides/systemd/0.17.1;
   };
+  sysv-ipc = {
+    "1.1.0" = import ./overrides/sysv-ipc/1.1.0;
+  };
   ta = {
     "0.11.0" = import ./overrides/ta/0.11.0;
   };
