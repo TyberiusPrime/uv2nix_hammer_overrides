@@ -825,6 +825,9 @@
   commandlib = {
     "0.3.5" = import ./overrides/commandlib/0.3.5;
   };
+  commandparse = {
+    "1.1.2" = import ./overrides/commandparse/1.1.2;
+  };
   commontools = {
     "0.1.0" = import ./overrides/commontools/0.1.0;
   };
