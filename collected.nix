@@ -3305,6 +3305,9 @@
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
   };
+  openmdao = {
+    "3.34.2" = import ./overrides/openmdao/3.34.2;
+  };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
   };
