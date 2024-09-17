@@ -2018,6 +2018,9 @@
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
+  fcore = {
+    "4.0.0" = import ./overrides/fcore/4.0.0;
+  };
   feather-format = {
     "0.4.1" = import ./overrides/feather-format/0.4.1;
   };
