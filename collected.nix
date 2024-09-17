@@ -4281,6 +4281,9 @@
   polling = {
     "0.3.2" = import ./overrides/polling/0.3.2;
   };
+  polygon3 = {
+    "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
+  };
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
