@@ -2729,6 +2729,9 @@
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
   };
+  jose = {
+    "1.0.0" = import ./overrides/jose/1.0.0;
+  };
   journalwatch = {
     "1.1.0" = import ./overrides/journalwatch/1.1.0;
   };
