@@ -3515,6 +3515,9 @@
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
+  papis-python-rofi = {
+    "1.0.3" = import ./overrides/papis-python-rofi/1.0.3;
+  };
   paramtools = {
     "0.18.3" = import ./overrides/paramtools/0.18.3;
   };
