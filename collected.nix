@@ -5108,6 +5108,9 @@
   translitcodec = {
     "0.7.0" = import ./overrides/translitcodec/0.7.0;
   };
+  transmissionrpc = {
+    "0.11" = import ./overrides/transmissionrpc/0.11;
+  };
   transpyler = {
     "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
