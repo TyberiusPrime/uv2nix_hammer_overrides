@@ -3359,6 +3359,9 @@
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
+  problog = {
+    "2.2.4" = import ./overrides/problog/2.2.4;
+  };
   proboscis = {
     "1.2.6.0" = import ./overrides/proboscis/1.2.6.0;
   };
