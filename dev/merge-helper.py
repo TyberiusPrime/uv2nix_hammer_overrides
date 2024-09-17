@@ -34,12 +34,7 @@ for chosen in available:
     env = os.environ.copy()
     env['EDITOR'] = 'true'
     p = subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase"], env=env)
-    if p.returncode != 0:
-        if last_failed:
-            raise ValueError("Two pull errors in a row")
-        last_failed = True
-    else:
-        last_failed = False
+    pull_failed  = p.returncode != 0
     output = subprocess.check_output(['git', 'status', '--porcelain'], env=env)
     if b'UU' in output:
         print('Conflict exists')
@@ -47,6 +42,8 @@ for chosen in available:
         subprocess.check_call(["git", "add", "collected.nix"], env=env)
         subprocess.check_call(["git", "merge", "--continue"],
                               env = env)
+    elif pull_failed:
+        raise ValueError("pull failed")
     shutil.move(chosen, chosen.with_name("imported_" + chosen.name))
     commited_any = True
 
