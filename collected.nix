@@ -2395,6 +2395,9 @@
   hyperdash = {
     "0.15.3" = import ./overrides/hyperdash/0.15.3;
   };
+  hyperloglog = {
+    "0.0.14" = import ./overrides/hyperloglog/0.0.14;
+  };
   hyrule = {
     "0.6.0" = import ./overrides/hyrule/0.6.0;
   };
