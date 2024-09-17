@@ -6326,6 +6326,9 @@
   tissue = {
     "0.9.2" = import ./overrides/tissue/0.9.2;
   };
+  titlecase = {
+    "2.4.1" = import ./overrides/titlecase/2.4.1;
+  };
   tkinterhtml = {
     "0.7" = import ./overrides/tkinterhtml/0.7;
   };
