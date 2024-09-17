@@ -1429,6 +1429,9 @@
   elixir = {
     "0.7.1" = import ./overrides/elixir/0.7.1;
   };
+  embit = {
+    "0.8.0" = import ./overrides/embit/0.8.0;
+  };
   emoji = {
     "1.6.3" = import ./overrides/emoji/1.6.3;
   };
