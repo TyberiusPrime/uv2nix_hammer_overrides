@@ -5988,6 +5988,9 @@
   salure-helpers-salureconnect = {
     "2.2.3" = import ./overrides/salure-helpers-salureconnect/2.2.3;
   };
+  samsungtvws = {
+    "2.6.0" = import ./overrides/samsungtvws/2.6.0;
+  };
   sane-python = {
     "0.1.3" = import ./overrides/sane-python/0.1.3;
   };
