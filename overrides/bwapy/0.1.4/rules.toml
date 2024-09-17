@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.zlib.out",]
+ManualOverrides = "__file__:bwapy/0.1.4/default.nix"
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config", "~literal:!:pkgs.zlib.dev",]

@@ -643,6 +643,9 @@
   bw2data = {
     "3.6.6" = import ./overrides/bw2data/3.6.6;
   };
+  bwapy = {
+    "0.1.4" = import ./overrides/bwapy/0.1.4;
+  };
   bz2file = {
     "0.98" = import ./overrides/bz2file/0.98;
   };
