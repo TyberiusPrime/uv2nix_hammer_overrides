@@ -544,6 +544,9 @@
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
+  breadability = {
+    "0.1.20" = import ./overrides/breadability/0.1.20;
+  };
   breezy = {
     "3.3.8" = import ./overrides/breezy/3.3.8;
   };
