@@ -5997,6 +5997,9 @@
   redis3 = {
     "3.5.2.3" = import ./overrides/redis3/3.5.2.3;
   };
+  redlock = {
+    "1.2.0" = import ./overrides/redlock/1.2.0;
+  };
   redlock-py = {
     "1.0.8" = import ./overrides/redlock-py/1.0.8;
   };
