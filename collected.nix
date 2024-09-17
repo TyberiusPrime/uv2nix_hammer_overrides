@@ -5958,6 +5958,9 @@
   sane-python = {
     "0.1.3" = import ./overrides/sane-python/0.1.3;
   };
+  sanetime = {
+    "4.2.3" = import ./overrides/sanetime/4.2.3;
+  };
   sansio-multipart = {
     "0.3" = import ./overrides/sansio-multipart/0.3;
   };
