@@ -255,6 +255,9 @@
   argeasy = {
     "3.1.0" = import ./overrides/argeasy/3.1.0;
   };
+  argparse-manpage = {
+    "4.6" = import ./overrides/argparse-manpage/4.6;
+  };
   args = {
     "0.1.0" = import ./overrides/args/0.1.0;
   };
