@@ -280,6 +280,9 @@
   async-cache = {
     "1.1.1" = import ./overrides/async-cache/1.1.1;
   };
+  async-upnp-client = {
+    "0.40.0" = import ./overrides/async-upnp-client/0.40.0;
+  };
   asyncblink = {
     "0.4.0" = import ./overrides/asyncblink/0.4.0;
   };
@@ -4624,6 +4627,9 @@
   python-dateutil = {
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
+  };
+  python-didl-lite = {
+    "1.4.0" = import ./overrides/python-didl-lite/1.4.0;
   };
   python-doi = {
     "0.2.0" = import ./overrides/python-doi/0.2.0;
