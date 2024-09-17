@@ -4769,6 +4769,9 @@
   static3 = {
     "0.7.0" = import ./overrides/static3/0.7.0;
   };
+  statistics = {
+    "1.0.3.5" = import ./overrides/statistics/1.0.3.5;
+  };
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
   };
