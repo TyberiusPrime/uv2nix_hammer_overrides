@@ -5730,6 +5730,9 @@
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
   };
+  python-ctags3 = {
+    "1.6.0" = import ./overrides/python-ctags3/1.6.0;
+  };
   python-dateutil = {
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
