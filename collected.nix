@@ -966,6 +966,9 @@
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
+  dawg = {
+    "0.8.0" = import ./overrides/dawg/0.8.0;
+  };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
