@@ -36,12 +36,14 @@ for chosen in available:
     p = subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase"], env=env)
     pull_failed  = p.returncode != 0
     output = subprocess.check_output(['git', 'status', '--porcelain'], env=env)
-    if b'UU' in output:
+    if b'UU' in output or b'AA' in output:
         print('Conflict exists')
         subprocess.check_call(["./dev/collect.py"])
         subprocess.check_call(["git", "add", "collected.nix"], env=env)
+        subprocess.check_call(["git", "add", "overrides"], env=env)
         subprocess.check_call(["git", "merge", "--continue"],
                               env = env)
+        print("both added")
     elif pull_failed:
         raise ValueError("pull failed")
     shutil.move(chosen, chosen.with_name("imported_" + chosen.name))
