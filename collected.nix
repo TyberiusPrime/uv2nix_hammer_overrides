@@ -4300,6 +4300,9 @@
   pandasql = {
     "0.7.3" = import ./overrides/pandasql/0.7.3;
   };
+  pandastable = {
+    "0.13.1" = import ./overrides/pandastable/0.13.1;
+  };
   pandoc = {
     "2.4" = import ./overrides/pandoc/2.4;
   };
