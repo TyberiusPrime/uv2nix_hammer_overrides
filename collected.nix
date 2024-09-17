@@ -352,6 +352,9 @@
   asyncio-nats-client = {
     "0.11.5" = import ./overrides/asyncio-nats-client/0.11.5;
   };
+  asyncio-nats-streaming = {
+    "0.4.0" = import ./overrides/asyncio-nats-streaming/0.4.0;
+  };
   asyncmy = {
     "0.2.9" = import ./overrides/asyncmy/0.2.9;
   };
