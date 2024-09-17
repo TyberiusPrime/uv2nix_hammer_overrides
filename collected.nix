@@ -5411,6 +5411,9 @@
   pyprof2calltree = {
     "1.4.5" = import ./overrides/pyprof2calltree/1.4.5;
   };
+  pyprosegur = {
+    "0.0.12" = import ./overrides/pyprosegur/0.0.12;
+  };
   pyptlib = {
     "0.0.6" = import ./overrides/pyptlib/0.0.6;
   };
