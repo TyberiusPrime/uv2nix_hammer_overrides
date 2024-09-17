@@ -1,6 +1,9 @@
 BuildInputs = [ "~literal:!:pkgs.cyrus_sasl", "~literal:!:pkgs.openldap.dev", "~literal:!:pkgs.pkg-config",]
 BuildSystems = [ "setuptools",]
 <<<<<<< HEAD
+<<<<<<< HEAD
 DowngradePython = "3.11"
 =======
 >>>>>>> a6c26227db7f070ac9350be02b4e69b96bf608ef
+=======
+>>>>>>> 8abc0807613a5acb92b1ef5783bbb8ce9e7b9248
