@@ -1496,6 +1496,9 @@
   django-chamber = {
     "0.6.17" = import ./overrides/django-chamber/0.6.17;
   };
+  django-codemirror2 = {
+    "0.2" = import ./overrides/django-codemirror2/0.2;
+  };
   django-compat = {
     "1.0.15" = import ./overrides/django-compat/1.0.15;
   };
