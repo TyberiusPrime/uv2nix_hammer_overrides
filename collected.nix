@@ -7734,6 +7734,9 @@
   zbxsend = {
     "0.1.6" = import ./overrides/zbxsend/0.1.6;
   };
+  zcs = {
+    "0.1.25" = import ./overrides/zcs/0.1.25;
+  };
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
