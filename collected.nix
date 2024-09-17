@@ -5514,6 +5514,9 @@
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
+  stratus-api-core = {
+    "0.0.30" = import ./overrides/stratus-api-core/0.0.30;
+  };
   stream2py = {
     "1.0.42" = import ./overrides/stream2py/1.0.42;
   };
