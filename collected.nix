@@ -7146,6 +7146,9 @@
   stripogram = {
     "1.5" = import ./overrides/stripogram/1.5;
   };
+  stubserver = {
+    "1.1" = import ./overrides/stubserver/1.1;
+  };
   stylus = {
     "0.1.2" = import ./overrides/stylus/0.1.2;
   };
