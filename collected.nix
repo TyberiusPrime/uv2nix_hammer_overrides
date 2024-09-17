@@ -577,6 +577,9 @@
   cgroup-utils = {
     "0.8" = import ./overrides/cgroup-utils/0.8;
   };
+  charade = {
+    "1.0.3" = import ./overrides/charade/1.0.3;
+  };
   charlesbot = {
     "0.10.1" = import ./overrides/charlesbot/0.10.1;
   };
