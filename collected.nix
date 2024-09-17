@@ -5486,6 +5486,9 @@
   wiringpi = {
     "2.60.1" = import ./overrides/wiringpi/2.60.1;
   };
+  wit = {
+    "6.0.1" = import ./overrides/wit/6.0.1;
+  };
   withings-sync = {
     "4.2.5" = import ./overrides/withings-sync/4.2.5;
   };
