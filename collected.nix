@@ -6132,6 +6132,9 @@
   withings-sync = {
     "4.2.5" = import ./overrides/withings-sync/4.2.5;
   };
+  word2number = {
+    "1.1" = import ./overrides/word2number/1.1;
+  };
   word2vec = {
     "0.11.1" = import ./overrides/word2vec/0.11.1;
   };
