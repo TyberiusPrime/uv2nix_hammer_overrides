@@ -2003,6 +2003,9 @@
   flask-themes2 = {
     "1.0.1" = import ./overrides/flask-themes2/1.0.1;
   };
+  flask-uploads = {
+    "0.2.1" = import ./overrides/flask-uploads/0.2.1;
+  };
   flask-user = {
     "1.0.2.2" = import ./overrides/flask-user/1.0.2.2;
   };
