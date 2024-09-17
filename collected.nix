@@ -5957,6 +5957,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  ring = {
+    "0.10.1" = import ./overrides/ring/0.10.1;
+  };
   ripozo = {
     "1.3.0" = import ./overrides/ripozo/1.3.0;
   };
