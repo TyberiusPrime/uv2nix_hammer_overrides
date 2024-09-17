@@ -4308,6 +4308,9 @@
   pretrainedmodels = {
     "0.7.4" = import ./overrides/pretrainedmodels/0.7.4;
   };
+  pretty-bad-protocol = {
+    "3.1.1" = import ./overrides/pretty-bad-protocol/3.1.1;
+  };
   pretty-midi = {
     "0.2.10" = import ./overrides/pretty-midi/0.2.10;
   };
