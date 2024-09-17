@@ -5016,6 +5016,9 @@
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
+  sunwatcher = {
+    "0.2.1" = import ./overrides/sunwatcher/0.2.1;
+  };
   sure = {
     "3.0a2" = import ./overrides/sure/3.0a2;
   };
