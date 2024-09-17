@@ -5415,6 +5415,9 @@
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
+  sunburnt = {
+    "0.6" = import ./overrides/sunburnt/0.6;
+  };
   sunwatcher = {
     "0.2.1" = import ./overrides/sunwatcher/0.2.1;
   };
