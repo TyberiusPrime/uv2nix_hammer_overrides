@@ -3303,6 +3303,9 @@
   lac = {
     "2.1.2" = import ./overrides/lac/2.1.2;
   };
+  landez = {
+    "2.5.0" = import ./overrides/landez/2.5.0;
+  };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
