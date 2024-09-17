@@ -4303,6 +4303,9 @@
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
+  omf = {
+    "1.0.1" = import ./overrides/omf/1.0.1;
+  };
   omnijson = {
     "0.1.2" = import ./overrides/omnijson/0.1.2;
   };
