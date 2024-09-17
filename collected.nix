@@ -3068,6 +3068,9 @@
   openerp-process = {
     "7.0.406" = import ./overrides/openerp-process/7.0.406;
   };
+  openerp-resource = {
+    "7.0.406" = import ./overrides/openerp-resource/7.0.406;
+  };
   openerp-web = {
     "7.0.406" = import ./overrides/openerp-web/7.0.406;
   };
