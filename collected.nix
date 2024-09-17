@@ -4466,6 +4466,9 @@
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
+  python-javabridge = {
+    "4.0.4" = import ./overrides/python-javabridge/4.0.4;
+  };
   python-ldap = {
     "3.4.4" = import ./overrides/python-ldap/3.4.4;
   };
