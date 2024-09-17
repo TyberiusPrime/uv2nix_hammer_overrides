@@ -6813,6 +6813,9 @@
   sockjs-tornado = {
     "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
   };
+  socksipy-branch = {
+    "1.1" = import ./overrides/socksipy-branch/1.1;
+  };
   solidpython-ff = {
     "0.1.1" = import ./overrides/solidpython-ff/0.1.1;
   };
