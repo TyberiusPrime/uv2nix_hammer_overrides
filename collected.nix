@@ -4286,6 +4286,9 @@
   pycot = {
     "2.5.0" = import ./overrides/pycot/2.5.0;
   };
+  pycparserext = {
+    "2021.1" = import ./overrides/pycparserext/2021.1;
+  };
   pycron = {
     "3.0.0" = import ./overrides/pycron/3.0.0;
   };
