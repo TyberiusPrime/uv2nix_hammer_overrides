@@ -706,6 +706,9 @@
   caveclient = {
     "5.29.1" = import ./overrides/caveclient/5.29.1;
   };
+  cbor = {
+    "1.0.0" = import ./overrides/cbor/1.0.0;
+  };
   cbpi = {
     "4.0.0.28" = import ./overrides/cbpi/4.0.0.28;
   };
