@@ -5571,6 +5571,9 @@
   pywfa = {
     "0.5.1" = import ./overrides/pywfa/0.5.1;
   };
+  pywinusb = {
+    "0.4.2" = import ./overrides/pywinusb/0.4.2;
+  };
   pyworld = {
     "0.3.4" = import ./overrides/pyworld/0.3.4;
   };
