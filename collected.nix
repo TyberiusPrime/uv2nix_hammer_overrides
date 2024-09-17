@@ -5117,6 +5117,9 @@
   pywfa = {
     "0.5.1" = import ./overrides/pywfa/0.5.1;
   };
+  pyworld = {
+    "0.3.4" = import ./overrides/pyworld/0.3.4;
+  };
   pywurfl = {
     "7.2.1" = import ./overrides/pywurfl/7.2.1;
   };
