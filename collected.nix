@@ -1089,6 +1089,9 @@
   cssmin = {
     "0.2.0" = import ./overrides/cssmin/0.2.0;
   };
+  csv342 = {
+    "1.0.1" = import ./overrides/csv342/1.0.1;
+  };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
