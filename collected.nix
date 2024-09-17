@@ -2336,6 +2336,9 @@
   helium = {
     "5.1.0" = import ./overrides/helium/5.1.0;
   };
+  helper = {
+    "2.5.0" = import ./overrides/helper/2.5.0;
+  };
   helputils = {
     "1.4.38" = import ./overrides/helputils/1.4.38;
   };
