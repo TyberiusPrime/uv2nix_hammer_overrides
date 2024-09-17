@@ -5204,6 +5204,9 @@
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
   };
+  pyschemes = {
+    "1.0.0" = import ./overrides/pyschemes/1.0.0;
+  };
   pyscreeze = {
     "1.0.1" = import ./overrides/pyscreeze/1.0.1;
   };
