@@ -5167,6 +5167,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  ripozo = {
+    "1.3.0" = import ./overrides/ripozo/1.3.0;
+  };
   ritassist = {
     "0.9.3" = import ./overrides/ritassist/0.9.3;
   };
