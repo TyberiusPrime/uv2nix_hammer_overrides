@@ -4775,6 +4775,9 @@
   pyfma = {
     "0.1.6" = import ./overrides/pyfma/0.1.6;
   };
+  pyforge = {
+    "1.3.0" = import ./overrides/pyforge/1.3.0;
+  };
   pyformance = {
     "0.4" = import ./overrides/pyformance/0.4;
   };
