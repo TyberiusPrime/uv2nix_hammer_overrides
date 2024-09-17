@@ -3184,6 +3184,9 @@
   json2html = {
     "1.3.0" = import ./overrides/json2html/1.3.0;
   };
+  jsondate = {
+    "0.1.2" = import ./overrides/jsondate/0.1.2;
+  };
   jsonfeed = {
     "0.0.1" = import ./overrides/jsonfeed/0.0.1;
   };
