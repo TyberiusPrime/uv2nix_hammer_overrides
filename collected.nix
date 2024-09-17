@@ -654,6 +654,9 @@
   cocotb-bus = {
     "0.2.1" = import ./overrides/cocotb-bus/0.2.1;
   };
+  codegen = {
+    "1.0" = import ./overrides/codegen/1.0;
+  };
   codepy = {
     "2023.1" = import ./overrides/codepy/2023.1;
   };
@@ -1736,6 +1739,9 @@
   geobrickscommon = {
     "0.0.9" = import ./overrides/geobrickscommon/0.0.9;
   };
+  geoid = {
+    "1.1.5" = import ./overrides/geoid/1.1.5;
+  };
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
@@ -2485,6 +2491,9 @@
   lino = {
     "24.9.0" = import ./overrides/lino/24.9.0;
   };
+  livestats = {
+    "1.0" = import ./overrides/livestats/1.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
@@ -3220,6 +3229,9 @@
   };
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
+  };
+  petl = {
+    "1.7.15" = import ./overrides/petl/1.7.15;
   };
   petname = {
     "2.6" = import ./overrides/petname/2.6;
