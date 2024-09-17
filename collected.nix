@@ -1992,6 +1992,9 @@
   gnupg = {
     "2.3.1" = import ./overrides/gnupg/2.3.1;
   };
+  golgi = {
+    "2.0.1" = import ./overrides/golgi/2.0.1;
+  };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
