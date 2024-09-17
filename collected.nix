@@ -5846,6 +5846,9 @@
   recurrent = {
     "0.4.1" = import ./overrides/recurrent/0.4.1;
   };
+  red-black-tree-mod = {
+    "1.22" = import ./overrides/red-black-tree-mod/1.22;
+  };
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
