@@ -119,6 +119,9 @@
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
+  anchor-kr = {
+    "0.1.3" = import ./overrides/anchor-kr/0.1.3;
+  };
   android-backup = {
     "0.2.0" = import ./overrides/android-backup/0.2.0;
   };
