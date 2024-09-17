@@ -3440,6 +3440,9 @@
   oidcservice = {
     "1.1.0" = import ./overrides/oidcservice/1.1.0;
   };
+  oktopus = {
+    "0.1.2" = import ./overrides/oktopus/0.1.2;
+  };
   olctools = {
     "1.3.5" = import ./overrides/olctools/1.3.5;
   };
