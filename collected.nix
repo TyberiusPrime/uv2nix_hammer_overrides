@@ -4754,6 +4754,9 @@
   sseclient = {
     "0.0.27" = import ./overrides/sseclient/0.0.27;
   };
+  ssh = {
+    "1.8.0" = import ./overrides/ssh/1.8.0;
+  };
   sslyze = {
     "6.0.0" = import ./overrides/sslyze/6.0.0;
   };
