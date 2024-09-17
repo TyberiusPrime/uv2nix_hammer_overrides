@@ -400,6 +400,9 @@
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
+  billiard = {
+    "3.5.0.5" = import ./overrides/billiard/3.5.0.5;
+  };
   binary2strings = {
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
@@ -1063,6 +1066,12 @@
   django-fernet-fields = {
     "0.6" = import ./overrides/django-fernet-fields/0.6;
   };
+  django-fluent-dashboard = {
+    "0.6.1" = import ./overrides/django-fluent-dashboard/0.6.1;
+  };
+  django-fsm = {
+    "2.3.0" = import ./overrides/django-fsm/2.3.0;
+  };
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
@@ -1095,6 +1104,9 @@
   };
   django-markdown-deux = {
     "1.0.6" = import ./overrides/django-markdown-deux/1.0.6;
+  };
+  django-model-utils = {
+    "3.0.0" = import ./overrides/django-model-utils/3.0.0;
   };
   django-mongoengine = {
     "0.5.6" = import ./overrides/django-mongoengine/0.5.6;
@@ -3359,6 +3371,9 @@
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
+  prettytable = {
+    "0.7.2" = import ./overrides/prettytable/0.7.2;
+  };
   proboscis = {
     "1.2.6.0" = import ./overrides/proboscis/1.2.6.0;
   };
@@ -3412,6 +3427,9 @@
   };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
+  };
+  psycopg2 = {
+    "2.9.9" = import ./overrides/psycopg2/2.9.9;
   };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
@@ -3574,6 +3592,9 @@
   };
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
+  };
+  pycountry = {
+    "1.20" = import ./overrides/pycountry/1.20;
   };
   pycron = {
     "3.0.0" = import ./overrides/pycron/3.0.0;
@@ -4174,6 +4195,9 @@
   };
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
+  };
+  pyvat = {
+    "1.3.18" = import ./overrides/pyvat/1.3.18;
   };
   pyvimeo = {
     "1.1.2" = import ./overrides/pyvimeo/1.1.2;
