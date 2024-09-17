@@ -5379,6 +5379,9 @@
   virtualchain = {
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
+  visdcc = {
+    "0.0.50" = import ./overrides/visdcc/0.0.50;
+  };
   visdom = {
     "0.2.4" = import ./overrides/visdom/0.2.4;
   };
