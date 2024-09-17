@@ -4276,6 +4276,9 @@
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
   };
+  pyquerystring = {
+    "1.1" = import ./overrides/pyquerystring/1.1;
+  };
   pyqwikswitch = {
     "0.94" = import ./overrides/pyqwikswitch/0.94;
   };
