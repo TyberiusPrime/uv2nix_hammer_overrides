@@ -2752,6 +2752,9 @@
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
+  mox = {
+    "0.5.3" = import ./overrides/mox/0.5.3;
+  };
   mozdevice = {
     "4.1.2" = import ./overrides/mozdevice/4.1.2;
   };
