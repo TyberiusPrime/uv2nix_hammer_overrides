@@ -7901,6 +7901,9 @@
   vcversioner = {
     "2.16.0.0" = import ./overrides/vcversioner/2.16.0.0;
   };
+  vdk-core = {
+    "0.3.1424848411" = import ./overrides/vdk-core/0.3.1424848411;
+  };
   vectormath = {
     "0.2.2" = import ./overrides/vectormath/0.2.2;
   };
