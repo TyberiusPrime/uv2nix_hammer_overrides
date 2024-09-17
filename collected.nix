@@ -619,6 +619,9 @@
   bmipy = {
     "2.0.1" = import ./overrides/bmipy/2.0.1;
   };
+  boto3facade = {
+    "0.5.9" = import ./overrides/boto3facade/0.5.9;
+  };
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
@@ -2711,6 +2714,9 @@
   };
   humblewx = {
     "0.2.2" = import ./overrides/humblewx/0.2.2;
+  };
+  humilis = {
+    "1.7.1" = import ./overrides/humilis/1.7.1;
   };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
@@ -4947,6 +4953,9 @@
   pycot = {
     "2.5.0" = import ./overrides/pycot/2.5.0;
   };
+  pycparser = {
+    "2.14" = import ./overrides/pycparser/2.14;
+  };
   pycparserext = {
     "2021.1" = import ./overrides/pycparserext/2021.1;
   };
@@ -6207,6 +6216,9 @@
   };
   s3-pit-restore = {
     "0.9" = import ./overrides/s3-pit-restore/0.9;
+  };
+  s3keyring = {
+    "0.2.4" = import ./overrides/s3keyring/0.2.4;
   };
   sabyenc = {
     "3.3.6" = import ./overrides/sabyenc/3.3.6;
