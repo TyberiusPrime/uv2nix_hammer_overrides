@@ -2716,6 +2716,9 @@
   mocker = {
     "1.1.1" = import ./overrides/mocker/1.1.1;
   };
+  mocket = {
+    "3.12.9" = import ./overrides/mocket/3.12.9;
+  };
   modelcif = {
     "1.0" = import ./overrides/modelcif/1.0;
   };
