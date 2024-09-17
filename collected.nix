@@ -1630,6 +1630,9 @@
   django-social-api = {
     "0.1.1" = import ./overrides/django-social-api/0.1.1;
   };
+  django-social-auth = {
+    "0.7.28" = import ./overrides/django-social-auth/0.7.28;
+  };
   django-sr = {
     "0.0.4" = import ./overrides/django-sr/0.0.4;
   };
