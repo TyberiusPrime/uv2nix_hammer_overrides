@@ -3524,6 +3524,9 @@
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
+  py-dag = {
+    "3.0.1" = import ./overrides/py-dag/3.0.1;
+  };
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
