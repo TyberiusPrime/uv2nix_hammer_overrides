@@ -5321,6 +5321,9 @@
   sphinxcontrib-bayesnet = {
     "0.4" = import ./overrides/sphinxcontrib-bayesnet/0.4;
   };
+  sphinxcontrib-ditaa = {
+    "1.0.2" = import ./overrides/sphinxcontrib-ditaa/1.0.2;
+  };
   sphinxcontrib-fulltoc = {
     "1.2.0" = import ./overrides/sphinxcontrib-fulltoc/1.2.0;
   };
