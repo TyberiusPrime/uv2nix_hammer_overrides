@@ -1615,6 +1615,9 @@
   django-phonenumber-field = {
     "1.3.0" = import ./overrides/django-phonenumber-field/1.3.0;
   };
+  django-piston = {
+    "0.2.3" = import ./overrides/django-piston/0.2.3;
+  };
   django-pragmatic = {
     "5.0.0" = import ./overrides/django-pragmatic/5.0.0;
   };
