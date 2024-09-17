@@ -4793,6 +4793,9 @@
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
+  strategies = {
+    "0.2.3" = import ./overrides/strategies/0.2.3;
+  };
   streaming-form-data = {
     "1.16.0" = import ./overrides/streaming-form-data/1.16.0;
   };
