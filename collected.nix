@@ -3094,6 +3094,9 @@
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
+  multio = {
+    "0.2.5" = import ./overrides/multio/0.2.5;
+  };
   multipartposthandler = {
     "0.1.0" = import ./overrides/multipartposthandler/0.1.0;
   };
