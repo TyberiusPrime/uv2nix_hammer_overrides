@@ -4516,6 +4516,9 @@
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
+  pyechonest = {
+    "9.0.0" = import ./overrides/pyechonest/9.0.0;
+  };
   pyeclib = {
     "1.6.1" = import ./overrides/pyeclib/1.6.1;
   };
