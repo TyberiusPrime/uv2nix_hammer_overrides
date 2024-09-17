@@ -442,6 +442,9 @@
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
+  bolt-python = {
+    "0.7.1" = import ./overrides/bolt-python/0.7.1;
+  };
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
@@ -4961,6 +4964,9 @@
   };
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
+  };
+  thunder-python = {
+    "1.4.2" = import ./overrides/thunder-python/1.4.2;
   };
   tilemapbase = {
     "0.4.7" = import ./overrides/tilemapbase/0.4.7;
