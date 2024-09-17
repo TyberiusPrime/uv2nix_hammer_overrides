@@ -4934,6 +4934,9 @@
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
+  texta-tools = {
+    "2.2.0" = import ./overrides/texta-tools/2.2.0;
+  };
   textbisect = {
     "0.1.0" = import ./overrides/textbisect/0.1.0;
   };
