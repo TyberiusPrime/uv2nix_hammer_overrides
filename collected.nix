@@ -1339,6 +1339,9 @@
   django-el-pagination = {
     "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
   };
+  django-extra-views = {
+    "0.14.0" = import ./overrides/django-extra-views/0.14.0;
+  };
   django-fernet-fields = {
     "0.6" = import ./overrides/django-fernet-fields/0.6;
   };
