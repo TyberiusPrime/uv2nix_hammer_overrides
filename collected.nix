@@ -5520,6 +5520,9 @@
   python-pipedrive = {
     "0.4.0" = import ./overrides/python-pipedrive/0.4.0;
   };
+  python-potr = {
+    "1.0.2" = import ./overrides/python-potr/1.0.2;
+  };
   python-simple-hipchat = {
     "0.4.0" = import ./overrides/python-simple-hipchat/0.4.0;
   };
