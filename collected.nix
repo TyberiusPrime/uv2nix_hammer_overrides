@@ -6470,6 +6470,9 @@
   roundrobin = {
     "0.0.4" = import ./overrides/roundrobin/0.0.4;
   };
+  rova = {
+    "0.4.1" = import ./overrides/rova/0.4.1;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
