@@ -1987,6 +1987,9 @@
   grvlms-openedx = {
     "1.0.6" = import ./overrides/grvlms-openedx/1.0.6;
   };
+  gssapi = {
+    "1.8.3" = import ./overrides/gssapi/1.8.3;
+  };
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
