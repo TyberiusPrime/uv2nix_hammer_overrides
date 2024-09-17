@@ -2128,6 +2128,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  injson = {
+    "0.4.1" = import ./overrides/injson/0.4.1;
+  };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
