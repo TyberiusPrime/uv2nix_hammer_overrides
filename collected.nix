@@ -5045,6 +5045,9 @@
   pyoppleio = {
     "1.0.7" = import ./overrides/pyoppleio/1.0.7;
   };
+  pyorbital = {
+    "1.8.3" = import ./overrides/pyorbital/1.8.3;
+  };
   pyparser = {
     "1.0" = import ./overrides/pyparser/1.0;
   };
@@ -5948,6 +5951,9 @@
   };
   sat-stac = {
     "0.4.1" = import ./overrides/sat-stac/0.4.1;
+  };
+  satpy = {
+    "0.51.0" = import ./overrides/satpy/0.51.0;
   };
   sbtab = {
     "1.0.8" = import ./overrides/sbtab/1.0.8;
