@@ -1904,6 +1904,9 @@
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
+  gexml = {
+    "1.2.0" = import ./overrides/gexml/1.2.0;
+  };
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
@@ -3997,6 +4000,9 @@
   };
   pycosat = {
     "0.6.6" = import ./overrides/pycosat/0.6.6;
+  };
+  pycot = {
+    "2.5.0" = import ./overrides/pycot/2.5.0;
   };
   pycron = {
     "3.0.0" = import ./overrides/pycron/3.0.0;
