@@ -44,6 +44,9 @@
   adict = {
     "0.1.7" = import ./overrides/adict/0.1.7;
   };
+  advancedhtmlparser = {
+    "9.0.2" = import ./overrides/advancedhtmlparser/9.0.2;
+  };
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
@@ -4365,6 +4368,9 @@
   };
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
+  };
+  queryablelist = {
+    "3.1.0" = import ./overrides/queryablelist/3.1.0;
   };
   radian = {
     "0.6.13" = import ./overrides/radian/0.6.13;
