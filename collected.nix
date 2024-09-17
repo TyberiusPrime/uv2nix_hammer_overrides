@@ -319,6 +319,9 @@
   astroplan = {
     "0.9.1" = import ./overrides/astroplan/0.9.1;
   };
+  astropy-helpers = {
+    "4.0.1" = import ./overrides/astropy-helpers/4.0.1;
+  };
   astutils = {
     "0.0.6" = import ./overrides/astutils/0.0.6;
   };
