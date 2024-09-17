@@ -2569,6 +2569,9 @@
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
+  json2html = {
+    "1.3.0" = import ./overrides/json2html/1.3.0;
+  };
   jsonform = {
     "0.0.2" = import ./overrides/jsonform/0.0.2;
   };
