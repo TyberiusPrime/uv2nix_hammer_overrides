@@ -1105,6 +1105,9 @@
   django-jquery-js = {
     "3.1.1" = import ./overrides/django-jquery-js/3.1.1;
   };
+  django-kombu = {
+    "0.9.4" = import ./overrides/django-kombu/0.9.4;
+  };
   django-layers-hr = {
     "1.11.1" = import ./overrides/django-layers-hr/1.11.1;
   };
