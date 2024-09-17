@@ -3132,6 +3132,9 @@
   pactman = {
     "2.31.0" = import ./overrides/pactman/2.31.0;
   };
+  pad4pi = {
+    "1.1.5" = import ./overrides/pad4pi/1.1.5;
+  };
   pager = {
     "3.3" = import ./overrides/pager/3.3;
   };
