@@ -5209,6 +5209,9 @@
   pydoe = {
     "0.3.8" = import ./overrides/pydoe/0.3.8;
   };
+  pydoe2 = {
+    "1.3.0" = import ./overrides/pydoe2/1.3.0;
+  };
   pydotplus = {
     "2.0.2" = import ./overrides/pydotplus/2.0.2;
   };
