@@ -4300,6 +4300,9 @@
   rectpack = {
     "0.2.2" = import ./overrides/rectpack/0.2.2;
   };
+  recurrent = {
+    "0.4.1" = import ./overrides/recurrent/0.4.1;
+  };
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
