@@ -1808,6 +1808,9 @@
   drf-flex-fields = {
     "1.0.2" = import ./overrides/drf-flex-fields/1.0.2;
   };
+  drf-generators = {
+    "0.5.0" = import ./overrides/drf-generators/0.5.0;
+  };
   dsinternals = {
     "1.2.4" = import ./overrides/dsinternals/1.2.4;
   };
