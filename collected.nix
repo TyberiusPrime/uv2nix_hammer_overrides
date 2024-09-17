@@ -4834,6 +4834,9 @@
   queryablelist = {
     "3.1.0" = import ./overrides/queryablelist/3.1.0;
   };
+  quik = {
+    "0.2.2" = import ./overrides/quik/0.2.2;
+  };
   radian = {
     "0.6.13" = import ./overrides/radian/0.6.13;
   };
