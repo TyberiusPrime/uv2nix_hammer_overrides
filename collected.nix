@@ -4603,6 +4603,9 @@
   pyflic = {
     "2.0.4" = import ./overrides/pyflic/2.0.4;
   };
+  pyfma = {
+    "0.1.6" = import ./overrides/pyfma/0.1.6;
+  };
   pyformance = {
     "0.4" = import ./overrides/pyformance/0.4;
   };
