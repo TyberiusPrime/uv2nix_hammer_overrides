@@ -4891,6 +4891,9 @@
   rauth = {
     "0.7.3" = import ./overrides/rauth/0.7.3;
   };
+  rdp = {
+    "0.8" = import ./overrides/rdp/0.8;
+  };
   read-roi = {
     "1.6.0" = import ./overrides/read-roi/1.6.0;
   };
