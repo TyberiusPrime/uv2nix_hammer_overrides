@@ -1,7 +1,11 @@
 {final, pkgs, ...}
         :
             old:
+<<<<<<< HEAD
             let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.krb5] ++ [final.cython final.setuptools];})) (old: old // {
+=======
+            let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.krb5Full] ++ [final.cython final.setuptools];})) (old: old // {
+>>>>>>> c31ba4116cccd7e22212ea50eba0a33c646f8e8d
   #from nixpkgs
   postPatch = ''
     substituteInPlace setup.py \

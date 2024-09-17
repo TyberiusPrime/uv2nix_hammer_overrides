@@ -2680,6 +2680,9 @@
   krakenex = {
     "2.2.2" = import ./overrides/krakenex/2.2.2;
   };
+  krb5 = {
+    "0.6.0" = import ./overrides/krb5/0.6.0;
+  };
   kser = {
     "0.8.25" = import ./overrides/kser/0.8.25;
   };
