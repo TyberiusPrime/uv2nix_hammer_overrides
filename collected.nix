@@ -4188,6 +4188,7 @@
   };
   openml = {
     "0.11.0" = import ./overrides/openml/0.11.0;
+    "0.14.2" = import ./overrides/openml/0.14.2;
   };
   openpaperwork-core = {
     "2.2.5" = import ./overrides/openpaperwork-core/2.2.5;
