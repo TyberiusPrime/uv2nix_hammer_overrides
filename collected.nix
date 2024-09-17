@@ -1444,6 +1444,9 @@
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
+  django-bootstrap-form = {
+    "3.4" = import ./overrides/django-bootstrap-form/3.4;
+  };
   django-bootstrap-toolkit = {
     "2.15.0" = import ./overrides/django-bootstrap-toolkit/2.15.0;
   };
