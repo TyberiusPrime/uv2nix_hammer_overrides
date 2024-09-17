@@ -1372,6 +1372,9 @@
   django-vkontakte-users = {
     "0.8.7" = import ./overrides/django-vkontakte-users/0.8.7;
   };
+  djangoapidec = {
+    "1.8" = import ./overrides/djangoapidec/1.8;
+  };
   djangocodemirror = {
     "2.1.0" = import ./overrides/djangocodemirror/2.1.0;
   };
