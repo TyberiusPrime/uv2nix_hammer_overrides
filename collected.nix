@@ -3582,6 +3582,9 @@
   mosestokenizer = {
     "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
   };
+  mountaintools = {
+    "0.7.1" = import ./overrides/mountaintools/0.7.1;
+  };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
@@ -6120,6 +6123,9 @@
   };
   similaritymeasures = {
     "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
+  };
+  simple-crypt = {
+    "4.1.7" = import ./overrides/simple-crypt/4.1.7;
   };
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
