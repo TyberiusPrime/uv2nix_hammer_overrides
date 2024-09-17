@@ -2740,6 +2740,9 @@
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
   };
+  meteocalc = {
+    "1.1.0" = import ./overrides/meteocalc/1.1.0;
+  };
   mf2util = {
     "0.5.2" = import ./overrides/mf2util/0.5.2;
   };
