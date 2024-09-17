@@ -6283,6 +6283,9 @@
   samsungtvws = {
     "2.6.0" = import ./overrides/samsungtvws/2.6.0;
   };
+  sanction = {
+    "0.4.1" = import ./overrides/sanction/0.4.1;
+  };
   sane-python = {
     "0.1.3" = import ./overrides/sane-python/0.1.3;
   };
