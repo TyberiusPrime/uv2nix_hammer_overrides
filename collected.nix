@@ -2019,6 +2019,9 @@
   epion = {
     "0.0.3" = import ./overrides/epion/0.0.3;
   };
+  epydoc = {
+    "3.0.1" = import ./overrides/epydoc/3.0.1;
+  };
   erlastic = {
     "2.0.0" = import ./overrides/erlastic/2.0.0;
   };
