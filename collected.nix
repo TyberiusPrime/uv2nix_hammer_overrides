@@ -2713,6 +2713,9 @@
   mf2util = {
     "0.5.2" = import ./overrides/mf2util/0.5.2;
   };
+  mgetool = {
+    "0.0.65" = import ./overrides/mgetool/0.0.65;
+  };
   mgzip = {
     "0.2.1" = import ./overrides/mgzip/0.2.1;
   };
