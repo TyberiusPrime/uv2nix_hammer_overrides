@@ -5964,6 +5964,9 @@
   slacker = {
     "0.14.0" = import ./overrides/slacker/0.14.0;
   };
+  slackweb = {
+    "1.0.5" = import ./overrides/slackweb/1.0.5;
+  };
   slimit = {
     "0.8.1" = import ./overrides/slimit/0.8.1;
   };
