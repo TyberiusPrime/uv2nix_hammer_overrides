@@ -2872,6 +2872,9 @@
   mullvad-closest = {
     "0.0.3" = import ./overrides/mullvad-closest/0.0.3;
   };
+  mulpyplexer = {
+    "0.9" = import ./overrides/mulpyplexer/0.9;
+  };
   multi-key-dict = {
     "2.0.3" = import ./overrides/multi-key-dict/2.0.3;
   };
