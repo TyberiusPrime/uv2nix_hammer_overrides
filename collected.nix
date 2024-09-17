@@ -35,6 +35,9 @@
   adapt-parser = {
     "1.0.0" = import ./overrides/adapt-parser/1.0.0;
   };
+  adapter-transformers = {
+    "4.0.0" = import ./overrides/adapter-transformers/4.0.0;
+  };
   addonfactory-splunk-conf-parser-lib = {
     "0.4.3" = import ./overrides/addonfactory-splunk-conf-parser-lib/0.4.3;
   };
