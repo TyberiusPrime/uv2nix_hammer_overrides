@@ -6184,6 +6184,9 @@
   smokesignal = {
     "0.7.0" = import ./overrides/smokesignal/0.7.0;
   };
+  smt = {
+    "2.6.3" = import ./overrides/smt/2.6.3;
+  };
   snakecase = {
     "1.0.1" = import ./overrides/snakecase/1.0.1;
   };
