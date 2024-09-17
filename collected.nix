@@ -5605,6 +5605,9 @@
   urlobject = {
     "2.4.3" = import ./overrides/urlobject/2.4.3;
   };
+  urlopen = {
+    "1.0.0" = import ./overrides/urlopen/1.0.0;
+  };
   urlparse2 = {
     "1.1.1" = import ./overrides/urlparse2/1.1.1;
   };
