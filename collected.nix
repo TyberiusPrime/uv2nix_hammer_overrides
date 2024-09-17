@@ -3013,6 +3013,9 @@
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
+  m3-ui = {
+    "3.0.1.6" = import ./overrides/m3-ui/3.0.1.6;
+  };
   m9s-trytond = {
     "7.0.7" = import ./overrides/m9s-trytond/7.0.7;
   };
