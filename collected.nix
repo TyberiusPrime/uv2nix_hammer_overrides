@@ -7604,6 +7604,9 @@
   umi-tools = {
     "1.1.5" = import ./overrides/umi-tools/1.1.5;
   };
+  uncleengineer = {
+    "0.2" = import ./overrides/uncleengineer/0.2;
+  };
   undetected-chromedriver = {
     "3.5.5" = import ./overrides/undetected-chromedriver/3.5.5;
   };
