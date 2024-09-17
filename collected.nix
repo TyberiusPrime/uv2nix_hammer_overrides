@@ -5462,6 +5462,9 @@
   pyrsistent = {
     "0.17.4rc1" = import ./overrides/pyrsistent/0.17.4rc1;
   };
+  pyrss2gen = {
+    "1.1" = import ./overrides/pyrss2gen/1.1;
+  };
   pysat = {
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
