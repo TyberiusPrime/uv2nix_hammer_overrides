@@ -7299,6 +7299,9 @@
   tinyec = {
     "0.4.0" = import ./overrides/tinyec/0.4.0;
   };
+  tinymongo = {
+    "0.2.0" = import ./overrides/tinymongo/0.2.0;
+  };
   tinynumpy = {
     "1.2.1" = import ./overrides/tinynumpy/1.2.1;
   };
