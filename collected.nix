@@ -496,6 +496,9 @@
   bitmath = {
     "1.3.3.1" = import ./overrides/bitmath/1.3.3.1;
   };
+  bittorrent-bencode = {
+    "5.0.8.1" = import ./overrides/bittorrent-bencode/5.0.8.1;
+  };
   bitvavo-aio = {
     "1.0.3" = import ./overrides/bitvavo-aio/1.0.3;
   };
