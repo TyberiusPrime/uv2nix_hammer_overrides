@@ -1543,6 +1543,9 @@
   fastdtw = {
     "0.3.4" = import ./overrides/fastdtw/0.3.4;
   };
+  fastecdsa = {
+    "2.3.2" = import ./overrides/fastecdsa/2.3.2;
+  };
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
@@ -3043,6 +3046,9 @@
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
+  netstruct = {
+    "1.1.2" = import ./overrides/netstruct/1.1.2;
+  };
   networktools = {
     "1.6.0" = import ./overrides/networktools/1.6.0;
   };
@@ -4104,6 +4110,9 @@
   };
   pysocks = {
     "1.6.8" = import ./overrides/pysocks/1.6.8;
+  };
+  pysodium = {
+    "0.7.18" = import ./overrides/pysodium/0.7.18;
   };
   pysol-cards = {
     "0.16.0" = import ./overrides/pysol-cards/0.16.0;

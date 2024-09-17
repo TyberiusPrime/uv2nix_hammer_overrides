@@ -36,8 +36,8 @@ for chosen in available:
     output = subprocess.check_output(['git', 'status', '--porcelain'], env=env)
     if b'UU' in output:
         print('Conflict exists')
-        subprocess.run(["./dev/collect.py"])
-        subprocess.run(["git", "add", "collected.nix"], env=env)
+        subprocess.check_call(["./dev/collect.py"])
+        subprocess.check_call(["git", "add", "collected.nix"], env=env)
         subprocess.check_call(["git", "merge", "--continue"],
                               env = env)
     shutil.move(chosen, chosen.with_name("imported_" + chosen.name))
