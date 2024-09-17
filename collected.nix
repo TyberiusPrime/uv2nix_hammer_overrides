@@ -1888,6 +1888,9 @@
   gpustat = {
     "1.1.1" = import ./overrides/gpustat/1.1.1;
   };
+  gradient-statsd = {
+    "1.0.1" = import ./overrides/gradient-statsd/1.0.1;
+  };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
   };
