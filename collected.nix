@@ -1868,6 +1868,9 @@
   geoid = {
     "1.1.5" = import ./overrides/geoid/1.1.5;
   };
+  getch = {
+    "1.0" = import ./overrides/getch/1.0;
+  };
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
