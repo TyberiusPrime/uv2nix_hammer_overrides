@@ -2497,6 +2497,9 @@
   geobrickscommon = {
     "0.0.9" = import ./overrides/geobrickscommon/0.0.9;
   };
+  geohash = {
+    "1.0" = import ./overrides/geohash/1.0;
+  };
   geohash2 = {
     "1.1" = import ./overrides/geohash2/1.1;
   };
