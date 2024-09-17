@@ -4142,6 +4142,9 @@
   pwinput = {
     "1.0.3" = import ./overrides/pwinput/1.0.3;
   };
+  pwkit = {
+    "1.2.0" = import ./overrides/pwkit/1.2.0;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
