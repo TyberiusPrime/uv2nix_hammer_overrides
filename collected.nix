@@ -6108,6 +6108,9 @@
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
   };
+  zuper-commons-z5 = {
+    "5.0.11" = import ./overrides/zuper-commons-z5/5.0.11;
+  };
   zuper-commons-z6 = {
     "6.2.4" = import ./overrides/zuper-commons-z6/6.2.4;
   };
