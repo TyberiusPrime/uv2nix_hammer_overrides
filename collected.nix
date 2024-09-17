@@ -3282,6 +3282,9 @@
   orderedset = {
     "2.0.3" = import ./overrides/orderedset/2.0.3;
   };
+  os-tools = {
+    "4.56" = import ./overrides/os-tools/4.56;
+  };
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
   };
