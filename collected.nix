@@ -1733,6 +1733,9 @@
   dsnparse = {
     "0.2.1" = import ./overrides/dsnparse/0.2.1;
   };
+  dtaidistance = {
+    "2.3.12" = import ./overrides/dtaidistance/2.3.12;
+  };
   dtfabric = {
     "20230520" = import ./overrides/dtfabric/20230520;
   };
