@@ -4392,6 +4392,9 @@
   numpy2gif = {
     "1.0" = import ./overrides/numpy2gif/1.0;
   };
+  nutil = {
+    "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
