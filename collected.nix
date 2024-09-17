@@ -6162,6 +6162,9 @@
   pytreebank = {
     "0.2.7" = import ./overrides/pytreebank/0.2.7;
   };
+  pytricia = {
+    "1.0.2" = import ./overrides/pytricia/1.0.2;
+  };
   pytsk3 = {
     "20231007" = import ./overrides/pytsk3/20231007;
   };
