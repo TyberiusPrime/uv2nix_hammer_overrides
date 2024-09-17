@@ -1588,6 +1588,9 @@
   easyutils = {
     "0.1.7" = import ./overrides/easyutils/0.1.7;
   };
+  easywatch = {
+    "0.0.5" = import ./overrides/easywatch/0.0.5;
+  };
   easywebdav = {
     "1.2.0" = import ./overrides/easywebdav/1.2.0;
   };
