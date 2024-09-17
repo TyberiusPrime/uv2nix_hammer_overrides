@@ -3446,6 +3446,9 @@
   pwinput = {
     "1.0.3" = import ./overrides/pwinput/1.0.3;
   };
+  pwlf = {
+    "2.2.1" = import ./overrides/pwlf/2.2.1;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
@@ -3608,6 +3611,9 @@
   };
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
+  };
+  pydoe = {
+    "0.3.8" = import ./overrides/pydoe/0.3.8;
   };
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
