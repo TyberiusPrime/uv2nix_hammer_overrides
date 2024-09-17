@@ -451,6 +451,9 @@
   backport-collections = {
     "0.1" = import ./overrides/backport-collections/0.1;
   };
+  backports-datetime-fromisoformat = {
+    "2.0.1" = import ./overrides/backports-datetime-fromisoformat/2.0.1;
+  };
   backports-lzma = {
     "0.0.14" = import ./overrides/backports-lzma/0.0.14;
   };
