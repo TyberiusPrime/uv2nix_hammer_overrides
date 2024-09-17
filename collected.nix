@@ -3617,6 +3617,9 @@
   mhcnames = {
     "0.4.8" = import ./overrides/mhcnames/0.4.8;
   };
+  mhelper = {
+    "1.0.1.437" = import ./overrides/mhelper/1.0.1.437;
+  };
   miasm = {
     "0.1.5" = import ./overrides/miasm/0.1.5;
   };
@@ -6722,6 +6725,9 @@
   };
   stringcase = {
     "1.2.0" = import ./overrides/stringcase/1.2.0;
+  };
+  stringcoercion = {
+    "0.0.0.35" = import ./overrides/stringcoercion/0.0.0.35;
   };
   stringconvert = {
     "0.3.2" = import ./overrides/stringconvert/0.3.2;
