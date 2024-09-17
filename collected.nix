@@ -503,6 +503,9 @@
   basicsr = {
     "1.4.2" = import ./overrides/basicsr/1.4.2;
   };
+  basicstruct = {
+    "1.0.3" = import ./overrides/basicstruct/1.0.3;
+  };
   basictracer = {
     "3.2.0" = import ./overrides/basictracer/3.2.0;
   };
