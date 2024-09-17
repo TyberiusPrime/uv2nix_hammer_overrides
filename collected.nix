@@ -5955,6 +5955,9 @@
   thermosteam = {
     "0.43.0" = import ./overrides/thermosteam/0.43.0;
   };
+  thespian = {
+    "3.10.7" = import ./overrides/thespian/3.10.7;
+  };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
