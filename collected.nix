@@ -3049,6 +3049,9 @@
   neologdn = {
     "0.5.3" = import ./overrides/neologdn/0.5.3;
   };
+  neotermcolor = {
+    "2.0.10" = import ./overrides/neotermcolor/2.0.10;
+  };
   neotime = {
     "1.7.4" = import ./overrides/neotime/1.7.4;
   };
