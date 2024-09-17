@@ -3927,6 +3927,9 @@
     "1.5.3" = import ./overrides/pandas/1.5.3;
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
+  pandas-ml-common = {
+    "0.2.7" = import ./overrides/pandas-ml-common/0.2.7;
+  };
   pandasql = {
     "0.7.3" = import ./overrides/pandasql/0.7.3;
   };
