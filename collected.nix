@@ -2735,6 +2735,9 @@
   json2html = {
     "1.3.0" = import ./overrides/json2html/1.3.0;
   };
+  jsonfeed = {
+    "0.0.1" = import ./overrides/jsonfeed/0.0.1;
+  };
   jsonform = {
     "0.0.2" = import ./overrides/jsonform/0.0.2;
   };
@@ -4807,6 +4810,9 @@
   };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
+  };
+  pypi-publisher = {
+    "0.0.4" = import ./overrides/pypi-publisher/0.0.4;
   };
   pypif = {
     "2.1.2" = import ./overrides/pypif/2.1.2;
