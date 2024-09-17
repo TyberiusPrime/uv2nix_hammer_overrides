@@ -4116,6 +4116,9 @@
   orderedset = {
     "2.0.3" = import ./overrides/orderedset/2.0.3;
   };
+  orvibo = {
+    "1.1.2" = import ./overrides/orvibo/1.1.2;
+  };
   os-tools = {
     "4.56" = import ./overrides/os-tools/4.56;
   };
