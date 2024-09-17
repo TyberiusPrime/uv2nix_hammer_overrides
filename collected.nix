@@ -1480,6 +1480,9 @@
   django-notification = {
     "1.3.3" = import ./overrides/django-notification/1.3.3;
   };
+  django-notifications-hq = {
+    "1.8.3" = import ./overrides/django-notifications-hq/1.8.3;
+  };
   django-oauth-tokens = {
     "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
   };
