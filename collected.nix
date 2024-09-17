@@ -3632,6 +3632,9 @@
   neovim = {
     "0.3.1" = import ./overrides/neovim/0.3.1;
   };
+  nepalicalendar = {
+    "0.4" = import ./overrides/nepalicalendar/0.4;
+  };
   nested-lookup = {
     "0.2.25" = import ./overrides/nested-lookup/0.2.25;
   };
