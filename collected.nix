@@ -4419,6 +4419,9 @@
   pygooglechart = {
     "0.4.0" = import ./overrides/pygooglechart/0.4.0;
   };
+  pygrok = {
+    "1.0.0" = import ./overrides/pygrok/1.0.0;
+  };
   pyhashxx = {
     "0.1.3" = import ./overrides/pyhashxx/0.1.3;
   };
