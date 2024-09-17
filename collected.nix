@@ -5302,6 +5302,9 @@
   pygeohash = {
     "1.2.0" = import ./overrides/pygeohash/1.2.0;
   };
+  pygeoif = {
+    "0.7" = import ./overrides/pygeoif/0.7;
+  };
   pygerrit2 = {
     "2.0.15" = import ./overrides/pygerrit2/2.0.15;
   };
