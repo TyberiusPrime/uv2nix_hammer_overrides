@@ -4731,6 +4731,9 @@
   prettytable = {
     "0.7.2" = import ./overrides/prettytable/0.7.2;
   };
+  problog = {
+    "2.2.4" = import ./overrides/problog/2.2.4;
+  };
   proboscis = {
     "1.2.6.0" = import ./overrides/proboscis/1.2.6.0;
   };
