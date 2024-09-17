@@ -3151,6 +3151,9 @@
   networktools = {
     "1.6.0" = import ./overrides/networktools/1.6.0;
   };
+  nextcord = {
+    "2.6.0" = import ./overrides/nextcord/2.6.0;
+  };
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
