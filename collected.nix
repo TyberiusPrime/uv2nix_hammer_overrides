@@ -4341,6 +4341,9 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  psychrolib = {
+    "2.5.0" = import ./overrides/psychrolib/2.5.0;
+  };
   psycogreen = {
     "1.0.2" = import ./overrides/psycogreen/1.0.2;
   };
