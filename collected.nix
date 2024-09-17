@@ -5472,6 +5472,9 @@
   python-yubico = {
     "1.3.3" = import ./overrides/python-yubico/1.3.3;
   };
+  python3-indy = {
+    "1.16.0.post286" = import ./overrides/python3-indy/1.16.0.post286;
+  };
   python3-memcached = {
     "1.51" = import ./overrides/python3-memcached/1.51;
   };
