@@ -2533,6 +2533,9 @@
   ingots = {
     "0.2.1" = import ./overrides/ingots/0.2.1;
   };
+  inifile = {
+    "0.4.1" = import ./overrides/inifile/0.4.1;
+  };
   injson = {
     "0.4.1" = import ./overrides/injson/0.4.1;
   };
