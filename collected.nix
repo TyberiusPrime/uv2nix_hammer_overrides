@@ -2737,6 +2737,9 @@
   keopscore = {
     "2.2.3" = import ./overrides/keopscore/2.2.3;
   };
+  keplergl = {
+    "0.3.2" = import ./overrides/keplergl/0.3.2;
+  };
   keras-resnet = {
     "0.2.0" = import ./overrides/keras-resnet/0.2.0;
   };
