@@ -1360,6 +1360,9 @@
   elixir = {
     "0.7.1" = import ./overrides/elixir/0.7.1;
   };
+  ellc = {
+    "1.8.9" = import ./overrides/ellc/1.8.9;
+  };
   emoji = {
     "1.6.3" = import ./overrides/emoji/1.6.3;
   };
