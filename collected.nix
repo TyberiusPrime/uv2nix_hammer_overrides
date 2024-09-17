@@ -4928,6 +4928,9 @@
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
+  pysyncobj = {
+    "0.3.12" = import ./overrides/pysyncobj/0.3.12;
+  };
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
