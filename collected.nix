@@ -7358,6 +7358,9 @@
   tw2-forms = {
     "2.2.6" = import ./overrides/tw2-forms/2.2.6;
   };
+  tw2-jqplugins-ui = {
+    "2.3.0" = import ./overrides/tw2-jqplugins-ui/2.3.0;
+  };
   tw2-jquery = {
     "2.2.0.2" = import ./overrides/tw2-jquery/2.2.0.2;
   };
