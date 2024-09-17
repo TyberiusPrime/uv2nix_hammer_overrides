@@ -855,6 +855,9 @@
   cs-timeutils = {
     "20211208" = import ./overrides/cs-timeutils/20211208;
   };
+  cs-units = {
+    "20220311" = import ./overrides/cs-units/20220311;
+  };
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
