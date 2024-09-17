@@ -7536,6 +7536,9 @@
   torchcsprng = {
     "0.2.1" = import ./overrides/torchcsprng/0.2.1;
   };
+  torchfile = {
+    "0.1.0" = import ./overrides/torchfile/0.1.0;
+  };
   torchnet = {
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
