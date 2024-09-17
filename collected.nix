@@ -6029,6 +6029,9 @@
   python-slugify = {
     "1.2.6" = import ./overrides/python-slugify/1.2.6;
   };
+  python-smpp = {
+    "0.1.9" = import ./overrides/python-smpp/0.1.9;
+  };
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
