@@ -4718,6 +4718,9 @@
   python-firebase = {
     "1.2" = import ./overrides/python-firebase/1.2;
   };
+  python-forecastio = {
+    "1.4.0" = import ./overrides/python-forecastio/1.4.0;
+  };
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
