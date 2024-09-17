@@ -4992,6 +4992,9 @@
   py-ubjson = {
     "0.16.1" = import ./overrides/py-ubjson/0.16.1;
   };
+  py-vapid = {
+    "1.9.1" = import ./overrides/py-vapid/1.9.1;
+  };
   py-vollib = {
     "1.0.1" = import ./overrides/py-vollib/1.0.1;
   };
@@ -6066,6 +6069,9 @@
   };
   pywebio = {
     "1.8.3" = import ./overrides/pywebio/1.8.3;
+  };
+  pywebpush = {
+    "2.0.0" = import ./overrides/pywebpush/2.0.0;
   };
   pywebsocket3 = {
     "4.0.2" = import ./overrides/pywebsocket3/4.0.2;
