@@ -4738,6 +4738,9 @@
   pysftp = {
     "0.2.9" = import ./overrides/pysftp/0.2.9;
   };
+  pyshorteners = {
+    "1.0.1" = import ./overrides/pyshorteners/1.0.1;
+  };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
   };
