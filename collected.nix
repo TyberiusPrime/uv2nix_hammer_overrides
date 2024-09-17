@@ -2467,6 +2467,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  ingots = {
+    "0.2.1" = import ./overrides/ingots/0.2.1;
+  };
   injson = {
     "0.4.1" = import ./overrides/injson/0.4.1;
   };
