@@ -4772,6 +4772,9 @@
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
   };
+  stellar-base-sseclient = {
+    "0.0.21" = import ./overrides/stellar-base-sseclient/0.0.21;
+  };
   stem = {
     "1.8.2" = import ./overrides/stem/1.8.2;
   };
