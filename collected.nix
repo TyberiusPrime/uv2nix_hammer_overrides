@@ -4542,6 +4542,9 @@
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
+  py-bcrypt = {
+    "0.4" = import ./overrides/py-bcrypt/0.4;
+  };
   py-dag = {
     "3.0.1" = import ./overrides/py-dag/3.0.1;
   };
