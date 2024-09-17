@@ -2750,6 +2750,9 @@
   instagramapi = {
     "1.0.2" = import ./overrides/instagramapi/1.0.2;
   };
+  instagrapi = {
+    "2.1.2" = import ./overrides/instagrapi/2.1.2;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
