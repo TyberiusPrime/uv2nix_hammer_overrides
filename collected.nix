@@ -756,6 +756,9 @@
   commontools = {
     "0.1.0" = import ./overrides/commontools/0.1.0;
   };
+  compmake = {
+    "4.0.2" = import ./overrides/compmake/4.0.2;
+  };
   compmake-z6 = {
     "6.1.5" = import ./overrides/compmake-z6/6.1.5;
   };
