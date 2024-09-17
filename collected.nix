@@ -2107,6 +2107,9 @@
   instagramapi = {
     "1.0.2" = import ./overrides/instagramapi/1.0.2;
   };
+  instaloader = {
+    "4.13.1" = import ./overrides/instaloader/4.13.1;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
