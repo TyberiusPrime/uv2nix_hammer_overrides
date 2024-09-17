@@ -334,6 +334,12 @@
   backports-strenum = {
     "1.1.1" = import ./overrides/backports-strenum/1.1.1;
   };
+  bambu-mail = {
+    "3.4" = import ./overrides/bambu-mail/3.4;
+  };
+  bambu-markup = {
+    "3.0" = import ./overrides/bambu-markup/3.0;
+  };
   bar = {
     "0.2.1" = import ./overrides/bar/0.2.1;
   };
