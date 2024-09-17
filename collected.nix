@@ -2992,6 +2992,9 @@
   nose-pattern-exclude = {
     "0.1.3" = import ./overrides/nose-pattern-exclude/0.1.3;
   };
+  nose-timer = {
+    "1.0.1" = import ./overrides/nose-timer/1.0.1;
+  };
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
