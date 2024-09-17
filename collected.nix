@@ -131,6 +131,9 @@
   aldryn-common = {
     "1.0.5" = import ./overrides/aldryn-common/1.0.5;
   };
+  aldryn-reversion = {
+    "1.1.0" = import ./overrides/aldryn-reversion/1.1.0;
+  };
   alembic = {
     "1.6.2" = import ./overrides/alembic/1.6.2;
   };
@@ -1566,6 +1569,9 @@
   };
   django-rest-framework-mongoengine = {
     "3.4.1" = import ./overrides/django-rest-framework-mongoengine/3.4.1;
+  };
+  django-reversion = {
+    "1.10.2" = import ./overrides/django-reversion/1.10.2;
   };
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
