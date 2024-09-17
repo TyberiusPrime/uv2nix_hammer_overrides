@@ -1552,6 +1552,9 @@
   django-phonenumber-field = {
     "1.3.0" = import ./overrides/django-phonenumber-field/1.3.0;
   };
+  django-pragmatic = {
+    "5.0.0" = import ./overrides/django-pragmatic/5.0.0;
+  };
   django-preferences = {
     "1.0.0" = import ./overrides/django-preferences/1.0.0;
   };
@@ -5676,6 +5679,9 @@
   };
   python-potr = {
     "1.0.2" = import ./overrides/python-potr/1.0.2;
+  };
+  python-pragmatic = {
+    "1.0.0" = import ./overrides/python-pragmatic/1.0.0;
   };
   python-qpid-proton = {
     "0.39.0" = import ./overrides/python-qpid-proton/0.39.0;
