@@ -397,6 +397,9 @@
   awscli-cwlogs = {
     "1.4.6" = import ./overrides/awscli-cwlogs/1.4.6;
   };
+  awscli-local = {
+    "0.22.0" = import ./overrides/awscli-local/0.22.0;
+  };
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
   };
@@ -3303,6 +3306,7 @@
   };
   localstack-client = {
     "2.5" = import ./overrides/localstack-client/2.5;
+    "2.6" = import ./overrides/localstack-client/2.6;
   };
   localstack-ext = {
     "3.7.2" = import ./overrides/localstack-ext/3.7.2;
