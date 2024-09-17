@@ -4420,6 +4420,9 @@
   pyrepl = {
     "0.9.0" = import ./overrides/pyrepl/0.9.0;
   };
+  pyrepresent = {
+    "0.4.0" = import ./overrides/pyrepresent/0.4.0;
+  };
   pyres = {
     "1.5" = import ./overrides/pyres/1.5;
   };
