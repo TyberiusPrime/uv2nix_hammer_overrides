@@ -3473,6 +3473,9 @@
   leveldb = {
     "0.201" = import ./overrides/leveldb/0.201;
   };
+  lexicalrichness = {
+    "0.5.1" = import ./overrides/lexicalrichness/0.5.1;
+  };
   li-pagador = {
     "0.0.0.1" = import ./overrides/li-pagador/0.0.0.1;
   };
