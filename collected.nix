@@ -3506,6 +3506,9 @@
   mocker = {
     "1.1.1" = import ./overrides/mocker/1.1.1;
   };
+  mocket = {
+    "3.12.9" = import ./overrides/mocket/3.12.9;
+  };
   modelcatalog-api = {
     "8.0.0" = import ./overrides/modelcatalog-api/8.0.0;
   };
