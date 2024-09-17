@@ -2746,6 +2746,9 @@
   julian = {
     "0.14" = import ./overrides/julian/0.14;
   };
+  julius = {
+    "0.2.7" = import ./overrides/julius/0.2.7;
+  };
   jupyter-contrib-core = {
     "0.4.2" = import ./overrides/jupyter-contrib-core/0.4.2;
   };
