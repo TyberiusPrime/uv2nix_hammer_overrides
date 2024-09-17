@@ -4781,6 +4781,9 @@
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
+  stookalert = {
+    "0.1.4" = import ./overrides/stookalert/0.1.4;
+  };
   stopit = {
     "1.1.2" = import ./overrides/stopit/1.1.2;
   };
