@@ -2008,6 +2008,9 @@
   hyperdash = {
     "0.15.3" = import ./overrides/hyperdash/0.15.3;
   };
+  hyperloglog = {
+    "0.0.14" = import ./overrides/hyperloglog/0.0.14;
+  };
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
   };
