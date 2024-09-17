@@ -5907,6 +5907,9 @@
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
+  tdqm = {
+    "0.0.1" = import ./overrides/tdqm/0.0.1;
+  };
   technicolor = {
     "2017.1.16.1544" = import ./overrides/technicolor/2017.1.16.1544;
   };
