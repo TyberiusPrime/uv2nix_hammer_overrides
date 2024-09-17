@@ -2542,6 +2542,9 @@
   jams = {
     "0.3.4" = import ./overrides/jams/0.3.4;
   };
+  janex = {
+    "0.0.80" = import ./overrides/janex/0.0.80;
+  };
   jaxlinop = {
     "0.0.3" = import ./overrides/jaxlinop/0.0.3;
   };
