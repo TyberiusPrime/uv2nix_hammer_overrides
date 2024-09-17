@@ -617,6 +617,9 @@
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
     "2.20.0" = import ./overrides/cloudflare/2.20.0;
   };
+  cloudify-common = {
+    "7.0.4" = import ./overrides/cloudify-common/7.0.4;
+  };
   cloudshell-automation-api = {
     "8.3.0.168355" = import ./overrides/cloudshell-automation-api/8.3.0.168355;
   };
@@ -5498,6 +5501,9 @@
   };
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
+  };
+  wagon = {
+    "1.0.1" = import ./overrides/wagon/1.0.1;
   };
   wallet-py3k = {
     "0.0.4" = import ./overrides/wallet-py3k/0.0.4;
