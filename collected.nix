@@ -1780,6 +1780,9 @@
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
+  dlib = {
+    "19.24.6" = import ./overrides/dlib/19.24.6;
+  };
   dlx = {
     "1.0.4" = import ./overrides/dlx/1.0.4;
   };
