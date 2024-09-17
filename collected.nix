@@ -924,6 +924,9 @@
   customerio = {
     "2.1" = import ./overrides/customerio/2.1;
   };
+  cvargparse = {
+    "0.5.4" = import ./overrides/cvargparse/0.5.4;
+  };
   cykhash = {
     "2.0.1" = import ./overrides/cykhash/2.0.1;
   };
