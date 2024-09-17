@@ -4013,6 +4013,9 @@
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
+  multiprocessing-on-dill = {
+    "3.5.0a4" = import ./overrides/multiprocessing-on-dill/3.5.0a4;
+  };
   multiurl = {
     "0.3.1" = import ./overrides/multiurl/0.3.1;
   };
