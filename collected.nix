@@ -7283,6 +7283,9 @@
   withings-sync = {
     "4.2.5" = import ./overrides/withings-sync/4.2.5;
   };
+  wmd = {
+    "1.3.2" = import ./overrides/wmd/1.3.2;
+  };
   wolframclient = {
     "1.4.0" = import ./overrides/wolframclient/1.4.0;
   };
