@@ -1624,6 +1624,9 @@
   djangorestframework-jsonschema = {
     "0.1.1" = import ./overrides/djangorestframework-jsonschema/0.1.1;
   };
+  djangotoolbox = {
+    "1.8.0" = import ./overrides/djangotoolbox/1.8.0;
+  };
   djorm-ext-core = {
     "0.7" = import ./overrides/djorm-ext-core/0.7;
   };
