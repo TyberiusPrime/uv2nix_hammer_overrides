@@ -2990,6 +2990,9 @@
   libfsntfs-python = {
     "20240501" = import ./overrides/libfsntfs-python/20240501;
   };
+  libknot = {
+    "3.4.0" = import ./overrides/libknot/3.4.0;
+  };
   libmagic = {
     "1.0" = import ./overrides/libmagic/1.0;
   };
