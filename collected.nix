@@ -7048,6 +7048,9 @@
   testgear-api-client = {
     "3.2.0" = import ./overrides/testgear-api-client/3.2.0;
   };
+  testit-api-client = {
+    "4.0.0" = import ./overrides/testit-api-client/4.0.0;
+  };
   text-to-image = {
     "0.0.5" = import ./overrides/text-to-image/0.0.5;
   };
