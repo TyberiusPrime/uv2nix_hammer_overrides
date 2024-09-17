@@ -5269,6 +5269,9 @@
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
   };
+  sdkmanager = {
+    "0.6.8" = import ./overrides/sdkmanager/0.6.8;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
