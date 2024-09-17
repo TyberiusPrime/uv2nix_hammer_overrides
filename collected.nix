@@ -693,6 +693,9 @@
   cocotb-bus = {
     "0.2.1" = import ./overrides/cocotb-bus/0.2.1;
   };
+  codeclimate-test-reporter = {
+    "0.2.3" = import ./overrides/codeclimate-test-reporter/0.2.3;
+  };
   codepy = {
     "2023.1" = import ./overrides/codepy/2023.1;
   };
