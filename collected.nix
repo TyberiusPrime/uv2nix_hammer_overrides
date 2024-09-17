@@ -6385,6 +6385,9 @@
   scrapeasy = {
     "0.12" = import ./overrides/scrapeasy/0.12;
   };
+  screed = {
+    "1.1.3" = import ./overrides/screed/1.1.3;
+  };
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
   };
