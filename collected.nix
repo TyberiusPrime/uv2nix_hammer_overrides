@@ -3268,6 +3268,9 @@
   libmr = {
     "0.1.9" = import ./overrides/libmr/0.1.9;
   };
+  libpurecool = {
+    "0.6.4" = import ./overrides/libpurecool/0.6.4;
+  };
   librato-metrics = {
     "3.1.0" = import ./overrides/librato-metrics/3.1.0;
   };
