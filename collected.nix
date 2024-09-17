@@ -3338,6 +3338,9 @@
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
+  polling = {
+    "0.3.2" = import ./overrides/polling/0.3.2;
+  };
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
