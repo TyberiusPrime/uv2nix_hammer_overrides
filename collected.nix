@@ -2269,6 +2269,12 @@
   julian = {
     "0.14" = import ./overrides/julian/0.14;
   };
+  jupyter-contrib-core = {
+    "0.4.2" = import ./overrides/jupyter-contrib-core/0.4.2;
+  };
+  jupyter-contrib-nbextensions = {
+    "0.7.0" = import ./overrides/jupyter-contrib-nbextensions/0.7.0;
+  };
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
