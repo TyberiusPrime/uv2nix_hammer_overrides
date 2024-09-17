@@ -927,6 +927,9 @@
   cssmin = {
     "0.2.0" = import ./overrides/cssmin/0.2.0;
   };
+  cuid = {
+    "0.4" = import ./overrides/cuid/0.4;
+  };
   curio = {
     "1.6" = import ./overrides/curio/1.6;
   };
