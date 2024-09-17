@@ -1802,6 +1802,9 @@
   doctest-ignore-unicode = {
     "0.1.2" = import ./overrides/doctest-ignore-unicode/0.1.2;
   };
+  document = {
+    "1.0" = import ./overrides/document/1.0;
+  };
   docx = {
     "0.2.4" = import ./overrides/docx/0.2.4;
   };
