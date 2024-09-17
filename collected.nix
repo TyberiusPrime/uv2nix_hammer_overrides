@@ -4762,6 +4762,9 @@
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
+  self = {
+    "2020.12.3" = import ./overrides/self/2020.12.3;
+  };
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };

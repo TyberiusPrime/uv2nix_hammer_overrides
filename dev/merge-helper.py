@@ -28,11 +28,18 @@ if not available:
 
 commited_any = False
 
+last_failed = False
 for chosen in available:
     print(chosen)
     env = os.environ.copy()
     env['EDITOR'] = 'true'
-    subprocess.check_call(["git", "pull", chosen / "overrides", "--no-rebase"], env=env)
+    p = subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase"], env=env)
+    if p.returncode != 0:
+        if last_failed:
+            raise ValueError("Two pull errors in a row")
+        last_failed = True
+    else:
+        last_failed = False
     output = subprocess.check_output(['git', 'status', '--porcelain'], env=env)
     if b'UU' in output:
         print('Conflict exists')
