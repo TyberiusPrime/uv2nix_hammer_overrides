@@ -4145,6 +4145,9 @@
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
+  pytricia = {
+    "1.0.2" = import ./overrides/pytricia/1.0.2;
+  };
   pytsk3 = {
     "20231007" = import ./overrides/pytsk3/20231007;
   };
