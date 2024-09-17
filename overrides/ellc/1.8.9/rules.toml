@@ -1,0 +1,3 @@
+BuildSystems = [ "setuptools",]
+DowngradeNumpy = "<1.22"
+NativeBuildInputs = [ "~literal:!:pkgs.gfortran",]

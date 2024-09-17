@@ -1531,6 +1531,9 @@
   elixir = {
     "0.7.1" = import ./overrides/elixir/0.7.1;
   };
+  ellc = {
+    "1.8.9" = import ./overrides/ellc/1.8.9;
+  };
   embit = {
     "0.8.0" = import ./overrides/embit/0.8.0;
   };
