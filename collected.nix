@@ -3419,6 +3419,9 @@
   loopy = {
     "2024.1" = import ./overrides/loopy/2024.1;
   };
+  loremipsum = {
+    "1.0.5" = import ./overrides/loremipsum/1.0.5;
+  };
   lottie = {
     "0.7.0" = import ./overrides/lottie/0.7.0;
   };
