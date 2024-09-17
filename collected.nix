@@ -1000,6 +1000,9 @@
   diversipy = {
     "0.9" = import ./overrides/diversipy/0.9;
   };
+  dj-search-url = {
+    "0.1" = import ./overrides/dj-search-url/0.1;
+  };
   dj-static = {
     "0.0.6" = import ./overrides/dj-static/0.0.6;
   };
