@@ -2378,6 +2378,9 @@
   gpyopt = {
     "1.2.6" = import ./overrides/gpyopt/1.2.6;
   };
+  gql = {
+    "3.0.0a6" = import ./overrides/gql/3.0.0a6;
+  };
   gradient-statsd = {
     "1.0.1" = import ./overrides/gradient-statsd/1.0.1;
   };
