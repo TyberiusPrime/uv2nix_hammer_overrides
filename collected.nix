@@ -394,6 +394,9 @@
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
   };
+  backpack = {
+    "0.1" = import ./overrides/backpack/0.1;
+  };
   backport-collections = {
     "0.1" = import ./overrides/backport-collections/0.1;
   };
@@ -4138,6 +4141,7 @@
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
   pendulum = {
+    "1.5.1" = import ./overrides/pendulum/1.5.1;
     "2.1.2" = import ./overrides/pendulum/2.1.2;
   };
   pep3143daemon = {
@@ -6765,6 +6769,9 @@
   };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
+  };
+  tzlocal = {
+    "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
