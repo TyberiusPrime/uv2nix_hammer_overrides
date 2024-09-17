@@ -894,6 +894,9 @@
   commandparse = {
     "1.1.2" = import ./overrides/commandparse/1.1.2;
   };
+  commentjson = {
+    "0.9.0" = import ./overrides/commentjson/0.9.0;
+  };
   commontools = {
     "0.1.0" = import ./overrides/commontools/0.1.0;
   };
@@ -3039,6 +3042,7 @@
     "1.3.27" = import ./overrides/lapjv/1.3.27;
   };
   lark-parser = {
+    "0.7.8" = import ./overrides/lark-parser/0.7.8;
     "0.9.0" = import ./overrides/lark-parser/0.9.0;
   };
   latex = {
