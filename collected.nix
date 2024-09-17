@@ -5017,6 +5017,9 @@
   serafin = {
     "0.12.2" = import ./overrides/serafin/0.12.2;
   };
+  serial-device2 = {
+    "2.0.2" = import ./overrides/serial-device2/2.0.2;
+  };
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
   };
