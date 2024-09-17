@@ -2003,6 +2003,9 @@
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
+  flask-registry = {
+    "0.2.0" = import ./overrides/flask-registry/0.2.0;
+  };
   flask-restful-swagger = {
     "0.20.2" = import ./overrides/flask-restful-swagger/0.20.2;
   };
