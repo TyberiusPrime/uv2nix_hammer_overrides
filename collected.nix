@@ -5245,6 +5245,9 @@
   timeloop = {
     "1.0.2" = import ./overrides/timeloop/1.0.2;
   };
+  timestring = {
+    "1.6.4" = import ./overrides/timestring/1.6.4;
+  };
   tinycss = {
     "0.4" = import ./overrides/tinycss/0.4;
   };
