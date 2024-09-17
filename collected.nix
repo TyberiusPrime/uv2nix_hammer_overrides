@@ -3968,6 +3968,9 @@
   ndms2-client = {
     "0.1.3" = import ./overrides/ndms2-client/0.1.3;
   };
+  negspacy = {
+    "1.0.4" = import ./overrides/negspacy/1.0.4;
+  };
   neo4j = {
     "5.19.0" = import ./overrides/neo4j/5.19.0;
   };
