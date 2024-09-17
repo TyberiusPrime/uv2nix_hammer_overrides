@@ -4229,6 +4229,9 @@
   pwkit = {
     "1.2.0" = import ./overrides/pwkit/1.2.0;
   };
+  pwndbg = {
+    "0.1.1" = import ./overrides/pwndbg/0.1.1;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
