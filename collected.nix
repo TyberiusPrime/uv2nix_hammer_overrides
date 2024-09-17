@@ -6798,6 +6798,9 @@
   sly = {
     "0.4" = import ./overrides/sly/0.4;
   };
+  smbus = {
+    "1.1.post2" = import ./overrides/smbus/1.1.post2;
+  };
   smbus-cffi = {
     "0.5.1" = import ./overrides/smbus-cffi/0.5.1;
   };
