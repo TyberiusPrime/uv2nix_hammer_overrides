@@ -1991,6 +1991,9 @@
   fleep = {
     "1.0.1" = import ./overrides/fleep/1.0.1;
   };
+  flex = {
+    "6.14.1" = import ./overrides/flex/6.14.1;
+  };
   flexsolve = {
     "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
