@@ -583,6 +583,9 @@
   btest = {
     "1.1" = import ./overrides/btest/1.1;
   };
+  btlewrap = {
+    "0.1.1" = import ./overrides/btlewrap/0.1.1;
+  };
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
