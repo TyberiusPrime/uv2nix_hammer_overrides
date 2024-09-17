@@ -5615,6 +5615,9 @@
   zipstream = {
     "1.1.4" = import ./overrides/zipstream/1.1.4;
   };
+  zk = {
+    "0.8.5" = import ./overrides/zk/0.8.5;
+  };
   zuper-commons-z6 = {
     "6.2.4" = import ./overrides/zuper-commons-z6/6.2.4;
   };
