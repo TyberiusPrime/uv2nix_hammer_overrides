@@ -5738,6 +5738,9 @@
   s-gd2 = {
     "1.8.1" = import ./overrides/s-gd2/1.8.1;
   };
+  s3-pit-restore = {
+    "0.9" = import ./overrides/s3-pit-restore/0.9;
+  };
   sabyenc = {
     "3.3.6" = import ./overrides/sabyenc/3.3.6;
   };
