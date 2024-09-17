@@ -2612,6 +2612,9 @@
   gripcontrol = {
     "4.2.0" = import ./overrides/gripcontrol/4.2.0;
   };
+  groestlcoin-hash = {
+    "1.0.3" = import ./overrides/groestlcoin-hash/1.0.3;
+  };
   grpc-google-logging-v2 = {
     "0.11.1" = import ./overrides/grpc-google-logging-v2/0.11.1;
   };
