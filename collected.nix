@@ -5367,6 +5367,9 @@
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
+  vincent = {
+    "0.4.4" = import ./overrides/vincent/0.4.4;
+  };
   vincenty = {
     "0.1.4" = import ./overrides/vincenty/0.1.4;
   };
