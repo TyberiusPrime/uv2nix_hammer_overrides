@@ -4807,6 +4807,9 @@
   plaid-python = {
     "25.0.0" = import ./overrides/plaid-python/25.0.0;
   };
+  plant = {
+    "0.1.3" = import ./overrides/plant/0.1.3;
+  };
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
