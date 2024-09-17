@@ -1823,6 +1823,9 @@
   geohash2 = {
     "1.1" = import ./overrides/geohash2/1.1;
   };
+  geoid = {
+    "1.1.5" = import ./overrides/geoid/1.1.5;
+  };
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
