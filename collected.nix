@@ -2962,6 +2962,9 @@
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
+  nose-cov = {
+    "1.6" = import ./overrides/nose-cov/1.6;
+  };
   nose-cprof = {
     "0.2.1" = import ./overrides/nose-cprof/0.2.1;
   };
