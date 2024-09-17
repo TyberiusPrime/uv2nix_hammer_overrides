@@ -1960,6 +1960,9 @@
   htools = {
     "7.7.0" = import ./overrides/htools/7.7.0;
   };
+  http-ece = {
+    "1.2.1" = import ./overrides/http-ece/1.2.1;
+  };
   http-parser = {
     "0.9.0" = import ./overrides/http-parser/0.9.0;
   };
@@ -3464,6 +3467,9 @@
   py-ubjson = {
     "0.16.1" = import ./overrides/py-ubjson/0.16.1;
   };
+  py-vapid = {
+    "1.9.1" = import ./overrides/py-vapid/1.9.1;
+  };
   py-vollib = {
     "1.0.1" = import ./overrides/py-vollib/1.0.1;
   };
@@ -4195,6 +4201,9 @@
   };
   pywatchman = {
     "2.0.0" = import ./overrides/pywatchman/2.0.0;
+  };
+  pywebpush = {
+    "2.0.0" = import ./overrides/pywebpush/2.0.0;
   };
   pywurfl = {
     "7.2.1" = import ./overrides/pywurfl/7.2.1;
