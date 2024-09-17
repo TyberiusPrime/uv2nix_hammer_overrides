@@ -3833,6 +3833,9 @@
   pubcontrol = {
     "3.5.0" = import ./overrides/pubcontrol/3.5.0;
   };
+  public = {
+    "2020.12.3" = import ./overrides/public/2020.12.3;
+  };
   publicsuffix = {
     "1.1.1" = import ./overrides/publicsuffix/1.1.1;
   };
