@@ -5585,6 +5585,9 @@
   yaswfp = {
     "0.9.3" = import ./overrides/yaswfp/0.9.3;
   };
+  yattag = {
+    "1.16.0" = import ./overrides/yattag/1.16.0;
+  };
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
   };
