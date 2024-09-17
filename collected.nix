@@ -6378,6 +6378,9 @@
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
+  simplenote = {
+    "2.1.4" = import ./overrides/simplenote/2.1.4;
+  };
   simplepam = {
     "0.1.5" = import ./overrides/simplepam/0.1.5;
   };
