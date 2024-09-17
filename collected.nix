@@ -2488,6 +2488,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  llvmlite = {
+    "0.36.0" = import ./overrides/llvmlite/0.36.0;
+  };
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
@@ -2981,6 +2984,7 @@
     "0.1.1" = import ./overrides/npm/0.1.1;
   };
   numba = {
+    "0.53.1" = import ./overrides/numba/0.53.1;
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
