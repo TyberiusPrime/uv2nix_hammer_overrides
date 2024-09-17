@@ -3340,6 +3340,9 @@
   mutf8 = {
     "1.0.6" = import ./overrides/mutf8/1.0.6;
   };
+  mutmut = {
+    "2.5.1" = import ./overrides/mutmut/2.5.1;
+  };
   mypy-extensions = {
     "0.4.4" = import ./overrides/mypy-extensions/0.4.4;
   };
