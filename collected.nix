@@ -2787,6 +2787,9 @@
   howdoi = {
     "2.0.20" = import ./overrides/howdoi/2.0.20;
   };
+  hpbandster = {
+    "0.7.4" = import ./overrides/hpbandster/0.7.4;
+  };
   hrpc = {
     "1.0.9" = import ./overrides/hrpc/1.0.9;
   };
