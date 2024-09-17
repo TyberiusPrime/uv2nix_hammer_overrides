@@ -5920,6 +5920,9 @@
   pytransform3d = {
     "3.6.0" = import ./overrides/pytransform3d/3.6.0;
   };
+  pytreebank = {
+    "0.2.7" = import ./overrides/pytreebank/0.2.7;
+  };
   pytsk3 = {
     "20231007" = import ./overrides/pytsk3/20231007;
   };
