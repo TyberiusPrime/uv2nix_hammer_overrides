@@ -2513,6 +2513,9 @@
   humanize = {
     "0.5.1" = import ./overrides/humanize/0.5.1;
   };
+  humblewx = {
+    "0.2.2" = import ./overrides/humblewx/0.2.2;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
