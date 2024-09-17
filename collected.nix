@@ -316,6 +316,9 @@
   avro = {
     "1.11.3" = import ./overrides/avro/1.11.3;
   };
+  awesome-slugify = {
+    "1.6.5" = import ./overrides/awesome-slugify/1.6.5;
+  };
   aws-cdk-constructs = {
     "2.32.0.post0" = import ./overrides/aws-cdk-constructs/2.32.0.post0;
   };
@@ -1775,6 +1778,9 @@
   };
   globre = {
     "0.1.5" = import ./overrides/globre/0.1.5;
+  };
+  globster = {
+    "0.1.0" = import ./overrides/globster/0.1.0;
   };
   gluonnlp = {
     "0.10.0" = import ./overrides/gluonnlp/0.10.0;
