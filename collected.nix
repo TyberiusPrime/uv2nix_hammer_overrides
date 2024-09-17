@@ -7859,6 +7859,9 @@
   wheezy-template = {
     "3.2.2" = import ./overrides/wheezy-template/3.2.2;
   };
+  whisper = {
+    "1.1.10" = import ./overrides/whisper/1.1.10;
+  };
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
