@@ -6243,6 +6243,9 @@
   xxh = {
     "0.1.2" = import ./overrides/xxh/0.1.2;
   };
+  yahoofinancials = {
+    "1.20" = import ./overrides/yahoofinancials/1.20;
+  };
   yahooweather = {
     "0.10" = import ./overrides/yahooweather/0.10;
   };
