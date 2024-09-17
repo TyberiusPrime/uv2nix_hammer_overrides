@@ -3932,6 +3932,9 @@
   mosestokenizer = {
     "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
   };
+  motuclient = {
+    "3.0.0" = import ./overrides/motuclient/3.0.0;
+  };
   mountaintools = {
     "0.7.1" = import ./overrides/mountaintools/0.7.1;
   };
