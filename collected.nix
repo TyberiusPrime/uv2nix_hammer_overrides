@@ -720,6 +720,9 @@
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
   };
+  connection-pool = {
+    "0.0.3" = import ./overrides/connection-pool/0.0.3;
+  };
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
@@ -911,6 +914,9 @@
   };
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
+  };
+  datrie = {
+    "0.8.2" = import ./overrides/datrie/0.8.2;
   };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
