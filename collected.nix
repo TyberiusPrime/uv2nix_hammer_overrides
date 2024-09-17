@@ -424,6 +424,12 @@
   backports-zoneinfo = {
     "0.2.1" = import ./overrides/backports-zoneinfo/0.2.1;
   };
+  bambu-mail = {
+    "3.4" = import ./overrides/bambu-mail/3.4;
+  };
+  bambu-markup = {
+    "3.0" = import ./overrides/bambu-markup/3.0;
+  };
   bap = {
     "1.3.1" = import ./overrides/bap/1.3.1;
   };
