@@ -4297,6 +4297,9 @@
   reconfigure = {
     "0.1.82" = import ./overrides/reconfigure/0.1.82;
   };
+  recordclass = {
+    "0.22.1" = import ./overrides/recordclass/0.22.1;
+  };
   rectpack = {
     "0.2.2" = import ./overrides/rectpack/0.2.2;
   };
