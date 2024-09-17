@@ -34,7 +34,7 @@ imported_done = set(
     [
         normalize_python_package_name(x.name.split("_")[3])
         for x in Path(".").glob("imported_hammer_build*")
-        if (x / "build" / "result").is_symlink()
+        if (x / "build" / "result").exists() or (x / "build" / "result").is_symlink()
     ]
 )
 attempted = [
@@ -44,17 +44,29 @@ attempted = [
 ]
 attempted = set([normalize_python_package_name(x.split("_")[2]) for x in attempted])
 
-total = len(all_pkgs)
-count = 0
+order = sorted(all_pkgs)
+random.shuffle(order)
 
 keep_going = "--keep-going" in sys.argv
+todo = set([normalize_python_package_name(x) for x in all_pkgs])
+todo = todo.difference(done)
+todo = todo.difference(imported_done)
+todo = todo.difference(set(excluded_pkgs.keys()))
+if keep_going:
+    todo = todo.difference(attempted)
 
-while True:
-    chosen = random.choice(all_pkgs)
+total = len(all_pkgs)
+accounted = len(all_pkgs) - len(todo)
+print("accounted", accounted, "out of", total)
+
+
+count = 0
+for chosen in order:
+    if chosen not in todo or normalize_python_package_name(chosen) not in todo:
+        continue
     chosen = normalize_python_package_name(chosen)
     count += 1
-    if count > total:
-        break
+    print(count, "/", len(todo))
     if (Path("overrides") / chosen).exists():
         print("skipping", chosen)
         continue
@@ -74,12 +86,22 @@ while True:
         print("Aborting because of prev. attempt", chosen)
         sys.exit()
     cmd = ["uv2nix-hammer", "--wheel", chosen]
-    print("executing", " ".join(cmd), "(count", count, "of", total, ")")
-    p = subprocess.Popen(cmd, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
-    stdout, stderr = p.communicate()
-    stderr = stderr.decode()
+    print("executing", " ".join(cmd))
+    p = subprocess.Popen(
+        cmd,
+        stderr=subprocess.PIPE,
+        stdout=subprocess.PIPE,
+    )
+    try:
+        stdout, stderr = p.communicate(timeout=600)
+        stderr = stderr.decode()
+    except:
+        stderr = "timout"
+        p = subprocess.run(["false"])
     msg = None
     if p.returncode != 0:
+        if 'timeout' in stderr:
+            msg = "timeout"
         if "No non-pre release found" in stderr:
             msg == "Automatic: no (non-pre) release found"
 
@@ -87,7 +109,7 @@ while True:
             msg = "Automatic: no releases available"
         if "has no wheels with a matching Python ABI" in stderr:
             msg = "Automatic: no wheels for this ABI (and no source). Possibly we misidentified the supported python version"
-        if "NeedsExclusion" in stderr:
+        if "NeedsExclusion: " in stderr:
             reason = stderr.rsplit("NeedsExclusion: ", 1)[1].strip().split("\n")[0]
             msg = f"Automatic: {reason}"
         if "Missing parentheses in call to 'print'." in stderr:
@@ -101,12 +123,18 @@ while True:
             and "'['uv', 'lock'," in stderr
         ):
             msg = "Automatic: uv failure, required imp."
+        if 'ValueError: No non-pre release found' in stderr:
+            msg = "Automatic: no non-pre release found"
         if "package not on pypi" in stderr:
             msg = "Automatic: package not on pypi"
         if "was not found in the package registry" in stderr:
             msg = "Automatic: uv failure: Dependency not found in package registry"
         if "No solution found when resolving dependencies" in stderr:
             msg = "Automic: uv lock failure, no solution when resolving dependencies"
+        if "use_2to3 is invalid." in stderr:
+            msg = "uv lock error, 'use_2to3 is invalid.'"
+        if " Command '['uv', 'lock', '--no-cache', " in stderr:
+            msg = "uv lock failure, Unspecifieded"
 
         if msg:
             print(msg)
