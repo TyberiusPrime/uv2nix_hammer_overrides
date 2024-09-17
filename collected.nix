@@ -3566,6 +3566,9 @@
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
+  lyricwikia = {
+    "0.1.11" = import ./overrides/lyricwikia/0.1.11;
+  };
   lzstring = {
     "1.0.4" = import ./overrides/lzstring/1.0.4;
   };
