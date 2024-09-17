@@ -5851,6 +5851,9 @@
   pytsk3 = {
     "20231007" = import ./overrides/pytsk3/20231007;
   };
+  pyturbojpeg = {
+    "1.7.6" = import ./overrides/pyturbojpeg/1.7.6;
+  };
   pytweening = {
     "1.2.0" = import ./overrides/pytweening/1.2.0;
   };
