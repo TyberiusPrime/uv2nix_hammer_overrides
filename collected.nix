@@ -3982,6 +3982,9 @@
   pactman = {
     "2.31.0" = import ./overrides/pactman/2.31.0;
   };
+  pad4pi = {
+    "1.1.5" = import ./overrides/pad4pi/1.1.5;
+  };
   padaos = {
     "0.1.10" = import ./overrides/padaos/0.1.10;
   };
