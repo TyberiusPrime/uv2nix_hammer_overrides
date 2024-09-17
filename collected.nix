@@ -739,6 +739,9 @@
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
+  chirpstack-api = {
+    "4.9.0" = import ./overrides/chirpstack-api/4.9.0;
+  };
   chirptext = {
     "0.1.2" = import ./overrides/chirptext/0.1.2;
   };
