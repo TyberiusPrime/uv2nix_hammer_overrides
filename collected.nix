@@ -2317,6 +2317,9 @@
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
+  google-apputils = {
+    "0.4.2" = import ./overrides/google-apputils/0.4.2;
+  };
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
