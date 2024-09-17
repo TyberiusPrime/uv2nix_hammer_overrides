@@ -1065,6 +1065,9 @@
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
+  datazilla = {
+    "1.4" = import ./overrides/datazilla/1.4;
+  };
   date-extractor = {
     "5.1.5" = import ./overrides/date-extractor/5.1.5;
   };
