@@ -2819,6 +2819,9 @@
   ipdbplugin = {
     "1.5.0" = import ./overrides/ipdbplugin/1.5.0;
   };
+  iperf3 = {
+    "0.1.11" = import ./overrides/iperf3/0.1.11;
+  };
   ipy = {
     "1.1" = import ./overrides/ipy/1.1;
   };
