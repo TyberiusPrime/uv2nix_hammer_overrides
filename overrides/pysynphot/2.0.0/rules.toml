@@ -1,0 +1,2 @@
+BuildSystems = [ "numpy", "setuptools", "setuptools-scm", "wheel",]
+TomlRequiresPatcher = [ false, false, false, false, false, false,]

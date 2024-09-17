@@ -5133,6 +5133,9 @@
   pysyncobj = {
     "0.3.12" = import ./overrides/pysyncobj/0.3.12;
   };
+  pysynphot = {
+    "2.0.0" = import ./overrides/pysynphot/2.0.0;
+  };
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
