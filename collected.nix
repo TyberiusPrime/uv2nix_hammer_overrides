@@ -5053,6 +5053,9 @@
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
+  rpdb = {
+    "0.1.6" = import ./overrides/rpdb/0.1.6;
+  };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
