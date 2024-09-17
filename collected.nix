@@ -3032,6 +3032,9 @@
   kss = {
     "6.0.4" = import ./overrides/kss/6.0.4;
   };
+  lac = {
+    "2.1.2" = import ./overrides/lac/2.1.2;
+  };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
