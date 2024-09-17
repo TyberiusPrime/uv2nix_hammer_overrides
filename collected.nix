@@ -4823,6 +4823,9 @@
   python-pipedrive = {
     "0.4.0" = import ./overrides/python-pipedrive/0.4.0;
   };
+  python-simple-hipchat = {
+    "0.4.0" = import ./overrides/python-simple-hipchat/0.4.0;
+  };
   python-singleton-metaclasses = {
     "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
   };
