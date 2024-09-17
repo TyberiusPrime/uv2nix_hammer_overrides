@@ -1170,6 +1170,9 @@
   decore = {
     "0.0.1" = import ./overrides/decore/0.0.1;
   };
+  decouple = {
+    "0.0.7" = import ./overrides/decouple/0.0.7;
+  };
   deeplake = {
     "3.9.22" = import ./overrides/deeplake/3.9.22;
   };
