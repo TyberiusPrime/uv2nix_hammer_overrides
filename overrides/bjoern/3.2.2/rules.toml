@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.libev",]
+BuildSystems = [ "setuptools",]

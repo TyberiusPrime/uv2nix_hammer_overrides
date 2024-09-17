@@ -610,6 +610,9 @@
   bizkaibus = {
     "0.1.4" = import ./overrides/bizkaibus/0.1.4;
   };
+  bjoern = {
+    "3.2.2" = import ./overrides/bjoern/3.2.2;
+  };
   bkcharts = {
     "0.2" = import ./overrides/bkcharts/0.2;
   };
@@ -4829,6 +4832,9 @@
   };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
+  };
+  psqlparse = {
+    "1.0rc7" = import ./overrides/psqlparse/1.0rc7;
   };
   psychrolib = {
     "2.5.0" = import ./overrides/psychrolib/2.5.0;
