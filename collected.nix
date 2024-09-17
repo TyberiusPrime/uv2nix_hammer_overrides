@@ -5645,6 +5645,9 @@
   python-potr = {
     "1.0.2" = import ./overrides/python-potr/1.0.2;
   };
+  python-qpid-proton = {
+    "0.39.0" = import ./overrides/python-qpid-proton/0.39.0;
+  };
   python-simple-hipchat = {
     "0.4.0" = import ./overrides/python-simple-hipchat/0.4.0;
   };
