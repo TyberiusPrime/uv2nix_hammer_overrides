@@ -3597,6 +3597,9 @@
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
+  pydenticon = {
+    "0.3.1" = import ./overrides/pydenticon/0.3.1;
+  };
   pyderive3 = {
     "0.0.6" = import ./overrides/pyderive3/0.0.6;
   };
