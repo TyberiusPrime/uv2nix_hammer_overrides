@@ -2318,6 +2318,9 @@
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
+  healthcheck = {
+    "1.3.3" = import ./overrides/healthcheck/1.3.3;
+  };
   heatshrink2 = {
     "0.13.0" = import ./overrides/heatshrink2/0.13.0;
   };
