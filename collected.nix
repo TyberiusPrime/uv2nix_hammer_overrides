@@ -5209,6 +5209,9 @@
   rabird-core = {
     "0.4.1" = import ./overrides/rabird-core/0.4.1;
   };
+  radar = {
+    "0.3" = import ./overrides/radar/0.3;
+  };
   radian = {
     "0.6.13" = import ./overrides/radian/0.6.13;
   };
