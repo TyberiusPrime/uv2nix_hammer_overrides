@@ -1708,6 +1708,9 @@
   django-vkontakte-api = {
     "0.8.7" = import ./overrides/django-vkontakte-api/0.8.7;
   };
+  django-vkontakte-groups = {
+    "0.7.2" = import ./overrides/django-vkontakte-groups/0.7.2;
+  };
   django-vkontakte-places = {
     "0.7.1" = import ./overrides/django-vkontakte-places/0.7.1;
   };
