@@ -1780,6 +1780,9 @@
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
+  fastscript = {
+    "0.0.0.1" = import ./overrides/fastscript/0.0.0.1;
+  };
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
