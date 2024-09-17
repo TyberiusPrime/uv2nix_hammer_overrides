@@ -2682,6 +2682,9 @@
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
+  huawei-lte-api = {
+    "1.9.3" = import ./overrides/huawei-lte-api/1.9.3;
+  };
   huepy = {
     "1.2.1" = import ./overrides/huepy/1.2.1;
   };
