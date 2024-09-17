@@ -4210,6 +4210,9 @@
   opcua = {
     "0.98.13" = import ./overrides/opcua/0.98.13;
   };
+  openai-whisper = {
+    "20231117" = import ./overrides/openai-whisper/20231117;
+  };
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
