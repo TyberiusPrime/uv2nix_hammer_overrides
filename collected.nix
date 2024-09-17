@@ -4175,6 +4175,9 @@
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
   };
+  pyverilog = {
+    "1.3.0" = import ./overrides/pyverilog/1.3.0;
+  };
   pyvimeo = {
     "1.1.2" = import ./overrides/pyvimeo/1.1.2;
   };
