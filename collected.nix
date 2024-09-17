@@ -1171,6 +1171,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  dirlistproc = {
+    "1.4.5" = import ./overrides/dirlistproc/1.4.5;
+  };
   dirsync = {
     "2.2.5" = import ./overrides/dirsync/2.2.5;
   };
