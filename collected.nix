@@ -4505,6 +4505,9 @@
     "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
+  python-doi = {
+    "0.2.0" = import ./overrides/python-doi/0.2.0;
+  };
   python-etcd = {
     "0.4.5" = import ./overrides/python-etcd/0.4.5;
   };
