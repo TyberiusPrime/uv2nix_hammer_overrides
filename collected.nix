@@ -5358,6 +5358,9 @@
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
+  versiontools = {
+    "1.9.1" = import ./overrides/versiontools/1.9.1;
+  };
   veryprettytable = {
     "0.8.1" = import ./overrides/veryprettytable/0.8.1;
   };
