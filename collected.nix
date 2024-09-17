@@ -828,6 +828,9 @@
   cryptoconditions = {
     "0.8.1" = import ./overrides/cryptoconditions/0.8.1;
   };
+  crystalpy = {
+    "0.0.23" = import ./overrides/crystalpy/0.0.23;
+  };
   cs-ansi-colour = {
     "20220227" = import ./overrides/cs-ansi-colour/20220227;
   };
@@ -860,6 +863,9 @@
   };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
+  };
+  dabax = {
+    "1.0.6" = import ./overrides/dabax/1.0.6;
   };
   dacktool = {
     "0.0.7" = import ./overrides/dacktool/0.0.7;
