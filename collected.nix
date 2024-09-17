@@ -1261,6 +1261,9 @@
   docrep = {
     "0.3.2" = import ./overrides/docrep/0.3.2;
   };
+  document = {
+    "1.0" = import ./overrides/document/1.0;
+  };
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
