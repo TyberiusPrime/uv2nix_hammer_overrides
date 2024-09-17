@@ -601,6 +601,9 @@
   charlesbot = {
     "0.10.1" = import ./overrides/charlesbot/0.10.1;
   };
+  charmhelpers = {
+    "1.2.1" = import ./overrides/charmhelpers/1.2.1;
+  };
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
