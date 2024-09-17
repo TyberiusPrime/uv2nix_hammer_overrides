@@ -792,6 +792,9 @@
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
   };
+  connio = {
+    "0.2.0" = import ./overrides/connio/0.2.0;
+  };
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
@@ -5061,6 +5064,9 @@
   };
   serial-device2 = {
     "2.0.2" = import ./overrides/serial-device2/2.0.2;
+  };
+  serialio = {
+    "2.4.0" = import ./overrides/serialio/2.4.0;
   };
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
