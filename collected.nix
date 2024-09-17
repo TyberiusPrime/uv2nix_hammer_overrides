@@ -2391,6 +2391,9 @@
   geoid = {
     "1.1.5" = import ./overrides/geoid/1.1.5;
   };
+  geometric = {
+    "1.0.2" = import ./overrides/geometric/1.0.2;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
