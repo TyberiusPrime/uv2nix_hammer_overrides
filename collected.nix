@@ -4133,6 +4133,9 @@
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
+  prettytable = {
+    "0.7.2" = import ./overrides/prettytable/0.7.2;
+  };
   proboscis = {
     "1.2.6.0" = import ./overrides/proboscis/1.2.6.0;
   };
@@ -4716,6 +4719,9 @@
   };
   pypika = {
     "0.48.9" = import ./overrides/pypika/0.48.9;
+  };
+  pypng = {
+    "0.0.19" = import ./overrides/pypng/0.0.19;
   };
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
@@ -5767,6 +5773,9 @@
   };
   sockjs-tornado = {
     "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
+  };
+  solidpython-ff = {
+    "0.1.1" = import ./overrides/solidpython-ff/0.1.1;
   };
   solrpy = {
     "1.0.0" = import ./overrides/solrpy/1.0.0;
