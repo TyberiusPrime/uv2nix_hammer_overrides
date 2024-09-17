@@ -7125,6 +7125,9 @@
   voidpp-tools = {
     "1.11.0" = import ./overrides/voidpp-tools/1.11.0;
   };
+  volatile = {
+    "2.1.0" = import ./overrides/volatile/2.1.0;
+  };
   volkanic = {
     "0.5.3" = import ./overrides/volkanic/0.5.3;
   };
