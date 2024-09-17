@@ -1020,6 +1020,9 @@
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
+  cpyparsing = {
+    "2.4.7.2.4.0" = import ./overrides/cpyparsing/2.4.7.2.4.0;
+  };
   cql = {
     "1.4.0" = import ./overrides/cql/1.4.0;
   };
