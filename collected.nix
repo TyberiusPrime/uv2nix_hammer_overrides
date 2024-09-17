@@ -3671,6 +3671,9 @@
   mysmallutils = {
     "2.0.20" = import ./overrides/mysmallutils/2.0.20;
   };
+  mysql-connector = {
+    "2.2.9" = import ./overrides/mysql-connector/2.2.9;
+  };
   mysql-connector-python-rf = {
     "2.2.2" = import ./overrides/mysql-connector-python-rf/2.2.2;
   };
