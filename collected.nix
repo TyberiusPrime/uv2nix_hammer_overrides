@@ -4971,6 +4971,9 @@
   pyftpdlib = {
     "2.0.0" = import ./overrides/pyftpdlib/2.0.0;
   };
+  pygerrit2 = {
+    "2.0.15" = import ./overrides/pygerrit2/2.0.15;
+  };
   pygetwindow = {
     "0.0.9" = import ./overrides/pygetwindow/0.0.9;
   };
