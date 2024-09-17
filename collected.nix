@@ -5694,6 +5694,9 @@
   twitter-common-quantity = {
     "0.3.11" = import ./overrides/twitter-common-quantity/0.3.11;
   };
+  twitter-common-string = {
+    "0.3.11" = import ./overrides/twitter-common-string/0.3.11;
+  };
   twitter-common-util = {
     "0.3.11" = import ./overrides/twitter-common-util/0.3.11;
   };
