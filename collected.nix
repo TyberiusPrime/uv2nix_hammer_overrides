@@ -6798,6 +6798,9 @@
   xxh = {
     "0.1.2" = import ./overrides/xxh/0.1.2;
   };
+  xxhash = {
+    "2.0.2" = import ./overrides/xxhash/2.0.2;
+  };
   yahoofinancials = {
     "1.20" = import ./overrides/yahoofinancials/1.20;
   };
