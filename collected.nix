@@ -5456,6 +5456,9 @@
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
+  sjcl = {
+    "0.2.1" = import ./overrides/sjcl/0.2.1;
+  };
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
   };
