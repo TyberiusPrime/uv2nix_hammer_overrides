@@ -1252,6 +1252,9 @@
   django-allauth = {
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
+  django-announcements = {
+    "1.2.0" = import ./overrides/django-announcements/1.2.0;
+  };
   django-annoying = {
     "0.10.7" = import ./overrides/django-annoying/0.10.7;
   };
