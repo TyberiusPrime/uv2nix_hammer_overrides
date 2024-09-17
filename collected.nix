@@ -5472,6 +5472,9 @@
   tellduslive = {
     "0.10.12" = import ./overrides/tellduslive/0.10.12;
   };
+  temescal = {
+    "0.5" = import ./overrides/temescal/0.5;
+  };
   tempdir = {
     "0.7.1" = import ./overrides/tempdir/0.7.1;
   };
