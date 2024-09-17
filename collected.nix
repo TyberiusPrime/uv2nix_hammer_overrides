@@ -3615,6 +3615,9 @@
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
+  pyeclib = {
+    "1.6.1" = import ./overrides/pyeclib/1.6.1;
+  };
   pyecowitt = {
     "0.21" = import ./overrides/pyecowitt/0.21;
   };

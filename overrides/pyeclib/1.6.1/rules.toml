@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:pyeclib/1.6.1/default.nix"
