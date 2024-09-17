@@ -697,6 +697,9 @@
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
+  cairo-lang = {
+    "0.13.2" = import ./overrides/cairo-lang/0.13.2;
+  };
   callee = {
     "0.3.1" = import ./overrides/callee/0.3.1;
   };
