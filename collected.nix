@@ -5833,6 +5833,9 @@
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
   };
+  vsure = {
+    "2.6.7" = import ./overrides/vsure/2.6.7;
+  };
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
   };
