@@ -4386,6 +4386,9 @@
   pygooglechart = {
     "0.4.0" = import ./overrides/pygooglechart/0.4.0;
   };
+  pyhashxx = {
+    "0.1.3" = import ./overrides/pyhashxx/0.1.3;
+  };
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
