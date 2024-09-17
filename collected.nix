@@ -3572,6 +3572,9 @@
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
+  multiurl = {
+    "0.3.1" = import ./overrides/multiurl/0.3.1;
+  };
   mung = {
     "1.2.1" = import ./overrides/mung/1.2.1;
   };
