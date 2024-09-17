@@ -5878,6 +5878,9 @@
   tinynumpy = {
     "1.2.1" = import ./overrides/tinynumpy/1.2.1;
   };
+  tinyrecord = {
+    "0.2.0" = import ./overrides/tinyrecord/0.2.0;
+  };
   tinysegmenter = {
     "0.4" = import ./overrides/tinysegmenter/0.4;
   };
