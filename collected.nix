@@ -5066,6 +5066,9 @@
   python-unshare = {
     "0.2" = import ./overrides/python-unshare/0.2;
   };
+  python-usbtmc = {
+    "0.8" = import ./overrides/python-usbtmc/0.8;
+  };
   python-vxi11 = {
     "0.9" = import ./overrides/python-vxi11/0.9;
   };
