@@ -568,6 +568,9 @@
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
+  billiard = {
+    "3.5.0.5" = import ./overrides/billiard/3.5.0.5;
+  };
   binary2strings = {
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
@@ -1522,8 +1525,14 @@
   django-fields = {
     "0.3.0" = import ./overrides/django-fields/0.3.0;
   };
+  django-fluent-dashboard = {
+    "0.6.1" = import ./overrides/django-fluent-dashboard/0.6.1;
+  };
   django-form-utils = {
     "1.0.3" = import ./overrides/django-form-utils/1.0.3;
+  };
+  django-fsm = {
+    "2.3.0" = import ./overrides/django-fsm/2.3.0;
   };
   django-fsm-admin = {
     "1.2.5" = import ./overrides/django-fsm-admin/1.2.5;
@@ -1584,6 +1593,9 @@
   };
   django-mdeditor = {
     "0.1.20" = import ./overrides/django-mdeditor/0.1.20;
+  };
+  django-model-utils = {
+    "3.0.0" = import ./overrides/django-model-utils/3.0.0;
   };
   django-mongoengine = {
     "0.5.6" = import ./overrides/django-mongoengine/0.5.6;
@@ -5166,6 +5178,9 @@
   pycot = {
     "2.5.0" = import ./overrides/pycot/2.5.0;
   };
+  pycountry = {
+    "1.20" = import ./overrides/pycountry/1.20;
+  };
   pycparser = {
     "2.14" = import ./overrides/pycparser/2.14;
   };
@@ -6078,6 +6093,9 @@
   };
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
+  };
+  pyvat = {
+    "1.3.18" = import ./overrides/pyvat/1.3.18;
   };
   pyverilog = {
     "1.3.0" = import ./overrides/pyverilog/1.3.0;
