@@ -4006,6 +4006,9 @@
   pysocks = {
     "1.6.8" = import ./overrides/pysocks/1.6.8;
   };
+  pysol-cards = {
+    "0.16.0" = import ./overrides/pysol-cards/0.16.0;
+  };
   pysolr = {
     "3.9.0" = import ./overrides/pysolr/3.9.0;
   };
