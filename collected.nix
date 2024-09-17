@@ -3435,6 +3435,9 @@
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
   };
+  osconf = {
+    "0.1.3" = import ./overrides/osconf/0.1.3;
+  };
   osm2geojson = {
     "0.2.5" = import ./overrides/osm2geojson/0.2.5;
   };
