@@ -3683,6 +3683,9 @@
   nepalicalendar = {
     "0.4" = import ./overrides/nepalicalendar/0.4;
   };
+  nes-py = {
+    "8.2.1" = import ./overrides/nes-py/8.2.1;
+  };
   nested-lookup = {
     "0.2.25" = import ./overrides/nested-lookup/0.2.25;
   };
