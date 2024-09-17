@@ -3479,6 +3479,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  marionette-client = {
+    "3.3.0" = import ./overrides/marionette-client/3.3.0;
+  };
   marionette-transport = {
     "1.2.0" = import ./overrides/marionette-transport/1.2.0;
   };
