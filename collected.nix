@@ -3823,6 +3823,9 @@
   pynisher = {
     "1.0.10" = import ./overrides/pynisher/1.0.10;
   };
+  pyocclient = {
+    "0.6" = import ./overrides/pyocclient/0.6;
+  };
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
