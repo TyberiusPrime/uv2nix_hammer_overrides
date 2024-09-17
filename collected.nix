@@ -7197,6 +7197,9 @@
   timestring = {
     "1.6.4" = import ./overrides/timestring/1.6.4;
   };
+  tinyaes = {
+    "1.1.0" = import ./overrides/tinyaes/1.1.0;
+  };
   tinycss = {
     "0.4" = import ./overrides/tinycss/0.4;
   };
