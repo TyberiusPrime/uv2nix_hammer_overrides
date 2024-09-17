@@ -6570,6 +6570,9 @@
   xformers = {
     "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
   };
+  xinabox-core = {
+    "0.0.11" = import ./overrides/xinabox-core/0.0.11;
+  };
   xlwt-future = {
     "0.8.0" = import ./overrides/xlwt-future/0.8.0;
   };
