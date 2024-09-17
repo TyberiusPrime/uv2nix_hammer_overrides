@@ -7948,6 +7948,9 @@
   zipstream = {
     "1.1.4" = import ./overrides/zipstream/1.1.4;
   };
+  zk = {
+    "0.8.5" = import ./overrides/zk/0.8.5;
+  };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
   };
