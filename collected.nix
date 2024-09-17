@@ -4062,6 +4062,9 @@
   pgpy = {
     "0.6.0" = import ./overrides/pgpy/0.6.0;
   };
+  pgsanity = {
+    "0.2.9" = import ./overrides/pgsanity/0.2.9;
+  };
   pgsu = {
     "0.2.4" = import ./overrides/pgsu/0.2.4;
   };
