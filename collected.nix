@@ -2062,6 +2062,9 @@
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
+  hg-evolve = {
+    "11.1.4" = import ./overrides/hg-evolve/11.1.4;
+  };
   hgapi = {
     "1.7.4" = import ./overrides/hgapi/1.7.4;
   };
