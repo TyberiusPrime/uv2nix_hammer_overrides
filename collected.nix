@@ -6805,6 +6805,9 @@
   streaming-form-data = {
     "1.16.0" = import ./overrides/streaming-form-data/1.16.0;
   };
+  streamlabswater = {
+    "1.0.1" = import ./overrides/streamlabswater/1.0.1;
+  };
   streql = {
     "3.0.2" = import ./overrides/streql/3.0.2;
   };
