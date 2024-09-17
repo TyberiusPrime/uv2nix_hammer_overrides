@@ -732,6 +732,9 @@
   configspace = {
     "1.2.0" = import ./overrides/configspace/1.2.0;
   };
+  confini = {
+    "0.6.5" = import ./overrides/confini/0.6.5;
+  };
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
   };
