@@ -1119,6 +1119,9 @@
   date-extractor = {
     "5.1.5" = import ./overrides/date-extractor/5.1.5;
   };
+  datrie = {
+    "0.8.2" = import ./overrides/datrie/0.8.2;
+  };
   dawg = {
     "0.8.0" = import ./overrides/dawg/0.8.0;
   };
