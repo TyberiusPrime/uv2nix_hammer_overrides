@@ -4196,6 +4196,9 @@
   pywatchman = {
     "2.0.0" = import ./overrides/pywatchman/2.0.0;
   };
+  pyworld = {
+    "0.3.4" = import ./overrides/pyworld/0.3.4;
+  };
   pywurfl = {
     "7.2.1" = import ./overrides/pywurfl/7.2.1;
   };
