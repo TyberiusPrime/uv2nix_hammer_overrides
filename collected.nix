@@ -2353,6 +2353,9 @@
   interruptingcow = {
     "0.8" = import ./overrides/interruptingcow/0.8;
   };
+  interval = {
+    "1.0.0" = import ./overrides/interval/1.0.0;
+  };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
   };
