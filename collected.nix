@@ -5321,6 +5321,9 @@
   twitter-common-options = {
     "0.3.11" = import ./overrides/twitter-common-options/0.3.11;
   };
+  twitter-common-quantity = {
+    "0.3.11" = import ./overrides/twitter-common-quantity/0.3.11;
+  };
   twitter-common-util = {
     "0.3.11" = import ./overrides/twitter-common-util/0.3.11;
   };
