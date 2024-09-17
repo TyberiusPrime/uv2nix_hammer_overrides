@@ -352,6 +352,9 @@
   bashplotlib = {
     "0.6.5" = import ./overrides/bashplotlib/0.6.5;
   };
+  basic-logtools = {
+    "0.2.0" = import ./overrides/basic-logtools/0.2.0;
+  };
   basicrpc = {
     "0.0.2" = import ./overrides/basicrpc/0.0.2;
   };
@@ -902,6 +905,9 @@
   };
   data = {
     "0.4" = import ./overrides/data/0.4;
+  };
+  datadbs = {
+    "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
