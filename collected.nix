@@ -2380,6 +2380,9 @@
   journalwatch = {
     "1.1.0" = import ./overrides/journalwatch/1.1.0;
   };
+  jpath = {
+    "1.6" = import ./overrides/jpath/1.6;
+  };
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
