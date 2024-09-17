@@ -4452,6 +4452,9 @@
   pyflic = {
     "2.0.4" = import ./overrides/pyflic/2.0.4;
   };
+  pyformance = {
+    "0.4" = import ./overrides/pyformance/0.4;
+  };
   pyfribidi = {
     "0.12.0" = import ./overrides/pyfribidi/0.12.0;
   };
