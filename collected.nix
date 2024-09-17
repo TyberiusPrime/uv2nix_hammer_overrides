@@ -249,6 +249,9 @@
   artellapipe-config = {
     "0.0.32" = import ./overrides/artellapipe-config/0.0.32;
   };
+  arxiv2bib = {
+    "1.0.8" = import ./overrides/arxiv2bib/1.0.8;
+  };
   ascii-graph = {
     "1.5.1" = import ./overrides/ascii-graph/1.5.1;
   };
