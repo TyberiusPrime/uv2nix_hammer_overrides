@@ -4656,6 +4656,9 @@
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
+  prayer-times-calculator = {
+    "0.0.12" = import ./overrides/prayer-times-calculator/0.0.12;
+  };
   preggy = {
     "1.4.4" = import ./overrides/preggy/1.4.4;
   };
