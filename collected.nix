@@ -6434,6 +6434,9 @@
   safeio = {
     "1.2" = import ./overrides/safeio/1.2;
   };
+  salsa20 = {
+    "0.3.0" = import ./overrides/salsa20/0.3.0;
+  };
   salure-helpers-salureconnect = {
     "2.2.3" = import ./overrides/salure-helpers-salureconnect/2.2.3;
   };
