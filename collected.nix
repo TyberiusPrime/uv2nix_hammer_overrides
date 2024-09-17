@@ -1225,6 +1225,9 @@
   django-vkontakte-users = {
     "0.8.7" = import ./overrides/django-vkontakte-users/0.8.7;
   };
+  djangocodemirror = {
+    "2.1.0" = import ./overrides/djangocodemirror/2.1.0;
+  };
   djangorestframework-camel-case = {
     "1.4.2" = import ./overrides/djangorestframework-camel-case/1.4.2;
   };
