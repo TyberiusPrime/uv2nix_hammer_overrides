@@ -5208,6 +5208,9 @@
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
+  python-gcm = {
+    "0.4" = import ./overrides/python-gcm/0.4;
+  };
   python-geohash = {
     "0.8.5" = import ./overrides/python-geohash/0.8.5;
   };
