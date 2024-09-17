@@ -2791,6 +2791,9 @@
   m9s-trytond = {
     "7.0.7" = import ./overrides/m9s-trytond/7.0.7;
   };
+  madmom = {
+    "0.16.1" = import ./overrides/madmom/0.16.1;
+  };
   mailchecker = {
     "6.0.8" = import ./overrides/mailchecker/6.0.8;
   };
