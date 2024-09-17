@@ -2162,6 +2162,9 @@
   frasco = {
     "3.5.1" = import ./overrides/frasco/3.5.1;
   };
+  frasco-models = {
+    "0.7.0" = import ./overrides/frasco-models/0.7.0;
+  };
   free-proxy = {
     "1.1.2" = import ./overrides/free-proxy/1.1.2;
   };
