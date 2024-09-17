@@ -3752,6 +3752,9 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  psycogreen = {
+    "1.0.2" = import ./overrides/psycogreen/1.0.2;
+  };
   psycopg2 = {
     "2.9.9" = import ./overrides/psycopg2/2.9.9;
   };
