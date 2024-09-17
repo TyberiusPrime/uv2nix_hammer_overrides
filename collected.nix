@@ -4094,6 +4094,9 @@
   pure-sasl = {
     "0.6.2" = import ./overrides/pure-sasl/0.6.2;
   };
+  pure25519 = {
+    "0.0.1" = import ./overrides/pure25519/0.0.1;
+  };
   purepng = {
     "0.2.0" = import ./overrides/purepng/0.2.0;
   };
