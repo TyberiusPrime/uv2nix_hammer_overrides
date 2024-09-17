@@ -3675,6 +3675,9 @@
   otree = {
     "5.11.0" = import ./overrides/otree/5.11.0;
   };
+  overly = {
+    "0.1.85" = import ./overrides/overly/0.1.85;
+  };
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
   };
@@ -5256,6 +5259,9 @@
   };
   sane-python = {
     "0.1.3" = import ./overrides/sane-python/0.1.3;
+  };
+  sansio-multipart = {
+    "0.3" = import ./overrides/sansio-multipart/0.3;
   };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
