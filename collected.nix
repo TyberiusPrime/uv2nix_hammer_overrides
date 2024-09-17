@@ -1086,6 +1086,9 @@
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
+  defopt = {
+    "6.4.0" = import ./overrides/defopt/6.4.0;
+  };
   delfick-error = {
     "1.8" = import ./overrides/delfick-error/1.8;
   };
