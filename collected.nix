@@ -6556,6 +6556,9 @@
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
+  webapp2 = {
+    "2.5.2" = import ./overrides/webapp2/2.5.2;
+  };
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
