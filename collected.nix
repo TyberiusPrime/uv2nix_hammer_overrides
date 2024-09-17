@@ -4528,6 +4528,15 @@
   ropper = {
     "1.13.8" = import ./overrides/ropper/1.13.8;
   };
+  ros-cdk-assembly-schema = {
+    "1.2.0" = import ./overrides/ros-cdk-assembly-schema/1.2.0;
+  };
+  ros-cdk-core = {
+    "1.1.0" = import ./overrides/ros-cdk-core/1.1.0;
+  };
+  ros-cdk-cxapi = {
+    "1.2.0" = import ./overrides/ros-cdk-cxapi/1.2.0;
+  };
   rouge-score = {
     "0.1.2" = import ./overrides/rouge-score/0.1.2;
   };
