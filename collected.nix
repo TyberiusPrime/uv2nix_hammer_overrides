@@ -3073,6 +3073,9 @@
   mypy-lang = {
     "0.5.0" = import ./overrides/mypy-lang/0.5.0;
   };
+  myqr = {
+    "2.3.1" = import ./overrides/myqr/2.3.1;
+  };
   mysmallutils = {
     "2.0.20" = import ./overrides/mysmallutils/2.0.20;
   };
