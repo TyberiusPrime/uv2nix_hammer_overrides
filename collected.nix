@@ -3672,6 +3672,9 @@
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
+  mox = {
+    "0.5.3" = import ./overrides/mox/0.5.3;
+  };
   moz-sql-parser = {
     "4.40.21126" = import ./overrides/moz-sql-parser/4.40.21126;
   };
