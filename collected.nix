@@ -705,6 +705,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  cocos2d = {
+    "0.6.10" = import ./overrides/cocos2d/0.6.10;
+  };
   cocotb-bus = {
     "0.2.1" = import ./overrides/cocotb-bus/0.2.1;
   };
