@@ -1588,6 +1588,9 @@
   django-rest-framework-mongoengine = {
     "3.4.1" = import ./overrides/django-rest-framework-mongoengine/3.4.1;
   };
+  django-rest-knox = {
+    "5.0.1" = import ./overrides/django-rest-knox/5.0.1;
+  };
   django-reversion = {
     "1.10.2" = import ./overrides/django-reversion/1.10.2;
   };
