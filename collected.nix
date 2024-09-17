@@ -5556,6 +5556,9 @@
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
+  stormssh = {
+    "0.7.0" = import ./overrides/stormssh/0.7.0;
+  };
   str2bool = {
     "1.1" = import ./overrides/str2bool/1.1;
   };
