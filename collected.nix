@@ -3280,6 +3280,9 @@
   libclang-py3 = {
     "3.9.0" = import ./overrides/libclang-py3/3.9.0;
   };
+  liberty-parser = {
+    "0.0.23" = import ./overrides/liberty-parser/0.0.23;
+  };
   libevdev = {
     "0.11" = import ./overrides/libevdev/0.11;
   };
