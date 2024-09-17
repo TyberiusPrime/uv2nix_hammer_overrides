@@ -7262,6 +7262,9 @@
   workdays = {
     "1.4" = import ./overrides/workdays/1.4;
   };
+  workerpool = {
+    "0.9.4" = import ./overrides/workerpool/0.9.4;
+  };
   wsgi-request-logger = {
     "0.4.6" = import ./overrides/wsgi-request-logger/0.4.6;
   };
