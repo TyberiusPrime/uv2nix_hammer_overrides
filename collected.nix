@@ -2054,6 +2054,9 @@
   gisdata = {
     "0.5.4" = import ./overrides/gisdata/0.5.4;
   };
+  git-sweep = {
+    "0.1.1" = import ./overrides/git-sweep/0.1.1;
+  };
   gitapi = {
     "1.1.0a2" = import ./overrides/gitapi/1.1.0a2;
   };
