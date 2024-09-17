@@ -4982,6 +4982,9 @@
   shinkenplugins = {
     "0.4.2" = import ./overrides/shinkenplugins/0.4.2;
   };
+  shodan = {
+    "1.31.0" = import ./overrides/shodan/1.31.0;
+  };
   shopifyapi = {
     "12.6.0" = import ./overrides/shopifyapi/12.6.0;
   };
