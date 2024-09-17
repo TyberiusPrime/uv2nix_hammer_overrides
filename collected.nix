@@ -1332,6 +1332,9 @@
   dfdatetime = {
     "20240504" = import ./overrides/dfdatetime/20240504;
   };
+  dhooks = {
+    "1.1.4" = import ./overrides/dhooks/1.1.4;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
