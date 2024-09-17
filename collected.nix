@@ -3247,6 +3247,21 @@
   mmcv-full = {
     "1.7.2" = import ./overrides/mmcv-full/1.7.2;
   };
+  mo-dots = {
+    "4.22.21108" = import ./overrides/mo-dots/4.22.21108;
+  };
+  mo-future = {
+    "3.147.20327" = import ./overrides/mo-future/3.147.20327;
+  };
+  mo-imports = {
+    "3.149.20327" = import ./overrides/mo-imports/3.149.20327;
+  };
+  mo-kwargs = {
+    "4.22.21108" = import ./overrides/mo-kwargs/4.22.21108;
+  };
+  mo-logs = {
+    "4.23.21108" = import ./overrides/mo-logs/4.23.21108;
+  };
   mobi = {
     "0.3.3" = import ./overrides/mobi/0.3.3;
   };
@@ -3303,6 +3318,9 @@
   };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
+  };
+  moz-sql-parser = {
+    "4.40.21126" = import ./overrides/moz-sql-parser/4.40.21126;
   };
   mozdevice = {
     "4.1.2" = import ./overrides/mozdevice/4.1.2;
