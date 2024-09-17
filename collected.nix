@@ -4179,6 +4179,9 @@
   pycryptodomex = {
     "3.9.9" = import ./overrides/pycryptodomex/3.9.9;
   };
+  pydaqmx = {
+    "1.4.6" = import ./overrides/pydaqmx/1.4.6;
+  };
   pydataset = {
     "0.2.0" = import ./overrides/pydataset/0.2.0;
   };
