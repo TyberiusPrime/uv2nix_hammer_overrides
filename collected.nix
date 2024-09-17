@@ -4112,6 +4112,9 @@
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
+  python-usbtmc = {
+    "0.8" = import ./overrides/python-usbtmc/0.8;
+  };
   python-vxi11 = {
     "0.9" = import ./overrides/python-vxi11/0.9;
   };
