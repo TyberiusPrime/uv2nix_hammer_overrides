@@ -6259,6 +6259,9 @@
   sciunit = {
     "0.2.8" = import ./overrides/sciunit/0.2.8;
   };
+  scoop = {
+    "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
+  };
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
