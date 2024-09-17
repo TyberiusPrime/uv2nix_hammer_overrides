@@ -4410,6 +4410,9 @@
   pyarlo = {
     "0.2.4" = import ./overrides/pyarlo/0.2.4;
   };
+  pyasn = {
+    "1.6.2" = import ./overrides/pyasn/1.6.2;
+  };
   pyastronomy = {
     "0.22.0" = import ./overrides/pyastronomy/0.22.0;
   };
