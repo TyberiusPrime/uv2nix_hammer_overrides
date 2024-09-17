@@ -1327,6 +1327,9 @@
   django-oauth-tokens = {
     "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
   };
+  django-oauth2-provider = {
+    "0.2.6.1" = import ./overrides/django-oauth2-provider/0.2.6.1;
+  };
   django-object-tools = {
     "2.0.0" = import ./overrides/django-object-tools/2.0.0;
   };
