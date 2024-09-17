@@ -110,6 +110,9 @@
   aipy = {
     "3.0.6" = import ./overrides/aipy/3.0.6;
   };
+  aircv = {
+    "1.4.6" = import ./overrides/aircv/1.4.6;
+  };
   aldryn-boilerplates = {
     "0.8.0" = import ./overrides/aldryn-boilerplates/0.8.0;
   };
