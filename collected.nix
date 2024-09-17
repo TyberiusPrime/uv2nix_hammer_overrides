@@ -5010,6 +5010,9 @@
   tlslite = {
     "0.4.9" = import ./overrides/tlslite/0.4.9;
   };
+  tlv8 = {
+    "0.10.0" = import ./overrides/tlv8/0.10.0;
+  };
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
