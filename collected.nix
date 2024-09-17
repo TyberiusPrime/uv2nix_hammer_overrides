@@ -5155,6 +5155,9 @@
   resolver = {
     "0.2.1" = import ./overrides/resolver/0.2.1;
   };
+  restible = {
+    "0.12.1" = import ./overrides/restible/0.12.1;
+  };
   restkit = {
     "4.2.2" = import ./overrides/restkit/4.2.2;
   };
