@@ -7339,6 +7339,9 @@
   umap = {
     "0.1.1" = import ./overrides/umap/0.1.1;
   };
+  umi-tools = {
+    "1.1.5" = import ./overrides/umi-tools/1.1.5;
+  };
   undetected-chromedriver = {
     "3.5.5" = import ./overrides/undetected-chromedriver/3.5.5;
   };
