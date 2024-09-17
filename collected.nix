@@ -4612,6 +4612,9 @@
   simplesam = {
     "0.1.4.1" = import ./overrides/simplesam/0.1.4.1;
   };
+  singer-encodings = {
+    "0.1.3" = import ./overrides/singer-encodings/0.1.3;
+  };
   singer-python = {
     "5.1.5" = import ./overrides/singer-python/5.1.5;
   };
