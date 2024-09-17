@@ -3530,6 +3530,9 @@
   pyaltt2 = {
     "0.0.117" = import ./overrides/pyaltt2/0.0.117;
   };
+  pyandoc = {
+    "0.2.0" = import ./overrides/pyandoc/0.2.0;
+  };
   pyapi-gitlab = {
     "7.8.5" = import ./overrides/pyapi-gitlab/7.8.5;
   };
