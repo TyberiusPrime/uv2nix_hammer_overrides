@@ -3840,6 +3840,9 @@
   nes-py = {
     "8.2.1" = import ./overrides/nes-py/8.2.1;
   };
+  nested-dict = {
+    "1.61" = import ./overrides/nested-dict/1.61;
+  };
   nested-lookup = {
     "0.2.25" = import ./overrides/nested-lookup/0.2.25;
   };
