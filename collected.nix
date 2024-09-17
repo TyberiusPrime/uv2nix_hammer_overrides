@@ -3311,6 +3311,9 @@
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
   };
+  platformio = {
+    "6.1.15" = import ./overrides/platformio/6.1.15;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
