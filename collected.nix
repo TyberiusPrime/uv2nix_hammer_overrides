@@ -7223,6 +7223,9 @@
   withings-sync = {
     "4.2.5" = import ./overrides/withings-sync/4.2.5;
   };
+  wolframclient = {
+    "1.4.0" = import ./overrides/wolframclient/1.4.0;
+  };
   word2number = {
     "1.1" = import ./overrides/word2number/1.1;
   };
