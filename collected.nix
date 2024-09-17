@@ -3665,6 +3665,9 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  psycopg2 = {
+    "2.9.9" = import ./overrides/psycopg2/2.9.9;
+  };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
   };
