@@ -3609,6 +3609,9 @@
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
+  pydotplus = {
+    "2.0.2" = import ./overrides/pydotplus/2.0.2;
+  };
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
   };
