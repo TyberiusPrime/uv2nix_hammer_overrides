@@ -4221,6 +4221,9 @@
   pescea = {
     "1.0.12" = import ./overrides/pescea/1.0.12;
   };
+  petab = {
+    "0.4.1" = import ./overrides/petab/0.4.1;
+  };
   petl = {
     "1.7.15" = import ./overrides/petl/1.7.15;
   };
