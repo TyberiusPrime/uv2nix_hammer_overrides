@@ -430,6 +430,9 @@
   basicsr = {
     "1.4.2" = import ./overrides/basicsr/1.4.2;
   };
+  basictracer = {
+    "3.2.0" = import ./overrides/basictracer/3.2.0;
+  };
   batchgenerators = {
     "0.25" = import ./overrides/batchgenerators/0.25;
   };
