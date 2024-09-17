@@ -5189,6 +5189,9 @@
   pymediainfo = {
     "6.1.0" = import ./overrides/pymediainfo/6.1.0;
   };
+  pymediaroom = {
+    "0.6.5.4" = import ./overrides/pymediaroom/0.6.5.4;
+  };
   pymeeus = {
     "0.5.12" = import ./overrides/pymeeus/0.5.12;
   };
