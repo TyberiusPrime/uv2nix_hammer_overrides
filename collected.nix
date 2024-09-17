@@ -4591,6 +4591,9 @@
   seqeval = {
     "1.2.2" = import ./overrides/seqeval/1.2.2;
   };
+  serafin = {
+    "0.12.2" = import ./overrides/serafin/0.12.2;
+  };
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
   };
