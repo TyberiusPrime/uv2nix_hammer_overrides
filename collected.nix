@@ -1063,6 +1063,9 @@
   django-fernet-fields = {
     "0.6" = import ./overrides/django-fernet-fields/0.6;
   };
+  django-fsm-admin = {
+    "1.2.5" = import ./overrides/django-fsm-admin/1.2.5;
+  };
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
