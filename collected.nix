@@ -4310,6 +4310,9 @@
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
+  pytransform3d = {
+    "3.6.0" = import ./overrides/pytransform3d/3.6.0;
+  };
   pytsk3 = {
     "20231007" = import ./overrides/pytsk3/20231007;
   };
