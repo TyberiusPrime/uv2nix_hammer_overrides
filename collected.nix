@@ -3560,6 +3560,9 @@
   localstack-ext = {
     "3.7.2" = import ./overrides/localstack-ext/3.7.2;
   };
+  locationsharinglib = {
+    "5.0.3" = import ./overrides/locationsharinglib/5.0.3;
+  };
   lock = {
     "2018.3.25.2110" = import ./overrides/lock/2018.3.25.2110;
   };
