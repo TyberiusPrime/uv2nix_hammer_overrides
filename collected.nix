@@ -5436,6 +5436,9 @@
   tutor = {
     "18.1.3" = import ./overrides/tutor/18.1.3;
   };
+  tutor-openedx = {
+    "12.2.0" = import ./overrides/tutor-openedx/12.2.0;
+  };
   tvdb-api = {
     "3.1.0" = import ./overrides/tvdb-api/3.1.0;
   };
