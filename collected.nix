@@ -3473,6 +3473,9 @@
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
+  pluginbase = {
+    "1.0.1" = import ./overrides/pluginbase/1.0.1;
+  };
   plugnplay = {
     "0.5.4" = import ./overrides/plugnplay/0.5.4;
   };
