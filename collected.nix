@@ -83,6 +83,9 @@
   aiolivisi = {
     "0.0.19" = import ./overrides/aiolivisi/0.0.19;
   };
+  aiologger = {
+    "0.7.0" = import ./overrides/aiologger/0.7.0;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
