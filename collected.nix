@@ -222,6 +222,9 @@
   aorta = {
     "2.20.0" = import ./overrides/aorta/2.20.0;
   };
+  apache-flink-libraries = {
+    "1.20.0" = import ./overrides/apache-flink-libraries/1.20.0;
+  };
   apcaccess = {
     "0.0.13" = import ./overrides/apcaccess/0.0.13;
   };
