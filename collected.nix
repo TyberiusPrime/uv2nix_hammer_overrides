@@ -4247,6 +4247,9 @@
   nose-timer = {
     "1.0.1" = import ./overrides/nose-timer/1.0.1;
   };
+  nose3 = {
+    "1.3.8" = import ./overrides/nose3/1.3.8;
+  };
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
