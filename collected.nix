@@ -5344,6 +5344,9 @@
   tlslite = {
     "0.4.9" = import ./overrides/tlslite/0.4.9;
   };
+  tlslite-ng = {
+    "0.7.6" = import ./overrides/tlslite-ng/0.7.6;
+  };
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
