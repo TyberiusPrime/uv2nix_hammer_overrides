@@ -1297,6 +1297,9 @@
   dnspython3 = {
     "1.15.0" = import ./overrides/dnspython3/1.15.0;
   };
+  dnsq = {
+    "1.1.6" = import ./overrides/dnsq/1.1.6;
+  };
   dockerpty = {
     "0.4.1" = import ./overrides/dockerpty/0.4.1;
   };
