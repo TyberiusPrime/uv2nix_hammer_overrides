@@ -6630,6 +6630,9 @@
     "4.5.3" = import ./overrides/tornado/4.5.3;
     "5.1.1" = import ./overrides/tornado/5.1.1;
   };
+  tornado-redis = {
+    "2.4.18" = import ./overrides/tornado-redis/2.4.18;
+  };
   tornado-systemd = {
     "1.0.1" = import ./overrides/tornado-systemd/1.0.1;
   };
