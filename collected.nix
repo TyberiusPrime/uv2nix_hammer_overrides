@@ -1630,6 +1630,9 @@
   fnvhash = {
     "0.1.0" = import ./overrides/fnvhash/0.1.0;
   };
+  forbiddenfruit = {
+    "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
+  };
   formatizer = {
     "0.1.1" = import ./overrides/formatizer/0.1.1;
   };
