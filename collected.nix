@@ -1143,6 +1143,9 @@
   crontab = {
     "0.23.0" = import ./overrides/crontab/0.23.0;
   };
+  cryio = {
+    "2018.5.30" = import ./overrides/cryio/2018.5.30;
+  };
   cryptocompare = {
     "0.7.6" = import ./overrides/cryptocompare/0.7.6;
   };
