@@ -7142,6 +7142,9 @@
   tarjan = {
     "0.2.4" = import ./overrides/tarjan/0.2.4;
   };
+  tasklib = {
+    "2.5.1" = import ./overrides/tasklib/2.5.1;
+  };
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
   };
