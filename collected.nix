@@ -5896,6 +5896,9 @@
   tlv8 = {
     "0.10.0" = import ./overrides/tlv8/0.10.0;
   };
+  toil-lib = {
+    "1.1.8" = import ./overrides/toil-lib/1.1.8;
+  };
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
