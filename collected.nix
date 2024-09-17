@@ -4717,6 +4717,12 @@
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
+  spikefeatures = {
+    "0.1.2" = import ./overrides/spikefeatures/0.1.2;
+  };
+  spikemetrics = {
+    "0.2.4" = import ./overrides/spikemetrics/0.2.4;
+  };
   splunk-sdk = {
     "2.0.2" = import ./overrides/splunk-sdk/2.0.2;
   };
