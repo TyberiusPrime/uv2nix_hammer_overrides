@@ -502,6 +502,9 @@
   betterproto = {
     "1.2.5" = import ./overrides/betterproto/1.2.5;
   };
+  bgconfig = {
+    "0.10" = import ./overrides/bgconfig/0.10;
+  };
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
