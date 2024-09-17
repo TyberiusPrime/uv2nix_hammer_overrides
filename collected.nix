@@ -1363,6 +1363,9 @@
   django-pagination-fork = {
     "1.0.17" = import ./overrides/django-pagination-fork/1.0.17;
   };
+  django-paintstore = {
+    "0.2" = import ./overrides/django-paintstore/0.2;
+  };
   django-pglocks = {
     "1.0.4" = import ./overrides/django-pglocks/1.0.4;
   };
