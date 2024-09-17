@@ -5866,6 +5866,9 @@
   python-javabridge = {
     "4.0.4" = import ./overrides/python-javabridge/4.0.4;
   };
+  python-jsonrpc = {
+    "0.10.0" = import ./overrides/python-jsonrpc/0.10.0;
+  };
   python-keyczar = {
     "0.716" = import ./overrides/python-keyczar/0.716;
   };
