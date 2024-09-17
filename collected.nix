@@ -4214,6 +4214,9 @@
   pyxis = {
     "0.2.1" = import ./overrides/pyxis/0.2.1;
   };
+  pyxl3 = {
+    "1.4" = import ./overrides/pyxl3/1.4;
+  };
   pyyaml = {
     "5.3" = import ./overrides/pyyaml/5.3;
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
