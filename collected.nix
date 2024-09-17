@@ -1919,6 +1919,9 @@
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
+  ethereum = {
+    "2.3.2" = import ./overrides/ethereum/2.3.2;
+  };
   etl-utils = {
     "0.1.11" = import ./overrides/etl-utils/0.1.11;
   };
