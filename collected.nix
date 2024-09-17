@@ -1519,6 +1519,9 @@
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
+  django-hvad = {
+    "1.8.0" = import ./overrides/django-hvad/1.8.0;
+  };
   django-iban = {
     "0.3.1" = import ./overrides/django-iban/0.3.1;
   };
