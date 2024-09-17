@@ -4164,6 +4164,9 @@
   ppp-datamodel = {
     "0.6.12.1" = import ./overrides/ppp-datamodel/0.6.12.1;
   };
+  ppp-libmodule = {
+    "0.7.7" = import ./overrides/ppp-libmodule/0.7.7;
+  };
   pprofile = {
     "2.2.0" = import ./overrides/pprofile/2.2.0;
   };
