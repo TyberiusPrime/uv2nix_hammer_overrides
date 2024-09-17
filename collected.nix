@@ -1951,6 +1951,9 @@
   html5lib = {
     "0.9999999" = import ./overrides/html5lib/0.9999999;
   };
+  htmllaundry = {
+    "2.2" = import ./overrides/htmllaundry/2.2;
+  };
   htmlmin = {
     "0.1.12" = import ./overrides/htmlmin/0.1.12;
   };
