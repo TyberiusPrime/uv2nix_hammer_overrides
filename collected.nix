@@ -1964,6 +1964,9 @@
   ffmpeg = {
     "1.4" = import ./overrides/ffmpeg/1.4;
   };
+  fibheap = {
+    "0.2.1" = import ./overrides/fibheap/0.2.1;
+  };
   fido2 = {
     "0.9.3" = import ./overrides/fido2/0.9.3;
   };
