@@ -915,6 +915,9 @@
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
+  dbutils = {
+    "1.3" = import ./overrides/dbutils/1.3;
+  };
   dd-aliyun-python-sdk-core = {
     "2.8.2" = import ./overrides/dd-aliyun-python-sdk-core/2.8.2;
   };
@@ -1500,6 +1503,9 @@
   };
   filebytes = {
     "0.10.2" = import ./overrides/filebytes/0.10.2;
+  };
+  filechunkio = {
+    "1.8" = import ./overrides/filechunkio/1.8;
   };
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
@@ -2984,6 +2990,7 @@
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
+    "1.23.5" = import ./overrides/numpy/1.23.5;
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
@@ -3541,6 +3548,9 @@
   };
   pycifrw = {
     "4.4.6" = import ./overrides/pycifrw/4.4.6;
+  };
+  pycket = {
+    "0.3.0" = import ./overrides/pycket/0.3.0;
   };
   pycld2 = {
     "0.41" = import ./overrides/pycld2/0.41;
@@ -4124,6 +4134,9 @@
   python-yubico = {
     "1.3.3" = import ./overrides/python-yubico/1.3.3;
   };
+  python3-memcached = {
+    "1.51" = import ./overrides/python3-memcached/1.51;
+  };
   python3-modargs = {
     "2.0.2" = import ./overrides/python3-modargs/2.0.2;
   };
@@ -4395,6 +4408,9 @@
   };
   robotpy-hal-sim = {
     "2019.2.3" = import ./overrides/robotpy-hal-sim/2019.2.3;
+  };
+  rocketmq-client-python = {
+    "2.0.0" = import ./overrides/rocketmq-client-python/2.0.0;
   };
   roku = {
     "4.1.0" = import ./overrides/roku/4.1.0;
