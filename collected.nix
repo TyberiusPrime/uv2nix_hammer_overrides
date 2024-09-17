@@ -520,6 +520,9 @@
   blaze = {
     "0.10.1" = import ./overrides/blaze/0.10.1;
   };
+  bleach-whitelist = {
+    "0.0.11" = import ./overrides/bleach-whitelist/0.0.11;
+  };
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
   };
