@@ -3514,6 +3514,9 @@
   linux-metrics = {
     "0.1.4" = import ./overrides/linux-metrics/0.1.4;
   };
+  linuxfd = {
+    "1.5" = import ./overrides/linuxfd/1.5;
+  };
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
