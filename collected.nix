@@ -4076,6 +4076,9 @@
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
   };
+  nanomath = {
+    "1.4.0" = import ./overrides/nanomath/1.4.0;
+  };
   nanomsg = {
     "1.0" = import ./overrides/nanomsg/1.0;
   };
@@ -5787,6 +5790,9 @@
   };
   python-ddp = {
     "0.1.5" = import ./overrides/python-ddp/0.1.5;
+  };
+  python-deprecated = {
+    "1.1.0" = import ./overrides/python-deprecated/1.1.0;
   };
   python-didl-lite = {
     "1.4.0" = import ./overrides/python-didl-lite/1.4.0;
