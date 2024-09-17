@@ -1107,6 +1107,9 @@
   cvzone = {
     "1.6.1" = import ./overrides/cvzone/1.6.1;
   };
+  cwlgen = {
+    "0.4.2" = import ./overrides/cwlgen/0.4.2;
+  };
   cykhash = {
     "2.0.1" = import ./overrides/cykhash/2.0.1;
   };
