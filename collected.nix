@@ -5666,6 +5666,9 @@
   wordninja = {
     "2.0.0" = import ./overrides/wordninja/2.0.0;
   };
+  workdays = {
+    "1.4" = import ./overrides/workdays/1.4;
+  };
   wsgi-request-logger = {
     "0.4.6" = import ./overrides/wsgi-request-logger/0.4.6;
   };
