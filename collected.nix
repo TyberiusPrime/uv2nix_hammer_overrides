@@ -4666,6 +4666,9 @@
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
   };
+  pyreact = {
+    "0.6.0" = import ./overrides/pyreact/0.6.0;
+  };
   pyreadline = {
     "2.1" = import ./overrides/pyreadline/2.1;
   };
