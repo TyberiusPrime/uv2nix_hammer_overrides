@@ -646,6 +646,9 @@
   bnnumerizer = {
     "0.0.2" = import ./overrides/bnnumerizer/0.0.2;
   };
+  bolt-python = {
+    "0.7.1" = import ./overrides/bolt-python/0.7.1;
+  };
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
@@ -7130,6 +7133,9 @@
   };
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
+  };
+  thunder-python = {
+    "1.4.2" = import ./overrides/thunder-python/1.4.2;
   };
   tilemapbase = {
     "0.4.7" = import ./overrides/tilemapbase/0.4.7;
