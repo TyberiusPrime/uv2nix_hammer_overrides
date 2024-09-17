@@ -3450,6 +3450,9 @@
   metayaml = {
     "1.2" = import ./overrides/metayaml/1.2;
   };
+  meteo-downloader = {
+    "1.0" = import ./overrides/meteo-downloader/1.0;
+  };
   meteocalc = {
     "1.1.0" = import ./overrides/meteocalc/1.1.0;
   };
