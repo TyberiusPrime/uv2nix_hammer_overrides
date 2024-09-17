@@ -463,6 +463,9 @@
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
   };
+  begins = {
+    "0.9" = import ./overrides/begins/0.9;
+  };
   bencode = {
     "1.0" = import ./overrides/bencode/1.0;
   };
