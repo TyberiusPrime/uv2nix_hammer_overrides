@@ -1462,6 +1462,9 @@
   django-next-prev = {
     "1.1.0" = import ./overrides/django-next-prev/1.1.0;
   };
+  django-notification = {
+    "1.3.3" = import ./overrides/django-notification/1.3.3;
+  };
   django-oauth-tokens = {
     "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
   };
