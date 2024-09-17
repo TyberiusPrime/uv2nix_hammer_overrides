@@ -2345,6 +2345,9 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  funbelts = {
+    "0.1.86" = import ./overrides/funbelts/0.1.86;
+  };
   func-timeout = {
     "4.3.5" = import ./overrides/func-timeout/4.3.5;
   };
@@ -6165,6 +6168,7 @@
   regex = {
     "2020.11.13" = import ./overrides/regex/2020.11.13;
     "2020.2.20" = import ./overrides/regex/2020.2.20;
+    "2021.4.4" = import ./overrides/regex/2021.4.4;
   };
   regional = {
     "1.1.2" = import ./overrides/regional/1.1.2;
