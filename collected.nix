@@ -4507,6 +4507,9 @@
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
+  resolver = {
+    "0.2.1" = import ./overrides/resolver/0.2.1;
+  };
   restkit = {
     "4.2.2" = import ./overrides/restkit/4.2.2;
   };
@@ -4686,6 +4689,9 @@
   };
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
+  };
+  selector = {
+    "0.10.1" = import ./overrides/selector/0.10.1;
   };
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
