@@ -3221,6 +3221,9 @@
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
+  petab = {
+    "0.4.1" = import ./overrides/petab/0.4.1;
+  };
   petname = {
     "2.6" = import ./overrides/petname/2.6;
   };
