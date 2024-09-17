@@ -2233,6 +2233,9 @@
   houdini-py = {
     "0.1.0" = import ./overrides/houdini-py/0.1.0;
   };
+  howdoi = {
+    "2.0.20" = import ./overrides/howdoi/2.0.20;
+  };
   hrpc = {
     "1.0.9" = import ./overrides/hrpc/1.0.9;
   };
