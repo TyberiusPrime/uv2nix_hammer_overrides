@@ -3782,6 +3782,9 @@
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
+  preggy = {
+    "1.4.4" = import ./overrides/preggy/1.4.4;
+  };
   pretrainedmodels = {
     "0.7.4" = import ./overrides/pretrainedmodels/0.7.4;
   };
