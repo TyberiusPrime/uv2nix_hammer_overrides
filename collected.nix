@@ -5141,6 +5141,9 @@
   pynsq = {
     "0.9.1" = import ./overrides/pynsq/0.9.1;
   };
+  pynut2 = {
+    "2.1.2" = import ./overrides/pynut2/2.1.2;
+  };
   pyocclient = {
     "0.6" = import ./overrides/pyocclient/0.6;
   };
