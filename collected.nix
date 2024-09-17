@@ -3187,6 +3187,9 @@
   mplstereonet = {
     "0.6.3" = import ./overrides/mplstereonet/0.6.3;
   };
+  mpyq = {
+    "0.2.5" = import ./overrides/mpyq/0.2.5;
+  };
   mqtt2influxdb = {
     "1.5.2" = import ./overrides/mqtt2influxdb/1.5.2;
   };
