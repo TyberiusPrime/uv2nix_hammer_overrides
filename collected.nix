@@ -1231,6 +1231,9 @@
   django-fsm-admin = {
     "1.2.5" = import ./overrides/django-fsm-admin/1.2.5;
   };
+  django-gm2m = {
+    "1.2" = import ./overrides/django-gm2m/1.2;
+  };
   django-haystack = {
     "3.3.0" = import ./overrides/django-haystack/3.3.0;
   };
@@ -1414,8 +1417,14 @@
   djangorestframework-camel-case = {
     "1.4.2" = import ./overrides/djangorestframework-camel-case/1.4.2;
   };
+  djangorestframework-csv = {
+    "2.1.1" = import ./overrides/djangorestframework-csv/2.1.1;
+  };
   djangorestframework-extras = {
     "0.3.0" = import ./overrides/djangorestframework-extras/0.3.0;
+  };
+  djangorestframework-jsonschema = {
+    "0.1.1" = import ./overrides/djangorestframework-jsonschema/0.1.1;
   };
   djorm-ext-core = {
     "0.7" = import ./overrides/djorm-ext-core/0.7;
@@ -5043,6 +5052,9 @@
   };
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
+  };
+  regex = {
+    "2020.11.13" = import ./overrides/regex/2020.11.13;
   };
   regional = {
     "1.1.2" = import ./overrides/regional/1.1.2;
