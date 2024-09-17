@@ -3392,6 +3392,9 @@
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
+  pretrainedmodels = {
+    "0.7.4" = import ./overrides/pretrainedmodels/0.7.4;
+  };
   pretty-midi = {
     "0.2.10" = import ./overrides/pretty-midi/0.2.10;
   };
