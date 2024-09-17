@@ -5567,6 +5567,9 @@
   python-javabridge = {
     "4.0.4" = import ./overrides/python-javabridge/4.0.4;
   };
+  python-keyczar = {
+    "0.716" = import ./overrides/python-keyczar/0.716;
+  };
   python-ldap = {
     "3.4.4" = import ./overrides/python-ldap/3.4.4;
   };
