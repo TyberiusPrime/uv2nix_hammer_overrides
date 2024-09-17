@@ -4238,6 +4238,9 @@
   pyastronomy = {
     "0.22.0" = import ./overrides/pyastronomy/0.22.0;
   };
+  pyatem = {
+    "0.10.0" = import ./overrides/pyatem/0.10.0;
+  };
   pyauto-core = {
     "0.2.0" = import ./overrides/pyauto-core/0.2.0;
   };
