@@ -535,6 +535,9 @@
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
+  bloscpack = {
+    "0.16.0" = import ./overrides/bloscpack/0.16.0;
+  };
   bmipy = {
     "2.0.1" = import ./overrides/bmipy/2.0.1;
   };
