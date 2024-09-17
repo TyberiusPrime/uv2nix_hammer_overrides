@@ -625,6 +625,9 @@
   bmipy = {
     "2.0.1" = import ./overrides/bmipy/2.0.1;
   };
+  bnnumerizer = {
+    "0.0.2" = import ./overrides/bnnumerizer/0.0.2;
+  };
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
