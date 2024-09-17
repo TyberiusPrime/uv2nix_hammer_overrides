@@ -790,6 +790,9 @@
   cgroup-utils = {
     "0.8" = import ./overrides/cgroup-utils/0.8;
   };
+  chacha20poly1305 = {
+    "0.0.3" = import ./overrides/chacha20poly1305/0.0.3;
+  };
   chainlib = {
     "0.5.4" = import ./overrides/chainlib/0.5.4;
   };
