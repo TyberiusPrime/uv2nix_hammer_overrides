@@ -2803,6 +2803,9 @@
   monthdelta = {
     "0.9.1" = import ./overrides/monthdelta/0.9.1;
   };
+  mordred = {
+    "1.2.0" = import ./overrides/mordred/1.2.0;
+  };
   morph = {
     "0.1.5" = import ./overrides/morph/0.1.5;
   };
