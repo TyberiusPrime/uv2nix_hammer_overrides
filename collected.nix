@@ -6257,6 +6257,9 @@
   stormbot = {
     "2.1.1" = import ./overrides/stormbot/2.1.1;
   };
+  stormpath = {
+    "0.0.0.1" = import ./overrides/stormpath/0.0.0.1;
+  };
   stormssh = {
     "0.7.0" = import ./overrides/stormssh/0.7.0;
   };
