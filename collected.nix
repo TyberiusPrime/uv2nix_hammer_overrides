@@ -5414,6 +5414,9 @@
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
+  pyodbc = {
+    "5.1.0" = import ./overrides/pyodbc/5.1.0;
+  };
   pyogg = {
     "0.6.14a1" = import ./overrides/pyogg/0.6.14a1;
   };
