@@ -1317,6 +1317,9 @@
   delfick-error = {
     "1.8" = import ./overrides/delfick-error/1.8;
   };
+  delorean = {
+    "1.0.0" = import ./overrides/delorean/1.0.0;
+  };
   delta = {
     "0.4.2" = import ./overrides/delta/0.4.2;
   };
