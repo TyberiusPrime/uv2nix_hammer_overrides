@@ -3517,6 +3517,9 @@
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
+  livestreamer = {
+    "1.12.2" = import ./overrides/livestreamer/1.12.2;
+  };
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
