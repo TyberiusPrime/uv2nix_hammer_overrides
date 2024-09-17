@@ -4059,6 +4059,9 @@
   pbkdf2 = {
     "1.3" = import ./overrides/pbkdf2/1.3;
   };
+  pbs3 = {
+    "3.0.2" = import ./overrides/pbs3/3.0.2;
+  };
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
@@ -4810,6 +4813,9 @@
   };
   pymailgunner = {
     "1.5" = import ./overrides/pymailgunner/1.5;
+  };
+  pymarktex = {
+    "1.4.6" = import ./overrides/pymarktex/1.4.6;
   };
   pymatsolver = {
     "0.2.0" = import ./overrides/pymatsolver/0.2.0;
