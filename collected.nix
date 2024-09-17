@@ -3380,6 +3380,9 @@
   pftree = {
     "3.4.2" = import ./overrides/pftree/3.4.2;
   };
+  pfurl = {
+    "2.3.0.1" = import ./overrides/pfurl/2.3.0.1;
+  };
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
   };
