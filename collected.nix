@@ -4502,6 +4502,9 @@
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
   };
+  plaid-python = {
+    "25.0.0" = import ./overrides/plaid-python/25.0.0;
+  };
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
