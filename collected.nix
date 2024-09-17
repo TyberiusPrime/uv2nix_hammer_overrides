@@ -3244,6 +3244,9 @@
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
+  modulemd = {
+    "1.3.3" = import ./overrides/modulemd/1.3.3;
+  };
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
