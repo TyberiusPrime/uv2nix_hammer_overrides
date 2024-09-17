@@ -1841,6 +1841,9 @@
   ecmwf-api-client = {
     "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
   };
+  ed25519-blake2b = {
+    "1.4.1" = import ./overrides/ed25519-blake2b/1.4.1;
+  };
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
