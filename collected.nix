@@ -6928,6 +6928,9 @@
   wxpy = {
     "0.3.9.8" = import ./overrides/wxpy/0.3.9.8;
   };
+  x256 = {
+    "0.0.3" = import ./overrides/x256/0.0.3;
+  };
   xapp = {
     "0.0.1" = import ./overrides/xapp/0.0.1;
   };
