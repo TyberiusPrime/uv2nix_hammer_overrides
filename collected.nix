@@ -3807,6 +3807,9 @@
   pactman = {
     "2.31.0" = import ./overrides/pactman/2.31.0;
   };
+  padaos = {
+    "0.1.10" = import ./overrides/padaos/0.1.10;
+  };
   pager = {
     "3.3" = import ./overrides/pager/3.3;
   };
