@@ -6609,6 +6609,9 @@
   wwpdb-utils-config = {
     "0.45" = import ./overrides/wwpdb-utils-config/0.45;
   };
+  wwpdb-utils-db = {
+    "0.31.1" = import ./overrides/wwpdb-utils-db/0.31.1;
+  };
   wwpdb-utils-dp = {
     "0.54" = import ./overrides/wwpdb-utils-dp/0.54;
   };
