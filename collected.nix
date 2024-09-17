@@ -1360,6 +1360,9 @@
   django-fields = {
     "0.3.0" = import ./overrides/django-fields/0.3.0;
   };
+  django-form-utils = {
+    "1.0.3" = import ./overrides/django-form-utils/1.0.3;
+  };
   django-fsm-admin = {
     "1.2.5" = import ./overrides/django-fsm-admin/1.2.5;
   };
