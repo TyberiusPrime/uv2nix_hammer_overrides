@@ -1002,6 +1002,9 @@
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
+  date-extractor = {
+    "5.1.5" = import ./overrides/date-extractor/5.1.5;
+  };
   dawg = {
     "0.8.0" = import ./overrides/dawg/0.8.0;
   };
