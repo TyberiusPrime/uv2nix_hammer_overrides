@@ -5013,6 +5013,9 @@
   pyftpdlib = {
     "2.0.0" = import ./overrides/pyftpdlib/2.0.0;
   };
+  pygeohash = {
+    "1.2.0" = import ./overrides/pygeohash/1.2.0;
+  };
   pygerrit2 = {
     "2.0.15" = import ./overrides/pygerrit2/2.0.15;
   };
