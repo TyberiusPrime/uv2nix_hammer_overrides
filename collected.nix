@@ -4252,6 +4252,9 @@
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
   };
+  radar = {
+    "0.3" = import ./overrides/radar/0.3;
+  };
   radian = {
     "0.6.13" = import ./overrides/radian/0.6.13;
   };
