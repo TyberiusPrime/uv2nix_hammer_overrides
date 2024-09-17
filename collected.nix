@@ -2379,6 +2379,9 @@
   frasco-models = {
     "0.7.0" = import ./overrides/frasco-models/0.7.0;
   };
+  fred = {
+    "3.1" = import ./overrides/fred/3.1;
+  };
   free-proxy = {
     "1.1.2" = import ./overrides/free-proxy/1.1.2;
   };
