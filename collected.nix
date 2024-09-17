@@ -714,6 +714,9 @@
   colormath = {
     "3.0.0" = import ./overrides/colormath/3.0.0;
   };
+  colorpalette = {
+    "0.3.3" = import ./overrides/colorpalette/0.3.3;
+  };
   colortools = {
     "0.1.2" = import ./overrides/colortools/0.1.2;
   };
@@ -1716,6 +1719,9 @@
   };
   fleep = {
     "1.0.1" = import ./overrides/fleep/1.0.1;
+  };
+  flexsolve = {
+    "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
@@ -5312,6 +5318,9 @@
   };
   thepiratebay = {
     "1.3.5" = import ./overrides/thepiratebay/1.3.5;
+  };
+  thermosteam = {
+    "0.43.0" = import ./overrides/thermosteam/0.43.0;
   };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
