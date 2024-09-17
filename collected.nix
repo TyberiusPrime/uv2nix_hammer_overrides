@@ -7530,6 +7530,9 @@
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
+  wikipedia = {
+    "1.4.0" = import ./overrides/wikipedia/1.4.0;
+  };
   wikipedia-api = {
     "0.7.1" = import ./overrides/wikipedia-api/0.7.1;
   };
