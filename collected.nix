@@ -580,6 +580,9 @@
   callee = {
     "0.3.1" = import ./overrides/callee/0.3.1;
   };
+  can = {
+    "0.0.0" = import ./overrides/can/0.0.0;
+  };
   canonical = {
     "0.52.0" = import ./overrides/canonical/0.52.0;
   };
