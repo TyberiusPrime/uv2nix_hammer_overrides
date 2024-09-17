@@ -3871,6 +3871,9 @@
   pyrepl = {
     "0.9.0" = import ./overrides/pyrepl/0.9.0;
   };
+  pyrepresent = {
+    "0.4.0" = import ./overrides/pyrepresent/0.4.0;
+  };
   pyric = {
     "0.1.6.3" = import ./overrides/pyric/0.1.6.3;
   };
