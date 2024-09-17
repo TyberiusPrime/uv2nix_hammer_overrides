@@ -3043,6 +3043,9 @@
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
+  ms-active-directory = {
+    "1.14.1" = import ./overrides/ms-active-directory/1.14.1;
+  };
   ms-cv = {
     "0.1.1" = import ./overrides/ms-cv/0.1.1;
   };
