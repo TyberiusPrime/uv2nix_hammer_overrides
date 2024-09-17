@@ -3959,6 +3959,9 @@
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
+  ofxtools = {
+    "0.9.5" = import ./overrides/ofxtools/0.9.5;
+  };
   oidcservice = {
     "1.1.0" = import ./overrides/oidcservice/1.1.0;
   };
