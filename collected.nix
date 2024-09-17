@@ -5341,6 +5341,9 @@
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
   };
+  s-gd2 = {
+    "1.8.1" = import ./overrides/s-gd2/1.8.1;
+  };
   sabyenc = {
     "3.3.6" = import ./overrides/sabyenc/3.3.6;
   };
