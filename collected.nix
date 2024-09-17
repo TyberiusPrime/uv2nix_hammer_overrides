@@ -427,6 +427,9 @@
   bizkaibus = {
     "0.1.4" = import ./overrides/bizkaibus/0.1.4;
   };
+  bjoern = {
+    "3.2.2" = import ./overrides/bjoern/3.2.2;
+  };
   bkcharts = {
     "0.2" = import ./overrides/bkcharts/0.2;
   };
@@ -3413,6 +3416,12 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  psqlparse = {
+    "1.0rc7" = import ./overrides/psqlparse/1.0rc7;
+  };
+  psycopg2 = {
+    "2.9.9" = import ./overrides/psycopg2/2.9.9;
+  };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
   };
@@ -3861,6 +3870,9 @@
   };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
+  };
+  pyreact = {
+    "0.6.0" = import ./overrides/pyreact/0.6.0;
   };
   pyreadline = {
     "2.1" = import ./overrides/pyreadline/2.1;
