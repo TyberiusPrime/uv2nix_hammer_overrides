@@ -1123,6 +1123,12 @@
   cov-core = {
     "1.15.0" = import ./overrides/cov-core/1.15.0;
   };
+  covalent = {
+    "0.235.1rc0" = import ./overrides/covalent/0.235.1rc0;
+  };
+  covalent-aws-plugins = {
+    "0.19.0" = import ./overrides/covalent-aws-plugins/0.19.0;
+  };
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
