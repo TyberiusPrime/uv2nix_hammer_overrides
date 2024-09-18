@@ -674,6 +674,9 @@
   bpycv = {
     "0.4.0" = import ./overrides/bpycv/0.4.0;
   };
+  brabbel = {
+    "0.4.4" = import ./overrides/brabbel/0.4.4;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
@@ -2376,6 +2379,9 @@
   formatizer = {
     "0.1.1" = import ./overrides/formatizer/0.1.1;
   };
+  formbar = {
+    "1.0rc20170131" = import ./overrides/formbar/1.0rc20170131;
+  };
   fortnitepy = {
     "3.6.9" = import ./overrides/fortnitepy/3.6.9;
   };
@@ -2445,6 +2451,9 @@
   future = {
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
+  };
+  fuzzy = {
+    "1.2.2" = import ./overrides/fuzzy/1.2.2;
   };
   fuzzysearch = {
     "0.7.3" = import ./overrides/fuzzysearch/0.7.3;
@@ -6543,6 +6552,9 @@
   };
   ring = {
     "0.10.1" = import ./overrides/ring/0.10.1;
+  };
+  ringo = {
+    "1.14.0" = import ./overrides/ringo/1.14.0;
   };
   ripozo = {
     "1.3.0" = import ./overrides/ripozo/1.3.0;
