@@ -159,3 +159,10 @@ poetry2nix example
     });
 }
 ```
+
+
+Open tasks:
+
+ - Fix (or exclude) the remaining build failures
+ - Redo it without '--wheel', prefering source packages (for the target packages).
+ - Mabye do it without preferWheel for *all* packages 
