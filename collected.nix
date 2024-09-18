@@ -244,6 +244,9 @@
   apkutils2 = {
     "1.0.0" = import ./overrides/apkutils2/1.0.0;
   };
+  app = {
+    "0.1.0" = import ./overrides/app/0.1.0;
+  };
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
@@ -3581,6 +3584,9 @@
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
+  lightparam = {
+    "0.4.6" = import ./overrides/lightparam/0.4.6;
+  };
   lightwave2 = {
     "0.8.23" = import ./overrides/lightwave2/0.8.23;
   };
@@ -5742,6 +5748,12 @@
   };
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
+  };
+  pyqt5 = {
+    "5.15.11" = import ./overrides/pyqt5/5.15.11;
+  };
+  pyqt5-qt5 = {
+    "5.15.15" = import ./overrides/pyqt5-qt5/5.15.15;
   };
   pyquerystring = {
     "1.1" = import ./overrides/pyquerystring/1.1;

@@ -1,0 +1,2 @@
+ManualOverrides = "__file__:pyqt5/5.15.11/default.nix"
+QTDontWrap = true
