@@ -2703,6 +2703,9 @@
   gssapi = {
     "1.8.3" = import ./overrides/gssapi/1.8.3;
   };
+  gsutil = {
+    "5.30" = import ./overrides/gsutil/5.30;
+  };
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
