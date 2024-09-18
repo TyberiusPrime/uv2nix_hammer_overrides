@@ -3226,6 +3226,9 @@
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
   };
+  json-cfg-rw = {
+    "0.6.0" = import ./overrides/json-cfg-rw/0.6.0;
+  };
   json-database = {
     "0.7.0" = import ./overrides/json-database/0.7.0;
   };
@@ -5075,6 +5078,9 @@
   psqlparse = {
     "1.0rc7" = import ./overrides/psqlparse/1.0rc7;
   };
+  psutil = {
+    "5.9.0" = import ./overrides/psutil/5.9.0;
+  };
   psychrolib = {
     "2.5.0" = import ./overrides/psychrolib/2.5.0;
   };
@@ -6207,6 +6213,9 @@
   pytlv = {
     "0.71" = import ./overrides/pytlv/0.71;
   };
+  pytmpdir = {
+    "1.1.0" = import ./overrides/pytmpdir/1.1.0;
+  };
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
@@ -7025,6 +7034,9 @@
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
+  soappy-py3 = {
+    "0.52.30" = import ./overrides/soappy-py3/0.52.30;
+  };
   socketio-client = {
     "0.7.2" = import ./overrides/socketio-client/0.7.2;
   };
@@ -7783,8 +7795,20 @@
   twofish = {
     "0.3.0" = import ./overrides/twofish/0.3.0;
   };
+  txcelery-py3 = {
+    "1.6.4" = import ./overrides/txcelery-py3/1.6.4;
+  };
+  txhttputil = {
+    "1.3.0" = import ./overrides/txhttputil/1.3.0;
+  };
   txredis = {
     "2.4" = import ./overrides/txredis/2.4;
+  };
+  txsuds-py3 = {
+    "0.5.10" = import ./overrides/txsuds-py3/0.5.10;
+  };
+  txwebsocket = {
+    "1.1.1" = import ./overrides/txwebsocket/1.1.1;
   };
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
@@ -8081,6 +8105,9 @@
   volvooncall = {
     "0.10.4" = import ./overrides/volvooncall/0.10.4;
   };
+  vortexpy = {
+    "3.1.0" = import ./overrides/vortexpy/3.1.0;
+  };
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
   };
@@ -8226,6 +8253,9 @@
   };
   wsgiutils = {
     "0.7.2" = import ./overrides/wsgiutils/0.7.2;
+  };
+  wstools-py3 = {
+    "0.54.5" = import ./overrides/wstools-py3/0.54.5;
   };
   wtf-peewee = {
     "3.0.5" = import ./overrides/wtf-peewee/3.0.5;
