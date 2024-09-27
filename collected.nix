@@ -6987,6 +6987,9 @@
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
   };
+  sktime = {
+    "0.26.0" = import ./overrides/sktime/0.26.0;
+  };
   slackclient = {
     "0.16" = import ./overrides/slackclient/0.16;
   };
