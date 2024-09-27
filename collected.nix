@@ -5668,6 +5668,9 @@
   pynut2 = {
     "2.1.2" = import ./overrides/pynut2/2.1.2;
   };
+  pyo = {
+    "1.0.5" = import ./overrides/pyo/1.0.5;
+  };
   pyocclient = {
     "0.6" = import ./overrides/pyocclient/0.6;
   };

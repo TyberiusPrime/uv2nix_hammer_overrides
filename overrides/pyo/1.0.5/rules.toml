@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:pyo/1.0.5/default.nix"
