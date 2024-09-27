@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.zlib.out",]
+BuildSystems = [ "cython", "oldest-supported-numpy", "setuptools", "wheel",]
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config", "~literal:!:pkgs.zlib.dev",]

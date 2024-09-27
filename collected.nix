@@ -593,6 +593,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  bioservices = {
+    "1.11.2" = import ./overrides/bioservices/1.11.2;
+  };
   biplist = {
     "1.0.3" = import ./overrides/biplist/1.0.3;
   };
@@ -730,6 +733,9 @@
   };
   bwapy = {
     "0.1.4" = import ./overrides/bwapy/0.1.4;
+  };
+  bx-python = {
+    "0.10.0" = import ./overrides/bx-python/0.10.0;
   };
   bz2file = {
     "0.98" = import ./overrides/bz2file/0.98;
@@ -7031,6 +7037,9 @@
   snakecase = {
     "1.0.1" = import ./overrides/snakecase/1.0.1;
   };
+  snakemake = {
+    "7.32.4" = import ./overrides/snakemake/7.32.4;
+  };
   snapcast = {
     "2.3.6" = import ./overrides/snapcast/2.3.6;
   };
@@ -7084,6 +7093,9 @@
   };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
+  };
+  spectra = {
+    "0.0.11" = import ./overrides/spectra/0.0.11;
   };
   speg = {
     "0.3" = import ./overrides/speg/0.3;
