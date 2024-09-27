@@ -4410,6 +4410,9 @@
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
+  notmuch2 = {
+    "0.1" = import ./overrides/notmuch2/0.1;
+  };
   npm = {
     "0.1.1" = import ./overrides/npm/0.1.1;
   };

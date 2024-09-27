@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.notmuch",]
+BuildSystems = [ "cffi", "setuptools",]
+ManualOverrides = "__file__:notmuch2/0.1/default.nix"
