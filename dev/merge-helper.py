@@ -47,7 +47,7 @@ for chosen in available:
     elif pull_failed:
         raise ValueError("pull failed")
     shutil.move(chosen, 
-                Path("imported") / ("imported_" + chosen.name))
+                Path("../builds/imported") / ("imported_" + chosen.name))
     commited_any = True
 
 
