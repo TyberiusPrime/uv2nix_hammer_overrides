@@ -1080,3 +1080,5 @@ bluepy-devices = "Needs bluepy (see above)"
 xkbcommon = "todo:  make it find xkbcommeon.h"
 pywlroots = "needs xkbcommon"
 tess = "Python capi build failure"
+
+apache-airflow-providers-google = "todo: after https://github.com/TyberiusPrime/20240927_uv2nix_collision is fixed"
