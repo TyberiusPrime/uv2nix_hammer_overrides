@@ -1,6 +1,9 @@
-{ final, pkgs, ... }:
+{ resolveBuildSystem, pkgs, ... }:
 old:
 if ((old.format or "sdist") == "wheel") then
   { }
 else
-  { nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ pkgs.krb5Full ] ++ [ final.setuptools ]; }
+  {
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ] ++ [ pkgs.krb5Full ] ++ (resolveBuildSystem { setuptools = [ ]; });
+  }

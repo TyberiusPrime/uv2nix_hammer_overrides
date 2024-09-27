@@ -1,11 +1,13 @@
-{ final, ... }:
+{ resolveBuildSystem, ... }:
 old:
 if ((old.format or "sdist") == "wheel") then
   { }
 else
   {
-    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [
-      final.cffi
-      final.setuptools
-    ];
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ (resolveBuildSystem {
+        cffi = [ ];
+        setuptools = [ ];
+      });
   }

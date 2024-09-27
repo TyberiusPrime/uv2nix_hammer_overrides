@@ -1,4 +1,4 @@
-{ final, pkgs, ... }:
+{ resolveBuildSystem, pkgs, ... }:
 old:
 if ((old.format or "sdist") == "wheel") then
   { buildInputs = old.buildInputs or [ ] ++ [ pkgs.libmysqlclient ]; }
@@ -11,5 +11,5 @@ else
         pkgs.libmysqlclient
         pkgs.pkg-config
       ]
-      ++ [ final.setuptools ];
+      ++ (resolveBuildSystem { setuptools = [ ]; });
   }

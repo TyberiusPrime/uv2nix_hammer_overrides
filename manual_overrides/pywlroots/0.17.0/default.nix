@@ -1,5 +1,6 @@
-with pkgs; {
-  nativeBuildInputs = [pkg-config];
+with pkgs;
+{
+  nativeBuildInputs = [ pkg-config ];
   buildInputs = [
     libinput
     libxkbcommon

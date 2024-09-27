@@ -1,13 +1,15 @@
 let
-  lib = pkgs.lib;
-  selectQt5 = version: let
-    selector = builtins.concatStringsSep "" (lib.take 2 (builtins.splitVersion version));
-  in
+  inherit (pkgs) lib;
+  selectQt5 =
+    version:
+    let
+      selector = builtins.concatStringsSep "" (lib.take 2 (builtins.splitVersion version));
+    in
     pkgs."qt${selector}" or pkgs.qt5;
 
   qt5 = selectQt5 prev.pyqt5-qt5.version;
-  pyQt5Modules = qt5:
-    with qt5; [
+  pyQt5Modules =
+    qt5: with qt5; [
       qt3d
       qtbase
       qtcharts
@@ -30,7 +32,8 @@ let
       qttools
 
     ];
-in {
+in
+{
   postPatch = ''
     # Confirm license, if project.py exists
     if test -f project.py; then
@@ -41,13 +44,12 @@ in {
   dontConfigure = true;
   dontWrapQtApps = true;
   nativeBuildInputs =
-    old.nativeBuildInputs
-    or []
+    old.nativeBuildInputs or [ ]
     ++ pyQt5Modules qt5
     ++ [
       final.pyqt-builder
       final.sip
     ];
-    buildInputs = old.buildInputs or [] ++ pyQt5Modules qt5;
-  autoPatchelfIgnoreMissingDeps = ["libQt5TextToSpeech.so.5"]; # no clue if this is correct.
+  buildInputs = old.buildInputs or [ ] ++ pyQt5Modules qt5;
+  autoPatchelfIgnoreMissingDeps = [ "libQt5TextToSpeech.so.5" ]; # no clue if this is correct.
 }

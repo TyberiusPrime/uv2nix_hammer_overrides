@@ -1,3 +1,1 @@
-{
-  propagatedBuildInputs = [final.capstone];
-}
+{ propagatedBuildInputs = [ final.capstone ]; }

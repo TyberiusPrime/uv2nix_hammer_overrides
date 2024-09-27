@@ -1,10 +1,15 @@
-{ pkgs, final, ... }:
+{
+  resolveBuildSystem,
+  pkgs,
+  final,
+  ...
+}:
 old:
 if ((old.format or "sdist") == "wheel") then
   { }
 else
   {
-    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ final.setuptools ];
+    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { setuptools = [ ]; });
     postPatch =
       (old.postPatch or "")
       + (pkgs.lib.optionalString (!(final.pythonOlder "3.12")) ''

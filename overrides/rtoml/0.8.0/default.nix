@@ -1,6 +1,6 @@
 {
+  resolveBuildSystem,
   helpers,
-  final,
   pkgs,
   ...
 }:
@@ -15,11 +15,13 @@ let
           { }
         else
           {
-            nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [
-              final.setuptools-rust
-              final.setuptools
-              final.wheel
-            ];
+            nativeBuildInputs =
+              old.nativeBuildInputs or [ ]
+              ++ (resolveBuildSystem {
+                setuptools = [ ];
+                setuptools-rust = [ ];
+                wheel = [ ];
+              });
           }
       )
     )

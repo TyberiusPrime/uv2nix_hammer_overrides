@@ -1,14 +1,16 @@
-{ final, ... }:
+{ resolveBuildSystem, ... }:
 old:
 if ((old.format or "sdist") == "wheel") then
   { }
 else
   {
-    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [
-      final.wheel
-      final.scipy
-      final.cython_0
-      final.numpy
-      final.setuptools
-    ];
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ (resolveBuildSystem {
+        "cython_0" = [ ];
+        numpy = [ ];
+        scipy = [ ];
+        setuptools = [ ];
+        wheel = [ ];
+      });
   }

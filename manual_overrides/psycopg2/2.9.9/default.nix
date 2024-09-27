@@ -11,5 +11,5 @@
     PGDATABASE = "psycopg2_test";
   };
 
-  buildInputs = [pkgs.postgresql] ++ pkgs.lib.optionals pkgs.stdenv.isDarwin [pkgs.openssl];
+  buildInputs = [ pkgs.postgresql ] ++ pkgs.lib.optionals pkgs.stdenv.isDarwin [ pkgs.openssl ];
 }

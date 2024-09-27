@@ -1,4 +1,4 @@
-{ final, pkgs, ... }:
+{ resolveBuildSystem, pkgs, ... }:
 old:
 let
   funcs = [
@@ -11,7 +11,7 @@ let
         else
           {
             buildInputs = old.buildInputs or [ ] ++ [ pkgs.ncurses ];
-            nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ final.setuptools ];
+            nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { setuptools = [ ]; });
           }
       )
     )

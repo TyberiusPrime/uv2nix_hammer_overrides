@@ -8,11 +8,8 @@
       --replace-quiet 'setuptools>=49.2.0' 'setuptools'
   '';
 
-  buildInputs =
-    old.buildInputs
-    or []
-    ++ [
-      pkgs.zlib
-      pkgs.bwa
-    ];
+  buildInputs = old.buildInputs or [ ] ++ [
+    pkgs.zlib
+    pkgs.bwa
+  ];
 }

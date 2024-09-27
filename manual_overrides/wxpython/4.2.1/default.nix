@@ -1,16 +1,19 @@
 let
-  localPython = final.python.withPackages (ps:
-    with ps; [
+  localPython = final.python.withPackages (
+    ps: with ps; [
       setuptools
       numpy
       six
-    ]);
-in {
+    ]
+  );
+in
+{
   pythonOutputDistPhase = ":";
 
   DOXYGEN = "${pkgs.doxygen}/bin/doxygen";
 
-  nativeBuildInputs = with pkgs;
+  nativeBuildInputs =
+    with pkgs;
     [
       which
       doxygen
@@ -19,9 +22,10 @@ in {
       autoPatchelfHook
       final.sip
     ]
-    ++ old.nativeBuildInputs or [];
+    ++ old.nativeBuildInputs or [ ];
 
-  buildInputs = with pkgs;
+  buildInputs =
+    with pkgs;
     [
       gtk3
       webkitgtk
@@ -39,7 +43,7 @@ in {
       libglvnd
       mesa
     ]
-    ++ old.buildInputs or [];
+    ++ old.buildInputs or [ ];
 
   buildPhase = ''
     ${localPython.interpreter} build.py -v build_wx

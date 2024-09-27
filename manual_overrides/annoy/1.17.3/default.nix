@@ -1,7 +1,7 @@
 {
   postPatch = ''
-  cat setup.py
-  substituteInPlace "setup.py" \
-    --replace-fail "'nose>=1.0'" ""
+    cat setup.py
+    substituteInPlace "setup.py" \
+      --replace-fail "'nose>=1.0'" ""
   '';
 }

@@ -9,7 +9,4 @@ if ((old.format or "sdist") == "wheel") then
     '';
   }
 else
-  {
-    buildInputs = old.buildInputs or [ ] ++ [ pkgs.cudaPackages.cuda_cudart ];
-    env = { };
-  }
+  { buildInputs = old.buildInputs or [ ] ++ [ pkgs.cudaPackages.cuda_cudart ]; }

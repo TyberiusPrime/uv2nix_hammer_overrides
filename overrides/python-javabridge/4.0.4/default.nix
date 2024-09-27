@@ -1,6 +1,6 @@
 {
+  resolveBuildSystem,
   helpers,
-  final,
   pkgs,
   ...
 }:
@@ -13,11 +13,11 @@ else
     nativeBuildInputs =
       old.nativeBuildInputs or [ ]
       ++ [ pkgs.openjdk ]
-      ++ [
-        final.cython_0
-        final.setuptools
-        final.numpy
-      ];
+      ++ (resolveBuildSystem {
+        "cython_0" = [ ];
+        numpy = [ ];
+        setuptools = [ ];
+      });
     postPatch =
       (old.postPatch or "")
       + ''

@@ -1,11 +1,10 @@
-{ final, pkgs, ... }:
+{ resolveBuildSystem, pkgs, ... }:
 old:
 if ((old.format or "sdist") == "wheel") then
   { buildInputs = old.buildInputs or [ ] ++ [ pkgs.cairo ]; }
 else
   {
     buildInputs = old.buildInputs or [ ] ++ [ pkgs.cairo ];
-    env = { };
     nativeBuildInputs =
       old.nativeBuildInputs or [ ]
       ++ [
@@ -13,12 +12,15 @@ else
         pkgs.meson
         pkgs.pkg-config
       ]
-      ++ [
-        final.meson-python
-        final.pycairo
-      ];
-    preBuild = ''
-      cd /build
-      cd ${old.pname}-${old.version}
-    '';
+      ++ (resolveBuildSystem {
+        meson-python = [ ];
+        pycairo = [ ];
+      });
+    preBuild = [
+      old.preBuild or ""
+      ''
+        cd /build
+        cd ${old.pname}-${old.version}
+      ''
+    ];
   }

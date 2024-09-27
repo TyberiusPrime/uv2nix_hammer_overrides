@@ -1,6 +1,6 @@
-{ final, ... }:
+{ resolveBuildSystem, ... }:
 old:
 if ((old.format or "sdist") == "wheel") then
   { }
 else
-  { nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ final.hatchling ]; }
+  { nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { hatchling = [ ]; }); }

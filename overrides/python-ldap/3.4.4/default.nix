@@ -1,4 +1,4 @@
-{ final, pkgs, ... }:
+{ resolveBuildSystem, pkgs, ... }:
 old:
 if ((old.format or "sdist") == "wheel") then
   {
@@ -15,5 +15,5 @@ else
       pkgs.openldap.dev
       pkgs.pkg-config
     ];
-    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ final.setuptools ];
+    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { setuptools = [ ]; });
   }

@@ -1,6 +1,6 @@
 {
   # from nixpkgs 
-   postPatch = ''
+  postPatch = ''
     substituteInPlace setup.py --replace '"pytest-runner"' ""
   '';
 
@@ -14,4 +14,3 @@
 
   buildInputs = [ pkgs.keyutils ];
 }
-

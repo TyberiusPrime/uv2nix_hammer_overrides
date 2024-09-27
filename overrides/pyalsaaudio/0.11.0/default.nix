@@ -1,9 +1,9 @@
-{ final, pkgs, ... }:
+{ resolveBuildSystem, pkgs, ... }:
 old:
 if ((old.format or "sdist") == "wheel") then
   { buildInputs = old.buildInputs or [ ] ++ [ pkgs.alsa-lib ]; }
 else
   {
     buildInputs = old.buildInputs or [ ] ++ [ pkgs.alsa-lib ];
-    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ final.setuptools ];
+    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { setuptools = [ ]; });
   }

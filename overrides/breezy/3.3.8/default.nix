@@ -1,6 +1,6 @@
 {
+  resolveBuildSystem,
   helpers,
-  final,
   pkgs,
   ...
 }:
@@ -15,12 +15,14 @@ let
           { }
         else
           {
-            nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [
-              final.setuptools-gettext
-              final.setuptools-rust
-              final.cython
-              final.setuptools
-            ];
+            nativeBuildInputs =
+              old.nativeBuildInputs or [ ]
+              ++ (resolveBuildSystem {
+                cython = [ ];
+                setuptools = [ ];
+                setuptools-gettext = [ ];
+                setuptools-rust = [ ];
+              });
           }
       )
     )
