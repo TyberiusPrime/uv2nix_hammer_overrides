@@ -36,27 +36,37 @@
     helpers = import ./helpers.nix {pkgs = nixpkgs.legacyPackages.x86_64-linux;};
   in {
     formatter = eachSystem (pkgs: treefmtEval.${pkgs.system}.config.build.wrapper);
-    overrides = nixpkgs_pkgs: final: prev: (lib.attrsets.mapAttrs (
-        name: available_versions: let
-          matched_version = version_match name prev.${name}.version;
-          resolveBuildSystem = final.resolveBuildSystem or poetry2nix_resolveBuildSystem_adapter;
-          poetry2nix_resolveBuildSystem_adapter = pyproject-nix-style-build-systems:
-            builtins.map (x: final.${x}) (builtins.attrNames pyproject-nix-style-build-systems);
-        in
-          # poetry2nix or uv2nix with pyproject.nix builders?
-          (prev.${name}.overridePythonAttrs or prev.${name}.overrideAttrs) (
-            available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
-              inherit
-                final
-                prev
-                helpers
-                resolveBuildSystem
-                ;
-              pkgs = nixpkgs_pkgs;
-            }
-          )
-      )
-      overrides_by_version);
+    overrides = nixpkgs_pkgs: final: prev:
+      (lib.attrsets.mapAttrs (
+          name: available_versions: let
+            matched_version = version_match name prev.${name}.version;
+            resolveBuildSystem = final.resolveBuildSystem or poetry2nix_resolveBuildSystem_adapter;
+            poetry2nix_resolveBuildSystem_adapter = pyproject-nix-style-build-systems:
+              builtins.map (x: final.${x}) (builtins.attrNames pyproject-nix-style-build-systems);
+          in
+            # poetry2nix or uv2nix with pyproject.nix builders?
+            (prev.${name}.overridePythonAttrs or prev.${name}.overrideAttrs) (
+              available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
+                inherit
+                  final
+                  prev
+                  helpers
+                  resolveBuildSystem
+                  ;
+                pkgs = nixpkgs_pkgs;
+              }
+            )
+        )
+        overrides_by_version)
+      // {
+        cython_0 = prev.cython_0.overideAttrs {
+          src = nixpkgs_pkgs.fetchPypi {
+            pname = "Cython";
+            version = "0.29.36";
+            hash = "sha256-QcDP0tdU44PJ7rle/8mqSrhH0Ml0cHfd18Dctow7wB8=";
+          };
+        };
+      };
     devShell.x86_64-linux = let
       pkgs = nixpkgs.legacyPackages.x86_64-linux;
     in

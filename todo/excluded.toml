@@ -1082,3 +1082,5 @@ pywlroots = "needs xkbcommon"
 tess = "Python capi build failure"
 
 apache-airflow-providers-google = "todo: after https://github.com/TyberiusPrime/20240927_uv2nix_collision is fixed"
+chromedriver-binary = "downloads a non python binary, use nixpkgs chromedriver"
+pycaret = "todo: can't find wheel?"

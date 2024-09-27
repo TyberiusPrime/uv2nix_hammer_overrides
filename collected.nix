@@ -5083,6 +5083,7 @@
   };
   psutil = {
     "5.9.0" = import ./overrides/psutil/5.9.0;
+    "6.0.0" = import ./overrides/psutil/6.0.0;
   };
   psychrolib = {
     "2.5.0" = import ./overrides/psychrolib/2.5.0;
