@@ -4735,6 +4735,9 @@
   pbs3 = {
     "3.0.2" = import ./overrides/pbs3/3.0.2;
   };
+  pcapy-ng = {
+    "1.0.9" = import ./overrides/pcapy-ng/1.0.9;
+  };
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
