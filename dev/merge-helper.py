@@ -46,7 +46,8 @@ for chosen in available:
         print("both added")
     elif pull_failed:
         raise ValueError("pull failed")
-    shutil.move(chosen, chosen.with_name("imported_" + chosen.name))
+    shutil.move(chosen, 
+                Path("imported") / ("imported_" + chosen.name))
     commited_any = True
 
 

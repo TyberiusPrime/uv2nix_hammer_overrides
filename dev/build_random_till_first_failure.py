@@ -33,7 +33,7 @@ done = set([normalize_python_package_name(x.split("_")[2]) for x in done])
 imported_done = set(
     [
         normalize_python_package_name(x.name.split("_")[3])
-        for x in Path(".").glob("imported_hammer_build*")
+        for x in Path("imported").glob("imported_hammer_build*")
         if (x / "build" / "result").exists() or (x / "build" / "result").is_symlink()
     ]
 )
