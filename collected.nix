@@ -8000,6 +8000,9 @@
   valideer = {
     "0.4.2" = import ./overrides/valideer/0.4.2;
   };
+  vapoursynth = {
+    "70" = import ./overrides/vapoursynth/70;
+  };
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
