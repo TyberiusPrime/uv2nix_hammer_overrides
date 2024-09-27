@@ -1,0 +1,9 @@
+
+[project]
+name = "app"
+version = "0.1.0"
+description = "Example uv2nix and uv2nix_hammer_overrides"
+requires-python = "~=3.12"
+dependencies = [
+    "sqlalchemy==1.4.15",
+]
