@@ -1,0 +1,2 @@
+MaturinBitRot = "Cargo.toml"
+Rust = [ "maturin", "hammer_build_fastuuid_0.8.0/overrides/overrides/fastuuid/0.8.0/Cargo.lock",]
