@@ -6154,6 +6154,9 @@
   python-qpid-proton = {
     "0.39.0" = import ./overrides/python-qpid-proton/0.39.0;
   };
+  python-rtmidi = {
+    "1.5.8" = import ./overrides/python-rtmidi/1.5.8;
+  };
   python-simple-hipchat = {
     "0.4.0" = import ./overrides/python-simple-hipchat/0.4.0;
   };
