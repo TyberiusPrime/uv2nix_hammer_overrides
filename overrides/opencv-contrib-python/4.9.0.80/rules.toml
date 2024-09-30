@@ -1,0 +1,2 @@
+BuildSystems = [ "cmake", "numpy", "pip", "scikit-build", "setuptools",]
+ManualOverrides = "__file__:opencv-contrib-python/4.9.0.80/default.nix"

@@ -1,0 +1,2 @@
+BuildSystems = [ "calver", "setuptools", "wheel",]
+TomlRequiresPatcher = [ false, false, false, false, false, false,]

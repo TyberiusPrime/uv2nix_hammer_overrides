@@ -262,6 +262,9 @@
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
+  arcor2 = {
+    "1.4.0" = import ./overrides/arcor2/1.4.0;
+  };
   arelle = {
     "2.2" = import ./overrides/arelle/2.2;
   };
@@ -754,6 +757,9 @@
   };
   callee = {
     "0.3.1" = import ./overrides/callee/0.3.1;
+  };
+  calver = {
+    "2022.06.26" = import ./overrides/calver/2022.06.26;
   };
   can = {
     "0.0.0" = import ./overrides/can/0.0.0;
@@ -1453,6 +1459,9 @@
   };
   distributedlock = {
     "1.2" = import ./overrides/distributedlock/1.2;
+  };
+  distro = {
+    "1.9.0" = import ./overrides/distro/1.9.0;
   };
   diversipy = {
     "0.9" = import ./overrides/diversipy/0.9;
@@ -4317,6 +4326,9 @@
   networktools = {
     "1.6.0" = import ./overrides/networktools/1.6.0;
   };
+  networkx = {
+    "2.2" = import ./overrides/networkx/2.2;
+  };
   neuronpy = {
     "0.1.6" = import ./overrides/neuronpy/0.1.6;
   };
@@ -4556,6 +4568,9 @@
   };
   opencontainers = {
     "0.0.14" = import ./overrides/opencontainers/0.0.14;
+  };
+  opencv-contrib-python = {
+    "4.9.0.80" = import ./overrides/opencv-contrib-python/4.9.0.80;
   };
   openerp-process = {
     "7.0.406" = import ./overrides/openerp-process/7.0.406;
@@ -4937,6 +4952,9 @@
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
+  pluggy = {
+    "1.5.0" = import ./overrides/pluggy/1.5.0;
+  };
   pluginbase = {
     "1.0.1" = import ./overrides/pluginbase/1.0.1;
   };
@@ -5314,6 +5332,7 @@
     "0.92.20230326" = import ./overrides/pycoin/0.92.20230326;
   };
   pycollada = {
+    "0.6" = import ./overrides/pycollada/0.6;
     "0.8" = import ./overrides/pycollada/0.8;
   };
   pycolorizer = {
@@ -6875,6 +6894,9 @@
   setuptools-lint = {
     "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
   };
+  setuptools-scm = {
+    "8.1.0" = import ./overrides/setuptools-scm/8.1.0;
+  };
   sewar = {
     "0.4.6" = import ./overrides/sewar/0.4.6;
   };
@@ -7729,6 +7751,9 @@
   };
   trollsift = {
     "0.5.1" = import ./overrides/trollsift/0.5.1;
+  };
+  trove-classifiers = {
+    "2024.7.2" = import ./overrides/trove-classifiers/2024.7.2;
   };
   trueskill = {
     "0.4.5" = import ./overrides/trueskill/0.4.5;
