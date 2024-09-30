@@ -96,6 +96,7 @@ for chosen in order:
         stdout, stderr = p.communicate(timeout=600)
         stderr = stderr.decode()
     except:
+        stdout = ""
         stderr = "timout"
         p = subprocess.run(["false"])
     msg = None
