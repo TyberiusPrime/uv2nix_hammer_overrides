@@ -4982,6 +4982,9 @@
   podcats = {
     "0.6.3" = import ./overrides/podcats/0.6.3;
   };
+  poezio = {
+    "0.14" = import ./overrides/poezio/0.14;
+  };
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
