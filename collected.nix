@@ -3370,6 +3370,9 @@
   kegbot-pyutils = {
     "1.0.0" = import ./overrides/kegbot-pyutils/1.0.0;
   };
+  kenlm = {
+    "0.2.0" = import ./overrides/kenlm/0.2.0;
+  };
   keopscore = {
     "2.2.3" = import ./overrides/keopscore/2.2.3;
   };
