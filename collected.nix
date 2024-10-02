@@ -140,6 +140,9 @@
   alembic = {
     "1.6.2" = import ./overrides/alembic/1.6.2;
   };
+  algebra = {
+    "1.2.1" = import ./overrides/algebra/1.2.1;
+  };
   alibabacloud-tea-py2 = {
     "0.1.0" = import ./overrides/alibabacloud-tea-py2/0.1.0;
   };
@@ -448,6 +451,12 @@
   };
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
+  };
+  backends = {
+    "1.6.6" = import ./overrides/backends/1.6.6;
+  };
+  backends-matrix = {
+    "1.3.0" = import ./overrides/backends-matrix/1.3.0;
   };
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
@@ -2198,6 +2207,9 @@
   };
   fcore = {
     "4.0.0" = import ./overrides/fcore/4.0.0;
+  };
+  fdm = {
+    "0.4.1" = import ./overrides/fdm/0.4.1;
   };
   feather-format = {
     "0.4.1" = import ./overrides/feather-format/0.4.1;
@@ -7281,6 +7293,9 @@
   stemming = {
     "1.0.1" = import ./overrides/stemming/1.0.1;
   };
+  stheno = {
+    "1.4.1" = import ./overrides/stheno/1.4.1;
+  };
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
@@ -8071,6 +8086,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  varz = {
+    "0.8.1" = import ./overrides/varz/0.8.1;
+  };
   vcf-parser = {
     "1.6" = import ./overrides/vcf-parser/1.6;
   };
@@ -8202,6 +8220,9 @@
   };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
+  };
+  wbml = {
+    "0.4.1" = import ./overrides/wbml/0.4.1;
   };
   wcag-contrast-ratio = {
     "0.9" = import ./overrides/wcag-contrast-ratio/0.9;
