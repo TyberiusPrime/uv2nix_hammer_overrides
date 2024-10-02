@@ -620,6 +620,9 @@
   bitmath = {
     "1.3.3.1" = import ./overrides/bitmath/1.3.3.1;
   };
+  bitsandbytes = {
+    "0.43.3" = import ./overrides/bitsandbytes/0.43.3;
+  };
   bittorrent-bencode = {
     "5.0.8.1" = import ./overrides/bittorrent-bencode/5.0.8.1;
   };
