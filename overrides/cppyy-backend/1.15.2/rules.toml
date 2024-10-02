@@ -1,0 +1,1 @@
+BuildSystems = [ "cppyy-cling", "setuptools", "wheel",]
