@@ -1165,6 +1165,15 @@
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
+  cppyy = {
+    "3.1.2" = import ./overrides/cppyy/3.1.2;
+  };
+  cppyy-backend = {
+    "1.15.2" = import ./overrides/cppyy-backend/1.15.2;
+  };
+  cpycppyy = {
+    "1.12.16" = import ./overrides/cpycppyy/1.12.16;
+  };
   cpyparsing = {
     "2.4.7.2.4.0" = import ./overrides/cpyparsing/2.4.7.2.4.0;
   };
