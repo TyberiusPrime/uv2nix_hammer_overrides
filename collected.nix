@@ -5479,6 +5479,9 @@
   pyftpdlib = {
     "2.0.0" = import ./overrides/pyftpdlib/2.0.0;
   };
+  pygame = {
+    "2.1.3" = import ./overrides/pygame/2.1.3;
+  };
   pygeohash = {
     "1.2.0" = import ./overrides/pygeohash/1.2.0;
   };
