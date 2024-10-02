@@ -165,7 +165,10 @@ for chosen in order:
         #     )
         # else:
         print("return code was not 0")
-        sys.stdout.write(stdout.decode("utf-8"))
+        if isinstance(stdout, bytes):
+            sys.stdout.write(stdout.decode('utf-8'))
+        else:
+            sys.stdout.write(stdout)
         sys.stdout.write(stderr)
         if not keep_going:
             sys.exit(1)

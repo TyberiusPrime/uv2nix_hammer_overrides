@@ -59,7 +59,7 @@
         )
         overrides_by_version)
       // {
-        cython_0 = prev.cython_0.overideAttrs {
+        cython_0 = prev.cython.overrideAttrs {
           src = nixpkgs_pkgs.fetchPypi {
             pname = "Cython";
             version = "0.29.36";
