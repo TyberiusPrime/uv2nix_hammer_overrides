@@ -1,1 +1,2 @@
 BuildInputs = [ "~literal:!:pkgs.tbb.out",]
+BuildSystems = [ "setuptools",]
