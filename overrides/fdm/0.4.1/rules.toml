@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "numpy", "setuptools", "wheel",]
+ManualOverrides = "__file__:fdm/0.4.1/default.nix"
