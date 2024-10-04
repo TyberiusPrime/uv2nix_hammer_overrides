@@ -2121,6 +2121,9 @@
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
+  evdev = {
+    "1.7.1" = import ./overrides/evdev/1.7.1;
+  };
   eventemitter = {
     "0.2.0" = import ./overrides/eventemitter/0.2.0;
   };
