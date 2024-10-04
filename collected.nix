@@ -177,6 +177,9 @@
   android-backup = {
     "0.2.0" = import ./overrides/android-backup/0.2.0;
   };
+  angr = {
+    "9.2.117" = import ./overrides/angr/9.2.117;
+  };
   anitopy = {
     "2.1.1" = import ./overrides/anitopy/2.1.1;
   };
