@@ -2205,6 +2205,9 @@
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
+  fastpbkdf2 = {
+    "0.2" = import ./overrides/fastpbkdf2/0.2;
+  };
   fastscript = {
     "0.0.0.1" = import ./overrides/fastscript/0.0.0.1;
   };
