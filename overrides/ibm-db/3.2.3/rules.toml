@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:pkgs.glibc", "~literal:!:pkgs.libxcrypt", "~literal:!:pkgs.libxcrypt-legacy", "~literal:!:pkgs.linux-pam",]

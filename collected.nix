@@ -2986,6 +2986,9 @@
   ibm-cos-sdk-s3transfer = {
     "2.13.6" = import ./overrides/ibm-cos-sdk-s3transfer/2.13.6;
   };
+  ibm-db = {
+    "3.2.3" = import ./overrides/ibm-db/3.2.3;
+  };
   ibm-watson = {
     "8.1.0" = import ./overrides/ibm-watson/8.1.0;
   };
