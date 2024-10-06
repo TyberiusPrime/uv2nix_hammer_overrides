@@ -179,6 +179,7 @@
   };
   angr = {
     "9.2.117" = import ./overrides/angr/9.2.117;
+    "9.2.120" = import ./overrides/angr/9.2.120;
   };
   anitopy = {
     "2.1.1" = import ./overrides/anitopy/2.1.1;
