@@ -842,6 +842,9 @@
   cfunits = {
     "3.3.7" = import ./overrides/cfunits/3.3.7;
   };
+  cfxdb = {
+    "23.12.1" = import ./overrides/cfxdb/23.12.1;
+  };
   cgen = {
     "2020.1" = import ./overrides/cgen/2020.1;
   };
@@ -1224,6 +1227,9 @@
   };
   crontab = {
     "0.23.0" = import ./overrides/crontab/0.23.0;
+  };
+  crossbar = {
+    "22.6.1" = import ./overrides/crossbar/22.6.1;
   };
   cryio = {
     "2018.5.30" = import ./overrides/cryio/2018.5.30;
@@ -2193,6 +2199,9 @@
   fastapi-camelcase = {
     "2.0.0" = import ./overrides/fastapi-camelcase/2.0.0;
   };
+  fastapi-cli = {
+    "0.0.5" = import ./overrides/fastapi-cli/0.0.5;
+  };
   fastcache = {
     "1.1.0" = import ./overrides/fastcache/1.1.0;
   };
@@ -2559,6 +2568,9 @@
   };
   gcloud = {
     "0.18.3" = import ./overrides/gcloud/0.18.3;
+  };
+  gcloud-aio-bigquery = {
+    "7.1.0" = import ./overrides/gcloud-aio-bigquery/7.1.0;
   };
   gcs-oauth2-boto-plugin = {
     "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
@@ -6036,6 +6048,9 @@
   python-alipay-sdk = {
     "3.3.0" = import ./overrides/python-alipay-sdk/3.3.0;
   };
+  python-augeas = {
+    "1.1.0" = import ./overrides/python-augeas/1.1.0;
+  };
   python-axolotl-curve25519 = {
     "0.4.1.post2" = import ./overrides/python-axolotl-curve25519/0.4.1.post2;
   };
@@ -6403,6 +6418,9 @@
   };
   pywinusb = {
     "0.4.2" = import ./overrides/pywinusb/0.4.2;
+  };
+  pywlroots = {
+    "0.17.0" = import ./overrides/pywlroots/0.17.0;
   };
   pyworld = {
     "0.3.4" = import ./overrides/pyworld/0.3.4;
@@ -6867,6 +6885,9 @@
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
+  scikit-build = {
+    "0.18.0" = import ./overrides/scikit-build/0.18.0;
+  };
   scikit-commpy = {
     "0.8.0" = import ./overrides/scikit-commpy/0.8.0;
   };
@@ -6905,6 +6926,9 @@
   };
   sdkmanager = {
     "0.6.8" = import ./overrides/sdkmanager/0.6.8;
+  };
+  sdnotify = {
+    "0.3.2" = import ./overrides/sdnotify/0.3.2;
   };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
@@ -8283,6 +8307,7 @@
   };
   websockets = {
     "10.4" = import ./overrides/websockets/10.4;
+    "12.0" = import ./overrides/websockets/12.0;
     "8.1" = import ./overrides/websockets/8.1;
     "9.1" = import ./overrides/websockets/9.1;
   };
@@ -8403,6 +8428,9 @@
   wxpy = {
     "0.3.9.8" = import ./overrides/wxpy/0.3.9.8;
   };
+  wxpython = {
+    "4.2.1" = import ./overrides/wxpython/4.2.1;
+  };
   x256 = {
     "0.0.3" = import ./overrides/x256/0.0.3;
   };
@@ -8426,6 +8454,9 @@
   };
   xinabox-core = {
     "0.0.11" = import ./overrides/xinabox-core/0.0.11;
+  };
+  xkbcommon = {
+    "1.5.1" = import ./overrides/xkbcommon/1.5.1;
   };
   xlwt-future = {
     "0.8.0" = import ./overrides/xlwt-future/0.8.0;
@@ -8525,6 +8556,9 @@
   };
   zk = {
     "0.8.5" = import ./overrides/zk/0.8.5;
+  };
+  zlmdb = {
+    "23.1.1" = import ./overrides/zlmdb/23.1.1;
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
