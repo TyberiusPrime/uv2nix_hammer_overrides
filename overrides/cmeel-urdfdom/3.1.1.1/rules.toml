@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:pkgs.console-bridge", "~literal:!:pkgs.tinyxml",]

@@ -977,6 +977,9 @@
   cmdline = {
     "0.2.0" = import ./overrides/cmdline/0.2.0;
   };
+  cmeel-urdfdom = {
+    "3.1.1.1" = import ./overrides/cmeel-urdfdom/3.1.1.1;
+  };
   cmigemo = {
     "0.1.6" = import ./overrides/cmigemo/0.1.6;
   };
@@ -2910,6 +2913,9 @@
   };
   hpbandster = {
     "0.7.4" = import ./overrides/hpbandster/0.7.4;
+  };
+  hpp-fcl = {
+    "2.4.4" = import ./overrides/hpp-fcl/2.4.4;
   };
   hrpc = {
     "1.0.9" = import ./overrides/hrpc/1.0.9;
@@ -4958,6 +4964,9 @@
   };
   pims = {
     "0.7" = import ./overrides/pims/0.7;
+  };
+  pin = {
+    "2.7.0" = import ./overrides/pin/2.7.0;
   };
   pinyin = {
     "0.4.0" = import ./overrides/pinyin/0.4.0;
