@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:\n             (pkgs.boost183.override {\n                 python = final.python;\n                 numpy = final.numpy;\n                 enablePython = true;\n             })\n             ", "~literal:!:pkgs.boost183",]
