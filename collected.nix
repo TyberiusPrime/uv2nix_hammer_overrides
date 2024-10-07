@@ -4829,6 +4829,9 @@
   pdfminer3 = {
     "2018.12.3.0" = import ./overrides/pdfminer3/2018.12.3.0;
   };
+  pdfquery = {
+    "0.4.3" = import ./overrides/pdfquery/0.4.3;
+  };
   pdftotext = {
     "2.2.2" = import ./overrides/pdftotext/2.2.2;
   };
