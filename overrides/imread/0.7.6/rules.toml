@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.glib",]
+BuildSystems = [ "numpy", "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.glib.dev", "~literal:!:pkgs.libjpeg", "~literal:!:pkgs.libpng", "~literal:!:pkgs.libtiff", "~literal:!:pkgs.pkg-config",]
