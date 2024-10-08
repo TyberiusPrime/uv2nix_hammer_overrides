@@ -29,6 +29,9 @@
   active-alchemy = {
     "1.1.0" = import ./overrides/active-alchemy/1.1.0;
   };
+  adafruit-extended-bus = {
+    "1.0.2" = import ./overrides/adafruit-extended-bus/1.0.2;
+  };
   adafruit-gpio = {
     "1.0.3" = import ./overrides/adafruit-gpio/1.0.3;
   };
