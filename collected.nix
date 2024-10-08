@@ -8048,6 +8048,9 @@
   unqlite = {
     "0.9.6" = import ./overrides/unqlite/0.9.6;
   };
+  unrardll = {
+    "0.1.7" = import ./overrides/unrardll/0.1.7;
+  };
   unsync = {
     "1.4.0" = import ./overrides/unsync/1.4.0;
   };
