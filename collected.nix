@@ -1470,6 +1470,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  diplib = {
+    "3.5.1" = import ./overrides/diplib/3.5.1;
+  };
   dirlistproc = {
     "1.4.5" = import ./overrides/dirlistproc/1.4.5;
   };
