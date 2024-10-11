@@ -1,2 +1,3 @@
 BuildInputs = [ "~literal:!:pkgs.tbb.out",]
 BuildSystems = [ "setuptools",]
+DowngradePython = "3.9"
