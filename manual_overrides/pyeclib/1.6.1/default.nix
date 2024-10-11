@@ -8,7 +8,7 @@ in
     pkgs.liberasurecode
     final.setuptools
   ];
-  nativeBuildInputs = [ pkgs.liberasurecode.dev ];
+  nativeBuildInputs = old.nativeBuildInputs or [] ++ [ pkgs.liberasurecode.dev ];
   # from nixpkgs
   postPatch = ''
     # patch dlopen call
