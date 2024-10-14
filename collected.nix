@@ -5209,6 +5209,9 @@
   ptest = {
     "2.0.3" = import ./overrides/ptest/2.0.3;
   };
+  ptflops = {
+    "0.6.9" = import ./overrides/ptflops/0.6.9;
+  };
   pubchempy = {
     "1.0.4" = import ./overrides/pubchempy/1.0.4;
   };
