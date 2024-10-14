@@ -2905,6 +2905,9 @@
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
+  hexdump = {
+    "3.3" = import ./overrides/hexdump/3.3;
+  };
   hg-evolve = {
     "11.1.4" = import ./overrides/hg-evolve/11.1.4;
   };
@@ -3686,6 +3689,9 @@
   };
   libusb-package = {
     "1.0.26.1" = import ./overrides/libusb-package/1.0.26.1;
+  };
+  libusbsio = {
+    "2.1.12" = import ./overrides/libusbsio/2.1.12;
   };
   libvhdi-python = {
     "20240509" = import ./overrides/libvhdi-python/20240509;
