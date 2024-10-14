@@ -33,10 +33,23 @@
         )
       else lib.lists.last older_versions;
 
+    version_match_no_fallback = name: version: let
+      # find the latest version of the override that is older than the current version
+      # or if no version is older than the requestd one, don't match an override.
+      versions_available = lib.attrsets.attrNames (overrides_by_version.${name} or {});
+      sorted_versions_available = lib.lists.sort lib.versionOlder versions_available;
+      older_versions =
+        lib.lists.filter (
+          v: ((v == version) || (lib.versionOlder v version))
+        )
+        sorted_versions_available;
+    in
+      if builtins.length older_versions == 0
+      then null
+      else lib.lists.last older_versions;
     helpers = import ./helpers.nix {pkgs = nixpkgs.legacyPackages.x86_64-linux;};
-  in {
-    formatter = eachSystem (pkgs: treefmtEval.${pkgs.system}.config.build.wrapper);
-    overrides = nixpkgs_pkgs: final: prev:
+
+    matched_overrides = version_match: nixpkgs_pkgs: final: prev:
       (lib.attrsets.mapAttrs (
           name: available_versions: let
             matched_version = version_match name prev.${name}.version;
@@ -45,16 +58,23 @@
               builtins.map (x: final.${x}) (builtins.attrNames pyproject-nix-style-build-systems);
           in
             # poetry2nix or uv2nix with pyproject.nix builders?
-            (prev.${name}.overridePythonAttrs or prev.${name}.overrideAttrs) (
-              available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
-                inherit
-                  final
-                  prev
-                  helpers
-                  resolveBuildSystem
-                  ;
-                pkgs = nixpkgs_pkgs;
-              }
+            (
+              if (matched_version != null)
+              then
+                (
+                  (prev.${name}.overridePythonAttrs or prev.${name}.overrideAttrs) (
+                    available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
+                      inherit
+                        final
+                        prev
+                        helpers
+                        resolveBuildSystem
+                        ;
+                      pkgs = nixpkgs_pkgs;
+                    }
+                  )
+                )
+              else prev.${name}
             )
         )
         overrides_by_version)
@@ -67,6 +87,11 @@
           };
         };
       };
+  in {
+    formatter = eachSystem (pkgs: treefmtEval.${pkgs.system}.config.build.wrapper);
+    overrides = matched_overrides version_match;
+    overrides_strict = matched_overrides version_match_no_fallback;
+
     devShell.x86_64-linux = let
       pkgs = nixpkgs.legacyPackages.x86_64-linux;
     in
