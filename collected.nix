@@ -2642,6 +2642,9 @@
   gexml = {
     "1.2.0" = import ./overrides/gexml/1.2.0;
   };
+  gfal2-python = {
+    "1.12.2" = import ./overrides/gfal2-python/1.12.2;
+  };
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
