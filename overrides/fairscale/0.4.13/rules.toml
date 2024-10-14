@@ -1,0 +1,2 @@
+BuildSystems = [ "ninja", "setuptools", "wheel",]
+TomlRequiresPatcher = [ false, false, false, false, false, false,]
