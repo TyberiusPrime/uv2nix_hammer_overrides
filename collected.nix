@@ -1199,6 +1199,9 @@
   cqlengine = {
     "0.21.0" = import ./overrides/cqlengine/0.21.0;
   };
+  cracklib = {
+    "2.9.6" = import ./overrides/cracklib/2.9.6;
+  };
   crank = {
     "0.8.1" = import ./overrides/crank/0.8.1;
   };
