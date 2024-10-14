@@ -684,6 +684,9 @@
   bloscpack = {
     "0.16.0" = import ./overrides/bloscpack/0.16.0;
   };
+  bluepy = {
+    "1.3.0" = import ./overrides/bluepy/1.3.0;
+  };
   bmipy = {
     "2.0.1" = import ./overrides/bmipy/2.0.1;
   };
@@ -1264,6 +1267,9 @@
   };
   cs-units = {
     "20220311" = import ./overrides/cs-units/20220311;
+  };
+  csrmesh = {
+    "0.10.0" = import ./overrides/csrmesh/0.10.0;
   };
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
