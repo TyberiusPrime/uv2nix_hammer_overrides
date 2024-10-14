@@ -516,6 +516,9 @@
   basic-logtools = {
     "0.2.0" = import ./overrides/basic-logtools/0.2.0;
   };
+  basiciw = {
+    "0.2.2" = import ./overrides/basiciw/0.2.2;
+  };
   basicrpc = {
     "0.0.2" = import ./overrides/basicrpc/0.0.2;
   };
