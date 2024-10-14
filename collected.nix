@@ -2902,6 +2902,9 @@
   hgapi = {
     "1.7.4" = import ./overrides/hgapi/1.7.4;
   };
+  hierplace = {
+    "1.1.0" = import ./overrides/hierplace/1.1.0;
+  };
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
@@ -3505,6 +3508,12 @@
   };
   kindi = {
     "0.0.4" = import ./overrides/kindi/0.0.4;
+  };
+  kinet2pcb = {
+    "1.1.2" = import ./overrides/kinet2pcb/1.1.2;
+  };
+  kinparse = {
+    "1.2.2" = import ./overrides/kinparse/1.2.2;
   };
   kitchen = {
     "1.2.6" = import ./overrides/kitchen/1.2.6;
@@ -7012,6 +7021,9 @@
   sewar = {
     "0.4.6" = import ./overrides/sewar/0.4.6;
   };
+  sexpdata = {
+    "1.0.0" = import ./overrides/sexpdata/1.0.0;
+  };
   sfdmap = {
     "0.1.1" = import ./overrides/sfdmap/0.1.1;
   };
@@ -7129,6 +7141,9 @@
   };
   sjcl = {
     "0.2.1" = import ./overrides/sjcl/0.2.1;
+  };
+  skidl = {
+    "1.2.3" = import ./overrides/skidl/1.2.3;
   };
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
