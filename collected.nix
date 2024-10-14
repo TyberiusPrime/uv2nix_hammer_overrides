@@ -7036,6 +7036,9 @@
   sfdmap = {
     "0.1.1" = import ./overrides/sfdmap/0.1.1;
   };
+  sfepy = {
+    "2024.2" = import ./overrides/sfepy/2024.2;
+  };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
