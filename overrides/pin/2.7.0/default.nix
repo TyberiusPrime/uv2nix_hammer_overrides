@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {pkgs, final, ...}
         :
             old:
@@ -15,6 +16,10 @@
                  enablePython = true;
              })
               final.eigenpy pkgs.boost183 pkgs.console-bridge pkgs.hpp-fcl pkgs.octomap pkgs.tinyxml pkgs.urdfdom];})) (old: old // ( (
+=======
+{pkgs, ...}
+        : old: (
+>>>>>>> 5c383aa62f2a51c963fa8574d2a80a6501ce804e
   let
     urdfdom = pkgs.stdenv.mkDerivation rec {
       pname = "urdfdom";
@@ -44,7 +49,12 @@
     buildInputs = old.buildInputs or [] ++ [urdfdom];
   }
 )
+<<<<<<< HEAD
 ))];
             in
             pkgs.lib.trivial.pipe old funcs
     
+=======
+
+        
+>>>>>>> 5c383aa62f2a51c963fa8574d2a80a6501ce804e

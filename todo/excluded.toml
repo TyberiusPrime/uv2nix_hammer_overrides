@@ -929,3 +929,4 @@ robotframework-ride = "todo later: builds webkitgtk, which takes a long time, an
 pytest-diffeo = "yandex only package.'You are trying to install a stub package pytest-diffeo. Maybe you are using the wrong pypi?'"
 pyproject-hooks="error: invalid command 'egg_info'"
 cefpython3 = "no source, only windows wheels"
+politico-civic-election = "pulls both psycog2 and psycog2-binary, which then are in conflict. but just nuking the binaries from either side will break packages that use just that one."

@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools", "swig",]
+ManualOverrides = "__file__:pyscard/2.1.1/default.nix"

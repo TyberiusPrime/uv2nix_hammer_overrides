@@ -5950,6 +5950,9 @@
   pysat = {
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
+  pyscard = {
+    "2.1.1" = import ./overrides/pyscard/2.1.1;
+  };
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
   };
@@ -5979,6 +5982,9 @@
   };
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
+  };
+  pyside6-essentials = {
+    "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
   };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
@@ -6879,6 +6885,9 @@
   };
   salure-helpers-salureconnect = {
     "2.2.3" = import ./overrides/salure-helpers-salureconnect/2.2.3;
+  };
+  samplerate = {
+    "0.2.1" = import ./overrides/samplerate/0.2.1;
   };
   samsungtvws = {
     "2.6.0" = import ./overrides/samsungtvws/2.6.0;
