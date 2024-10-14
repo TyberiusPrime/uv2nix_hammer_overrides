@@ -4388,6 +4388,7 @@
     "5.19.0" = import ./overrides/neo4j/5.19.0;
   };
   neo4j-driver = {
+    "4.4.12" = import ./overrides/neo4j-driver/4.4.12;
     "5.24.0" = import ./overrides/neo4j-driver/5.24.0;
   };
   neo4jrestclient = {
