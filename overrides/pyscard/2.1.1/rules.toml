@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 BuildSystems = [ "setuptools", "swig",]
+=======
+>>>>>>> 885bd5ab485137d8e36245620bbceb4694647e57
 ManualOverrides = "__file__:pyscard/2.1.1/default.nix"

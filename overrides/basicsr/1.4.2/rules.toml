@@ -1,1 +1,1 @@
-BuildSystems = [ "cython",]
+BuildSystems = [ "cython_0", "numpy", "setuptools", "torch",]

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {pkgs, final, ...}
         :
             old:
@@ -20,6 +21,10 @@
 {pkgs, ...}
         : old: (
 >>>>>>> 5c383aa62f2a51c963fa8574d2a80a6501ce804e
+=======
+{pkgs, ...}
+        : old: (
+>>>>>>> 885bd5ab485137d8e36245620bbceb4694647e57
   let
     urdfdom = pkgs.stdenv.mkDerivation rec {
       pname = "urdfdom";
@@ -50,6 +55,7 @@
   }
 )
 <<<<<<< HEAD
+<<<<<<< HEAD
 ))];
             in
             pkgs.lib.trivial.pipe old funcs
@@ -58,3 +64,7 @@
 
         
 >>>>>>> 5c383aa62f2a51c963fa8574d2a80a6501ce804e
+=======
+
+        
+>>>>>>> 885bd5ab485137d8e36245620bbceb4694647e57

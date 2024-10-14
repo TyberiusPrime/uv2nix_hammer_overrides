@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 BuildInputs = [ "~literal:!:\n             (pkgs.boost183.override {\n                 python = final.python;\n                 numpy = final.numpy;\n                 enablePython = true;\n             })\n             ", "~literal:!:final.eigenpy", "~literal:!:pkgs.boost183", "~literal:!:pkgs.console-bridge", "~literal:!:pkgs.hpp-fcl", "~literal:!:pkgs.octomap", "~literal:!:pkgs.tinyxml", "~literal:!:pkgs.urdfdom",]
 =======
 >>>>>>> 5c383aa62f2a51c963fa8574d2a80a6501ce804e
+=======
+>>>>>>> 885bd5ab485137d8e36245620bbceb4694647e57
 ManualOverrides = "__file__:pin/2.7.0/default.nix"
