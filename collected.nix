@@ -3546,6 +3546,7 @@
     "1.1.2" = import ./overrides/kinet2pcb/1.1.2;
   };
   kinparse = {
+    "1.2.1" = import ./overrides/kinparse/1.2.1;
     "1.2.2" = import ./overrides/kinparse/1.2.2;
   };
   kitchen = {
