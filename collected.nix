@@ -1963,6 +1963,24 @@
   dppd-plotnine = {
     "0.2.7" = import ./overrides/dppd-plotnine/0.2.7;
   };
+  dpt-file = {
+    "1.0.3" = import ./overrides/dpt-file/1.0.3;
+  };
+  dpt-json = {
+    "1.0.3" = import ./overrides/dpt-json/1.0.3;
+  };
+  dpt-logging = {
+    "1.1.2" = import ./overrides/dpt-logging/1.1.2;
+  };
+  dpt-module-loader = {
+    "1.0.6" = import ./overrides/dpt-module-loader/1.0.6;
+  };
+  dpt-runtime = {
+    "2.1.4" = import ./overrides/dpt-runtime/2.1.4;
+  };
+  dpt-threading = {
+    "2.0.2" = import ./overrides/dpt-threading/2.0.2;
+  };
   drawille = {
     "0.1.0" = import ./overrides/drawille/0.1.0;
   };
