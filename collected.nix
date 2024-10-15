@@ -540,6 +540,9 @@
   batinfo = {
     "0.4.2" = import ./overrides/batinfo/0.4.2;
   };
+  batman-package = {
+    "2.4.9" = import ./overrides/batman-package/2.4.9;
+  };
   baubles = {
     "1.6" = import ./overrides/baubles/1.6;
   };
@@ -3807,6 +3810,7 @@
   };
   llvmlite = {
     "0.36.0" = import ./overrides/llvmlite/0.36.0;
+    "0.41.1" = import ./overrides/llvmlite/0.41.1;
   };
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;

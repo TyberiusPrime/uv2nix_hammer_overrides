@@ -1,4 +1,4 @@
-{final, pkgs, ...}
+{pkgs, final, ...}
         : old: {
   patches = [
     # stripped down version of https://github.com/pyside/pyside-setup/commit/a0d68856d67ce6e178e3cfc2fccc236707e02fcd
