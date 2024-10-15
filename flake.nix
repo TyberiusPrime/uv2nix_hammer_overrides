@@ -74,7 +74,7 @@
                     }
                   )
                 )
-              else (builtins.trace "no versoin match for ${name}" prev.${name})
+              else (builtins.trace "no version match for ${name}" prev.${name})
             )
         )
         overrides_by_version)
