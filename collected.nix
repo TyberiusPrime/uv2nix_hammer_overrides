@@ -4521,6 +4521,9 @@
   nmigen = {
     "0.2" = import ./overrides/nmigen/0.2;
   };
+  nmslib = {
+    "2.1.1" = import ./overrides/nmslib/2.1.1;
+  };
   nodejs = {
     "0.1.1" = import ./overrides/nodejs/0.1.1;
   };
@@ -4580,6 +4583,7 @@
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
+    "1.21.6" = import ./overrides/numpy/1.21.6;
     "1.23.5" = import ./overrides/numpy/1.23.5;
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
@@ -7001,6 +7005,9 @@
   };
   scikit-surgeryimage = {
     "0.10.1" = import ./overrides/scikit-surgeryimage/0.10.1;
+  };
+  scipy = {
+    "1.6.1" = import ./overrides/scipy/1.6.1;
   };
   sciunit = {
     "0.2.8" = import ./overrides/sciunit/0.2.8;
