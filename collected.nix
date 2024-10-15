@@ -3938,6 +3938,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  mariadb = {
+    "1.1.10" = import ./overrides/mariadb/1.1.10;
+  };
   marionette-client = {
     "3.3.0" = import ./overrides/marionette-client/3.3.0;
   };
