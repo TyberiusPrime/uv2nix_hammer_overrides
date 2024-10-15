@@ -1,4 +1,4 @@
-{resolveBuildSystem, final, pkgs, ...}
+{pkgs, final, resolveBuildSystem, ...}
         :
             old:
             let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.krb5] ++ ( resolveBuildSystem {cython = [];setuptools = [];});})) (old: old // ( {

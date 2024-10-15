@@ -1,4 +1,4 @@
-{prev, pkgs, ...}
+{pkgs, prev, ...}
         :
             old:
             let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.freetype pkgs.unixODBC];})) (old: old // ( let

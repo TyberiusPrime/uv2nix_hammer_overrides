@@ -1,4 +1,4 @@
-{final, pkgs, ...}
+{pkgs, final, ...}
         : old: let
   localPython = final.python.withPackages (
     ps: with ps; [

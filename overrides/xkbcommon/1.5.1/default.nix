@@ -1,4 +1,4 @@
-{prev, pkgs, ...}
+{pkgs, prev, ...}
         : old: {
 
   postBuild = ''

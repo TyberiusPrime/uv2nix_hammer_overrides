@@ -1,4 +1,4 @@
-{resolveBuildSystem, final, prev, pkgs, ...}
+{pkgs, final, resolveBuildSystem, prev, ...}
         :
             old:
             let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {dontWrapQtApps = true;} else {dontWrapQtApps = true;nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pyqt-builder = [];setuptools = [];sip = [];});})) (old: old // ( (
