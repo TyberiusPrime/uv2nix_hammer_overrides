@@ -4713,6 +4713,9 @@
   openerp-web = {
     "7.0.406" = import ./overrides/openerp-web/7.0.406;
   };
+  openhomedevice = {
+    "2.3.1" = import ./overrides/openhomedevice/2.3.1;
+  };
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
   };
