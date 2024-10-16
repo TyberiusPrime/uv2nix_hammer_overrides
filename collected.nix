@@ -3305,6 +3305,9 @@
   janex = {
     "0.0.80" = import ./overrides/janex/0.0.80;
   };
+  javabridge = {
+    "1.0.19" = import ./overrides/javabridge/1.0.19;
+  };
   jaxlinop = {
     "0.0.3" = import ./overrides/jaxlinop/0.0.3;
   };

@@ -1,0 +1,4 @@
+BuildInputs = [ "~literal:!:pkgs.openjdk",]
+BuildSystems = [ "cython_0", "numpy", "setuptools",]
+DowngradeNumpy = "<2"
+NativeBuildInputs = [ "~literal:!:pkgs.openjdk",]
