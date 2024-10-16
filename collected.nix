@@ -8359,6 +8359,9 @@
   vortexpy = {
     "3.1.0" = import ./overrides/vortexpy/3.1.0;
   };
+  voxcell = {
+    "3.1.9" = import ./overrides/voxcell/3.1.9;
+  };
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
   };
