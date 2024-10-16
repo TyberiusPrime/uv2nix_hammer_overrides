@@ -561,6 +561,9 @@
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
+  beanbag = {
+    "1.9.2" = import ./overrides/beanbag/1.9.2;
+  };
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
   };
@@ -4896,6 +4899,9 @@
   };
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
+  };
+  pdc-client = {
+    "1.8.0" = import ./overrides/pdc-client/1.8.0;
   };
   pdfconduit-utils = {
     "1.1.2" = import ./overrides/pdfconduit-utils/1.1.2;
