@@ -1,1 +1,1 @@
-BuildSystems = [ "cmake", "ninja", "setuptools", "wheel",]
+BuildSystems = [ "cmake", "ninja", "pytest-runner", "setuptools", "wheel",]
