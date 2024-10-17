@@ -1154,6 +1154,9 @@
   conversionkit = {
     "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
+  coqui-trainer = {
+    "0.0.5" = import ./overrides/coqui-trainer/0.0.5;
+  };
   core-explore-common-app = {
     "2.10.0" = import ./overrides/core-explore-common-app/2.10.0;
   };
