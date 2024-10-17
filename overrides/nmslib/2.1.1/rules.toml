@@ -1,2 +1,1 @@
 BuildSystems = [ "setuptools",]
-DowngradePython = "3.9"
