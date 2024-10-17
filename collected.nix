@@ -5692,6 +5692,9 @@
   pyfma = {
     "0.1.6" = import ./overrides/pyfma/0.1.6;
   };
+  pyforest = {
+    "1.1.2" = import ./overrides/pyforest/1.1.2;
+  };
   pyforge = {
     "1.3.0" = import ./overrides/pyforge/1.3.0;
   };
