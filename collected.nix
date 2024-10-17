@@ -4257,6 +4257,9 @@
   moztest = {
     "1.1.0" = import ./overrides/moztest/1.1.0;
   };
+  mpi4py = {
+    "4.0.1" = import ./overrides/mpi4py/4.0.1;
+  };
   mplcursors = {
     "0.5.3" = import ./overrides/mplcursors/0.5.3;
   };
@@ -5955,6 +5958,9 @@
   };
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
+  };
+  pyprecice = {
+    "3.1.2" = import ./overrides/pyprecice/3.1.2;
   };
   pypref = {
     "3.3.0" = import ./overrides/pypref/3.3.0;

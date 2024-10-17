@@ -1,0 +1,4 @@
+BuildInputs = [ "~literal:!:pkgs.precice",]
+BuildSystems = [ "cython", "mpi4py", "numpy", "packaging", "pip", "pkgconfig", "setuptools", "wheel",]
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config",]
+TomlRequiresPatcher = [ true, false, true, true, false, false,]
