@@ -14,6 +14,8 @@ drvs = """      "/nix/store/333ggld5k7n0a4w693xg83p1a4ks6z2j-nvidia-cuda-runtime
       "/nix/store/vvc99k1k11i1bdmaj98dl34gzjf09idi-nvidia-cublas-cu12-12.1.3.1.drv":
         File 1: /nix/store/9a773jdzz4fh24n4bmwammhidq1lv8al-nvidia-nvtx-cu12-12.1.105/lib/python3.12/site-packages/nvidia/__pycache__/__init__.cpython-312.opt-2.pyc
        >      File 2: /nix/store/rs7214axar5xx0v2xl1y0axic8k4mm3n-nvidia-nccl-cu12-2.20.5/lib/python3.12/site-packages/nvidia/__pycache__/__init__.cpython-312.opt-2.pyc.
+   File 1: /nix/store/3w2b0x0cwlskcw2m5mxq8kypvlskn5si-nvidia-nvjitlink-cu12-12.6.77/lib/python3.11/site-packages/nvidia/__pycache__/__init__.cpython-311.opt-2.pyc
+       >      File 2: /nix/store/3bnx7j83hjflx391kk046raycni4as9h-nvidia-cudnn-cu12-8.9.2.26/lib/python3.11/site-packages/nvidia/__pycache__/__init__.cpython-311.opt-2.pyc.
 
       """.strip().split("\n")
 
