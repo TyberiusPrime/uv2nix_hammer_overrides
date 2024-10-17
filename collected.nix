@@ -4711,6 +4711,9 @@
   onnlogger = {
     "0.0.6" = import ./overrides/onnlogger/0.0.6;
   };
+  onnx-simplifier = {
+    "0.4.36" = import ./overrides/onnx-simplifier/0.4.36;
+  };
   onvif-zeep = {
     "0.2.12" = import ./overrides/onvif-zeep/0.2.12;
   };
