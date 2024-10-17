@@ -101,7 +101,7 @@ for chosen in order:
         p = subprocess.run(["false"])
     msg = None
     if p.returncode != 0:
-        if 'timeout' in stderr:
+        if 'timeout' == stderr:
             msg = "timeout"
         if "No non-pre release found" in stderr:
             msg == "Automatic: no (non-pre) release found"
