@@ -1,4 +1,4 @@
-{pkgs, final, resolveBuildSystem, ...}
+{resolveBuildSystem, final, pkgs, ...}
         :
             old:
             let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {buildInputs = old.buildInputs or [] ++ [pkgs.ncurses];} else {buildInputs = old.buildInputs or [] ++ [pkgs.ncurses];nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( {
