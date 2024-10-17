@@ -1,0 +1,5 @@
+
+    {
+        dontUsePyprojectBytecode = true;
+    }
+                    
