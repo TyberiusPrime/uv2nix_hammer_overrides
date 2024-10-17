@@ -1,11 +1,8 @@
 from pathlib import Path
 
-<<<<<<< HEAD
 # they all need the same override,
 # and we can't (easily) do it with a rule
 # since it's only blowing up when the venv is combined
-=======
->>>>>>> d82985e0e4f306bcf1437ed3489dbbecc1764c5c
 drvs = """      "/nix/store/333ggld5k7n0a4w693xg83p1a4ks6z2j-nvidia-cuda-runtime-cu12-12.1.105.drv": {
       "/nix/store/75n2gq1rwlgr92nkp7fa6b5xvhcsq61j-nvidia-cufft-cu12-11.0.2.54.drv": {
       "/nix/store/7hhwgsmhbm7qrxnw5n1fn2mc54vnf7wr-nvidia-cusparse-cu12-12.1.0.106.drv": {
