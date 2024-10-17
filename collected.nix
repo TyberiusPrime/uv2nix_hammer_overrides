@@ -4623,6 +4623,7 @@
     "12.1.105" = import ./overrides/nvidia-cuda-runtime-cu12/12.1.105;
   };
   nvidia-cudnn-cu12 = {
+    "8.9.2.26" = import ./overrides/nvidia-cudnn-cu12/8.9.2.26;
     "9.1.0.70" = import ./overrides/nvidia-cudnn-cu12/9.1.0.70;
   };
   nvidia-cufft-cu12 = {
@@ -4642,6 +4643,9 @@
   };
   nvidia-nccl-cu12 = {
     "2.20.5" = import ./overrides/nvidia-nccl-cu12/2.20.5;
+  };
+  nvidia-nvjitlink-cu12 = {
+    "12.6.77" = import ./overrides/nvidia-nvjitlink-cu12/12.6.77;
   };
   nvidia-nvtx-cu12 = {
     "12.1.105" = import ./overrides/nvidia-nvtx-cu12/12.1.105;
