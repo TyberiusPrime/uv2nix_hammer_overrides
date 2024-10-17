@@ -3807,6 +3807,7 @@
   };
   llvmlite = {
     "0.36.0" = import ./overrides/llvmlite/0.36.0;
+    "0.41.1" = import ./overrides/llvmlite/0.41.1;
   };
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
@@ -4593,6 +4594,27 @@
   nutil = {
     "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
   };
+  nvidia-cublas-cu12 = {
+    "12.1.3.1" = import ./overrides/nvidia-cublas-cu12/12.1.3.1;
+  };
+  nvidia-cuda-cupti-cu12 = {
+    "12.1.105" = import ./overrides/nvidia-cuda-cupti-cu12/12.1.105;
+  };
+  nvidia-cuda-nvrtc-cu12 = {
+    "12.1.105" = import ./overrides/nvidia-cuda-nvrtc-cu12/12.1.105;
+  };
+  nvidia-cuda-runtime-cu12 = {
+    "12.1.105" = import ./overrides/nvidia-cuda-runtime-cu12/12.1.105;
+  };
+  nvidia-cudnn-cu12 = {
+    "9.1.0.70" = import ./overrides/nvidia-cudnn-cu12/9.1.0.70;
+  };
+  nvidia-cufft-cu12 = {
+    "11.0.2.54" = import ./overrides/nvidia-cufft-cu12/11.0.2.54;
+  };
+  nvidia-curand-cu12 = {
+    "10.3.2.106" = import ./overrides/nvidia-curand-cu12/10.3.2.106;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
@@ -4601,6 +4623,12 @@
   };
   nvidia-ml-py3 = {
     "7.352.0" = import ./overrides/nvidia-ml-py3/7.352.0;
+  };
+  nvidia-nccl-cu12 = {
+    "2.20.5" = import ./overrides/nvidia-nccl-cu12/2.20.5;
+  };
+  nvidia-nvtx-cu12 = {
+    "12.1.105" = import ./overrides/nvidia-nvtx-cu12/12.1.105;
   };
   nydus = {
     "0.11.0" = import ./overrides/nydus/0.11.0;

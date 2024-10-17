@@ -1,1 +1,2 @@
 BuildInputs = [ "~literal:!:pkgs.cudaPackages.libnvjitlink",]
+ManualOverrides = "__file__:nvidia-cusparse-cu12/12.1.0.106/default.nix"
