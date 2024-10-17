@@ -1,0 +1,1 @@
+ManualOverrides = "__file__:nvidia-cuda-cupti-cu12/12.1.105/default.nix"

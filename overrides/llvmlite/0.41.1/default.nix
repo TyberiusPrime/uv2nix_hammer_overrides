@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {pkgs, final, ...}
+=======
+{final, pkgs, ...}
+>>>>>>> d82985e0e4f306bcf1437ed3489dbbecc1764c5c
         : old: let
     lib = pkgs.lib;
     stdenv = pkgs.stdenv;
