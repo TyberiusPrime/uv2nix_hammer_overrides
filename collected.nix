@@ -1442,6 +1442,9 @@
   deeplift = {
     "0.6.13.0" = import ./overrides/deeplift/0.6.13.0;
   };
+  deeptoolsintervals = {
+    "0.1.9" = import ./overrides/deeptoolsintervals/0.1.9;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
