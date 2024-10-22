@@ -1,0 +1,1 @@
+BuildSystems = [ "blosc2", "cython", "oldest-supported-numpy", "packaging", "py-cpuinfo", "setuptools", "wheel",]

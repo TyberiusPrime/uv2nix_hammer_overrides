@@ -1,0 +1,1 @@
+BuildSystems = [ "cmake", "cython", "ninja", "oldest-supported-numpy", "scikit-build", "setuptools",]

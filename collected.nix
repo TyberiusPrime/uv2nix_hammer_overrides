@@ -690,6 +690,9 @@
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
+  blosc2 = {
+    "2.0.0" = import ./overrides/blosc2/2.0.0;
+  };
   bloscpack = {
     "0.16.0" = import ./overrides/bloscpack/0.16.0;
   };
@@ -7667,6 +7670,9 @@
   };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
+  };
+  tables = {
+    "3.8.0" = import ./overrides/tables/3.8.0;
   };
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
