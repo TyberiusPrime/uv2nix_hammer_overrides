@@ -2,7 +2,7 @@
         :
             old:
             let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {cmake = [];numpy = [];pip = [];scikit-build = [];setuptools = [];});})) (old: old // ( {
-  postPatch = ''
+  postPatch = pkgs.lib.optional ((old.format or "sdist") == "sdist") ''
     sed -i pyproject.toml -e 's/numpy==[0-9]\+\.[0-9]\+\.[0-9]\+;/numpy;/g'
     sed -i pyproject.toml -e 's/setuptools==[0-9.]\+/setuptools/g'
     # somehow the type information doesn't get build
