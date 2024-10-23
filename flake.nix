@@ -80,11 +80,18 @@
         overrides_by_version)
       // {
         cython_0 = prev.cython.overrideAttrs {
-          src = nixpkgs_pkgs.fetchPypi {
-            pname = "Cython";
-            version = "0.29.36";
-            hash = "sha256-QcDP0tdU44PJ7rle/8mqSrhH0Ml0cHfd18Dctow7wB8=";
-          };
+          src =
+            if (prev.format or "sdist" == "wheel")
+            then
+              nixpkgs_pkgs.fetchurl {
+                url = "https://files.pythonhosted.org/packages/3f/d6/9eed523aeaca42acbaa3e6d3850edae780dc7f8da9df1bf6a2ceb851839c/Cython-0.29.36-py2.py3-none-any.whl";
+              }
+            else
+              nixpkgs_pkgs.fetchPypi {
+                pname = "Cython";
+                version = "0.29.36";
+                hash = "sha256-QcDP0tdU44PJ7rle/8mqSrhH0Ml0cHfd18Dctow7wB8=";
+              };
         };
       };
   in {
