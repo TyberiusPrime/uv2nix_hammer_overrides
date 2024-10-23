@@ -79,12 +79,13 @@
         )
         overrides_by_version)
       // {
-        cython_0 = prev.cython.overrideAttrs {
+        cython_0 = prev.cython.overrideAttrs (old: {
           src =
-            if (prev.format or "sdist" == "wheel")
+            if ((builtins.trace (old.format or "sdist") (old.format or "sdist")) == "wheel")
             then
               nixpkgs_pkgs.fetchurl {
                 url = "https://files.pythonhosted.org/packages/3f/d6/9eed523aeaca42acbaa3e6d3850edae780dc7f8da9df1bf6a2ceb851839c/Cython-0.29.36-py2.py3-none-any.whl";
+                sha256 = "sha256-lbsT2L5QdCXQPr4FH5DUsqn9zMZOTzCzVkX9t1QnQus=";
               }
             else
               nixpkgs_pkgs.fetchPypi {
@@ -92,7 +93,7 @@
                 version = "0.29.36";
                 hash = "sha256-QcDP0tdU44PJ7rle/8mqSrhH0Ml0cHfd18Dctow7wB8=";
               };
-        };
+        });
       };
   in {
     formatter = eachSystem (pkgs: treefmtEval.${pkgs.system}.config.build.wrapper);
