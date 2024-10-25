@@ -320,6 +320,9 @@
   artellapipe-config = {
     "0.0.32" = import ./overrides/artellapipe-config/0.0.32;
   };
+  artifactory = {
+    "0.1.17" = import ./overrides/artifactory/0.1.17;
+  };
   arxiv2bib = {
     "1.0.8" = import ./overrides/arxiv2bib/1.0.8;
   };
