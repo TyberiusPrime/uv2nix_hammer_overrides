@@ -2173,6 +2173,9 @@
   ete3 = {
     "3.1.3" = import ./overrides/ete3/3.1.3;
   };
+  etesync = {
+    "0.12.1" = import ./overrides/etesync/0.12.1;
+  };
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
