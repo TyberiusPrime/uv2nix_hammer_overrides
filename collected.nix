@@ -5810,6 +5810,9 @@
   pykafka = {
     "2.8.0" = import ./overrides/pykafka/2.8.0;
   };
+  pykcs11 = {
+    "1.5.17" = import ./overrides/pykcs11/1.5.17;
+  };
   pykeops = {
     "2.2.3" = import ./overrides/pykeops/2.2.3;
   };
