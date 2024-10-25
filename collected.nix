@@ -1337,6 +1337,24 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  d8s-dicts = {
+    "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
+  };
+  d8s-hypothesis = {
+    "0.6.0" = import ./overrides/d8s-hypothesis/0.6.0;
+  };
+  d8s-lists = {
+    "0.8.0" = import ./overrides/d8s-lists/0.8.0;
+  };
+  d8s-math = {
+    "0.7.0" = import ./overrides/d8s-math/0.7.0;
+  };
+  d8s-strings = {
+    "0.5.0" = import ./overrides/d8s-strings/0.5.0;
+  };
+  d8s-uuids = {
+    "0.6.0" = import ./overrides/d8s-uuids/0.6.0;
+  };
   dabax = {
     "1.0.6" = import ./overrides/dabax/1.0.6;
   };
@@ -7912,6 +7930,9 @@
   torch = {
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
+  };
+  torch-sparse = {
+    "0.6.18" = import ./overrides/torch-sparse/0.6.18;
   };
   torchaudio = {
     "2.4.1" = import ./overrides/torchaudio/2.4.1;
