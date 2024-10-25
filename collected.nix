@@ -1337,6 +1337,24 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  d8s-dicts = {
+    "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
+  };
+  d8s-hypothesis = {
+    "0.6.0" = import ./overrides/d8s-hypothesis/0.6.0;
+  };
+  d8s-lists = {
+    "0.8.0" = import ./overrides/d8s-lists/0.8.0;
+  };
+  d8s-math = {
+    "0.7.0" = import ./overrides/d8s-math/0.7.0;
+  };
+  d8s-strings = {
+    "0.5.0" = import ./overrides/d8s-strings/0.5.0;
+  };
+  d8s-uuids = {
+    "0.6.0" = import ./overrides/d8s-uuids/0.6.0;
+  };
   dabax = {
     "1.0.6" = import ./overrides/dabax/1.0.6;
   };
@@ -2407,6 +2425,9 @@
   flask-classy = {
     "0.6.10" = import ./overrides/flask-classy/0.6.10;
   };
+  flask-collect-invenio = {
+    "1.4.0" = import ./overrides/flask-collect-invenio/1.4.0;
+  };
   flask-csrf = {
     "0.9.2" = import ./overrides/flask-csrf/0.9.2;
   };
@@ -2415,6 +2436,9 @@
   };
   flask-graphql = {
     "2.0.1" = import ./overrides/flask-graphql/2.0.1;
+  };
+  flask-iiif = {
+    "0.6.3" = import ./overrides/flask-iiif/0.6.3;
   };
   flask-jsonpify = {
     "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
@@ -2562,6 +2586,9 @@
   };
   fst-pso = {
     "1.8.1" = import ./overrides/fst-pso/1.8.1;
+  };
+  ftfy = {
+    "4.4.3" = import ./overrides/ftfy/4.4.3;
   };
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
@@ -3241,6 +3268,12 @@
   };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
+  };
+  invenio-github = {
+    "1.5.2" = import ./overrides/invenio-github/1.5.2;
+  };
+  invenio-rdm-records = {
+    "12.1.0" = import ./overrides/invenio-rdm-records/12.1.0;
   };
   iocapture = {
     "0.1.2" = import ./overrides/iocapture/0.1.2;
@@ -4148,6 +4181,9 @@
   };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
+  };
+  mkdocs-jupyter = {
+    "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
   };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
@@ -7434,6 +7470,9 @@
   };
   sphinxcontrib-fulltoc = {
     "1.2.0" = import ./overrides/sphinxcontrib-fulltoc/1.2.0;
+  };
+  sphinxcontrib-issuetracker = {
+    "0.11" = import ./overrides/sphinxcontrib-issuetracker/0.11;
   };
   sphinxcontrib-mscgen = {
     "0.6" = import ./overrides/sphinxcontrib-mscgen/0.6;
