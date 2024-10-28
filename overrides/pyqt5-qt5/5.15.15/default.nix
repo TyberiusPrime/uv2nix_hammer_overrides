@@ -1,18 +1,16 @@
-{prev, pkgs, ...}
+{final, prev, pkgs, ...}
         :
             old:
             let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.freetype pkgs.unixODBC];})) (old: old // ( let
   inherit (pkgs) lib;
-  selectQt5 =
-    version:
-    let
-      selector = builtins.concatStringsSep "" (lib.take 2 (builtins.splitVersion version));
-    in
+  selectQt5 = version: let
+    selector = builtins.concatStringsSep "" (lib.take 2 (builtins.splitVersion version));
+  in
     pkgs."qt${selector}" or pkgs.qt5;
 
   qt5 = selectQt5 prev.pyqt5-qt5.version;
-  pyQt5Modules =
-    qt5: with qt5; [
+  pyQt5Modules = qt5:
+    with qt5; [
       qt3d
       qtbase
       qtcharts
@@ -30,21 +28,46 @@
       qtwebsockets
       qtx11extras
       qtxmlpatterns
+      qtquick3d
+      qtremoteobjects
+      qttools
     ];
-in
-{
-  dontWrapQtApps = true;
-  propagatedBuildInputs =
-    old.propagatedBuildInputs or [ ]
-    ++ pyQt5Modules qt5
-    ++ [
-      pkgs.gtk3
-      pkgs.speechd
-      pkgs.postgresql
-      pkgs.unixODBC
-    ];
-  autoPatchelfIgnoreMissingDeps = [ "libQt5Bodymovin.so.5" ]; # no clue if this is correct.
-}
+in (
+  if (old.format or "sdist" == "sdist")
+  then {
+    postPatch = ''
+      # Confirm license, if project.py exists
+      if test -f project.py; then
+        sed -i s/"if tool == 'pep517':"/"if True:"/ project.py
+      fi
+    '';
+
+    dontConfigure = true;
+    dontWrapQtApps = true;
+    nativeBuildInputs =
+      old.nativeBuildInputs
+      or []
+      ++ pyQt5Modules qt5
+      ++ [
+        final.pyqt-builder
+        final.sip
+      ];
+    buildInputs = old.buildInputs or [] ++ pyQt5Modules qt5;
+    autoPatchelfIgnoreMissingDeps = ["libQt5TextToSpeech.so.5" "libQt5Bodymovin.so.5"]; # no clue if this is correct.
+  }
+  else {
+    buildInputs =
+      old.buildInputs
+      or []
+      ++ pyQt5Modules qt5
+      ++ [
+        pkgs.cups
+        pkgs.speechd
+        pkgs.postgresql
+      ];
+    autoPatchelfIgnoreMissingDeps = ["libQt5TextToSpeech.so.5" "libQt5Bodymovin.so.5"]; # no clue if this is correct.
+  }
+)
 ))];
             in
             pkgs.lib.trivial.pipe old funcs
