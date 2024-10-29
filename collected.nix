@@ -7952,6 +7952,9 @@
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
   };
+  torch-sparse = {
+    "0.6.18" = import ./overrides/torch-sparse/0.6.18;
+  };
   torchaudio = {
     "2.4.1" = import ./overrides/torchaudio/2.4.1;
   };
