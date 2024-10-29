@@ -2602,6 +2602,9 @@
   fst-pso = {
     "1.8.1" = import ./overrides/fst-pso/1.8.1;
   };
+  ftfy = {
+    "4.4.3" = import ./overrides/ftfy/4.4.3;
+  };
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
@@ -4199,6 +4202,9 @@
   };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
+  };
+  mkdocs-jupyter = {
+    "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
   };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
@@ -7494,6 +7500,9 @@
   };
   sphinxcontrib-fulltoc = {
     "1.2.0" = import ./overrides/sphinxcontrib-fulltoc/1.2.0;
+  };
+  sphinxcontrib-issuetracker = {
+    "0.11" = import ./overrides/sphinxcontrib-issuetracker/0.11;
   };
   sphinxcontrib-mscgen = {
     "0.6" = import ./overrides/sphinxcontrib-mscgen/0.6;
