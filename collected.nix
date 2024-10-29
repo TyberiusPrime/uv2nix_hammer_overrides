@@ -7083,6 +7083,9 @@
   sas7bdat = {
     "2.2.3" = import ./overrides/sas7bdat/2.2.3;
   };
+  sasl = {
+    "0.3.1" = import ./overrides/sasl/0.3.1;
+  };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
   };
