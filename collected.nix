@@ -2775,6 +2775,9 @@
   globster = {
     "0.1.0" = import ./overrides/globster/0.1.0;
   };
+  glpk = {
+    "0.4.7" = import ./overrides/glpk/0.4.7;
+  };
   gluonnlp = {
     "0.10.0" = import ./overrides/gluonnlp/0.10.0;
   };
