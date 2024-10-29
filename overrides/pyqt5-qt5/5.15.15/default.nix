@@ -1,7 +1,7 @@
 {final, prev, pkgs, ...}
         :
             old:
-            let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.freetype pkgs.unixODBC];})) (old: old // ( let
+            let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.freetype pkgs.unixODBC];dontWrapQtApps = true;})) (old: old // ( let
   inherit (pkgs) lib;
   selectQt5 = version: let
     selector = builtins.concatStringsSep "" (lib.take 2 (builtins.splitVersion version));

@@ -1,2 +1,3 @@
 BuildInputs = [ "~literal:!:pkgs.freetype", "~literal:!:pkgs.unixODBC",]
 ManualOverrides = "__file__:pyqt5-qt5/5.15.15/default.nix"
+QTDontWrap = true
