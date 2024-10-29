@@ -92,6 +92,9 @@
   aiohttp-route-decorator = {
     "0.1.4" = import ./overrides/aiohttp-route-decorator/0.1.4;
   };
+  aiohttp-security = {
+    "0.5.0" = import ./overrides/aiohttp-security/0.5.0;
+  };
   aiohttp-swagger = {
     "1.0.15" = import ./overrides/aiohttp-swagger/1.0.15;
   };
@@ -837,6 +840,9 @@
   cbpi = {
     "4.0.0.28" = import ./overrides/cbpi/4.0.0.28;
   };
+  cbpi4 = {
+    "4.4.3" = import ./overrides/cbpi4/4.4.3;
+  };
   cbpi4ui = {
     "0.0.13" = import ./overrides/cbpi4ui/0.0.13;
   };
@@ -1339,6 +1345,24 @@
   };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
+  };
+  d8s-dicts = {
+    "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
+  };
+  d8s-hypothesis = {
+    "0.6.0" = import ./overrides/d8s-hypothesis/0.6.0;
+  };
+  d8s-lists = {
+    "0.8.0" = import ./overrides/d8s-lists/0.8.0;
+  };
+  d8s-math = {
+    "0.7.0" = import ./overrides/d8s-math/0.7.0;
+  };
+  d8s-strings = {
+    "0.5.0" = import ./overrides/d8s-strings/0.5.0;
+  };
+  d8s-uuids = {
+    "0.6.0" = import ./overrides/d8s-uuids/0.6.0;
   };
   dabax = {
     "1.0.6" = import ./overrides/dabax/1.0.6;
@@ -2410,6 +2434,9 @@
   flask-classy = {
     "0.6.10" = import ./overrides/flask-classy/0.6.10;
   };
+  flask-collect-invenio = {
+    "1.4.0" = import ./overrides/flask-collect-invenio/1.4.0;
+  };
   flask-csrf = {
     "0.9.2" = import ./overrides/flask-csrf/0.9.2;
   };
@@ -2418,6 +2445,9 @@
   };
   flask-graphql = {
     "2.0.1" = import ./overrides/flask-graphql/2.0.1;
+  };
+  flask-iiif = {
+    "0.6.3" = import ./overrides/flask-iiif/0.6.3;
   };
   flask-jsonpify = {
     "1.5.0" = import ./overrides/flask-jsonpify/1.5.0;
@@ -3244,6 +3274,12 @@
   };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
+  };
+  invenio-github = {
+    "1.5.2" = import ./overrides/invenio-github/1.5.2;
+  };
+  invenio-rdm-records = {
+    "12.1.0" = import ./overrides/invenio-rdm-records/12.1.0;
   };
   iocapture = {
     "0.1.2" = import ./overrides/iocapture/0.1.2;

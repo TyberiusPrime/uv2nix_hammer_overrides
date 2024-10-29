@@ -1,0 +1,1 @@
+ManualOverrides = "__file__:aiohttp-security/0.5.0/default.nix"
