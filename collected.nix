@@ -4050,6 +4050,9 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  mayavi = {
+    "4.8.2" = import ./overrides/mayavi/4.8.2;
+  };
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };

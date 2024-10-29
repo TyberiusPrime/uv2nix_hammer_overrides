@@ -1,0 +1,2 @@
+BuildSystems = [ "oldest-supported-numpy", "setuptools", "vtk", "wheel",]
+DowngradeNumpy = "<2"
