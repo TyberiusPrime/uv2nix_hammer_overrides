@@ -5735,6 +5735,9 @@
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
   };
+  pyexiv2 = {
+    "2.14.0" = import ./overrides/pyexiv2/2.14.0;
+  };
   pyfab = {
     "0.3.6" = import ./overrides/pyfab/0.3.6;
   };
