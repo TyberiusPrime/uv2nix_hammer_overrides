@@ -1514,6 +1514,9 @@
   dhooks = {
     "1.1.4" = import ./overrides/dhooks/1.1.4;
   };
+  dictionaryutils = {
+    "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
@@ -5976,6 +5979,9 @@
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
   };
+  pymummer = {
+    "0.11.0" = import ./overrides/pymummer/0.11.0;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
@@ -7127,6 +7133,12 @@
   };
   scapy-python3 = {
     "0.26" = import ./overrides/scapy-python3/0.26;
+  };
+  sceptre-cmd-resolver = {
+    "2.0.0" = import ./overrides/sceptre-cmd-resolver/2.0.0;
+  };
+  sceptre-file-resolver = {
+    "1.0.6" = import ./overrides/sceptre-file-resolver/1.0.6;
   };
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
