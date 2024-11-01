@@ -8407,6 +8407,9 @@
   valideer = {
     "0.4.2" = import ./overrides/valideer/0.4.2;
   };
+  validr = {
+    "1.2.2" = import ./overrides/validr/1.2.2;
+  };
   vapoursynth = {
     "70" = import ./overrides/vapoursynth/70;
   };
