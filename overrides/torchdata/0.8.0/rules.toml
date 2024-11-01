@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.curl", "~literal:!:pkgs.openssl",]
+DowngradePython = "3.10"
