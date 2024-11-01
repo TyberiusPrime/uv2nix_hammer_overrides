@@ -5565,6 +5565,9 @@
   pybloom-live = {
     "4.0.0" = import ./overrides/pybloom-live/4.0.0;
   };
+  pybloomfiltermmap3 = {
+    "0.6.0" = import ./overrides/pybloomfiltermmap3/0.6.0;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
