@@ -5976,6 +5976,9 @@
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
   };
+  pymummer = {
+    "0.11.0" = import ./overrides/pymummer/0.11.0;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
@@ -7080,6 +7083,9 @@
   salure-helpers-salureconnect = {
     "2.2.3" = import ./overrides/salure-helpers-salureconnect/2.2.3;
   };
+  sampledata = {
+    "0.3.7" = import ./overrides/sampledata/0.3.7;
+  };
   samplerate = {
     "0.2.1" = import ./overrides/samplerate/0.2.1;
   };
@@ -7127,6 +7133,12 @@
   };
   scapy-python3 = {
     "0.26" = import ./overrides/scapy-python3/0.26;
+  };
+  sceptre-cmd-resolver = {
+    "2.0.0" = import ./overrides/sceptre-cmd-resolver/2.0.0;
+  };
+  sceptre-file-resolver = {
+    "1.0.6" = import ./overrides/sceptre-file-resolver/1.0.6;
   };
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
