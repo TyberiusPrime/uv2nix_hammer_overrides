@@ -2287,6 +2287,9 @@
   fairscale = {
     "0.4.13" = import ./overrides/fairscale/0.4.13;
   };
+  fairseq = {
+    "0.12.2" = import ./overrides/fairseq/0.12.2;
+  };
   falcon-cors = {
     "1.1.7" = import ./overrides/falcon-cors/1.1.7;
   };
@@ -3547,6 +3550,9 @@
   };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
+  };
+  kedro = {
+    "0.19.8" = import ./overrides/kedro/0.19.8;
   };
   keeper-secrets-manager-core = {
     "16.6.5" = import ./overrides/keeper-secrets-manager-core/16.6.5;
@@ -5843,6 +5849,9 @@
   pyimgur = {
     "0.6.0" = import ./overrides/pyimgur/0.6.0;
   };
+  pyimpfuzzy = {
+    "0.5" = import ./overrides/pyimpfuzzy/0.5;
+  };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
@@ -5975,6 +5984,9 @@
   };
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
+  };
+  pymummer = {
+    "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
@@ -6142,6 +6154,7 @@
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
   pyscard = {
+    "2.0.0" = import ./overrides/pyscard/2.0.0;
     "2.1.1" = import ./overrides/pyscard/2.1.1;
   };
   pyschedule = {
@@ -7127,6 +7140,12 @@
   };
   scapy-python3 = {
     "0.26" = import ./overrides/scapy-python3/0.26;
+  };
+  sceptre-cmd-resolver = {
+    "2.0.0" = import ./overrides/sceptre-cmd-resolver/2.0.0;
+  };
+  sceptre-file-resolver = {
+    "1.0.6" = import ./overrides/sceptre-file-resolver/1.0.6;
   };
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
