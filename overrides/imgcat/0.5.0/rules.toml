@@ -1,2 +1,2 @@
-BuildSystems = [ "setuptools",]
+BuildSystems = [ "pytest-runner", "setuptools",]
 DowngradePython = "3.10"
