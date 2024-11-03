@@ -6126,6 +6126,9 @@
   pyrestcli = {
     "0.6.11" = import ./overrides/pyrestcli/0.6.11;
   };
+  pyrfr = {
+    "0.9.0" = import ./overrides/pyrfr/0.9.0;
+  };
   pyric = {
     "0.1.6.3" = import ./overrides/pyric/0.1.6.3;
   };
@@ -7389,6 +7392,9 @@
   };
   sly = {
     "0.4" = import ./overrides/sly/0.4;
+  };
+  smac = {
+    "2.2.0" = import ./overrides/smac/2.2.0;
   };
   smbus = {
     "1.1.post2" = import ./overrides/smbus/1.1.post2;
