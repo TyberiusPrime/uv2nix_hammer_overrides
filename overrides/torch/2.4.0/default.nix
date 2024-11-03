@@ -1,6 +1,6 @@
 { pkgs, ... }:
 old: {
-  buildInputs = old.buildInputs or [ ] ++ [
+  buildInputs = old.buildInputs or [ ] ++ (pkgs.lib.optionals (pkgs.stdenv.hostPlatform.system == "x86_64-linux") [
     pkgs.cudaPackages.cuda_cudart
     pkgs.cudaPackages.cuda_cupti
     pkgs.cudaPackages.cuda_nvrtc
@@ -11,6 +11,6 @@ old: {
     pkgs.cudaPackages.libcurand
     pkgs.cudaPackages.libcusparse
     pkgs.cudaPackages.nccl
-    pkgs.cudaPackages_11.libcusolver
-  ];
+    pkgs.cudaPackages.libcusolver
+  ]);
 }
