@@ -903,6 +903,9 @@
   charmhelpers = {
     "1.2.1" = import ./overrides/charmhelpers/1.2.1;
   };
+  chempy = {
+    "0.9.0" = import ./overrides/chempy/0.9.0;
+  };
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
@@ -5985,6 +5988,9 @@
   pync = {
     "2.0.3" = import ./overrides/pync/2.0.3;
   };
+  pyneqsys = {
+    "0.5.7" = import ./overrides/pyneqsys/0.5.7;
+  };
   pynisher = {
     "1.0.10" = import ./overrides/pynisher/1.0.10;
   };
@@ -6005,6 +6011,9 @@
   };
   pyodbc = {
     "5.1.0" = import ./overrides/pyodbc/5.1.0;
+  };
+  pyodesys = {
+    "0.14.4" = import ./overrides/pyodesys/0.14.4;
   };
   pyogg = {
     "0.6.14a1" = import ./overrides/pyogg/0.6.14a1;
@@ -7721,6 +7730,9 @@
   };
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
+  };
+  sym = {
+    "0.3.5" = import ./overrides/sym/0.3.5;
   };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
