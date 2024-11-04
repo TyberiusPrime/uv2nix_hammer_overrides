@@ -849,6 +849,9 @@
   cbpi4ui = {
     "0.0.13" = import ./overrides/cbpi4ui/0.0.13;
   };
+  cbra = {
+    "1.1.10" = import ./overrides/cbra/1.1.10;
+  };
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
@@ -926,6 +929,9 @@
   };
   ckms = {
     "0.65.0" = import ./overrides/ckms/0.65.0;
+  };
+  cl1 = {
+    "1.13.3" = import ./overrides/cl1/1.13.3;
   };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
@@ -2365,6 +2371,9 @@
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
   };
+  fil3s = {
+    "2.15.9" = import ./overrides/fil3s/2.15.9;
+  };
   filebytes = {
     "0.10.2" = import ./overrides/filebytes/0.10.2;
   };
@@ -2965,6 +2974,9 @@
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
+  headless = {
+    "1.12.4" = import ./overrides/headless/1.12.4;
+  };
   healthcheck = {
     "1.3.3" = import ./overrides/healthcheck/1.3.3;
   };
@@ -3547,6 +3559,9 @@
   };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
+  };
+  kedro = {
+    "0.19.8" = import ./overrides/kedro/0.19.8;
   };
   keeper-secrets-manager-core = {
     "16.6.5" = import ./overrides/keeper-secrets-manager-core/16.6.5;
@@ -5843,6 +5858,9 @@
   pyimgur = {
     "0.6.0" = import ./overrides/pyimgur/0.6.0;
   };
+  pyimpfuzzy = {
+    "0.5" = import ./overrides/pyimpfuzzy/0.5;
+  };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
@@ -5975,6 +5993,9 @@
   };
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
+  };
+  pymummer = {
+    "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
@@ -6142,6 +6163,7 @@
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
   pyscard = {
+    "2.0.0" = import ./overrides/pyscard/2.0.0;
     "2.1.1" = import ./overrides/pyscard/2.1.1;
   };
   pyschedule = {
@@ -7127,6 +7149,12 @@
   };
   scapy-python3 = {
     "0.26" = import ./overrides/scapy-python3/0.26;
+  };
+  sceptre-cmd-resolver = {
+    "2.0.0" = import ./overrides/sceptre-cmd-resolver/2.0.0;
+  };
+  sceptre-file-resolver = {
+    "1.0.6" = import ./overrides/sceptre-file-resolver/1.0.6;
   };
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;

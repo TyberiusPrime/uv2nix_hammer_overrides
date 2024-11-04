@@ -1,0 +1,3 @@
+BuildSystems = [ "setuptools",]
+DowngradePython = "3.10"
+ManualOverrides = "__file__:headless/1.12.4/default.nix"
