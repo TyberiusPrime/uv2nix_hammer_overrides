@@ -3353,6 +3353,9 @@
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
+  iwlib = {
+    "1.7.0" = import ./overrides/iwlib/1.7.0;
+  };
   jabberbot = {
     "0.16" = import ./overrides/jabberbot/0.16;
   };
