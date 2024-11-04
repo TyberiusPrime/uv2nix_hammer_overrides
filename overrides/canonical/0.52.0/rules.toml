@@ -1,1 +1,2 @@
 BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:canonical/0.52.0/default.nix"
