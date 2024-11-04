@@ -7131,6 +7131,9 @@
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
   };
+  schiene = {
+    "0.26" = import ./overrides/schiene/0.26;
+  };
   sciencedates = {
     "1.5.0" = import ./overrides/sciencedates/1.5.0;
   };
