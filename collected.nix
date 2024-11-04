@@ -2119,6 +2119,9 @@
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
+  eebrightbox = {
+    "0.0.6" = import ./overrides/eebrightbox/0.0.6;
+  };
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
   };
