@@ -281,6 +281,9 @@
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
+  arcgis = {
+    "2.3.1" = import ./overrides/arcgis/2.3.1;
+  };
   arcor2 = {
     "1.4.0" = import ./overrides/arcor2/1.4.0;
   };
@@ -6782,6 +6785,9 @@
   };
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
+  };
+  qiskit-nature = {
+    "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
   };
   qnap-qsw = {
     "0.3.0" = import ./overrides/qnap-qsw/0.3.0;

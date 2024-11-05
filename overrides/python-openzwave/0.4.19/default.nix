@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {final, pkgs, ...}
         : old: {
 =======
@@ -7,6 +8,10 @@
             old:
             let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( {
 >>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
+=======
+{final, pkgs, ...}
+        : old: {
+>>>>>>> c0969091896fdd3c5459e332658c3b9de30953a5
   # from nixpkgs
   nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pkg-config];
   buildInputs = old.buildInputs or [] ++ [
@@ -25,6 +30,7 @@
   '';
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         
 =======
@@ -33,3 +39,7 @@
             pkgs.lib.trivial.pipe old funcs
     
 >>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
+=======
+
+        
+>>>>>>> c0969091896fdd3c5459e332658c3b9de30953a5
