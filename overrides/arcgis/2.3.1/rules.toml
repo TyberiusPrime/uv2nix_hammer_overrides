@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+=======
+BuildSystems = [ "setuptools",]
+DowngradePython = "3.10"
+>>>>>>> 4c6cd0a0008ce45666f5dd2c04ee270b596aea4b
 ManualOverrides = "__file__:arcgis/2.3.1/default.nix"

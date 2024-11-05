@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {final, pkgs, ...}
         : old: {
 =======
@@ -22,6 +23,10 @@
 {final, pkgs, ...}
         : old: {
 >>>>>>> b773ac0803f9f9345ddd5254e856989c44d2ebe9
+=======
+{final, pkgs, ...}
+        : old: {
+>>>>>>> 4c6cd0a0008ce45666f5dd2c04ee270b596aea4b
   postInstall =
     old.postInstall
     or ""
@@ -29,6 +34,7 @@
       rm -rf $out/${final.python.sitePackages}/docs
     '';
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -53,3 +59,7 @@
 
         
 >>>>>>> b773ac0803f9f9345ddd5254e856989c44d2ebe9
+=======
+
+        
+>>>>>>> 4c6cd0a0008ce45666f5dd2c04ee270b596aea4b

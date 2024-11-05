@@ -5991,6 +5991,9 @@
   pylddwrap = {
     "1.2.2" = import ./overrides/pylddwrap/1.2.2;
   };
+  pylerc = {
+    "4.0" = import ./overrides/pylerc/4.0;
+  };
   pyleri = {
     "1.4.3" = import ./overrides/pyleri/1.4.3;
   };
