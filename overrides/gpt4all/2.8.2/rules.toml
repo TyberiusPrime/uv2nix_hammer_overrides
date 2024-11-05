@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.cudaPackages_11.cuda_cudart", "~literal:!:pkgs.cudaPackages_11.libcublas",]
+DowngradePython = "3.10"
