@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {resolveBuildSystem, final, pkgs, ...}
         :
             old:
@@ -12,6 +13,10 @@
 {final, pkgs, ...}
         : old: {
 >>>>>>> 5b858e988483041a6d696911c3a6011559872e9e
+=======
+{final, pkgs, ...}
+        : old: {
+>>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
   nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pkg-config];
   buildInputs = old.buildInputs or [] ++ [pkgs.c-ares pkgs.openssl pkgs.zlib final.cython_0];
 
@@ -26,6 +31,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ))];
             in
             pkgs.lib.trivial.pipe old funcs
@@ -38,3 +44,7 @@
 
         
 >>>>>>> 5b858e988483041a6d696911c3a6011559872e9e
+=======
+
+        
+>>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e

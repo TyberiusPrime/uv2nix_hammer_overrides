@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 BuildSystems = [ "setuptools",]
 DowngradePython = "3.10"
 >>>>>>> e4e331fe45e5220ba2341cba0ded308929c661ea
+=======
+>>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
 ManualOverrides = "__file__:cbra/1.1.10/default.nix"

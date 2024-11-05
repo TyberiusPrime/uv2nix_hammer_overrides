@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {final, pkgs, ...}
         : old: {
+=======
+{resolveBuildSystem, final, pkgs, ...}
+        :
+            old:
+            let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( {
+>>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
   # from nixpkgs
   nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pkg-config];
   buildInputs = old.buildInputs or [] ++ [
@@ -17,5 +24,12 @@
       --replace /usr/local/etc/openzwave ${pkgs.openzwave}/etc/openzwave
   '';
 }
+<<<<<<< HEAD
 
         
+=======
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    
+>>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
