@@ -2308,6 +2308,9 @@
   fairscale = {
     "0.4.13" = import ./overrides/fairscale/0.4.13;
   };
+  fairseq = {
+    "0.12.2" = import ./overrides/fairseq/0.12.2;
+  };
   falcon-cors = {
     "1.1.7" = import ./overrides/falcon-cors/1.1.7;
   };
