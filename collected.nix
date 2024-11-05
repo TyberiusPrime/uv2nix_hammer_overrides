@@ -2989,6 +2989,9 @@
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
+  hdijupyterutils = {
+    "0.21.0" = import ./overrides/hdijupyterutils/0.21.0;
+  };
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
