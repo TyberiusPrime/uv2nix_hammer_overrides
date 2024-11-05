@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+DowngradePython = "3.10"
+>>>>>>> 05372d01dd1543c7343b1b5a3ede771019b912bc
 ManualOverrides = "__file__:kedro/0.19.8/default.nix"
