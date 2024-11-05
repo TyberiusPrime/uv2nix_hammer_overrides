@@ -3248,6 +3248,9 @@
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
+  imgcat = {
+    "0.5.0" = import ./overrides/imgcat/0.5.0;
+  };
   imgviz = {
     "1.7.5" = import ./overrides/imgviz/1.7.5;
   };
