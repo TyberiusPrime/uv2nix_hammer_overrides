@@ -3699,6 +3699,9 @@
   kss = {
     "6.0.4" = import ./overrides/kss/6.0.4;
   };
+  labelme = {
+    "5.5.0" = import ./overrides/labelme/5.5.0;
+  };
   lac = {
     "2.1.2" = import ./overrides/lac/2.1.2;
   };
