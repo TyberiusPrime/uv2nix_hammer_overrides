@@ -1,1 +1,3 @@
 BorkedRuntimeDepsCheck = true
+BuildSystems = [ "setuptools",]
+DowngradePython = "3.10"
