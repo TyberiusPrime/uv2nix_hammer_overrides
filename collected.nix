@@ -7181,6 +7181,9 @@
   salure-helpers-salureconnect = {
     "2.2.3" = import ./overrides/salure-helpers-salureconnect/2.2.3;
   };
+  sampledata = {
+    "0.3.7" = import ./overrides/sampledata/0.3.7;
+  };
   samplerate = {
     "0.2.1" = import ./overrides/samplerate/0.2.1;
   };
