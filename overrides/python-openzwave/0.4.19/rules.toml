@@ -1,9 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 BuildSystems = [ "setuptools",]
 DowngradePython = "3.10"
 >>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
 =======
 >>>>>>> c0969091896fdd3c5459e332658c3b9de30953a5
+=======
+>>>>>>> b773ac0803f9f9345ddd5254e856989c44d2ebe9
 ManualOverrides = "__file__:python-openzwave/0.4.19/default.nix"

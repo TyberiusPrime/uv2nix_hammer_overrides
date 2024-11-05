@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {resolveBuildSystem, final, pkgs, ...}
         :
             old:
@@ -22,6 +23,10 @@
 {final, pkgs, ...}
         : old: {
 >>>>>>> c0969091896fdd3c5459e332658c3b9de30953a5
+=======
+{final, pkgs, ...}
+        : old: {
+>>>>>>> b773ac0803f9f9345ddd5254e856989c44d2ebe9
   nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pkg-config];
   buildInputs = old.buildInputs or [] ++ [pkgs.c-ares pkgs.openssl pkgs.zlib final.cython_0];
 
@@ -34,6 +39,7 @@
   GRPC_PYTHON_BUILD_WITH_CYTHON = 1;
   DISABLE_LIBC_COMPATIBILITY = 1;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -58,3 +64,7 @@
 
         
 >>>>>>> c0969091896fdd3c5459e332658c3b9de30953a5
+=======
+
+        
+>>>>>>> b773ac0803f9f9345ddd5254e856989c44d2ebe9

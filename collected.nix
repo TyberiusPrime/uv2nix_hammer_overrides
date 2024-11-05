@@ -7208,6 +7208,9 @@
   sasl = {
     "0.3.1" = import ./overrides/sasl/0.3.1;
   };
+  sass = {
+    "2.3" = import ./overrides/sass/2.3;
+  };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
   };
