@@ -8,11 +8,10 @@ else
     nativeBuildInputs =
       old.nativeBuildInputs or [ ]
       ++ (resolveBuildSystem {
-        "cython " = [ ];
-        "numpy " = [ ];
+        cython = [ ];
+        numpy = [ ];
         oldest-supported-numpy = [ ];
         pkgconfig = [ ];
         setuptools = [ ];
-        "setuptools " = [ ];
       });
   }
