@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b47eefa9fb6a201149524de49c7bdaec5b6756dd
 =======
@@ -14,11 +15,14 @@
 >>>>>>> 4c6cd0a0008ce45666f5dd2c04ee270b596aea4b
 =======
 >>>>>>> d98e7f2e6a7fb2349d4572fe463b8b85bb9b9d87
+=======
+>>>>>>> 7dc05d77e5317b3dd8998d5f3ab41c6852e2b117
 {pkgs, ...}
         : old: {
   buildInputs = [pkgs.ssdeep];
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -52,3 +56,6 @@
 =======
         
 >>>>>>> d98e7f2e6a7fb2349d4572fe463b8b85bb9b9d87
+=======
+        
+>>>>>>> 7dc05d77e5317b3dd8998d5f3ab41c6852e2b117

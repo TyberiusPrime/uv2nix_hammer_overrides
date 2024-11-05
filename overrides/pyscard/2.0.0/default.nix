@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {pkgs, ...}
         : old: let
+=======
+{resolveBuildSystem, final, pkgs, ...}
+        :
+            old:
+            let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pcsclite pkgs.swig] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( let
+>>>>>>> 7dc05d77e5317b3dd8998d5f3ab41c6852e2b117
   # Package does not support configuring the pcsc library.
   withApplePCSC = pkgs.stdenv.isDarwin;
 in {
@@ -38,5 +45,12 @@ in {
     "test_low_level"
   ];
 }
+<<<<<<< HEAD
 
         
+=======
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    
+>>>>>>> 7dc05d77e5317b3dd8998d5f3ab41c6852e2b117

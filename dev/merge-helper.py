@@ -33,7 +33,7 @@ for chosen in available:
     print(chosen)
     env = os.environ.copy()
     env['EDITOR'] = 'true'
-    p = subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase"], env=env)
+    p = subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase",  '--strategy', 'ours'], env=env)
     pull_failed  = p.returncode != 0
     output = subprocess.check_output(['git', 'status', '--porcelain'], env=env)
     if b'UU' in output or b'AA' in output:
@@ -41,7 +41,7 @@ for chosen in available:
         subprocess.check_call(["./dev/collect.py"])
         subprocess.check_call(["git", "add", "collected.nix"], env=env)
         subprocess.check_call(["git", "add", "overrides"], env=env)
-        subprocess.check_call(["git", "merge", "--continue", '-s', 'ours'],
+        subprocess.check_call(["git", "merge", "--continue"],
                               env = env)
         print("both added")
     elif pull_failed:

@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 ManualOverrides = "__file__:pyscard/2.0.0/default.nix"
+=======
+BuildSystems = [ "setuptools",]
+DowngradePython = "3.10"
+ManualOverrides = "__file__:pyscard/2.0.0/default.nix"
+NativeBuildInputs = [ "~literal:!:pkgs.pcsclite", "~literal:!:pkgs.swig",]
+>>>>>>> 7dc05d77e5317b3dd8998d5f3ab41c6852e2b117
