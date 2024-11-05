@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b47eefa9fb6a201149524de49c7bdaec5b6756dd
 {pkgs, ...}
         : old: {
   buildInputs = [pkgs.ssdeep];
 }
 
+<<<<<<< HEAD
         
 =======
 {resolveBuildSystem, final, pkgs, ...}
@@ -17,3 +21,6 @@
             pkgs.lib.trivial.pipe old funcs
     
 >>>>>>> 4b86a575a869296520b288fd58e6535e94de812b
+=======
+        
+>>>>>>> b47eefa9fb6a201149524de49c7bdaec5b6756dd

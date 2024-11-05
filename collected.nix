@@ -8093,6 +8093,9 @@
   torchcsprng = {
     "0.2.1" = import ./overrides/torchcsprng/0.2.1;
   };
+  torchdata = {
+    "0.8.0" = import ./overrides/torchdata/0.8.0;
+  };
   torchfile = {
     "0.1.0" = import ./overrides/torchfile/0.1.0;
   };
