@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+=======
+BuildSystems = [ "setuptools",]
+DowngradePython = "3.10"
+>>>>>>> 4b86a575a869296520b288fd58e6535e94de812b
 ManualOverrides = "__file__:pyimpfuzzy/0.5/default.nix"
