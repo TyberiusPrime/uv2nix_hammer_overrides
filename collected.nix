@@ -4375,6 +4375,7 @@
     "1.1.0" = import ./overrides/moztest/1.1.0;
   };
   mpi4py = {
+    "4.0.0" = import ./overrides/mpi4py/4.0.0;
     "4.0.1" = import ./overrides/mpi4py/4.0.1;
   };
   mplcursors = {
