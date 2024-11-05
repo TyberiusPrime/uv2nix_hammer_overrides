@@ -65,6 +65,9 @@
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
+  aescipher = {
+    "6.0.0" = import ./overrides/aescipher/6.0.0;
+  };
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
@@ -277,6 +280,9 @@
   };
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
+  };
+  arcgis = {
+    "2.3.1" = import ./overrides/arcgis/2.3.1;
   };
   arcor2 = {
     "1.4.0" = import ./overrides/arcor2/1.4.0;
@@ -849,6 +855,9 @@
   cbpi4ui = {
     "0.0.13" = import ./overrides/cbpi4ui/0.0.13;
   };
+  cbra = {
+    "1.1.10" = import ./overrides/cbra/1.1.10;
+  };
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
@@ -926,6 +935,9 @@
   };
   ckms = {
     "0.65.0" = import ./overrides/ckms/0.65.0;
+  };
+  cl1 = {
+    "1.13.3" = import ./overrides/cl1/1.13.3;
   };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
@@ -2161,6 +2173,9 @@
   encodec = {
     "0.1.1" = import ./overrides/encodec/0.1.1;
   };
+  encryptedsocket = {
+    "3.0.0" = import ./overrides/encryptedsocket/3.0.0;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
@@ -2364,6 +2379,9 @@
   };
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
+  };
+  fil3s = {
+    "2.15.9" = import ./overrides/fil3s/2.15.9;
   };
   filebytes = {
     "0.10.2" = import ./overrides/filebytes/0.10.2;
@@ -2881,6 +2899,9 @@
   grpc-google-pubsub-v1 = {
     "0.11.1" = import ./overrides/grpc-google-pubsub-v1/0.11.1;
   };
+  grpcio = {
+    "1.57.0" = import ./overrides/grpcio/1.57.0;
+  };
   grpclib = {
     "0.4.7" = import ./overrides/grpclib/0.4.7;
   };
@@ -2964,6 +2985,9 @@
   };
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
+  };
+  headless = {
+    "1.12.4" = import ./overrides/headless/1.12.4;
   };
   healthcheck = {
     "1.3.3" = import ./overrides/healthcheck/1.3.3;
@@ -3389,6 +3413,9 @@
   jieba3k = {
     "0.35.1" = import ./overrides/jieba3k/0.35.1;
   };
+  jina-hubble-sdk = {
+    "0.39.0" = import ./overrides/jina-hubble-sdk/0.39.0;
+  };
   jinja-macro-tags = {
     "0.2" = import ./overrides/jinja-macro-tags/0.2;
   };
@@ -3547,6 +3574,9 @@
   };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
+  };
+  kedro = {
+    "0.19.8" = import ./overrides/kedro/0.19.8;
   };
   keeper-secrets-manager-core = {
     "16.6.5" = import ./overrides/keeper-secrets-manager-core/16.6.5;
@@ -5843,6 +5873,9 @@
   pyimgur = {
     "0.6.0" = import ./overrides/pyimgur/0.6.0;
   };
+  pyimpfuzzy = {
+    "0.5" = import ./overrides/pyimpfuzzy/0.5;
+  };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
@@ -5975,6 +6008,9 @@
   };
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
+  };
+  pymummer = {
+    "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
@@ -6142,6 +6178,7 @@
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
   pyscard = {
+    "2.0.0" = import ./overrides/pyscard/2.0.0;
     "2.1.1" = import ./overrides/pyscard/2.1.1;
   };
   pyschedule = {
@@ -6464,6 +6501,9 @@
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
+  python-openzwave = {
+    "0.4.19" = import ./overrides/python-openzwave/0.4.19;
+  };
   python-packer = {
     "0.1.2" = import ./overrides/python-packer/0.1.2;
   };
@@ -6708,6 +6748,9 @@
   };
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
+  };
+  qiskit-nature = {
+    "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
   };
   qnap-qsw = {
     "0.3.0" = import ./overrides/qnap-qsw/0.3.0;
@@ -7127,6 +7170,12 @@
   };
   scapy-python3 = {
     "0.26" = import ./overrides/scapy-python3/0.26;
+  };
+  sceptre-cmd-resolver = {
+    "2.0.0" = import ./overrides/sceptre-cmd-resolver/2.0.0;
+  };
+  sceptre-file-resolver = {
+    "1.0.6" = import ./overrides/sceptre-file-resolver/1.0.6;
   };
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;

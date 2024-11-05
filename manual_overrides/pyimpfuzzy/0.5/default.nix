@@ -1,0 +1,3 @@
+{
+  buildInputs = [pkgs.ssdeep];
+}
