@@ -4576,6 +4576,9 @@
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
+  nglview = {
+    "3.1.2" = import ./overrides/nglview/3.1.2;
+  };
   nilsimsa = {
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
   };
