@@ -6296,6 +6296,9 @@
   pysptk = {
     "1.0.1" = import ./overrides/pysptk/1.0.1;
   };
+  pysqlite3 = {
+    "0.5.3" = import ./overrides/pysqlite3/0.5.3;
+  };
   pysrt = {
     "1.1.2" = import ./overrides/pysrt/1.1.2;
   };
