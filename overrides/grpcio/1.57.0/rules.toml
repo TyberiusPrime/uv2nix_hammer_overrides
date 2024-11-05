@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 BuildSystems = [ "setuptools",]
 DowngradePython = "3.10"
+=======
+>>>>>>> 47ecffda093885d49866a2ab4dd85be06d1a3347
 ManualOverrides = "__file__:grpcio/1.57.0/default.nix"

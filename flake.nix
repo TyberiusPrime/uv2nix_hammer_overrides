@@ -47,7 +47,6 @@
       if builtins.length older_versions == 0
       then null
       else lib.lists.last older_versions;
-    helpers = import ./helpers.nix {pkgs = nixpkgs.legacyPackages.x86_64-linux;};
 
     matched_overrides = version_match: nixpkgs_pkgs: final: prev:
       (lib.attrsets.mapAttrs (
@@ -56,6 +55,7 @@
             resolveBuildSystem = final.resolveBuildSystem or poetry2nix_resolveBuildSystem_adapter;
             poetry2nix_resolveBuildSystem_adapter = pyproject-nix-style-build-systems:
               builtins.map (x: final.${x}) (builtins.attrNames pyproject-nix-style-build-systems);
+            helpers = import ./helpers.nix {pkgs = nixpkgs_pkgs;};
           in
             # poetry2nix or uv2nix with pyproject.nix builders?
             (

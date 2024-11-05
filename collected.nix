@@ -65,6 +65,9 @@
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
+  aescipher = {
+    "6.0.0" = import ./overrides/aescipher/6.0.0;
+  };
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
@@ -2172,6 +2175,9 @@
   };
   encodec = {
     "0.1.1" = import ./overrides/encodec/0.1.1;
+  };
+  encryptedsocket = {
+    "3.0.0" = import ./overrides/encryptedsocket/3.0.0;
   };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
@@ -6509,6 +6515,9 @@
   };
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
+  };
+  python-openzwave = {
+    "0.4.19" = import ./overrides/python-openzwave/0.4.19;
   };
   python-packer = {
     "0.1.2" = import ./overrides/python-packer/0.1.2;
