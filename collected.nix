@@ -3446,6 +3446,9 @@
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
   };
+  johnnycanencrypt = {
+    "0.14.1" = import ./overrides/johnnycanencrypt/0.14.1;
+  };
   jose = {
     "1.0.0" = import ./overrides/jose/1.0.0;
   };
