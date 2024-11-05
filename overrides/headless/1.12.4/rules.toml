@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 BuildSystems = [ "setuptools",]
 DowngradePython = "3.10"
->>>>>>> e4e331fe45e5220ba2341cba0ded308929c661ea
-=======
->>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
-=======
->>>>>>> c0969091896fdd3c5459e332658c3b9de30953a5
-=======
->>>>>>> b773ac0803f9f9345ddd5254e856989c44d2ebe9
-=======
->>>>>>> 4c6cd0a0008ce45666f5dd2c04ee270b596aea4b
 ManualOverrides = "__file__:headless/1.12.4/default.nix"

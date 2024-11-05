@@ -1,6 +1,3 @@
 BuildInputs = [ "~literal:!:pkgs.tbb_2021_11.out",]
-<<<<<<< HEAD
-=======
 DowngradePython = "3.10"
->>>>>>> d98e7f2e6a7fb2349d4572fe463b8b85bb9b9d87
 ManualOverrides = "__file__:numba/0.60.0/default.nix"

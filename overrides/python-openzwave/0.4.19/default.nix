@@ -1,65 +1,44 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-{final, pkgs, ...}
-        : old: {
-=======
-{resolveBuildSystem, final, pkgs, ...}
-        :
-            old:
-            let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( {
->>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
-=======
-{final, pkgs, ...}
-        : old: {
->>>>>>> c0969091896fdd3c5459e332658c3b9de30953a5
-=======
-{final, pkgs, ...}
-        : old: {
->>>>>>> b773ac0803f9f9345ddd5254e856989c44d2ebe9
-=======
-{final, pkgs, ...}
-        : old: {
->>>>>>> 4c6cd0a0008ce45666f5dd2c04ee270b596aea4b
-  # from nixpkgs
-  nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pkg-config];
-  buildInputs = old.buildInputs or [] ++ [
-    pkgs.systemd
-    pkgs.libyaml
-    pkgs.openzwave
-    final.cython_0
-  ];
-
-  # primary location for the .xml files is in /etc/openzwave so we override the
-  # /usr/local/etc lookup instead as that allows us to dump new .xml files into
-  # /etc/openzwave if needed
-  postPatch = old.postPatch or "" + pkgs.lib.optionalString (old.format or "sdist" == "sdist") ''
-    substituteInPlace src-lib/libopenzwave/libopenzwave.pyx \
-      --replace /usr/local/etc/openzwave ${pkgs.openzwave}/etc/openzwave
-  '';
+{
+  resolveBuildSystem,
+  final,
+  pkgs,
+  ...
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+: old: let
+  funcs = [
+    (old:
+      old
+      // (
+        if ((old.format or "sdist") == "wheel")
+        then {}
+        else {nativeBuildInputs = old.nativeBuildInputs or [] ++ (resolveBuildSystem {setuptools = [];});}
+      ))
+    (old:
+      old
+      // {
+        # from nixpkgs
+        nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pkg-config];
+        buildInputs =
+          old.buildInputs
+          or []
+          ++ [
+            pkgs.systemd
+            pkgs.libyaml
+            pkgs.openzwave
+            final.cython_0
+          ];
 
-        
-=======
-))];
-            in
-            pkgs.lib.trivial.pipe old funcs
-    
->>>>>>> 01053e2ed30446105e78e3c6a6d86dd129e42b2e
-=======
-
-        
->>>>>>> c0969091896fdd3c5459e332658c3b9de30953a5
-=======
-
-        
->>>>>>> b773ac0803f9f9345ddd5254e856989c44d2ebe9
-=======
-
-        
->>>>>>> 4c6cd0a0008ce45666f5dd2c04ee270b596aea4b
+        # primary location for the .xml files is in /etc/openzwave so we override the
+        # /usr/local/etc lookup instead as that allows us to dump new .xml files into
+        # /etc/openzwave if needed
+        postPatch =
+          old.postPatch
+          or ""
+          + pkgs.lib.optionalString (old.format or "sdist" == "sdist") ''
+            substituteInPlace src-lib/libopenzwave/libopenzwave.pyx \
+              --replace /usr/local/etc/openzwave ${pkgs.openzwave}/etc/openzwave
+          '';
+      })
+  ];
+in
+  pkgs.lib.trivial.pipe old funcs
