@@ -873,6 +873,9 @@
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
   };
+  celery-redbeat = {
+    "2.2.0" = import ./overrides/celery-redbeat/2.2.0;
+  };
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
