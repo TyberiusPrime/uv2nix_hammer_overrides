@@ -1,1 +1,2 @@
+BuildSystems = [ "setuptools",]
 ManualOverrides = "__file__:cbpi4/4.4.3/default.nix"

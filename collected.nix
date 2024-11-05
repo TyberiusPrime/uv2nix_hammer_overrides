@@ -846,6 +846,9 @@
   cbpi4 = {
     "4.4.3" = import ./overrides/cbpi4/4.4.3;
   };
+  cbpi4gui = {
+    "0.3.17" = import ./overrides/cbpi4gui/0.3.17;
+  };
   cbpi4ui = {
     "0.0.13" = import ./overrides/cbpi4ui/0.0.13;
   };
