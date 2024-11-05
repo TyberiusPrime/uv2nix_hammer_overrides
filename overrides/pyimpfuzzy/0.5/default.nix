@@ -1,12 +1,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b47eefa9fb6a201149524de49c7bdaec5b6756dd
+=======
+>>>>>>> f2b8b3a3c4ff2640af23e58184de2b188f6f872e
 {pkgs, ...}
         : old: {
   buildInputs = [pkgs.ssdeep];
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
         
 =======
@@ -24,3 +28,6 @@
 =======
         
 >>>>>>> b47eefa9fb6a201149524de49c7bdaec5b6756dd
+=======
+        
+>>>>>>> f2b8b3a3c4ff2640af23e58184de2b188f6f872e
