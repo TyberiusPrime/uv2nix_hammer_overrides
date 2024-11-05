@@ -1,1 +1,2 @@
 BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:ckms/0.65.0/default.nix"
