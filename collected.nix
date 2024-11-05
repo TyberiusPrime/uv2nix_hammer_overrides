@@ -3034,6 +3034,9 @@
   horetu = {
     "0.4.4" = import ./overrides/horetu/0.4.4;
   };
+  horovod = {
+    "0.28.1" = import ./overrides/horovod/0.28.1;
+  };
   houdini-py = {
     "0.1.0" = import ./overrides/houdini-py/0.1.0;
   };
