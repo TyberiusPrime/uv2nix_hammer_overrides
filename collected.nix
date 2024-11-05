@@ -8372,6 +8372,9 @@
   unittest-data-provider = {
     "1.0.1" = import ./overrides/unittest-data-provider/1.0.1;
   };
+  unittest2py3k = {
+    "0.5.1" = import ./overrides/unittest2py3k/0.5.1;
+  };
   unixpackage = {
     "0.4.7" = import ./overrides/unixpackage/0.4.7;
   };
