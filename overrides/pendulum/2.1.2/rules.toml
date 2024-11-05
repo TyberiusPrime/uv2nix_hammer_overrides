@@ -1,2 +1,2 @@
 BuildSystems = [ "poetry-core",]
-DowngradePython = "3.11"
+DowngradePython = "3.10"
