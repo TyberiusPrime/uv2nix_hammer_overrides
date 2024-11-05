@@ -1538,6 +1538,9 @@
   dhooks = {
     "1.1.4" = import ./overrides/dhooks/1.1.4;
   };
+  dictionaryutils = {
+    "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };

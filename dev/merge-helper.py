@@ -41,7 +41,7 @@ for chosen in available:
         subprocess.check_call(["./dev/collect.py"])
         subprocess.check_call(["git", "add", "collected.nix"], env=env)
         subprocess.check_call(["git", "add", "overrides"], env=env)
-        subprocess.check_call(["git", "merge", "--continue"],
+        subprocess.check_call(["git", "merge", "--continue", '-s', 'ours'],
                               env = env)
         print("both added")
     elif pull_failed:
