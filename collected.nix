@@ -3158,6 +3158,9 @@
   humilis = {
     "1.7.1" = import ./overrides/humilis/1.7.1;
   };
+  hunspell = {
+    "0.5.5" = import ./overrides/hunspell/0.5.5;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
@@ -6471,6 +6474,9 @@
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
+  python-gammu = {
+    "3.2.4" = import ./overrides/python-gammu/3.2.4;
+  };
   python-gcm = {
     "0.4" = import ./overrides/python-gcm/0.4;
   };
@@ -7903,6 +7909,9 @@
   };
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
+  };
+  tbb = {
+    "2021.13.1" = import ./overrides/tbb/2021.13.1;
   };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
