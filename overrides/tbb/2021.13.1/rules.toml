@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.hwloc",]
+DowngradePython = "3.10"
+ManualOverrides = "__file__:tbb/2021.13.1/default.nix"
