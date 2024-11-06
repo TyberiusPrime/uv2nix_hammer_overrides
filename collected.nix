@@ -2826,6 +2826,9 @@
   gmail = {
     "0.6.3" = import ./overrides/gmail/0.6.3;
   };
+  gmsh = {
+    "4.13.1" = import ./overrides/gmsh/4.13.1;
+  };
   gmusicapi = {
     "13.0.0" = import ./overrides/gmusicapi/13.0.0;
   };
@@ -3157,6 +3160,9 @@
   };
   humilis = {
     "1.7.1" = import ./overrides/humilis/1.7.1;
+  };
+  hunspell = {
+    "0.5.5" = import ./overrides/hunspell/0.5.5;
   };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
@@ -7903,6 +7909,9 @@
   };
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
+  };
+  tbb = {
+    "2021.13.1" = import ./overrides/tbb/2021.13.1;
   };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
