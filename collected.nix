@@ -6436,7 +6436,6 @@
     "1.6.0" = import ./overrides/python-ctags3/1.6.0;
   };
   python-dateutil = {
-    "2.9.0" = import ./overrides/python-dateutil/2.9.0;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
   python-ddp = {

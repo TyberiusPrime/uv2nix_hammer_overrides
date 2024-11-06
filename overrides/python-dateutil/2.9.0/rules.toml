@@ -1,1 +1,0 @@
-BuildSystems = [ "setuptools", "setuptools-scm", "wheel", "setuptools",]
