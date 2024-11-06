@@ -1,7 +1,7 @@
 {pkgs, final, ...}
         :
             old:
-            let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {buildInputs = old.buildInputs or [] ++ [
+            let funcs = [(old: old // ( if ((old.passthru.format or "sdist") == "wheel") then {buildInputs = old.buildInputs or [] ++ [
              (pkgs.boost183.override {
                  python = final.python;
                  numpy = final.numpy;

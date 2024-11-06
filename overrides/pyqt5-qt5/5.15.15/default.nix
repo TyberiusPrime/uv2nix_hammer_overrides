@@ -33,7 +33,7 @@
       qttools
     ];
 in (
-  if (old.format or "sdist" == "sdist")
+  if (old.passthru.format or "sdist" == "sdist")
   then {
     postPatch = ''
       # Confirm license, if project.py exists

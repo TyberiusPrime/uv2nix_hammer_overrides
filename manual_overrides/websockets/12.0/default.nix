@@ -1,5 +1,5 @@
 (
-  pkgs.lib.optionalAttrs (old.format or "sdist" == "sdist")
+  pkgs.lib.optionalAttrs (old.passthru.format or "sdist" == "sdist")
   {
     # from nixpkgs
     patchPhase = ''

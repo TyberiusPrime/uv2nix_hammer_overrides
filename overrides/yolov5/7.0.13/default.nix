@@ -1,5 +1,5 @@
 _: old:
-if ((old.format or "sdist") == "wheel") then
+if ((old.passthru.format or "sdist") == "wheel") then
   { }
 else
   { postPatch = (old.postPatch or "") + "touch requirements.txt"; }

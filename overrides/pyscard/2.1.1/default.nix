@@ -1,7 +1,7 @@
 {resolveBuildSystem, final, pkgs, ...}
         :
             old:
-            let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];swig = [];});})) (old: old // ( let
+            let funcs = [(old: old // ( if ((old.passthru.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];swig = [];});})) (old: old // ( let
   # Package does not support configuring the pcsc library.
   withApplePCSC = pkgs.stdenv.isDarwin;
 in {

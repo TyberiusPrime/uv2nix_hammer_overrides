@@ -1,10 +1,10 @@
 {pkgs, helpers, ...}
         :
             old:
-            let funcs = [(old: old // ( if ((old.format or "sdist") == "wheel") then {} else {postPatch = (old.postPatch or "")+(''
+            let funcs = [(old: old // ( if ((old.passthru.format or "sdist") == "wheel") then {} else {postPatch = (old.postPatch or "")+(''
                 ${helpers.tomlremove} Cargo.toml package.metadata.maturin
         '');})) (old: old // ( 
-              pkgs.lib.optionalAttrs (old.format or "sdist" != "wheel") (
+              pkgs.lib.optionalAttrs (old.passthru.format or "sdist" != "wheel") (
               helpers.standardMaturin {
               furtherArgs = {
                   postPatch = old.postPatch or "" + ''

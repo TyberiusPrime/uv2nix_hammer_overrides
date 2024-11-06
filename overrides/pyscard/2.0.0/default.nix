@@ -8,7 +8,7 @@
     (old:
       old
       // (
-        if ((old.format or "sdist") == "wheel")
+        if ((old.passthru.format or "sdist") == "wheel")
         then {}
         else {nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pcsclite pkgs.swig] ++ (resolveBuildSystem {setuptools = [];});}
       ))

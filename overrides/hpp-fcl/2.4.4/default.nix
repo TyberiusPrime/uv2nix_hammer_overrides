@@ -1,5 +1,5 @@
 {pkgs, final, ...}
-        : old: if ((old.format or "sdist") == "wheel") then {buildInputs = old.buildInputs or [] ++ [
+        : old: if ((old.passthru.format or "sdist") == "wheel") then {buildInputs = old.buildInputs or [] ++ [
              (pkgs.boost183.override {
                  python = final.python;
                  numpy = final.numpy;

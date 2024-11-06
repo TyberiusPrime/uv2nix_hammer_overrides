@@ -1,5 +1,5 @@
 {resolveBuildSystem, ...}: old:
-if ((old.format or "sdist") == "wheel")
+if ((old.passthru.format or "sdist") == "wheel")
 then {}
 else {
   nativeBuildInputs =

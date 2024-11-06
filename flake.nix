@@ -81,7 +81,7 @@
       // {
         cython_0 = prev.cython.overrideAttrs (old: {
           src =
-            if ((builtins.trace (old.format or "sdist") (old.format or "sdist")) == "wheel")
+            if ((builtins.trace (old.passthru.format or "sdist") (old.passthru.format or "sdist")) == "wheel")
             then
               nixpkgs_pkgs.fetchurl {
                 url = "https://files.pythonhosted.org/packages/3f/d6/9eed523aeaca42acbaa3e6d3850edae780dc7f8da9df1bf6a2ceb851839c/Cython-0.29.36-py2.py3-none-any.whl";

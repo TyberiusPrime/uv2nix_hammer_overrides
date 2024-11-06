@@ -11,7 +11,7 @@ let
       old:
       old
       // (
-        if ((old.format or "sdist") == "wheel") then
+        if ((old.passthru.format or "sdist") == "wheel") then
           { }
         else
           {
@@ -27,7 +27,7 @@ let
     )
     (
       old:
-      old // (pkgs.lib.optionalAttrs (old.format or "sdist" != "wheel") (helpers.standardMaturin { } old))
+      old // (pkgs.lib.optionalAttrs (old.passthru.format or "sdist" != "wheel") (helpers.standardMaturin { } old))
     )
   ];
 in

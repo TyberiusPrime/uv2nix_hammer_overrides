@@ -9,7 +9,7 @@
     (old:
       old
       // (
-        if ((old.format or "sdist") == "wheel")
+        if ((old.passthru.format or "sdist") == "wheel")
         then {}
         else {nativeBuildInputs = old.nativeBuildInputs or [] ++ (resolveBuildSystem {setuptools = [];});}
       ))
@@ -34,7 +34,7 @@
         postPatch =
           old.postPatch
           or ""
-          + pkgs.lib.optionalString (old.format or "sdist" == "sdist") ''
+          + pkgs.lib.optionalString (old.passthru.format or "sdist" == "sdist") ''
             substituteInPlace src-lib/libopenzwave/libopenzwave.pyx \
               --replace /usr/local/etc/openzwave ${pkgs.openzwave}/etc/openzwave
           '';

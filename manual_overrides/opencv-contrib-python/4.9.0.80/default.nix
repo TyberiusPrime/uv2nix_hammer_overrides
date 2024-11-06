@@ -1,5 +1,5 @@
 {
-  postPatch = pkgs.lib.optional ((old.format or "sdist") == "sdist") ''
+  postPatch = pkgs.lib.optional ((old.passthru.format or "sdist") == "sdist") ''
     sed -i pyproject.toml -e 's/numpy==[0-9]\+\.[0-9]\+\.[0-9]\+;/numpy;/g'
     sed -i pyproject.toml -e 's/setuptools==[0-9.]\+/setuptools/g'
     # somehow the type information doesn't get build
