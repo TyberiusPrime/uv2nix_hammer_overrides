@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.keyutils", "~literal:!:pkgs.libxcrypt-legacy", "~literal:!:pkgs.udev",]
+DowngradePython = "3.10"
