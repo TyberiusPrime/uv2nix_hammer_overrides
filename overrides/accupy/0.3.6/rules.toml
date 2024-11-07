@@ -1,0 +1,4 @@
+BuildSystems = [ "pybind11", "setuptools", "wheel",]
+DowngradePython = "3.10"
+NativeBuildInputs = [ "~literal:!:pkgs.eigen",]
+ManualOverrides = "__file__:accupy/0.3.6/default.nix"
