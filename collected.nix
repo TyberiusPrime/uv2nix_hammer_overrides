@@ -8124,10 +8124,6 @@
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
   };
-  torch = {
-    "2.4.0" = import ./overrides/torch/2.4.0;
-    "2.4.1" = import ./overrides/torch/2.4.1;
-  };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
   };
@@ -8151,9 +8147,6 @@
   };
   torchnet = {
     "0.0.4" = import ./overrides/torchnet/0.0.4;
-  };
-  torchvision = {
-    "0.19.1" = import ./overrides/torchvision/0.19.1;
   };
   toredis = {
     "0.1.2" = import ./overrides/toredis/0.1.2;
