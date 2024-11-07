@@ -1,0 +1,2 @@
+BuildSystems = [ "cffi", "packaging", "setuptools", "wheel",]
+DowngradePython = "3.10"

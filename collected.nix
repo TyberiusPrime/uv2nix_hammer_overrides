@@ -2287,6 +2287,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  experiment-utilities = {
+    "0.3.6" = import ./overrides/experiment-utilities/0.3.6;
+  };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
@@ -6818,11 +6821,17 @@
   pyzerproc = {
     "0.4.12" = import ./overrides/pyzerproc/0.4.12;
   };
+  pyzmq = {
+    "24.0.1" = import ./overrides/pyzmq/24.0.1;
+  };
   qcloud-image = {
     "1.0.0" = import ./overrides/qcloud-image/1.0.0;
   };
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
+  };
+  qgrid = {
+    "1.3.1" = import ./overrides/qgrid/1.3.1;
   };
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
