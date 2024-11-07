@@ -22,6 +22,15 @@ Example [poetry2nix flake.nix](examples/poetry2nix/flake.nix)
 poetry2nix example
 
 
+## Scope of the 'sweep'
+
+- Limited to 'important' python packages by some arbitrary definition.
+- TyberiusPrime will only do x86-64-linux. PRs for other architectures welcome, but they probably need to be upstream in [uv2nix-hammer](https://github.com/TyberiusPrime/uv2nix_hammer)
+- TyberiusPrime will not spent time getting cryto(mining) packages to build.
+- TyberiusPrime has a time limit on getting any package running.
+
+
+
 ## Open tasks:
 
  - Fix (or exclude) the remaining build failures (we're down to ~650 as of 2024-11-07)
