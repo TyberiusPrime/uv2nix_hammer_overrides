@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools", "setuptools-scm", "swig",]
+DowngradePython = "3.10"
