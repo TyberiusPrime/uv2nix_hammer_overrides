@@ -3158,6 +3158,9 @@
   humilis = {
     "1.7.1" = import ./overrides/humilis/1.7.1;
   };
+  hunspell = {
+    "0.5.5" = import ./overrides/hunspell/0.5.5;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
@@ -6253,6 +6256,7 @@
   pyscard = {
     "2.0.0" = import ./overrides/pyscard/2.0.0;
     "2.1.1" = import ./overrides/pyscard/2.1.1;
+    "2.2.0" = import ./overrides/pyscard/2.2.0;
   };
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
@@ -6286,6 +6290,9 @@
   };
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
+  };
+  pyside2 = {
+    "5.15.2.1" = import ./overrides/pyside2/5.15.2.1;
   };
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
@@ -7904,6 +7911,9 @@
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
   };
+  tbb = {
+    "2021.13.1" = import ./overrides/tbb/2021.13.1;
+  };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
@@ -8123,6 +8133,9 @@
   };
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
+  };
+  torch = {
+    "2.4.1" = import ./overrides/torch/2.4.1;
   };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
