@@ -3158,6 +3158,9 @@
   humilis = {
     "1.7.1" = import ./overrides/humilis/1.7.1;
   };
+  hunspell = {
+    "0.5.5" = import ./overrides/hunspell/0.5.5;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
@@ -7904,6 +7907,9 @@
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
   };
+  tbb = {
+    "2021.13.1" = import ./overrides/tbb/2021.13.1;
+  };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
@@ -8124,6 +8130,9 @@
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
   };
+  torch = {
+    "2.4.1" = import ./overrides/torch/2.4.1;
+  };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
   };
@@ -8147,6 +8156,9 @@
   };
   torchnet = {
     "0.0.4" = import ./overrides/torchnet/0.0.4;
+  };
+  torchvision = {
+    "0.19.1" = import ./overrides/torchvision/0.19.1;
   };
   toredis = {
     "0.1.2" = import ./overrides/toredis/0.1.2;
