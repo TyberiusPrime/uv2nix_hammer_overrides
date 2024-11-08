@@ -429,6 +429,9 @@
   authres = {
     "1.2.0" = import ./overrides/authres/1.2.0;
   };
+  auto-sklearn = {
+    "0.15.0" = import ./overrides/auto-sklearn/0.15.0;
+  };
   autobreadcrumbs = {
     "2.0.0" = import ./overrides/autobreadcrumbs/2.0.0;
   };
@@ -6089,6 +6092,7 @@
     "0.5.7" = import ./overrides/pyneqsys/0.5.7;
   };
   pynisher = {
+    "0.6.4" = import ./overrides/pynisher/0.6.4;
     "1.0.10" = import ./overrides/pynisher/1.0.10;
   };
   pynsq = {
@@ -7528,6 +7532,7 @@
     "0.4" = import ./overrides/sly/0.4;
   };
   smac = {
+    "1.2" = import ./overrides/smac/1.2;
     "2.2.0" = import ./overrides/smac/2.2.0;
   };
   smbus = {
