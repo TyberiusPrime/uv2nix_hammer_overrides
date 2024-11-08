@@ -1,0 +1,4 @@
+BuildSystems = [ "cython_0", "setuptools", "wheel",]
+DowngradePython = "3.10"
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config",]
+TomlRequiresPatcher = [ true, true, false, true, false, false,]

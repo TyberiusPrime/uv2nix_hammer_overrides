@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.gfortran13.cc", "~literal:!:pkgs.gfortran13.out",]
+DowngradePython = "3.10"
