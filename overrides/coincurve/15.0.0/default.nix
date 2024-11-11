@@ -1,0 +1,3 @@
+{resolveBuildSystem, final, pkgs, ...}
+        : old: if ((old.passthru.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.autoconf pkgs.automake pkgs.libtool pkgs.pkg-config] ++ ( resolveBuildSystem {cffi = [];requests = [];setuptools = [];});}
+        
