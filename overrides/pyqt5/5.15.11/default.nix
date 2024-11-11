@@ -59,8 +59,7 @@ in (
     buildInputs = old.buildInputs or [] ++ pyQt5Modules qt5;
     autoPatchelfIgnoreMissingDeps = ["libQt5TextToSpeech.so.5"]; # no clue if this is correct.
   }
-)
-))];
+)))];
             in
             pkgs.lib.trivial.pipe old funcs
     
