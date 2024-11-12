@@ -1,2 +1,0 @@
-BuildSystems = [ "cython", "setuptools",]
-DowngradePython = "3.10"

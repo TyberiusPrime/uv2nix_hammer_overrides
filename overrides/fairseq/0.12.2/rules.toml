@@ -1,3 +1,0 @@
-BuildSystems = [ "cython_0", "numpy", "setuptools", "wheel",]
-DowngradePython = "3.10"
-TomlRequiresPatcher = [ true, true, false, true, false, false,]

@@ -1,3 +1,0 @@
-BuildInputs = [ "~literal:!:pkgs.gfortran13", "~literal:!:pkgs.gfortran13.cc", "~literal:!:pkgs.gfortran13.out",]
-DowngradePython = "3.10"
-NativeBuildInputs = [ "~literal:!:pkgs.gfortran13.cc", "~literal:!:pkgs.gfortran13.cc.lib", "~literal:!:pkgs.gfortran13.out",]

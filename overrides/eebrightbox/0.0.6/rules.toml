@@ -1,2 +1,0 @@
-BuildSystems = [ "pbr", "setuptools",]
-DowngradePython = "3.10"

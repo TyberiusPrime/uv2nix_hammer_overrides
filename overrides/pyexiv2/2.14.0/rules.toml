@@ -1,2 +1,0 @@
-BuildInputs = [ "~literal:!:pkgs.exiv2",]
-DowngradePython = "3.10"

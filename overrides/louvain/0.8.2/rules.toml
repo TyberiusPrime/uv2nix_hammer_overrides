@@ -1,2 +1,0 @@
-BuildSystems = [ "setuptools", "setuptools-scm",]
-DowngradePython = "3.10"

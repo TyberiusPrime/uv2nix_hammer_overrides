@@ -1,2 +1,0 @@
-BuildInputs = [ "~literal:!:pkgs.pcsclite",]
-DowngradePython = "3.10"

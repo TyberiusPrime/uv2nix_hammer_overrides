@@ -1,3 +1,0 @@
-BuildSystems = [ "setuptools",]
-DowngradePython = "3.10"
-NativeBuildInputs = [ "~literal:!:pkgs.sqlite",]

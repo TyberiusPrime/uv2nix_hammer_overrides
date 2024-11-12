@@ -1,2 +1,0 @@
-BuildSystems = [ "setuptools", "wheel",]
-DowngradePython = "3.10"
