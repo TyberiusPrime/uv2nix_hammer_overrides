@@ -8124,11 +8124,17 @@
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
   };
+  torch = {
+    "2.5.1" = import ./overrides/torch/2.5.1;
+  };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
   };
   torch-sparse = {
     "0.6.18" = import ./overrides/torch-sparse/0.6.18;
+  };
+  torch-spline-conv = {
+    "1.2.2" = import ./overrides/torch-spline-conv/1.2.2;
   };
   torchaudio = {
     "2.4.1" = import ./overrides/torchaudio/2.4.1;
