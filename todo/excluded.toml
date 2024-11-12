@@ -1028,3 +1028,6 @@ pcodedmp = "Automatic: Is_python2_only (long int, 0xFFFFFFFAL): ('olefile', '0.4
 pomegranate = "won't build even on 3.9"
 rocksdb = "Automatic: Is_python2_only (except x, y:): ('rocksdb', '0.7.0')"
 underthesea = "underthesea-core requires python 3.5? it's pyo3 doesn't compile on 3.9 at least "
+image-match = "wants a scikit-image that won't build in 3.10"
+bblfsh = "needs libuast, project repositary archived mar 8 2020"
+python-pushover = "uv lock error, 'use_2to3 is invalid.'"

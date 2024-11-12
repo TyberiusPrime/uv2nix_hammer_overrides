@@ -40,4 +40,7 @@ poetry2nix example
 
 ## Faq
 
-Currently no frequently asked questions - the last few were solved by uv2nix/pyproject.nix updates :).
+
+#### My packages still fail:
+
+The first thing you might want to check is if there's a 'Downgrade*' rule in overrides/<package>/rules.toml (or it's dependencies :( ). That might teach you that you have to restrict something else to be 'not the newest version'. Sorry, no automatic checking for that yet.
