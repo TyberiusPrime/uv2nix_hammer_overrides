@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.krb5",]
+DowngradePython = "3.10"
+NativeBuildInputs = [ "~literal:!:pkgs.krb5",]
