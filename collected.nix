@@ -20,6 +20,9 @@
   accumulation-tree = {
     "0.6.2" = import ./overrides/accumulation-tree/0.6.2;
   };
+  accupy = {
+    "0.3.6" = import ./overrides/accupy/0.3.6;
+  };
   acor = {
     "1.1.1" = import ./overrides/acor/1.1.1;
   };
@@ -3158,6 +3161,9 @@
   humilis = {
     "1.7.1" = import ./overrides/humilis/1.7.1;
   };
+  hunspell = {
+    "0.5.5" = import ./overrides/hunspell/0.5.5;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
@@ -5086,6 +5092,7 @@
   };
   patch-ng = {
     "1.18.0" = import ./overrides/patch-ng/1.18.0;
+    "1.18.1" = import ./overrides/patch-ng/1.18.1;
   };
   path-and-address = {
     "2.0.1" = import ./overrides/path-and-address/2.0.1;
@@ -5134,6 +5141,18 @@
   };
   pecab = {
     "1.0.8" = import ./overrides/pecab/1.0.8;
+  };
+  peek-core-device = {
+    "3.4.16" = import ./overrides/peek-core-device/3.4.16;
+  };
+  peek-core-email = {
+    "3.4.16" = import ./overrides/peek-core-email/3.4.16;
+  };
+  peek-platform = {
+    "3.4.16" = import ./overrides/peek-platform/3.4.16;
+  };
+  peek-plugin-base = {
+    "3.4.16" = import ./overrides/peek-plugin-base/3.4.16;
   };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
@@ -5478,6 +5497,12 @@
   };
   psycopg2 = {
     "2.9.9" = import ./overrides/psycopg2/2.9.9;
+  };
+  psycopg2-binary = {
+    "2.8.6" = import ./overrides/psycopg2-binary/2.8.6;
+  };
+  "psycopg2_binary" = {
+    "2.8.6" = import ./overrides/psycopg2_binary/2.8.6;
   };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
@@ -6253,6 +6278,7 @@
   pyscard = {
     "2.0.0" = import ./overrides/pyscard/2.0.0;
     "2.1.1" = import ./overrides/pyscard/2.1.1;
+    "2.2.0" = import ./overrides/pyscard/2.2.0;
   };
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
@@ -6286,6 +6312,9 @@
   };
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
+  };
+  pyside2 = {
+    "5.15.2.1" = import ./overrides/pyside2/5.15.2.1;
   };
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
@@ -7141,6 +7170,9 @@
   rpmfluff = {
     "0.6.5" = import ./overrides/rpmfluff/0.6.5;
   };
+  rpy2 = {
+    "3.5.16" = import ./overrides/rpy2/3.5.16;
+  };
   rq = {
     "1.0" = import ./overrides/rq/1.0;
   };
@@ -7904,6 +7936,9 @@
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
   };
+  tbb = {
+    "2021.13.1" = import ./overrides/tbb/2021.13.1;
+  };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
@@ -8123,6 +8158,9 @@
   };
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
+  };
+  torch = {
+    "2.4.1" = import ./overrides/torch/2.4.1;
   };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
@@ -8676,6 +8714,7 @@
     "0.10.4" = import ./overrides/volvooncall/0.10.4;
   };
   vortexpy = {
+    "3.0.0" = import ./overrides/vortexpy/3.0.0;
     "3.1.0" = import ./overrides/vortexpy/3.1.0;
   };
   voxcell = {
