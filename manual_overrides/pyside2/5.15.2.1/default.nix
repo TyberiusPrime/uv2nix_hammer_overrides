@@ -33,24 +33,24 @@ let
     ];
 in
 if (!helpers.isWheel old) then
-    {
-      # unlikely to work as is
-      dontWrapQtApps = true;
+  {
+    # unlikely to work as is
+    dontWrapQtApps = true;
 
-    }
-  else
-    {
-      buildInputs =
-        old.buildInputs or [ ]
-        ++ (pyQt5Modules qt5)
-        ++ [
-          pkgs.cairo
-          pkgs.cups
-          pkgs.gdk
-          pkgs.pango
-          pkgs.speechd
-        ];
-      dontWrapQtApps = true;
+  }
+else
+  {
+    buildInputs =
+      old.buildInputs or [ ]
+      ++ (pyQt5Modules qt5)
+      ++ [
+        pkgs.cairo
+        pkgs.cups
+        pkgs.gdk
+        pkgs.pango
+        pkgs.speechd
+      ];
+    dontWrapQtApps = true;
 
-      #autoPatchelfIgnoreMissingDeps = ["libQt5TextToSpeech.so.5" "libQt5Bodymovin.so.5"]; # no clue if this is correct.
-    }
+    #autoPatchelfIgnoreMissingDeps = ["libQt5TextToSpeech.so.5" "libQt5Bodymovin.so.5"]; # no clue if this is correct.
+  }

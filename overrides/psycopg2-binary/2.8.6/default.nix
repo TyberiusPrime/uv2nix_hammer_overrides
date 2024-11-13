@@ -1,5 +1,5 @@
-{ pkgs, ... }:
-_old: {
+{pkgs, ...}
+        : old: {
   #from nixpkgs...
   postPatch = ''
     # Preferably upstream would not depend on pg_config because config scripts are incompatible with cross-compilation, however postgresql's pc file is lacking information.
@@ -14,3 +14,5 @@ _old: {
 
   buildInputs = [ pkgs.postgresql ] ++ pkgs.lib.optionals pkgs.stdenv.isDarwin [ pkgs.openssl ];
 }
+
+        

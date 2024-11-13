@@ -1,5 +1,5 @@
-{ pkgs, ... }:
-old: {
+{pkgs, ...}
+        : old: {
   postPatch =
     let
       libname = "libaugeas${pkgs.stdenv.hostPlatform.extensions.sharedLibrary}";
@@ -11,3 +11,5 @@ old: {
                 'ffi.dlopen("${pkgs.lib.makeLibraryPath [ pkgs.augeas ]}/${libname}")'
     '';
 }
+
+        
