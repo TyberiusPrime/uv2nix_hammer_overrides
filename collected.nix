@@ -1370,6 +1370,9 @@
   cwlgen = {
     "0.4.2" = import ./overrides/cwlgen/0.4.2;
   };
+  cydets = {
+    "1.1" = import ./overrides/cydets/1.1;
+  };
   cykhash = {
     "2.0.1" = import ./overrides/cykhash/2.0.1;
   };
@@ -2385,6 +2388,9 @@
   };
   feedgen = {
     "1.0.0" = import ./overrides/feedgen/1.0.0;
+  };
+  feedinlib = {
+    "0.0.12" = import ./overrides/feedinlib/0.0.12;
   };
   feeluown = {
     "4.1.7" = import ./overrides/feeluown/4.1.7;
@@ -8816,6 +8822,9 @@
   };
   wikipedia-api = {
     "0.7.1" = import ./overrides/wikipedia-api/0.7.1;
+  };
+  windpowerlib = {
+    "0.0.4" = import ./overrides/windpowerlib/0.0.4;
   };
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
