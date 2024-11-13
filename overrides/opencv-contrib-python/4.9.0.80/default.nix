@@ -1,8 +1,8 @@
-{resolveBuildSystem, final, pkgs, ...}
+{resolveBuildSystem, helpers, final, pkgs, ...}
         :
             old:
-            let funcs = [(old: old // ( if ((old.passthru.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {cmake = [];numpy = [];pip = [];scikit-build = [];setuptools = [];});})) (old: old // ( {
-  postPatch = pkgs.lib.optional ((old.passthru.format or "sdist") == "sdist") ''
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {cmake = [];numpy = [];pip = [];scikit-build = [];setuptools = [];});})) (old: old // ( {
+  postPatch = pkgs.lib.optional (!helpers.isWheel old) ''
     sed -i pyproject.toml -e 's/numpy==[0-9]\+\.[0-9]\+\.[0-9]\+;/numpy;/g'
     sed -i pyproject.toml -e 's/setuptools==[0-9.]\+/setuptools/g'
     # somehow the type information doesn't get build

@@ -1,4 +1,4 @@
-{final, prev, pkgs, ...}
+{final, helpers, prev, pkgs, ...}
         :
             old:
             let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.freetype pkgs.unixODBC];dontWrapQtApps = true;})) (old: old // ( let
@@ -33,7 +33,7 @@
       qttools
     ];
 in (
-  if (old.passthru.format or "sdist" == "sdist")
+  if (!helpers.isWheel old)
   then {
     postPatch = ''
       # Confirm license, if project.py exists
