@@ -1,0 +1,2 @@
+BuildSystems = [ "pytest-runner", "setuptools",]
+DowngradePytestRunner = "<5.0"
