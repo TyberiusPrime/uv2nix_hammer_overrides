@@ -1,3 +1,8 @@
-{resolveBuildSystem, helpers, final, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pytest-runner = [];});}
-        
+{ resolveBuildSystem, helpers, ... }:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  {
+    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { pytest-runner = [ ]; });
+  }

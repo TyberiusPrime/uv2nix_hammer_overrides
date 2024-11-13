@@ -1,3 +1,1 @@
-{helpers, pkgs, ...}
-        : old: {buildInputs = old.buildInputs or [] ++ [pkgs.SDL2];}
-        
+{ pkgs, ... }: old: { buildInputs = old.buildInputs or [ ] ++ [ pkgs.SDL2 ]; }

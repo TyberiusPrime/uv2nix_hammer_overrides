@@ -1,3 +1,1 @@
-{helpers, pkgs, ...}
-        : old: {buildInputs = old.buildInputs or [] ++ [pkgs.unixODBC];}
-        
+{ pkgs, ... }: old: { buildInputs = old.buildInputs or [ ] ++ [ pkgs.unixODBC ]; }

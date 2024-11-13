@@ -1,3 +1,17 @@
-{resolveBuildSystem, helpers, final, pkgs, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});preConfigure = [old.preConfigure or "" pkgs.python3Packages.pillow.preConfigure];}
-        
+{
+  resolveBuildSystem,
+  helpers,
+  pkgs,
+  ...
+}:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  {
+    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { setuptools = [ ]; });
+    preConfigure = [
+      old.preConfigure or ""
+      pkgs.python3Packages.pillow.preConfigure
+    ];
+  }

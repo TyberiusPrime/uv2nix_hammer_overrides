@@ -1,4 +1,1 @@
-{pkgs, ...}
-        : old: { dontUsePyprojectBytecode = true; }
-
-        
+{ ... }: _old: { dontUsePyprojectBytecode = true; }

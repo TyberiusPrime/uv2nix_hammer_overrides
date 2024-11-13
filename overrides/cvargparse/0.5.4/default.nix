@@ -1,3 +1,14 @@
-{resolveBuildSystem, helpers, final, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ [final.pip] ++ ( resolveBuildSystem {setuptools = [];});}
-        
+{
+  resolveBuildSystem,
+  helpers,
+  final,
+  ...
+}:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  {
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ] ++ [ final.pip ] ++ (resolveBuildSystem { setuptools = [ ]; });
+  }

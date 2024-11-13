@@ -1,3 +1,16 @@
-{resolveBuildSystem, helpers, final, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {cmake = [];ninja = [];pytest-runner = [];setuptools = [];wheel = [];});}
-        
+{ resolveBuildSystem, helpers, ... }:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  {
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ (resolveBuildSystem {
+        cmake = [ ];
+        ninja = [ ];
+        pytest-runner = [ ];
+        setuptools = [ ];
+        wheel = [ ];
+      });
+  }

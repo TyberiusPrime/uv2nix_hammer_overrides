@@ -1,3 +1,16 @@
-{resolveBuildSystem, helpers, final, pkgs, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.wirelesstools] ++ ( resolveBuildSystem {setuptools = [];});}
-        
+{
+  resolveBuildSystem,
+  helpers,
+  pkgs,
+  ...
+}:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  {
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ [ pkgs.wirelesstools ]
+      ++ (resolveBuildSystem { setuptools = [ ]; });
+  }

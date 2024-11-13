@@ -1,5 +1,6 @@
-{pkgs, ...}
-        : old: let
+{ pkgs, ... }:
+old:
+let
   # Package does not support configuring the pcsc library.
   withApplePCSC = pkgs.stdenv.isDarwin;
 in
@@ -36,5 +37,3 @@ in
     "test_low_level"
   ];
 }
-
-        

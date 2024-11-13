@@ -1,3 +1,14 @@
-{resolveBuildSystem, helpers, final, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {cython = [];numpy = [];setuptools = [];});}
-        
+{ resolveBuildSystem, helpers, ... }:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  {
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ (resolveBuildSystem {
+        cython = [ ];
+        numpy = [ ];
+        setuptools = [ ];
+      });
+  }
