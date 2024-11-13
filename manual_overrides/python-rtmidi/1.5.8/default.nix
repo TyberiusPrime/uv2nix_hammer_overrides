@@ -3,13 +3,13 @@
     old.nativeBuildInputs
     or []
     ++ pkgs.lib.optionals
-    (((old.passthru.format or "sdist") == "wheel")
+    ((helpers.isWheel old)
       && pkgs.stdenv.isLinux) [
       pkgs.libjack2
       pkgs.alsa-lib.out
     ]
     ++ pkgs.lib.optionals
-    (((old.passthru.format or "sdist") == "wheel")
+    ((helpers.isWheel old)
       && pkgs.stdenv.isDarwin) [
       pkgs.CoreAudio
       pkgs.CoreMIDI

@@ -30,7 +30,7 @@ let
       qttools
     ];
 in (
-  if (old.passthru.format or "sdist" == "sdist")
+  if (!helpers.isWheel old)
   then {
     postPatch = ''
       # Confirm license, if project.py exists
