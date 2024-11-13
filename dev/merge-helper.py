@@ -33,7 +33,7 @@ for chosen in available:
     print(chosen)
     env = os.environ.copy()
     env['EDITOR'] = 'true'
-    p = subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase",  '--strategy', 'ort' 'Xours'], env=env)
+    p = subprocess.run(["git", "pull", chosen / "overrides", "--no-rebase",  '--strategy', 'ort',  '-Xours'], env=env)
     pull_failed  = p.returncode != 0
     output = subprocess.check_output(['git', 'status', '--porcelain'], env=env)
     if b'UU' in output or b'AA' in output:
@@ -50,6 +50,8 @@ for chosen in available:
                 Path("../builds/imported") / ("imported_" + chosen.name))
     commited_any = True
 
+if commited_any:
+    subprocess.check_call(['nix', 'fmt'])
 
 if commited_any:
     subprocess.check_call(['nix-collect-garbage'])

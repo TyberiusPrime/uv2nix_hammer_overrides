@@ -1,1 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.hwloc",]
 ManualOverrides = "__file__:tbb/2021.13.1/default.nix"
