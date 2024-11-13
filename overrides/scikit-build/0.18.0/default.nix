@@ -1,5 +1,4 @@
-_:
-_old: {
+_: _old: {
   disabledTests = [
     "test_hello_develop" # tries setuptools develop install
     "test_source_distribution" # pip has no way to install missing dependencies
@@ -20,5 +19,3 @@ _old: {
     "test_sdist_with_symlinks"
   ];
 }
-
-        
