@@ -1,0 +1,4 @@
+BuildSystems = [ "build", "cython", "setuptools",]
+DowngradePython = "3.10"
+NativeBuildInputs = [ "~literal:!:pkgs.mpi",]
+TomlRequiresPatcher = [ true, false, false, true, false, false,]

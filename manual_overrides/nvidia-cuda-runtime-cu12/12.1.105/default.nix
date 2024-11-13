@@ -1,5 +1,1 @@
-
-{
-    dontUsePyprojectBytecode = true;
-}
-                
+{ dontUsePyprojectBytecode = true; }

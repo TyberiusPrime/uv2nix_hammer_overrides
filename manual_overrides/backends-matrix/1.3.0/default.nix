@@ -1,5 +1,7 @@
 {
-  postInstall = old.postInstall or "" + ''
+  postInstall =
+    old.postInstall or ""
+    + ''
       rm $out/lib/python${final.python.pythonVersion}/site-packages/tests/* -r
-  '';
+    '';
 }

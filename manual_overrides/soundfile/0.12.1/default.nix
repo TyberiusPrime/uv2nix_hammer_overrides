@@ -4,7 +4,8 @@ let
     substituteInPlace soundfile.py \
       --replace "_find_library('sndfile')" "'${pkgs.libsndfile.out}/lib/libsndfile${sharedLibExt}'"
   '';
-in {
+in
+{
   postInstall = ''
     pushd "$out/${final.python.sitePackages}"
     ${patch}

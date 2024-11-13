@@ -1,3 +1,1 @@
-{
-  RPY2_CFFI_MODE="ABI";
-}
+{ RPY2_CFFI_MODE = "ABI"; }

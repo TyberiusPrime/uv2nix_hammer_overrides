@@ -1,0 +1,3 @@
+BuildSystems = [ "jupyter-packaging", "setuptools", "versioneer-518", "wheel",]
+DowngradePython = "3.10"
+TomlRequiresPatcher = [ false, false, false, true, false, true,]

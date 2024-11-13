@@ -28,7 +28,10 @@ let
     )
     (
       old:
-      old // (pkgs.lib.optionalAttrs (old.passthru.format or "sdist" != "wheel") (helpers.standardMaturin { } old))
+      old
+      // (pkgs.lib.optionalAttrs (old.passthru.format or "sdist" != "wheel") (
+        helpers.standardMaturin { } old
+      ))
     )
   ];
 in

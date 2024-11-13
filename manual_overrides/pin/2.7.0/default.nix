@@ -19,12 +19,21 @@
         })
       ];
 
-      nativeBuildInputs = with pkgs; [cmake pkg-config validatePkgConfig];
-      propagatedBuildInputs = with pkgs; [urdfdom-headers console-bridge tinyxml];
+      nativeBuildInputs = with pkgs; [
+        cmake
+        pkg-config
+        validatePkgConfig
+      ];
+      propagatedBuildInputs = with pkgs; [
+        urdfdom-headers
+        console-bridge
+        tinyxml
+      ];
 
-      meta = pkgs.urdfdom.meta;
+      inherit (pkgs.urdfdom) meta;
     };
-  in {
-    buildInputs = old.buildInputs or [] ++ [urdfdom];
+  in
+  {
+    buildInputs = old.buildInputs or [ ] ++ [ urdfdom ];
   }
 )

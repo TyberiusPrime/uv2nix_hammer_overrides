@@ -1,11 +1,8 @@
-{pkgs, ...}
-        : old: {
+_:
+old: {
   postInstall =
-    old.postInstall
-    or ""
+    old.postInstall or ""
     + ''
       rm $out/docs/* -r
     '';
 }
-
-        

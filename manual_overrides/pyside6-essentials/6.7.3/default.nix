@@ -18,45 +18,44 @@
   '';
 
   nativeBuildInputs =
-    old.nativeBuildInputs
-    or []
+    old.nativeBuildInputs or [ ]
     ++ [
       pkgs.cmake
       pkgs.ninja
       final.python
     ]
-    ++ pkgs.lib.optionals pkgs.stdenv.isDarwin [pkgs.moveBuildTree];
+    ++ pkgs.lib.optionals pkgs.stdenv.isDarwin [ pkgs.moveBuildTree ];
   buildInputs =
-    (old.buildInputs or [])
+    (old.buildInputs or [ ])
     ++ (
       with final.qt6;
-        [
-          # required
-          qtbase
-          final.ninja
-          final.packaging
-          final.setuptools
-        ]
-        ++ lib.optionals stdenv.isLinux [
-          # optional
-          qt3d
-          qtcharts
-          qtconnectivity
-          qtdatavis3d
-          qtdeclarative
-          qthttpserver
-          qtmultimedia
-          qtnetworkauth
-          qtquick3d
-          qtremoteobjects
-          qtscxml
-          qtsensors
-          qtspeech
-          qtsvg
-          qttools
-          qtwebchannel
-          qtwebengine
-          qtwebsockets
-        ]
+      [
+        # required
+        qtbase
+        final.ninja
+        final.packaging
+        final.setuptools
+      ]
+      ++ lib.optionals stdenv.isLinux [
+        # optional
+        qt3d
+        qtcharts
+        qtconnectivity
+        qtdatavis3d
+        qtdeclarative
+        qthttpserver
+        qtmultimedia
+        qtnetworkauth
+        qtquick3d
+        qtremoteobjects
+        qtscxml
+        qtsensors
+        qtspeech
+        qtsvg
+        qttools
+        qtwebchannel
+        qtwebengine
+        qtwebsockets
+      ]
     );
 }

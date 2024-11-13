@@ -1,3 +1,1 @@
-{
-  buildInputs = [pkgs.ssdeep];
-}
+{ buildInputs = [ pkgs.ssdeep ]; }

@@ -1,8 +1,16 @@
 {
-  nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.pkg-config];
-  buildInputs = old.buildInputs or [] ++ [pkgs.c-ares pkgs.openssl pkgs.zlib final.cython_0];
+  nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ pkgs.pkg-config ];
+  buildInputs = old.buildInputs or [ ] ++ [
+    pkgs.c-ares
+    pkgs.openssl
+    pkgs.zlib
+    final.cython_0
+  ];
 
-  outputs = ["out" "dev"];
+  outputs = [
+    "out"
+    "dev"
+  ];
 
   GRPC_BUILD_WITH_BORING_SSL_ASM = "";
   GRPC_PYTHON_BUILD_SYSTEM_OPENSSL = 1;

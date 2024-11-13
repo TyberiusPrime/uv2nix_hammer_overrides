@@ -1,0 +1,4 @@
+BuildSystems = [ "poetry-core",]
+DowngradePython = "3.10"
+PoetryMasonry = true
+TomlRequiresPatcher = [ true, false, false, true, false, false,]
