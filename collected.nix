@@ -4471,6 +4471,7 @@
     "2.2.9" = import ./overrides/mysql-connector/2.2.9;
   };
   mysql-connector-python = {
+    "9.0.0" = import ./overrides/mysql-connector-python/9.0.0;
     "9.1.0" = import ./overrides/mysql-connector-python/9.1.0;
   };
   mysql-connector-python-rf = {
