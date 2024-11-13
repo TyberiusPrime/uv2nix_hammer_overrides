@@ -1719,6 +1719,9 @@
   django-fsm-admin = {
     "1.2.5" = import ./overrides/django-fsm-admin/1.2.5;
   };
+  django-geostore = {
+    "1.0.0" = import ./overrides/django-geostore/1.0.0;
+  };
   django-gm2m = {
     "1.2" = import ./overrides/django-gm2m/1.2;
   };
@@ -1928,6 +1931,9 @@
   };
   django-timezones = {
     "0.2" = import ./overrides/django-timezones/0.2;
+  };
+  django-token-tools = {
+    "0.2.0" = import ./overrides/django-token-tools/0.2.0;
   };
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
@@ -7490,6 +7496,9 @@
   };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
+  };
+  simplekml = {
+    "1.3.6" = import ./overrides/simplekml/1.3.6;
   };
   simplenote = {
     "2.1.4" = import ./overrides/simplenote/2.1.4;
