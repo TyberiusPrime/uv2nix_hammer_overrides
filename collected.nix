@@ -89,6 +89,9 @@
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
+  aiohttp = {
+    "3.8.6" = import ./overrides/aiohttp/3.8.6;
+  };
   aiohttp-apispec = {
     "2.2.3" = import ./overrides/aiohttp-apispec/2.2.3;
   };
@@ -864,6 +867,9 @@
   cbra = {
     "1.1.10" = import ./overrides/cbra/1.1.10;
   };
+  cdislogging = {
+    "1.1.1" = import ./overrides/cdislogging/1.1.1;
+  };
   cdumay-error = {
     "0.2.0" = import ./overrides/cdumay-error/0.2.0;
   };
@@ -878,6 +884,9 @@
   };
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
+  };
+  celery-redbeat = {
+    "2.2.0" = import ./overrides/celery-redbeat/2.2.0;
   };
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
@@ -914,6 +923,9 @@
   };
   charmhelpers = {
     "1.2.1" = import ./overrides/charmhelpers/1.2.1;
+  };
+  chempy = {
+    "0.9.0" = import ./overrides/chempy/0.9.0;
   };
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
@@ -1358,6 +1370,9 @@
   cwlgen = {
     "0.4.2" = import ./overrides/cwlgen/0.4.2;
   };
+  cydets = {
+    "1.1" = import ./overrides/cydets/1.1;
+  };
   cykhash = {
     "2.0.1" = import ./overrides/cykhash/2.0.1;
   };
@@ -1528,6 +1543,9 @@
   };
   dhooks = {
     "1.1.4" = import ./overrides/dhooks/1.1.4;
+  };
+  dictionaryutils = {
+    "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
@@ -2134,6 +2152,9 @@
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
+  eebrightbox = {
+    "0.0.6" = import ./overrides/eebrightbox/0.0.6;
+  };
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
   };
@@ -2305,6 +2326,9 @@
   fairscale = {
     "0.4.13" = import ./overrides/fairscale/0.4.13;
   };
+  fairseq = {
+    "0.12.2" = import ./overrides/fairseq/0.12.2;
+  };
   falcon-cors = {
     "1.1.7" = import ./overrides/falcon-cors/1.1.7;
   };
@@ -2364,6 +2388,9 @@
   };
   feedgen = {
     "1.0.0" = import ./overrides/feedgen/1.0.0;
+  };
+  feedinlib = {
+    "0.0.12" = import ./overrides/feedinlib/0.0.12;
   };
   feeluown = {
     "4.1.7" = import ./overrides/feeluown/4.1.7;
@@ -2860,6 +2887,9 @@
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
+  gpt4all = {
+    "2.8.2" = import ./overrides/gpt4all/2.8.2;
+  };
   gpustat = {
     "1.1.1" = import ./overrides/gpustat/1.1.1;
   };
@@ -3048,6 +3078,9 @@
   };
   horetu = {
     "0.4.4" = import ./overrides/horetu/0.4.4;
+  };
+  horovod = {
+    "0.28.1" = import ./overrides/horovod/0.28.1;
   };
   houdini-py = {
     "0.1.0" = import ./overrides/houdini-py/0.1.0;
@@ -3239,6 +3272,9 @@
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
+  imgcat = {
+    "0.5.0" = import ./overrides/imgcat/0.5.0;
+  };
   imgviz = {
     "1.7.5" = import ./overrides/imgviz/1.7.5;
   };
@@ -3386,6 +3422,9 @@
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
+  iwlib = {
+    "1.7.0" = import ./overrides/iwlib/1.7.0;
+  };
   jabberbot = {
     "0.16" = import ./overrides/jabberbot/0.16;
   };
@@ -3422,6 +3461,9 @@
   jieba3k = {
     "0.35.1" = import ./overrides/jieba3k/0.35.1;
   };
+  jina = {
+    "3.27.6" = import ./overrides/jina/3.27.6;
+  };
   jina-hubble-sdk = {
     "0.39.0" = import ./overrides/jina-hubble-sdk/0.39.0;
   };
@@ -3442,6 +3484,9 @@
   };
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
+  };
+  johnnycanencrypt = {
+    "0.14.1" = import ./overrides/johnnycanencrypt/0.14.1;
   };
   jose = {
     "1.0.0" = import ./overrides/jose/1.0.0;
@@ -3544,6 +3589,9 @@
   };
   julius = {
     "0.2.7" = import ./overrides/julius/0.2.7;
+  };
+  jupyter-contrib-core = {
+    "0.4.2" = import ./overrides/jupyter-contrib-core/0.4.2;
   };
   jupyter-contrib-nbextensions = {
     "0.7.0" = import ./overrides/jupyter-contrib-nbextensions/0.7.0;
@@ -3669,6 +3717,9 @@
   kivymd = {
     "1.2.0" = import ./overrides/kivymd/1.2.0;
   };
+  kiwi = {
+    "10.1.8" = import ./overrides/kiwi/10.1.8;
+  };
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
@@ -3689,6 +3740,9 @@
   };
   kss = {
     "6.0.4" = import ./overrides/kss/6.0.4;
+  };
+  labelme = {
+    "5.5.0" = import ./overrides/labelme/5.5.0;
   };
   lac = {
     "2.1.2" = import ./overrides/lac/2.1.2;
@@ -3983,6 +4037,9 @@
   };
   lottie = {
     "0.7.0" = import ./overrides/lottie/0.7.0;
+  };
+  louvain = {
+    "0.8.2" = import ./overrides/louvain/0.8.2;
   };
   lovely-pytest-docker = {
     "1.0.0" = import ./overrides/lovely-pytest-docker/1.0.0;
@@ -4369,6 +4426,7 @@
     "1.1.0" = import ./overrides/moztest/1.1.0;
   };
   mpi4py = {
+    "4.0.0" = import ./overrides/mpi4py/4.0.0;
     "4.0.1" = import ./overrides/mpi4py/4.0.1;
   };
   mplcursors = {
@@ -4591,6 +4649,9 @@
   };
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
+  };
+  nglview = {
+    "3.1.2" = import ./overrides/nglview/3.1.2;
   };
   nilsimsa = {
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
@@ -5098,6 +5159,7 @@
   };
   pendulum = {
     "1.5.1" = import ./overrides/pendulum/1.5.1;
+    "2.1.2" = import ./overrides/pendulum/2.1.2;
   };
   pep3143daemon = {
     "0.1.0" = import ./overrides/pep3143daemon/0.1.0;
@@ -5608,6 +5670,9 @@
   pybloom-live = {
     "4.0.0" = import ./overrides/pybloom-live/4.0.0;
   };
+  pybloomfiltermmap3 = {
+    "0.6.0" = import ./overrides/pybloomfiltermmap3/0.6.0;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
@@ -5777,6 +5842,9 @@
   };
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
+  };
+  pyexiv2 = {
+    "2.14.0" = import ./overrides/pyexiv2/2.14.0;
   };
   pyfab = {
     "0.3.6" = import ./overrides/pyfab/0.3.6;
@@ -5949,6 +6017,9 @@
   pylddwrap = {
     "1.2.2" = import ./overrides/pylddwrap/1.2.2;
   };
+  pylerc = {
+    "4.0" = import ./overrides/pylerc/4.0;
+  };
   pyleri = {
     "1.4.3" = import ./overrides/pyleri/1.4.3;
   };
@@ -6034,6 +6105,9 @@
   pync = {
     "2.0.3" = import ./overrides/pync/2.0.3;
   };
+  pyneqsys = {
+    "0.5.7" = import ./overrides/pyneqsys/0.5.7;
+  };
   pynisher = {
     "1.0.10" = import ./overrides/pynisher/1.0.10;
   };
@@ -6054,6 +6128,9 @@
   };
   pyodbc = {
     "5.1.0" = import ./overrides/pyodbc/5.1.0;
+  };
+  pyodesys = {
+    "0.14.4" = import ./overrides/pyodesys/0.14.4;
   };
   pyogg = {
     "0.6.14a1" = import ./overrides/pyogg/0.6.14a1;
@@ -6175,6 +6252,9 @@
   pyrestcli = {
     "0.6.11" = import ./overrides/pyrestcli/0.6.11;
   };
+  pyrfr = {
+    "0.9.0" = import ./overrides/pyrfr/0.9.0;
+  };
   pyric = {
     "0.1.6.3" = import ./overrides/pyric/0.1.6.3;
   };
@@ -6221,6 +6301,9 @@
   };
   pysha3 = {
     "1.0.2" = import ./overrides/pysha3/1.0.2;
+  };
+  pysheds = {
+    "0.4" = import ./overrides/pysheds/0.4;
   };
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
@@ -6269,6 +6352,9 @@
   };
   pysptk = {
     "1.0.1" = import ./overrides/pysptk/1.0.1;
+  };
+  pysqlite3 = {
+    "0.5.3" = import ./overrides/pysqlite3/0.5.3;
   };
   pysrt = {
     "1.1.2" = import ./overrides/pysrt/1.1.2;
@@ -6765,6 +6851,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  qiskit-nature = {
+    "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
+  };
   qnap-qsw = {
     "0.3.0" = import ./overrides/qnap-qsw/0.3.0;
   };
@@ -7145,6 +7234,9 @@
   salure-helpers-salureconnect = {
     "2.2.3" = import ./overrides/salure-helpers-salureconnect/2.2.3;
   };
+  sampledata = {
+    "0.3.7" = import ./overrides/sampledata/0.3.7;
+  };
   samplerate = {
     "0.2.1" = import ./overrides/samplerate/0.2.1;
   };
@@ -7168,6 +7260,9 @@
   };
   sasl = {
     "0.3.1" = import ./overrides/sasl/0.3.1;
+  };
+  sass = {
+    "2.3" = import ./overrides/sass/2.3;
   };
   sat-search = {
     "0.3.0" = import ./overrides/sat-search/0.3.0;
@@ -7202,6 +7297,9 @@
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
   };
+  schiene = {
+    "0.26" = import ./overrides/schiene/0.26;
+  };
   sciencedates = {
     "1.5.0" = import ./overrides/sciencedates/1.5.0;
   };
@@ -7216,6 +7314,7 @@
   };
   scikit-learn = {
     "0.24.2" = import ./overrides/scikit-learn/0.24.2;
+    "1.2.2" = import ./overrides/scikit-learn/1.2.2;
   };
   scikit-surgerycore = {
     "0.7.2" = import ./overrides/scikit-surgerycore/0.7.2;
@@ -7460,6 +7559,9 @@
   };
   sly = {
     "0.4" = import ./overrides/sly/0.4;
+  };
+  smac = {
+    "2.2.0" = import ./overrides/smac/2.2.0;
   };
   smbus = {
     "1.1.post2" = import ./overrides/smbus/1.1.post2;
@@ -7793,6 +7895,9 @@
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
   };
+  sym = {
+    "0.3.5" = import ./overrides/sym/0.3.5;
+  };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
   };
@@ -7900,6 +8005,9 @@
   };
   terminal = {
     "0.4.0" = import ./overrides/terminal/0.4.0;
+  };
+  terminaltables = {
+    "3.1.0" = import ./overrides/terminaltables/3.1.0;
   };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
@@ -8070,6 +8178,9 @@
   };
   torchcsprng = {
     "0.2.1" = import ./overrides/torchcsprng/0.2.1;
+  };
+  torchdata = {
+    "0.8.0" = import ./overrides/torchdata/0.8.0;
   };
   torchfile = {
     "0.1.0" = import ./overrides/torchfile/0.1.0;
@@ -8300,6 +8411,9 @@
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
+  typing = {
+    "3.5.2.2" = import ./overrides/typing/3.5.2.2;
+  };
   typogrify = {
     "2.0.7" = import ./overrides/typogrify/2.0.7;
   };
@@ -8384,6 +8498,9 @@
   };
   unittest-data-provider = {
     "1.0.1" = import ./overrides/unittest-data-provider/1.0.1;
+  };
+  unittest2py3k = {
+    "0.5.1" = import ./overrides/unittest2py3k/0.5.1;
   };
   unixpackage = {
     "0.4.7" = import ./overrides/unixpackage/0.4.7;
@@ -8480,6 +8597,9 @@
   };
   valideer = {
     "0.4.2" = import ./overrides/valideer/0.4.2;
+  };
+  validr = {
+    "1.2.2" = import ./overrides/validr/1.2.2;
   };
   vapoursynth = {
     "70" = import ./overrides/vapoursynth/70;
@@ -8699,6 +8819,9 @@
   };
   wikipedia-api = {
     "0.7.1" = import ./overrides/wikipedia-api/0.7.1;
+  };
+  windpowerlib = {
+    "0.0.4" = import ./overrides/windpowerlib/0.0.4;
   };
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
