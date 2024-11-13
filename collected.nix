@@ -2857,6 +2857,9 @@
   golgi = {
     "2.0.1" = import ./overrides/golgi/2.0.1;
   };
+  google-api-python-client = {
+    "1.7.11" = import ./overrides/google-api-python-client/1.7.11;
+  };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
@@ -2877,6 +2880,9 @@
   };
   googleappenginecloudstorageclient = {
     "1.9.22.1" = import ./overrides/googleappenginecloudstorageclient/1.9.22.1;
+  };
+  googleauthentication = {
+    "0.0.17" = import ./overrides/googleauthentication/0.0.17;
   };
   googlemaps = {
     "4.10.0" = import ./overrides/googlemaps/4.10.0;
