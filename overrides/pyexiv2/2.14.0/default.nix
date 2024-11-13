@@ -1,1 +1,3 @@
-{ pkgs, ... }: old: { buildInputs = old.buildInputs or [ ] ++ [ pkgs.exiv2 ]; }
+{helpers, pkgs, ...}
+        : old: {buildInputs = old.buildInputs or [] ++ [pkgs.exiv2];}
+        

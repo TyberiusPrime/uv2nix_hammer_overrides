@@ -1,1 +1,3 @@
-{ pkgs, ... }: old: { buildInputs = old.buildInputs or [ ] ++ [ pkgs.pcsclite ]; }
+{helpers, pkgs, ...}
+        : old: {buildInputs = old.buildInputs or [] ++ [pkgs.pcsclite];}
+        

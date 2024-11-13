@@ -1,1 +1,3 @@
-_: _old: { dontWrapQtApps = true; }
+{helpers, ...}
+        : old: {dontWrapQtApps = true;}
+        

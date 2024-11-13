@@ -1,11 +1,3 @@
-{ resolveBuildSystem, ... }:
-old:
-if ((old.passthru.format or "sdist") == "wheel") then
-  { }
-else
-  {
-    env = {
-      HOME = "/tmp";
-    };
-    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { setuptools = [ ]; });
-  }
+{resolveBuildSystem, final, helpers, ...}
+        : old: if (helpers.isWheel old) then {} else {env = {HOME = "/tmp";};nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});}
+        

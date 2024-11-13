@@ -1,11 +1,5 @@
-{
-  helpers,
-  prev,
-  pkgs,
-  ...
-}:
-old:
-let
+{helpers, prev, pkgs, ...}
+        : old: let
   inherit (pkgs) lib;
   selectQt5 =
     version:
@@ -61,3 +55,5 @@ if (!helpers.isWheel old) then
 
       #autoPatchelfIgnoreMissingDeps = ["libQt5TextToSpeech.so.5" "libQt5Bodymovin.so.5"]; # no clue if this is correct.
     }
+
+        

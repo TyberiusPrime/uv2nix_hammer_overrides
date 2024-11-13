@@ -1,13 +1,3 @@
-{ resolveBuildSystem, ... }:
-old:
-if ((old.passthru.format or "sdist") == "wheel") then
-  { }
-else
-  {
-    nativeBuildInputs =
-      old.nativeBuildInputs or [ ]
-      ++ (resolveBuildSystem {
-        pip = [ ];
-        setuptools = [ ];
-      });
-  }
+{resolveBuildSystem, helpers, final, ...}
+        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pip = [];setuptools = [];});}
+        

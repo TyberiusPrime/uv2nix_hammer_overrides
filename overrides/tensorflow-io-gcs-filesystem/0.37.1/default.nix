@@ -1,1 +1,3 @@
-{ pkgs, ... }: old: { buildInputs = old.buildInputs or [ ] ++ [ pkgs.libtensorflow ]; }
+{helpers, pkgs, ...}
+        : old: {buildInputs = old.buildInputs or [] ++ [pkgs.libtensorflow];}
+        

@@ -1,18 +1,3 @@
-{ resolveBuildSystem, ... }:
-old:
-if ((old.passthru.format or "sdist") == "wheel") then
-  { }
-else
-  {
-    nativeBuildInputs =
-      old.nativeBuildInputs or [ ]
-      ++ (resolveBuildSystem {
-        blosc2 = [ ];
-        cython = [ ];
-        oldest-supported-numpy = [ ];
-        packaging = [ ];
-        py-cpuinfo = [ ];
-        setuptools = [ ];
-        wheel = [ ];
-      });
-  }
+{resolveBuildSystem, helpers, final, ...}
+        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {blosc2 = [];cython = [];oldest-supported-numpy = [];packaging = [];py-cpuinfo = [];setuptools = [];wheel = [];});}
+        

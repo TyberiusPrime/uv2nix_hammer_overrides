@@ -1,12 +1,12 @@
-{ pkgs, ... }:
-old: {
+{helpers, pkgs, ...}
+        : old: {
   nativeBuildInputs =
     old.nativeBuildInputs or [ ]
-    ++ pkgs.lib.optionals (((old.passthru.format or "sdist") == "wheel") && pkgs.stdenv.isLinux) [
+    ++ pkgs.lib.optionals ((helpers.isWheel old) && pkgs.stdenv.isLinux) [
       pkgs.libjack2
       pkgs.alsa-lib.out
     ]
-    ++ pkgs.lib.optionals (((old.passthru.format or "sdist") == "wheel") && pkgs.stdenv.isDarwin) [
+    ++ pkgs.lib.optionals ((helpers.isWheel old) && pkgs.stdenv.isDarwin) [
       pkgs.CoreAudio
       pkgs.CoreMIDI
       pkgs.pkgs.CoreServices
@@ -25,3 +25,5 @@ old: {
       pkgs.Foundation
     ];
 }
+
+        
