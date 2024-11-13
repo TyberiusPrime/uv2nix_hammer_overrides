@@ -30,7 +30,7 @@ let
       qttools
     ];
 in (
-  if (old.passthru.format or "sdist" == "sdist") then
+  if (!helpers.isWheel old) then
   {
     # unlikely to work as is
     dontWrapQtApps = true;

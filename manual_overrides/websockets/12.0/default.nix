@@ -1,5 +1,5 @@
 (
-  pkgs.lib.optionalAttrs (old.passthru.format or "sdist" == "sdist")
+  pkgs.lib.optionalAttrs (!helpers.isWheel old)
   {
     # from nixpkgs
     patchPhase = ''

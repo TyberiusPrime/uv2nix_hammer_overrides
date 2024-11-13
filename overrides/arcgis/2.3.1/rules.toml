@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:arcgis/2.3.1/default.nix"

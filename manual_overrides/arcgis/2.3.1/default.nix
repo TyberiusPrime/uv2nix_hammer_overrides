@@ -1,5 +1,5 @@
 {
-  postPatch = pkgs.lib.optionalString (old.passthru.format or "sdist" == "sdist") ''
+  postPatch = pkgs.lib.optionalString (!helpers.isWheel old) ''
     substituteInPlace setup.py --replace-warn "conda_install_mode = False" "conda_install_mode = True"
   '';
 }
