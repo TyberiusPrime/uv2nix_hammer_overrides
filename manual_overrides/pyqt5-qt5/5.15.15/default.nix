@@ -33,41 +33,41 @@ let
     ];
 in
 if (!helpers.isWheel old) then
-    {
-      postPatch = ''
-        # Confirm license, if project.py exists
-        if test -f project.py; then
-          sed -i s/"if tool == 'pep517':"/"if True:"/ project.py
-        fi
-      '';
+  {
+    postPatch = ''
+      # Confirm license, if project.py exists
+      if test -f project.py; then
+        sed -i s/"if tool == 'pep517':"/"if True:"/ project.py
+      fi
+    '';
 
-      dontConfigure = true;
-      dontWrapQtApps = true;
-      nativeBuildInputs =
-        old.nativeBuildInputs or [ ]
-        ++ pyQt5Modules qt5
-        ++ [
-          final.pyqt-builder
-          final.sip
-        ];
-      buildInputs = old.buildInputs or [ ] ++ pyQt5Modules qt5;
-      autoPatchelfIgnoreMissingDeps = [
-        "libQt5TextToSpeech.so.5"
-        "libQt5Bodymovin.so.5"
-      ]; # no clue if this is correct.
-    }
-  else
-    {
-      buildInputs =
-        old.buildInputs or [ ]
-        ++ pyQt5Modules qt5
-        ++ [
-          pkgs.cups
-          pkgs.speechd
-          pkgs.postgresql
-        ];
-      autoPatchelfIgnoreMissingDeps = [
-        "libQt5TextToSpeech.so.5"
-        "libQt5Bodymovin.so.5"
-      ]; # no clue if this is correct.
-    }
+    dontConfigure = true;
+    dontWrapQtApps = true;
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ pyQt5Modules qt5
+      ++ [
+        final.pyqt-builder
+        final.sip
+      ];
+    buildInputs = old.buildInputs or [ ] ++ pyQt5Modules qt5;
+    autoPatchelfIgnoreMissingDeps = [
+      "libQt5TextToSpeech.so.5"
+      "libQt5Bodymovin.so.5"
+    ]; # no clue if this is correct.
+  }
+else
+  {
+    buildInputs =
+      old.buildInputs or [ ]
+      ++ pyQt5Modules qt5
+      ++ [
+        pkgs.cups
+        pkgs.speechd
+        pkgs.postgresql
+      ];
+    autoPatchelfIgnoreMissingDeps = [
+      "libQt5TextToSpeech.so.5"
+      "libQt5Bodymovin.so.5"
+    ]; # no clue if this is correct.
+  }

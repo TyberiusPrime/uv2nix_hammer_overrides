@@ -12,9 +12,9 @@ let
           {
             postPatch =
               (old.postPatch or "")
-              + (''
+              + ''
                 ${helpers.tomlremove} Cargo.toml package.metadata.maturin
-              '');
+              '';
           }
       )
     )

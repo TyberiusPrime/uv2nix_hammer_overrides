@@ -2,8 +2,8 @@
 old: {
   buildInputs = old.buildInputs or [ ] ++ [
     (pkgs.boost183.override {
-      python = final.python;
-      numpy = final.numpy;
+      inherit (final) python;
+      inherit (final) numpy;
       enablePython = true;
     })
     pkgs.boost183

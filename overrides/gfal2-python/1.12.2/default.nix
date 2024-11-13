@@ -15,8 +15,8 @@ else
       old.nativeBuildInputs or [ ]
       ++ [
         (pkgs.boost.override {
-          python = final.python;
-          numpy = final.numpy;
+          inherit (final) python;
+          inherit (final) numpy;
           enablePython = true;
         })
         pkgs.cmake

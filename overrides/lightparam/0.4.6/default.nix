@@ -1,1 +1,1 @@
-{ ... }: _old: { dontWrapQtApps = true; }
+_: _old: { dontWrapQtApps = true; }

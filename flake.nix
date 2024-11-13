@@ -63,19 +63,19 @@
           in
           # poetry2nix or uv2nix with pyproject.nix builders?
           if (matched_version != null) then
-              ((prev.${name}.overridePythonAttrs or prev.${name}.overrideAttrs) (
-                available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
-                  inherit
-                    final
-                    prev
-                    helpers
-                    resolveBuildSystem
-                    ;
-                  pkgs = nixpkgs_pkgs;
-                }
-              ))
-            else
-              (builtins.trace "no version match for ${name}" prev.${name})
+            ((prev.${name}.overridePythonAttrs or prev.${name}.overrideAttrs) (
+              available_versions.${builtins.trace (name + " matched to " + matched_version) matched_version} {
+                inherit
+                  final
+                  prev
+                  helpers
+                  resolveBuildSystem
+                  ;
+                pkgs = nixpkgs_pkgs;
+              }
+            ))
+          else
+            (builtins.trace "no version match for ${name}" prev.${name})
         ) overrides_by_version)
         // {
           cython_0 = prev.cython.overrideAttrs (old: {
