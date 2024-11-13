@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.gammu",]
+BuildSystems = [ "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config",]
