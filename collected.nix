@@ -4005,6 +4005,9 @@
   m-caching = {
     "0.1.15" = import ./overrides/m-caching/0.1.15;
   };
+  m-kafka-sdk-v2 = {
+    "1.0.4" = import ./overrides/m-kafka-sdk-v2/1.0.4;
+  };
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
@@ -6871,6 +6874,9 @@
   redis3 = {
     "3.5.2.3" = import ./overrides/redis3/3.5.2.3;
   };
+  redisbloom = {
+    "0.4.0" = import ./overrides/redisbloom/0.4.0;
+  };
   redlib = {
     "1.5.7" = import ./overrides/redlib/1.5.7;
   };
@@ -6995,6 +7001,9 @@
   };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
+  };
+  rmtest = {
+    "0.7.0" = import ./overrides/rmtest/0.7.0;
   };
   roadtools = {
     "0.0.1" = import ./overrides/roadtools/0.0.1;
