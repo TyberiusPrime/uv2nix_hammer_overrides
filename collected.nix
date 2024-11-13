@@ -5432,6 +5432,7 @@
   };
   psycopg2-binary = {
     "2.8.6" = import ./overrides/psycopg2-binary/2.8.6;
+    "2.9.5" = import ./overrides/psycopg2-binary/2.9.5;
   };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
