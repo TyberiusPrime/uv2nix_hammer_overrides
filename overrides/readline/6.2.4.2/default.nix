@@ -1,7 +1,7 @@
-{resolveBuildSystem, final, pkgs, ...}
+{resolveBuildSystem, helpers, final, pkgs, ...}
         :
             old:
-            let funcs = [(old: old // ( if ((old.passthru.format or "sdist") == "wheel") then {buildInputs = old.buildInputs or [] ++ [pkgs.ncurses];} else {buildInputs = old.buildInputs or [] ++ [pkgs.ncurses];nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( {
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {buildInputs = old.buildInputs or [] ++ [pkgs.ncurses];} else {buildInputs = old.buildInputs or [] ++ [pkgs.ncurses];nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( {
   postPatch =
     old.postPatch or ""
     + ''

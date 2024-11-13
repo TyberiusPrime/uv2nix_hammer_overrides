@@ -1,4 +1,4 @@
-{pkgs, ...}
+{helpers, pkgs, ...}
         :
             old:
             let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.cudaPackages.libnvjitlink];})) (old: old // ( 
