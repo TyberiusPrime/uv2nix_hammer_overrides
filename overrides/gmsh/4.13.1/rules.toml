@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:pkgs.fontconfig", "~literal:!:pkgs.libGLU", "~literal:!:pkgs.xorg.libXcursor", "~literal:!:pkgs.xorg.libXfixes", "~literal:!:pkgs.xorg.libXft", "~literal:!:pkgs.xorg.libXinerama",]

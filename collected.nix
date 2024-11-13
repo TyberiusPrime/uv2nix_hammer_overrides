@@ -2841,6 +2841,9 @@
   gmail = {
     "0.6.3" = import ./overrides/gmail/0.6.3;
   };
+  gmsh = {
+    "4.13.1" = import ./overrides/gmsh/4.13.1;
+  };
   gmusicapi = {
     "13.0.0" = import ./overrides/gmusicapi/13.0.0;
   };
