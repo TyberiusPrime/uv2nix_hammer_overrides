@@ -1,0 +1,2 @@
+BuildSystems = [ "cffi", "packaging", "setuptools", "wheel",]
+ManualOverrides = "__file__:rpy2/3.5.16/default.nix"

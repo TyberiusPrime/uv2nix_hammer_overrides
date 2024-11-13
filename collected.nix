@@ -7141,6 +7141,9 @@
   rpmfluff = {
     "0.6.5" = import ./overrides/rpmfluff/0.6.5;
   };
+  rpy2 = {
+    "3.5.16" = import ./overrides/rpy2/3.5.16;
+  };
   rq = {
     "1.0" = import ./overrides/rq/1.0;
   };
