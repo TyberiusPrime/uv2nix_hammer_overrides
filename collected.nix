@@ -6724,6 +6724,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  qiskit-nature = {
+    "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
+  };
   qnap-qsw = {
     "0.3.0" = import ./overrides/qnap-qsw/0.3.0;
   };
