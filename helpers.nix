@@ -65,6 +65,9 @@
   in
     lib.filter (x: !(builtins.elem (lib.getName x) namesToRemove)) packages;
 
+  isWheel = attrSet:
+    attrSet.passthru.format or "not-a-wheel" == "wheel";
+
   standardMaturin = {
     furtherArgs ? {},
     maturinHook ? pkgs.rustPlatform.maturinBuildHook,
