@@ -1,7 +1,7 @@
-{resolveBuildSystem, final, prev, pkgs, ...}
+{prev, helpers, resolveBuildSystem, pkgs, final, ...}
         :
             old:
-            let funcs = [(old: old // ( if ((old.passthru.format or "sdist") == "wheel") then {dontWrapQtApps = true;} else {dontWrapQtApps = true;nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pyqt-builder = [];setuptools = [];sip = [];});})) (old: old // ( let
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {dontWrapQtApps = true;} else {dontWrapQtApps = true;nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pyqt-builder = [];setuptools = [];sip = [];});})) (old: old // ( let
   inherit (pkgs) lib;
   selectQt5 = version: let
     selector = builtins.concatStringsSep "" (lib.take 2 (builtins.splitVersion version));
@@ -33,7 +33,7 @@
       qttools
     ];
 in (
-  if (old.passthru.format or "sdist" == "sdist")
+  if (!helpers.isWheel old)
   then {
     postPatch = ''
       # Confirm license, if project.py exists
