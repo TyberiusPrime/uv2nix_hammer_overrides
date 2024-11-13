@@ -1,7 +1,7 @@
-{resolveBuildSystem, final, pkgs, ...}
+{helpers, resolveBuildSystem, final, pkgs, ...}
         :
             old:
-            let funcs = [(old: old // ( if ((old.passthru.format or "sdist") == "wheel") then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pytest-runner = [];setuptools = [];});})) (old: old // ( {
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pytest-runner = [];setuptools = [];});})) (old: old // ( {
   # from nixpkgs 
   postPatch = ''
     substituteInPlace setup.py --replace '"pytest-runner"' ""
