@@ -1,4 +1,4 @@
-if (old.format or "sdist" == "sdist")
+if (!helpers.isWheel old)
 then {
   postConfigure = ''
     substituteInPlace setup.py \
