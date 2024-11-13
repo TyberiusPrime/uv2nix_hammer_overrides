@@ -21,7 +21,7 @@ let
     (
       old:
       old
-      // ({
+      // {
         # from nixpkgs
         nativeBuildInputs = old.nativeBuildInputs or [ ] ++ [ pkgs.pkg-config ];
         buildInputs = old.buildInputs or [ ] ++ [
@@ -40,7 +40,7 @@ let
             substituteInPlace src-lib/libopenzwave/libopenzwave.pyx \
               --replace /usr/local/etc/openzwave ${pkgs.openzwave}/etc/openzwave
           '';
-      })
+      }
     )
   ];
 in

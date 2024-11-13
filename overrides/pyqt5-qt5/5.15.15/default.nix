@@ -11,13 +11,13 @@ let
     (
       old:
       old
-      // ({
+      // {
         buildInputs = old.buildInputs or [ ] ++ [
           pkgs.freetype
           pkgs.unixODBC
         ];
         dontWrapQtApps = true;
-      })
+      }
     )
     (
       old:

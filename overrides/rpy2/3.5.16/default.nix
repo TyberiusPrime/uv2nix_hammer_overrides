@@ -26,7 +26,7 @@ let
           }
       )
     )
-    (old: old // ({ RPY2_CFFI_MODE = "ABI"; }))
+    (old: old // { RPY2_CFFI_MODE = "ABI"; })
   ];
 in
 pkgs.lib.trivial.pipe old funcs

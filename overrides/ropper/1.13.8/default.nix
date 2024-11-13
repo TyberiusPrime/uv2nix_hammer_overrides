@@ -18,7 +18,7 @@ let
           { nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { setuptools = [ ]; }); }
       )
     )
-    (old: old // ({ propagatedBuildInputs = [ final.capstone ]; }))
+    (old: old // { propagatedBuildInputs = [ final.capstone ]; })
   ];
 in
 pkgs.lib.trivial.pipe old funcs

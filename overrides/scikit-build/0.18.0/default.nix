@@ -1,4 +1,4 @@
-{ ... }:
+_:
 _old: {
   disabledTests = [
     "test_hello_develop" # tries setuptools develop install

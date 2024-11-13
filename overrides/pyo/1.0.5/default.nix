@@ -20,7 +20,7 @@ let
     (
       old:
       old
-      // ({
+      // {
         postPatch = ''
           substituteInPlace setup.py \
             --replace-fail "\"/usr/include\"," "\"${pkgs.libsndfile.dev}/include\", \"${pkgs.portaudio}/include\", \"${pkgs.portmidi}/include\", \"${pkgs.liblo}/include\","
@@ -31,7 +31,7 @@ let
           pkgs.portmidi
           pkgs.liblo
         ];
-      })
+      }
     )
   ];
 in
