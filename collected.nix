@@ -8045,6 +8045,10 @@
   };
   torch = {
     "2.4.1" = import ./overrides/torch/2.4.1;
+    "2.5.1" = import ./overrides/torch/2.5.1;
+  };
+  torch-scatter = {
+    "2.1.2" = import ./overrides/torch-scatter/2.1.2;
   };
   torch-sparse = {
     "0.6.18" = import ./overrides/torch-sparse/0.6.18;
