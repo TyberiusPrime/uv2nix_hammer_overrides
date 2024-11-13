@@ -8124,6 +8124,9 @@
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
   };
+  torch = {
+    "2.5.1" = import ./overrides/torch/2.5.1;
+  };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
   };
