@@ -20,6 +20,9 @@
   accumulation-tree = {
     "0.6.2" = import ./overrides/accumulation-tree/0.6.2;
   };
+  accupy = {
+    "0.3.6" = import ./overrides/accupy/0.3.6;
+  };
   acor = {
     "1.1.1" = import ./overrides/acor/1.1.1;
   };
@@ -280,6 +283,9 @@
   };
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
+  };
+  arcgis = {
+    "2.3.1" = import ./overrides/arcgis/2.3.1;
   };
   arcor2 = {
     "1.4.0" = import ./overrides/arcor2/1.4.0;
@@ -854,6 +860,9 @@
   };
   cbpi4ui = {
     "0.0.13" = import ./overrides/cbpi4ui/0.0.13;
+  };
+  cbra = {
+    "1.1.10" = import ./overrides/cbra/1.1.10;
   };
   cdumay-error = {
     "0.2.0" = import ./overrides/cdumay-error/0.2.0;
@@ -2893,6 +2902,9 @@
   grpc-google-pubsub-v1 = {
     "0.11.1" = import ./overrides/grpc-google-pubsub-v1/0.11.1;
   };
+  grpcio = {
+    "1.57.0" = import ./overrides/grpcio/1.57.0;
+  };
   grpclib = {
     "0.4.7" = import ./overrides/grpclib/0.4.7;
   };
@@ -2979,6 +2991,9 @@
   };
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
+  };
+  headless = {
+    "1.12.4" = import ./overrides/headless/1.12.4;
   };
   healthcheck = {
     "1.3.3" = import ./overrides/healthcheck/1.3.3;
@@ -3118,6 +3133,9 @@
   };
   humilis = {
     "1.7.1" = import ./overrides/humilis/1.7.1;
+  };
+  hunspell = {
+    "0.5.5" = import ./overrides/hunspell/0.5.5;
   };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
@@ -3562,6 +3580,9 @@
   };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
+  };
+  kedro = {
+    "0.19.8" = import ./overrides/kedro/0.19.8;
   };
   keeper-secrets-manager-core = {
     "16.6.5" = import ./overrides/keeper-secrets-manager-core/16.6.5;
@@ -4677,6 +4698,7 @@
   };
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
+    "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
     "1.21.6" = import ./overrides/numpy/1.21.6;
@@ -5407,6 +5429,9 @@
   psycopg2 = {
     "2.9.9" = import ./overrides/psycopg2/2.9.9;
   };
+  psycopg2-binary = {
+    "2.8.6" = import ./overrides/psycopg2-binary/2.8.6;
+  };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
   };
@@ -5856,6 +5881,9 @@
   pyimgur = {
     "0.6.0" = import ./overrides/pyimgur/0.6.0;
   };
+  pyimpfuzzy = {
+    "0.5" = import ./overrides/pyimpfuzzy/0.5;
+  };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
@@ -6158,7 +6186,9 @@
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
   pyscard = {
+    "2.0.0" = import ./overrides/pyscard/2.0.0;
     "2.1.1" = import ./overrides/pyscard/2.1.1;
+    "2.2.0" = import ./overrides/pyscard/2.2.0;
   };
   pyschedule = {
     "0.2.34" = import ./overrides/pyschedule/0.2.34;
@@ -6189,6 +6219,9 @@
   };
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
+  };
+  pyside2 = {
+    "5.15.2.1" = import ./overrides/pyside2/5.15.2.1;
   };
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
@@ -6478,6 +6511,9 @@
   };
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
+  };
+  python-openzwave = {
+    "0.4.19" = import ./overrides/python-openzwave/0.4.19;
   };
   python-packer = {
     "0.1.2" = import ./overrides/python-packer/0.1.2;
@@ -7034,6 +7070,9 @@
   };
   rpmfluff = {
     "0.6.5" = import ./overrides/rpmfluff/0.6.5;
+  };
+  rpy2 = {
+    "3.5.16" = import ./overrides/rpy2/3.5.16;
   };
   rq = {
     "1.0" = import ./overrides/rq/1.0;
@@ -7782,6 +7821,9 @@
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
   };
+  tbb = {
+    "2021.13.1" = import ./overrides/tbb/2021.13.1;
+  };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
@@ -7998,6 +8040,9 @@
   };
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
+  };
+  torch = {
+    "2.4.1" = import ./overrides/torch/2.4.1;
   };
   torch-sparse = {
     "0.6.18" = import ./overrides/torch-sparse/0.6.18;
