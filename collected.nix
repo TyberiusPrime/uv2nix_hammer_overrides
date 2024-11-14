@@ -6085,6 +6085,9 @@
   pymetar = {
     "1.4" = import ./overrides/pymetar/1.4;
   };
+  pymilter = {
+    "1.0.5" = import ./overrides/pymilter/1.0.5;
+  };
   pyminizip = {
     "0.2.6" = import ./overrides/pyminizip/0.2.6;
   };
