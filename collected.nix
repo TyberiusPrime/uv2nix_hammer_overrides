@@ -5614,6 +5614,9 @@
   py2store = {
     "0.1.20" = import ./overrides/py2store/0.1.20;
   };
+  py3exiv2 = {
+    "0.12.0" = import ./overrides/py3exiv2/0.12.0;
+  };
   py3rijndael = {
     "0.3.3" = import ./overrides/py3rijndael/0.3.3;
   };
