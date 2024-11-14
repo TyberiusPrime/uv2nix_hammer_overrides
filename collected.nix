@@ -5982,6 +5982,9 @@
   pyjade = {
     "4.0.0" = import ./overrides/pyjade/4.0.0;
   };
+  pyjq = {
+    "2.6.0" = import ./overrides/pyjq/2.6.0;
+  };
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
