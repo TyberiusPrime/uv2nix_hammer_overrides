@@ -973,6 +973,9 @@
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
+  clickhouse-sqlalchemy = {
+    "0.3.2" = import ./overrides/clickhouse-sqlalchemy/0.3.2;
+  };
   clime = {
     "0.3.1" = import ./overrides/clime/0.3.1;
   };
@@ -9060,6 +9063,9 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zstd = {
+    "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
   };
   zuper-commons-z5 = {
     "5.0.11" = import ./overrides/zuper-commons-z5/5.0.11;
