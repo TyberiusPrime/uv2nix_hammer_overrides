@@ -1437,6 +1437,12 @@
   dartsclone = {
     "0.10.2" = import ./overrides/dartsclone/0.10.2;
   };
+  dash-colorscales = {
+    "0.0.4" = import ./overrides/dash-colorscales/0.0.4;
+  };
+  dash-daq = {
+    "0.5.0" = import ./overrides/dash-daq/0.5.0;
+  };
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
