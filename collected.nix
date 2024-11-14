@@ -3059,6 +3059,9 @@
   hexdump = {
     "3.3" = import ./overrides/hexdump/3.3;
   };
+  hfilesize = {
+    "0.1.0" = import ./overrides/hfilesize/0.1.0;
+  };
   hg-evolve = {
     "11.1.4" = import ./overrides/hg-evolve/11.1.4;
   };
@@ -4146,6 +4149,12 @@
   };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
+  };
+  masonite = {
+    "4.20.0" = import ./overrides/masonite/4.20.0;
+  };
+  masonite-orm = {
+    "2.23.1" = import ./overrides/masonite-orm/2.23.1;
   };
   matlab = {
     "0.1" = import ./overrides/matlab/0.1;
