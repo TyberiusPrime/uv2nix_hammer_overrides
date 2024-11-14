@@ -1146,6 +1146,9 @@
   conan = {
     "2.7.0" = import ./overrides/conan/2.7.0;
   };
+  configobj = {
+    "5.0.9" = import ./overrides/configobj/5.0.9;
+  };
   configparser = {
     "3.5.0" = import ./overrides/configparser/3.5.0;
   };
