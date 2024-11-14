@@ -5030,6 +5030,9 @@
   overly = {
     "0.1.85" = import ./overrides/overly/0.1.85;
   };
+  owlready2 = {
+    "0.46" = import ./overrides/owlready2/0.46;
+  };
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
   };
