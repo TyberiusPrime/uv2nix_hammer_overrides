@@ -8186,6 +8186,9 @@
   torch-sparse = {
     "0.6.18" = import ./overrides/torch-sparse/0.6.18;
   };
+  torch-spline-conv = {
+    "1.2.2" = import ./overrides/torch-spline-conv/1.2.2;
+  };
   torchaudio = {
     "2.4.1" = import ./overrides/torchaudio/2.4.1;
   };
