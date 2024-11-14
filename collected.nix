@@ -1548,6 +1548,9 @@
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
+  dictobject = {
+    "1.1.1" = import ./overrides/dictobject/1.1.1;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
