@@ -2384,6 +2384,9 @@
   fcore = {
     "4.0.0" = import ./overrides/fcore/4.0.0;
   };
+  fdint = {
+    "2.0.2" = import ./overrides/fdint/2.0.2;
+  };
   fdm = {
     "0.4.1" = import ./overrides/fdm/0.4.1;
   };
