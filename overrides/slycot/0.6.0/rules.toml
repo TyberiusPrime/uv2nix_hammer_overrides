@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.blas", "~literal:!:pkgs.lapack",]
+BuildSystems = [ "cmake", "numpy", "scikit-build", "setuptools", "setuptools-scm", "wheel",]
+NativeBuildInputs = [ "~literal:!:pkgs.gfortran",]
