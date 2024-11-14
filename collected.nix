@@ -2977,6 +2977,7 @@
   };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
+    "3.7.0" = import ./overrides/h5py/3.7.0;
   };
   h5pyd = {
     "0.18.0" = import ./overrides/h5pyd/0.18.0;
