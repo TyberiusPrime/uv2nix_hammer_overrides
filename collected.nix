@@ -3878,6 +3878,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  libtools = {
+    "0.4.2" = import ./overrides/libtools/0.4.2;
+  };
   libusb-package = {
     "1.0.26.1" = import ./overrides/libusb-package/1.0.26.1;
   };
