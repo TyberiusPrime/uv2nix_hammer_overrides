@@ -916,6 +916,9 @@
   chainlib = {
     "0.5.4" = import ./overrides/chainlib/0.5.4;
   };
+  chainlib-eth = {
+    "0.6.3" = import ./overrides/chainlib-eth/0.6.3;
+  };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
@@ -1076,6 +1079,9 @@
   };
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
+  };
+  coincurve = {
+    "15.0.0" = import ./overrides/coincurve/15.0.0;
   };
   coinmarketcap = {
     "5.0.3" = import ./overrides/coinmarketcap/5.0.3;
@@ -2677,6 +2683,9 @@
   };
   funga = {
     "0.5.7" = import ./overrides/funga/0.5.7;
+  };
+  funga-eth = {
+    "0.8.0" = import ./overrides/funga-eth/0.8.0;
   };
   fusepy = {
     "3.0.1" = import ./overrides/fusepy/3.0.1;
@@ -5377,6 +5386,9 @@
   };
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
+  };
+  potaahto = {
+    "0.1.2" = import ./overrides/potaahto/0.1.2;
   };
   powerline-status = {
     "2.7" = import ./overrides/powerline-status/2.7;
