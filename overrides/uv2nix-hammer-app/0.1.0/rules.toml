@@ -1,1 +1,2 @@
 DowngradePython = "3.10"
+DowngradeSetupTools = "<71"
