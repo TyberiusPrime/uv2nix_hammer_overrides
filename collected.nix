@@ -3342,6 +3342,9 @@
   inspect-it = {
     "0.3.2" = import ./overrides/inspect-it/0.3.2;
   };
+  instabot = {
+    "0.117.0" = import ./overrides/instabot/0.117.0;
+  };
   instagramapi = {
     "1.0.2" = import ./overrides/instagramapi/1.0.2;
   };
@@ -4407,6 +4410,9 @@
   };
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
+  };
+  moviepy = {
+    "1.0.3" = import ./overrides/moviepy/1.0.3;
   };
   mox = {
     "0.5.3" = import ./overrides/mox/0.5.3;
