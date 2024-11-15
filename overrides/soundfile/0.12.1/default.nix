@@ -1,6 +1,5 @@
-{ final, pkgs, ... }:
-_old:
-let
+{final, pkgs, ...}
+        : old: let
   sharedLibExt = pkgs.stdenv.hostPlatform.extensions.sharedLibrary;
   patch = ''
     substituteInPlace soundfile.py \
@@ -14,3 +13,5 @@ in
     popd
   '';
 }
+
+        
