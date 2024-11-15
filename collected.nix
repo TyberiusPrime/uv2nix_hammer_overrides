@@ -1077,6 +1077,9 @@
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
+  coincurve = {
+    "15.0.0" = import ./overrides/coincurve/15.0.0;
+  };
   coinmarketcap = {
     "5.0.3" = import ./overrides/coinmarketcap/5.0.3;
   };
@@ -2677,6 +2680,9 @@
   };
   funga = {
     "0.5.7" = import ./overrides/funga/0.5.7;
+  };
+  funga-eth = {
+    "0.8.0" = import ./overrides/funga-eth/0.8.0;
   };
   fusepy = {
     "3.0.1" = import ./overrides/fusepy/3.0.1;
