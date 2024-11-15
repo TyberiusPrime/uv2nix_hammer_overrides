@@ -6897,6 +6897,9 @@
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
   };
+  r2pipe = {
+    "1.9.4" = import ./overrides/r2pipe/1.9.4;
+  };
   rabird-core = {
     "0.4.1" = import ./overrides/rabird-core/0.4.1;
   };
