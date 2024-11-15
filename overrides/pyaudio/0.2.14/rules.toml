@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.portaudio",]
+BuildSystems = [ "setuptools", "wheel",]

@@ -5402,6 +5402,9 @@
   prayer-times-calculator = {
     "0.0.12" = import ./overrides/prayer-times-calculator/0.0.12;
   };
+  precise-runner = {
+    "0.3.1" = import ./overrides/precise-runner/0.3.1;
+  };
   preggy = {
     "1.4.4" = import ./overrides/preggy/1.4.4;
   };
@@ -5652,6 +5655,9 @@
   };
   pyatem = {
     "0.10.0" = import ./overrides/pyatem/0.10.0;
+  };
+  pyaudio = {
+    "0.2.14" = import ./overrides/pyaudio/0.2.14;
   };
   pyauto-core = {
     "0.2.0" = import ./overrides/pyauto-core/0.2.0;
