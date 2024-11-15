@@ -1548,6 +1548,9 @@
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
+  dictobject = {
+    "1.1.1" = import ./overrides/dictobject/1.1.1;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
@@ -5362,6 +5365,9 @@
   };
   poezio = {
     "0.14" = import ./overrides/poezio/0.14;
+  };
+  politico-civic-geography = {
+    "0.5.1" = import ./overrides/politico-civic-geography/0.5.1;
   };
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
