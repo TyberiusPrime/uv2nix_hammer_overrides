@@ -4778,6 +4778,7 @@
   numpy = {
     "1.21.6" = import ./overrides/numpy/1.21.6;
     "1.23.5" = import ./overrides/numpy/1.23.5;
+    "1.24.3" = import ./overrides/numpy/1.24.3;
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
   };
