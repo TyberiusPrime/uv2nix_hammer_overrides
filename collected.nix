@@ -4812,6 +4812,9 @@
   nvidia-curand-cu12 = {
     "10.3.2.106" = import ./overrides/nvidia-curand-cu12/10.3.2.106;
   };
+  nvidia-cusolver-cu11 = {
+    "11.4.1.48" = import ./overrides/nvidia-cusolver-cu11/11.4.1.48;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
@@ -5109,6 +5112,9 @@
   };
   parsimonious = {
     "0.9.0" = import ./overrides/parsimonious/0.9.0;
+  };
+  patch = {
+    "1.16" = import ./overrides/patch/1.16;
   };
   patch-ng = {
     "1.18.0" = import ./overrides/patch-ng/1.18.0;
