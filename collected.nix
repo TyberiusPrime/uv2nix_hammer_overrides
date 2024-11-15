@@ -6262,6 +6262,9 @@
   pyrestcli = {
     "0.6.11" = import ./overrides/pyrestcli/0.6.11;
   };
+  pyrevolve = {
+    "2.2.4" = import ./overrides/pyrevolve/2.2.4;
+  };
   pyrfr = {
     "0.9.0" = import ./overrides/pyrfr/0.9.0;
   };
