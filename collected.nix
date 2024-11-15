@@ -940,6 +940,9 @@
   chroma-hnswlib = {
     "0.7.3" = import ./overrides/chroma-hnswlib/0.7.3;
   };
+  cifar2png = {
+    "0.0.4" = import ./overrides/cifar2png/0.0.4;
+  };
   cipherprogram = {
     "0.0.4" = import ./overrides/cipherprogram/0.0.4;
   };
