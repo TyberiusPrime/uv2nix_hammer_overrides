@@ -745,6 +745,9 @@
   brabbel = {
     "0.4.4" = import ./overrides/brabbel/0.4.4;
   };
+  brainflow = {
+    "5.13.3" = import ./overrides/brainflow/5.13.3;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
@@ -4811,6 +4814,9 @@
   };
   nvidia-curand-cu12 = {
     "10.3.2.106" = import ./overrides/nvidia-curand-cu12/10.3.2.106;
+  };
+  nvidia-cusolver-cu11 = {
+    "11.4.1.48" = import ./overrides/nvidia-cusolver-cu11/11.4.1.48;
   };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
