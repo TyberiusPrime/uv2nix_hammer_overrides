@@ -1533,6 +1533,9 @@
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
+  dev0s = {
+    "3.36.6" = import ./overrides/dev0s/3.36.6;
+  };
   device-detector = {
     "5.0.1" = import ./overrides/device-detector/5.0.1;
   };
