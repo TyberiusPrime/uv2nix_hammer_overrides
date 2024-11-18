@@ -1987,6 +1987,9 @@
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
+  dkpro-cassis = {
+    "0.9.1" = import ./overrides/dkpro-cassis/0.9.1;
+  };
   dlib = {
     "19.24.6" = import ./overrides/dlib/19.24.6;
   };
