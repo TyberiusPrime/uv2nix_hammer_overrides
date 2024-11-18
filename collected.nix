@@ -189,6 +189,9 @@
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
+  amuse-framework = {
+    "2024.6.0" = import ./overrides/amuse-framework/2024.6.0;
+  };
   anchor-kr = {
     "0.1.3" = import ./overrides/anchor-kr/0.1.3;
   };
@@ -1986,6 +1989,18 @@
   };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
+  };
+  dkist-processing-common = {
+    "9.0.0" = import ./overrides/dkist-processing-common/9.0.0;
+  };
+  dkist-processing-core = {
+    "4.1.0" = import ./overrides/dkist-processing-core/4.1.0;
+  };
+  dkist-processing-pac = {
+    "3.1.0" = import ./overrides/dkist-processing-pac/3.1.0;
+  };
+  dkist-spectral-lines = {
+    "3.0.0" = import ./overrides/dkist-spectral-lines/3.0.0;
   };
   dlib = {
     "19.24.6" = import ./overrides/dlib/19.24.6;
@@ -4408,6 +4423,9 @@
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
+  moviepy = {
+    "1.0.3" = import ./overrides/moviepy/1.0.3;
+  };
   mox = {
     "0.5.3" = import ./overrides/mox/0.5.3;
   };
@@ -4812,6 +4830,9 @@
   nvidia-curand-cu12 = {
     "10.3.2.106" = import ./overrides/nvidia-curand-cu12/10.3.2.106;
   };
+  nvidia-cusolver-cu11 = {
+    "11.4.1.48" = import ./overrides/nvidia-cusolver-cu11/11.4.1.48;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
@@ -4844,6 +4865,9 @@
   };
   obd = {
     "0.7.2" = import ./overrides/obd/0.7.2;
+  };
+  object-clerk = {
+    "0.1.1" = import ./overrides/object-clerk/0.1.1;
   };
   octobot-commons = {
     "1.9.58" = import ./overrides/octobot-commons/1.9.58;
@@ -5029,6 +5053,9 @@
   };
   overly = {
     "0.1.85" = import ./overrides/overly/0.1.85;
+  };
+  ovirt-engine-sdk-python = {
+    "4.6.1" = import ./overrides/ovirt-engine-sdk-python/4.6.1;
   };
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
@@ -7340,6 +7367,12 @@
   };
   sciunit = {
     "0.2.8" = import ./overrides/sciunit/0.2.8;
+  };
+  sciutil = {
+    "1.0.3" = import ./overrides/sciutil/1.0.3;
+  };
+  sciviso = {
+    "1.0.9" = import ./overrides/sciviso/1.0.9;
   };
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
