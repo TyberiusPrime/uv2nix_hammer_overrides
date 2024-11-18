@@ -1,0 +1,3 @@
+BuildSystems = [ "docutils", "h5py", "numpy", "pip", "pytest", "setuptools", "setuptools-scm", "wheel",]
+ManualOverrides = "__file__:amuse-framework/2024.6.0/default.nix"
+NativeBuildInputs = [ "~literal:!:pkgs.gfortran",]
