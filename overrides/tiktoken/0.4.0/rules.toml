@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools", "setuptools-rust", "wheel",]
+Rust = [ "setuptools_rust", "hammer_build_steamship_2.17.34/overrides/overrides/tiktoken/0.4.0/Cargo.lock",]
