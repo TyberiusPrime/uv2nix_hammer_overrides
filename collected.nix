@@ -4812,6 +4812,9 @@
   nvidia-curand-cu12 = {
     "10.3.2.106" = import ./overrides/nvidia-curand-cu12/10.3.2.106;
   };
+  nvidia-cusolver-cu11 = {
+    "11.4.1.48" = import ./overrides/nvidia-cusolver-cu11/11.4.1.48;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
@@ -7341,6 +7344,12 @@
   sciunit = {
     "0.2.8" = import ./overrides/sciunit/0.2.8;
   };
+  sciutil = {
+    "1.0.3" = import ./overrides/sciutil/1.0.3;
+  };
+  sciviso = {
+    "1.0.9" = import ./overrides/sciviso/1.0.9;
+  };
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
   };
@@ -8009,6 +8018,9 @@
   };
   tendril-utils-www = {
     "0.2.14" = import ./overrides/tendril-utils-www/0.2.14;
+  };
+  tensordict = {
+    "0.5.0" = import ./overrides/tensordict/0.5.0;
   };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
