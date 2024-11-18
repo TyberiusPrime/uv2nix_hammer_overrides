@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:pkgs.cairo", "~literal:!:pkgs.fontconfig", "~literal:!:pkgs.freetype", "~literal:!:pkgs.gtk2", "~literal:!:pkgs.gtk3", "~literal:!:pkgs.openssl", "~literal:!:pkgs.pango", "~literal:!:pkgs.pkg-config",]

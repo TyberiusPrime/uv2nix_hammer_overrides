@@ -4812,6 +4812,9 @@
   nvidia-curand-cu12 = {
     "10.3.2.106" = import ./overrides/nvidia-curand-cu12/10.3.2.106;
   };
+  nvidia-cusolver-cu11 = {
+    "11.4.1.48" = import ./overrides/nvidia-cusolver-cu11/11.4.1.48;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
@@ -5060,6 +5063,9 @@
   };
   pairtree = {
     "0.8.1" = import ./overrides/pairtree/0.8.1;
+  };
+  panda3d = {
+    "1.10.15" = import ./overrides/panda3d/1.10.15;
   };
   pandapower = {
     "2.14.11" = import ./overrides/pandapower/2.14.11;
@@ -7340,6 +7346,12 @@
   };
   sciunit = {
     "0.2.8" = import ./overrides/sciunit/0.2.8;
+  };
+  sciutil = {
+    "1.0.3" = import ./overrides/sciutil/1.0.3;
+  };
+  sciviso = {
+    "1.0.9" = import ./overrides/sciviso/1.0.9;
   };
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
