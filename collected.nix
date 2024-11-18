@@ -189,6 +189,9 @@
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
+  amuse-framework = {
+    "2024.6.0" = import ./overrides/amuse-framework/2024.6.0;
+  };
   anchor-kr = {
     "0.1.3" = import ./overrides/anchor-kr/0.1.3;
   };
@@ -2459,6 +2462,9 @@
   flake8-mutable = {
     "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
   };
+  flake8-quotes = {
+    "1.0.0" = import ./overrides/flake8-quotes/1.0.0;
+  };
   flake8-todo = {
     "0.7" = import ./overrides/flake8-todo/0.7;
   };
@@ -4552,6 +4558,7 @@
     "1.0.9" = import ./overrides/mysql-replication/1.0.9;
   };
   mysqlclient = {
+    "1.4.6" = import ./overrides/mysqlclient/1.4.6;
     "2.2.4" = import ./overrides/mysqlclient/2.2.4;
   };
   nad-receiver = {
@@ -4812,6 +4819,9 @@
   nvidia-curand-cu12 = {
     "10.3.2.106" = import ./overrides/nvidia-curand-cu12/10.3.2.106;
   };
+  nvidia-cusolver-cu11 = {
+    "11.4.1.48" = import ./overrides/nvidia-cusolver-cu11/11.4.1.48;
+  };
   nvidia-cusolver-cu12 = {
     "11.4.5.107" = import ./overrides/nvidia-cusolver-cu12/11.4.5.107;
   };
@@ -5029,6 +5039,9 @@
   };
   overly = {
     "0.1.85" = import ./overrides/overly/0.1.85;
+  };
+  ovirt-engine-sdk-python = {
+    "4.6.1" = import ./overrides/ovirt-engine-sdk-python/4.6.1;
   };
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
@@ -5431,6 +5444,9 @@
   };
   prettytable = {
     "0.7.2" = import ./overrides/prettytable/0.7.2;
+  };
+  probator = {
+    "1.10.1" = import ./overrides/probator/1.10.1;
   };
   problog = {
     "2.2.4" = import ./overrides/problog/2.2.4;
@@ -7340,6 +7356,12 @@
   };
   sciunit = {
     "0.2.8" = import ./overrides/sciunit/0.2.8;
+  };
+  sciutil = {
+    "1.0.3" = import ./overrides/sciutil/1.0.3;
+  };
+  sciviso = {
+    "1.0.9" = import ./overrides/sciviso/1.0.9;
   };
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
