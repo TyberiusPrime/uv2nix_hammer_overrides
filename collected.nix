@@ -4857,6 +4857,9 @@
   odo = {
     "0.5.0" = import ./overrides/odo/0.5.0;
   };
+  offsetbasedgraph = {
+    "2.1.4" = import ./overrides/offsetbasedgraph/2.1.4;
+  };
   offtrac = {
     "0.1.0" = import ./overrides/offtrac/0.1.0;
   };
@@ -6774,6 +6777,9 @@
   };
   pyversasense = {
     "0.0.6" = import ./overrides/pyversasense/0.0.6;
+  };
+  pyvg = {
+    "1.1.3" = import ./overrides/pyvg/1.1.3;
   };
   pyvimeo = {
     "1.1.2" = import ./overrides/pyvimeo/1.1.2;
