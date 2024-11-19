@@ -1,6 +1,7 @@
-{ pkgs, ... }:
-old:
-let
+{final, helpers, pkgs, resolveBuildSystem, ...}
+        :
+            old:
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];swig = [];});})) (old: old // ( let
   # Package does not support configuring the pcsc library.
   withApplePCSC = pkgs.stdenv.isDarwin;
 in
@@ -37,3 +38,7 @@ in
     "test_low_level"
   ];
 }
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    
