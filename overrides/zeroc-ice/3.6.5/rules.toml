@@ -1,0 +1,4 @@
+BuildInputs = [ "~literal:!:pkgs.zlib.out",]
+BuildSystems = [ "setuptools",]
+DowngradePython = "3.10"
+NativeBuildInputs = [ "~literal:!:pkgs.bzip2.dev", "~literal:!:pkgs.openssl", "~literal:!:pkgs.pkg-config", "~literal:!:pkgs.zlib.dev",]

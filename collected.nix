@@ -9379,6 +9379,9 @@
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
+  zeroc-ice = {
+    "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
+  };
   zerotk-zops = {
     "0.5.3" = import ./overrides/zerotk-zops/0.5.3;
   };
