@@ -5,10 +5,9 @@ let
     (
       old:
       old
-      // ({
+      // {
         buildInputs =
           old.buildInputs or [ ]
-          ++ [ ]
           ++ (pkgs.lib.optionals (
             (builtins.trace pkgs.stdenv.hostPlatform.system pkgs.stdenv.hostPlatform.system) == "x86_64-linux"
           ) [ pkgs.cudaPackages.cuda_cudart ])
@@ -24,17 +23,17 @@ let
             pkgs.cudaPackages.libcusparse
             pkgs.cudaPackages.nccl
           ];
-      })
+      }
     )
     (
       old:
       old
-      // ({
+      // {
         postFixup = ''
           rm -rf $out/${final.python.sitePackages}/nvidia/{__pycache__,__init__.py}
           ln -sfn $out/${final.python.sitePackages}/nvidia/*/lib/lib*.so* $out/lib
         '';
-      })
+      }
     )
   ];
 in

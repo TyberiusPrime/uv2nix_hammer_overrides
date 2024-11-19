@@ -24,9 +24,9 @@ poetry2nix example
 
 ## Scope of the 'sweep'
 
-- Limited to 'important' python packages by some arbitrary definition.
+- Limited to 'important' python packages by some arbitrary definition (downloads, number of dependants, user requess).
 - TyberiusPrime will only do x86-64-linux. PRs for other architectures welcome, but they probably need to be upstream in [uv2nix-hammer](https://github.com/TyberiusPrime/uv2nix_hammer)
-- TyberiusPrime will not spent time getting cryto(mining) packages to build.
+- TyberiusPrime will not spent time getting cryto (-mining) packages to build.
 - TyberiusPrime has a time limit on getting any package running.
 
 
@@ -44,3 +44,14 @@ poetry2nix example
 #### My packages still fail:
 
 The first thing you might want to check is if there's a 'Downgrade*' rule in overrides/<package>/rules.toml (or it's dependencies :( ). That might teach you that you have to restrict something else to be 'not the newest version'. Sorry, no automatic checking for that yet.
+
+
+#### "error: attribute '<some package>' missing" during nix eval
+One of your packages (or at least one dependency) has a limbo dependency - it's not declared correctly and uv didn't lock it.
+You can add it to the dependencies in you pyproject.toml. 
+
+
+#### Cython vs Cython_0
+Cython recently underwent a non-backwards compatible jump from 0.29 to 1.0.
+uv2nix_hammer_overrrides provides the former as cython_0, like nixpkgs does. 
+It's not pretty, but it works for now.

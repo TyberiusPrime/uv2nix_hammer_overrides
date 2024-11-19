@@ -2,7 +2,6 @@
 old: {
   buildInputs =
     old.buildInputs or [ ]
-    ++ [ ]
     ++ (pkgs.lib.optionals (
       (builtins.trace pkgs.stdenv.hostPlatform.system pkgs.stdenv.hostPlatform.system) == "x86_64-linux"
     ) [ pkgs.cudaPackages.cuda_cudart ])

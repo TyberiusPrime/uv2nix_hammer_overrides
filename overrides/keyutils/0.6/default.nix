@@ -28,7 +28,7 @@ let
     (
       old:
       old
-      // ({
+      // {
         # from nixpkgs 
         postPatch = ''
           substituteInPlace setup.py --replace '"pytest-runner"' ""
@@ -43,7 +43,7 @@ let
         '';
 
         buildInputs = [ pkgs.keyutils ];
-      })
+      }
     )
   ];
 in

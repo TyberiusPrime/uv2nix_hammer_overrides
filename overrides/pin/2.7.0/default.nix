@@ -15,8 +15,8 @@ let
           {
             buildInputs = old.buildInputs or [ ] ++ [
               (pkgs.boost183.override {
-                python = final.python;
-                numpy = final.numpy;
+                inherit (final) python;
+                inherit (final) numpy;
                 enablePython = true;
               })
               final.eigenpy
@@ -35,8 +35,8 @@ let
           {
             buildInputs = old.buildInputs or [ ] ++ [
               (pkgs.boost183.override {
-                python = final.python;
-                numpy = final.numpy;
+                inherit (final) python;
+                inherit (final) numpy;
                 enablePython = true;
               })
               final.eigenpy
@@ -54,7 +54,6 @@ let
       old:
       old
       // (
-        (
           let
             urdfdom = pkgs.stdenv.mkDerivation rec {
               pname = "urdfdom";
@@ -93,7 +92,6 @@ let
             buildInputs = old.buildInputs or [ ] ++ [ urdfdom ];
           }
         )
-      )
     )
   ];
 in
