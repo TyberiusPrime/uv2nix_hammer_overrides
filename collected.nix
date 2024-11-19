@@ -2064,6 +2064,9 @@
   djangotoolbox = {
     "1.8.0" = import ./overrides/djangotoolbox/1.8.0;
   };
+  djongo = {
+    "1.3.6" = import ./overrides/djongo/1.3.6;
+  };
   djorm-ext-core = {
     "0.7" = import ./overrides/djorm-ext-core/0.7;
   };
