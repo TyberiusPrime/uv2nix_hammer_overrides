@@ -7462,6 +7462,9 @@
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
   };
+  scrypt = {
+    "0.8.13" = import ./overrides/scrypt/0.8.13;
+  };
   sdkmanager = {
     "0.6.8" = import ./overrides/sdkmanager/0.6.8;
   };
