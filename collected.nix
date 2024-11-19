@@ -8282,6 +8282,9 @@
   thunder-python = {
     "1.4.2" = import ./overrides/thunder-python/1.4.2;
   };
+  tiktoken = {
+    "0.4.0" = import ./overrides/tiktoken/0.4.0;
+  };
   tilemapbase = {
     "0.4.7" = import ./overrides/tilemapbase/0.4.7;
   };
