@@ -5252,6 +5252,7 @@
   };
   patch-ng = {
     "1.18.0" = import ./overrides/patch-ng/1.18.0;
+    "1.18.1" = import ./overrides/patch-ng/1.18.1;
   };
   path-and-address = {
     "2.0.1" = import ./overrides/path-and-address/2.0.1;
@@ -5300,6 +5301,18 @@
   };
   pecab = {
     "1.0.8" = import ./overrides/pecab/1.0.8;
+  };
+  peek-core-device = {
+    "3.4.16" = import ./overrides/peek-core-device/3.4.16;
+  };
+  peek-core-email = {
+    "3.4.16" = import ./overrides/peek-core-email/3.4.16;
+  };
+  peek-platform = {
+    "3.4.16" = import ./overrides/peek-platform/3.4.16;
+  };
+  peek-plugin-base = {
+    "3.4.16" = import ./overrides/peek-plugin-base/3.4.16;
   };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
@@ -8940,6 +8953,7 @@
     "0.10.4" = import ./overrides/volvooncall/0.10.4;
   };
   vortexpy = {
+    "3.0.0" = import ./overrides/vortexpy/3.0.0;
     "3.1.0" = import ./overrides/vortexpy/3.1.0;
   };
   voxcell = {

@@ -1,1 +1,2 @@
+BuildSystems = [ "setuptools",]
 ManualOverrides = "__file__:psycopg2-binary/2.8.6/default.nix"
