@@ -1,7 +1,6 @@
 {
   postInstall =
-    old.postInstall
-    or ""
+    old.postInstall or ""
     + ''
       rm -rf $out/LICENSE
     '';

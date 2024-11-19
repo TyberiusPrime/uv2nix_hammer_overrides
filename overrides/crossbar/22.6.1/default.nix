@@ -5,5 +5,3 @@ _: old: {
       rm $out/LICENSE
     '';
 }
-
-        

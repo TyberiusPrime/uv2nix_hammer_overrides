@@ -1,5 +1,5 @@
 {
   postPatch = ''
-  echo '[tool.setuptools_scm]' >> pyproject.toml
+    echo '[tool.setuptools_scm]' >> pyproject.toml
   '';
 }

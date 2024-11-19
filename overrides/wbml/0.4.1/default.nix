@@ -1,4 +1,4 @@
-{final, pkgs, ...}
+{final, ...}
         : old: {
   postInstall =
     old.postInstall or ""
