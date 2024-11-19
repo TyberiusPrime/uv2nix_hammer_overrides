@@ -1,6 +1,4 @@
 {pkgs, ...}
-        : old: {
-  nativeBuildInputs = old.nativeBuildInputs ++ [pkgs.breakpointHook];
-}
+        : old: { nativeBuildInputs = old.nativeBuildInputs ++ [ pkgs.breakpointHook ]; }
 
         
