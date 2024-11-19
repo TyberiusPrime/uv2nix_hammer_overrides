@@ -5718,6 +5718,9 @@
     "2.9.3" = import ./overrides/psycopg2-binary/2.9.3;
     "2.9.5" = import ./overrides/psycopg2-binary/2.9.5;
   };
+  psycopg2cffi = {
+    "2.9.0" = import ./overrides/psycopg2cffi/2.9.0;
+  };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
   };
@@ -8503,6 +8506,7 @@
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
   torchvision = {
+    "0.19.1" = import ./overrides/torchvision/0.19.1;
     "0.20.1" = import ./overrides/torchvision/0.20.1;
   };
   toredis = {
