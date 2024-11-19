@@ -1,0 +1,5 @@
+BuildInputs = [ "~literal:!:pkgs.cudaPackages.cuda_cudart",]
+BuildSystems = [ "numpy", "setuptools", "wheel",]
+DowngradeNumpy = "<2"
+NativeBuildInputs = [ "~literal:!:pkgs.cudaPackages.cuda_cudart", "~literal:!:pkgs.cudaPackages.cuda_nvcc", "~literal:!:pkgs.cudaPackages.cuda_profiler_api", "~literal:!:pkgs.cudaPackages.libcurand",]
+TomlRequiresPatcher = [ true, false, false, true, false, false,]
