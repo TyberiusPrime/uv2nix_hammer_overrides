@@ -1403,6 +1403,9 @@
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
+  cupy-cuda12x = {
+    "13.3.0" = import ./overrides/cupy-cuda12x/13.3.0;
+  };
   curio = {
     "1.6" = import ./overrides/curio/1.6;
   };
@@ -8503,6 +8506,7 @@
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
   torchvision = {
+    "0.19.1" = import ./overrides/torchvision/0.19.1;
     "0.20.1" = import ./overrides/torchvision/0.20.1;
   };
   toredis = {
