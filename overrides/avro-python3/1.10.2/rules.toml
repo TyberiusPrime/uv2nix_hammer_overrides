@@ -1,0 +1,1 @@
+BuildSystems = [ "isort", "pycodestyle", "setuptools",]
