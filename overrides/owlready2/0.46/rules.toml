@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "setuptools", "wheel",]
+DowngradePython = "3.10"
