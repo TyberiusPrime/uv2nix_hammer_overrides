@@ -755,6 +755,9 @@
   bolt-python = {
     "0.7.1" = import ./overrides/bolt-python/0.7.1;
   };
+  bonsai = {
+    "1.5.3" = import ./overrides/bonsai/1.5.3;
+  };
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
