@@ -5537,6 +5537,9 @@
   poezio = {
     "0.14" = import ./overrides/poezio/0.14;
   };
+  politico-civic-geography = {
+    "0.5.1" = import ./overrides/politico-civic-geography/0.5.1;
+  };
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
