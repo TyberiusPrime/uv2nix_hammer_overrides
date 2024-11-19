@@ -4156,6 +4156,9 @@
   mariadb = {
     "1.1.10" = import ./overrides/mariadb/1.1.10;
   };
+  marimo = {
+    "0.8.14" = import ./overrides/marimo/0.8.14;
+  };
   marionette-client = {
     "3.3.0" = import ./overrides/marionette-client/3.3.0;
   };
