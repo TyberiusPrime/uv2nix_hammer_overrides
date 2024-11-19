@@ -2468,6 +2468,9 @@
   flake8-mutable = {
     "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
   };
+  flake8-quotes = {
+    "1.0.0" = import ./overrides/flake8-quotes/1.0.0;
+  };
   flake8-todo = {
     "0.7" = import ./overrides/flake8-todo/0.7;
   };
@@ -4567,6 +4570,7 @@
     "1.0.9" = import ./overrides/mysql-replication/1.0.9;
   };
   mysqlclient = {
+    "1.4.6" = import ./overrides/mysqlclient/1.4.6;
     "2.2.4" = import ./overrides/mysqlclient/2.2.4;
   };
   nad-receiver = {
@@ -5452,6 +5456,9 @@
   };
   prettytable = {
     "0.7.2" = import ./overrides/prettytable/0.7.2;
+  };
+  probator = {
+    "1.10.1" = import ./overrides/probator/1.10.1;
   };
   problog = {
     "2.2.4" = import ./overrides/problog/2.2.4;

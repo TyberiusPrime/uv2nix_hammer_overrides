@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.libmysqlclient",]
+BuildSystems = [ "setuptools",]
