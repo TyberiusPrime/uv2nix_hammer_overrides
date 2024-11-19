@@ -4939,6 +4939,9 @@
   onnx-simplifier = {
     "0.4.36" = import ./overrides/onnx-simplifier/0.4.36;
   };
+  onnxsim = {
+    "0.4.36" = import ./overrides/onnxsim/0.4.36;
+  };
   onvif-zeep = {
     "0.2.12" = import ./overrides/onvif-zeep/0.2.12;
   };
