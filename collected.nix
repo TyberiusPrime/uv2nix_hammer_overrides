@@ -6142,6 +6142,9 @@
   pylibconfig2 = {
     "0.2.5" = import ./overrides/pylibconfig2/0.2.5;
   };
+  pylibfdt = {
+    "1.7.2" = import ./overrides/pylibfdt/1.7.2;
+  };
   pylibscrypt = {
     "1.8.0" = import ./overrides/pylibscrypt/1.8.0;
     "2.0.0" = import ./overrides/pylibscrypt/2.0.0;
