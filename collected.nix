@@ -8503,6 +8503,7 @@
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
   torchvision = {
+    "0.19.1" = import ./overrides/torchvision/0.19.1;
     "0.20.1" = import ./overrides/torchvision/0.20.1;
   };
   toredis = {
@@ -9347,6 +9348,9 @@
   };
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
+  };
+  zeroc-ice = {
+    "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
   };
   zerotk-zops = {
     "0.5.3" = import ./overrides/zerotk-zops/0.5.3;
