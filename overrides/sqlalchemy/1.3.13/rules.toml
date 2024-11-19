@@ -1,2 +1,1 @@
 BuildSystems = [ "setuptools",]
-DowngradeSetupTools = "<71"

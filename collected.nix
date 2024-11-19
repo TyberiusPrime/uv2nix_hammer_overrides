@@ -125,6 +125,9 @@
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
+  aiopubsub = {
+    "2.1.5" = import ./overrides/aiopubsub/2.1.5;
+  };
   aiosasl = {
     "0.5.0" = import ./overrides/aiosasl/0.5.0;
   };
@@ -156,6 +159,7 @@
     "1.1.0" = import ./overrides/aldryn-reversion/1.1.0;
   };
   alembic = {
+    "1.3.3" = import ./overrides/alembic/1.3.3;
     "1.6.2" = import ./overrides/alembic/1.6.2;
   };
   algebra = {
@@ -3027,6 +3031,7 @@
     "1.6.1" = import ./overrides/graphenelib/1.6.1;
   };
   graphql-server-core = {
+    "1.1.3" = import ./overrides/graphql-server-core/1.1.3;
     "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
   };
   greenlet = {
@@ -5784,6 +5789,9 @@
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
+  py-postgresql = {
+    "1.2.1" = import ./overrides/py-postgresql/1.2.1;
+  };
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
   };
@@ -7073,6 +7081,7 @@
     "1.4" = import ./overrides/pyxl3/1.4;
   };
   pyyaml = {
+    "5.1.2" = import ./overrides/pyyaml/5.1.2;
     "5.3" = import ./overrides/pyyaml/5.3;
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
     "6.0" = import ./overrides/pyyaml/6.0;
@@ -7501,6 +7510,15 @@
   };
   sanetime = {
     "4.2.3" = import ./overrides/sanetime/4.2.3;
+  };
+  sanic-compress = {
+    "0.1.1" = import ./overrides/sanic-compress/0.1.1;
+  };
+  sanic-graphql = {
+    "1.1.0" = import ./overrides/sanic-graphql/1.1.0;
+  };
+  sanic-jwt = {
+    "1.4.0" = import ./overrides/sanic-jwt/1.4.0;
   };
   sansio-multipart = {
     "0.3" = import ./overrides/sansio-multipart/0.3;
@@ -7987,6 +8005,9 @@
   };
   sqlalchemy-mptt = {
     "0.2.5" = import ./overrides/sqlalchemy-mptt/0.2.5;
+  };
+  sqlalchemy-utils = {
+    "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
