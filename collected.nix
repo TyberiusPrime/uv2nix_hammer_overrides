@@ -1236,6 +1236,9 @@
   covalent-aws-plugins = {
     "0.19.0" = import ./overrides/covalent-aws-plugins/0.19.0;
   };
+  coverage = {
+    "6.5.0" = import ./overrides/coverage/6.5.0;
+  };
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
@@ -2257,6 +2260,9 @@
   };
   ethereum = {
     "2.3.2" = import ./overrides/ethereum/2.3.2;
+  };
+  ethereum-input-decoder = {
+    "0.2.2" = import ./overrides/ethereum-input-decoder/0.2.2;
   };
   etl-utils = {
     "0.1.11" = import ./overrides/etl-utils/0.1.11;
@@ -4553,6 +4559,9 @@
   };
   mysqlclient = {
     "2.2.4" = import ./overrides/mysqlclient/2.2.4;
+  };
+  mythril = {
+    "0.24.8" = import ./overrides/mythril/0.24.8;
   };
   nad-receiver = {
     "0.3.0" = import ./overrides/nad-receiver/0.3.0;
