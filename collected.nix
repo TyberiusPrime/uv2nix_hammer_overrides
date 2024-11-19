@@ -922,6 +922,9 @@
   chainlib = {
     "0.5.4" = import ./overrides/chainlib/0.5.4;
   };
+  chainlib-eth = {
+    "0.6.3" = import ./overrides/chainlib-eth/0.6.3;
+  };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
@@ -5484,6 +5487,9 @@
   };
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
+  };
+  potaahto = {
+    "0.1.2" = import ./overrides/potaahto/0.1.2;
   };
   powerline-status = {
     "2.7" = import ./overrides/powerline-status/2.7;
