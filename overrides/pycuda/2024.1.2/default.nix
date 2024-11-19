@@ -25,7 +25,7 @@ else
       });
     postPatch =
       (old.postPatch or "")
-      + (''
+      + ''
         ${helpers.tomlreplace} pyproject.toml build-system.requires "[]"
-      '');
+      '';
   }
