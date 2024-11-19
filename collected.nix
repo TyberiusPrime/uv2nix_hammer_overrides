@@ -751,6 +751,9 @@
   brabbel = {
     "0.4.4" = import ./overrides/brabbel/0.4.4;
   };
+  brainflow = {
+    "5.13.3" = import ./overrides/brainflow/5.13.3;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };

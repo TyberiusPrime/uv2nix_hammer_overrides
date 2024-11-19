@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:pkgs.bluez", "~literal:!:pkgs.dbus", "~literal:!:pkgs.libusb1",]
