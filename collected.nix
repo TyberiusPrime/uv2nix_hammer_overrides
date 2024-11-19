@@ -8149,6 +8149,9 @@
   tendril-utils-www = {
     "0.2.14" = import ./overrides/tendril-utils-www/0.2.14;
   };
+  tensordict = {
+    "0.5.0" = import ./overrides/tensordict/0.5.0;
+  };
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
   };
