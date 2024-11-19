@@ -7682,6 +7682,9 @@
   sly = {
     "0.4" = import ./overrides/sly/0.4;
   };
+  slycot = {
+    "0.6.0" = import ./overrides/slycot/0.6.0;
+  };
   smac = {
     "2.2.0" = import ./overrides/smac/2.2.0;
   };
