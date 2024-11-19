@@ -1,1 +1,1 @@
-_: _old: { dontUsePyprojectBytecode = true; }
+old: { dontUsePyprojectBytecode = true; }
