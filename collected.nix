@@ -1403,6 +1403,9 @@
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
+  cupy-cuda12x = {
+    "13.3.0" = import ./overrides/cupy-cuda12x/13.3.0;
+  };
   curio = {
     "1.6" = import ./overrides/curio/1.6;
   };
