@@ -7066,6 +7066,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  readtime = {
+    "3.0.0" = import ./overrides/readtime/3.0.0;
+  };
   reana-commons = {
     "0.9.8" = import ./overrides/reana-commons/0.9.8;
   };
