@@ -1,0 +1,2 @@
+BuildSystems = [ "numpy", "setuptools",]
+DowngradeNumpy = "<1.22"

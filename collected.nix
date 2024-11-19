@@ -947,6 +947,12 @@
   chacha20poly1305 = {
     "0.0.3" = import ./overrides/chacha20poly1305/0.0.3;
   };
+  chainer = {
+    "7.8.1" = import ./overrides/chainer/7.8.1;
+  };
+  chainercv = {
+    "0.13.1" = import ./overrides/chainercv/0.13.1;
+  };
   chainlib = {
     "0.5.4" = import ./overrides/chainlib/0.5.4;
   };
