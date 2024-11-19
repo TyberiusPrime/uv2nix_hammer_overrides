@@ -1577,6 +1577,9 @@
   deeptoolsintervals = {
     "0.1.9" = import ./overrides/deeptoolsintervals/0.1.9;
   };
+  deepwave = {
+    "0.0.20" = import ./overrides/deepwave/0.0.20;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
@@ -8503,6 +8506,7 @@
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
   torchvision = {
+    "0.19.1" = import ./overrides/torchvision/0.19.1;
     "0.20.1" = import ./overrides/torchvision/0.20.1;
   };
   toredis = {
