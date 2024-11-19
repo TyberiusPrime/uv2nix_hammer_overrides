@@ -71,6 +71,9 @@
   aescipher = {
     "6.0.0" = import ./overrides/aescipher/6.0.0;
   };
+  affinegap = {
+    "1.12" = import ./overrides/affinegap/1.12;
+  };
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
@@ -1529,6 +1532,9 @@
   };
   decouple = {
     "0.0.7" = import ./overrides/decouple/0.0.7;
+  };
+  dedupe-levenshtein-search = {
+    "1.4.5" = import ./overrides/dedupe-levenshtein-search/1.4.5;
   };
   deeplake = {
     "3.9.22" = import ./overrides/deeplake/3.9.22;
