@@ -489,6 +489,9 @@
   awscli-local = {
     "0.22.0" = import ./overrides/awscli-local/0.22.0;
   };
+  awsebcli = {
+    "3.20.10" = import ./overrides/awsebcli/3.20.10;
+  };
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
   };
@@ -903,6 +906,9 @@
   };
   celery-redbeat = {
     "2.2.0" = import ./overrides/celery-redbeat/2.2.0;
+  };
+  cement = {
+    "2.8.2" = import ./overrides/cement/2.8.2;
   };
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
