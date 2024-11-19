@@ -6593,6 +6593,9 @@
   python-didl-lite = {
     "1.4.0" = import ./overrides/python-didl-lite/1.4.0;
   };
+  python-djvulibre = {
+    "0.8.8" = import ./overrides/python-djvulibre/0.8.8;
+  };
   python-doi = {
     "0.2.0" = import ./overrides/python-doi/0.2.0;
   };
