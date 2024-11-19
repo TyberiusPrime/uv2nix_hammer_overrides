@@ -5116,6 +5116,9 @@
   pairtree = {
     "0.8.1" = import ./overrides/pairtree/0.8.1;
   };
+  panda3d = {
+    "1.10.15" = import ./overrides/panda3d/1.10.15;
+  };
   pandapower = {
     "2.14.11" = import ./overrides/pandapower/2.14.11;
   };
