@@ -195,6 +195,9 @@
   amuse-framework = {
     "2024.6.0" = import ./overrides/amuse-framework/2024.6.0;
   };
+  "amuse_framework" = {
+    "2024.6.0" = import ./overrides/amuse_framework/2024.6.0;
+  };
   anchor-kr = {
     "0.1.3" = import ./overrides/anchor-kr/0.1.3;
   };
