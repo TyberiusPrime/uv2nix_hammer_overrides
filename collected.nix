@@ -2052,6 +2052,9 @@
   djangotoolbox = {
     "1.8.0" = import ./overrides/djangotoolbox/1.8.0;
   };
+  djongo = {
+    "1.3.6" = import ./overrides/djongo/1.3.6;
+  };
   djorm-ext-core = {
     "0.7" = import ./overrides/djorm-ext-core/0.7;
   };
@@ -8503,6 +8506,7 @@
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
   torchvision = {
+    "0.19.1" = import ./overrides/torchvision/0.19.1;
     "0.20.1" = import ./overrides/torchvision/0.20.1;
   };
   toredis = {
