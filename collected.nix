@@ -5046,6 +5046,9 @@
   olctools = {
     "1.3.5" = import ./overrides/olctools/1.3.5;
   };
+  olefile = {
+    "0.47" = import ./overrides/olefile/0.47;
+  };
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
@@ -7592,6 +7595,9 @@
   };
   scikit-commpy = {
     "0.8.0" = import ./overrides/scikit-commpy/0.8.0;
+  };
+  scikit-fmm = {
+    "2024.5.29" = import ./overrides/scikit-fmm/2024.5.29;
   };
   scikit-learn = {
     "0.24.2" = import ./overrides/scikit-learn/0.24.2;
