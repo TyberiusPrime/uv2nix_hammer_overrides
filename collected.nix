@@ -474,6 +474,9 @@
   awesome-slugify = {
     "1.6.5" = import ./overrides/awesome-slugify/1.6.5;
   };
+  awkward = {
+    "1.10.5" = import ./overrides/awkward/1.10.5;
+  };
   aws-cdk-constructs = {
     "2.32.0.post0" = import ./overrides/aws-cdk-constructs/2.32.0.post0;
   };
@@ -2025,6 +2028,9 @@
   };
   dkist-spectral-lines = {
     "3.0.0" = import ./overrides/dkist-spectral-lines/3.0.0;
+  };
+  dkpro-cassis = {
+    "0.9.1" = import ./overrides/dkpro-cassis/0.9.1;
   };
   dlib = {
     "19.24.6" = import ./overrides/dlib/19.24.6;
