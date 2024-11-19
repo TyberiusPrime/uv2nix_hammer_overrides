@@ -7020,6 +7020,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  qiskit-aqua = {
+    "0.9.5" = import ./overrides/qiskit-aqua/0.9.5;
+  };
   qiskit-nature = {
     "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
   };
