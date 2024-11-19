@@ -4005,6 +4005,9 @@
   libtools = {
     "0.4.2" = import ./overrides/libtools/0.4.2;
   };
+  libusb = {
+    "1.0.27.post1" = import ./overrides/libusb/1.0.27.post1;
+  };
   libusb-package = {
     "1.0.26.1" = import ./overrides/libusb-package/1.0.26.1;
   };
@@ -4711,6 +4714,9 @@
   };
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
+  };
+  nanolib = {
+    "0.4.3" = import ./overrides/nanolib/0.4.3;
   };
   nanomath = {
     "1.4.0" = import ./overrides/nanomath/1.4.0;
@@ -7996,6 +8002,7 @@
     "2.14.0" = import ./overrides/spyne/2.14.0;
   };
   sqlalchemy = {
+    "1.3.13" = import ./overrides/sqlalchemy/1.3.13;
     "1.3.20" = import ./overrides/sqlalchemy/1.3.20;
     "1.3.22" = import ./overrides/sqlalchemy/1.3.22;
     "1.4.15" = import ./overrides/sqlalchemy/1.4.15;
