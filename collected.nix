@@ -1993,6 +1993,12 @@
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
+  dkist-processing-common = {
+    "9.0.0" = import ./overrides/dkist-processing-common/9.0.0;
+  };
+  dkist-processing-core = {
+    "4.1.0" = import ./overrides/dkist-processing-core/4.1.0;
+  };
   dkist-processing-pac = {
     "3.1.0" = import ./overrides/dkist-processing-pac/3.1.0;
   };
@@ -4438,6 +4444,9 @@
   mouseinfo = {
     "0.1.3" = import ./overrides/mouseinfo/0.1.3;
   };
+  moviepy = {
+    "1.0.3" = import ./overrides/moviepy/1.0.3;
+  };
   mox = {
     "0.5.3" = import ./overrides/mox/0.5.3;
   };
@@ -4879,6 +4888,9 @@
   obd = {
     "0.7.2" = import ./overrides/obd/0.7.2;
   };
+  object-clerk = {
+    "0.1.1" = import ./overrides/object-clerk/0.1.1;
+  };
   octobot-commons = {
     "1.9.58" = import ./overrides/octobot-commons/1.9.58;
   };
@@ -5069,6 +5081,9 @@
   };
   ovirt-engine-sdk-python = {
     "4.6.1" = import ./overrides/ovirt-engine-sdk-python/4.6.1;
+  };
+  owlready2 = {
+    "0.46" = import ./overrides/owlready2/0.46;
   };
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
