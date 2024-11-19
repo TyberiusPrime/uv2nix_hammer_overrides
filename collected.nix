@@ -1277,6 +1277,7 @@
     "1.15.0" = import ./overrides/cov-core/1.15.0;
   };
   covalent = {
+    "0.232.0.post1" = import ./overrides/covalent/0.232.0.post1;
     "0.235.1rc0" = import ./overrides/covalent/0.235.1rc0;
   };
   covalent-aws-plugins = {
