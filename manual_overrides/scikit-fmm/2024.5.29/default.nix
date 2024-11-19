@@ -1,3 +1,1 @@
-{
-  nativeBuildInputs = old.nativeBuildInputs ++ [pkgs.breakpointHook];
-}
+{ nativeBuildInputs = old.nativeBuildInputs ++ [ pkgs.breakpointHook ]; }
