@@ -8314,6 +8314,9 @@
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
+  test-tube = {
+    "0.7.5" = import ./overrides/test-tube/0.7.5;
+  };
   testgear-api-client = {
     "3.2.0" = import ./overrides/testgear-api-client/3.2.0;
   };
