@@ -1,5 +1,7 @@
-{ pkgs, ... }:
-_old: {
+{final, helpers, pkgs, resolveBuildSystem, ...}
+        :
+            old:
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( {
   #from nixpkgs...
   postPatch = ''
     # Preferably upstream would not depend on pg_config because config scripts are incompatible with cross-compilation, however postgresql's pc file is lacking information.
@@ -14,3 +16,7 @@ _old: {
 
   buildInputs = [ pkgs.postgresql ] ++ pkgs.lib.optionals pkgs.stdenv.isDarwin [ pkgs.openssl ];
 }
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    

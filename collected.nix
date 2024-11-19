@@ -6257,6 +6257,9 @@
   pyleri = {
     "1.4.3" = import ./overrides/pyleri/1.4.3;
   };
+  pylibacl = {
+    "0.7.0" = import ./overrides/pylibacl/0.7.0;
+  };
   pylibconfig2 = {
     "0.2.5" = import ./overrides/pylibconfig2/0.2.5;
   };
@@ -8503,6 +8506,7 @@
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
   torchvision = {
+    "0.19.1" = import ./overrides/torchvision/0.19.1;
     "0.20.1" = import ./overrides/torchvision/0.20.1;
   };
   toredis = {
