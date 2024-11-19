@@ -1548,6 +1548,9 @@
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
+  dictobject = {
+    "1.1.1" = import ./overrides/dictobject/1.1.1;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
@@ -5471,6 +5474,9 @@
   propobject = {
     "0.1.3" = import ./overrides/propobject/0.1.3;
   };
+  propyte = {
+    "2018.3.14.1447" = import ./overrides/propyte/2018.3.14.1447;
+  };
   proto-google-cloud-datastore-v1 = {
     "0.90.4" = import ./overrides/proto-google-cloud-datastore-v1/0.90.4;
   };
@@ -6205,6 +6211,9 @@
   pypref = {
     "3.3.0" = import ./overrides/pypref/3.3.0;
   };
+  pyprel = {
+    "2018.9.14.1501" = import ./overrides/pyprel/2018.9.14.1501;
+  };
   pyprof2calltree = {
     "1.4.5" = import ./overrides/pyprof2calltree/1.4.5;
   };
@@ -6437,6 +6446,9 @@
   };
   pytest-watch = {
     "4.2.0" = import ./overrides/pytest-watch/4.2.0;
+  };
+  pytg = {
+    "0.4.10" = import ./overrides/pytg/0.4.10;
   };
   python-alipay-sdk = {
     "3.3.0" = import ./overrides/python-alipay-sdk/3.3.0;
