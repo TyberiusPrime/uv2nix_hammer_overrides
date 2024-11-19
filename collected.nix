@@ -1589,6 +1589,9 @@
   deeptoolsintervals = {
     "0.1.9" = import ./overrides/deeptoolsintervals/0.1.9;
   };
+  deepwave = {
+    "0.0.20" = import ./overrides/deepwave/0.0.20;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
