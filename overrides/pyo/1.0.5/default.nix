@@ -34,5 +34,8 @@ let
       }
     )
   ];
-in
-pkgs.lib.trivial.pipe old funcs
+}
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    
