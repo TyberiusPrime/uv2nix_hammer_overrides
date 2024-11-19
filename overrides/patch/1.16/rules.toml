@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+UnpackerNoDirectories = true
