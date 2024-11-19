@@ -4408,6 +4408,9 @@
   mmcv-full = {
     "1.7.2" = import ./overrides/mmcv-full/1.7.2;
   };
+  mmhash3 = {
+    "3.0.1" = import ./overrides/mmhash3/3.0.1;
+  };
   mo-dots = {
     "4.22.21108" = import ./overrides/mo-dots/4.22.21108;
   };
