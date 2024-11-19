@@ -6281,6 +6281,9 @@
   pyleri = {
     "1.4.3" = import ./overrides/pyleri/1.4.3;
   };
+  pylibacl = {
+    "0.7.0" = import ./overrides/pylibacl/0.7.0;
+  };
   pylibconfig2 = {
     "0.2.5" = import ./overrides/pylibconfig2/0.2.5;
   };
