@@ -1075,3 +1075,4 @@ thriftpy = "Automatic: PyThreadState’ {aka ‘struct _ts’} has no member nam
 webint = "Automic: uv lock failure, no solution when resolving dependencies"
 wpilib = "needs wpilib, not in nixpkgs"
 scikit-fmm = "something numpy? full log in generated file instead of stderr"
+functorch = "needs torch 2.0.1, cuda 11?"
