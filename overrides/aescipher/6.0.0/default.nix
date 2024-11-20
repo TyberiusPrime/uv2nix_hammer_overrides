@@ -1,5 +1,5 @@
-{ final, ... }:
-old: {
+{final, pkgs, ...}
+        : old: {
   postInstall =
     old.postInstall or ""
     + ''
@@ -7,3 +7,5 @@ old: {
       rm -rf $out/${final.python.sitePackages}/requirements.txt
     '';
 }
+
+        
