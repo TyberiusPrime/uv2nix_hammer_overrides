@@ -1,0 +1,4 @@
+BuildInputs = [ "~literal:!:pkgs.openblas", "~literal:!:pkgs.pkg-config", "~literal:!:pkgs.suitesparse",]
+BuildSystems = [ "cython_0", "meson-python", "numpy", "pybind11", "pythran", "wheel",]
+DowngradePython = "3.11"
+NativeBuildInputs = [ "~literal:!:pkgs.cmake", "~literal:!:pkgs.gfortran", "~literal:!:pkgs.meson", "~literal:!:pkgs.pkg-config",]

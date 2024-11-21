@@ -7632,6 +7632,7 @@
     "0.10.1" = import ./overrides/scikit-surgeryimage/0.10.1;
   };
   scipy = {
+    "1.10.1" = import ./overrides/scipy/1.10.1;
     "1.6.1" = import ./overrides/scipy/1.6.1;
   };
   sciunit = {
