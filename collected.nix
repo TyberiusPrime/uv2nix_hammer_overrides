@@ -541,6 +541,9 @@
   bambu-markup = {
     "3.0" = import ./overrides/bambu-markup/3.0;
   };
+  bamnostic = {
+    "1.1.10" = import ./overrides/bamnostic/1.1.10;
+  };
   bap = {
     "1.3.1" = import ./overrides/bap/1.3.1;
   };
@@ -2331,6 +2334,9 @@
   };
   epion = {
     "0.0.3" = import ./overrides/epion/0.0.3;
+  };
+  episcanpy = {
+    "0.4.0" = import ./overrides/episcanpy/0.4.0;
   };
   epydoc = {
     "3.0.1" = import ./overrides/epydoc/3.0.1;
@@ -4623,6 +4629,9 @@
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
+  mrsqm = {
+    "0.0.7" = import ./overrides/mrsqm/0.0.7;
+  };
   ms-active-directory = {
     "1.14.1" = import ./overrides/ms-active-directory/1.14.1;
   };
@@ -4966,9 +4975,11 @@
   };
   nvidia-cublas-cu12 = {
     "12.1.3.1" = import ./overrides/nvidia-cublas-cu12/12.1.3.1;
+    "12.4.5.8" = import ./overrides/nvidia-cublas-cu12/12.4.5.8;
   };
   nvidia-cuda-cupti-cu12 = {
     "12.1.105" = import ./overrides/nvidia-cuda-cupti-cu12/12.1.105;
+    "12.4.127" = import ./overrides/nvidia-cuda-cupti-cu12/12.4.127;
   };
   nvidia-cuda-nvrtc-cu12 = {
     "12.1.105" = import ./overrides/nvidia-cuda-nvrtc-cu12/12.1.105;
