@@ -3850,6 +3850,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  khmer = {
+    "2.1.1" = import ./overrides/khmer/2.1.1;
+  };
   kindi = {
     "0.0.4" = import ./overrides/kindi/0.0.4;
   };
