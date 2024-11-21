@@ -5409,6 +5409,9 @@
   petl = {
     "1.7.15" = import ./overrides/petl/1.7.15;
   };
+  petlib = {
+    "0.0.45" = import ./overrides/petlib/0.0.45;
+  };
   petname = {
     "2.6" = import ./overrides/petname/2.6;
   };
