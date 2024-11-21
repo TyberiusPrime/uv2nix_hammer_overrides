@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.gmp",]
+BuildSystems = [ "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.gmp.dev", "~literal:!:pkgs.pkg-config",]
