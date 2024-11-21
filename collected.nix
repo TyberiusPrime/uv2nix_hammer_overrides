@@ -1037,6 +1037,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  cloc = {
+    "0.2.5" = import ./overrides/cloc/0.2.5;
+  };
   cloeepy = {
     "0.0.2" = import ./overrides/cloeepy/0.0.2;
   };
@@ -5263,6 +5266,7 @@
     "1.6.5" = import ./overrides/pandarallel/1.6.5;
   };
   pandas = {
+    "1.5.1" = import ./overrides/pandas/1.5.1;
     "1.5.3" = import ./overrides/pandas/1.5.3;
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
