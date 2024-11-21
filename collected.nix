@@ -6648,6 +6648,9 @@
   pysynphot = {
     "2.0.0" = import ./overrides/pysynphot/2.0.0;
   };
+  pytabix = {
+    "0.1" = import ./overrides/pytabix/0.1;
+  };
   pytado = {
     "1.0.3" = import ./overrides/pytado/1.0.3;
   };
