@@ -1,8 +1,10 @@
-_:
-old: {
+{pkgs, ...}
+        : old: {
   postInstall =
     old.postInstall or ""
     + ''
       rm -rf $out/LICENSE
     '';
 }
+
+        
