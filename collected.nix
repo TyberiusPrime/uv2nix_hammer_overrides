@@ -3933,6 +3933,9 @@
   lava-tool = {
     "0.11.1" = import ./overrides/lava-tool/0.11.1;
   };
+  lavalink = {
+    "5.7.2" = import ./overrides/lavalink/5.7.2;
+  };
   lazy-import = {
     "0.2.2" = import ./overrides/lazy-import/0.2.2;
   };
