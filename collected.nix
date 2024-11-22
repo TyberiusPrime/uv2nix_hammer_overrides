@@ -2239,6 +2239,9 @@
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
+  easyplotly = {
+    "0.1.3" = import ./overrides/easyplotly/0.1.3;
+  };
   easyutils = {
     "0.1.7" = import ./overrides/easyutils/0.1.7;
   };
@@ -2803,6 +2806,9 @@
   future = {
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
+  };
+  fuzzingbook = {
+    "1.2.1" = import ./overrides/fuzzingbook/1.2.1;
   };
   fuzzy = {
     "1.2.2" = import ./overrides/fuzzy/1.2.2;
@@ -7757,6 +7763,9 @@
   };
   shortid = {
     "0.1.2" = import ./overrides/shortid/0.1.2;
+  };
+  showast = {
+    "0.2.4" = import ./overrides/showast/0.2.4;
   };
   showit = {
     "1.1.4" = import ./overrides/showit/1.1.4;
