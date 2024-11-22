@@ -4265,6 +4265,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  mappy = {
+    "2.28" = import ./overrides/mappy/2.28;
+  };
   mariadb = {
     "1.1.10" = import ./overrides/mariadb/1.1.10;
   };
