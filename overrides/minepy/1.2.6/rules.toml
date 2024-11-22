@@ -1,0 +1,3 @@
+BuildSystems = [ "numpy", "setuptools",]
+DowngradeNumpy = "<2"
+DowngradePython = "3.10"

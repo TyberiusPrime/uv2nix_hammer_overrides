@@ -4448,6 +4448,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  minepy = {
+    "1.2.6" = import ./overrides/minepy/1.2.6;
+  };
   minidb = {
     "2.0.8" = import ./overrides/minidb/2.0.8;
   };
