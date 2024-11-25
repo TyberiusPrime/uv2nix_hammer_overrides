@@ -5518,6 +5518,7 @@
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
+    "8.4.0" = import ./overrides/pillow/8.4.0;
   };
   pillowfight = {
     "0.4" = import ./overrides/pillowfight/0.4;
