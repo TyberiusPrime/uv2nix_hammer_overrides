@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.openssl",]
+BuildSystems = [ "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.cmake", "~literal:!:pkgs.libuuid", "~literal:!:pkgs.libxcrypt", "~literal:!:pkgs.pkg-config", "~literal:!:pkgs.zlib.dev",]

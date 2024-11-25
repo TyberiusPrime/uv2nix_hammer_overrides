@@ -1,6 +1,5 @@
-{ final, pkgs, ... }:
-old:
-let
+{final, pkgs, ...}
+        : old: let
   inherit (pkgs) lib;
   inherit (pkgs) stdenv;
   # see https://github.com/numba/llvmlite#compatibility
@@ -48,3 +47,5 @@ lib.optionalAttrs (!(old.src.isWheel or false)) {
     inherit llvm;
   };
 }
+
+        
