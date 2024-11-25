@@ -2921,6 +2921,9 @@
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
+  getkey = {
+    "0.6.5" = import ./overrides/getkey/0.6.5;
+  };
   gexml = {
     "1.2.0" = import ./overrides/gexml/1.2.0;
   };
