@@ -4854,6 +4854,9 @@
   netstruct = {
     "1.1.2" = import ./overrides/netstruct/1.1.2;
   };
+  netw0rk = {
+    "1.11.3" = import ./overrides/netw0rk/1.11.3;
+  };
   networktools = {
     "1.6.0" = import ./overrides/networktools/1.6.0;
   };
