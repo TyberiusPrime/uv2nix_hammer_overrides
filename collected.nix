@@ -2263,6 +2263,9 @@
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
+  editorium = {
+    "0.0.0.30" = import ./overrides/editorium/0.0.0.30;
+  };
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
@@ -3495,6 +3498,9 @@
   };
   interlap = {
     "0.2.7" = import ./overrides/interlap/0.2.7;
+  };
+  intermake = {
+    "1.0.0.78" = import ./overrides/intermake/1.0.0.78;
   };
   interruptingcow = {
     "0.8" = import ./overrides/interruptingcow/0.8;
@@ -8229,6 +8235,9 @@
   };
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
+  };
+  sxsxml = {
+    "0.0.0.5" = import ./overrides/sxsxml/0.0.0.5;
   };
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
