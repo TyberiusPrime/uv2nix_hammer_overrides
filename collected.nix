@@ -8533,6 +8533,9 @@
   torchnet = {
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
+  torchrl = {
+    "0.5.0" = import ./overrides/torchrl/0.5.0;
+  };
   torchtext = {
     "0.18.0" = import ./overrides/torchtext/0.18.0;
   };
