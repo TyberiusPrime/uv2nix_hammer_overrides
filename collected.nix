@@ -8559,6 +8559,9 @@
   tkinterhtml = {
     "0.7" = import ./overrides/tkinterhtml/0.7;
   };
+  tkinterweb = {
+    "3.24.7" = import ./overrides/tkinterweb/3.24.7;
+  };
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
   };
