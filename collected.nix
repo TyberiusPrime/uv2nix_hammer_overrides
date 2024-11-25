@@ -9353,6 +9353,9 @@
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
   };
+  yoctopuce = {
+    "2.0.62554" = import ./overrides/yoctopuce/2.0.62554;
+  };
   yoda = {
     "0.1.5" = import ./overrides/yoda/0.1.5;
   };
