@@ -5907,6 +5907,9 @@
   pybars3 = {
     "0.9.7" = import ./overrides/pybars3/0.9.7;
   };
+  pybedtools = {
+    "0.10.0" = import ./overrides/pybedtools/0.10.0;
+  };
   pybitcoin = {
     "0.9.9" = import ./overrides/pybitcoin/0.9.9;
   };
