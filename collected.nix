@@ -4463,6 +4463,9 @@
   mir-eval = {
     "0.7" = import ./overrides/mir-eval/0.7;
   };
+  mirte = {
+    "0.1.8" = import ./overrides/mirte/0.1.8;
+  };
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
   };
@@ -7560,6 +7563,9 @@
   };
   sansio-multipart = {
     "0.3" = import ./overrides/sansio-multipart/0.3;
+  };
+  sarah = {
+    "0.1.4" = import ./overrides/sarah/0.1.4;
   };
   sas7bdat = {
     "2.2.3" = import ./overrides/sas7bdat/2.2.3;
