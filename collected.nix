@@ -4766,6 +4766,9 @@
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
   };
+  ncephes = {
+    "1.1.0" = import ./overrides/ncephes/1.1.0;
+  };
   ndms2-client = {
     "0.1.3" = import ./overrides/ndms2-client/0.1.3;
   };
