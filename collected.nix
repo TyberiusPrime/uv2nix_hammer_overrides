@@ -1782,6 +1782,9 @@
   django-db-signals = {
     "0.1.1" = import ./overrides/django-db-signals/0.1.1;
   };
+  django-debug-panel = {
+    "0.8.3" = import ./overrides/django-debug-panel/0.8.3;
+  };
   django-deprecate-fields = {
     "0.1.2" = import ./overrides/django-deprecate-fields/0.1.2;
   };
