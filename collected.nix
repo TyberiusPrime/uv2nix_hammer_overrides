@@ -5015,6 +5015,9 @@
   nutil = {
     "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
   };
+  nvidia-cublas-cu12 = {
+    "12.4.5.8" = import ./overrides/nvidia-cublas-cu12/12.4.5.8;
+  };
   nvidia-ml-py3 = {
     "7.352.0" = import ./overrides/nvidia-ml-py3/7.352.0;
   };
@@ -9124,6 +9127,9 @@
   vortexpy = {
     "3.0.0" = import ./overrides/vortexpy/3.0.0;
     "3.1.0" = import ./overrides/vortexpy/3.1.0;
+  };
+  vowpalwabbit = {
+    "9.10.0" = import ./overrides/vowpalwabbit/9.10.0;
   };
   voxcell = {
     "3.1.9" = import ./overrides/voxcell/3.1.9;
