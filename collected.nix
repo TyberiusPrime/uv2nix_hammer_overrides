@@ -2936,6 +2936,12 @@
   girder-client = {
     "3.2.3" = import ./overrides/girder-client/3.2.3;
   };
+  girder-worker = {
+    "0.10.3" = import ./overrides/girder-worker/0.10.3;
+  };
+  girder-worker-utils = {
+    "0.9.1" = import ./overrides/girder-worker-utils/0.9.1;
+  };
   gisdata = {
     "0.5.4" = import ./overrides/gisdata/0.5.4;
   };
