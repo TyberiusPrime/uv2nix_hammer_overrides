@@ -3430,6 +3430,9 @@
   impacket = {
     "0.11.0" = import ./overrides/impacket/0.11.0;
   };
+  implicit = {
+    "0.7.2" = import ./overrides/implicit/0.7.2;
+  };
   importlib = {
     "1.0.4" = import ./overrides/importlib/1.0.4;
   };
