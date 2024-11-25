@@ -5087,6 +5087,9 @@
   olctools = {
     "1.3.5" = import ./overrides/olctools/1.3.5;
   };
+  olefile = {
+    "0.47" = import ./overrides/olefile/0.47;
+  };
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
@@ -9086,6 +9089,9 @@
   };
   vlsirtools = {
     "6.0.0" = import ./overrides/vlsirtools/6.0.0;
+  };
+  vmprof = {
+    "0.4.17" = import ./overrides/vmprof/0.4.17;
   };
   vmtools = {
     "0.45" = import ./overrides/vmtools/0.45;
