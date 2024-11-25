@@ -5310,6 +5310,12 @@
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
+  paperwork-backend = {
+    "2.2.5" = import ./overrides/paperwork-backend/2.2.5;
+  };
+  paperwork-shell = {
+    "2.2.5" = import ./overrides/paperwork-shell/2.2.5;
+  };
   papis-python-rofi = {
     "1.0.3" = import ./overrides/papis-python-rofi/1.0.3;
   };
@@ -6470,6 +6476,9 @@
   };
   pypika = {
     "0.48.9" = import ./overrides/pypika/0.48.9;
+  };
+  pypillowfight = {
+    "0.3.0" = import ./overrides/pypillowfight/0.3.0;
   };
   pypng = {
     "0.0.19" = import ./overrides/pypng/0.0.19;
