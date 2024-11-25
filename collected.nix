@@ -3228,6 +3228,9 @@
   hgapi = {
     "1.7.4" = import ./overrides/hgapi/1.7.4;
   };
+  hic-straw = {
+    "1.3.1" = import ./overrides/hic-straw/1.3.1;
+  };
   hierplace = {
     "1.1.0" = import ./overrides/hierplace/1.1.0;
   };
