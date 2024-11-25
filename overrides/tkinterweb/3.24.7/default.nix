@@ -1,3 +1,1 @@
-{helpers, pkgs, ...}
-        : old: {buildInputs = old.buildInputs or [] ++ [pkgs.xorg.libX11];}
-        
+{ pkgs, ... }: old: { buildInputs = old.buildInputs or [ ] ++ [ pkgs.xorg.libX11 ]; }
