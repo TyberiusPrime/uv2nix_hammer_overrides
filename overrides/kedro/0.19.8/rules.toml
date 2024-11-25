@@ -1,2 +1,0 @@
-DowngradePython = "3.10"
-ManualOverrides = "__file__:kedro/0.19.8/default.nix"
