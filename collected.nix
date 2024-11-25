@@ -5707,6 +5707,9 @@
   prettytable = {
     "0.7.2" = import ./overrides/prettytable/0.7.2;
   };
+  primesieve = {
+    "2.3.3" = import ./overrides/primesieve/2.3.3;
+  };
   probator = {
     "1.10.1" = import ./overrides/probator/1.10.1;
   };
