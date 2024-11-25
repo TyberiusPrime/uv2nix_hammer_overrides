@@ -9373,6 +9373,7 @@
   };
   wxpython = {
     "4.2.1" = import ./overrides/wxpython/4.2.1;
+    "4.2.2" = import ./overrides/wxpython/4.2.2;
   };
   x256 = {
     "0.0.3" = import ./overrides/x256/0.0.3;
