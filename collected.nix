@@ -261,6 +261,12 @@
   aorta = {
     "2.20.0" = import ./overrides/aorta/2.20.0;
   };
+  apache-beam = {
+    "2.48.0" = import ./overrides/apache-beam/2.48.0;
+  };
+  apache-flink = {
+    "1.20.0" = import ./overrides/apache-flink/1.20.0;
+  };
   apache-flink-libraries = {
     "1.20.0" = import ./overrides/apache-flink-libraries/1.20.0;
   };
@@ -5381,6 +5387,9 @@
   pefile = {
     "2019.4.18" = import ./overrides/pefile/2019.4.18;
   };
+  pemja = {
+    "0.4.1" = import ./overrides/pemja/0.4.1;
+  };
   pendulum = {
     "1.5.1" = import ./overrides/pendulum/1.5.1;
     "2.1.2" = import ./overrides/pendulum/2.1.2;
@@ -5882,6 +5891,9 @@
   };
   pyarlo = {
     "0.2.4" = import ./overrides/pyarlo/0.2.4;
+  };
+  pyarrow = {
+    "11.0.0" = import ./overrides/pyarrow/11.0.0;
   };
   pyasn = {
     "1.6.2" = import ./overrides/pyasn/1.6.2;
