@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "numpy", "setuptools", "wheel",]
+NativeBuildInputs = [ "~literal:!:pkgs.fftw.dev",]
