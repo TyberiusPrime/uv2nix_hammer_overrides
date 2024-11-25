@@ -2970,6 +2970,9 @@
   gmail = {
     "0.6.3" = import ./overrides/gmail/0.6.3;
   };
+  gmpy = {
+    "1.17" = import ./overrides/gmpy/1.17;
+  };
   gmsh = {
     "4.13.1" = import ./overrides/gmsh/4.13.1;
   };
