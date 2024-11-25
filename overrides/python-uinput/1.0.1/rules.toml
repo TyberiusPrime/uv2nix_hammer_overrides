@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.udev",]
+BuildSystems = [ "setuptools", "wheel",]

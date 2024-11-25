@@ -7008,6 +7008,9 @@
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
+  python-uinput = {
+    "1.0.1" = import ./overrides/python-uinput/1.0.1;
+  };
   python-unshare = {
     "0.2" = import ./overrides/python-unshare/0.2;
   };
