@@ -4969,9 +4969,11 @@
   };
   nvidia-cublas-cu12 = {
     "12.1.3.1" = import ./overrides/nvidia-cublas-cu12/12.1.3.1;
+    "12.4.5.8" = import ./overrides/nvidia-cublas-cu12/12.4.5.8;
   };
   nvidia-cuda-cupti-cu12 = {
     "12.1.105" = import ./overrides/nvidia-cuda-cupti-cu12/12.1.105;
+    "12.4.127" = import ./overrides/nvidia-cuda-cupti-cu12/12.4.127;
   };
   nvidia-cuda-nvrtc-cu12 = {
     "12.1.105" = import ./overrides/nvidia-cuda-nvrtc-cu12/12.1.105;
