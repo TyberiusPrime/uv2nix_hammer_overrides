@@ -3544,6 +3544,9 @@
   iotlabcli = {
     "3.3.0" = import ./overrides/iotlabcli/3.3.0;
   };
+  iow = {
+    "1.0.7" = import ./overrides/iow/1.0.7;
+  };
   iowait = {
     "0.2" = import ./overrides/iowait/0.2;
   };
