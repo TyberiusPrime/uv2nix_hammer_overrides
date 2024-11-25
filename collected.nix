@@ -9034,6 +9034,9 @@
   validr = {
     "1.2.2" = import ./overrides/validr/1.2.2;
   };
+  vamp = {
+    "1.1.0" = import ./overrides/vamp/1.1.0;
+  };
   vapoursynth = {
     "70" = import ./overrides/vapoursynth/70;
   };
