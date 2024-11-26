@@ -9408,6 +9408,9 @@
   xobjects = {
     "0.4.4" = import ./overrides/xobjects/0.4.4;
   };
+  xrootd = {
+    "5.7.1" = import ./overrides/xrootd/5.7.1;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
