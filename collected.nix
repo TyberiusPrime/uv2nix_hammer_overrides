@@ -499,6 +499,9 @@
   aws-cdk-constructs = {
     "2.32.0.post0" = import ./overrides/aws-cdk-constructs/2.32.0.post0;
   };
+  aws-psycopg2 = {
+    "1.3.8" = import ./overrides/aws-psycopg2/1.3.8;
+  };
   awscli-cwlogs = {
     "1.4.6" = import ./overrides/awscli-cwlogs/1.4.6;
   };
