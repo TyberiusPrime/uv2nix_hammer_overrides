@@ -5015,6 +5015,9 @@
   nutil = {
     "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
   };
+  nvidia-cublas-cu12 = {
+    "12.4.5.8" = import ./overrides/nvidia-cublas-cu12/12.4.5.8;
+  };
   nvidia-ml-py3 = {
     "7.352.0" = import ./overrides/nvidia-ml-py3/7.352.0;
   };
@@ -6272,6 +6275,9 @@
   };
   pykeops = {
     "2.2.3" = import ./overrides/pykeops/2.2.3;
+  };
+  pykerberos = {
+    "1.2.4" = import ./overrides/pykerberos/1.2.4;
   };
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
