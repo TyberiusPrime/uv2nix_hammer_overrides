@@ -1373,6 +1373,9 @@
   cryio = {
     "2018.5.30" = import ./overrides/cryio/2018.5.30;
   };
+  cryptacular = {
+    "1.6.2" = import ./overrides/cryptacular/1.6.2;
+  };
   cryptocompare = {
     "0.7.6" = import ./overrides/cryptocompare/0.7.6;
   };
