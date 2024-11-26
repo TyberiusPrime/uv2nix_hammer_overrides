@@ -93,6 +93,7 @@
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
   aiohttp = {
+    "3.8.3" = import ./overrides/aiohttp/3.8.3;
     "3.8.6" = import ./overrides/aiohttp/3.8.6;
   };
   aiohttp-apispec = {
@@ -2764,6 +2765,9 @@
   frozendict = {
     "1.2" = import ./overrides/frozendict/1.2;
   };
+  frozenlist = {
+    "1.3.1" = import ./overrides/frozenlist/1.3.1;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
@@ -4214,6 +4218,9 @@
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
+  lyrebird = {
+    "3.0.5" = import ./overrides/lyrebird/3.0.5;
+  };
   lyricwikia = {
     "0.1.11" = import ./overrides/lyricwikia/0.1.11;
   };
@@ -5483,6 +5490,7 @@
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
+    "9.4.0" = import ./overrides/pillow/9.4.0;
   };
   pillowfight = {
     "0.4" = import ./overrides/pillowfight/0.4;
@@ -5591,6 +5599,9 @@
   };
   polygon3 = {
     "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
+  };
+  portpicker = {
+    "1.3.1" = import ./overrides/portpicker/1.3.1;
   };
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
@@ -7149,6 +7160,9 @@
   };
   qprompt = {
     "0.16.3" = import ./overrides/qprompt/0.16.3;
+  };
+  qrcode = {
+    "7.3.1" = import ./overrides/qrcode/7.3.1;
   };
   qrcode-terminal = {
     "0.8" = import ./overrides/qrcode-terminal/0.8;
@@ -9340,6 +9354,9 @@
   };
   yapsy = {
     "1.12.2" = import ./overrides/yapsy/1.12.2;
+  };
+  yarl = {
+    "1.8.1" = import ./overrides/yarl/1.8.1;
   };
   yasi = {
     "2.1.2" = import ./overrides/yasi/2.1.2;
