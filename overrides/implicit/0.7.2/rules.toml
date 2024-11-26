@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:pkgs.cudaPackages.libcurand", "~literal:!:pkgs.cudaPackages_11.cuda_cudart", "~literal:!:pkgs.cudaPackages_11.libcublas",]
