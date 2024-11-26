@@ -1,0 +1,2 @@
+BuildSystems = [ "cython_0", "numpy", "setuptools", "wheel",]
+DowngradeNumpy = "<1.22"
