@@ -1,5 +1,6 @@
-{final, helpers, pkgs, ...}
-        : old: if (helpers.isWheel old) then
+{ final, helpers, ... }:
+old:
+if (helpers.isWheel old) then
   {
     postInstall = ''
       rm $out/${final.python.sitePackages}/olefile/olefile2.py
@@ -7,5 +8,3 @@
   }
 else
   { }
-
-        

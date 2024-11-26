@@ -1,3 +1,1 @@
-{helpers, pkgs, ...}
-        : old: {buildInputs = old.buildInputs or [] ++ [pkgs.zlib];}
-        
+{ pkgs, ... }: old: { buildInputs = old.buildInputs or [ ] ++ [ pkgs.zlib ]; }

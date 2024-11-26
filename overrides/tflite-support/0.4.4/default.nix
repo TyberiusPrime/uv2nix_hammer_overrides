@@ -1,3 +1,1 @@
-{helpers, pkgs, ...}
-        : old: {buildInputs = old.buildInputs or [] ++ [pkgs.libusb1];}
-        
+{ pkgs, ... }: old: { buildInputs = old.buildInputs or [ ] ++ [ pkgs.libusb1 ]; }
