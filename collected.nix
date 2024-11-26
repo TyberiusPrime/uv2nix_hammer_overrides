@@ -5013,6 +5013,9 @@
   npm = {
     "0.1.1" = import ./overrides/npm/0.1.1;
   };
+  nptdms = {
+    "1.9.0" = import ./overrides/nptdms/1.9.0;
+  };
   npyscreen = {
     "4.10.5" = import ./overrides/npyscreen/4.10.5;
   };
