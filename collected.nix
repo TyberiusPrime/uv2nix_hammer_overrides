@@ -8447,6 +8447,9 @@
   tflearn = {
     "0.5.0" = import ./overrides/tflearn/0.5.0;
   };
+  tflite-support = {
+    "0.4.4" = import ./overrides/tflite-support/0.4.4;
+  };
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
   };
