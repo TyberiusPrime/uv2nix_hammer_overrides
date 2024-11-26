@@ -2551,6 +2551,9 @@
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
   };
+  fil3s = {
+    "2.15.9" = import ./overrides/fil3s/2.15.9;
+  };
   filebytes = {
     "0.10.2" = import ./overrides/filebytes/0.10.2;
   };
