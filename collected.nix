@@ -6303,6 +6303,9 @@
   pykeops = {
     "2.2.3" = import ./overrides/pykeops/2.2.3;
   };
+  pykerberos = {
+    "1.2.4" = import ./overrides/pykerberos/1.2.4;
+  };
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
   };
