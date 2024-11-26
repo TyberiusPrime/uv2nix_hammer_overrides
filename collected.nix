@@ -505,6 +505,9 @@
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
   };
+  azure-cognitiveservices-speech = {
+    "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
+  };
   backends = {
     "1.6.6" = import ./overrides/backends/1.6.6;
   };
@@ -5014,6 +5017,9 @@
   };
   nutil = {
     "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
+  };
+  nvidia-cublas-cu12 = {
+    "12.4.5.8" = import ./overrides/nvidia-cublas-cu12/12.4.5.8;
   };
   nvidia-ml-py3 = {
     "7.352.0" = import ./overrides/nvidia-ml-py3/7.352.0;

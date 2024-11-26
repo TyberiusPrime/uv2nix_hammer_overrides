@@ -1,0 +1,1 @@
+BuildInputs = [ "~literal:!:pkgs.alsa-lib", "~literal:!:pkgs.gst_all_1.gstreamer",]
