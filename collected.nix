@@ -1524,6 +1524,9 @@
   daff = {
     "1.3.46" = import ./overrides/daff/1.3.46;
   };
+  dark-matter = {
+    "4.0.89" = import ./overrides/dark-matter/4.0.89;
+  };
   dartsclone = {
     "0.10.2" = import ./overrides/dartsclone/0.10.2;
   };
@@ -2888,6 +2891,9 @@
   };
   gazpacho = {
     "1.1" = import ./overrides/gazpacho/1.1;
+  };
+  gb2seq = {
+    "0.2.23" = import ./overrides/gb2seq/0.2.23;
   };
   gbdxtools = {
     "0.0.0.1" = import ./overrides/gbdxtools/0.0.0.1;
