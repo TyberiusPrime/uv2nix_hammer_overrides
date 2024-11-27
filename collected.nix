@@ -3524,6 +3524,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  infrae-wsgi = {
+    "2.2.1" = import ./overrides/infrae-wsgi/2.2.1;
+  };
   ingots = {
     "0.2.1" = import ./overrides/ingots/0.2.1;
   };
@@ -4430,6 +4433,9 @@
   };
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
+  };
+  megrok-pagetemplate = {
+    "0.7" = import ./overrides/megrok-pagetemplate/0.7;
   };
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
@@ -5801,6 +5807,9 @@
   };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
+  };
+  products-silvametadata = {
+    "3.0.1" = import ./overrides/products-silvametadata/3.0.1;
   };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
@@ -7952,6 +7961,21 @@
   silpa-common = {
     "0.3" = import ./overrides/silpa-common/0.3;
   };
+  silva-core-conf = {
+    "3.0.3" = import ./overrides/silva-core-conf/3.0.3;
+  };
+  silva-core-interfaces = {
+    "3.0.4" = import ./overrides/silva-core-interfaces/3.0.4;
+  };
+  silva-core-services = {
+    "3.0.1" = import ./overrides/silva-core-services/3.0.1;
+  };
+  silva-core-views = {
+    "3.0.2" = import ./overrides/silva-core-views/3.0.2;
+  };
+  silva-translations = {
+    "3.0.2" = import ./overrides/silva-translations/3.0.2;
+  };
   similaritymeasures = {
     "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
   };
@@ -9585,6 +9609,9 @@
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
+  zeam-form-base = {
+    "1.4.1" = import ./overrides/zeam-form-base/1.4.1;
+  };
   zeroc-ice = {
     "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
   };
@@ -9608,6 +9635,9 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
