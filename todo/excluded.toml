@@ -1132,3 +1132,4 @@ chromedriver-binary-auto = "RuntimeError: Failed to find release information for
 nb-black = "'install_requires' must be a string or iterable of strings containing valid project/version requirement specifiers;"
 pysurfer = "Fatal Python error: Segmentation fault in mayavi"
 tendenci = "includes both mimemparse and python-mimepars, with conflict in site-packages/mimeparse.py"
+scikit-learn-intelex = "needs daal, which needs libsvml, libirng, libimf libsyscl"

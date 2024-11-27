@@ -1,5 +1,6 @@
-{pkgs, ...}
-        : old: let
+{ pkgs, ... }:
+old:
+let
   mummer = pkgs.stdenv.mkDerivation {
     name = "mummer";
     version = "4.0.0";
@@ -22,5 +23,3 @@ in
 {
   buildInputs = old.buildInputs or [ ] ++ [ mummer ];
 }
-
-        
