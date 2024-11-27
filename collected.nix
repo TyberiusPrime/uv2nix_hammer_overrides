@@ -2600,6 +2600,9 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  fitsio = {
+    "1.2.4" = import ./overrides/fitsio/1.2.4;
+  };
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };

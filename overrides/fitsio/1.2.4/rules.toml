@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.cfitsio", "~literal:!:pkgs.curl", "~literal:!:pkgs.zlib.out",]
+BuildSystems = [ "numpy", "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.bzip2.dev", "~literal:!:pkgs.pkg-config",]
