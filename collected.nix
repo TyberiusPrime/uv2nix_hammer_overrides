@@ -9293,6 +9293,15 @@
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
+  wayround-org-http = {
+    "0.7" = import ./overrides/wayround-org-http/0.7;
+  };
+  wayround-org-mail = {
+    "0.0.1" = import ./overrides/wayround-org-mail/0.0.1;
+  };
+  wayround-org-utils = {
+    "1.15" = import ./overrides/wayround-org-utils/1.15;
+  };
   wbml = {
     "0.4.1" = import ./overrides/wbml/0.4.1;
   };
