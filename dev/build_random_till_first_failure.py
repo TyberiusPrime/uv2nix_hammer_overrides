@@ -57,7 +57,8 @@ if keep_going:
 
 total = len(all_pkgs)
 accounted = len(all_pkgs) - len(todo)
-print("accounted", accounted, "out of", total)
+skipped = sum([ 1 if chosen not in todo or normalize_python_package_name(chosen) not in todo else 0 for chosen in order])
+print("accounted", accounted, + skipped "out of", total, ('skipped', skipped))
 
 
 count = 0
