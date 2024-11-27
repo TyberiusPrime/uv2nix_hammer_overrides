@@ -2174,6 +2174,9 @@
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
   };
+  doufo = {
+    "0.0.4" = import ./overrides/doufo/0.0.4;
+  };
   dpcontracts = {
     "0.6.0" = import ./overrides/dpcontracts/0.6.0;
   };
@@ -3673,6 +3676,9 @@
   };
   jenkins = {
     "1.0.2" = import ./overrides/jenkins/1.0.2;
+  };
+  jfs = {
+    "0.1.3" = import ./overrides/jfs/0.1.3;
   };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
