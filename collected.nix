@@ -3277,6 +3277,9 @@
   hkdf = {
     "0.0.3" = import ./overrides/hkdf/0.0.3;
   };
+  hmmlearn = {
+    "0.2.5" = import ./overrides/hmmlearn/0.2.5;
+  };
   hnswlib = {
     "0.8.0" = import ./overrides/hnswlib/0.8.0;
   };
@@ -4404,6 +4407,9 @@
   matlab = {
     "0.1" = import ./overrides/matlab/0.1;
   };
+  matplotlib = {
+    "3.4.2" = import ./overrides/matplotlib/3.4.2;
+  };
   matplotlib-venn = {
     "1.1.1" = import ./overrides/matplotlib-venn/1.1.1;
   };
@@ -5061,6 +5067,7 @@
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
+    "1.20.3" = import ./overrides/numpy/1.20.3;
     "1.21.6" = import ./overrides/numpy/1.21.6;
     "1.23.5" = import ./overrides/numpy/1.23.5;
     "1.24.3" = import ./overrides/numpy/1.24.3;
@@ -6032,6 +6039,9 @@
   };
   pyaudio = {
     "0.2.14" = import ./overrides/pyaudio/0.2.14;
+  };
+  pyaudioanalysis = {
+    "0.3.14" = import ./overrides/pyaudioanalysis/0.3.14;
   };
   pyauto-core = {
     "0.2.0" = import ./overrides/pyauto-core/0.2.0;
