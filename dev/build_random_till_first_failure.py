@@ -49,6 +49,8 @@ random.shuffle(order)
 
 keep_going = "--keep-going" in sys.argv
 todo = set([normalize_python_package_name(x) for x in all_pkgs])
+total_todo = len(todo)
+assert len(todo) <= len(all_pkgs)
 todo = todo.difference(done)
 todo = todo.difference(imported_done)
 todo = todo.difference(set(excluded_pkgs.keys()))
@@ -57,13 +59,15 @@ if keep_going:
 
 total = len(all_pkgs)
 accounted = len(all_pkgs) - len(todo)
-skipped = sum([ 1 if chosen not in todo or normalize_python_package_name(chosen) not in todo else 0 for chosen in order])
-print("accounted", accounted, + skipped "out of", total, ('skipped', skipped))
+skipped = 0
+print("accounted", accounted, "out of", total, ('skipped', skipped))
+
+print ('bob-core' in all_pkgs, 'bob.core' in all_pkgs, normalize_python_package_name('bob.core'), 'bob-core' in todo)
 
 
 count = 0
 for chosen in order:
-    if chosen not in todo or normalize_python_package_name(chosen) not in todo:
+    if chosen not in todo and normalize_python_package_name(chosen) not in todo:
         continue
     chosen = normalize_python_package_name(chosen)
     count += 1
