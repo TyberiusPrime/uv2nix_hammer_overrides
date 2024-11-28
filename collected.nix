@@ -7469,6 +7469,9 @@
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
   };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
@@ -9307,6 +9310,9 @@
   };
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
+  };
+  webcouturier-dropdownmenu = {
+    "3.0.2" = import ./overrides/webcouturier-dropdownmenu/3.0.2;
   };
   webdavclient3 = {
     "3.14.6" = import ./overrides/webdavclient3/3.14.6;
