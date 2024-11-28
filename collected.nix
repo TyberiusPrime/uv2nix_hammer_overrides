@@ -8582,6 +8582,15 @@
   thunder-python = {
     "1.4.2" = import ./overrides/thunder-python/1.4.2;
   };
+  tiddlyweb = {
+    "2.4.2" = import ./overrides/tiddlyweb/2.4.2;
+  };
+  tiddlywebplugins-twimport = {
+    "1.1.1" = import ./overrides/tiddlywebplugins-twimport/1.1.1;
+  };
+  tiddlywebplugins-utils = {
+    "1.10" = import ./overrides/tiddlywebplugins-utils/1.10;
+  };
   tiktoken = {
     "0.4.0" = import ./overrides/tiktoken/0.4.0;
   };
