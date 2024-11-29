@@ -9202,6 +9202,12 @@
   virtualchain = {
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
+  visaplan-plone-tools = {
+    "1.5.3" = import ./overrides/visaplan-plone-tools/1.5.3;
+  };
+  visaplan-tools = {
+    "1.3.13" = import ./overrides/visaplan-tools/1.3.13;
+  };
   visdcc = {
     "0.0.50" = import ./overrides/visdcc/0.0.50;
   };
