@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.libstemmer",]
+BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:pystemmer/2.2.0.1/default.nix"
