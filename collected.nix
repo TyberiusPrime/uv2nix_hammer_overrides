@@ -8240,6 +8240,7 @@
     "3.0.0" = import ./overrides/srvlookup/3.0.0;
   };
   sseclient = {
+    "0.0.11" = import ./overrides/sseclient/0.0.11;
     "0.0.27" = import ./overrides/sseclient/0.0.27;
   };
   ssh = {
@@ -9102,6 +9103,9 @@
   };
   ushlex = {
     "0.99.1" = import ./overrides/ushlex/0.99.1;
+  };
+  utc = {
+    "0.0.3" = import ./overrides/utc/0.0.3;
   };
   utilitybelt = {
     "0.2.6" = import ./overrides/utilitybelt/0.2.6;
