@@ -4635,6 +4635,12 @@
   modulemd = {
     "1.3.3" = import ./overrides/modulemd/1.3.3;
   };
+  moksha-common = {
+    "1.2.5" = import ./overrides/moksha-common/1.2.5;
+  };
+  moksha-hub = {
+    "1.5.17" = import ./overrides/moksha-hub/1.5.17;
+  };
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
@@ -8936,6 +8942,9 @@
   };
   txwebsocket = {
     "1.1.1" = import ./overrides/txwebsocket/1.1.1;
+  };
+  txws = {
+    "0.9.1" = import ./overrides/txws/0.9.1;
   };
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
