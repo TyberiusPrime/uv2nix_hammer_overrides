@@ -6036,6 +6036,9 @@
   pyauto-core = {
     "0.2.0" = import ./overrides/pyauto-core/0.2.0;
   };
+  pyauto-local = {
+    "0.1.0" = import ./overrides/pyauto-local/0.1.0;
+  };
   pyauto-util = {
     "0.2.1" = import ./overrides/pyauto-util/0.2.1;
   };
