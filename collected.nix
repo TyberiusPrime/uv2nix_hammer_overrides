@@ -1404,6 +1404,9 @@
   cs-ansi-colour = {
     "20220227" = import ./overrides/cs-ansi-colour/20220227;
   };
+  cs-filestate = {
+    "20181107" = import ./overrides/cs-filestate/20181107;
+  };
   cs-sh = {
     "20210316" = import ./overrides/cs-sh/20210316;
   };
