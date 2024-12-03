@@ -4317,6 +4317,9 @@
   m-kafka-sdk-v2 = {
     "1.0.4" = import ./overrides/m-kafka-sdk-v2/1.0.4;
   };
+  m2crypto = {
+    "0.42.0" = import ./overrides/m2crypto/0.42.0;
+  };
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
@@ -6785,6 +6788,9 @@
   };
   pystemd = {
     "0.13.2" = import ./overrides/pystemd/0.13.2;
+  };
+  pystemmer = {
+    "2.2.0.1" = import ./overrides/pystemmer/2.2.0.1;
   };
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
