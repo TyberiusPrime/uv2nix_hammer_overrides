@@ -3734,6 +3734,12 @@
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
+  js-jquery-timepicker-addon = {
+    "1.5.3" = import ./overrides/js-jquery-timepicker-addon/1.5.3;
+  };
+  js-jqueryui = {
+    "1.10.3" = import ./overrides/js-jqueryui/1.10.3;
+  };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
   };
