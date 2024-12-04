@@ -9579,6 +9579,12 @@
   zbxsend = {
     "0.1.6" = import ./overrides/zbxsend/0.1.6;
   };
+  zc-monitor = {
+    "0.4.0.post1" = import ./overrides/zc-monitor/0.4.0.post1;
+  };
+  zc-ngi = {
+    "2.1.0" = import ./overrides/zc-ngi/2.1.0;
+  };
   zcs = {
     "0.1.25" = import ./overrides/zcs/0.1.25;
   };
