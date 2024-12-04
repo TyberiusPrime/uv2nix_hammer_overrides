@@ -2828,6 +2828,12 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  ftw-colorbox = {
+    "1.6.4" = import ./overrides/ftw-colorbox/1.6.4;
+  };
+  ftw-upgrade = {
+    "3.3.1" = import ./overrides/ftw-upgrade/3.3.1;
+  };
   funbelts = {
     "0.1.86" = import ./overrides/funbelts/0.1.86;
   };
@@ -7469,6 +7475,9 @@
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
   };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
@@ -9608,6 +9617,9 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
