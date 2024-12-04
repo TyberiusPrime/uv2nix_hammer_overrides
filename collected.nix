@@ -5802,6 +5802,9 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  products-templatefields = {
+    "1.2.5" = import ./overrides/products-templatefields/1.2.5;
+  };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
