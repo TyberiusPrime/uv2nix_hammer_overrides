@@ -4942,6 +4942,18 @@
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
+  ng-content-annotation = {
+    "0.1.0" = import ./overrides/ng-content-annotation/0.1.0;
+  };
+  ng-lib = {
+    "0.0.6" = import ./overrides/ng-lib/0.0.6;
+  };
+  ng-schema = {
+    "0.0.5" = import ./overrides/ng-schema/0.0.5;
+  };
+  ng-utility = {
+    "1.0.3" = import ./overrides/ng-utility/1.0.3;
+  };
   nglview = {
     "3.1.2" = import ./overrides/nglview/3.1.2;
   };
@@ -9608,6 +9620,18 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zodb3 = {
+    "3.11.0" = import ./overrides/zodb3/3.11.0;
+  };
+  zodbcode = {
+    "3.4.0" = import ./overrides/zodbcode/3.4.0;
+  };
+  zope-app-interface = {
+    "3.6.0" = import ./overrides/zope-app-interface/3.6.0;
+  };
+  zope-app-zapi = {
+    "3.5.0" = import ./overrides/zope-app-zapi/3.5.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
