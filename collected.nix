@@ -3156,6 +3156,9 @@
   grvlms-openedx = {
     "1.0.6" = import ./overrides/grvlms-openedx/1.0.6;
   };
+  gsignals = {
+    "0.2.1" = import ./overrides/gsignals/0.2.1;
+  };
   gssapi = {
     "1.8.3" = import ./overrides/gssapi/1.8.3;
   };
@@ -6786,6 +6789,9 @@
   pystemd = {
     "0.13.2" = import ./overrides/pystemd/0.13.2;
   };
+  pystemmer = {
+    "2.2.0.1" = import ./overrides/pystemmer/2.2.0.1;
+  };
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
@@ -7827,6 +7833,9 @@
   };
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
+  };
+  scribes-helpers = {
+    "0.5.1" = import ./overrides/scribes-helpers/0.5.1;
   };
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
