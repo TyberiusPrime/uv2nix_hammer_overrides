@@ -638,6 +638,9 @@
   begins = {
     "0.9" = import ./overrides/begins/0.9;
   };
+  benchsuite-core = {
+    "2.6.0.0" = import ./overrides/benchsuite-core/2.6.0.0;
+  };
   bencode = {
     "1.0" = import ./overrides/bencode/1.0;
   };
