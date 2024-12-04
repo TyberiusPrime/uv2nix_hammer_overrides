@@ -5802,6 +5802,9 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  products-resourceregistries = {
+    "3.0.8" = import ./overrides/products-resourceregistries/3.0.8;
+  };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
@@ -7468,6 +7471,9 @@
   };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
+  };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
@@ -9608,6 +9614,12 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zodb3 = {
+    "3.11.0" = import ./overrides/zodb3/3.11.0;
+  };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
