@@ -298,6 +298,9 @@
   applescript = {
     "2021.2.9" = import ./overrides/applescript/2021.2.9;
   };
+  appy = {
+    "1.0.18" = import ./overrides/appy/1.0.18;
+  };
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
@@ -309,6 +312,9 @@
   };
   arcgis = {
     "2.3.1" = import ./overrides/arcgis/2.3.1;
+  };
+  archetypes-querywidget = {
+    "1.1.3" = import ./overrides/archetypes-querywidget/1.1.3;
   };
   arcor2 = {
     "1.4.0" = import ./overrides/arcor2/1.4.0;
@@ -1159,6 +1165,30 @@
   };
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
+  };
+  collective-compoundcriterion = {
+    "0.7" = import ./overrides/collective-compoundcriterion/0.7;
+  };
+  collective-documentgenerator = {
+    "3.44" = import ./overrides/collective-documentgenerator/3.44;
+  };
+  collective-eeafaceted-batchactions = {
+    "1.15" = import ./overrides/collective-eeafaceted-batchactions/1.15;
+  };
+  collective-eeafaceted-collectionwidget = {
+    "1.17" = import ./overrides/collective-eeafaceted-collectionwidget/1.17;
+  };
+  collective-eeafaceted-dashboard = {
+    "0.22.0" = import ./overrides/collective-eeafaceted-dashboard/0.22.0;
+  };
+  collective-excelexport = {
+    "1.8.2" = import ./overrides/collective-excelexport/1.8.2;
+  };
+  collective-js-iframeresizer = {
+    "0.4" = import ./overrides/collective-js-iframeresizer/0.4;
+  };
+  collective-js-jqueryui = {
+    "2.2.0" = import ./overrides/collective-js-jqueryui/2.2.0;
   };
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
@@ -2305,6 +2335,9 @@
   };
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
+  };
+  eea-facetednavigation = {
+    "15.1" = import ./overrides/eea-facetednavigation/15.1;
   };
   eebrightbox = {
     "0.0.6" = import ./overrides/eebrightbox/0.0.6;
@@ -3493,6 +3526,21 @@
   };
   imgviz = {
     "1.7.5" = import ./overrides/imgviz/1.7.5;
+  };
+  imio-actionspanel = {
+    "1.68" = import ./overrides/imio-actionspanel/1.68;
+  };
+  imio-dashboard = {
+    "2.12" = import ./overrides/imio-dashboard/2.12;
+  };
+  imio-history = {
+    "1.27" = import ./overrides/imio-history/1.27;
+  };
+  imio-migrator = {
+    "1.38" = import ./overrides/imio-migrator/1.38;
+  };
+  imio-prettylink = {
+    "1.22" = import ./overrides/imio-prettylink/1.22;
   };
   imm-source = {
     "1.0.30" = import ./overrides/imm-source/1.0.30;
@@ -5670,6 +5718,12 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plone-app-jquery = {
+    "1.11.2" = import ./overrides/plone-app-jquery/1.11.2;
+  };
+  plone-app-jquerytools = {
+    "1.9.5" = import ./overrides/plone-app-jquerytools/1.9.5;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
@@ -7468,6 +7522,9 @@
   };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
+  };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
@@ -9608,6 +9665,9 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
