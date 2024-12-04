@@ -7469,6 +7469,9 @@
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
   };
+  repoze-bfg = {
+    "1.3" = import ./overrides/repoze-bfg/1.3;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
