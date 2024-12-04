@@ -3734,6 +3734,9 @@
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
+  js-jquery-form = {
+    "3.9" = import ./overrides/js-jquery-form/3.9;
+  };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
   };
