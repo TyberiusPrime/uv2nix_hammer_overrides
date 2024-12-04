@@ -3524,6 +3524,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  infrae-wsgi = {
+    "2.2.1" = import ./overrides/infrae-wsgi/2.2.1;
+  };
   ingots = {
     "0.2.1" = import ./overrides/ingots/0.2.1;
   };
@@ -7952,6 +7955,9 @@
   silpa-common = {
     "0.3" = import ./overrides/silpa-common/0.3;
   };
+  silva-translations = {
+    "3.0.2" = import ./overrides/silva-translations/3.0.2;
+  };
   similaritymeasures = {
     "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
   };
@@ -9608,6 +9614,9 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
