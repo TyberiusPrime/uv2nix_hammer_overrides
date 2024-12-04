@@ -3734,6 +3734,9 @@
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
+  jquery-layer = {
+    "1.0.0" = import ./overrides/jquery-layer/1.0.0;
+  };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
   };
