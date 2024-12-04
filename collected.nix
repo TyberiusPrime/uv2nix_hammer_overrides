@@ -975,6 +975,9 @@
   chainlib-eth = {
     "0.6.3" = import ./overrides/chainlib-eth/0.6.3;
   };
+  chameleon-zpt = {
+    "1.1.3" = import ./overrides/chameleon-zpt/1.1.3;
+  };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
