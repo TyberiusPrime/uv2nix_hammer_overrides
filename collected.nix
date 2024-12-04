@@ -2564,6 +2564,9 @@
   ffmpeg = {
     "1.4" = import ./overrides/ffmpeg/1.4;
   };
+  fgame = {
+    "0.6.5" = import ./overrides/fgame/0.6.5;
+  };
   fibheap = {
     "0.2.1" = import ./overrides/fibheap/0.2.1;
   };
@@ -6290,6 +6293,9 @@
   pygame = {
     "2.1.3" = import ./overrides/pygame/2.1.3;
   };
+  pygeneric = {
+    "0.5.7" = import ./overrides/pygeneric/0.5.7;
+  };
   pygeohash = {
     "1.2.0" = import ./overrides/pygeohash/1.2.0;
   };
@@ -8057,6 +8063,12 @@
   smac = {
     "1.2" = import ./overrides/smac/1.2;
     "2.2.0" = import ./overrides/smac/2.2.0;
+  };
+  smallshapes = {
+    "0.6.2" = import ./overrides/smallshapes/0.6.2;
+  };
+  smallvectors = {
+    "0.7.0" = import ./overrides/smallvectors/0.7.0;
   };
   smbus = {
     "1.1.post2" = import ./overrides/smbus/1.1.post2;
