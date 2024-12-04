@@ -9579,6 +9579,9 @@
   zbxsend = {
     "0.1.6" = import ./overrides/zbxsend/0.1.6;
   };
+  zc-recipe-deployment = {
+    "1.3.0" = import ./overrides/zc-recipe-deployment/1.3.0;
+  };
   zcs = {
     "0.1.25" = import ./overrides/zcs/0.1.25;
   };
