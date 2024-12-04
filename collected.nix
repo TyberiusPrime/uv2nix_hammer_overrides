@@ -1160,6 +1160,9 @@
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
+  collective-iconifieddocumentactions = {
+    "1.3.2" = import ./overrides/collective-iconifieddocumentactions/1.3.2;
+  };
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
   };
