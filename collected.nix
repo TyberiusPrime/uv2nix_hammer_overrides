@@ -5802,6 +5802,12 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  products-cmfcalendar = {
+    "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
+  };
+  products-cmfdefault = {
+    "2.2.4" = import ./overrides/products-cmfdefault/2.2.4;
+  };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
@@ -9608,6 +9614,9 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
