@@ -2828,6 +2828,9 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  ftw-profilehook = {
+    "1.3.0" = import ./overrides/ftw-profilehook/1.3.0;
+  };
   funbelts = {
     "0.1.86" = import ./overrides/funbelts/0.1.86;
   };
@@ -7468,6 +7471,9 @@
   };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
+  };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
