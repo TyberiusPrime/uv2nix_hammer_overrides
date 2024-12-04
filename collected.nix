@@ -5802,6 +5802,9 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  products-maps = {
+    "3.3" = import ./overrides/products-maps/3.3;
+  };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
