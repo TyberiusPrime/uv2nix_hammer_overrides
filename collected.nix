@@ -1160,6 +1160,9 @@
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
+  collective-quickupload = {
+    "1.11.1" = import ./overrides/collective-quickupload/1.11.1;
+  };
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
   };
