@@ -9609,6 +9609,9 @@
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
   };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
+  };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
   };
