@@ -9609,6 +9609,18 @@
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
   };
+  zodb3 = {
+    "3.11.0" = import ./overrides/zodb3/3.11.0;
+  };
+  zodbcode = {
+    "3.4.0" = import ./overrides/zodbcode/3.4.0;
+  };
+  zope-app-interface = {
+    "3.6.0" = import ./overrides/zope-app-interface/3.6.0;
+  };
+  zope-app-zapi = {
+    "3.5.0" = import ./overrides/zope-app-zapi/3.5.0;
+  };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
   };
