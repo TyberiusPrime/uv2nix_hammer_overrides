@@ -4431,6 +4431,9 @@
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
   };
+  megrok-layout = {
+    "1.3" = import ./overrides/megrok-layout/1.3;
+  };
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
   };
