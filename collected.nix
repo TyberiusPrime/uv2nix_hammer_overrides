@@ -9160,6 +9160,9 @@
   vdk-core = {
     "0.3.1424848411" = import ./overrides/vdk-core/0.3.1424848411;
   };
+  vdt-versionplugin-default = {
+    "0.0.3" = import ./overrides/vdt-versionplugin-default/0.0.3;
+  };
   vectormath = {
     "0.2.2" = import ./overrides/vectormath/0.2.2;
   };
