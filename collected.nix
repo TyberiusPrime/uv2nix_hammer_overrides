@@ -1404,11 +1404,17 @@
   cs-ansi-colour = {
     "20220227" = import ./overrides/cs-ansi-colour/20220227;
   };
+  cs-filestate = {
+    "20181107" = import ./overrides/cs-filestate/20181107;
+  };
   cs-sh = {
     "20210316" = import ./overrides/cs-sh/20210316;
   };
   cs-timeutils = {
     "20211208" = import ./overrides/cs-timeutils/20211208;
+  };
+  cs-tty = {
+    "20210316" = import ./overrides/cs-tty/20210316;
   };
   cs-units = {
     "20220311" = import ./overrides/cs-units/20220311;
