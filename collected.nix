@@ -9612,6 +9612,9 @@
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
   };
+  ztfy-jqueryui = {
+    "0.7.12" = import ./overrides/ztfy-jqueryui/0.7.12;
+  };
   zuper-commons-z5 = {
     "5.0.11" = import ./overrides/zuper-commons-z5/5.0.11;
   };
