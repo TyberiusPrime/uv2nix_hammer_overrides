@@ -5673,6 +5673,9 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plonetheme-intkbase = {
+    "0.4" = import ./overrides/plonetheme-intkbase/0.4;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
