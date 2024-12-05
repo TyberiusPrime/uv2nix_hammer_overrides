@@ -5802,6 +5802,9 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  products-redirectiontool = {
+    "1.4.1" = import ./overrides/products-redirectiontool/1.4.1;
+  };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
@@ -7468,6 +7471,9 @@
   };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
+  };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
