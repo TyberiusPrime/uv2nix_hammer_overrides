@@ -1,0 +1,2 @@
+BuildSystems = [ "poetry-core",]
+ManualOverrides = "__file__:django-iconify/0.3/default.nix"
