@@ -5670,6 +5670,12 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plone-app-jquerytools = {
+    "1.9.5" = import ./overrides/plone-app-jquerytools/1.9.5;
+  };
+  plone-formwidget-datetime = {
+    "1.3.5" = import ./overrides/plone-formwidget-datetime/1.3.5;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
@@ -7468,6 +7474,9 @@
   };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
+  };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
@@ -9608,6 +9617,9 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
