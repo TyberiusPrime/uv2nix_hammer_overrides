@@ -5670,6 +5670,9 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plone-directives-form = {
+    "2.0.3" = import ./overrides/plone-directives-form/2.0.3;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
@@ -7469,6 +7472,9 @@
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
   };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
@@ -7839,6 +7845,9 @@
   };
   sdnotify = {
     "0.3.2" = import ./overrides/sdnotify/0.3.2;
+  };
+  seantis-plonetools = {
+    "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
