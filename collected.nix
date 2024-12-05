@@ -1160,6 +1160,15 @@
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
+  collective-contact-core = {
+    "1.42.0" = import ./overrides/collective-contact-core/1.42.0;
+  };
+  collective-contact-widget = {
+    "1.13" = import ./overrides/collective-contact-widget/1.13;
+  };
+  collective-dexteritytextindexer = {
+    "2.4.1" = import ./overrides/collective-dexteritytextindexer/2.4.1;
+  };
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
   };
@@ -2290,6 +2299,9 @@
   };
   ecmwf-api-client = {
     "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
+  };
+  ecreall-helpers-upgrade = {
+    "1.4" = import ./overrides/ecreall-helpers-upgrade/1.4;
   };
   ed25519-blake2b = {
     "1.4.1" = import ./overrides/ed25519-blake2b/1.4.1;
@@ -5670,6 +5682,12 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plone-app-jquerytools = {
+    "1.9.5" = import ./overrides/plone-app-jquerytools/1.9.5;
+  };
+  plone-formwidget-datetime = {
+    "1.3.5" = import ./overrides/plone-formwidget-datetime/1.3.5;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
@@ -7468,6 +7486,9 @@
   };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
+  };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
@@ -9608,6 +9629,12 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zodb3 = {
+    "3.11.0" = import ./overrides/zodb3/3.11.0;
+  };
+  zope2 = {
+    "4.0" = import ./overrides/zope2/4.0;
   };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
