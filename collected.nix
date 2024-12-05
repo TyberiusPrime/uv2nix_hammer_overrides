@@ -5670,6 +5670,9 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plone-app-jquery = {
+    "1.11.2" = import ./overrides/plone-app-jquery/1.11.2;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
