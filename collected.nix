@@ -2095,6 +2095,21 @@
   djangotoolbox = {
     "1.8.0" = import ./overrides/djangotoolbox/1.8.0;
   };
+  djinn-auth = {
+    "1.0.7" = import ./overrides/djinn-auth/1.0.7;
+  };
+  djinn-contenttypes = {
+    "1.4.10" = import ./overrides/djinn-contenttypes/1.4.10;
+  };
+  djinn-core = {
+    "1.2.10" = import ./overrides/djinn-core/1.2.10;
+  };
+  djinn-forms = {
+    "1.3.6" = import ./overrides/djinn-forms/1.3.6;
+  };
+  djinn-workflow = {
+    "1.0.0" = import ./overrides/djinn-workflow/1.0.0;
+  };
   djongo = {
     "1.3.6" = import ./overrides/djongo/1.3.6;
   };
