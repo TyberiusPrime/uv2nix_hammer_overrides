@@ -9678,6 +9678,9 @@
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
+  venstarcolortouch = {
+    "0.19" = import ./overrides/venstarcolortouch/0.19;
+  };
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
