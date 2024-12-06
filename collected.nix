@@ -2334,6 +2334,12 @@
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
+  docxcompose = {
+    "1.4.0" = import ./overrides/docxcompose/1.4.0;
+  };
+  docxtpl = {
+    "0.18.0" = import ./overrides/docxtpl/0.18.0;
+  };
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
