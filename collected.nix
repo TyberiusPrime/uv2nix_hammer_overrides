@@ -9877,6 +9877,9 @@
   whaaaaat = {
     "0.5.2" = import ./overrides/whaaaaat/0.5.2;
   };
+  wheel-filename = {
+    "1.4.1" = import ./overrides/wheel-filename/1.4.1;
+  };
   wheezy-template = {
     "3.2.2" = import ./overrides/wheezy-template/3.2.2;
   };
