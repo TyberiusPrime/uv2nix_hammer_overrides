@@ -5818,6 +5818,9 @@
   perdy = {
     "1.12" = import ./overrides/perdy/1.12;
   };
+  perfmetrics = {
+    "4.1.0" = import ./overrides/perfmetrics/4.1.0;
+  };
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
