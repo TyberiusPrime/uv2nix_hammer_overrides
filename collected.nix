@@ -8335,6 +8335,9 @@
   skidl = {
     "1.2.3" = import ./overrides/skidl/1.2.3;
   };
+  skimpygimpy = {
+    "1.4" = import ./overrides/skimpygimpy/1.4;
+  };
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
   };
