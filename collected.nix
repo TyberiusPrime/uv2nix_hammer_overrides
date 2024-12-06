@@ -990,6 +990,9 @@
   chainlib-eth = {
     "0.6.3" = import ./overrides/chainlib-eth/0.6.3;
   };
+  chameleon-core = {
+    "1.0.4" = import ./overrides/chameleon-core/1.0.4;
+  };
   chameleon-zpt = {
     "1.1.3" = import ./overrides/chameleon-zpt/1.1.3;
   };
@@ -1180,6 +1183,9 @@
   };
   collective-geo-settings = {
     "4.0" = import ./overrides/collective-geo-settings/4.0;
+  };
+  collective-iconifieddocumentactions = {
+    "1.3.2" = import ./overrides/collective-iconifieddocumentactions/1.3.2;
   };
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
@@ -4390,6 +4396,9 @@
   m-kafka-sdk-v2 = {
     "1.0.4" = import ./overrides/m-kafka-sdk-v2/1.0.4;
   };
+  m2crypto = {
+    "0.42.0" = import ./overrides/m2crypto/0.42.0;
+  };
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
@@ -5029,6 +5038,15 @@
   };
   ng-app-objectqueue = {
     "0.0.8" = import ./overrides/ng-app-objectqueue/0.0.8;
+  };
+  ng-content-annotation = {
+    "0.1.0" = import ./overrides/ng-content-annotation/0.1.0;
+  };
+  ng-lib = {
+    "0.0.6" = import ./overrides/ng-lib/0.0.6;
+  };
+  ng-schema = {
+    "0.0.5" = import ./overrides/ng-schema/0.0.5;
   };
   ng-utility = {
     "1.0.3" = import ./overrides/ng-utility/1.0.3;
@@ -5768,6 +5786,27 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plone-app-jquery = {
+    "1.11.2" = import ./overrides/plone-app-jquery/1.11.2;
+  };
+  plone-app-jquerytools = {
+    "1.9.5" = import ./overrides/plone-app-jquerytools/1.9.5;
+  };
+  plone-directives-dexterity = {
+    "1.0.2" = import ./overrides/plone-directives-dexterity/1.0.2;
+  };
+  plone-directives-form = {
+    "2.0.3" = import ./overrides/plone-directives-form/2.0.3;
+  };
+  plone-formwidget-datetime = {
+    "1.3.5" = import ./overrides/plone-formwidget-datetime/1.3.5;
+  };
+  plone-multilingual = {
+    "1.2.1" = import ./overrides/plone-multilingual/1.2.1;
+  };
+  plone-multilingualbehavior = {
+    "1.2.3" = import ./overrides/plone-multilingualbehavior/1.2.3;
+  };
   plonetheme-intkbase = {
     "0.4" = import ./overrides/plonetheme-intkbase/0.4;
   };
@@ -5911,6 +5950,9 @@
   };
   products-resourceregistries = {
     "3.0.8" = import ./overrides/products-resourceregistries/3.0.8;
+  };
+  products-silvametadata = {
+    "3.0.1" = import ./overrides/products-silvametadata/3.0.1;
   };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
@@ -7593,6 +7635,9 @@
   };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
+  };
+  repoze-bfg = {
+    "1.3" = import ./overrides/repoze-bfg/1.3;
   };
   repoze-who-plugins-sa = {
     "1.0.1" = import ./overrides/repoze-who-plugins-sa/1.0.1;
@@ -9759,6 +9804,12 @@
   zc-recipe-deployment = {
     "1.3.0" = import ./overrides/zc-recipe-deployment/1.3.0;
   };
+  zc-thread = {
+    "1.0.0" = import ./overrides/zc-thread/1.0.0;
+  };
+  zc-zk = {
+    "2.1.0" = import ./overrides/zc-zk/2.1.0;
+  };
   zcs = {
     "0.1.25" = import ./overrides/zcs/0.1.25;
   };
@@ -9794,6 +9845,15 @@
   };
   zodb3 = {
     "3.11.0" = import ./overrides/zodb3/3.11.0;
+  };
+  zodbcode = {
+    "3.4.0" = import ./overrides/zodbcode/3.4.0;
+  };
+  zope-app-interface = {
+    "3.6.0" = import ./overrides/zope-app-interface/3.6.0;
+  };
+  zope-app-zapi = {
+    "3.5.0" = import ./overrides/zope-app-zapi/3.5.0;
   };
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
