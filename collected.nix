@@ -1181,6 +1181,9 @@
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
   };
+  color-operations = {
+    "0.1.6" = import ./overrides/color-operations/0.1.6;
+  };
   colorconsole = {
     "0.8.0" = import ./overrides/colorconsole/0.8.0;
   };
