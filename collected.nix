@@ -8444,6 +8444,9 @@
   simplesbml = {
     "2.3.0" = import ./overrides/simplesbml/2.3.0;
   };
+  simplisafe-python = {
+    "2024.1.0" = import ./overrides/simplisafe-python/2024.1.0;
+  };
   singer-encodings = {
     "0.1.3" = import ./overrides/singer-encodings/0.1.3;
   };
