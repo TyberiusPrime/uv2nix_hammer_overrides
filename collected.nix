@@ -9998,6 +9998,9 @@
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
   };
+  xclim = {
+    "0.52.0" = import ./overrides/xclim/0.52.0;
+  };
   xdis = {
     "6.1.1" = import ./overrides/xdis/6.1.1;
   };
