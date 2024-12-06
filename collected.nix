@@ -5559,6 +5559,9 @@
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
+  opentelemetry-propagator-b3 = {
+    "1.27.0" = import ./overrides/opentelemetry-propagator-b3/1.27.0;
+  };
   opentracing = {
     "1.3.0" = import ./overrides/opentracing/1.3.0;
     "2.4.0" = import ./overrides/opentracing/2.4.0;
