@@ -6021,6 +6021,9 @@
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
+  pmdarima = {
+    "2.0.4" = import ./overrides/pmdarima/2.0.4;
+  };
   pmsensor = {
     "0.4" = import ./overrides/pmsensor/0.4;
   };
