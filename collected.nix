@@ -4112,6 +4112,9 @@
   lavalink = {
     "5.7.2" = import ./overrides/lavalink/5.7.2;
   };
+  lazr-uri = {
+    "1.0.6" = import ./overrides/lazr-uri/1.0.6;
+  };
   lazy-import = {
     "0.2.2" = import ./overrides/lazy-import/0.2.2;
   };
