@@ -8945,6 +8945,9 @@
   temppathlib = {
     "1.2.0" = import ./overrides/temppathlib/1.2.0;
   };
+  tenacity = {
+    "9.0.0" = import ./overrides/tenacity/9.0.0;
+  };
   tendril-auth = {
     "0.5.0" = import ./overrides/tendril-auth/0.5.0;
   };
