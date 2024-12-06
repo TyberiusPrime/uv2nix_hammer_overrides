@@ -536,6 +536,12 @@
   azure-cognitiveservices-speech = {
     "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
   };
+  azureml-automl-core = {
+    "1.57.0" = import ./overrides/azureml-automl-core/1.57.0;
+  };
+  azureml-train-automl-client = {
+    "1.57.0" = import ./overrides/azureml-train-automl-client/1.57.0;
+  };
   backends = {
     "1.6.6" = import ./overrides/backends/1.6.6;
   };
@@ -6864,6 +6870,9 @@
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
+  pymupdf = {
+    "1.24.10" = import ./overrides/pymupdf/1.24.10;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
@@ -7002,6 +7011,9 @@
   };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
+  };
+  pyramid-deform = {
+    "0.2" = import ./overrides/pyramid-deform/0.2;
   };
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
@@ -8351,6 +8363,9 @@
   silva-core-interfaces = {
     "3.0.4" = import ./overrides/silva-core-interfaces/3.0.4;
   };
+  silva-core-messages = {
+    "2.3" = import ./overrides/silva-core-messages/2.3;
+  };
   silva-core-services = {
     "3.0.1" = import ./overrides/silva-core-services/3.0.1;
   };
@@ -8906,11 +8921,20 @@
   temppathlib = {
     "1.2.0" = import ./overrides/temppathlib/1.2.0;
   };
+  tendril-auth = {
+    "0.5.0" = import ./overrides/tendril-auth/0.5.0;
+  };
+  tendril-caching = {
+    "0.2.12" = import ./overrides/tendril-caching/0.2.12;
+  };
   tendril-config = {
     "0.3.6" = import ./overrides/tendril-config/0.3.6;
   };
   tendril-utils-core = {
     "0.5.20" = import ./overrides/tendril-utils-core/0.5.20;
+  };
+  tendril-utils-db = {
+    "0.5.6" = import ./overrides/tendril-utils-db/0.5.6;
   };
   tendril-utils-fsutils = {
     "0.3.0" = import ./overrides/tendril-utils-fsutils/0.3.0;
@@ -8920,6 +8944,9 @@
   };
   tendril-utils-www = {
     "0.2.14" = import ./overrides/tendril-utils-www/0.2.14;
+  };
+  tendril-utils-yaml = {
+    "0.2.2" = import ./overrides/tendril-utils-yaml/0.2.2;
   };
   tensordict = {
     "0.5.0" = import ./overrides/tensordict/0.5.0;
