@@ -6812,6 +6812,9 @@
   pyleri = {
     "1.4.3" = import ./overrides/pyleri/1.4.3;
   };
+  pylgnetcast = {
+    "0.3.9" = import ./overrides/pylgnetcast/0.3.9;
+  };
   pylibacl = {
     "0.7.0" = import ./overrides/pylibacl/0.7.0;
   };
