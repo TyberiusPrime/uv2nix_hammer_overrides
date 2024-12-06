@@ -2430,6 +2430,9 @@
   dynamic-pytables-where-condition = {
     "1.1.1" = import ./overrides/dynamic-pytables-where-condition/1.1.1;
   };
+  earthpy = {
+    "0.9.4" = import ./overrides/earthpy/0.9.4;
+  };
   easy-config = {
     "0.2.0" = import ./overrides/easy-config/0.2.0;
   };
