@@ -3715,6 +3715,9 @@
   implicit = {
     "0.7.2" = import ./overrides/implicit/0.7.2;
   };
+  import-expression = {
+    "2.1.0.post1" = import ./overrides/import-expression/2.1.0.post1;
+  };
   importlib = {
     "1.0.4" = import ./overrides/importlib/1.0.4;
   };
