@@ -6536,6 +6536,9 @@
   pycups = {
     "2.0.4" = import ./overrides/pycups/2.0.4;
   };
+  pycurl = {
+    "7.45.3" = import ./overrides/pycurl/7.45.3;
+  };
   pydaqmx = {
     "1.4.6" = import ./overrides/pydaqmx/1.4.6;
   };
