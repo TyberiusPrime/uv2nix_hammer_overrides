@@ -9097,6 +9097,9 @@
   timestring = {
     "1.6.4" = import ./overrides/timestring/1.6.4;
   };
+  timezonefinder = {
+    "6.5.2" = import ./overrides/timezonefinder/6.5.2;
+  };
   tinyaes = {
     "1.1.0" = import ./overrides/tinyaes/1.1.0;
   };
