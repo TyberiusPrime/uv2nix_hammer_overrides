@@ -3110,6 +3110,9 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  gender-guesser = {
+    "0.4.0" = import ./overrides/gender-guesser/0.4.0;
+  };
   genpy = {
     "2022.1" = import ./overrides/genpy/2022.1;
   };
