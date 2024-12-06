@@ -3871,6 +3871,9 @@
   isounidecode = {
     "0.3" = import ./overrides/isounidecode/0.3;
   };
+  itunespy = {
+    "1.6.1" = import ./overrides/itunespy/1.6.1;
+  };
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
