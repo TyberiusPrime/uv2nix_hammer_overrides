@@ -3826,6 +3826,9 @@
   ionhash = {
     "1.2.1" = import ./overrides/ionhash/1.2.1;
   };
+  ionoscloud = {
+    "6.1.9" = import ./overrides/ionoscloud/6.1.9;
+  };
   iopath = {
     "0.1.10" = import ./overrides/iopath/0.1.10;
   };
