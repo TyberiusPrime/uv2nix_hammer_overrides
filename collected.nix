@@ -9213,6 +9213,9 @@
   torchtext = {
     "0.18.0" = import ./overrides/torchtext/0.18.0;
   };
+  torchtyping = {
+    "0.1.5" = import ./overrides/torchtyping/0.1.5;
+  };
   torchvision = {
     "0.19.1" = import ./overrides/torchvision/0.19.1;
     "0.20.1" = import ./overrides/torchvision/0.20.1;
