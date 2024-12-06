@@ -5347,6 +5347,9 @@
     "0.53.1" = import ./overrides/numba/0.53.1;
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
+  numpngw = {
+    "0.1.4" = import ./overrides/numpngw/0.1.4;
+  };
   numpy = {
     "1.20.3" = import ./overrides/numpy/1.20.3;
     "1.21.6" = import ./overrides/numpy/1.21.6;
