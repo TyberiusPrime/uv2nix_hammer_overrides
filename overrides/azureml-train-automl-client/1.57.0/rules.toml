@@ -1,0 +1,1 @@
+ManualOverrides = "__file__:azureml-train-automl-client/1.57.0/default.nix"
