@@ -6312,6 +6312,9 @@
   py-dateutil = {
     "2.2" = import ./overrides/py-dateutil/2.2;
   };
+  py-deprecate = {
+    "0.0.4" = import ./overrides/py-deprecate/0.0.4;
+  };
   py-getch = {
     "1.0.1" = import ./overrides/py-getch/1.0.1;
   };
