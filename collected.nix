@@ -2418,6 +2418,9 @@
   durationpy = {
     "0.7" = import ./overrides/durationpy/0.7;
   };
+  durations = {
+    "0.3.3" = import ./overrides/durations/0.3.3;
+  };
   durc = {
     "3.1.0" = import ./overrides/durc/3.1.0;
   };
