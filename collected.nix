@@ -1883,6 +1883,9 @@
   django-any-js = {
     "1.2" = import ./overrides/django-any-js/1.2;
   };
+  django-anymail = {
+    "12.0" = import ./overrides/django-anymail/12.0;
+  };
   django-apptemplates = {
     "1.5" = import ./overrides/django-apptemplates/1.5;
   };
