@@ -6792,6 +6792,9 @@
   pystemd = {
     "0.13.2" = import ./overrides/pystemd/0.13.2;
   };
+  pystemmer = {
+    "2.2.0.1" = import ./overrides/pystemmer/2.2.0.1;
+  };
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
@@ -7477,6 +7480,9 @@
   };
   repoze-who-plugins-sa = {
     "1.0.1" = import ./overrides/repoze-who-plugins-sa/1.0.1;
+  };
+  repoze-xmliter = {
+    "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
