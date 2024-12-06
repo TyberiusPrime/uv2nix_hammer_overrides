@@ -8501,6 +8501,9 @@
   slumber = {
     "0.7.1" = import ./overrides/slumber/0.7.1;
   };
+  slurmio = {
+    "0.1.1" = import ./overrides/slurmio/0.1.1;
+  };
   sly = {
     "0.4" = import ./overrides/sly/0.4;
   };
