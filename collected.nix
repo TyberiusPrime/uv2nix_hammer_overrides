@@ -9573,6 +9573,9 @@
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
+  uqbar = {
+    "0.7.4" = import ./overrides/uqbar/0.7.4;
+  };
   urlnorm = {
     "1.1.4" = import ./overrides/urlnorm/1.1.4;
   };
