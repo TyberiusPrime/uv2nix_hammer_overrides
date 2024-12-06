@@ -5205,6 +5205,9 @@
   neuronpy = {
     "0.1.6" = import ./overrides/neuronpy/0.1.6;
   };
+  newspaper3k = {
+    "0.2.8" = import ./overrides/newspaper3k/0.2.8;
+  };
   nextcord = {
     "2.6.0" = import ./overrides/nextcord/2.6.0;
   };
@@ -9116,6 +9119,7 @@
     "0.2.0" = import ./overrides/tinyrecord/0.2.0;
   };
   tinysegmenter = {
+    "0.3" = import ./overrides/tinysegmenter/0.3;
     "0.4" = import ./overrides/tinysegmenter/0.4;
   };
   tinytimer = {
