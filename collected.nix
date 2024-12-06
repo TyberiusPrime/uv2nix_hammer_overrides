@@ -2562,6 +2562,9 @@
   espeak-phonemizer = {
     "1.3.1" = import ./overrides/espeak-phonemizer/1.3.1;
   };
+  esphome-dashboard-api = {
+    "1.2.3" = import ./overrides/esphome-dashboard-api/1.2.3;
+  };
   esprima = {
     "4.0.1" = import ./overrides/esprima/4.0.1;
   };
