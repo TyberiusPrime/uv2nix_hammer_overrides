@@ -536,6 +536,12 @@
   azure-cognitiveservices-speech = {
     "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
   };
+  azureml-automl-core = {
+    "1.57.0" = import ./overrides/azureml-automl-core/1.57.0;
+  };
+  azureml-train-automl-client = {
+    "1.57.0" = import ./overrides/azureml-train-automl-client/1.57.0;
+  };
   backends = {
     "1.6.6" = import ./overrides/backends/1.6.6;
   };
@@ -5187,6 +5193,9 @@
   nextcord = {
     "2.6.0" = import ./overrides/nextcord/2.6.0;
   };
+  nflows = {
+    "0.14" = import ./overrides/nflows/0.14;
+  };
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
@@ -6864,6 +6873,9 @@
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
+  pymupdf = {
+    "1.24.10" = import ./overrides/pymupdf/1.24.10;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
@@ -7002,6 +7014,9 @@
   };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
+  };
+  pyramid-deform = {
+    "0.2" = import ./overrides/pyramid-deform/0.2;
   };
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
@@ -8350,6 +8365,9 @@
   };
   silva-core-interfaces = {
     "3.0.4" = import ./overrides/silva-core-interfaces/3.0.4;
+  };
+  silva-core-messages = {
+    "2.3" = import ./overrides/silva-core-messages/2.3;
   };
   silva-core-services = {
     "3.0.1" = import ./overrides/silva-core-services/3.0.1;
