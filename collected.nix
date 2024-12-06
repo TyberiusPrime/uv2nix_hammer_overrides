@@ -310,6 +310,9 @@
   applescript = {
     "2021.2.9" = import ./overrides/applescript/2021.2.9;
   };
+  appnope = {
+    "0.1.4" = import ./overrides/appnope/0.1.4;
+  };
   appy = {
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
