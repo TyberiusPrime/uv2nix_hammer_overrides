@@ -2881,6 +2881,9 @@
   flask-oauth = {
     "0.12" = import ./overrides/flask-oauth/0.12;
   };
+  flask-paginate = {
+    "2024.4.12" = import ./overrides/flask-paginate/2024.4.12;
+  };
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
