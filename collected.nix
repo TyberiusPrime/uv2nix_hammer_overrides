@@ -3007,6 +3007,9 @@
   ftw-profilehook = {
     "1.3.0" = import ./overrides/ftw-profilehook/1.3.0;
   };
+  ftw-table = {
+    "1.22.0" = import ./overrides/ftw-table/1.22.0;
+  };
   ftw-upgrade = {
     "3.3.1" = import ./overrides/ftw-upgrade/3.3.1;
   };
