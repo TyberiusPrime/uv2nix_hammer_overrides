@@ -807,6 +807,9 @@
   bonsai = {
     "1.5.3" = import ./overrides/bonsai/1.5.3;
   };
+  boschshcpy = {
+    "0.2.92" = import ./overrides/boschshcpy/0.2.92;
+  };
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
