@@ -5760,6 +5760,9 @@
   pdfconduit-utils = {
     "1.1.2" = import ./overrides/pdfconduit-utils/1.1.2;
   };
+  pdfkit = {
+    "1.0.0" = import ./overrides/pdfkit/1.0.0;
+  };
   pdfminer = {
     "20191125" = import ./overrides/pdfminer/20191125;
   };
