@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+ManualOverrides = "__file__:tendril-auth/0.5.0/default.nix"

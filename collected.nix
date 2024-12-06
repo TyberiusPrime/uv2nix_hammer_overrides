@@ -8945,11 +8945,20 @@
   temppathlib = {
     "1.2.0" = import ./overrides/temppathlib/1.2.0;
   };
+  tendril-auth = {
+    "0.5.0" = import ./overrides/tendril-auth/0.5.0;
+  };
+  tendril-caching = {
+    "0.2.12" = import ./overrides/tendril-caching/0.2.12;
+  };
   tendril-config = {
     "0.3.6" = import ./overrides/tendril-config/0.3.6;
   };
   tendril-utils-core = {
     "0.5.20" = import ./overrides/tendril-utils-core/0.5.20;
+  };
+  tendril-utils-db = {
+    "0.5.6" = import ./overrides/tendril-utils-db/0.5.6;
   };
   tendril-utils-fsutils = {
     "0.3.0" = import ./overrides/tendril-utils-fsutils/0.3.0;
@@ -8959,6 +8968,9 @@
   };
   tendril-utils-www = {
     "0.2.14" = import ./overrides/tendril-utils-www/0.2.14;
+  };
+  tendril-utils-yaml = {
+    "0.2.2" = import ./overrides/tendril-utils-yaml/0.2.2;
   };
   tensordict = {
     "0.5.0" = import ./overrides/tensordict/0.5.0;
