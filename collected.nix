@@ -2538,6 +2538,9 @@
   environmental-override = {
     "0.1.2" = import ./overrides/environmental-override/0.1.2;
   };
+  environments-utils = {
+    "1.0.15" = import ./overrides/environments-utils/1.0.15;
+  };
   envparse = {
     "0.2.0" = import ./overrides/envparse/0.2.0;
   };
@@ -9603,6 +9606,9 @@
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
+  userinput = {
+    "1.0.22" = import ./overrides/userinput/1.0.22;
+  };
   ushlex = {
     "0.99.1" = import ./overrides/ushlex/0.99.1;
   };
@@ -9632,6 +9638,9 @@
   };
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
+  };
+  validate-version-code = {
+    "1.0.4" = import ./overrides/validate-version-code/1.0.4;
   };
   validators = {
     "0.20.0" = import ./overrides/validators/0.20.0;
