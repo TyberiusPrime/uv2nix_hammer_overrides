@@ -1101,6 +1101,9 @@
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
+  clean-text = {
+    "0.6.0" = import ./overrides/clean-text/0.6.0;
+  };
   cleandev-config-loader = {
     "0.3.5" = import ./overrides/cleandev-config-loader/0.3.5;
   };
