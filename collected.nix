@@ -8269,6 +8269,9 @@
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
+  selectors2 = {
+    "2.0.2" = import ./overrides/selectors2/2.0.2;
+  };
   self = {
     "2020.12.3" = import ./overrides/self/2020.12.3;
   };
