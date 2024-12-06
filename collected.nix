@@ -5587,6 +5587,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  orange-canvas-core = {
+    "0.2.2" = import ./overrides/orange-canvas-core/0.2.2;
+  };
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
   };
