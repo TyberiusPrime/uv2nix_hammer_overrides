@@ -1677,6 +1677,9 @@
   dashing = {
     "0.1.0" = import ./overrides/dashing/0.1.0;
   };
+  dask-geopandas = {
+    "0.4.1" = import ./overrides/dask-geopandas/0.4.1;
+  };
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
