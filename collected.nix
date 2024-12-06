@@ -10097,6 +10097,9 @@
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
+  yowsup2 = {
+    "3.2.3" = import ./overrides/yowsup2/3.2.3;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
