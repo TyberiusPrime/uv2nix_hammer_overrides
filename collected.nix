@@ -10025,6 +10025,9 @@
   xmlbuilder = {
     "1.0" = import ./overrides/xmlbuilder/1.0;
   };
+  xmltodict = {
+    "0.13.0" = import ./overrides/xmltodict/0.13.0;
+  };
   xmpppy = {
     "0.7.1" = import ./overrides/xmpppy/0.7.1;
   };
