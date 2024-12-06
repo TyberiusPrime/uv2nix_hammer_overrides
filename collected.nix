@@ -258,6 +258,9 @@
   antlr-tsql = {
     "0.12.6" = import ./overrides/antlr-tsql/0.12.6;
   };
+  antlr4-python2-runtime = {
+    "4.13.0" = import ./overrides/antlr4-python2-runtime/4.13.0;
+  };
   antlr4-python3-runtime = {
     "4.7.2" = import ./overrides/antlr4-python3-runtime/4.7.2;
     "4.9.3" = import ./overrides/antlr4-python3-runtime/4.9.3;
