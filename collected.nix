@@ -7842,6 +7842,9 @@
   redlock-py = {
     "1.0.8" = import ./overrides/redlock-py/1.0.8;
   };
+  redo = {
+    "3.0.0" = import ./overrides/redo/3.0.0;
+  };
   reedsolo = {
     "2.0.13" = import ./overrides/reedsolo/2.0.13;
   };
