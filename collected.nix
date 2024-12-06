@@ -3480,6 +3480,9 @@
   hole = {
     "0.8.0" = import ./overrides/hole/0.8.0;
   };
+  home-assistant-bluetooth = {
+    "1.12.2" = import ./overrides/home-assistant-bluetooth/1.12.2;
+  };
   home-assistant-chip-core = {
     "2024.7.1" = import ./overrides/home-assistant-chip-core/2024.7.1;
   };
