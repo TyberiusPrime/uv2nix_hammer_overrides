@@ -5556,6 +5556,9 @@
   openpaperwork-gtk = {
     "2.2.5" = import ./overrides/openpaperwork-gtk/2.2.5;
   };
+  openrouteservice = {
+    "2.3.3" = import ./overrides/openrouteservice/2.3.3;
+  };
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
