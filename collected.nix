@@ -7087,6 +7087,9 @@
   pysat = {
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
+  pyscaffoldext-travis = {
+    "0.3" = import ./overrides/pyscaffoldext-travis/0.3;
+  };
   pyscard = {
     "2.0.0" = import ./overrides/pyscard/2.0.0;
     "2.1.1" = import ./overrides/pyscard/2.1.1;
