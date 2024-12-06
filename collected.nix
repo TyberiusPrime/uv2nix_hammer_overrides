@@ -2165,6 +2165,9 @@
   dm-reuse = {
     "2.2" = import ./overrides/dm-reuse/2.2;
   };
+  dm-xmlsec-binding = {
+    "3.0" = import ./overrides/dm-xmlsec-binding/3.0;
+  };
   dnspython3 = {
     "1.15.0" = import ./overrides/dnspython3/1.15.0;
   };

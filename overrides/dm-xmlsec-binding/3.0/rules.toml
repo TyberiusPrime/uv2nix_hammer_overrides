@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.libtool", "~literal:!:pkgs.xmlsec.dev",]
+BuildSystems = [ "lxml", "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.libxml2", "~literal:!:pkgs.xmlsec.out",]
