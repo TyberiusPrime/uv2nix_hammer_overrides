@@ -7859,6 +7859,9 @@
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
+  renault-api = {
+    "0.2.7" = import ./overrides/renault-api/0.2.7;
+  };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
