@@ -4703,6 +4703,9 @@
   memoizer = {
     "0.0.1" = import ./overrides/memoizer/0.0.1;
   };
+  memory-tempfile = {
+    "2.2.3" = import ./overrides/memory-tempfile/2.2.3;
+  };
   menpo = {
     "0.11.1" = import ./overrides/menpo/0.11.1;
   };
