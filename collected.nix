@@ -3028,6 +3028,9 @@
   funcargparse = {
     "0.2.5" = import ./overrides/funcargparse/0.2.5;
   };
+  funcparserlib = {
+    "1.0.1" = import ./overrides/funcparserlib/1.0.1;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
