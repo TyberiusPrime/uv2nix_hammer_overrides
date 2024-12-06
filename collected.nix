@@ -7736,6 +7736,9 @@
   querystring = {
     "0.1.0" = import ./overrides/querystring/0.1.0;
   };
+  quickbelog = {
+    "1.1.0" = import ./overrides/quickbelog/1.1.0;
+  };
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
   };
