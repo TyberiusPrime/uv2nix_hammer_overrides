@@ -5199,6 +5199,9 @@
   nextcord = {
     "2.6.0" = import ./overrides/nextcord/2.6.0;
   };
+  nflows = {
+    "0.14" = import ./overrides/nflows/0.14;
+  };
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
