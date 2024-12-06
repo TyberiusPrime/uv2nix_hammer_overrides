@@ -6261,6 +6261,9 @@
   publicsuffix = {
     "1.1.1" = import ./overrides/publicsuffix/1.1.1;
   };
+  publicsuffixlist = {
+    "1.0.2.20240910" = import ./overrides/publicsuffixlist/1.0.2.20240910;
+  };
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
