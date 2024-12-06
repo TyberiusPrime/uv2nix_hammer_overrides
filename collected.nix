@@ -4223,6 +4223,9 @@
   kss-core = {
     "1.6.5" = import ./overrides/kss-core/1.6.5;
   };
+  kubernetes-stubs = {
+    "22.6.0.post1" = import ./overrides/kubernetes-stubs/22.6.0.post1;
+  };
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
   };
