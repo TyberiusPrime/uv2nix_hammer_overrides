@@ -5322,6 +5322,9 @@
   nose-timer = {
     "1.0.1" = import ./overrides/nose-timer/1.0.1;
   };
+  nose2 = {
+    "0.15.1" = import ./overrides/nose2/0.15.1;
+  };
   nose3 = {
     "1.3.8" = import ./overrides/nose3/1.3.8;
   };
