@@ -6551,6 +6551,9 @@
   pydenticon = {
     "0.3.1" = import ./overrides/pydenticon/0.3.1;
   };
+  pydeps = {
+    "1.12.20" = import ./overrides/pydeps/1.12.20;
+  };
   pyderive3 = {
     "0.0.6" = import ./overrides/pyderive3/0.0.6;
   };
