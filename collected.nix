@@ -1434,6 +1434,9 @@
   cs-timeutils = {
     "20211208" = import ./overrides/cs-timeutils/20211208;
   };
+  cs-tty = {
+    "20210316" = import ./overrides/cs-tty/20210316;
+  };
   cs-units = {
     "20220311" = import ./overrides/cs-units/20220311;
   };
