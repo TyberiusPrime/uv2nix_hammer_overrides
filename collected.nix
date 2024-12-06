@@ -470,6 +470,9 @@
   aurorapy = {
     "0.2.7" = import ./overrides/aurorapy/0.2.7;
   };
+  auth0-python = {
+    "4.7.1" = import ./overrides/auth0-python/4.7.1;
+  };
   authheaders = {
     "0.16.3" = import ./overrides/authheaders/0.16.3;
   };
