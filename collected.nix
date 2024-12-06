@@ -4520,6 +4520,9 @@
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
+  looker-sdk = {
+    "24.14.0" = import ./overrides/looker-sdk/24.14.0;
+  };
   looptools = {
     "1.2.4" = import ./overrides/looptools/1.2.4;
   };
