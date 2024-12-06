@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  jupyter-server-mathjax = {
+    "0.2.6" = import ./overrides/jupyter-server-mathjax/0.2.6;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
