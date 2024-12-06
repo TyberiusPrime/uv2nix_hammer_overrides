@@ -8595,6 +8595,9 @@
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
+  speaklater3 = {
+    "1.4" = import ./overrides/speaklater3/1.4;
+  };
   spectra = {
     "0.0.11" = import ./overrides/spectra/0.0.11;
   };
