@@ -1446,6 +1446,9 @@
   coverage = {
     "6.5.0" = import ./overrides/coverage/6.5.0;
   };
+  coveralls = {
+    "4.0.1" = import ./overrides/coveralls/4.0.1;
+  };
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
