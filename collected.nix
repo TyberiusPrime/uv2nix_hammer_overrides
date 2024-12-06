@@ -2946,6 +2946,9 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  ftw-profilehook = {
+    "1.3.0" = import ./overrides/ftw-profilehook/1.3.0;
+  };
   funbelts = {
     "0.1.86" = import ./overrides/funbelts/0.1.86;
   };
