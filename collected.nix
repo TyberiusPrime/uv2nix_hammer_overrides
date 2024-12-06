@@ -9344,6 +9344,9 @@
   tubeup = {
     "2023.9.19" = import ./overrides/tubeup/2023.9.19;
   };
+  tuf = {
+    "5.0.0" = import ./overrides/tuf/5.0.0;
+  };
   turbogears2 = {
     "2.4.3" = import ./overrides/turbogears2/2.4.3;
   };
