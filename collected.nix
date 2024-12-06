@@ -5492,6 +5492,9 @@
   onkyo-eiscp = {
     "1.2.7" = import ./overrides/onkyo-eiscp/1.2.7;
   };
+  onlykey-solo-python = {
+    "0.0.32" = import ./overrides/onlykey-solo-python/0.0.32;
+  };
   onnlogger = {
     "0.0.6" = import ./overrides/onnlogger/0.0.6;
   };
