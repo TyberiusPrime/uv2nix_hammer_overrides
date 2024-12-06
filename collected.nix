@@ -4787,6 +4787,9 @@
   micropython-redis-modular = {
     "0.0.57" = import ./overrides/micropython-redis-modular/0.0.57;
   };
+  midi2audio = {
+    "0.1.1" = import ./overrides/midi2audio/0.1.1;
+  };
   midiutil = {
     "1.2.1" = import ./overrides/midiutil/1.2.1;
   };
