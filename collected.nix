@@ -5208,6 +5208,9 @@
   octobot-commons = {
     "1.9.58" = import ./overrides/octobot-commons/1.9.58;
   };
+  octobot-tentacles-manager = {
+    "2.9.16" = import ./overrides/octobot-tentacles-manager/2.9.16;
+  };
   odfpy = {
     "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
