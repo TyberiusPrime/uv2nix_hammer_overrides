@@ -7819,6 +7819,12 @@
   rshell = {
     "0.0.33" = import ./overrides/rshell/0.0.33;
   };
+  rsl = {
+    "0.2.1" = import ./overrides/rsl/0.2.1;
+  };
+  rsl-xsd = {
+    "0.2.4" = import ./overrides/rsl-xsd/0.2.4;
+  };
   rstgen = {
     "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
