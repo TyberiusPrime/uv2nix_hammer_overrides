@@ -4314,6 +4314,9 @@
   libais = {
     "0.17" = import ./overrides/libais/0.17;
   };
+  libarchive-c = {
+    "5.1" = import ./overrides/libarchive-c/5.1;
+  };
   libclang-py3 = {
     "3.9.0" = import ./overrides/libclang-py3/3.9.0;
   };
