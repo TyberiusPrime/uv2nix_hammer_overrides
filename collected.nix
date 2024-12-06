@@ -1506,6 +1506,9 @@
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
+  croniter = {
+    "3.0.3" = import ./overrides/croniter/3.0.3;
+  };
   cronsim = {
     "2.5" = import ./overrides/cronsim/2.5;
   };
