@@ -8302,6 +8302,9 @@
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
+  setuptools-declarative-requirements = {
+    "1.3.0" = import ./overrides/setuptools-declarative-requirements/1.3.0;
+  };
   setuptools-lint = {
     "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
   };
