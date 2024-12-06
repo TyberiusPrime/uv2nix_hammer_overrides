@@ -2821,6 +2821,9 @@
   flask-autoindex = {
     "0.6.6" = import ./overrides/flask-autoindex/0.6.6;
   };
+  flask-babel = {
+    "4.0.0" = import ./overrides/flask-babel/4.0.0;
+  };
   flask-basicauth = {
     "0.2.0" = import ./overrides/flask-basicauth/0.2.0;
   };
