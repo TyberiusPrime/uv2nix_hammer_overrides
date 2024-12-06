@@ -7003,6 +7003,9 @@
   pyprel = {
     "2018.9.14.1501" = import ./overrides/pyprel/2018.9.14.1501;
   };
+  pypresence = {
+    "4.3.0" = import ./overrides/pypresence/4.3.0;
+  };
   pyprof2calltree = {
     "1.4.5" = import ./overrides/pyprof2calltree/1.4.5;
   };
