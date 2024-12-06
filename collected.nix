@@ -7856,6 +7856,9 @@
   regional = {
     "1.1.2" = import ./overrides/regional/1.1.2;
   };
+  regions = {
+    "0.9" = import ./overrides/regions/0.9;
+  };
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
