@@ -1,4 +1,7 @@
 {
+  "-django-iconify" = {
+    "0.3" = import ./overrides/-django-iconify/0.3;
+  };
   "3to2" = {
     "1.1.1" = import ./overrides/3to2/1.1.1;
   };
@@ -158,6 +161,12 @@
   };
   aldryn-reversion = {
     "1.1.0" = import ./overrides/aldryn-reversion/1.1.0;
+  };
+  aleksis = {
+    "2023.6.1" = import ./overrides/aleksis/2023.6.1;
+  };
+  aleksis-app-matrix = {
+    "2.0" = import ./overrides/aleksis-app-matrix/2.0;
   };
   alembic = {
     "1.3.3" = import ./overrides/alembic/1.3.3;
@@ -860,6 +869,9 @@
   };
   cairo-lang = {
     "0.13.2" = import ./overrides/cairo-lang/0.13.2;
+  };
+  calendarweek = {
+    "0.5.3" = import ./overrides/calendarweek/0.5.3;
   };
   callee = {
     "0.3.1" = import ./overrides/callee/0.3.1;
@@ -1742,6 +1754,7 @@
     "2.3" = import ./overrides/django-admin-sortable/2.3;
   };
   django-allauth = {
+    "0.54.0" = import ./overrides/django-allauth/0.54.0;
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
   django-announcements = {
@@ -1749,6 +1762,9 @@
   };
   django-annoying = {
     "0.10.7" = import ./overrides/django-annoying/0.10.7;
+  };
+  django-any-js = {
+    "1.2" = import ./overrides/django-any-js/1.2;
   };
   django-apptemplates = {
     "1.5" = import ./overrides/django-apptemplates/1.5;
@@ -1779,6 +1795,9 @@
   };
   django-chamber = {
     "0.6.17" = import ./overrides/django-chamber/0.6.17;
+  };
+  django-cleavejs = {
+    "0.1.1" = import ./overrides/django-cleavejs/0.1.1;
   };
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
@@ -1860,6 +1879,9 @@
   };
   django-iban = {
     "0.3.1" = import ./overrides/django-iban/0.3.1;
+  };
+  django-iconify = {
+    "0.3" = import ./overrides/django-iconify/0.3;
   };
   django-impersonate = {
     "1.9.4" = import ./overrides/django-impersonate/1.9.4;
@@ -2055,6 +2077,9 @@
   };
   django-timezones = {
     "0.2" = import ./overrides/django-timezones/0.2;
+  };
+  django-titofisto = {
+    "0.2.2" = import ./overrides/django-titofisto/0.2.2;
   };
   django-token-tools = {
     "0.2.0" = import ./overrides/django-token-tools/0.2.0;
@@ -7861,6 +7886,9 @@
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
   };
+  scribes-helpers = {
+    "0.5.1" = import ./overrides/scribes-helpers/0.5.1;
+  };
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
   };
@@ -7984,6 +8012,18 @@
   };
   silpa-common = {
     "0.3" = import ./overrides/silpa-common/0.3;
+  };
+  silva-core-conf = {
+    "3.0.3" = import ./overrides/silva-core-conf/3.0.3;
+  };
+  silva-core-interfaces = {
+    "3.0.4" = import ./overrides/silva-core-interfaces/3.0.4;
+  };
+  silva-core-services = {
+    "3.0.1" = import ./overrides/silva-core-services/3.0.1;
+  };
+  silva-core-views = {
+    "3.0.2" = import ./overrides/silva-core-views/3.0.2;
   };
   silva-translations = {
     "3.0.2" = import ./overrides/silva-translations/3.0.2;
@@ -8620,6 +8660,13 @@
   };
   tiddlyweb = {
     "2.4.2" = import ./overrides/tiddlyweb/2.4.2;
+    "2.4.3" = import ./overrides/tiddlyweb/2.4.3;
+  };
+  tiddlywebplugins-imaker = {
+    "0.1.5" = import ./overrides/tiddlywebplugins-imaker/0.1.5;
+  };
+  tiddlywebplugins-pkgstore = {
+    "0.3" = import ./overrides/tiddlywebplugins-pkgstore/0.3;
   };
   tiddlywebplugins-twimport = {
     "1.1.1" = import ./overrides/tiddlywebplugins-twimport/1.1.1;
@@ -9659,6 +9706,9 @@
   };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
+  };
+  zodb3 = {
+    "3.11.0" = import ./overrides/zodb3/3.11.0;
   };
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
