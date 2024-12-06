@@ -3414,6 +3414,9 @@
   hdbscan = {
     "0.8.38.post1" = import ./overrides/hdbscan/0.8.38.post1;
   };
+  hdfdict = {
+    "0.3.1" = import ./overrides/hdfdict/0.3.1;
+  };
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
