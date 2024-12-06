@@ -5769,6 +5769,9 @@
   pdfquery = {
     "0.4.3" = import ./overrides/pdfquery/0.4.3;
   };
+  pdfrw = {
+    "0.4" = import ./overrides/pdfrw/0.4;
+  };
   pdftotext = {
     "2.2.2" = import ./overrides/pdftotext/2.2.2;
   };
