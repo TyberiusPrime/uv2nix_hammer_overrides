@@ -6852,6 +6852,9 @@
   pymbolic = {
     "2022.2" = import ./overrides/pymbolic/2022.2;
   };
+  pymc = {
+    "5.16.2" = import ./overrides/pymc/5.16.2;
+  };
   pymediainfo = {
     "6.1.0" = import ./overrides/pymediainfo/6.1.0;
   };
