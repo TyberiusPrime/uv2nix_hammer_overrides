@@ -2165,6 +2165,9 @@
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
+  django-statici18n = {
+    "2.5.0" = import ./overrides/django-statici18n/2.5.0;
+  };
   django-summernote = {
     "0.8.20.0" = import ./overrides/django-summernote/0.8.20.0;
   };
