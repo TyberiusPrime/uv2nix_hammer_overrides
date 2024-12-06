@@ -3122,6 +3122,9 @@
   geoalchemy = {
     "0.7.2" = import ./overrides/geoalchemy/0.7.2;
   };
+  geoana = {
+    "0.6.0" = import ./overrides/geoana/0.6.0;
+  };
   geobrickscommon = {
     "0.0.9" = import ./overrides/geobrickscommon/0.0.9;
   };
