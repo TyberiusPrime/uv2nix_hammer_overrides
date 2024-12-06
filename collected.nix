@@ -8396,6 +8396,9 @@
   silva-core-views = {
     "3.0.2" = import ./overrides/silva-core-views/3.0.2;
   };
+  silva-core-xml = {
+    "3.0.1" = import ./overrides/silva-core-xml/3.0.1;
+  };
   silva-fanstatic = {
     "1.2" = import ./overrides/silva-fanstatic/1.2;
   };
