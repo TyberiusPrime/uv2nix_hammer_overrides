@@ -7248,6 +7248,9 @@
   pytest-subtesthack = {
     "0.2.0" = import ./overrides/pytest-subtesthack/0.2.0;
   };
+  pytest-vcr = {
+    "1.0.2" = import ./overrides/pytest-vcr/1.0.2;
+  };
   pytest-watch = {
     "4.2.0" = import ./overrides/pytest-watch/4.2.0;
   };
