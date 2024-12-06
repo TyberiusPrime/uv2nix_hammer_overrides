@@ -2192,6 +2192,9 @@
   django-timedeltafield = {
     "0.7.10" = import ./overrides/django-timedeltafield/0.7.10;
   };
+  django-timezone-field = {
+    "7.0" = import ./overrides/django-timezone-field/7.0;
+  };
   django-timezones = {
     "0.2" = import ./overrides/django-timezones/0.2;
   };
