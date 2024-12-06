@@ -731,6 +731,9 @@
   bisos2-common = {
     "0.47" = import ./overrides/bisos2-common/0.47;
   };
+  bitarray-hardbyte = {
+    "2.3.8" = import ./overrides/bitarray-hardbyte/2.3.8;
+  };
   bitbucket-api = {
     "0.5.0" = import ./overrides/bitbucket-api/0.5.0;
   };
