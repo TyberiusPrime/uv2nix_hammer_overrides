@@ -8864,6 +8864,9 @@
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
   };
+  syslog-rfc5424-formatter = {
+    "1.2.3" = import ./overrides/syslog-rfc5424-formatter/1.2.3;
+  };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
   };
