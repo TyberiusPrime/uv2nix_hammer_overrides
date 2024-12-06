@@ -7925,6 +7925,9 @@
   retranslator = {
     "0.2.2" = import ./overrides/retranslator/0.2.2;
   };
+  retry = {
+    "0.9.2" = import ./overrides/retry/0.9.2;
+  };
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
