@@ -7544,6 +7544,9 @@
   pytmpdir = {
     "1.1.0" = import ./overrides/pytmpdir/1.1.0;
   };
+  pytorch-tabnet = {
+    "4.1.0" = import ./overrides/pytorch-tabnet/4.1.0;
+  };
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
