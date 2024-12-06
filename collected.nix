@@ -6834,6 +6834,9 @@
   pylint-flask = {
     "0.6" = import ./overrides/pylint-flask/0.6;
   };
+  pylogz = {
+    "0.0.4" = import ./overrides/pylogz/0.0.4;
+  };
   pyls-isort = {
     "0.2.2" = import ./overrides/pyls-isort/0.2.2;
   };
