@@ -4989,6 +4989,9 @@
   mqtt2influxdb = {
     "1.5.2" = import ./overrides/mqtt2influxdb/1.5.2;
   };
+  mrcfile = {
+    "1.5.3" = import ./overrides/mrcfile/1.5.3;
+  };
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
