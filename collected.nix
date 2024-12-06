@@ -6165,6 +6165,9 @@
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
+  proglog = {
+    "0.1.10" = import ./overrides/proglog/0.1.10;
+  };
   progress = {
     "1.6" = import ./overrides/progress/1.6;
   };
