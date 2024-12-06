@@ -6351,6 +6351,9 @@
   py3rijndael = {
     "0.3.3" = import ./overrides/py3rijndael/0.3.3;
   };
+  pyabf = {
+    "2.3.8" = import ./overrides/pyabf/2.3.8;
+  };
   pyacoustid = {
     "1.3.0" = import ./overrides/pyacoustid/1.3.0;
   };
