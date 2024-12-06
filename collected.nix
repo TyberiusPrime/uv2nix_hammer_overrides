@@ -268,6 +268,9 @@
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
+  anysqlite = {
+    "0.0.5" = import ./overrides/anysqlite/0.0.5;
+  };
   aorta = {
     "2.20.0" = import ./overrides/aorta/2.20.0;
   };
