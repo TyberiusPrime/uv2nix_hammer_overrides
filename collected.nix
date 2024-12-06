@@ -3985,6 +3985,9 @@
   json-database = {
     "0.7.0" = import ./overrides/json-database/0.7.0;
   };
+  json-lines = {
+    "0.5.0" = import ./overrides/json-lines/0.5.0;
+  };
   json-log-formatter = {
     "0.5.2" = import ./overrides/json-log-formatter/0.5.2;
   };
