@@ -10178,6 +10178,9 @@
   zope-app-zapi = {
     "3.5.0" = import ./overrides/zope-app-zapi/3.5.0;
   };
+  zope-app-zopeappgenerations = {
+    "3.6.1" = import ./overrides/zope-app-zopeappgenerations/3.6.1;
+  };
   zope-documenttemplate = {
     "3.4.3" = import ./overrides/zope-documenttemplate/3.4.3;
   };
