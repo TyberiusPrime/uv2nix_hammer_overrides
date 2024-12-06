@@ -3270,6 +3270,9 @@
   googletransx = {
     "2.4.2" = import ./overrides/googletransx/2.4.2;
   };
+  gotenberg-client = {
+    "0.6.0" = import ./overrides/gotenberg-client/0.6.0;
+  };
   gpgrecord = {
     "0.0.4" = import ./overrides/gpgrecord/0.0.4;
     "0.0.5" = import ./overrides/gpgrecord/0.0.5;
