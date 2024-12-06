@@ -5220,6 +5220,9 @@
   ng-content-annotation = {
     "0.1.0" = import ./overrides/ng-content-annotation/0.1.0;
   };
+  ng-content-article = {
+    "1.0.9" = import ./overrides/ng-content-article/1.0.9;
+  };
   ng-lib = {
     "0.0.6" = import ./overrides/ng-lib/0.0.6;
   };
