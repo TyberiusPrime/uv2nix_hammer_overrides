@@ -325,6 +325,9 @@
   arcgis = {
     "2.3.1" = import ./overrides/arcgis/2.3.1;
   };
+  archetypes-kss = {
+    "1.7.3" = import ./overrides/archetypes-kss/1.7.3;
+  };
   archetypes-querywidget = {
     "1.1.3" = import ./overrides/archetypes-querywidget/1.1.3;
   };
@@ -4217,6 +4220,9 @@
   kss = {
     "6.0.4" = import ./overrides/kss/6.0.4;
   };
+  kss-core = {
+    "1.6.5" = import ./overrides/kss-core/1.6.5;
+  };
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
   };
@@ -5969,6 +5975,9 @@
   };
   plone-app-jquerytools = {
     "1.9.5" = import ./overrides/plone-app-jquerytools/1.9.5;
+  };
+  plone-app-kss = {
+    "1.8.0" = import ./overrides/plone-app-kss/1.8.0;
   };
   plone-app-ldap = {
     "1.4.4" = import ./overrides/plone-app-ldap/1.4.4;
