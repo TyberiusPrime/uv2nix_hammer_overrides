@@ -5043,6 +5043,9 @@
   mung = {
     "1.2.1" = import ./overrides/mung/1.2.1;
   };
+  munge = {
+    "1.3.0" = import ./overrides/munge/1.3.0;
+  };
   murmuration = {
     "1.4" = import ./overrides/murmuration/1.4;
   };
