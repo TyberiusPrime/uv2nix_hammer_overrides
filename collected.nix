@@ -5814,6 +5814,9 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  products-resourceregistries = {
+    "3.0.8" = import ./overrides/products-resourceregistries/3.0.8;
+  };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
