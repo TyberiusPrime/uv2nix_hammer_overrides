@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  justnimbus = {
+    "0.7.4" = import ./overrides/justnimbus/0.7.4;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
