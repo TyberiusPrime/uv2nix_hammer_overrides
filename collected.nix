@@ -9365,8 +9365,14 @@
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
   };
+  unisos-icm = {
+    "0.26" = import ./overrides/unisos-icm/0.26;
+  };
   unisos-ucf = {
     "0.15" = import ./overrides/unisos-ucf/0.15;
+  };
+  unisos-x822msg = {
+    "0.10" = import ./overrides/unisos-x822msg/0.10;
   };
   units = {
     "0.7" = import ./overrides/units/0.7;
