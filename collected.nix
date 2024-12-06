@@ -7694,6 +7694,9 @@
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
   };
+  qdx = {
+    "0.10.0" = import ./overrides/qdx/0.10.0;
+  };
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
