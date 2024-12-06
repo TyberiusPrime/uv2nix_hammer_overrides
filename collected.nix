@@ -1566,6 +1566,9 @@
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
+  cu2qu = {
+    "1.6.7.post2" = import ./overrides/cu2qu/1.6.7.post2;
+  };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
