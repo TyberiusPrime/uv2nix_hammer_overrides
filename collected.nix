@@ -8363,6 +8363,9 @@
   shutilwhich = {
     "1.1.0" = import ./overrides/shutilwhich/1.1.0;
   };
+  sidpy = {
+    "0.12.3" = import ./overrides/sidpy/0.12.3;
+  };
   sievelib = {
     "1.4.1" = import ./overrides/sievelib/1.4.1;
   };
