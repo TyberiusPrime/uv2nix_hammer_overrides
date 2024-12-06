@@ -4009,6 +4009,9 @@
   jsonfeed = {
     "0.0.1" = import ./overrides/jsonfeed/0.0.1;
   };
+  jsonfield2 = {
+    "4.0.0.post0" = import ./overrides/jsonfield2/4.0.0.post0;
+  };
   jsonform = {
     "0.0.2" = import ./overrides/jsonform/0.0.2;
   };
