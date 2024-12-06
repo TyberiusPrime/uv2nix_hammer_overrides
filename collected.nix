@@ -6351,6 +6351,9 @@
   py3rijndael = {
     "0.3.3" = import ./overrides/py3rijndael/0.3.3;
   };
+  pyacaia-async = {
+    "0.0.10" = import ./overrides/pyacaia-async/0.0.10;
+  };
   pyacoustid = {
     "1.3.0" = import ./overrides/pyacoustid/1.3.0;
   };
