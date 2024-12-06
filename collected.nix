@@ -3793,6 +3793,9 @@
   interlap = {
     "0.2.7" = import ./overrides/interlap/0.2.7;
   };
+  interlude = {
+    "1.3.1" = import ./overrides/interlude/1.3.1;
+  };
   intermake = {
     "1.0.0.78" = import ./overrides/intermake/1.0.0.78;
   };
