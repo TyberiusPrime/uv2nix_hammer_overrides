@@ -6743,6 +6743,9 @@
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
+  pyinspect = {
+    "0.1.0" = import ./overrides/pyinspect/0.1.0;
+  };
   pyinsteon = {
     "1.6.3" = import ./overrides/pyinsteon/1.6.3;
   };
