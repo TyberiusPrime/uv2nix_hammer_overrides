@@ -5187,6 +5187,9 @@
   nestle = {
     "0.2.0" = import ./overrides/nestle/0.2.0;
   };
+  netapp-lib = {
+    "2021.6.25" = import ./overrides/netapp-lib/2021.6.25;
+  };
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
