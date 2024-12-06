@@ -6447,6 +6447,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycaw = {
+    "20240210" = import ./overrides/pycaw/20240210;
+  };
   pycddlib = {
     "2.1.8.post1" = import ./overrides/pycddlib/2.1.8.post1;
   };
