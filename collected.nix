@@ -3146,6 +3146,9 @@
   getkey = {
     "0.6.5" = import ./overrides/getkey/0.6.5;
   };
+  geventhttpclient = {
+    "2.3.1" = import ./overrides/geventhttpclient/2.3.1;
+  };
   gexml = {
     "1.2.0" = import ./overrides/gexml/1.2.0;
   };
