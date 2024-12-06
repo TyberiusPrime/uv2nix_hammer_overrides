@@ -5537,6 +5537,9 @@
   openerp-web = {
     "7.0.406" = import ./overrides/openerp-web/7.0.406;
   };
+  openerz-api = {
+    "0.3.0" = import ./overrides/openerz-api/0.3.0;
+  };
   openhomedevice = {
     "2.3.1" = import ./overrides/openhomedevice/2.3.1;
   };
