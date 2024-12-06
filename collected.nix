@@ -3871,6 +3871,9 @@
   isounidecode = {
     "0.3" = import ./overrides/isounidecode/0.3;
   };
+  itemadapter = {
+    "0.9.0" = import ./overrides/itemadapter/0.9.0;
+  };
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
