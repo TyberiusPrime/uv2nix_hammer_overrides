@@ -2694,6 +2694,9 @@
   fastpbkdf2 = {
     "0.2" = import ./overrides/fastpbkdf2/0.2;
   };
+  fastremap = {
+    "1.15.0" = import ./overrides/fastremap/1.15.0;
+  };
   fastscript = {
     "0.0.0.1" = import ./overrides/fastscript/0.0.0.1;
   };
