@@ -7538,6 +7538,9 @@
   pytils = {
     "0.4.1" = import ./overrides/pytils/0.4.1;
   };
+  pytkdocs = {
+    "0.16.2" = import ./overrides/pytkdocs/0.16.2;
+  };
   pytlv = {
     "0.71" = import ./overrides/pytlv/0.71;
   };
