@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  jupyter-repo2docker = {
+    "2024.7.0" = import ./overrides/jupyter-repo2docker/2024.7.0;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
