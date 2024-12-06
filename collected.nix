@@ -5504,6 +5504,9 @@
   onvif-zeep = {
     "0.2.12" = import ./overrides/onvif-zeep/0.2.12;
   };
+  opacus = {
+    "1.5.2" = import ./overrides/opacus/1.5.2;
+  };
   opal-adal = {
     "1.2.4" = import ./overrides/opal-adal/1.2.4;
   };
