@@ -6934,6 +6934,9 @@
   pyodesys = {
     "0.14.4" = import ./overrides/pyodesys/0.14.4;
   };
+  pyodps = {
+    "0.11.6.5" = import ./overrides/pyodps/0.11.6.5;
+  };
   pyogg = {
     "0.6.14a1" = import ./overrides/pyogg/0.6.14a1;
   };
