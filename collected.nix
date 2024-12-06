@@ -9204,6 +9204,9 @@
   torchfile = {
     "0.1.0" = import ./overrides/torchfile/0.1.0;
   };
+  torchmetrics = {
+    "1.4.2" = import ./overrides/torchmetrics/1.4.2;
+  };
   torchnet = {
     "0.0.4" = import ./overrides/torchnet/0.0.4;
   };
