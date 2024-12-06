@@ -86,6 +86,9 @@
   ago = {
     "0.0.95" = import ./overrides/ago/0.0.95;
   };
+  aicssegmentation = {
+    "0.5.3" = import ./overrides/aicssegmentation/0.5.3;
+  };
   aido-protocols-daffy = {
     "6.1.1" = import ./overrides/aido-protocols-daffy/6.1.1;
   };
