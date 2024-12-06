@@ -1340,6 +1340,9 @@
   compose = {
     "1.5.0" = import ./overrides/compose/1.5.0;
   };
+  compress-pickle = {
+    "2.1.0" = import ./overrides/compress-pickle/2.1.0;
+  };
   compressai = {
     "1.2.6" = import ./overrides/compressai/1.2.6;
   };
