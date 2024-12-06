@@ -5726,6 +5726,9 @@
   parsimonious = {
     "0.9.0" = import ./overrides/parsimonious/0.9.0;
   };
+  partd = {
+    "1.4.2" = import ./overrides/partd/1.4.2;
+  };
   patch = {
     "1.16" = import ./overrides/patch/1.16;
   };
