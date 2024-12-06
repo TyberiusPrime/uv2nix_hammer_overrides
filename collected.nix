@@ -6698,6 +6698,9 @@
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
   };
+  pyramid-redis-sessions = {
+    "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
+  };
   pyreact = {
     "0.6.0" = import ./overrides/pyreact/0.6.0;
   };
