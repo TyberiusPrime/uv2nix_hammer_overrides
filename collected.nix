@@ -7508,6 +7508,9 @@
   python-xbrl = {
     "1.1.1" = import ./overrides/python-xbrl/1.1.1;
   };
+  python-xz = {
+    "0.5.0" = import ./overrides/python-xz/0.5.0;
+  };
   python-yubico = {
     "1.3.3" = import ./overrides/python-yubico/1.3.3;
   };
