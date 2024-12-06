@@ -2580,6 +2580,9 @@
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
+  eth-keys = {
+    "0.5.1" = import ./overrides/eth-keys/0.5.1;
+  };
   ethereum = {
     "2.3.2" = import ./overrides/ethereum/2.3.2;
   };
