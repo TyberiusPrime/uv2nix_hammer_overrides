@@ -3649,6 +3649,9 @@
   idx2numpy = {
     "1.2.3" = import ./overrides/idx2numpy/1.2.3;
   };
+  iexfinance = {
+    "0.5.0" = import ./overrides/iexfinance/0.5.0;
+  };
   ifconfig-parser = {
     "0.0.5" = import ./overrides/ifconfig-parser/0.0.5;
   };
