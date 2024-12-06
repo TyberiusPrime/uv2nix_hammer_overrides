@@ -7285,6 +7285,9 @@
   python-ctags3 = {
     "1.6.0" = import ./overrides/python-ctags3/1.6.0;
   };
+  python-datemath = {
+    "3.0.1" = import ./overrides/python-datemath/3.0.1;
+  };
   python-dateutil = {
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
