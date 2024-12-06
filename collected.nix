@@ -2373,6 +2373,9 @@
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
+  eea-faceted-vocabularies = {
+    "7.0" = import ./overrides/eea-faceted-vocabularies/7.0;
+  };
   eebrightbox = {
     "0.0.6" = import ./overrides/eebrightbox/0.0.6;
   };
