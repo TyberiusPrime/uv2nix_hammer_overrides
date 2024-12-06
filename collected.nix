@@ -6773,6 +6773,9 @@
   pykcs11 = {
     "1.5.17" = import ./overrides/pykcs11/1.5.17;
   };
+  pykeepass = {
+    "4.1.0.post1" = import ./overrides/pykeepass/4.1.0.post1;
+  };
   pykeops = {
     "2.2.3" = import ./overrides/pykeops/2.2.3;
   };
