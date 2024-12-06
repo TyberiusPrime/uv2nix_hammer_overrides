@@ -1,12 +1,13 @@
 let
-  lib = pkgs.lib;
+  inherit (pkgs) lib;
   mupdf-cxx = pkgs.mupdf.override {
     enableOcr = true;
     enableCxx = true;
     enablePython = true;
     python3 = final.python;
   };
-in {
+in
+{
   # straight from nixpkgs.
   env = {
     # force using system MuPDF (must be defined in environment and empty)
@@ -17,24 +18,26 @@ in {
     PYMUPDF_MUPDF_LIB = "${lib.getLib mupdf-cxx}/lib";
     PYMUPDF_MUPDF_INCLUDE = "${lib.getDev mupdf-cxx}/include";
   };
-  nativeBuildInputs =
-    old.nativeBuildInputs
-    ++ [
-      final.libclang
-      final.swig
-      final.psutil
-      final.setuptools
-    ];
+  nativeBuildInputs = old.nativeBuildInputs ++ [
+    final.libclang
+    final.swig
+    final.psutil
+    final.setuptools
+  ];
 
-  buildInputs = with pkgs; ([
-      freetype
-      harfbuzz
-      openjpeg
-      jbig2dec
-      libjpeg_turbo
-      gumbo
-    ]
-    ++ lib.optionals (pkgs.stdenv.system == "x86_64-darwin") [memstreamHook]);
+  buildInputs =
+    with pkgs;
+    (
+      [
+        freetype
+        harfbuzz
+        openjpeg
+        jbig2dec
+        libjpeg_turbo
+        gumbo
+      ]
+      ++ lib.optionals (pkgs.stdenv.system == "x86_64-darwin") [ memstreamHook ]
+    );
 
   # TODO: manually add mupdf rpath until upstream fixes it
   preFixup = lib.optionalString pkgs.stdenv.hostPlatform.isDarwin ''

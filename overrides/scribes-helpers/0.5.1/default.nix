@@ -1,6 +1,1 @@
-{pkgs, ...}
-        : old: {
-  preBuild = "export HOME=$(mktemp -d)";
-}
-
-        
+_: _old: { preBuild = "export HOME=$(mktemp -d)"; }

@@ -1,3 +1,1 @@
-{
-  preBuild = "export HOME=$(mktemp -d)";
-}
+{ preBuild = "export HOME=$(mktemp -d)"; }

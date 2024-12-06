@@ -60,9 +60,7 @@ if keep_going:
 total = len(all_pkgs)
 accounted = len(all_pkgs) - len(todo)
 skipped = 0
-print("accounted", accounted, "out of", total, ('skipped', skipped))
-
-print ('bob-core' in all_pkgs, 'bob.core' in all_pkgs, normalize_python_package_name('bob.core'), 'bob-core' in todo)
+print("accounted", accounted, "out of", total)
 
 
 count = 0
@@ -106,7 +104,7 @@ for chosen in order:
         p = subprocess.run(["false"])
     msg = None
     if p.returncode != 0:
-        if 'timeout' == stderr:
+        if "timeout" == stderr:
             msg = "timeout"
         if "No non-pre release found" in stderr:
             msg == "Automatic: no (non-pre) release found"
@@ -129,7 +127,7 @@ for chosen in order:
             and "'['uv', 'lock'," in stderr
         ):
             msg = "Automatic: uv failure, required imp."
-        if 'ValueError: No non-pre release found' in stderr:
+        if "ValueError: No non-pre release found" in stderr:
             msg = "Automatic: no non-pre release found"
         if "package not on pypi" in stderr:
             msg = "Automatic: package not on pypi"
@@ -171,7 +169,7 @@ for chosen in order:
         # else:
         print("return code was not 0")
         if isinstance(stdout, bytes):
-            sys.stdout.write(stdout.decode('utf-8'))
+            sys.stdout.write(stdout.decode("utf-8"))
         else:
             sys.stdout.write(stdout)
         sys.stdout.write(stderr)
