@@ -8441,6 +8441,9 @@
   simplesam = {
     "0.1.4.1" = import ./overrides/simplesam/0.1.4.1;
   };
+  simplesat = {
+    "0.9.1" = import ./overrides/simplesat/0.9.1;
+  };
   simplesbml = {
     "2.3.0" = import ./overrides/simplesbml/2.3.0;
   };
