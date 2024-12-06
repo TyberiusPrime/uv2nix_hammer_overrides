@@ -325,6 +325,9 @@
   arcgis = {
     "2.3.1" = import ./overrides/arcgis/2.3.1;
   };
+  arch = {
+    "7.0.0" = import ./overrides/arch/7.0.0;
+  };
   archetypes-kss = {
     "1.7.3" = import ./overrides/archetypes-kss/1.7.3;
   };
