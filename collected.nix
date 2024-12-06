@@ -8822,6 +8822,9 @@
   stylus = {
     "0.1.2" = import ./overrides/stylus/0.1.2;
   };
+  subprocess-tee = {
+    "0.4.2" = import ./overrides/subprocess-tee/0.4.2;
+  };
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
   };
