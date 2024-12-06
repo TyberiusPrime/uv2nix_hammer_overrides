@@ -6979,6 +6979,9 @@
   pypi-publisher = {
     "0.0.4" = import ./overrides/pypi-publisher/0.0.4;
   };
+  pypi-simple = {
+    "1.6.0" = import ./overrides/pypi-simple/1.6.0;
+  };
   pypif = {
     "2.1.2" = import ./overrides/pypif/2.1.2;
   };
