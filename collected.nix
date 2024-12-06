@@ -1689,6 +1689,9 @@
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
+  datargs = {
+    "1.1.0" = import ./overrides/datargs/1.1.0;
+  };
   datashape = {
     "0.5.2" = import ./overrides/datashape/0.5.2;
   };
