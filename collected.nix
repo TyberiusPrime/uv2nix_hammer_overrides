@@ -3913,6 +3913,9 @@
   jfs = {
     "0.1.3" = import ./overrides/jfs/0.1.3;
   };
+  jgo = {
+    "1.0.6" = import ./overrides/jgo/1.0.6;
+  };
   jieba = {
     "0.42.1" = import ./overrides/jieba/0.42.1;
   };
