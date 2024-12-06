@@ -4093,6 +4093,9 @@
   kaggle = {
     "1.6.17" = import ./overrides/kaggle/1.6.17;
   };
+  kalasiris = {
+    "1.11.0" = import ./overrides/kalasiris/1.11.0;
+  };
   kamene = {
     "0.32" = import ./overrides/kamene/0.32;
   };
