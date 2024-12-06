@@ -2646,6 +2646,9 @@
   fabulous = {
     "0.4.0" = import ./overrides/fabulous/0.4.0;
   };
+  face = {
+    "22.0.0" = import ./overrides/face/22.0.0;
+  };
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
