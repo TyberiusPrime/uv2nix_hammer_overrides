@@ -4287,6 +4287,9 @@
   lbmessaging = {
     "1.2.4" = import ./overrides/lbmessaging/1.2.4;
   };
+  lc7001 = {
+    "1.0.5" = import ./overrides/lc7001/1.0.5;
+  };
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
