@@ -10031,6 +10031,9 @@
   xobjects = {
     "0.4.4" = import ./overrides/xobjects/0.4.4;
   };
+  xpinyin = {
+    "0.7.6" = import ./overrides/xpinyin/0.7.6;
+  };
   xrootd = {
     "5.7.1" = import ./overrides/xrootd/5.7.1;
   };
