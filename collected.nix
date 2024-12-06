@@ -1187,11 +1187,47 @@
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
+  collective-compoundcriterion = {
+    "0.7" = import ./overrides/collective-compoundcriterion/0.7;
+  };
+  collective-contact-core = {
+    "1.42.0" = import ./overrides/collective-contact-core/1.42.0;
+  };
+  collective-contact-widget = {
+    "1.13" = import ./overrides/collective-contact-widget/1.13;
+  };
+  collective-dexteritytextindexer = {
+    "2.4.1" = import ./overrides/collective-dexteritytextindexer/2.4.1;
+  };
+  collective-documentgenerator = {
+    "3.44" = import ./overrides/collective-documentgenerator/3.44;
+  };
+  collective-eeafaceted-batchactions = {
+    "1.15" = import ./overrides/collective-eeafaceted-batchactions/1.15;
+  };
+  collective-eeafaceted-collectionwidget = {
+    "1.17" = import ./overrides/collective-eeafaceted-collectionwidget/1.17;
+  };
+  collective-eeafaceted-dashboard = {
+    "0.22.0" = import ./overrides/collective-eeafaceted-dashboard/0.22.0;
+  };
+  collective-excelexport = {
+    "1.8.2" = import ./overrides/collective-excelexport/1.8.2;
+  };
   collective-geo-settings = {
     "4.0" = import ./overrides/collective-geo-settings/4.0;
   };
   collective-iconifieddocumentactions = {
     "1.3.2" = import ./overrides/collective-iconifieddocumentactions/1.3.2;
+  };
+  collective-js-iframeresizer = {
+    "0.4" = import ./overrides/collective-js-iframeresizer/0.4;
+  };
+  collective-js-jqueryui = {
+    "2.2.0" = import ./overrides/collective-js-jqueryui/2.2.0;
+  };
+  collective-quickupload = {
+    "1.11.1" = import ./overrides/collective-quickupload/1.11.1;
   };
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
@@ -2384,6 +2420,9 @@
   };
   eea-faceted-vocabularies = {
     "7.0" = import ./overrides/eea-faceted-vocabularies/7.0;
+  };
+  eea-facetednavigation = {
+    "15.1" = import ./overrides/eea-facetednavigation/15.1;
   };
   eebrightbox = {
     "0.0.6" = import ./overrides/eebrightbox/0.0.6;
@@ -3630,6 +3669,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  infrae-cache = {
+    "1.0.1" = import ./overrides/infrae-cache/1.0.1;
+  };
   infrae-wsgi = {
     "2.2.1" = import ./overrides/infrae-wsgi/2.2.1;
   };
@@ -3845,6 +3887,12 @@
   };
   jquery-layer = {
     "1.0.0" = import ./overrides/jquery-layer/1.0.0;
+  };
+  js-jquery-timepicker-addon = {
+    "1.5.3" = import ./overrides/js-jquery-timepicker-addon/1.5.3;
+  };
+  js-jqueryui = {
+    "1.10.3" = import ./overrides/js-jqueryui/1.10.3;
   };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
@@ -5990,11 +6038,20 @@
   products-cmfdefault = {
     "2.2.4" = import ./overrides/products-cmfdefault/2.2.4;
   };
+  products-maps = {
+    "3.3" = import ./overrides/products-maps/3.3;
+  };
+  products-redirectiontool = {
+    "1.4.1" = import ./overrides/products-redirectiontool/1.4.1;
+  };
   products-resourceregistries = {
     "3.0.8" = import ./overrides/products-resourceregistries/3.0.8;
   };
   products-silvametadata = {
     "3.0.1" = import ./overrides/products-silvametadata/3.0.1;
+  };
+  products-templatefields = {
+    "1.2.5" = import ./overrides/products-templatefields/1.2.5;
   };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
@@ -8185,6 +8242,9 @@
   silpa-common = {
     "0.3" = import ./overrides/silpa-common/0.3;
   };
+  silva-core-cache = {
+    "3.0.2" = import ./overrides/silva-core-cache/3.0.2;
+  };
   silva-core-conf = {
     "3.0.3" = import ./overrides/silva-core-conf/3.0.3;
   };
@@ -8196,6 +8256,9 @@
   };
   silva-core-views = {
     "3.0.2" = import ./overrides/silva-core-views/3.0.2;
+  };
+  silva-fanstatic = {
+    "1.2" = import ./overrides/silva-fanstatic/1.2;
   };
   silva-translations = {
     "3.0.2" = import ./overrides/silva-translations/3.0.2;
@@ -9913,11 +9976,17 @@
   zodbcode = {
     "3.4.0" = import ./overrides/zodbcode/3.4.0;
   };
+  zope-app-cache = {
+    "3.7.0" = import ./overrides/zope-app-cache/3.7.0;
+  };
   zope-app-interface = {
     "3.6.0" = import ./overrides/zope-app-interface/3.6.0;
   };
   zope-app-zapi = {
     "3.5.0" = import ./overrides/zope-app-zapi/3.5.0;
+  };
+  zope-fanstatic = {
+    "3.0.0" = import ./overrides/zope-fanstatic/3.0.0;
   };
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
