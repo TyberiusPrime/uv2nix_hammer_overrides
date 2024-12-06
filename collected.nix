@@ -1298,6 +1298,9 @@
   colored = {
     "1.4.4" = import ./overrides/colored/1.4.4;
   };
+  coloredlogs = {
+    "15.0.1" = import ./overrides/coloredlogs/15.0.1;
+  };
   colormath = {
     "3.0.0" = import ./overrides/colormath/3.0.0;
   };
