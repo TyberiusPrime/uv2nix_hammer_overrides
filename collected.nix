@@ -4904,6 +4904,9 @@
   moksha-hub = {
     "1.5.17" = import ./overrides/moksha-hub/1.5.17;
   };
+  molecule-plugins = {
+    "23.5.3" = import ./overrides/molecule-plugins/23.5.3;
+  };
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
