@@ -7164,6 +7164,9 @@
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
+  pyspcwebgw = {
+    "0.7.0" = import ./overrides/pyspcwebgw/0.7.0;
+  };
   pyspf = {
     "2.0.14" = import ./overrides/pyspf/2.0.14;
   };
