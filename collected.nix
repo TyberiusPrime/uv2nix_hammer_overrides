@@ -6123,6 +6123,9 @@
   products-cmfdefault = {
     "2.2.4" = import ./overrides/products-cmfdefault/2.2.4;
   };
+  products-cron4plone = {
+    "1.1.11" = import ./overrides/products-cron4plone/1.1.11;
+  };
   products-maps = {
     "3.3" = import ./overrides/products-maps/3.3;
   };
