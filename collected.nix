@@ -6864,6 +6864,9 @@
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
+  pymupdf = {
+    "1.24.10" = import ./overrides/pymupdf/1.24.10;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
@@ -7002,6 +7005,9 @@
   };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
+  };
+  pyramid-deform = {
+    "0.2" = import ./overrides/pyramid-deform/0.2;
   };
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
@@ -8350,6 +8356,9 @@
   };
   silva-core-interfaces = {
     "3.0.4" = import ./overrides/silva-core-interfaces/3.0.4;
+  };
+  silva-core-messages = {
+    "2.3" = import ./overrides/silva-core-messages/2.3;
   };
   silva-core-services = {
     "3.0.1" = import ./overrides/silva-core-services/3.0.1;
@@ -10126,6 +10135,9 @@
   };
   zope-app-zapi = {
     "3.5.0" = import ./overrides/zope-app-zapi/3.5.0;
+  };
+  zope-documenttemplate = {
+    "3.4.3" = import ./overrides/zope-documenttemplate/3.4.3;
   };
   zope-fanstatic = {
     "3.0.0" = import ./overrides/zope-fanstatic/3.0.0;
