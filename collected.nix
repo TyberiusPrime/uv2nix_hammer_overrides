@@ -7496,6 +7496,9 @@
   python-vxi11 = {
     "0.9" = import ./overrides/python-vxi11/0.9;
   };
+  python-whois = {
+    "0.9.4" = import ./overrides/python-whois/0.9.4;
+  };
   python-wifi = {
     "0.6.1" = import ./overrides/python-wifi/0.6.1;
   };
