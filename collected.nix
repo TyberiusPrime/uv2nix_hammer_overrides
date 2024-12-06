@@ -3468,6 +3468,9 @@
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
+  hkavr = {
+    "0.0.5" = import ./overrides/hkavr/0.0.5;
+  };
   hkdf = {
     "0.0.3" = import ./overrides/hkdf/0.0.3;
   };
