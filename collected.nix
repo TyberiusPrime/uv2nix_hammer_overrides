@@ -9702,6 +9702,9 @@
   vincenty = {
     "0.1.4" = import ./overrides/vincenty/0.1.4;
   };
+  virt-firmware = {
+    "24.7" = import ./overrides/virt-firmware/24.7;
+  };
   virtstrap-core = {
     "0.3.16" = import ./overrides/virtstrap-core/0.3.16;
   };
