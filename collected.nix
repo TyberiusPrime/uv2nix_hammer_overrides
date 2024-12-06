@@ -7865,6 +7865,9 @@
   reolink = {
     "0.0.64" = import ./overrides/reolink/0.0.64;
   };
+  reolink-aio = {
+    "0.9.8" = import ./overrides/reolink-aio/0.9.8;
+  };
   repackage = {
     "0.7.3" = import ./overrides/repackage/0.7.3;
   };
