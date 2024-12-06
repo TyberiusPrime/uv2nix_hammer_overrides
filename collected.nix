@@ -3004,6 +3004,9 @@
   ftfy = {
     "4.4.3" = import ./overrides/ftfy/4.4.3;
   };
+  ftpretty = {
+    "0.4.0" = import ./overrides/ftpretty/0.4.0;
+  };
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
