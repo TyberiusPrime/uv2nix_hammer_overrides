@@ -6339,6 +6339,9 @@
   py-vollib = {
     "1.0.1" = import ./overrides/py-vollib/1.0.1;
   };
+  py-zipkin = {
+    "1.2.8" = import ./overrides/py-zipkin/1.2.8;
+  };
   py2bit = {
     "0.3.0" = import ./overrides/py2bit/0.3.0;
   };
