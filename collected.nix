@@ -8816,6 +8816,9 @@
   stripogram = {
     "1.5" = import ./overrides/stripogram/1.5;
   };
+  striprtf = {
+    "0.0.26" = import ./overrides/striprtf/0.0.26;
+  };
   stubserver = {
     "1.1" = import ./overrides/stubserver/1.1;
   };
