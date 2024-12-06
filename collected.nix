@@ -6180,6 +6180,9 @@
   projectq = {
     "0.8.0" = import ./overrides/projectq/0.8.0;
   };
+  prometheus-async = {
+    "22.2.0" = import ./overrides/prometheus-async/22.2.0;
+  };
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
