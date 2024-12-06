@@ -5064,6 +5064,9 @@
   mybad = {
     "0.2.0" = import ./overrides/mybad/0.2.0;
   };
+  mypy-boto3-omics = {
+    "1.35.7" = import ./overrides/mypy-boto3-omics/1.35.7;
+  };
   mypy-extensions = {
     "0.4.4" = import ./overrides/mypy-extensions/0.4.4;
   };
