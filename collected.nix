@@ -4383,6 +4383,9 @@
   licorice = {
     "0.0.7" = import ./overrides/licorice/0.0.7;
   };
+  life360 = {
+    "7.0.1" = import ./overrides/life360/7.0.1;
+  };
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
