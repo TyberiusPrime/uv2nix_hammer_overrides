@@ -8972,6 +8972,9 @@
   tendril-utils-yaml = {
     "0.2.2" = import ./overrides/tendril-utils-yaml/0.2.2;
   };
+  tensorboard-plugin-profile = {
+    "2.17.0" = import ./overrides/tensorboard-plugin-profile/2.17.0;
+  };
   tensordict = {
     "0.5.0" = import ./overrides/tensordict/0.5.0;
   };
