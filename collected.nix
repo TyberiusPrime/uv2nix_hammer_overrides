@@ -10058,6 +10058,9 @@
   yamlcfg = {
     "0.5.3" = import ./overrides/yamlcfg/0.5.3;
   };
+  yamlconf = {
+    "0.2.6" = import ./overrides/yamlconf/0.2.6;
+  };
   yamlreader = {
     "3.0.4" = import ./overrides/yamlreader/3.0.4;
   };
