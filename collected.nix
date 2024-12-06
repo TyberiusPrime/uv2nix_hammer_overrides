@@ -2433,6 +2433,9 @@
   easy-config = {
     "0.2.0" = import ./overrides/easy-config/0.2.0;
   };
+  easy-events = {
+    "3.1.1" = import ./overrides/easy-events/3.1.1;
+  };
   easycli = {
     "1.9.3" = import ./overrides/easycli/1.9.3;
   };
