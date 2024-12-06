@@ -2800,6 +2800,9 @@
     "0.14.1" = import ./overrides/flake8-quotes/0.14.1;
     "1.0.0" = import ./overrides/flake8-quotes/1.0.0;
   };
+  flake8-super-call = {
+    "1.0.0" = import ./overrides/flake8-super-call/1.0.0;
+  };
   flake8-todo = {
     "0.7" = import ./overrides/flake8-todo/0.7;
   };
