@@ -9162,6 +9162,9 @@
   txwebsocket = {
     "1.1.1" = import ./overrides/txwebsocket/1.1.1;
   };
+  txws = {
+    "0.9.1" = import ./overrides/txws/0.9.1;
+  };
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
