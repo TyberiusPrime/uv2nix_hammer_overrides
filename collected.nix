@@ -9558,6 +9558,9 @@
   untokenize = {
     "0.1.1" = import ./overrides/untokenize/0.1.1;
   };
+  update-checker = {
+    "0.18.0" = import ./overrides/update-checker/0.18.0;
+  };
   update-copyright = {
     "0.6.2" = import ./overrides/update-copyright/0.6.2;
   };
