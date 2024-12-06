@@ -5286,6 +5286,9 @@
   nmslib = {
     "2.1.1" = import ./overrides/nmslib/2.1.1;
   };
+  nocaselist = {
+    "2.0.3" = import ./overrides/nocaselist/2.0.3;
+  };
   nodejs = {
     "0.1.1" = import ./overrides/nodejs/0.1.1;
   };
