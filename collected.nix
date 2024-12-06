@@ -2946,8 +2946,14 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  ftw-colorbox = {
+    "1.6.4" = import ./overrides/ftw-colorbox/1.6.4;
+  };
   ftw-profilehook = {
     "1.3.0" = import ./overrides/ftw-profilehook/1.3.0;
+  };
+  ftw-upgrade = {
+    "3.3.1" = import ./overrides/ftw-upgrade/3.3.1;
   };
   funbelts = {
     "0.1.86" = import ./overrides/funbelts/0.1.86;
@@ -3891,6 +3897,9 @@
   jquery-layer = {
     "1.0.0" = import ./overrides/jquery-layer/1.0.0;
   };
+  js-jquery-form = {
+    "3.9" = import ./overrides/js-jquery-form/3.9;
+  };
   js-jquery-timepicker-addon = {
     "1.5.3" = import ./overrides/js-jquery-timepicker-addon/1.5.3;
   };
@@ -4602,6 +4611,9 @@
   };
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
+  };
+  megrok-layout = {
+    "1.3" = import ./overrides/megrok-layout/1.3;
   };
   megrok-pagetemplate = {
     "0.7" = import ./overrides/megrok-pagetemplate/0.7;
@@ -5879,17 +5891,26 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plone-app-form = {
+    "2.3.3" = import ./overrides/plone-app-form/2.3.3;
+  };
   plone-app-jquery = {
     "1.11.2" = import ./overrides/plone-app-jquery/1.11.2;
   };
   plone-app-jquerytools = {
     "1.9.5" = import ./overrides/plone-app-jquerytools/1.9.5;
   };
+  plone-app-ldap = {
+    "1.4.4" = import ./overrides/plone-app-ldap/1.4.4;
+  };
   plone-directives-dexterity = {
     "1.0.2" = import ./overrides/plone-directives-dexterity/1.0.2;
   };
   plone-directives-form = {
     "2.0.3" = import ./overrides/plone-directives-form/2.0.3;
+  };
+  plone-formwidget-captcha = {
+    "1.0.3" = import ./overrides/plone-formwidget-captcha/1.0.3;
   };
   plone-formwidget-datetime = {
     "1.3.5" = import ./overrides/plone-formwidget-datetime/1.3.5;
@@ -6043,6 +6064,9 @@
   };
   products-maps = {
     "3.3" = import ./overrides/products-maps/3.3;
+  };
+  products-ploneldap = {
+    "1.2" = import ./overrides/products-ploneldap/1.2;
   };
   products-redirectiontool = {
     "1.4.1" = import ./overrides/products-redirectiontool/1.4.1;
@@ -6501,6 +6525,9 @@
   };
   pyexiv2 = {
     "2.14.0" = import ./overrides/pyexiv2/2.14.0;
+  };
+  pyf-dataflow = {
+    "2.0.2" = import ./overrides/pyf-dataflow/2.0.2;
   };
   pyf-splitter = {
     "3.1" = import ./overrides/pyf-splitter/3.1;
@@ -9945,6 +9972,15 @@
   };
   zbxsend = {
     "0.1.6" = import ./overrides/zbxsend/0.1.6;
+  };
+  zc-configuration = {
+    "1.2.0" = import ./overrides/zc-configuration/1.2.0;
+  };
+  zc-monitor = {
+    "0.4.0.post1" = import ./overrides/zc-monitor/0.4.0.post1;
+  };
+  zc-ngi = {
+    "2.1.0" = import ./overrides/zc-ngi/2.1.0;
   };
   zc-recipe-deployment = {
     "1.3.0" = import ./overrides/zc-recipe-deployment/1.3.0;
