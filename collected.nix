@@ -9522,6 +9522,9 @@
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
   };
+  unique-log-filter = {
+    "0.1.0" = import ./overrides/unique-log-filter/0.1.0;
+  };
   unisos-icm = {
     "0.26" = import ./overrides/unisos-icm/0.26;
   };
