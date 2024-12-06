@@ -6015,6 +6015,9 @@
   plugnplay = {
     "0.5.4" = import ./overrides/plugnplay/0.5.4;
   };
+  plugwise = {
+    "1.2.0" = import ./overrides/plugwise/1.2.0;
+  };
   plumbing = {
     "2.11.2" = import ./overrides/plumbing/2.11.2;
   };
