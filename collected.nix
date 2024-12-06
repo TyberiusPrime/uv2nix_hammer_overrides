@@ -2114,6 +2114,9 @@
   django-redis-cache = {
     "3.0.1" = import ./overrides/django-redis-cache/3.0.1;
   };
+  django-registration = {
+    "3.4" = import ./overrides/django-registration/3.4;
+  };
   django-rest-auth = {
     "0.9.5" = import ./overrides/django-rest-auth/0.9.5;
   };
