@@ -8130,6 +8130,9 @@
   sdnotify = {
     "0.3.2" = import ./overrides/sdnotify/0.3.2;
   };
+  seantis-plonetools = {
+    "0.18" = import ./overrides/seantis-plonetools/0.18;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
