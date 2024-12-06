@@ -2102,6 +2102,9 @@
   django-push-notifications = {
     "3.1.0" = import ./overrides/django-push-notifications/3.1.0;
   };
+  django-pwa = {
+    "2.0.0" = import ./overrides/django-pwa/2.0.0;
+  };
   django-qsstats-magic = {
     "1.1.0" = import ./overrides/django-qsstats-magic/1.1.0;
   };
