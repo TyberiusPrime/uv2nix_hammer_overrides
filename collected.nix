@@ -7345,6 +7345,9 @@
   python-google-places = {
     "1.4.2" = import ./overrides/python-google-places/1.4.2;
   };
+  python-graphql-client = {
+    "0.4.3" = import ./overrides/python-graphql-client/0.4.3;
+  };
   python-helper = {
     "0.3.74" = import ./overrides/python-helper/0.3.74;
   };
