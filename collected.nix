@@ -8254,6 +8254,9 @@
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
   };
+  scriptworker = {
+    "60.4.0" = import ./overrides/scriptworker/60.4.0;
+  };
   scrypt = {
     "0.8.13" = import ./overrides/scrypt/0.8.13;
   };
