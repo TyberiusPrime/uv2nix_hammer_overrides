@@ -4945,6 +4945,12 @@
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
+  ng-app-objectqueue = {
+    "0.0.8" = import ./overrides/ng-app-objectqueue/0.0.8;
+  };
+  ng-utility = {
+    "1.0.3" = import ./overrides/ng-utility/1.0.3;
+  };
   nglview = {
     "3.1.2" = import ./overrides/nglview/3.1.2;
   };
