@@ -1193,6 +1193,9 @@
   cmapy = {
     "0.6.6" = import ./overrides/cmapy/0.6.6;
   };
+  cmd2-ext-test = {
+    "2.0.0" = import ./overrides/cmd2-ext-test/2.0.0;
+  };
   cmdline = {
     "0.2.0" = import ./overrides/cmdline/0.2.0;
   };
