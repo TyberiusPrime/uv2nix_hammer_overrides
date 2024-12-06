@@ -5235,6 +5235,9 @@
   nilsimsa = {
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
   };
+  niluclient = {
+    "0.1.2" = import ./overrides/niluclient/0.1.2;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
