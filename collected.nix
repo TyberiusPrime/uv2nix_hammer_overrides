@@ -3314,6 +3314,9 @@
     "1.1.3" = import ./overrides/graphql-server-core/1.1.3;
     "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
   };
+  graspologic = {
+    "3.4.1" = import ./overrides/graspologic/3.4.1;
+  };
   greenlet = {
     "3.1.0" = import ./overrides/greenlet/3.1.0;
   };
