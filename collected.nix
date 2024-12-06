@@ -3898,6 +3898,9 @@
   javabridge = {
     "1.0.19" = import ./overrides/javabridge/1.0.19;
   };
+  javaobj-py3 = {
+    "0.4.4" = import ./overrides/javaobj-py3/0.4.4;
+  };
   jax = {
     "0.3.25" = import ./overrides/jax/0.3.25;
   };
