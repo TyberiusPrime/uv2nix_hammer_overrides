@@ -858,6 +858,9 @@
   btlewrap = {
     "0.1.1" = import ./overrides/btlewrap/0.1.1;
   };
+  btrack = {
+    "0.6.5" = import ./overrides/btrack/0.6.5;
+  };
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
