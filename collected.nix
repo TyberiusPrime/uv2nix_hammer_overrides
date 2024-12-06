@@ -8891,6 +8891,9 @@
   tambo = {
     "0.4.0" = import ./overrides/tambo/0.4.0;
   };
+  taming-transformers-rom1504 = {
+    "0.0.6" = import ./overrides/taming-transformers-rom1504/0.0.6;
+  };
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
