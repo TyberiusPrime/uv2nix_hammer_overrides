@@ -954,6 +954,9 @@
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
+  cdktf-cdktf-provider-aws = {
+    "19.33.0" = import ./overrides/cdktf-cdktf-provider-aws/19.33.0;
+  };
   cdumay-error = {
     "0.2.0" = import ./overrides/cdumay-error/0.2.0;
   };
