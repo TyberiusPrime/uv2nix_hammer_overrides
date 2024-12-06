@@ -2807,6 +2807,7 @@
     "0.9.11" = import ./overrides/flanker/0.9.11;
   };
   flasgger = {
+    "0.9.7.1" = import ./overrides/flasgger/0.9.7.1;
     "0.9.7.2.dev2" = import ./overrides/flasgger/0.9.7.2.dev2;
   };
   flashtext = {
@@ -7223,6 +7224,9 @@
   };
   pytest-expect = {
     "1.1.0" = import ./overrides/pytest-expect/1.1.0;
+  };
+  pytest-httpbin = {
+    "2.0.0" = import ./overrides/pytest-httpbin/2.0.0;
   };
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
