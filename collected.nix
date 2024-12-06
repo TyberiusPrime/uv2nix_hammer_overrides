@@ -7781,6 +7781,9 @@
   ratelimit = {
     "2.2.1" = import ./overrides/ratelimit/2.2.1;
   };
+  rath = {
+    "0.5.0" = import ./overrides/rath/0.5.0;
+  };
   rattail = {
     "0.18.11" = import ./overrides/rattail/0.18.11;
   };
