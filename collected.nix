@@ -9711,6 +9711,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  webcouturier-dropdownmenu = {
+    "3.0.2" = import ./overrides/webcouturier-dropdownmenu/3.0.2;
+  };
   webdavclient3 = {
     "3.14.6" = import ./overrides/webdavclient3/3.14.6;
   };
