@@ -307,6 +307,9 @@
   applescript = {
     "2021.2.9" = import ./overrides/applescript/2021.2.9;
   };
+  appy = {
+    "1.0.18" = import ./overrides/appy/1.0.18;
+  };
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
@@ -318,6 +321,9 @@
   };
   arcgis = {
     "2.3.1" = import ./overrides/arcgis/2.3.1;
+  };
+  archetypes-querywidget = {
+    "1.1.3" = import ./overrides/archetypes-querywidget/1.1.3;
   };
   arcor2 = {
     "1.4.0" = import ./overrides/arcor2/1.4.0;
@@ -3572,6 +3578,21 @@
   };
   imgviz = {
     "1.7.5" = import ./overrides/imgviz/1.7.5;
+  };
+  imio-actionspanel = {
+    "1.68" = import ./overrides/imio-actionspanel/1.68;
+  };
+  imio-dashboard = {
+    "2.12" = import ./overrides/imio-dashboard/2.12;
+  };
+  imio-history = {
+    "1.27" = import ./overrides/imio-history/1.27;
+  };
+  imio-migrator = {
+    "1.38" = import ./overrides/imio-migrator/1.38;
+  };
+  imio-prettylink = {
+    "1.22" = import ./overrides/imio-prettylink/1.22;
   };
   imm-source = {
     "1.0.30" = import ./overrides/imm-source/1.0.30;
