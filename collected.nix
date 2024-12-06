@@ -8075,6 +8075,9 @@
   rubymarshal = {
     "1.2.7" = import ./overrides/rubymarshal/1.2.7;
   };
+  rucio-clients = {
+    "35.2.1" = import ./overrides/rucio-clients/35.2.1;
+  };
   runcmd = {
     "2020.12.3" = import ./overrides/runcmd/2020.12.3;
   };
