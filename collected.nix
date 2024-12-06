@@ -8927,6 +8927,9 @@
   telethon = {
     "1.36.0" = import ./overrides/telethon/1.36.0;
   };
+  telethon-session-sqlalchemy = {
+    "0.2.16" = import ./overrides/telethon-session-sqlalchemy/0.2.16;
+  };
   tellduslive = {
     "0.10.12" = import ./overrides/tellduslive/0.10.12;
   };
