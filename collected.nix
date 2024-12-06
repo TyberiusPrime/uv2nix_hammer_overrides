@@ -322,6 +322,9 @@
   arcgis = {
     "2.3.1" = import ./overrides/arcgis/2.3.1;
   };
+  archetypes-kss = {
+    "1.7.3" = import ./overrides/archetypes-kss/1.7.3;
+  };
   archetypes-querywidget = {
     "1.1.3" = import ./overrides/archetypes-querywidget/1.1.3;
   };
@@ -535,6 +538,12 @@
   };
   azure-cognitiveservices-speech = {
     "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
+  };
+  azureml-automl-core = {
+    "1.57.0" = import ./overrides/azureml-automl-core/1.57.0;
+  };
+  azureml-train-automl-client = {
+    "1.57.0" = import ./overrides/azureml-train-automl-client/1.57.0;
   };
   backends = {
     "1.6.6" = import ./overrides/backends/1.6.6;
@@ -4202,6 +4211,9 @@
   kss = {
     "6.0.4" = import ./overrides/kss/6.0.4;
   };
+  kss-core = {
+    "1.6.5" = import ./overrides/kss-core/1.6.5;
+  };
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
   };
@@ -5952,6 +5964,9 @@
   plone-app-jquerytools = {
     "1.9.5" = import ./overrides/plone-app-jquerytools/1.9.5;
   };
+  plone-app-kss = {
+    "1.8.0" = import ./overrides/plone-app-kss/1.8.0;
+  };
   plone-app-ldap = {
     "1.4.4" = import ./overrides/plone-app-ldap/1.4.4;
   };
@@ -6864,6 +6879,9 @@
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
+  pymupdf = {
+    "1.24.10" = import ./overrides/pymupdf/1.24.10;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
@@ -7002,6 +7020,9 @@
   };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
+  };
+  pyramid-deform = {
+    "0.2" = import ./overrides/pyramid-deform/0.2;
   };
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
@@ -8350,6 +8371,9 @@
   };
   silva-core-interfaces = {
     "3.0.4" = import ./overrides/silva-core-interfaces/3.0.4;
+  };
+  silva-core-messages = {
+    "2.3" = import ./overrides/silva-core-messages/2.3;
   };
   silva-core-services = {
     "3.0.1" = import ./overrides/silva-core-services/3.0.1;
