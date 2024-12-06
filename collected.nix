@@ -3134,6 +3134,9 @@
   geoid = {
     "1.1.5" = import ./overrides/geoid/1.1.5;
   };
+  geojson-rewind = {
+    "1.1.0" = import ./overrides/geojson-rewind/1.1.0;
+  };
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
