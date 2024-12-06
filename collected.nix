@@ -4949,6 +4949,9 @@
   moz-sql-parser = {
     "4.40.21126" = import ./overrides/moz-sql-parser/4.40.21126;
   };
+  mozcrash = {
+    "2.2.0" = import ./overrides/mozcrash/2.2.0;
+  };
   mozdevice = {
     "4.1.2" = import ./overrides/mozdevice/4.1.2;
   };
