@@ -117,6 +117,9 @@
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
+  aiolifx-connection = {
+    "1.0.0" = import ./overrides/aiolifx-connection/1.0.0;
+  };
   aiolivisi = {
     "0.0.19" = import ./overrides/aiolivisi/0.0.19;
   };
