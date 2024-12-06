@@ -1229,6 +1229,9 @@
   codernitydb = {
     "0.5.0" = import ./overrides/codernitydb/0.5.0;
   };
+  coffea = {
+    "2024.8.3" = import ./overrides/coffea/2024.8.3;
+  };
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
