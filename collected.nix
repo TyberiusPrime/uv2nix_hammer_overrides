@@ -7520,6 +7520,9 @@
   python3-modargs = {
     "2.0.2" = import ./overrides/python3-modargs/2.0.2;
   };
+  python3-protobuf = {
+    "2.5.0" = import ./overrides/python3-protobuf/2.5.0;
+  };
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
   };
@@ -7948,6 +7951,9 @@
   };
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
+  };
+  riak = {
+    "2.7.0" = import ./overrides/riak/2.7.0;
   };
   rig = {
     "2.4.1" = import ./overrides/rig/2.4.1;
