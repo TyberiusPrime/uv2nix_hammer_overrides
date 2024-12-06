@@ -5523,6 +5523,9 @@
   orderedset = {
     "2.0.3" = import ./overrides/orderedset/2.0.3;
   };
+  ore-alchemist = {
+    "0.6.0" = import ./overrides/ore-alchemist/0.6.0;
+  };
   orvibo = {
     "1.1.2" = import ./overrides/orvibo/1.1.2;
   };
