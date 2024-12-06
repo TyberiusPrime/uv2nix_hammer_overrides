@@ -102,6 +102,9 @@
   aiohttp-apispec = {
     "2.2.3" = import ./overrides/aiohttp-apispec/2.2.3;
   };
+  aiohttp-client-cache = {
+    "0.11.1" = import ./overrides/aiohttp-client-cache/0.11.1;
+  };
   aiohttp-devtools = {
     "1.1.2" = import ./overrides/aiohttp-devtools/1.1.2;
   };
