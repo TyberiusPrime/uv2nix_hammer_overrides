@@ -1647,6 +1647,9 @@
   daemon = {
     "1.2" = import ./overrides/daemon/1.2;
   };
+  daemonize = {
+    "2.5.0" = import ./overrides/daemonize/2.5.0;
+  };
   daemonocle = {
     "1.2.3" = import ./overrides/daemonocle/1.2.3;
   };
