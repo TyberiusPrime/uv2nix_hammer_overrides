@@ -4738,6 +4738,12 @@
   modulemd = {
     "1.3.3" = import ./overrides/modulemd/1.3.3;
   };
+  moksha-common = {
+    "1.2.5" = import ./overrides/moksha-common/1.2.5;
+  };
+  moksha-hub = {
+    "1.5.17" = import ./overrides/moksha-hub/1.5.17;
+  };
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
