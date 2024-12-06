@@ -8003,6 +8003,9 @@
   roman = {
     "3.1" = import ./overrides/roman/3.1;
   };
+  roombapy = {
+    "1.8.1" = import ./overrides/roombapy/1.8.1;
+  };
   ropper = {
     "1.13.8" = import ./overrides/ropper/1.13.8;
   };
