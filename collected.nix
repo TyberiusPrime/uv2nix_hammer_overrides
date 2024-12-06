@@ -9675,6 +9675,9 @@
   vedo = {
     "2024.5.2" = import ./overrides/vedo/2024.5.2;
   };
+  vega-datasets = {
+    "0.9.0" = import ./overrides/vega-datasets/0.9.0;
+  };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
