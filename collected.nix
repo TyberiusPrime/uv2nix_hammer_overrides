@@ -162,6 +162,9 @@
   aldryn-reversion = {
     "1.1.0" = import ./overrides/aldryn-reversion/1.1.0;
   };
+  aldryn-search = {
+    "1.1.0" = import ./overrides/aldryn-search/1.1.0;
+  };
   aleksis = {
     "2023.6.1" = import ./overrides/aleksis/2023.6.1;
   };
