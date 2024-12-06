@@ -1988,6 +1988,9 @@
   django-haystack = {
     "3.3.0" = import ./overrides/django-haystack/3.3.0;
   };
+  django-hierarkey = {
+    "1.2.0" = import ./overrides/django-hierarkey/1.2.0;
+  };
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
