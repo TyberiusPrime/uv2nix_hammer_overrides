@@ -3317,6 +3317,9 @@
   greenlet = {
     "3.1.0" = import ./overrides/greenlet/3.1.0;
   };
+  grip = {
+    "4.6.2" = import ./overrides/grip/4.6.2;
+  };
   gripcontrol = {
     "4.2.0" = import ./overrides/gripcontrol/4.2.0;
   };
