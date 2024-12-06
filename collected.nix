@@ -801,6 +801,9 @@
   bnnumerizer = {
     "0.0.2" = import ./overrides/bnnumerizer/0.0.2;
   };
+  bokkichat = {
+    "0.4.5" = import ./overrides/bokkichat/0.4.5;
+  };
   bolt-python = {
     "0.7.1" = import ./overrides/bolt-python/0.7.1;
   };
