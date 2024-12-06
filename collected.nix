@@ -3196,6 +3196,9 @@
   grvlms-openedx = {
     "1.0.6" = import ./overrides/grvlms-openedx/1.0.6;
   };
+  gsignals = {
+    "0.2.1" = import ./overrides/gsignals/0.2.1;
+  };
   gssapi = {
     "1.8.3" = import ./overrides/gssapi/1.8.3;
   };
@@ -5859,6 +5862,12 @@
   };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
+  };
+  products-cmfcalendar = {
+    "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
+  };
+  products-cmfdefault = {
+    "2.2.4" = import ./overrides/products-cmfdefault/2.2.4;
   };
   products-resourceregistries = {
     "3.0.8" = import ./overrides/products-resourceregistries/3.0.8;
