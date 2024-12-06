@@ -4171,6 +4171,9 @@
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
+  khanaa = {
+    "0.1.1" = import ./overrides/khanaa/0.1.1;
+  };
   khmer = {
     "2.1.1" = import ./overrides/khmer/2.1.1;
   };
