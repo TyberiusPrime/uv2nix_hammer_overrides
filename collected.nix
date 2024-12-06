@@ -10028,6 +10028,9 @@
   xmpppy = {
     "0.7.1" = import ./overrides/xmpppy/0.7.1;
   };
+  xnat = {
+    "0.6.2" = import ./overrides/xnat/0.6.2;
+  };
   xobjects = {
     "0.4.4" = import ./overrides/xobjects/0.4.4;
   };
