@@ -2358,6 +2358,9 @@
   ecmwf-api-client = {
     "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
   };
+  ecreall-helpers-upgrade = {
+    "1.4" = import ./overrides/ecreall-helpers-upgrade/1.4;
+  };
   ed25519-blake2b = {
     "1.4.1" = import ./overrides/ed25519-blake2b/1.4.1;
   };
