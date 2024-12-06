@@ -8544,6 +8544,9 @@
   snaptime = {
     "0.2.4" = import ./overrides/snaptime/0.2.4;
   };
+  snoop = {
+    "0.4.3" = import ./overrides/snoop/0.4.3;
+  };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
