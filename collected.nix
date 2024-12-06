@@ -6581,6 +6581,9 @@
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
+  pyecharts-snapshot = {
+    "0.2.0" = import ./overrides/pyecharts-snapshot/0.2.0;
+  };
   pyechonest = {
     "9.0.0" = import ./overrides/pyechonest/9.0.0;
   };
