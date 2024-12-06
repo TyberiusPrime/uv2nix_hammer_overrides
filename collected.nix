@@ -1331,6 +1331,9 @@
   commontools = {
     "0.1.0" = import ./overrides/commontools/0.1.0;
   };
+  compas = {
+    "2.4.1" = import ./overrides/compas/2.4.1;
+  };
   compmake = {
     "4.0.2" = import ./overrides/compmake/4.0.2;
   };
