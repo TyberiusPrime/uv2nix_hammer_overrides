@@ -6348,6 +6348,9 @@
   py3exiv2 = {
     "0.12.0" = import ./overrides/py3exiv2/0.12.0;
   };
+  py3nvml = {
+    "0.2.7" = import ./overrides/py3nvml/0.2.7;
+  };
   py3rijndael = {
     "0.3.3" = import ./overrides/py3rijndael/0.3.3;
   };
