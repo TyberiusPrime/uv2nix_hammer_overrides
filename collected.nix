@@ -4465,6 +4465,9 @@
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
+  localconfig = {
+    "1.1.4" = import ./overrides/localconfig/1.1.4;
+  };
   localstack = {
     "3.7.2" = import ./overrides/localstack/3.7.2;
   };
