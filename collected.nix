@@ -1020,6 +1020,9 @@
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
+  chardet = {
+    "5.2.0" = import ./overrides/chardet/5.2.0;
+  };
   charlesbot = {
     "0.10.1" = import ./overrides/charlesbot/0.10.1;
   };
