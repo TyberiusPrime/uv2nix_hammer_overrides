@@ -7913,6 +7913,9 @@
   resolver = {
     "0.2.1" = import ./overrides/resolver/0.2.1;
   };
+  resoto-plugin-aws = {
+    "3.9.0" = import ./overrides/resoto-plugin-aws/3.9.0;
+  };
   restible = {
     "0.12.1" = import ./overrides/restible/0.12.1;
   };
