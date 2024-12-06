@@ -340,6 +340,9 @@
   argon2 = {
     "0.1.10" = import ./overrides/argon2/0.1.10;
   };
+  argon2-cffi = {
+    "16.3.0" = import ./overrides/argon2-cffi/16.3.0;
+  };
   argparse-manpage = {
     "4.6" = import ./overrides/argparse-manpage/4.6;
   };
@@ -1029,6 +1032,42 @@
   cifar2png = {
     "0.0.4" = import ./overrides/cifar2png/0.0.4;
   };
+  cinq-auditor-cloudtrail = {
+    "2.1.0" = import ./overrides/cinq-auditor-cloudtrail/2.1.0;
+  };
+  cinq-auditor-domain-hijacking = {
+    "2.1.1" = import ./overrides/cinq-auditor-domain-hijacking/2.1.1;
+  };
+  cinq-auditor-ebs = {
+    "2.1.0" = import ./overrides/cinq-auditor-ebs/2.1.0;
+  };
+  cinq-auditor-iam = {
+    "2.1.0" = import ./overrides/cinq-auditor-iam/2.1.0;
+  };
+  cinq-auditor-required-tags = {
+    "2.2.7" = import ./overrides/cinq-auditor-required-tags/2.2.7;
+  };
+  cinq-auditor-vpc-flowlogs = {
+    "2.1.1" = import ./overrides/cinq-auditor-vpc-flowlogs/2.1.1;
+  };
+  cinq-auth-local = {
+    "2.1.0" = import ./overrides/cinq-auth-local/2.1.0;
+  };
+  cinq-auth-onelogin-saml = {
+    "2.1.0" = import ./overrides/cinq-auth-onelogin-saml/2.1.0;
+  };
+  cinq-collector-aws = {
+    "2.1.5" = import ./overrides/cinq-collector-aws/2.1.5;
+  };
+  cinq-collector-dns = {
+    "2.1.3" = import ./overrides/cinq-collector-dns/2.1.3;
+  };
+  cinq-scheduler-sqs = {
+    "2.1.1" = import ./overrides/cinq-scheduler-sqs/2.1.1;
+  };
+  cinq-scheduler-standalone = {
+    "2.1" = import ./overrides/cinq-scheduler-standalone/2.1;
+  };
   cipherprogram = {
     "0.0.4" = import ./overrides/cipherprogram/0.0.4;
   };
@@ -1091,6 +1130,9 @@
   };
   cloud-compose = {
     "0.4.1" = import ./overrides/cloud-compose/0.4.1;
+  };
+  cloud-inquisitor = {
+    "2.2.0" = import ./overrides/cloud-inquisitor/2.2.0;
   };
   cloudflare = {
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
@@ -2740,6 +2782,7 @@
     "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
   };
   flake8-quotes = {
+    "0.14.1" = import ./overrides/flake8-quotes/0.14.1;
     "1.0.0" = import ./overrides/flake8-quotes/1.0.0;
   };
   flake8-todo = {
@@ -3941,6 +3984,9 @@
   };
   jsondate = {
     "0.1.2" = import ./overrides/jsondate/0.1.2;
+  };
+  jsondiff = {
+    "1.1.1" = import ./overrides/jsondiff/1.1.1;
   };
   jsonfeed = {
     "0.0.1" = import ./overrides/jsonfeed/0.0.1;
@@ -6525,6 +6571,12 @@
   };
   pyethash = {
     "0.1.27" = import ./overrides/pyethash/0.1.27;
+  };
+  pyexcel = {
+    "0.4.5" = import ./overrides/pyexcel/0.4.5;
+  };
+  pyexcel-xlsx = {
+    "0.3.0" = import ./overrides/pyexcel-xlsx/0.3.0;
   };
   pyexecjs = {
     "1.5.1" = import ./overrides/pyexecjs/1.5.1;
