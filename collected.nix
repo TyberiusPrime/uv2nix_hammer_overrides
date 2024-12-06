@@ -428,6 +428,9 @@
   async-cache = {
     "1.1.1" = import ./overrides/async-cache/1.1.1;
   };
+  async-exit-stack = {
+    "1.0.1" = import ./overrides/async-exit-stack/1.0.1;
+  };
   async-upnp-client = {
     "0.40.0" = import ./overrides/async-upnp-client/0.40.0;
   };
