@@ -1494,6 +1494,9 @@
   credis = {
     "2.0.2" = import ./overrides/credis/2.0.2;
   };
+  credstash = {
+    "1.17.1" = import ./overrides/credstash/1.17.1;
+  };
   creek = {
     "0.1.32" = import ./overrides/creek/0.1.32;
   };
