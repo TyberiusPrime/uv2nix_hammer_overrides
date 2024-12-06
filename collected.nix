@@ -5238,6 +5238,9 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  nipype = {
+    "1.8.6" = import ./overrides/nipype/1.8.6;
+  };
   nix-prefetch-github = {
     "7.1.0" = import ./overrides/nix-prefetch-github/7.1.0;
   };
