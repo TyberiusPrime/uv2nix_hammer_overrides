@@ -1605,6 +1605,9 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  d-snek = {
+    "1.2.8" = import ./overrides/d-snek/1.2.8;
+  };
   d8s-dicts = {
     "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
   };
