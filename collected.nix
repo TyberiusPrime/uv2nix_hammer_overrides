@@ -2742,6 +2742,9 @@
   fgame = {
     "0.6.5" = import ./overrides/fgame/0.6.5;
   };
+  fhirpy = {
+    "2.0.11" = import ./overrides/fhirpy/2.0.11;
+  };
   fibheap = {
     "0.2.1" = import ./overrides/fibheap/0.2.1;
   };
