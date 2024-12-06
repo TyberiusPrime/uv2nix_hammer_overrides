@@ -10124,6 +10124,9 @@
   zc-recipe-deployment = {
     "1.3.0" = import ./overrides/zc-recipe-deployment/1.3.0;
   };
+  zc-recipe-egg = {
+    "2.0.7" = import ./overrides/zc-recipe-egg/2.0.7;
+  };
   zc-thread = {
     "1.0.0" = import ./overrides/zc-thread/1.0.0;
   };
