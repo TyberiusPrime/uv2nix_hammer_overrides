@@ -4480,6 +4480,9 @@
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
   };
+  megrok-pagetemplate = {
+    "0.7" = import ./overrides/megrok-pagetemplate/0.7;
+  };
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
   };
@@ -9712,6 +9715,9 @@
   };
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
+  };
+  zeam-form-base = {
+    "1.4.1" = import ./overrides/zeam-form-base/1.4.1;
   };
   zeroc-ice = {
     "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
