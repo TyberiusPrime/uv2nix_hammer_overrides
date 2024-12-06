@@ -6342,6 +6342,9 @@
   py2bit = {
     "0.3.0" = import ./overrides/py2bit/0.3.0;
   };
+  py2neo = {
+    "2021.2.4" = import ./overrides/py2neo/2021.2.4;
+  };
   py2store = {
     "0.1.20" = import ./overrides/py2store/0.1.20;
   };
