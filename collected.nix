@@ -7215,6 +7215,9 @@
   pytest-cache = {
     "1.0" = import ./overrides/pytest-cache/1.0;
   };
+  pytest-celery = {
+    "1.1.1" = import ./overrides/pytest-celery/1.1.1;
+  };
   pytest-clarity = {
     "1.0.1" = import ./overrides/pytest-clarity/1.0.1;
   };
