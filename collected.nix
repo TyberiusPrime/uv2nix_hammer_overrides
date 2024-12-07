@@ -8275,6 +8275,9 @@
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
+  sensirion-i2c-driver = {
+    "1.0.0" = import ./overrides/sensirion-i2c-driver/1.0.0;
+  };
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
