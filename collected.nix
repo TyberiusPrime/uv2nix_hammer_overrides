@@ -2039,6 +2039,9 @@
   django-markdown-deux = {
     "1.0.6" = import ./overrides/django-markdown-deux/1.0.6;
   };
+  django-mathfilters = {
+    "1.0.0" = import ./overrides/django-mathfilters/1.0.0;
+  };
   django-mdeditor = {
     "0.1.20" = import ./overrides/django-mdeditor/0.1.20;
   };
