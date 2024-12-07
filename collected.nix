@@ -295,6 +295,9 @@
   apiclient = {
     "1.0.4" = import ./overrides/apiclient/1.0.4;
   };
+  apipkg = {
+    "3.0.2" = import ./overrides/apipkg/3.0.2;
+  };
   apistar = {
     "0.7.2" = import ./overrides/apistar/0.7.2;
   };
