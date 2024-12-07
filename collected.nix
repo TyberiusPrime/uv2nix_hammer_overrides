@@ -3359,6 +3359,9 @@
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
+  gwosc = {
+    "0.7.1" = import ./overrides/gwosc/0.7.1;
+  };
   gym = {
     "0.26.2" = import ./overrides/gym/0.26.2;
   };
