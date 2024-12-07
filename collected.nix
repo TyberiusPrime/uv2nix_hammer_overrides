@@ -7042,6 +7042,9 @@
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
   };
+  pyraml-parser = {
+    "0.1.9" = import ./overrides/pyraml-parser/0.1.9;
+  };
   pyreact = {
     "0.6.0" = import ./overrides/pyreact/0.6.0;
   };
