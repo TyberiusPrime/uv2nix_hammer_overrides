@@ -5135,6 +5135,9 @@
   naturalsort = {
     "1.5.1" = import ./overrides/naturalsort/1.5.1;
   };
+  nbclient = {
+    "0.10.0" = import ./overrides/nbclient/0.10.0;
+  };
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
   };
