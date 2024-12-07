@@ -1590,6 +1590,9 @@
   cvargparse = {
     "0.5.4" = import ./overrides/cvargparse/0.5.4;
   };
+  cvat-sdk = {
+    "2.18.0" = import ./overrides/cvat-sdk/2.18.0;
+  };
   cvzone = {
     "1.6.1" = import ./overrides/cvzone/1.6.1;
   };
