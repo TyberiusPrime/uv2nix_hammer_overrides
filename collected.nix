@@ -3195,6 +3195,9 @@
     "1.0.1" = import ./overrides/gitpython/1.0.1;
     "1.0.2" = import ./overrides/gitpython/1.0.2;
   };
+  giturlparse = {
+    "0.12.0" = import ./overrides/giturlparse/0.12.0;
+  };
   giturlparse-py = {
     "0.0.5" = import ./overrides/giturlparse-py/0.0.5;
   };
