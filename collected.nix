@@ -6123,6 +6123,9 @@
   primesieve = {
     "2.3.3" = import ./overrides/primesieve/2.3.3;
   };
+  prison = {
+    "0.2.1" = import ./overrides/prison/0.2.1;
+  };
   probator = {
     "1.10.1" = import ./overrides/probator/1.10.1;
   };
