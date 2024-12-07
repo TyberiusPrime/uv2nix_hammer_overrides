@@ -9871,6 +9871,9 @@
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
+  wf-video-io = {
+    "3.4.3" = import ./overrides/wf-video-io/3.4.3;
+  };
   wget = {
     "3.2" = import ./overrides/wget/3.2;
   };
