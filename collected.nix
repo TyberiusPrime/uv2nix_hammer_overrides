@@ -343,6 +343,9 @@
   argeasy = {
     "3.1.0" = import ./overrides/argeasy/3.1.0;
   };
+  argo-workflows = {
+    "6.5.10" = import ./overrides/argo-workflows/6.5.10;
+  };
   argon2 = {
     "0.1.10" = import ./overrides/argon2/0.1.10;
   };
