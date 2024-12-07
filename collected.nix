@@ -2697,6 +2697,9 @@
   fastscript = {
     "0.0.0.1" = import ./overrides/fastscript/0.0.0.1;
   };
+  fastutils = {
+    "0.43.4" = import ./overrides/fastutils/0.43.4;
+  };
   fastuuid = {
     "0.8.0" = import ./overrides/fastuuid/0.8.0;
   };
