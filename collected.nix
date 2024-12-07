@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  georss-ingv-centro-nazionale-terremoti-client = {
+    "0.7" = import ./overrides/georss-ingv-centro-nazionale-terremoti-client/0.7;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
