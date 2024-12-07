@@ -9057,6 +9057,9 @@
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
+  throttler = {
+    "1.2.2" = import ./overrides/throttler/1.2.2;
+  };
   thunder-python = {
     "1.4.2" = import ./overrides/thunder-python/1.4.2;
   };
