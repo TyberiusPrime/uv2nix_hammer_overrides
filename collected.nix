@@ -2614,6 +2614,7 @@
     "0.5.0" = import ./overrides/ewoks/0.5.0;
   };
   ewokscore = {
+    "0.8.0" = import ./overrides/ewokscore/0.8.0;
     "0.8.1" = import ./overrides/ewokscore/0.8.1;
   };
   ewoksutils = {
