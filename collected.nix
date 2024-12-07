@@ -9844,6 +9844,9 @@
   webhelpers = {
     "1.3" = import ./overrides/webhelpers/1.3;
   };
+  weboob = {
+    "2.0" = import ./overrides/weboob/2.0;
+  };
   webrtcvad = {
     "2.0.10" = import ./overrides/webrtcvad/2.0.10;
   };
