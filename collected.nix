@@ -1605,6 +1605,9 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  d2b = {
+    "1.4.2" = import ./overrides/d2b/1.4.2;
+  };
   d8s-dicts = {
     "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
   };
