@@ -7209,6 +7209,9 @@
   pytelegraf = {
     "0.3.3" = import ./overrides/pytelegraf/0.3.3;
   };
+  pyteomics = {
+    "4.7.3" = import ./overrides/pyteomics/4.7.3;
+  };
   pytest-black = {
     "0.3.12" = import ./overrides/pytest-black/0.3.12;
   };
