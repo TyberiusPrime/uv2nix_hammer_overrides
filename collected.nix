@@ -9017,6 +9017,9 @@
   textnets = {
     "0.9.4" = import ./overrides/textnets/0.9.4;
   };
+  textual-universal-directorytree = {
+    "1.5.0" = import ./overrides/textual-universal-directorytree/1.5.0;
+  };
   tflearn = {
     "0.5.0" = import ./overrides/tflearn/0.5.0;
   };
