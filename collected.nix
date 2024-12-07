@@ -9787,6 +9787,9 @@
   vsure = {
     "2.6.7" = import ./overrides/vsure/2.6.7;
   };
+  vulture = {
+    "2.11" = import ./overrides/vulture/2.11;
+  };
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
   };
