@@ -5166,6 +5166,9 @@
   neotermcolor = {
     "2.0.10" = import ./overrides/neotermcolor/2.0.10;
   };
+  neoteroi-mkdocs = {
+    "1.1.0" = import ./overrides/neoteroi-mkdocs/1.1.0;
+  };
   neotime = {
     "1.7.4" = import ./overrides/neotime/1.7.4;
   };
