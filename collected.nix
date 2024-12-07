@@ -153,6 +153,9 @@
   aircv = {
     "1.4.6" = import ./overrides/aircv/1.4.6;
   };
+  alarmdecoder = {
+    "1.13.11" = import ./overrides/alarmdecoder/1.13.11;
+  };
   aldryn-boilerplates = {
     "0.8.0" = import ./overrides/aldryn-boilerplates/0.8.0;
   };
