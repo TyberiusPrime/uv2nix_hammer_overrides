@@ -6913,6 +6913,9 @@
     "0.6.4" = import ./overrides/pynisher/0.6.4;
     "1.0.10" = import ./overrides/pynisher/1.0.10;
   };
+  pynmea2 = {
+    "1.19.0" = import ./overrides/pynmea2/1.19.0;
+  };
   pynsq = {
     "0.9.1" = import ./overrides/pynsq/0.9.1;
   };
