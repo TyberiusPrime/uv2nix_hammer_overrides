@@ -8592,6 +8592,9 @@
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
+  spatial-image = {
+    "1.1.0" = import ./overrides/spatial-image/1.1.0;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
