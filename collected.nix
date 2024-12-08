@@ -9175,6 +9175,9 @@
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
   };
+  toposort = {
+    "1.10" = import ./overrides/toposort/1.10;
+  };
   torch = {
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
