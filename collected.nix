@@ -951,6 +951,9 @@
   cbra = {
     "1.1.10" = import ./overrides/cbra/1.1.10;
   };
+  cc-connector-cli = {
+    "0.3" = import ./overrides/cc-connector-cli/0.3;
+  };
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
