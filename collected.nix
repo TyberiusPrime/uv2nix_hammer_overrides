@@ -4688,6 +4688,9 @@
   megrok-pagetemplate = {
     "0.7" = import ./overrides/megrok-pagetemplate/0.7;
   };
+  meiga = {
+    "1.9.7" = import ./overrides/meiga/1.9.7;
+  };
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
   };
