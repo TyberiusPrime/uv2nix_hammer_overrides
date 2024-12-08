@@ -6755,6 +6755,9 @@
   pyjade = {
     "4.0.0" = import ./overrides/pyjade/4.0.0;
   };
+  pyjet = {
+    "1.9.0" = import ./overrides/pyjet/1.9.0;
+  };
   pyjq = {
     "2.6.0" = import ./overrides/pyjq/2.6.0;
   };
