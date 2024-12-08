@@ -5638,6 +5638,9 @@
   p4a-z2utils = {
     "1.0.2" = import ./overrides/p4a-z2utils/1.0.2;
   };
+  packageurl-python = {
+    "0.15.6" = import ./overrides/packageurl-python/0.15.6;
+  };
   packbits = {
     "0.6" = import ./overrides/packbits/0.6;
   };
