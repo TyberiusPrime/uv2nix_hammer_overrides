@@ -2607,6 +2607,9 @@
   events = {
     "0.3" = import ./overrides/events/0.3;
   };
+  evm-trace = {
+    "0.2.3" = import ./overrides/evm-trace/0.2.3;
+  };
   ewmh = {
     "0.1.6" = import ./overrides/ewmh/0.1.6;
   };
