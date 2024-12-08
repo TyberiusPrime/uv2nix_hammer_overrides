@@ -7418,6 +7418,9 @@
   python-nmap = {
     "0.7.1" = import ./overrides/python-nmap/0.7.1;
   };
+  python-nomad = {
+    "2.0.1" = import ./overrides/python-nomad/2.0.1;
+  };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
