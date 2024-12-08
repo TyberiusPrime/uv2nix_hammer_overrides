@@ -7691,6 +7691,9 @@
   qcloud-image = {
     "1.0.0" = import ./overrides/qcloud-image/1.0.0;
   };
+  qdldl = {
+    "0.1.7.post4" = import ./overrides/qdldl/0.1.7.post4;
+  };
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
   };
