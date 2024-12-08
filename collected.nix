@@ -4199,6 +4199,9 @@
   kiwi = {
     "10.1.8" = import ./overrides/kiwi/10.1.8;
   };
+  kiwiki-client = {
+    "0.1.2" = import ./overrides/kiwiki-client/0.1.2;
+  };
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
