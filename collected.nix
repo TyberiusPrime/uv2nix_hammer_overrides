@@ -5193,6 +5193,9 @@
   netstruct = {
     "1.1.2" = import ./overrides/netstruct/1.1.2;
   };
+  nettoolkit = {
+    "1.7.3" = import ./overrides/nettoolkit/1.7.3;
+  };
   netw0rk = {
     "1.11.3" = import ./overrides/netw0rk/1.11.3;
   };
