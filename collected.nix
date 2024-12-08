@@ -9109,6 +9109,9 @@
   tinymongo = {
     "0.2.0" = import ./overrides/tinymongo/0.2.0;
   };
+  tinynetrc = {
+    "1.3.1" = import ./overrides/tinynetrc/1.3.1;
+  };
   tinynumpy = {
     "1.2.1" = import ./overrides/tinynumpy/1.2.1;
   };
