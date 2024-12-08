@@ -2803,6 +2803,9 @@
   flake8-todo = {
     "0.7" = import ./overrides/flake8-todo/0.7;
   };
+  flake8-tuple = {
+    "0.4.1" = import ./overrides/flake8-tuple/0.4.1;
+  };
   flanker = {
     "0.9.11" = import ./overrides/flanker/0.9.11;
   };
