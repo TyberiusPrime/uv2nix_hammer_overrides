@@ -8837,6 +8837,9 @@
   sunwatcher = {
     "0.2.1" = import ./overrides/sunwatcher/0.2.1;
   };
+  sunweg = {
+    "3.0.2" = import ./overrides/sunweg/3.0.2;
+  };
   sure = {
     "3.0a2" = import ./overrides/sure/3.0a2;
   };
