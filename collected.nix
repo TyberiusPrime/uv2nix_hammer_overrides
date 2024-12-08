@@ -9458,6 +9458,9 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  uart-devices = {
+    "0.1.0" = import ./overrides/uart-devices/0.1.0;
+  };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
   };
