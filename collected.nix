@@ -10109,6 +10109,9 @@
   z3c-language-switch = {
     "1.1.0" = import ./overrides/z3c-language-switch/1.1.0;
   };
+  z3c-recipe-scripts = {
+    "1.0.1" = import ./overrides/z3c-recipe-scripts/1.0.1;
+  };
   zbxsend = {
     "0.1.6" = import ./overrides/zbxsend/0.1.6;
   };
@@ -10123,6 +10126,9 @@
   };
   zc-recipe-deployment = {
     "1.3.0" = import ./overrides/zc-recipe-deployment/1.3.0;
+  };
+  zc-recipe-egg = {
+    "2.0.7" = import ./overrides/zc-recipe-egg/2.0.7;
   };
   zc-thread = {
     "1.0.0" = import ./overrides/zc-thread/1.0.0;
