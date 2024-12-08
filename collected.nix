@@ -5681,6 +5681,9 @@
     "1.5.3" = import ./overrides/pandas/1.5.3;
     "2.2.2" = import ./overrides/pandas/2.2.2;
   };
+  pandas-datareader = {
+    "0.10.0" = import ./overrides/pandas-datareader/0.10.0;
+  };
   pandas-ml-common = {
     "0.2.7" = import ./overrides/pandas-ml-common/0.2.7;
   };
