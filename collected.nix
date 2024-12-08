@@ -331,6 +331,9 @@
   archetypes-querywidget = {
     "1.1.3" = import ./overrides/archetypes-querywidget/1.1.3;
   };
+  archinfo = {
+    "9.2.117" = import ./overrides/archinfo/9.2.117;
+  };
   arcor2 = {
     "1.4.0" = import ./overrides/arcor2/1.4.0;
   };
