@@ -966,6 +966,9 @@
   cdumay-result = {
     "0.1.12" = import ./overrides/cdumay-result/0.1.12;
   };
+  celerite = {
+    "0.4.3" = import ./overrides/celerite/0.4.3;
+  };
   celery-once = {
     "3.0.1" = import ./overrides/celery-once/3.0.1;
   };
