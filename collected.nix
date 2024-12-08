@@ -2926,6 +2926,9 @@
   flatdict = {
     "4.0.1" = import ./overrides/flatdict/4.0.1;
   };
+  flax = {
+    "0.9.0" = import ./overrides/flax/0.9.0;
+  };
   fleep = {
     "1.0.1" = import ./overrides/fleep/1.0.1;
   };
