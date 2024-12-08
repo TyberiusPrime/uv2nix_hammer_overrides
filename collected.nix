@@ -2421,6 +2421,9 @@
   durc = {
     "3.1.0" = import ./overrides/durc/3.1.0;
   };
+  dwave-cloud-client = {
+    "0.13.0" = import ./overrides/dwave-cloud-client/0.13.0;
+  };
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
