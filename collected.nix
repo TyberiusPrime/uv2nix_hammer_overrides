@@ -7583,6 +7583,9 @@
   pyunormalize = {
     "15.1.0" = import ./overrides/pyunormalize/15.1.0;
   };
+  pyunpack = {
+    "0.3" = import ./overrides/pyunpack/0.3;
+  };
   pyupdate = {
     "1.4.0" = import ./overrides/pyupdate/1.4.0;
   };
