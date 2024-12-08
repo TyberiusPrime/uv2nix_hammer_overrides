@@ -9296,6 +9296,9 @@
   translitcodec = {
     "0.7.0" = import ./overrides/translitcodec/0.7.0;
   };
+  transmission-rpc = {
+    "7.0.11" = import ./overrides/transmission-rpc/7.0.11;
+  };
   transmissionrpc = {
     "0.11" = import ./overrides/transmissionrpc/0.11;
   };
