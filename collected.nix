@@ -8275,6 +8275,9 @@
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
+  sentinel = {
+    "1.0.0" = import ./overrides/sentinel/1.0.0;
+  };
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
