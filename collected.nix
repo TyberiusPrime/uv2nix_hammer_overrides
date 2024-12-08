@@ -7146,6 +7146,9 @@
   pysmarthome = {
     "3.1.1" = import ./overrides/pysmarthome/3.1.1;
   };
+  pysmartthings = {
+    "0.7.8" = import ./overrides/pysmartthings/0.7.8;
+  };
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
   };
