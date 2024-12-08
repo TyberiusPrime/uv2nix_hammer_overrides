@@ -5480,6 +5480,9 @@
   omnijson = {
     "0.1.2" = import ./overrides/omnijson/0.1.2;
   };
+  omnilogic = {
+    "0.5.0" = import ./overrides/omnilogic/0.5.0;
+  };
   onetimepad = {
     "1.4" = import ./overrides/onetimepad/1.4;
   };
