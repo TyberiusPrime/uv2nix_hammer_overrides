@@ -7397,6 +7397,9 @@
   python-louvain = {
     "0.16" = import ./overrides/python-louvain/0.16;
   };
+  python-lsp-black = {
+    "2.0.0" = import ./overrides/python-lsp-black/2.0.0;
+  };
   python-ly = {
     "0.9.7" = import ./overrides/python-ly/0.9.7;
   };
