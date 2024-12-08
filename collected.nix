@@ -4670,6 +4670,9 @@
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };
+  mds-sqlextension = {
+    "0.1.11" = import ./overrides/mds-sqlextension/0.1.11;
+  };
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
