@@ -6279,6 +6279,9 @@
   purepng = {
     "0.2.0" = import ./overrides/purepng/0.2.0;
   };
+  pusher = {
+    "3.3.2" = import ./overrides/pusher/3.3.2;
+  };
   pusherclient = {
     "0.3.0" = import ./overrides/pusherclient/0.3.0;
   };
