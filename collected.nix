@@ -5298,6 +5298,9 @@
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
+  nonebot-plugin-imageutils = {
+    "0.1.17" = import ./overrides/nonebot-plugin-imageutils/0.1.17;
+  };
   nonstdlib = {
     "1.12.0" = import ./overrides/nonstdlib/1.12.0;
   };
