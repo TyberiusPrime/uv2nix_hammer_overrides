@@ -1973,6 +1973,9 @@
   django-form-utils = {
     "1.0.3" = import ./overrides/django-form-utils/1.0.3;
   };
+  django-forms-bootstrap = {
+    "3.1.0" = import ./overrides/django-forms-bootstrap/3.1.0;
+  };
   django-fsm = {
     "2.3.0" = import ./overrides/django-fsm/2.3.0;
   };
