@@ -5742,6 +5742,9 @@
   pause = {
     "0.3" = import ./overrides/pause/0.3;
   };
+  paypalrestsdk = {
+    "1.13.3" = import ./overrides/paypalrestsdk/1.13.3;
+  };
   pbkdf2 = {
     "1.3" = import ./overrides/pbkdf2/1.3;
   };
