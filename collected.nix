@@ -1982,6 +1982,9 @@
   django-geostore = {
     "1.0.0" = import ./overrides/django-geostore/1.0.0;
   };
+  django-glitter = {
+    "0.2.10" = import ./overrides/django-glitter/0.2.10;
+  };
   django-gm2m = {
     "1.2" = import ./overrides/django-gm2m/1.2;
   };
