@@ -1737,6 +1737,9 @@
   dedupe-levenshtein-search = {
     "1.4.5" = import ./overrides/dedupe-levenshtein-search/1.4.5;
   };
+  deepgram-sdk = {
+    "3.5.2" = import ./overrides/deepgram-sdk/3.5.2;
+  };
   deeplake = {
     "3.9.22" = import ./overrides/deeplake/3.9.22;
   };
