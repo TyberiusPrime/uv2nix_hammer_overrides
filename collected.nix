@@ -3586,6 +3586,9 @@
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
+  hvplot = {
+    "0.10.0" = import ./overrides/hvplot/0.10.0;
+  };
   hwdata = {
     "2.4.1" = import ./overrides/hwdata/2.4.1;
   };
