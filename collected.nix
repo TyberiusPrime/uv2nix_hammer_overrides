@@ -7303,6 +7303,9 @@
   python-doi = {
     "0.2.0" = import ./overrides/python-doi/0.2.0;
   };
+  python-ecobee-api = {
+    "0.2.19" = import ./overrides/python-ecobee-api/0.2.19;
+  };
   python-etcd = {
     "0.4.5" = import ./overrides/python-etcd/0.4.5;
   };
