@@ -268,6 +268,9 @@
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
+  aocd-example-parser = {
+    "2023.12.17" = import ./overrides/aocd-example-parser/2023.12.17;
+  };
   aorta = {
     "2.20.0" = import ./overrides/aorta/2.20.0;
   };
