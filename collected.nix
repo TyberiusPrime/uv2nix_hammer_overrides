@@ -6885,6 +6885,9 @@
   pymoo = {
     "0.6.1.3" = import ./overrides/pymoo/0.6.1.3;
   };
+  pymorphy3 = {
+    "2.0.2" = import ./overrides/pymorphy3/2.0.2;
+  };
   pymsgbox = {
     "1.0.9" = import ./overrides/pymsgbox/1.0.9;
   };
