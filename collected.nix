@@ -1098,6 +1098,9 @@
   cl1 = {
     "1.13.3" = import ./overrides/cl1/1.13.3;
   };
+  clarifai-grpc = {
+    "10.8.4" = import ./overrides/clarifai-grpc/10.8.4;
+  };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
