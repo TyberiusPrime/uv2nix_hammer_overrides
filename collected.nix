@@ -2872,6 +2872,9 @@
   flask-markdown = {
     "0.3" = import ./overrides/flask-markdown/0.3;
   };
+  flask-marshmallow = {
+    "1.2.1" = import ./overrides/flask-marshmallow/1.2.1;
+  };
   flask-nav = {
     "0.6" = import ./overrides/flask-nav/0.6;
   };
