@@ -1101,6 +1101,9 @@
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
+  cldfbench = {
+    "1.14.0" = import ./overrides/cldfbench/1.14.0;
+  };
   cleandev-config-loader = {
     "0.3.5" = import ./overrides/cleandev-config-loader/0.3.5;
   };
