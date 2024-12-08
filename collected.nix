@@ -10097,6 +10097,9 @@
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
+  yubikey-manager = {
+    "5.5.1" = import ./overrides/yubikey-manager/5.5.1;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
