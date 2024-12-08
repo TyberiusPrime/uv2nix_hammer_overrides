@@ -4865,6 +4865,9 @@
   mo-logs = {
     "4.23.21108" = import ./overrides/mo-logs/4.23.21108;
   };
+  moat-ble = {
+    "0.1.1" = import ./overrides/moat-ble/0.1.1;
+  };
   mobi = {
     "0.3.3" = import ./overrides/mobi/0.3.3;
   };
