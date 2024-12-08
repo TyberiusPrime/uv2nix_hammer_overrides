@@ -4883,6 +4883,9 @@
   mocket = {
     "3.12.9" = import ./overrides/mocket/3.12.9;
   };
+  model-bakery = {
+    "1.19.5" = import ./overrides/model-bakery/1.19.5;
+  };
   modelcatalog-api = {
     "8.0.0" = import ./overrides/modelcatalog-api/8.0.0;
   };
