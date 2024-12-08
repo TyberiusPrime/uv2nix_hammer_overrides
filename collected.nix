@@ -3727,6 +3727,9 @@
   imutils = {
     "0.5.4" = import ./overrides/imutils/0.5.4;
   };
+  incomfort-client = {
+    "0.6.3.post1" = import ./overrides/incomfort-client/0.6.3.post1;
+  };
   infi-execute = {
     "0.1.8" = import ./overrides/infi-execute/0.1.8;
   };
