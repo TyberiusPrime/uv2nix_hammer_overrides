@@ -9064,17 +9064,35 @@
     "2.4.2" = import ./overrides/tiddlyweb/2.4.2;
     "2.4.3" = import ./overrides/tiddlyweb/2.4.3;
   };
+  tiddlywebplugins-atom = {
+    "1.4.6" = import ./overrides/tiddlywebplugins-atom/1.4.6;
+  };
+  tiddlywebplugins-cherrypy = {
+    "0.2.0" = import ./overrides/tiddlywebplugins-cherrypy/0.2.0;
+  };
+  tiddlywebplugins-console = {
+    "0.3.0" = import ./overrides/tiddlywebplugins-console/0.3.0;
+  };
+  tiddlywebplugins-differ = {
+    "0.6.4" = import ./overrides/tiddlywebplugins-differ/0.6.4;
+  };
   tiddlywebplugins-imaker = {
     "0.1.5" = import ./overrides/tiddlywebplugins-imaker/0.1.5;
   };
   tiddlywebplugins-pkgstore = {
     "0.3" = import ./overrides/tiddlywebplugins-pkgstore/0.3;
   };
+  tiddlywebplugins-status = {
+    "0.9" = import ./overrides/tiddlywebplugins-status/0.9;
+  };
   tiddlywebplugins-twimport = {
     "1.1.1" = import ./overrides/tiddlywebplugins-twimport/1.1.1;
   };
   tiddlywebplugins-utils = {
     "1.10" = import ./overrides/tiddlywebplugins-utils/1.10;
+  };
+  tiddlywebwiki = {
+    "0.69.0" = import ./overrides/tiddlywebwiki/0.69.0;
   };
   tiktoken = {
     "0.4.0" = import ./overrides/tiktoken/0.4.0;
