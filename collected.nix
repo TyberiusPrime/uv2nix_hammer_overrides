@@ -3329,6 +3329,9 @@
   grpc-google-pubsub-v1 = {
     "0.11.1" = import ./overrides/grpc-google-pubsub-v1/0.11.1;
   };
+  grpc-interceptor = {
+    "0.15.4" = import ./overrides/grpc-interceptor/0.15.4;
+  };
   grpcio = {
     "1.57.0" = import ./overrides/grpcio/1.57.0;
   };
