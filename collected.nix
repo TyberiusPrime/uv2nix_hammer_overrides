@@ -2409,6 +2409,9 @@
   dugong = {
     "3.8.2" = import ./overrides/dugong/3.8.2;
   };
+  dukpy = {
+    "0.4.0" = import ./overrides/dukpy/0.4.0;
+  };
   dulwich = {
     "0.20.50" = import ./overrides/dulwich/0.20.50;
   };
