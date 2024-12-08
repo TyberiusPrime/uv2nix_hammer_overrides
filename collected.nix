@@ -7688,6 +7688,9 @@
   pyzerproc = {
     "0.4.12" = import ./overrides/pyzerproc/0.4.12;
   };
+  qbittorrent-api = {
+    "2024.8.65" = import ./overrides/qbittorrent-api/2024.8.65;
+  };
   qcloud-image = {
     "1.0.0" = import ./overrides/qcloud-image/1.0.0;
   };
