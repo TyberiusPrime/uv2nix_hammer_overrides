@@ -4018,6 +4018,9 @@
   jsonify = {
     "0.5" = import ./overrides/jsonify/0.5;
   };
+  jsonmodels = {
+    "2.7.0" = import ./overrides/jsonmodels/2.7.0;
+  };
   jsonnet = {
     "0.20.0" = import ./overrides/jsonnet/0.20.0;
   };
