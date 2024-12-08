@@ -1446,6 +1446,9 @@
   coverage = {
     "6.5.0" = import ./overrides/coverage/6.5.0;
   };
+  cowpy = {
+    "1.1.5" = import ./overrides/cowpy/1.1.5;
+  };
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
