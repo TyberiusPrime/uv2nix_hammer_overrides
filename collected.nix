@@ -6000,6 +6000,9 @@
   plone-multilingualbehavior = {
     "1.2.3" = import ./overrides/plone-multilingualbehavior/1.2.3;
   };
+  plonetheme-classic = {
+    "1.5.1" = import ./overrides/plonetheme-classic/1.5.1;
+  };
   plonetheme-intkbase = {
     "0.4" = import ./overrides/plonetheme-intkbase/0.4;
   };
