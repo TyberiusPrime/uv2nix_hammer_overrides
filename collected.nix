@@ -5666,6 +5666,9 @@
   pairtree = {
     "0.8.1" = import ./overrides/pairtree/0.8.1;
   };
+  pampy = {
+    "0.3.0" = import ./overrides/pampy/0.3.0;
+  };
   panda3d = {
     "1.10.15" = import ./overrides/panda3d/1.10.15;
   };
