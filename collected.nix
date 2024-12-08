@@ -2595,6 +2595,9 @@
   euclid3 = {
     "0.1" = import ./overrides/euclid3/0.1;
   };
+  eulerangles = {
+    "1.0.2" = import ./overrides/eulerangles/1.0.2;
+  };
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
