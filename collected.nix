@@ -4229,6 +4229,9 @@
   lac = {
     "2.1.2" = import ./overrides/lac/2.1.2;
   };
+  lagoon = {
+    "46" = import ./overrides/lagoon/46;
+  };
   landez = {
     "2.5.0" = import ./overrides/landez/2.5.0;
   };
