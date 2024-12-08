@@ -4805,6 +4805,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  mindsdb-evaluator = {
+    "0.0.15" = import ./overrides/mindsdb-evaluator/0.0.15;
+  };
   minepy = {
     "1.2.6" = import ./overrides/minepy/1.2.6;
   };
