@@ -659,6 +659,9 @@
   beanbag = {
     "1.9.2" = import ./overrides/beanbag/1.9.2;
   };
+  beanie = {
+    "1.26.0" = import ./overrides/beanie/1.26.0;
+  };
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
   };
