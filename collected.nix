@@ -3274,6 +3274,9 @@
     "0.0.4" = import ./overrides/gpgrecord/0.0.4;
     "0.0.5" = import ./overrides/gpgrecord/0.0.5;
   };
+  gpib-ctypes = {
+    "0.3.0" = import ./overrides/gpib-ctypes/0.3.0;
+  };
   gplaycli = {
     "3.29" = import ./overrides/gplaycli/3.29;
   };
