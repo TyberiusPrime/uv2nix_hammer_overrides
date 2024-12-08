@@ -4970,6 +4970,9 @@
   moztest = {
     "1.1.0" = import ./overrides/moztest/1.1.0;
   };
+  mpdaf = {
+    "3.6" = import ./overrides/mpdaf/3.6;
+  };
   mpi4py = {
     "4.0.0" = import ./overrides/mpi4py/4.0.0;
     "4.0.1" = import ./overrides/mpi4py/4.0.1;
