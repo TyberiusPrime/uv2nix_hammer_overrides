@@ -6861,6 +6861,9 @@
   pymeeus = {
     "0.5.12" = import ./overrides/pymeeus/0.5.12;
   };
+  pymelcloud = {
+    "2.11.0" = import ./overrides/pymelcloud/2.11.0;
+  };
   pymessenger = {
     "0.0.7.0" = import ./overrides/pymessenger/0.0.7.0;
   };
