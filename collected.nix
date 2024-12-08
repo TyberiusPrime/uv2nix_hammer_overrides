@@ -7149,6 +7149,9 @@
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
   };
+  pysmi-lextudio = {
+    "1.4.3" = import ./overrides/pysmi-lextudio/1.4.3;
+  };
   pysocks = {
     "1.6.8" = import ./overrides/pysocks/1.6.8;
   };
