@@ -5587,6 +5587,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  orator = {
+    "0.9.9" = import ./overrides/orator/0.9.9;
+  };
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
   };
