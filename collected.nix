@@ -10088,6 +10088,9 @@
   yoda = {
     "0.1.5" = import ./overrides/yoda/0.1.5;
   };
+  yolk = {
+    "0.4.3" = import ./overrides/yolk/0.4.3;
+  };
   yolk3k = {
     "0.9" = import ./overrides/yolk3k/0.9;
   };
