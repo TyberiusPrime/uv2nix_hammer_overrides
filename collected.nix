@@ -7703,6 +7703,9 @@
   qiskit-nature = {
     "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
   };
+  qmk-dotty-dict = {
+    "1.3.0.post1" = import ./overrides/qmk-dotty-dict/1.3.0.post1;
+  };
   qnap-qsw = {
     "0.3.0" = import ./overrides/qnap-qsw/0.3.0;
   };
