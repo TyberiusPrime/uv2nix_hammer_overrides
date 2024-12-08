@@ -2598,6 +2598,9 @@
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
+  evaluate = {
+    "0.4.2" = import ./overrides/evaluate/0.4.2;
+  };
   evdev = {
     "1.7.1" = import ./overrides/evdev/1.7.1;
   };
