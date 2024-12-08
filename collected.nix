@@ -5994,6 +5994,9 @@
   plone-formwidget-datetime = {
     "1.3.5" = import ./overrides/plone-formwidget-datetime/1.3.5;
   };
+  plone-formwidget-recaptcha = {
+    "2.3.0" = import ./overrides/plone-formwidget-recaptcha/2.3.0;
+  };
   plone-multilingual = {
     "1.2.1" = import ./overrides/plone-multilingual/1.2.1;
   };
