@@ -3784,6 +3784,9 @@
   instagrapi = {
     "2.1.2" = import ./overrides/instagrapi/2.1.2;
   };
+  install-jdk = {
+    "1.1.0" = import ./overrides/install-jdk/1.1.0;
+  };
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
