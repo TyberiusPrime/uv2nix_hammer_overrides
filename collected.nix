@@ -4661,6 +4661,9 @@
   matrix-api-async = {
     "0.1.0" = import ./overrides/matrix-api-async/0.1.0;
   };
+  matrix-nio = {
+    "0.25.1" = import ./overrides/matrix-nio/0.25.1;
+  };
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
