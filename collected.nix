@@ -1886,6 +1886,9 @@
   django-apptemplates = {
     "1.5" = import ./overrides/django-apptemplates/1.5;
   };
+  django-authority = {
+    "0.14" = import ./overrides/django-authority/0.14;
+  };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
   };
