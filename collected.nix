@@ -2703,6 +2703,9 @@
   faust-streaming = {
     "0.11.3" = import ./overrides/faust-streaming/0.11.3;
   };
+  fava = {
+    "1.28" = import ./overrides/fava/1.28;
+  };
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
