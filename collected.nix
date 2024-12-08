@@ -7802,6 +7802,9 @@
   readtime = {
     "3.0.0" = import ./overrides/readtime/3.0.0;
   };
+  realesrgan = {
+    "0.3.0" = import ./overrides/realesrgan/0.3.0;
+  };
   reana-commons = {
     "0.9.8" = import ./overrides/reana-commons/0.9.8;
   };
