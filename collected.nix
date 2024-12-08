@@ -4329,6 +4329,9 @@
   libfsntfs-python = {
     "20240501" = import ./overrides/libfsntfs-python/20240501;
   };
+  libhoney = {
+    "2.4.0" = import ./overrides/libhoney/2.4.0;
+  };
   libknot = {
     "3.4.0" = import ./overrides/libknot/3.4.0;
   };
