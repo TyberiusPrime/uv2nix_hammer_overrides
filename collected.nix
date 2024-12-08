@@ -5025,6 +5025,9 @@
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
+  multiformats = {
+    "0.3.1.post4" = import ./overrides/multiformats/0.3.1.post4;
+  };
   multio = {
     "0.2.5" = import ./overrides/multio/0.2.5;
   };
