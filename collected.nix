@@ -2667,6 +2667,9 @@
   falcon-cors = {
     "1.1.7" = import ./overrides/falcon-cors/1.1.7;
   };
+  fancycompleter = {
+    "0.9.1" = import ./overrides/fancycompleter/0.9.1;
+  };
   fancyimpute = {
     "0.7.0" = import ./overrides/fancyimpute/0.7.0;
   };
