@@ -2763,6 +2763,9 @@
   filedepot = {
     "0.11.0" = import ./overrides/filedepot/0.11.0;
   };
+  filelock = {
+    "3.16.0" = import ./overrides/filelock/3.16.0;
+  };
   filemagic = {
     "1.6" = import ./overrides/filemagic/1.6;
   };
