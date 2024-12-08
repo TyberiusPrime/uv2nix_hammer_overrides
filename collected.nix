@@ -1593,6 +1593,9 @@
   cvzone = {
     "1.6.1" = import ./overrides/cvzone/1.6.1;
   };
+  cwl-upgrader = {
+    "1.2.11" = import ./overrides/cwl-upgrader/1.2.11;
+  };
   cwlgen = {
     "0.4.2" = import ./overrides/cwlgen/0.4.2;
   };
