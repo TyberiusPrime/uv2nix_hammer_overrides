@@ -1159,6 +1159,9 @@
   cloudinary = {
     "1.41.0" = import ./overrides/cloudinary/1.41.0;
   };
+  cloudmesh-cmd5 = {
+    "5.0.20" = import ./overrides/cloudmesh-cmd5/5.0.20;
+  };
   cloudshell-automation-api = {
     "8.3.0.168355" = import ./overrides/cloudshell-automation-api/8.3.0.168355;
   };
