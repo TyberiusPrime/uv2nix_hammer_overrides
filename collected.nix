@@ -2009,6 +2009,9 @@
   django-jquery-js = {
     "3.1.1" = import ./overrides/django-jquery-js/3.1.1;
   };
+  django-js-asset = {
+    "2.2.0" = import ./overrides/django-js-asset/2.2.0;
+  };
   django-json-field = {
     "0.5.7" = import ./overrides/django-json-field/0.5.7;
   };
