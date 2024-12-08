@@ -4496,6 +4496,9 @@
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
+  logging-json = {
+    "0.5.0" = import ./overrides/logging-json/0.5.0;
+  };
   logi-circle = {
     "0.2.3" = import ./overrides/logi-circle/0.2.3;
   };
