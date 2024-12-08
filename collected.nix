@@ -7793,6 +7793,9 @@
   rdp = {
     "0.8" = import ./overrides/rdp/0.8;
   };
+  reactivex = {
+    "4.0.4" = import ./overrides/reactivex/4.0.4;
+  };
   read-roi = {
     "1.6.0" = import ./overrides/read-roi/1.6.0;
   };
