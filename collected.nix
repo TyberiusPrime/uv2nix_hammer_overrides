@@ -401,6 +401,9 @@
   asn1tools = {
     "0.167.0" = import ./overrides/asn1tools/0.167.0;
   };
+  asposestoragecloud = {
+    "1.0.6" = import ./overrides/asposestoragecloud/1.0.6;
+  };
   assertpy = {
     "1.1" = import ./overrides/assertpy/1.1;
   };
