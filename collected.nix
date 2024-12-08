@@ -1566,6 +1566,9 @@
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
+  cubicweb-vcsfile = {
+    "2.5.0" = import ./overrides/cubicweb-vcsfile/2.5.0;
+  };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
