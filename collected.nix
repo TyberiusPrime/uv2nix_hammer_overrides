@@ -3277,6 +3277,9 @@
   gplaycli = {
     "3.29" = import ./overrides/gplaycli/3.29;
   };
+  gplearn = {
+    "0.4.2" = import ./overrides/gplearn/0.4.2;
+  };
   gprof2dot = {
     "2021.2.21" = import ./overrides/gprof2dot/2021.2.21;
   };
