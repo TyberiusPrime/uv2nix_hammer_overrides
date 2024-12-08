@@ -6465,6 +6465,9 @@
   pycket = {
     "0.3.0" = import ./overrides/pycket/0.3.0;
   };
+  pycketcasts = {
+    "1.0.1" = import ./overrides/pycketcasts/1.0.1;
+  };
   pycld2 = {
     "0.41" = import ./overrides/pycld2/0.41;
   };
