@@ -6123,6 +6123,9 @@
   primesieve = {
     "2.3.3" = import ./overrides/primesieve/2.3.3;
   };
+  priority = {
+    "2.0.0" = import ./overrides/priority/2.0.0;
+  };
   probator = {
     "1.10.1" = import ./overrides/probator/1.10.1;
   };
