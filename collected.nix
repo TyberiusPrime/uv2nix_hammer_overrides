@@ -9660,6 +9660,9 @@
   vcfpy = {
     "0.13.8" = import ./overrides/vcfpy/0.13.8;
   };
+  vcstool = {
+    "0.3.0" = import ./overrides/vcstool/0.3.0;
+  };
   vcversioner = {
     "2.16.0.0" = import ./overrides/vcversioner/2.16.0.0;
   };
