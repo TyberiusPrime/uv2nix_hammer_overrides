@@ -930,6 +930,9 @@
   cashaddress = {
     "1.0.6" = import ./overrides/cashaddress/1.0.6;
   };
+  category-encoders = {
+    "2.6.3" = import ./overrides/category-encoders/2.6.3;
+  };
   caveclient = {
     "5.29.1" = import ./overrides/caveclient/5.29.1;
   };
