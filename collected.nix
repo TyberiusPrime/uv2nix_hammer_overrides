@@ -1782,6 +1782,9 @@
   device-detector = {
     "5.0.1" = import ./overrides/device-detector/5.0.1;
   };
+  devolo-home-control-api = {
+    "0.18.3" = import ./overrides/devolo-home-control-api/0.18.3;
+  };
   dexy = {
     "2.0.9" = import ./overrides/dexy/2.0.9;
   };
