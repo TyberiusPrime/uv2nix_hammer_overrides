@@ -3059,6 +3059,9 @@
   fysom = {
     "2.1.6" = import ./overrides/fysom/2.1.6;
   };
+  fyta-cli = {
+    "0.6.6" = import ./overrides/fyta-cli/0.6.6;
+  };
   ga4gh-common = {
     "0.0.7" = import ./overrides/ga4gh-common/0.0.7;
   };
