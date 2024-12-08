@@ -3769,6 +3769,9 @@
   input-algorithms = {
     "0.6.0" = import ./overrides/input-algorithms/0.6.0;
   };
+  inscriptis = {
+    "2.5.0" = import ./overrides/inscriptis/2.5.0;
+  };
   insightface = {
     "0.7.3" = import ./overrides/insightface/0.7.3;
   };
