@@ -6647,6 +6647,9 @@
   pyfim = {
     "6.28" = import ./overrides/pyfim/6.28;
   };
+  pyflakes = {
+    "3.2.0" = import ./overrides/pyflakes/3.2.0;
+  };
   pyflexit = {
     "0.3" = import ./overrides/pyflexit/0.3;
   };
