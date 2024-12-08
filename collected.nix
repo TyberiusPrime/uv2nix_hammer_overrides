@@ -5022,6 +5022,9 @@
   multi-key-dict = {
     "2.0.3" = import ./overrides/multi-key-dict/2.0.3;
   };
+  multiaddr = {
+    "0.0.9" = import ./overrides/multiaddr/0.0.9;
+  };
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
