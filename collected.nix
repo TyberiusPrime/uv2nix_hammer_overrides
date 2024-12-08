@@ -497,6 +497,9 @@
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
+  automx2 = {
+    "2024.2" = import ./overrides/automx2/2024.2;
+  };
   autopaths = {
     "1.6.0" = import ./overrides/autopaths/1.6.0;
   };
