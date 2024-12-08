@@ -2568,6 +2568,9 @@
   esptool = {
     "4.7.0" = import ./overrides/esptool/4.7.0;
   };
+  essentials = {
+    "1.1.5" = import ./overrides/essentials/1.1.5;
+  };
   etcd3 = {
     "0.12.0" = import ./overrides/etcd3/0.12.0;
   };
