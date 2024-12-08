@@ -8165,6 +8165,9 @@
   satpy = {
     "0.51.0" = import ./overrides/satpy/0.51.0;
   };
+  savreaderwriter = {
+    "3.4.2" = import ./overrides/savreaderwriter/3.4.2;
+  };
   sbtab = {
     "1.0.8" = import ./overrides/sbtab/1.0.8;
   };
