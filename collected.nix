@@ -2625,6 +2625,9 @@
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
+  executing = {
+    "2.1.0" = import ./overrides/executing/2.1.0;
+  };
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
