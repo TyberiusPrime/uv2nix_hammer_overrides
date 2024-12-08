@@ -1958,6 +1958,9 @@
   django-endless-pagination = {
     "2.0" = import ./overrides/django-endless-pagination/2.0;
   };
+  django-extensions = {
+    "3.2.3" = import ./overrides/django-extensions/3.2.3;
+  };
   django-extra-views = {
     "0.14.0" = import ./overrides/django-extra-views/0.14.0;
   };
