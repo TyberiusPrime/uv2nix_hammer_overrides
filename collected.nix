@@ -7928,6 +7928,9 @@
   retry-decorator = {
     "1.1.1" = import ./overrides/retry-decorator/1.1.1;
   };
+  retryrequests = {
+    "0.2.0" = import ./overrides/retryrequests/0.2.0;
+  };
   returns-decorator = {
     "1.1" = import ./overrides/returns-decorator/1.1;
   };
