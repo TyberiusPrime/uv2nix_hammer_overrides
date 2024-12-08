@@ -644,6 +644,9 @@
   bayespy = {
     "0.6.2" = import ./overrides/bayespy/0.6.2;
   };
+  bc-detect-secrets = {
+    "1.5.16" = import ./overrides/bc-detect-secrets/1.5.16;
+  };
   bcf = {
     "1.9.0" = import ./overrides/bcf/1.9.0;
   };
