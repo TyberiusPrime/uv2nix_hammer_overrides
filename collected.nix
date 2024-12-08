@@ -3513,6 +3513,9 @@
   hsaudiotag3k = {
     "1.1.3.post1" = import ./overrides/hsaudiotag3k/1.1.3.post1;
   };
+  html-tag-names = {
+    "0.1.2" = import ./overrides/html-tag-names/0.1.2;
+  };
   html2markdown = {
     "0.1.7" = import ./overrides/html2markdown/0.1.7;
   };
