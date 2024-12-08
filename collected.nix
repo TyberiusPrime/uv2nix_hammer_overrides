@@ -3325,9 +3325,11 @@
   };
   grpc-google-logging-v2 = {
     "0.11.1" = import ./overrides/grpc-google-logging-v2/0.11.1;
+    "0.8.1" = import ./overrides/grpc-google-logging-v2/0.8.1;
   };
   grpc-google-pubsub-v1 = {
     "0.11.1" = import ./overrides/grpc-google-pubsub-v1/0.11.1;
+    "0.8.1" = import ./overrides/grpc-google-pubsub-v1/0.8.1;
   };
   grpcio = {
     "1.57.0" = import ./overrides/grpcio/1.57.0;
