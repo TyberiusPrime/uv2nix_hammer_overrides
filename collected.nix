@@ -8786,6 +8786,9 @@
   stratus-api-core = {
     "0.0.30" = import ./overrides/stratus-api-core/0.0.30;
   };
+  strawberry-graphql = {
+    "0.240.0" = import ./overrides/strawberry-graphql/0.240.0;
+  };
   stream2py = {
     "1.0.42" = import ./overrides/stream2py/1.0.42;
   };
