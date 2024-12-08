@@ -701,6 +701,9 @@
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
+  bigchaindb-abci = {
+    "1.0.7" = import ./overrides/bigchaindb-abci/1.0.7;
+  };
   billiard = {
     "3.5.0.5" = import ./overrides/billiard/3.5.0.5;
   };
