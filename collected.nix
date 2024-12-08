@@ -9470,6 +9470,9 @@
   ujson = {
     "1.35" = import ./overrides/ujson/1.35;
   };
+  ukrainealarm = {
+    "0.0.1" = import ./overrides/ukrainealarm/0.0.1;
+  };
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
   };
