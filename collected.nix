@@ -5559,6 +5559,9 @@
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
+  openslide-python = {
+    "1.3.1" = import ./overrides/openslide-python/1.3.1;
+  };
   opentracing = {
     "1.3.0" = import ./overrides/opentracing/1.3.0;
     "2.4.0" = import ./overrides/opentracing/2.4.0;
