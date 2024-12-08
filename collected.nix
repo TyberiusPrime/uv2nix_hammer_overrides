@@ -5361,6 +5361,9 @@
   numpy2gif = {
     "1.0" = import ./overrides/numpy2gif/1.0;
   };
+  numpyro = {
+    "0.15.2" = import ./overrides/numpyro/0.15.2;
+  };
   nutil = {
     "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
   };
