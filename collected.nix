@@ -8619,6 +8619,9 @@
   sphinxcontrib-bayesnet = {
     "0.4" = import ./overrides/sphinxcontrib-bayesnet/0.4;
   };
+  sphinxcontrib-blockdiag = {
+    "3.0.0" = import ./overrides/sphinxcontrib-blockdiag/3.0.0;
+  };
   sphinxcontrib-ditaa = {
     "1.0.2" = import ./overrides/sphinxcontrib-ditaa/1.0.2;
   };
