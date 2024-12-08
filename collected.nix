@@ -4775,6 +4775,9 @@
   micloud = {
     "0.6" = import ./overrides/micloud/0.6;
   };
+  microcosm = {
+    "4.1.0" = import ./overrides/microcosm/4.1.0;
+  };
   microdata = {
     "0.8.0" = import ./overrides/microdata/0.8.0;
   };
