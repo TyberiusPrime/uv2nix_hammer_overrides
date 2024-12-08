@@ -1587,6 +1587,9 @@
   customerio = {
     "2.1" = import ./overrides/customerio/2.1;
   };
+  cutadapt = {
+    "4.9" = import ./overrides/cutadapt/4.9;
+  };
   cvargparse = {
     "0.5.4" = import ./overrides/cvargparse/0.5.4;
   };
