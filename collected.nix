@@ -2796,6 +2796,9 @@
   flake8-mutable = {
     "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
   };
+  flake8-noqa = {
+    "1.4.0" = import ./overrides/flake8-noqa/1.4.0;
+  };
   flake8-quotes = {
     "0.14.1" = import ./overrides/flake8-quotes/0.14.1;
     "1.0.0" = import ./overrides/flake8-quotes/1.0.0;
