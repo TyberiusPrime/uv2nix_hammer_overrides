@@ -8168,6 +8168,9 @@
   sbtab = {
     "1.0.8" = import ./overrides/sbtab/1.0.8;
   };
+  scaleapi = {
+    "2.15.14" = import ./overrides/scaleapi/2.15.14;
+  };
   scales = {
     "1.0.9" = import ./overrides/scales/1.0.9;
   };
