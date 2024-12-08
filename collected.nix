@@ -17,6 +17,9 @@
   abjad = {
     "3.19" = import ./overrides/abjad/3.19;
   };
+  abstract = {
+    "2022.7.10" = import ./overrides/abstract/2022.7.10;
+  };
   accessify = {
     "0.3.1" = import ./overrides/accessify/0.3.1;
   };
