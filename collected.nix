@@ -3937,6 +3937,9 @@
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
   };
+  jinjasql = {
+    "0.1.8" = import ./overrides/jinjasql/0.1.8;
+  };
   jmbo = {
     "3.0.5" = import ./overrides/jmbo/3.0.5;
   };
