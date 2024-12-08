@@ -3480,6 +3480,9 @@
   hole = {
     "0.8.0" = import ./overrides/hole/0.8.0;
   };
+  holidays = {
+    "0.56" = import ./overrides/holidays/0.56;
+  };
   home-assistant-chip-core = {
     "2024.7.1" = import ./overrides/home-assistant-chip-core/2024.7.1;
   };
