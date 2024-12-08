@@ -6791,6 +6791,9 @@
   pykwb = {
     "0.0.10" = import ./overrides/pykwb/0.0.10;
   };
+  pylab-sdk = {
+    "1.7.2" = import ./overrides/pylab-sdk/1.7.2;
+  };
   pylacrosse = {
     "0.4" = import ./overrides/pylacrosse/0.4;
   };
