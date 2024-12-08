@@ -843,6 +843,9 @@
   browsermob-proxy = {
     "0.8.0" = import ./overrides/browsermob-proxy/0.8.0;
   };
+  brython = {
+    "3.12.4" = import ./overrides/brython/3.12.4;
+  };
   bs4 = {
     "0.0.1" = import ./overrides/bs4/0.0.1;
   };
