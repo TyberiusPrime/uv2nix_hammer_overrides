@@ -4187,6 +4187,9 @@
   kitchen = {
     "1.2.6" = import ./overrides/kitchen/1.2.6;
   };
+  kiteconnect = {
+    "5.0.1" = import ./overrides/kiteconnect/5.0.1;
+  };
   kivy-garden-ebs-core = {
     "1.3.0" = import ./overrides/kivy-garden-ebs-core/1.3.0;
   };
