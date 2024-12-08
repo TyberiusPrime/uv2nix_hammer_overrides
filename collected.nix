@@ -861,6 +861,9 @@
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
+  btsmarthub-devicelist = {
+    "0.2.3" = import ./overrides/btsmarthub-devicelist/0.2.3;
+  };
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
   };
