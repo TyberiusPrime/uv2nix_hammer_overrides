@@ -6773,6 +6773,9 @@
   pykcs11 = {
     "1.5.17" = import ./overrides/pykcs11/1.5.17;
   };
+  pykdtree = {
+    "1.3.13" = import ./overrides/pykdtree/1.3.13;
+  };
   pykeops = {
     "2.2.3" = import ./overrides/pykeops/2.2.3;
   };
