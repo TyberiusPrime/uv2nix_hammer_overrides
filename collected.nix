@@ -8257,6 +8257,9 @@
   scrypt = {
     "0.8.13" = import ./overrides/scrypt/0.8.13;
   };
+  scvi-tools = {
+    "1.1.6" = import ./overrides/scvi-tools/1.1.6;
+  };
   sdkmanager = {
     "0.6.8" = import ./overrides/sdkmanager/0.6.8;
   };
