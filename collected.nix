@@ -3473,6 +3473,7 @@
   };
   hmmlearn = {
     "0.2.5" = import ./overrides/hmmlearn/0.2.5;
+    "0.3.2" = import ./overrides/hmmlearn/0.3.2;
   };
   hnswlib = {
     "0.8.0" = import ./overrides/hnswlib/0.8.0;
