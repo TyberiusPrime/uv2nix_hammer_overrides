@@ -5232,6 +5232,9 @@
   nglview = {
     "3.1.2" = import ./overrides/nglview/3.1.2;
   };
+  niaclass = {
+    "0.2.0" = import ./overrides/niaclass/0.2.0;
+  };
   nilsimsa = {
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
   };
