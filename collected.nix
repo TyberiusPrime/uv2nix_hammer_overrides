@@ -6213,6 +6213,9 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  psims = {
+    "1.3.4" = import ./overrides/psims/1.3.4;
+  };
   psqlparse = {
     "1.0rc7" = import ./overrides/psqlparse/1.0rc7;
   };
