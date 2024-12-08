@@ -3937,6 +3937,9 @@
   jinjaroot = {
     "0.0.6" = import ./overrides/jinjaroot/0.0.6;
   };
+  jiwer = {
+    "3.0.4" = import ./overrides/jiwer/3.0.4;
+  };
   jmbo = {
     "3.0.5" = import ./overrides/jmbo/3.0.5;
   };
