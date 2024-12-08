@@ -3381,6 +3381,9 @@
   halo = {
     "0.0.31" = import ./overrides/halo/0.0.31;
   };
+  halohome = {
+    "0.5.0" = import ./overrides/halohome/0.5.0;
+  };
   hamlpy = {
     "0.82.2" = import ./overrides/hamlpy/0.82.2;
   };
