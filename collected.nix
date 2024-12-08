@@ -7778,6 +7778,9 @@
   rask = {
     "0.1.5" = import ./overrides/rask/0.1.5;
   };
+  rasterstats = {
+    "0.19.0" = import ./overrides/rasterstats/0.19.0;
+  };
   ratelimit = {
     "2.2.1" = import ./overrides/ratelimit/2.2.1;
   };
