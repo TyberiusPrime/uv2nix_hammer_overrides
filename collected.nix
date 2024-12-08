@@ -2604,6 +2604,9 @@
   eventemitter = {
     "0.2.0" = import ./overrides/eventemitter/0.2.0;
   };
+  eventkit = {
+    "1.0.3" = import ./overrides/eventkit/1.0.3;
+  };
   events = {
     "0.3" = import ./overrides/events/0.3;
   };
