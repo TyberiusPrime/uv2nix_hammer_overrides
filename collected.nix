@@ -5013,6 +5013,9 @@
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
+  mullvad-api = {
+    "1.0.0" = import ./overrides/mullvad-api/1.0.0;
+  };
   mullvad-closest = {
     "0.0.3" = import ./overrides/mullvad-closest/0.0.3;
   };
