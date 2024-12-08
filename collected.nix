@@ -8507,6 +8507,9 @@
   slycot = {
     "0.6.0" = import ./overrides/slycot/0.6.0;
   };
+  slytherin = {
+    "2020.11.12" = import ./overrides/slytherin/2020.11.12;
+  };
   smac = {
     "1.2" = import ./overrides/smac/1.2;
     "2.2.0" = import ./overrides/smac/2.2.0;
