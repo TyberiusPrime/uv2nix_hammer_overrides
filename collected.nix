@@ -5699,6 +5699,9 @@
   pangocffi = {
     "0.13.0" = import ./overrides/pangocffi/0.13.0;
   };
+  panphon = {
+    "0.21.2" = import ./overrides/panphon/0.21.2;
+  };
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
