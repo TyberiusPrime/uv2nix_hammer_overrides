@@ -4598,6 +4598,9 @@
   mandrill = {
     "1.0.60" = import ./overrides/mandrill/1.0.60;
   };
+  manifestoo-core = {
+    "1.7" = import ./overrides/manifestoo-core/1.7;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
