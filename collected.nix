@@ -653,6 +653,9 @@
   bch = {
     "1.2.1" = import ./overrides/bch/1.2.1;
   };
+  bdffont = {
+    "0.0.26" = import ./overrides/bdffont/0.0.26;
+  };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
