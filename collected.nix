@@ -5037,6 +5037,9 @@
   multiprocessing-on-dill = {
     "3.5.0a4" = import ./overrides/multiprocessing-on-dill/3.5.0a4;
   };
+  multiqc = {
+    "1.24.1" = import ./overrides/multiqc/1.24.1;
+  };
   multiurl = {
     "0.3.1" = import ./overrides/multiurl/0.3.1;
   };
