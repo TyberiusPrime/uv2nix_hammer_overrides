@@ -5519,6 +5519,9 @@
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
+  opencivicdata = {
+    "3.3.1" = import ./overrides/opencivicdata/3.3.1;
+  };
   opencmiss-utils = {
     "0.4.2" = import ./overrides/opencmiss-utils/0.4.2;
   };
