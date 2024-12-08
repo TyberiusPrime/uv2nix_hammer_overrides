@@ -5896,6 +5896,9 @@
   piep = {
     "0.10.0" = import ./overrides/piep/0.10.0;
   };
+  pies = {
+    "2.6.7" = import ./overrides/pies/2.6.7;
+  };
   pii-data = {
     "0.5.0" = import ./overrides/pii-data/0.5.0;
   };
