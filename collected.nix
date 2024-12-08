@@ -1776,6 +1776,9 @@
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
+  detect-secrets = {
+    "1.5.0" = import ./overrides/detect-secrets/1.5.0;
+  };
   dev0s = {
     "3.36.6" = import ./overrides/dev0s/3.36.6;
   };
