@@ -1907,6 +1907,9 @@
   django-cacheops = {
     "7.0.2" = import ./overrides/django-cacheops/7.0.2;
   };
+  django-categories = {
+    "2.0.0" = import ./overrides/django-categories/2.0.0;
+  };
   django-celery-beat = {
     "2.6.0" = import ./overrides/django-celery-beat/2.6.0;
   };
