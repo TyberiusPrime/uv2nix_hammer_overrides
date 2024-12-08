@@ -5925,6 +5925,9 @@
   pinyin = {
     "0.4.0" = import ./overrides/pinyin/0.4.0;
   };
+  pip-autoremove = {
+    "0.10.0" = import ./overrides/pip-autoremove/0.10.0;
+  };
   pip-services3-commons = {
     "3.3.14" = import ./overrides/pip-services3-commons/3.3.14;
   };
