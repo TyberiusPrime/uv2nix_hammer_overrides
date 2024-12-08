@@ -7736,6 +7736,9 @@
   querystring = {
     "0.1.0" = import ./overrides/querystring/0.1.0;
   };
+  quick-csv = {
+    "0.0.5" = import ./overrides/quick-csv/0.0.5;
+  };
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
   };
