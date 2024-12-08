@@ -7535,6 +7535,9 @@
   pytidylib = {
     "0.3.2" = import ./overrides/pytidylib/0.3.2;
   };
+  pytile = {
+    "2023.12.0" = import ./overrides/pytile/2023.12.0;
+  };
   pytils = {
     "0.4.1" = import ./overrides/pytils/0.4.1;
   };
