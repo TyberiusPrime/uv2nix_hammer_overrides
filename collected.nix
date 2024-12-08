@@ -6183,6 +6183,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  prompt-toolkit = {
+    "3.0.47" = import ./overrides/prompt-toolkit/3.0.47;
+  };
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
   };
