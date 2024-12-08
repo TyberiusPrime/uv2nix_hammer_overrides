@@ -410,6 +410,9 @@
   astmonkey = {
     "0.3.6" = import ./overrides/astmonkey/0.3.6;
   };
+  astor = {
+    "0.8.1" = import ./overrides/astor/0.8.1;
+  };
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
   };
