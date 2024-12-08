@@ -2466,6 +2466,9 @@
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
+  edfi-lms-extractor-lib = {
+    "1.1.2" = import ./overrides/edfi-lms-extractor-lib/1.1.2;
+  };
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
