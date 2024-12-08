@@ -9014,6 +9014,9 @@
   textbisect = {
     "0.1.0" = import ./overrides/textbisect/0.1.0;
   };
+  textdistance = {
+    "4.6.3" = import ./overrides/textdistance/4.6.3;
+  };
   textnets = {
     "0.9.4" = import ./overrides/textnets/0.9.4;
   };
