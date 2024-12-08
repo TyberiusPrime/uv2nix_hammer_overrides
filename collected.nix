@@ -7862,6 +7862,9 @@
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
+  renku-sphinx-theme = {
+    "0.4.0" = import ./overrides/renku-sphinx-theme/0.4.0;
+  };
   reolink = {
     "0.0.64" = import ./overrides/reolink/0.0.64;
   };
