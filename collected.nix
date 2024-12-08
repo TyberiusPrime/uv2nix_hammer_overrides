@@ -7859,6 +7859,9 @@
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
+  relations-dil = {
+    "0.6.13" = import ./overrides/relations-dil/0.6.13;
+  };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
