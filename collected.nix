@@ -2427,6 +2427,9 @@
   dyn = {
     "1.8.6" = import ./overrides/dyn/1.8.6;
   };
+  dynalite-devices = {
+    "0.1.48" = import ./overrides/dynalite-devices/0.1.48;
+  };
   dynamic-pytables-where-condition = {
     "1.1.1" = import ./overrides/dynamic-pytables-where-condition/1.1.1;
   };
