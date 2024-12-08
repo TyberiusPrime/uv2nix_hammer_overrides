@@ -4284,6 +4284,9 @@
   lazyutils = {
     "0.3.3" = import ./overrides/lazyutils/0.3.3;
   };
+  lb-nightly-configuration = {
+    "0.3.2" = import ./overrides/lb-nightly-configuration/0.3.2;
+  };
   lbmessaging = {
     "1.2.4" = import ./overrides/lbmessaging/1.2.4;
   };
