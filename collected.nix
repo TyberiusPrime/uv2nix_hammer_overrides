@@ -8616,6 +8616,9 @@
   sphinx-serve = {
     "1.0.1" = import ./overrides/sphinx-serve/1.0.1;
   };
+  sphinxcontrib-apidoc = {
+    "0.5.0" = import ./overrides/sphinxcontrib-apidoc/0.5.0;
+  };
   sphinxcontrib-bayesnet = {
     "0.4" = import ./overrides/sphinxcontrib-bayesnet/0.4;
   };
