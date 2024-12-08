@@ -4156,6 +4156,9 @@
   kerberos = {
     "1.3.1" = import ./overrides/kerberos/1.3.1;
   };
+  keybert = {
+    "0.8.5" = import ./overrides/keybert/0.8.5;
+  };
   keychain = {
     "0.14.2.0" = import ./overrides/keychain/0.14.2.0;
   };
