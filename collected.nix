@@ -178,6 +178,9 @@
   alibabacloud-tea-py2 = {
     "0.1.0" = import ./overrides/alibabacloud-tea-py2/0.1.0;
   };
+  aligo = {
+    "6.2.4" = import ./overrides/aligo/6.2.4;
+  };
   aliyun-log-python-sdk = {
     "0.9.11" = import ./overrides/aliyun-log-python-sdk/0.9.11;
   };
