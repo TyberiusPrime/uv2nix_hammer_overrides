@@ -1304,6 +1304,9 @@
   colorpalette = {
     "0.3.3" = import ./overrides/colorpalette/0.3.3;
   };
+  colorthief = {
+    "0.2.1" = import ./overrides/colorthief/0.2.1;
+  };
   colortools = {
     "0.1.2" = import ./overrides/colortools/0.1.2;
   };
