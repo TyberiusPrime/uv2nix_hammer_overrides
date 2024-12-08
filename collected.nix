@@ -2508,6 +2508,9 @@
   ellc = {
     "1.8.9" = import ./overrides/ellc/1.8.9;
   };
+  ema-pytorch = {
+    "0.6.2" = import ./overrides/ema-pytorch/0.6.2;
+  };
   embit = {
     "0.8.0" = import ./overrides/embit/0.8.0;
   };
