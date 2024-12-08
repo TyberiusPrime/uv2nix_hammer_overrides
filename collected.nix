@@ -6752,6 +6752,9 @@
   pyipma = {
     "3.0.7" = import ./overrides/pyipma/3.0.7;
   };
+  pyipv8 = {
+    "2.13.0" = import ./overrides/pyipv8/2.13.0;
+  };
   pyjade = {
     "4.0.0" = import ./overrides/pyjade/4.0.0;
   };
