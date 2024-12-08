@@ -9293,6 +9293,9 @@
   transifex-client = {
     "0.14.4" = import ./overrides/transifex-client/0.14.4;
   };
+  transitions = {
+    "0.9.2" = import ./overrides/transitions/0.9.2;
+  };
   translitcodec = {
     "0.7.0" = import ./overrides/translitcodec/0.7.0;
   };
