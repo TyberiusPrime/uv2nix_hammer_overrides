@@ -3979,6 +3979,9 @@
   jsmin = {
     "3.0.1" = import ./overrides/jsmin/3.0.1;
   };
+  json-cfg = {
+    "0.4.2" = import ./overrides/json-cfg/0.4.2;
+  };
   json-cfg-rw = {
     "0.6.0" = import ./overrides/json-cfg-rw/0.6.0;
   };
