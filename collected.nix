@@ -5510,6 +5510,9 @@
   opcua = {
     "0.98.13" = import ./overrides/opcua/0.98.13;
   };
+  open-clip-torch = {
+    "2.26.1" = import ./overrides/open-clip-torch/2.26.1;
+  };
   openai-clip = {
     "1.0.1" = import ./overrides/openai-clip/1.0.1;
   };
