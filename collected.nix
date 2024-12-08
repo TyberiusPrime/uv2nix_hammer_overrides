@@ -8933,6 +8933,9 @@
   temescal = {
     "0.5" = import ./overrides/temescal/0.5;
   };
+  temp = {
+    "2020.7.2" = import ./overrides/temp/2020.7.2;
+  };
   tempdir = {
     "0.7.1" = import ./overrides/tempdir/0.7.1;
   };
