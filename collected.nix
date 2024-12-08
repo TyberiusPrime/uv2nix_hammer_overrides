@@ -5556,6 +5556,9 @@
   openpaperwork-gtk = {
     "2.2.5" = import ./overrides/openpaperwork-gtk/2.2.5;
   };
+  openrgb-python = {
+    "0.3.0" = import ./overrides/openrgb-python/0.3.0;
+  };
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
