@@ -1307,6 +1307,9 @@
   colortools = {
     "0.1.2" = import ./overrides/colortools/0.1.2;
   };
+  colour-science = {
+    "0.4.4" = import ./overrides/colour-science/0.4.4;
+  };
   colr = {
     "0.9.1" = import ./overrides/colr/0.9.1;
   };
