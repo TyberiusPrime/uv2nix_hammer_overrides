@@ -8174,6 +8174,9 @@
   scandir = {
     "1.10.0" = import ./overrides/scandir/1.10.0;
   };
+  scanpy = {
+    "1.10.2" = import ./overrides/scanpy/1.10.2;
+  };
   scapy = {
     "2.5.0" = import ./overrides/scapy/2.5.0;
   };
