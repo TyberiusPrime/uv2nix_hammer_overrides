@@ -3231,6 +3231,9 @@
   go-http = {
     "0.3.2" = import ./overrides/go-http/0.3.2;
   };
+  gocardless-pro = {
+    "1.49.0" = import ./overrides/gocardless-pro/1.49.0;
+  };
   golgi = {
     "2.0.1" = import ./overrides/golgi/2.0.1;
   };
