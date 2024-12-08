@@ -2628,6 +2628,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  explainerdashboard = {
+    "0.4.7" = import ./overrides/explainerdashboard/0.4.7;
+  };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
