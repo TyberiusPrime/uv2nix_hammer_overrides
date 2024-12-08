@@ -222,6 +222,9 @@
     "9.2.117" = import ./overrides/angr/9.2.117;
     "9.2.120" = import ./overrides/angr/9.2.120;
   };
+  angrop = {
+    "9.2.10" = import ./overrides/angrop/9.2.10;
+  };
   anitopy = {
     "2.1.1" = import ./overrides/anitopy/2.1.1;
   };
