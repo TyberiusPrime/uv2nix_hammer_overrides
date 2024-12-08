@@ -3853,6 +3853,9 @@
   ipy = {
     "1.1" = import ./overrides/ipy/1.1;
   };
+  ipyfilechooser = {
+    "0.6.0" = import ./overrides/ipyfilechooser/0.6.0;
+  };
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
