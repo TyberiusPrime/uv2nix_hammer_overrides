@@ -10187,6 +10187,9 @@
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
   };
+  zopyx-txng3-ext = {
+    "4.0.0" = import ./overrides/zopyx-txng3-ext/4.0.0;
+  };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
   };
