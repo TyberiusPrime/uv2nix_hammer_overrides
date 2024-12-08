@@ -428,6 +428,9 @@
   async-cache = {
     "1.1.1" = import ./overrides/async-cache/1.1.1;
   };
+  async-retriever = {
+    "0.17.0" = import ./overrides/async-retriever/0.17.0;
+  };
   async-upnp-client = {
     "0.40.0" = import ./overrides/async-upnp-client/0.40.0;
   };
