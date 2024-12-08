@@ -4632,6 +4632,7 @@
     "1.14" = import ./overrides/markuppy/1.14;
   };
   markupsafe = {
+    "1.1.1" = import ./overrides/markupsafe/1.1.1;
     "2.0.1" = import ./overrides/markupsafe/2.0.1;
   };
   marrow-util = {
