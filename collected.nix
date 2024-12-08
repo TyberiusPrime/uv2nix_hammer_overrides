@@ -7685,6 +7685,9 @@
   pyyardian = {
     "1.2.0" = import ./overrides/pyyardian/1.2.0;
   };
+  pyzabbix = {
+    "1.3.1" = import ./overrides/pyzabbix/1.3.1;
+  };
   pyzerproc = {
     "0.4.12" = import ./overrides/pyzerproc/0.4.12;
   };
