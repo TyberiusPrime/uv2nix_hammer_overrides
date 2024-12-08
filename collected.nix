@@ -1722,6 +1722,9 @@
   dd-aliyun-python-sdk-core = {
     "2.8.2" = import ./overrides/dd-aliyun-python-sdk-core/2.8.2;
   };
+  ddsketch = {
+    "3.0.1" = import ./overrides/ddsketch/3.0.1;
+  };
   deap = {
     "1.4.1" = import ./overrides/deap/1.4.1;
   };
