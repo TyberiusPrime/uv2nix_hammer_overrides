@@ -5459,6 +5459,9 @@
   ofxtools = {
     "0.9.5" = import ./overrides/ofxtools/0.9.5;
   };
+  ogdf-python = {
+    "0.3.3" = import ./overrides/ogdf-python/0.3.3;
+  };
   oidcservice = {
     "1.1.0" = import ./overrides/oidcservice/1.1.0;
   };
