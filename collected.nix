@@ -2240,6 +2240,9 @@
   djangorestframework-jsonschema = {
     "0.1.1" = import ./overrides/djangorestframework-jsonschema/0.1.1;
   };
+  djangorestframework-simplejwt = {
+    "5.3.1" = import ./overrides/djangorestframework-simplejwt/5.3.1;
+  };
   djangotoolbox = {
     "1.8.0" = import ./overrides/djangotoolbox/1.8.0;
   };
