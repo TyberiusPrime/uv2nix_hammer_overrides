@@ -7221,6 +7221,9 @@
   pytest-cram = {
     "0.2.2" = import ./overrides/pytest-cram/0.2.2;
   };
+  pytest-django = {
+    "4.9.0" = import ./overrides/pytest-django/4.9.0;
+  };
   pytest-expect = {
     "1.1.0" = import ./overrides/pytest-expect/1.1.0;
   };
