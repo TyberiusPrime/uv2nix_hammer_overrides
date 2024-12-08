@@ -1515,6 +1515,9 @@
   crossbar = {
     "22.6.1" = import ./overrides/crossbar/22.6.1;
   };
+  crowdstrike-falconpy = {
+    "1.4.5" = import ./overrides/crowdstrike-falconpy/1.4.5;
+  };
   cryio = {
     "2018.5.30" = import ./overrides/cryio/2018.5.30;
   };
