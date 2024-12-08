@@ -7206,6 +7206,9 @@
   pytdx = {
     "1.72" = import ./overrides/pytdx/1.72;
   };
+  pyteal = {
+    "0.26.1" = import ./overrides/pyteal/0.26.1;
+  };
   pytelegraf = {
     "0.3.3" = import ./overrides/pytelegraf/0.3.3;
   };
