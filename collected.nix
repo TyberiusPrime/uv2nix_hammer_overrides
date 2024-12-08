@@ -1985,6 +1985,9 @@
   django-gm2m = {
     "1.2" = import ./overrides/django-gm2m/1.2;
   };
+  django-graphql-jwt = {
+    "0.4.0" = import ./overrides/django-graphql-jwt/0.4.0;
+  };
   django-haystack = {
     "3.3.0" = import ./overrides/django-haystack/3.3.0;
   };
