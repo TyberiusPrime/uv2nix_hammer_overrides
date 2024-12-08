@@ -8483,6 +8483,9 @@
   slacker = {
     "0.14.0" = import ./overrides/slacker/0.14.0;
   };
+  slackeventsapi = {
+    "3.0.3" = import ./overrides/slackeventsapi/3.0.3;
+  };
   slackweb = {
     "1.0.5" = import ./overrides/slackweb/1.0.5;
   };
