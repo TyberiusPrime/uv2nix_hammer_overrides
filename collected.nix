@@ -6925,6 +6925,9 @@
   pyocclient = {
     "0.6" = import ./overrides/pyocclient/0.6;
   };
+  pyocd = {
+    "0.36.0" = import ./overrides/pyocd/0.36.0;
+  };
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
