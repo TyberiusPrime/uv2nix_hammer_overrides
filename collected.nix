@@ -7922,6 +7922,9 @@
   restructuredtext-lint = {
     "1.4.0" = import ./overrides/restructuredtext-lint/1.4.0;
   };
+  rethinkdb = {
+    "2.4.10.post1" = import ./overrides/rethinkdb/2.4.10.post1;
+  };
   retranslator = {
     "0.2.2" = import ./overrides/retranslator/0.2.2;
   };
