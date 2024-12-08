@@ -9702,6 +9702,9 @@
   vincenty = {
     "0.1.4" = import ./overrides/vincenty/0.1.4;
   };
+  vine = {
+    "5.1.0" = import ./overrides/vine/5.1.0;
+  };
   virtstrap-core = {
     "0.3.16" = import ./overrides/virtstrap-core/0.3.16;
   };
