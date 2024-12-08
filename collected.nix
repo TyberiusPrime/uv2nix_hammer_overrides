@@ -8885,6 +8885,9 @@
   tables = {
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
+  tahoma-api = {
+    "0.0.17" = import ./overrides/tahoma-api/0.0.17;
+  };
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
   };
