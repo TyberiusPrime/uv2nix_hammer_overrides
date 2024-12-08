@@ -1394,6 +1394,9 @@
   contextdecorator = {
     "0.10.0" = import ./overrides/contextdecorator/0.10.0;
   };
+  contexter = {
+    "0.1.4" = import ./overrides/contexter/0.1.4;
+  };
   contexttimer = {
     "0.3.3" = import ./overrides/contexttimer/0.3.3;
   };
