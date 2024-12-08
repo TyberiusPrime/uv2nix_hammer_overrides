@@ -322,6 +322,9 @@
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
+  arcam-fmj = {
+    "1.5.2" = import ./overrides/arcam-fmj/1.5.2;
+  };
   arcgis = {
     "2.3.1" = import ./overrides/arcgis/2.3.1;
   };
