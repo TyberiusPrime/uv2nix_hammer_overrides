@@ -8989,6 +8989,7 @@
   };
   terminaltables = {
     "3.1.0" = import ./overrides/terminaltables/3.1.0;
+    "3.1.10" = import ./overrides/terminaltables/3.1.10;
   };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
