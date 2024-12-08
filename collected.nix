@@ -2487,6 +2487,9 @@
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
   };
+  effdet = {
+    "0.4.1" = import ./overrides/effdet/0.4.1;
+  };
   eigenpy = {
     "3.5.1" = import ./overrides/eigenpy/3.5.1;
   };
