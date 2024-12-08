@@ -7700,6 +7700,9 @@
   qiskit-aqua = {
     "0.9.5" = import ./overrides/qiskit-aqua/0.9.5;
   };
+  qiskit-machine-learning = {
+    "0.7.2" = import ./overrides/qiskit-machine-learning/0.7.2;
+  };
   qiskit-nature = {
     "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
   };
