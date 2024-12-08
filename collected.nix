@@ -930,6 +930,9 @@
   cashaddress = {
     "1.0.6" = import ./overrides/cashaddress/1.0.6;
   };
+  cattrs = {
+    "24.1.0" = import ./overrides/cattrs/24.1.0;
+  };
   caveclient = {
     "5.29.1" = import ./overrides/caveclient/5.29.1;
   };
