@@ -4541,6 +4541,9 @@
   lru-dict = {
     "1.2.0" = import ./overrides/lru-dict/1.2.0;
   };
+  lttl = {
+    "2.0.12" = import ./overrides/lttl/2.0.12;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
