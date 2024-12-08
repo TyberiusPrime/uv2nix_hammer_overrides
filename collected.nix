@@ -8547,6 +8547,9 @@
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
+  snscrape = {
+    "0.7.0.20230622" = import ./overrides/snscrape/0.7.0.20230622;
+  };
   soappy-py3 = {
     "0.52.30" = import ./overrides/soappy-py3/0.52.30;
   };
