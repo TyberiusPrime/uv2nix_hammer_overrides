@@ -3790,6 +3790,9 @@
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
+  interface-meta = {
+    "1.3.0" = import ./overrides/interface-meta/1.3.0;
+  };
   interlap = {
     "0.2.7" = import ./overrides/interlap/0.2.7;
   };
