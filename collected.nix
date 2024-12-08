@@ -1134,6 +1134,9 @@
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };
+  clld = {
+    "11.2.2" = import ./overrides/clld/11.2.2;
+  };
   cloc = {
     "0.2.5" = import ./overrides/cloc/0.2.5;
   };
