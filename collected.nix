@@ -398,6 +398,9 @@
     "2.4.12" = import ./overrides/asks/2.4.12;
     "3.0.0" = import ./overrides/asks/3.0.0;
   };
+  asmog = {
+    "0.0.6" = import ./overrides/asmog/0.0.6;
+  };
   asn1tools = {
     "0.167.0" = import ./overrides/asn1tools/0.167.0;
   };
