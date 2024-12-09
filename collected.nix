@@ -295,6 +295,9 @@
   apiclient = {
     "1.0.4" = import ./overrides/apiclient/1.0.4;
   };
+  apis-core = {
+    "0.18.14" = import ./overrides/apis-core/0.18.14;
+  };
   apistar = {
     "0.7.2" = import ./overrides/apistar/0.7.2;
   };
@@ -1888,6 +1891,7 @@
   };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
+    "3.8.2" = import ./overrides/django-autocomplete-light/3.8.2;
   };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
