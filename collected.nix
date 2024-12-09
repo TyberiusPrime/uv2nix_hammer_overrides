@@ -5013,6 +5013,9 @@
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
+  muffin = {
+    "0.102.3" = import ./overrides/muffin/0.102.3;
+  };
   mullvad-closest = {
     "0.0.3" = import ./overrides/mullvad-closest/0.0.3;
   };
