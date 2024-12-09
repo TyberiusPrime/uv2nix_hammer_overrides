@@ -5587,6 +5587,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  oralb-ble = {
+    "0.18.0" = import ./overrides/oralb-ble/0.18.0;
+  };
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
   };
