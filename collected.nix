@@ -5596,6 +5596,9 @@
   orderedset = {
     "2.0.3" = import ./overrides/orderedset/2.0.3;
   };
+  ordf = {
+    "0.36" = import ./overrides/ordf/0.36;
+  };
   ore-alchemist = {
     "0.6.0" = import ./overrides/ore-alchemist/0.6.0;
   };
