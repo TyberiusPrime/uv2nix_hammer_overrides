@@ -5543,6 +5543,9 @@
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
   };
+  openllm-client = {
+    "0.5.7" = import ./overrides/openllm-client/0.5.7;
+  };
   openmdao = {
     "3.34.2" = import ./overrides/openmdao/3.34.2;
   };
