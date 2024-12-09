@@ -686,6 +686,9 @@
   bert4keras = {
     "0.11.5" = import ./overrides/bert4keras/0.11.5;
   };
+  bespon = {
+    "0.7.0" = import ./overrides/bespon/0.7.0;
+  };
   betacode = {
     "1.0" = import ./overrides/betacode/1.0;
   };
