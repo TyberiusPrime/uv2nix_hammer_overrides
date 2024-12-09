@@ -3991,6 +3991,9 @@
   json-merge-patch = {
     "0.2" = import ./overrides/json-merge-patch/0.2;
   };
+  json-rpc = {
+    "1.15.0" = import ./overrides/json-rpc/1.15.0;
+  };
   json-schema-to-class = {
     "0.2.4" = import ./overrides/json-schema-to-class/0.2.4;
   };
