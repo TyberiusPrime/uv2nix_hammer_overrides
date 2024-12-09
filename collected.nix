@@ -8293,6 +8293,9 @@
   serialio = {
     "2.4.0" = import ./overrides/serialio/2.4.0;
   };
+  serializable = {
+    "0.4.1" = import ./overrides/serializable/0.4.1;
+  };
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
   };
