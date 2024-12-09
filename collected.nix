@@ -7848,6 +7848,9 @@
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
   };
+  reframed = {
+    "1.5.3" = import ./overrides/reframed/1.5.3;
+  };
   regex = {
     "2020.11.13" = import ./overrides/regex/2020.11.13;
     "2020.2.20" = import ./overrides/regex/2020.2.20;
