@@ -7859,6 +7859,9 @@
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
+  remote-pdb = {
+    "2.1.0" = import ./overrides/remote-pdb/2.1.0;
+  };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
