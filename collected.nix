@@ -4199,6 +4199,9 @@
   kiwi = {
     "10.1.8" = import ./overrides/kiwi/10.1.8;
   };
+  kmapper = {
+    "2.1.0" = import ./overrides/kmapper/2.1.0;
+  };
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
