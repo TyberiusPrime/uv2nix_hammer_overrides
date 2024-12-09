@@ -4640,6 +4640,9 @@
   marshmallow-polyfield = {
     "5.11" = import ./overrides/marshmallow-polyfield/5.11;
   };
+  marshmallow-union = {
+    "0.1.15.post1" = import ./overrides/marshmallow-union/0.1.15.post1;
+  };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
