@@ -4910,6 +4910,9 @@
   money = {
     "1.3.0" = import ./overrides/money/1.3.0;
   };
+  mongo-connector = {
+    "3.1.1" = import ./overrides/mongo-connector/3.1.1;
+  };
   mongodict = {
     "0.3.1" = import ./overrides/mongodict/0.3.1;
   };
