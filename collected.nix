@@ -62,6 +62,9 @@
   addressable = {
     "1.4.2" = import ./overrides/addressable/1.4.2;
   };
+  adguardhome = {
+    "0.7.0" = import ./overrides/adguardhome/0.7.0;
+  };
   adict = {
     "0.1.7" = import ./overrides/adict/0.1.7;
   };
