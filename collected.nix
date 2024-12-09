@@ -9925,6 +9925,9 @@
   word2vec = {
     "0.11.1" = import ./overrides/word2vec/0.11.1;
   };
+  wordcloud = {
+    "1.9.3" = import ./overrides/wordcloud/1.9.3;
+  };
   wordninja = {
     "2.0.0" = import ./overrides/wordninja/2.0.0;
   };
