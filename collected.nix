@@ -4317,6 +4317,9 @@
   libclang-py3 = {
     "3.9.0" = import ./overrides/libclang-py3/3.9.0;
   };
+  libcove = {
+    "0.32.1" = import ./overrides/libcove/0.32.1;
+  };
   liberty-parser = {
     "0.0.23" = import ./overrides/liberty-parser/0.0.23;
   };
@@ -10129,6 +10132,9 @@
   };
   zc-zk = {
     "2.1.0" = import ./overrides/zc-zk/2.1.0;
+  };
+  zc-zlibstorage = {
+    "1.2.0" = import ./overrides/zc-zlibstorage/1.2.0;
   };
   zcs = {
     "0.1.25" = import ./overrides/zcs/0.1.25;
