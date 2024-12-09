@@ -3958,6 +3958,9 @@
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
+  jpylyzer = {
+    "2.2.1" = import ./overrides/jpylyzer/2.2.1;
+  };
   jquery-layer = {
     "1.0.0" = import ./overrides/jquery-layer/1.0.0;
   };
