@@ -5301,6 +5301,9 @@
   nonstdlib = {
     "1.12.0" = import ./overrides/nonstdlib/1.12.0;
   };
+  nordigen = {
+    "1.4.0" = import ./overrides/nordigen/1.4.0;
+  };
   norecaptcha = {
     "1.0.0" = import ./overrides/norecaptcha/1.0.0;
   };
