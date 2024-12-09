@@ -5778,6 +5778,9 @@
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
+  peachapisec-api = {
+    "1.5.41" = import ./overrides/peachapisec-api/1.5.41;
+  };
   pecab = {
     "1.0.8" = import ./overrides/pecab/1.0.8;
   };
