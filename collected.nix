@@ -4455,6 +4455,9 @@
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
+  llama-index-embeddings-openai = {
+    "0.2.4" = import ./overrides/llama-index-embeddings-openai/0.2.4;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
