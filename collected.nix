@@ -9251,6 +9251,9 @@
   toyplot = {
     "1.0.3" = import ./overrides/toyplot/1.0.3;
   };
+  tpcp = {
+    "1.0.0" = import ./overrides/tpcp/1.0.0;
+  };
   tpdcc-config = {
     "0.0.9" = import ./overrides/tpdcc-config/0.0.9;
   };
