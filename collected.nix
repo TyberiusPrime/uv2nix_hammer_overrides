@@ -8559,6 +8559,9 @@
   socketpool = {
     "0.5.3" = import ./overrides/socketpool/0.5.3;
   };
+  sockets = {
+    "1.0.0" = import ./overrides/sockets/1.0.0;
+  };
   sockio = {
     "0.15.0" = import ./overrides/sockio/0.15.0;
   };
