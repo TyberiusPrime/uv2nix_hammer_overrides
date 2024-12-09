@@ -7883,6 +7883,9 @@
   repoze-xmliter = {
     "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
+  repoze-zodbconn = {
+    "0.15" = import ./overrides/repoze-zodbconn/0.15;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
