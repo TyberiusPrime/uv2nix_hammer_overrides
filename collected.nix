@@ -9210,6 +9210,9 @@
   torchrl = {
     "0.5.0" = import ./overrides/torchrl/0.5.0;
   };
+  torchsde = {
+    "0.2.6" = import ./overrides/torchsde/0.2.6;
+  };
   torchtext = {
     "0.18.0" = import ./overrides/torchtext/0.18.0;
   };
