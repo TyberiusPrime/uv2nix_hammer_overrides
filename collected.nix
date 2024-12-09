@@ -8357,6 +8357,9 @@
   showit = {
     "1.1.4" = import ./overrides/showit/1.1.4;
   };
+  showlog = {
+    "0.0.6" = import ./overrides/showlog/0.0.6;
+  };
   shutils = {
     "0.1.0" = import ./overrides/shutils/0.1.0;
   };
