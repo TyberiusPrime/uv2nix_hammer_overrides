@@ -4278,6 +4278,9 @@
   lazyasd = {
     "0.1.4" = import ./overrides/lazyasd/0.1.4;
   };
+  lazycls = {
+    "0.1.15" = import ./overrides/lazycls/0.1.15;
+  };
   lazyme = {
     "0.0.27" = import ./overrides/lazyme/0.0.27;
   };
