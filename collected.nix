@@ -1943,6 +1943,9 @@
   django-db-signals = {
     "0.1.1" = import ./overrides/django-db-signals/0.1.1;
   };
+  django-dbbackup = {
+    "4.2.1" = import ./overrides/django-dbbackup/4.2.1;
+  };
   django-debug-panel = {
     "0.8.3" = import ./overrides/django-debug-panel/0.8.3;
   };
