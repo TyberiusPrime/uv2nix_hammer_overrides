@@ -6078,6 +6078,9 @@
   pptree = {
     "3.1" = import ./overrides/pptree/3.1;
   };
+  ppxf = {
+    "9.4.1" = import ./overrides/ppxf/9.4.1;
+  };
   pq = {
     "1.9.1" = import ./overrides/pq/1.9.1;
   };
