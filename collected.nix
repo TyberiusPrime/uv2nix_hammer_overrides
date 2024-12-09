@@ -5650,6 +5650,9 @@
   padaos = {
     "0.1.10" = import ./overrides/padaos/0.1.10;
   };
+  paddle-client = {
+    "1.0.0" = import ./overrides/paddle-client/1.0.0;
+  };
   pager = {
     "3.3" = import ./overrides/pager/3.3;
   };
