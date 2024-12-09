@@ -5040,6 +5040,9 @@
   multiurl = {
     "0.3.1" = import ./overrides/multiurl/0.3.1;
   };
+  multivolumefile = {
+    "0.2.3" = import ./overrides/multivolumefile/0.2.3;
+  };
   mung = {
     "1.2.1" = import ./overrides/mung/1.2.1;
   };
