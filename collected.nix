@@ -9955,6 +9955,9 @@
   wtf-peewee = {
     "3.0.5" = import ./overrides/wtf-peewee/3.0.5;
   };
+  wurst = {
+    "0.4" = import ./overrides/wurst/0.4;
+  };
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
   };
