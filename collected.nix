@@ -1247,6 +1247,9 @@
   collective-compoundcriterion = {
     "0.7" = import ./overrides/collective-compoundcriterion/0.7;
   };
+  collective-configviews = {
+    "3.1.0" = import ./overrides/collective-configviews/3.1.0;
+  };
   collective-contact-core = {
     "1.42.0" = import ./overrides/collective-contact-core/1.42.0;
   };
