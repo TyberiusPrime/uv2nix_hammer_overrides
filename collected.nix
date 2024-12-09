@@ -10010,6 +10010,9 @@
   xformers = {
     "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
   };
+  xgcm = {
+    "0.8.1" = import ./overrides/xgcm/0.8.1;
+  };
   xinabox-core = {
     "0.0.11" = import ./overrides/xinabox-core/0.0.11;
   };
