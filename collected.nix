@@ -3619,6 +3619,9 @@
   iapws = {
     "1.5.4" = import ./overrides/iapws/1.5.4;
   };
+  ib-insync = {
+    "0.9.86" = import ./overrides/ib-insync/0.9.86;
+  };
   ibapi = {
     "9.81.1.post1" = import ./overrides/ibapi/9.81.1.post1;
   };
