@@ -3243,6 +3243,9 @@
   google-apputils = {
     "0.4.2" = import ./overrides/google-apputils/0.4.2;
   };
+  google-datacatalog-connectors-commons = {
+    "0.6.9" = import ./overrides/google-datacatalog-connectors-commons/0.6.9;
+  };
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
