@@ -2520,6 +2520,9 @@
   empy = {
     "3.3.4" = import ./overrides/empy/3.3.4;
   };
+  empymod = {
+    "2.3.1" = import ./overrides/empymod/2.3.1;
+  };
   empyrical = {
     "0.5.5" = import ./overrides/empyrical/0.5.5;
   };
