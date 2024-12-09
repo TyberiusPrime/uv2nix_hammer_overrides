@@ -10052,6 +10052,9 @@
   yahoofinancials = {
     "1.20" = import ./overrides/yahoofinancials/1.20;
   };
+  yahooquery = {
+    "2.3.7" = import ./overrides/yahooquery/2.3.7;
+  };
   yahooweather = {
     "0.10" = import ./overrides/yahooweather/0.10;
   };
