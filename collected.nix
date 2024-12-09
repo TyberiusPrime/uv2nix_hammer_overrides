@@ -4898,6 +4898,9 @@
   modulemd = {
     "1.3.3" = import ./overrides/modulemd/1.3.3;
   };
+  mojo-errors = {
+    "2.0.1" = import ./overrides/mojo-errors/2.0.1;
+  };
   moksha-common = {
     "1.2.5" = import ./overrides/moksha-common/1.2.5;
   };
