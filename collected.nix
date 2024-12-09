@@ -7901,6 +7901,9 @@
   requests-oauth = {
     "0.4.1" = import ./overrides/requests-oauth/0.4.1;
   };
+  requests-pkcs12 = {
+    "1.25" = import ./overrides/requests-pkcs12/1.25;
+  };
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
