@@ -2090,6 +2090,9 @@
   django-piston = {
     "0.2.3" = import ./overrides/django-piston/0.2.3;
   };
+  django-post-office = {
+    "3.9.0" = import ./overrides/django-post-office/3.9.0;
+  };
   django-pragmatic = {
     "5.0.0" = import ./overrides/django-pragmatic/5.0.0;
   };
