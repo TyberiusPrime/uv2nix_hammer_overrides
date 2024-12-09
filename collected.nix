@@ -1433,6 +1433,9 @@
   couleur = {
     "0.7.4" = import ./overrides/couleur/0.7.4;
   };
+  courlan = {
+    "1.3.1" = import ./overrides/courlan/1.3.1;
+  };
   cov-core = {
     "1.15.0" = import ./overrides/cov-core/1.15.0;
   };
