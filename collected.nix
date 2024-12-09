@@ -2902,6 +2902,9 @@
   flask-silk = {
     "0.2" = import ./overrides/flask-silk/0.2;
   };
+  flask-sock = {
+    "0.7.0" = import ./overrides/flask-sock/0.7.0;
+  };
   flask-sslify = {
     "0.1.5" = import ./overrides/flask-sslify/0.1.5;
   };
