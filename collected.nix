@@ -3134,6 +3134,9 @@
   geoid = {
     "1.1.5" = import ./overrides/geoid/1.1.5;
   };
+  geomeppy = {
+    "0.11.8" = import ./overrides/geomeppy/0.11.8;
+  };
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
@@ -6568,6 +6571,9 @@
   };
   pydoe2 = {
     "1.3.0" = import ./overrides/pydoe2/1.3.0;
+  };
+  pydot3k = {
+    "1.0.17" = import ./overrides/pydot3k/1.0.17;
   };
   pydotplus = {
     "2.0.2" = import ./overrides/pydotplus/2.0.2;
