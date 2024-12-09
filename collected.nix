@@ -3562,6 +3562,9 @@
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
+  httpserver = {
+    "1.1.0" = import ./overrides/httpserver/1.1.0;
+  };
   huawei-lte-api = {
     "1.9.3" = import ./overrides/huawei-lte-api/1.9.3;
   };
