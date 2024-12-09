@@ -4583,6 +4583,9 @@
   mailchimp = {
     "2.0.10" = import ./overrides/mailchimp/2.0.10;
   };
+  mailchimp3 = {
+    "3.0.21" = import ./overrides/mailchimp3/3.0.21;
+  };
   mailmanclient = {
     "3.3.5" = import ./overrides/mailmanclient/3.3.5;
   };
