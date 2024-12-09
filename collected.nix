@@ -3721,6 +3721,9 @@
   importlib2 = {
     "3.5.0.2" = import ./overrides/importlib2/3.5.0.2;
   };
+  importmagic = {
+    "0.1.7" = import ./overrides/importmagic/0.1.7;
+  };
   imread = {
     "0.7.6" = import ./overrides/imread/0.7.6;
   };
