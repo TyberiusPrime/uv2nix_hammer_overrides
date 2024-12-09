@@ -1149,6 +1149,9 @@
   cloud-inquisitor = {
     "2.2.0" = import ./overrides/cloud-inquisitor/2.2.0;
   };
+  cloud-volume = {
+    "10.4.0" = import ./overrides/cloud-volume/10.4.0;
+  };
   cloudflare = {
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
     "2.20.0" = import ./overrides/cloudflare/2.20.0;
