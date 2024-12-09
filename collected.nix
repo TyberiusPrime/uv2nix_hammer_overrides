@@ -3468,6 +3468,9 @@
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
+  hitchtest = {
+    "0.9.12" = import ./overrides/hitchtest/0.9.12;
+  };
   hkdf = {
     "0.0.3" = import ./overrides/hkdf/0.0.3;
   };
