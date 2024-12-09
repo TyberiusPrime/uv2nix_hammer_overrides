@@ -548,6 +548,9 @@
   azureml-train-automl-client = {
     "1.57.0" = import ./overrides/azureml-train-automl-client/1.57.0;
   };
+  b-twilio-sdk-layer = {
+    "1.0.1" = import ./overrides/b-twilio-sdk-layer/1.0.1;
+  };
   backends = {
     "1.6.6" = import ./overrides/backends/1.6.6;
   };
