@@ -6186,6 +6186,9 @@
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
   };
+  pronto = {
+    "2.5.7" = import ./overrides/pronto/2.5.7;
+  };
   properties = {
     "0.6.1" = import ./overrides/properties/0.6.1;
   };
