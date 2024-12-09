@@ -446,6 +446,9 @@
   asyncio-nats-streaming = {
     "0.4.0" = import ./overrides/asyncio-nats-streaming/0.4.0;
   };
+  asyncio-throttle = {
+    "1.0.2" = import ./overrides/asyncio-throttle/1.0.2;
+  };
   asyncmy = {
     "0.2.9" = import ./overrides/asyncmy/0.2.9;
   };
