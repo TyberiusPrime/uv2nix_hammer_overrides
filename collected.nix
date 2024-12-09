@@ -2412,6 +2412,9 @@
   dulwich = {
     "0.20.50" = import ./overrides/dulwich/0.20.50;
   };
+  dunamai = {
+    "1.22.0" = import ./overrides/dunamai/1.22.0;
+  };
   durabledict = {
     "0.9.4" = import ./overrides/durabledict/0.9.4;
   };
