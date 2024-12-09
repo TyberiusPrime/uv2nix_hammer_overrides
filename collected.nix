@@ -6183,6 +6183,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  prompt = {
+    "0.4.1" = import ./overrides/prompt/0.4.1;
+  };
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
   };
