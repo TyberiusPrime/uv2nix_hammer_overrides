@@ -3853,6 +3853,9 @@
   ipy = {
     "1.1" = import ./overrides/ipy/1.1;
   };
+  ipythonblocks = {
+    "1.9.1" = import ./overrides/ipythonblocks/1.9.1;
+  };
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
