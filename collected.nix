@@ -4931,6 +4931,9 @@
   mosestokenizer = {
     "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
   };
+  motioneye-client = {
+    "0.3.14" = import ./overrides/motioneye-client/0.3.14;
+  };
   motuclient = {
     "3.0.0" = import ./overrides/motuclient/3.0.0;
   };
