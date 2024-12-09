@@ -1388,6 +1388,9 @@
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
+  construct-typing = {
+    "0.6.2" = import ./overrides/construct-typing/0.6.2;
+  };
   consulate = {
     "0.6.0" = import ./overrides/consulate/0.6.0;
   };
