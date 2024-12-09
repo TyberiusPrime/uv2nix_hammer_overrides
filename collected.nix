@@ -7266,6 +7266,9 @@
   python-baseconv = {
     "1.2.2" = import ./overrides/python-baseconv/1.2.2;
   };
+  python-bitcoinlib = {
+    "0.12.2" = import ./overrides/python-bitcoinlib/0.12.2;
+  };
   python-bitcoinrpc = {
     "0.1" = import ./overrides/python-bitcoinrpc/0.1;
     "1.0" = import ./overrides/python-bitcoinrpc/1.0;
