@@ -5757,6 +5757,9 @@
   pdc-client = {
     "1.8.0" = import ./overrides/pdc-client/1.8.0;
   };
+  pdf2docx = {
+    "0.5.8" = import ./overrides/pdf2docx/0.5.8;
+  };
   pdfconduit-utils = {
     "1.1.2" = import ./overrides/pdfconduit-utils/1.1.2;
   };
