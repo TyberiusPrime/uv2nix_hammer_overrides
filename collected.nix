@@ -3640,6 +3640,9 @@
   icoextract = {
     "0.1.5" = import ./overrides/icoextract/0.1.5;
   };
+  icontract = {
+    "2.6.6" = import ./overrides/icontract/2.6.6;
+  };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
