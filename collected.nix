@@ -4287,6 +4287,9 @@
   lbmessaging = {
     "1.2.4" = import ./overrides/lbmessaging/1.2.4;
   };
+  lbt-honeybee = {
+    "0.8.383" = import ./overrides/lbt-honeybee/0.8.383;
+  };
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
