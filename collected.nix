@@ -1916,6 +1916,9 @@
   django-cleavejs = {
     "0.1.1" = import ./overrides/django-cleavejs/0.1.1;
   };
+  django-cockroachdb = {
+    "5.1" = import ./overrides/django-cockroachdb/5.1;
+  };
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
   };
