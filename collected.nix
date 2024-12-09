@@ -8683,6 +8683,9 @@
   sqlalchemy-utils = {
     "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
+  sqlite-fts4 = {
+    "1.0.3" = import ./overrides/sqlite-fts4/1.0.3;
+  };
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
