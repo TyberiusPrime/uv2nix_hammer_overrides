@@ -9546,6 +9546,9 @@
   unlzw = {
     "0.1.1" = import ./overrides/unlzw/0.1.1;
   };
+  unpaddedbase64 = {
+    "2.1.0" = import ./overrides/unpaddedbase64/2.1.0;
+  };
   unqlite = {
     "0.9.6" = import ./overrides/unqlite/0.9.6;
   };
