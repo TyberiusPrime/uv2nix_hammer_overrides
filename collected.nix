@@ -4078,6 +4078,9 @@
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
+  k3thread = {
+    "0.1.3" = import ./overrides/k3thread/0.1.3;
+  };
   kabaret = {
     "2.3.0" = import ./overrides/kabaret/2.3.0;
   };
