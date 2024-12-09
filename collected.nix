@@ -8221,6 +8221,9 @@
     "1.10.1" = import ./overrides/scipy/1.10.1;
     "1.6.1" = import ./overrides/scipy/1.6.1;
   };
+  scispacy = {
+    "0.5.4" = import ./overrides/scispacy/0.5.4;
+  };
   sciunit = {
     "0.2.8" = import ./overrides/sciunit/0.2.8;
   };
