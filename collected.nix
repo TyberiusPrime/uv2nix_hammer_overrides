@@ -10097,6 +10097,9 @@
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
+  youtube-transcript-api = {
+    "0.6.2" = import ./overrides/youtube-transcript-api/0.6.2;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
