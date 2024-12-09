@@ -274,6 +274,9 @@
   apache-airflow-providers-google = {
     "10.22.0" = import ./overrides/apache-airflow-providers-google/10.22.0;
   };
+  apache-airflow-providers-sqlite = {
+    "3.9.0" = import ./overrides/apache-airflow-providers-sqlite/3.9.0;
+  };
   apache-beam = {
     "2.48.0" = import ./overrides/apache-beam/2.48.0;
   };
