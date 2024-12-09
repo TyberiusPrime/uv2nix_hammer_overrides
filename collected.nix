@@ -9014,6 +9014,9 @@
   textbisect = {
     "0.1.0" = import ./overrides/textbisect/0.1.0;
   };
+  textile = {
+    "4.0.2" = import ./overrides/textile/4.0.2;
+  };
   textnets = {
     "0.9.4" = import ./overrides/textnets/0.9.4;
   };
