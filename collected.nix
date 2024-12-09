@@ -5462,6 +5462,9 @@
   oidcservice = {
     "1.1.0" = import ./overrides/oidcservice/1.1.0;
   };
+  okta = {
+    "2.9.8" = import ./overrides/okta/2.9.8;
+  };
   oktopus = {
     "0.1.2" = import ./overrides/oktopus/0.1.2;
   };
