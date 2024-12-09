@@ -5821,6 +5821,9 @@
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
+  perseus-core-library = {
+    "1.20.5" = import ./overrides/perseus-core-library/1.20.5;
+  };
   pescea = {
     "1.0.12" = import ./overrides/pescea/1.0.12;
   };
