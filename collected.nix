@@ -9756,6 +9756,9 @@
   vmtools = {
     "0.45" = import ./overrides/vmtools/0.45;
   };
+  vobject = {
+    "0.9.7" = import ./overrides/vobject/0.9.7;
+  };
   voidpp-tools = {
     "1.11.0" = import ./overrides/voidpp-tools/1.11.0;
   };
