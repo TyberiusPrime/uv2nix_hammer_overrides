@@ -8592,6 +8592,9 @@
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
+  spatialmath-python = {
+    "1.1.11" = import ./overrides/spatialmath-python/1.1.11;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
