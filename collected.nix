@@ -8750,6 +8750,9 @@
   stheno = {
     "1.4.1" = import ./overrides/stheno/1.4.1;
   };
+  stitchstream-python = {
+    "5.0.9" = import ./overrides/stitchstream-python/5.0.9;
+  };
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
