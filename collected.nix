@@ -9711,6 +9711,9 @@
   virtualchain = {
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
+  virtualenvwrapper = {
+    "6.1.0" = import ./overrides/virtualenvwrapper/6.1.0;
+  };
   visaplan-plone-tools = {
     "1.5.3" = import ./overrides/visaplan-plone-tools/1.5.3;
   };
