@@ -6414,6 +6414,9 @@
   pybedtools = {
     "0.10.0" = import ./overrides/pybedtools/0.10.0;
   };
+  pybind11 = {
+    "2.13.5" = import ./overrides/pybind11/2.13.5;
+  };
   pybitcoin = {
     "0.9.9" = import ./overrides/pybitcoin/0.9.9;
   };
