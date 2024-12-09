@@ -9320,6 +9320,9 @@
   trollsift = {
     "0.5.1" = import ./overrides/trollsift/0.5.1;
   };
+  tronpy = {
+    "0.5.0" = import ./overrides/tronpy/0.5.0;
+  };
   trove-classifiers = {
     "2024.7.2" = import ./overrides/trove-classifiers/2024.7.2;
   };
