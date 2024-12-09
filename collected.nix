@@ -9458,6 +9458,9 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  ubelt = {
+    "1.3.6" = import ./overrides/ubelt/1.3.6;
+  };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
   };
