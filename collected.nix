@@ -5696,6 +5696,9 @@
   pandoc-attributes = {
     "0.1.7" = import ./overrides/pandoc-attributes/0.1.7;
   };
+  panflute = {
+    "2.3.1" = import ./overrides/panflute/2.3.1;
+  };
   pangocffi = {
     "0.13.0" = import ./overrides/pangocffi/0.13.0;
   };
