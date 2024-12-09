@@ -1503,6 +1503,9 @@
   crlibm = {
     "1.0.3" = import ./overrides/crlibm/1.0.3;
   };
+  cron-validator = {
+    "1.0.8" = import ./overrides/cron-validator/1.0.8;
+  };
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
