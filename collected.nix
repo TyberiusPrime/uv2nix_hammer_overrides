@@ -7493,6 +7493,9 @@
   python-usbtmc = {
     "0.8" = import ./overrides/python-usbtmc/0.8;
   };
+  python-vlc = {
+    "3.0.20123" = import ./overrides/python-vlc/3.0.20123;
+  };
   python-vxi11 = {
     "0.9" = import ./overrides/python-vxi11/0.9;
   };
