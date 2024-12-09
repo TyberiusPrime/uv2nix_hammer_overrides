@@ -9419,6 +9419,9 @@
   txcelery-py3 = {
     "1.6.4" = import ./overrides/txcelery-py3/1.6.4;
   };
+  txdbus = {
+    "1.1.2" = import ./overrides/txdbus/1.1.2;
+  };
   txhttputil = {
     "1.3.0" = import ./overrides/txhttputil/1.3.0;
   };
