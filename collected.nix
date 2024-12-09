@@ -7027,6 +7027,9 @@
   pyqt5-qt5 = {
     "5.15.15" = import ./overrides/pyqt5-qt5/5.15.15;
   };
+  pyquery = {
+    "2.0.1" = import ./overrides/pyquery/2.0.1;
+  };
   pyquerystring = {
     "1.1" = import ./overrides/pyquerystring/1.1;
   };
