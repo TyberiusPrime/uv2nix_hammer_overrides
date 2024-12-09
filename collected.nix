@@ -1913,6 +1913,9 @@
   django-chamber = {
     "0.6.17" = import ./overrides/django-chamber/0.6.17;
   };
+  django-classy-tags = {
+    "4.1.0" = import ./overrides/django-classy-tags/4.1.0;
+  };
   django-cleavejs = {
     "0.1.1" = import ./overrides/django-cleavejs/0.1.1;
   };
