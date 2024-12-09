@@ -8695,6 +8695,9 @@
   sqre-apikit = {
     "0.1.3" = import ./overrides/sqre-apikit/0.1.3;
   };
+  squarify = {
+    "0.4.4" = import ./overrides/squarify/0.4.4;
+  };
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
