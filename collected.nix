@@ -4455,6 +4455,9 @@
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
+  llamaindex-py-client = {
+    "0.1.19" = import ./overrides/llamaindex-py-client/0.1.19;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
