@@ -6563,6 +6563,9 @@
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
+  pydflow = {
+    "1.8.90" = import ./overrides/pydflow/1.8.90;
+  };
   pydoe = {
     "0.3.8" = import ./overrides/pydoe/0.3.8;
   };
