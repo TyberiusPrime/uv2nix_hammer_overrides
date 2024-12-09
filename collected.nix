@@ -7173,6 +7173,9 @@
   pysqlite3 = {
     "0.5.3" = import ./overrides/pysqlite3/0.5.3;
   };
+  pysqlitecipher = {
+    "0.22" = import ./overrides/pysqlitecipher/0.22;
+  };
   pysrt = {
     "1.1.2" = import ./overrides/pysrt/1.1.2;
   };
