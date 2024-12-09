@@ -4232,6 +4232,9 @@
   landez = {
     "2.5.0" = import ./overrides/landez/2.5.0;
   };
+  langcodes = {
+    "3.4.0" = import ./overrides/langcodes/3.4.0;
+  };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
