@@ -4877,6 +4877,9 @@
   mock-services = {
     "0.3.1" = import ./overrides/mock-services/0.3.1;
   };
+  mock-ssh-server = {
+    "0.9.1" = import ./overrides/mock-ssh-server/0.9.1;
+  };
   mocker = {
     "1.1.1" = import ./overrides/mocker/1.1.1;
   };
