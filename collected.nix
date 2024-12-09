@@ -2556,6 +2556,9 @@
   erlastic = {
     "2.0.0" = import ./overrides/erlastic/2.0.0;
   };
+  es-client = {
+    "8.15.1" = import ./overrides/es-client/8.15.1;
+  };
   esdk-obs-python = {
     "3.24.6.1" = import ./overrides/esdk-obs-python/3.24.6.1;
   };
