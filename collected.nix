@@ -4024,6 +4024,9 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  jsonobject-couchdbkit = {
+    "1.1.0" = import ./overrides/jsonobject-couchdbkit/1.1.0;
+  };
   jsonpath = {
     "0.82.2" = import ./overrides/jsonpath/0.82.2;
   };
