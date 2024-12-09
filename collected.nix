@@ -2156,6 +2156,9 @@
   django-social-auth = {
     "0.7.28" = import ./overrides/django-social-auth/0.7.28;
   };
+  django-solo = {
+    "2.3.0" = import ./overrides/django-solo/2.3.0;
+  };
   django-sr = {
     "0.0.4" = import ./overrides/django-sr/0.0.4;
   };
