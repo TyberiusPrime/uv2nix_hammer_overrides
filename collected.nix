@@ -9663,6 +9663,9 @@
   vcversioner = {
     "2.16.0.0" = import ./overrides/vcversioner/2.16.0.0;
   };
+  vdf = {
+    "3.4" = import ./overrides/vdf/3.4;
+  };
   vdk-core = {
     "0.3.1424848411" = import ./overrides/vdk-core/0.3.1424848411;
   };
