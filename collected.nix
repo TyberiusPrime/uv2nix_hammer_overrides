@@ -4386,6 +4386,9 @@
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
+  lightkurve = {
+    "2.5.0" = import ./overrides/lightkurve/2.5.0;
+  };
   lightparam = {
     "0.4.6" = import ./overrides/lightparam/0.4.6;
   };
