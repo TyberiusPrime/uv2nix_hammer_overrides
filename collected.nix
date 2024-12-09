@@ -8526,6 +8526,9 @@
   smokesignal = {
     "0.7.0" = import ./overrides/smokesignal/0.7.0;
   };
+  smsframework = {
+    "0.0.9.post3" = import ./overrides/smsframework/0.0.9.post3;
+  };
   smt = {
     "2.6.3" = import ./overrides/smt/2.6.3;
   };
