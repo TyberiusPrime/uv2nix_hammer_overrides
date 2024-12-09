@@ -9278,6 +9278,9 @@
   trackpy = {
     "0.6.4" = import ./overrides/trackpy/0.6.4;
   };
+  tracthemeengine = {
+    "2.3.1" = import ./overrides/tracthemeengine/2.3.1;
+  };
   trading-calendars = {
     "2.1.1" = import ./overrides/trading-calendars/2.1.1;
   };
