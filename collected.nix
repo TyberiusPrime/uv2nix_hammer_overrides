@@ -2427,6 +2427,9 @@
   dyn = {
     "1.8.6" = import ./overrides/dyn/1.8.6;
   };
+  dynaconf = {
+    "3.2.6" = import ./overrides/dynaconf/3.2.6;
+  };
   dynamic-pytables-where-condition = {
     "1.1.1" = import ./overrides/dynamic-pytables-where-condition/1.1.1;
   };
