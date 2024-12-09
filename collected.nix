@@ -5471,6 +5471,9 @@
   olefile = {
     "0.47" = import ./overrides/olefile/0.47;
   };
+  ollama = {
+    "0.3.3" = import ./overrides/ollama/0.3.3;
+  };
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
