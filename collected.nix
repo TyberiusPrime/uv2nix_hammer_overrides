@@ -4311,6 +4311,9 @@
   liac-arff = {
     "2.5.0" = import ./overrides/liac-arff/2.5.0;
   };
+  libagent = {
+    "0.15.0" = import ./overrides/libagent/0.15.0;
+  };
   libais = {
     "0.17" = import ./overrides/libais/0.17;
   };
@@ -9313,6 +9316,9 @@
   };
   trello = {
     "0.9.7.3" = import ./overrides/trello/0.9.7.3;
+  };
+  trezor-agent = {
+    "0.12.0" = import ./overrides/trezor-agent/0.12.0;
   };
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
