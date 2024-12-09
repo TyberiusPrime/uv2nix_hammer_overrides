@@ -3074,6 +3074,9 @@
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
+  gassist-text = {
+    "0.0.11" = import ./overrides/gassist-text/0.0.11;
+  };
   gatspy = {
     "0.3" = import ./overrides/gatspy/0.3;
   };
