@@ -3604,6 +3604,9 @@
   hyperdash = {
     "0.15.3" = import ./overrides/hyperdash/0.15.3;
   };
+  hyperion-py = {
+    "0.7.5" = import ./overrides/hyperion-py/0.7.5;
+  };
   hyperloglog = {
     "0.0.14" = import ./overrides/hyperloglog/0.0.14;
   };
