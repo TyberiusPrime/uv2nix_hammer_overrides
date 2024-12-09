@@ -2935,6 +2935,9 @@
   flexsolve = {
     "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
+  flit = {
+    "3.9.0" = import ./overrides/flit/3.9.0;
+  };
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
