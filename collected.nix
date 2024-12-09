@@ -3143,6 +3143,9 @@
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
+  getjump = {
+    "2.5.0" = import ./overrides/getjump/2.5.0;
+  };
   getkey = {
     "0.6.5" = import ./overrides/getkey/0.6.5;
   };
