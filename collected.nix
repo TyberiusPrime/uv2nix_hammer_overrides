@@ -391,6 +391,9 @@
   ascii-graph = {
     "1.5.1" = import ./overrides/ascii-graph/1.5.1;
   };
+  ascii-magic = {
+    "2.3.0" = import ./overrides/ascii-magic/2.3.0;
+  };
   asciitree = {
     "0.3.3" = import ./overrides/asciitree/0.3.3;
   };
