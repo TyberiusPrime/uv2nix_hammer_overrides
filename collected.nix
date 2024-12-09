@@ -8329,6 +8329,9 @@
   sha3 = {
     "0.2.1" = import ./overrides/sha3/0.2.1;
   };
+  shandy-sqlfmt = {
+    "0.23.2" = import ./overrides/shandy-sqlfmt/0.23.2;
+  };
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
     "0.44.0" = import ./overrides/shap/0.44.0;
