@@ -2721,6 +2721,9 @@
   feather-format = {
     "0.4.1" = import ./overrides/feather-format/0.4.1;
   };
+  fedmsg = {
+    "1.1.7" = import ./overrides/fedmsg/1.1.7;
+  };
   feedfinder2 = {
     "0.0.4" = import ./overrides/feedfinder2/0.0.4;
   };
