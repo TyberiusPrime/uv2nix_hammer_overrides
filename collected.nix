@@ -7224,6 +7224,9 @@
   pytest-expect = {
     "1.1.0" = import ./overrides/pytest-expect/1.1.0;
   };
+  pytest-image-diff = {
+    "0.0.11" = import ./overrides/pytest-image-diff/0.0.11;
+  };
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
   };
