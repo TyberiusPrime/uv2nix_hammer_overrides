@@ -7895,6 +7895,9 @@
   requests-aws = {
     "0.1.8" = import ./overrides/requests-aws/0.1.8;
   };
+  requests-cache = {
+    "1.2.1" = import ./overrides/requests-cache/1.2.1;
+  };
   requests-ftp = {
     "0.3.1" = import ./overrides/requests-ftp/0.3.1;
   };
