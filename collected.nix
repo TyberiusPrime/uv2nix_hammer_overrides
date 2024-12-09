@@ -3459,6 +3459,9 @@
   hgapi = {
     "1.7.4" = import ./overrides/hgapi/1.7.4;
   };
+  hgvs = {
+    "1.5.4" = import ./overrides/hgvs/1.5.4;
+  };
   hic-straw = {
     "1.3.1" = import ./overrides/hic-straw/1.3.1;
   };
