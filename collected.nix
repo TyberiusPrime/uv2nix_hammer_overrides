@@ -3237,6 +3237,9 @@
   google-api-python-client = {
     "1.7.11" = import ./overrides/google-api-python-client/1.7.11;
   };
+  google-api-python-client-stubs = {
+    "1.27.0" = import ./overrides/google-api-python-client-stubs/1.27.0;
+  };
   google-apitools = {
     "0.5.31" = import ./overrides/google-apitools/0.5.31;
   };
