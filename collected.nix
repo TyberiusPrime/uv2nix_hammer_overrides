@@ -7209,6 +7209,9 @@
   pytelegraf = {
     "0.3.3" = import ./overrides/pytelegraf/0.3.3;
   };
+  pytensor = {
+    "2.25.4" = import ./overrides/pytensor/2.25.4;
+  };
   pytest-black = {
     "0.3.12" = import ./overrides/pytest-black/0.3.12;
   };
