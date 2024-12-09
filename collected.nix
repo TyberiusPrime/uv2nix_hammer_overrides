@@ -9871,6 +9871,9 @@
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
+  wgconfig = {
+    "1.0.4" = import ./overrides/wgconfig/1.0.4;
+  };
   wget = {
     "3.2" = import ./overrides/wget/3.2;
   };
