@@ -8450,6 +8450,9 @@
   singer-python = {
     "5.1.5" = import ./overrides/singer-python/5.1.5;
   };
+  singer-sdk = {
+    "0.40.0" = import ./overrides/singer-sdk/0.40.0;
+  };
   singleton-decorator = {
     "1.0.0" = import ./overrides/singleton-decorator/1.0.0;
   };
