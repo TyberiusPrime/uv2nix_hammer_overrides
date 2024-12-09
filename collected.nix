@@ -4093,6 +4093,9 @@
   kaggle = {
     "1.6.17" = import ./overrides/kaggle/1.6.17;
   };
+  kajiki = {
+    "0.9.2" = import ./overrides/kajiki/0.9.2;
+  };
   kamene = {
     "0.32" = import ./overrides/kamene/0.32;
   };
