@@ -2349,6 +2349,9 @@
   dpcontracts = {
     "0.6.0" = import ./overrides/dpcontracts/0.6.0;
   };
+  dpdata = {
+    "0.2.20" = import ./overrides/dpdata/0.2.20;
+  };
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
   };
