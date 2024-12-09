@@ -7021,6 +7021,9 @@
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
   };
+  pyqt-resource-helper = {
+    "0.0.14" = import ./overrides/pyqt-resource-helper/0.0.14;
+  };
   pyqt5 = {
     "5.15.11" = import ./overrides/pyqt5/5.15.11;
   };
