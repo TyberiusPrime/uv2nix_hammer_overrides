@@ -3522,6 +3522,9 @@
   html5lib = {
     "0.9999999" = import ./overrides/html5lib/0.9999999;
   };
+  html5tagger = {
+    "1.3.0" = import ./overrides/html5tagger/1.3.0;
+  };
   htmllaundry = {
     "2.2" = import ./overrides/htmllaundry/2.2;
   };
