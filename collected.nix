@@ -434,6 +434,9 @@
   asyncblink = {
     "0.4.0" = import ./overrides/asyncblink/0.4.0;
   };
+  asyncclick = {
+    "8.1.7.2" = import ./overrides/asyncclick/8.1.7.2;
+  };
   asynccmd = {
     "0.2.4" = import ./overrides/asynccmd/0.2.4;
   };
