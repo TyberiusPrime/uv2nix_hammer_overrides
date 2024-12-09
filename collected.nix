@@ -8680,6 +8680,9 @@
   sqlalchemy-mptt = {
     "0.2.5" = import ./overrides/sqlalchemy-mptt/0.2.5;
   };
+  sqlalchemy-stubs = {
+    "0.4" = import ./overrides/sqlalchemy-stubs/0.4;
+  };
   sqlalchemy-utils = {
     "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
