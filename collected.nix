@@ -6716,6 +6716,9 @@
   pygrok = {
     "1.0.0" = import ./overrides/pygrok/1.0.0;
   };
+  pygtfs = {
+    "0.1.9" = import ./overrides/pygtfs/0.1.9;
+  };
   pyhashxx = {
     "0.1.3" = import ./overrides/pyhashxx/0.1.3;
   };
