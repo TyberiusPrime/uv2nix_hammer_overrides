@@ -2081,6 +2081,9 @@
   django-paintstore = {
     "0.2" = import ./overrides/django-paintstore/0.2;
   };
+  django-pg-zero-downtime-migrations = {
+    "0.16" = import ./overrides/django-pg-zero-downtime-migrations/0.16;
+  };
   django-pglocks = {
     "1.0.4" = import ./overrides/django-pglocks/1.0.4;
   };
