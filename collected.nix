@@ -1773,6 +1773,9 @@
   demjson3 = {
     "3.0.6" = import ./overrides/demjson3/3.0.6;
   };
+  deprecation = {
+    "2.1.0" = import ./overrides/deprecation/2.1.0;
+  };
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
