@@ -2739,6 +2739,9 @@
   ffmpeg = {
     "1.4" = import ./overrides/ffmpeg/1.4;
   };
+  ffprobe-python = {
+    "1.0.3" = import ./overrides/ffprobe-python/1.0.3;
+  };
   fgame = {
     "0.6.5" = import ./overrides/fgame/0.6.5;
   };
