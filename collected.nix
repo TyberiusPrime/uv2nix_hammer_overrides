@@ -2769,6 +2769,9 @@
   filterpy = {
     "1.4.5" = import ./overrides/filterpy/1.4.5;
   };
+  findiff = {
+    "0.10.0" = import ./overrides/findiff/0.10.0;
+  };
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
   };
