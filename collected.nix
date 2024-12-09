@@ -4475,6 +4475,9 @@
   localstack-ext = {
     "3.7.2" = import ./overrides/localstack-ext/3.7.2;
   };
+  localtileserver = {
+    "0.10.3" = import ./overrides/localtileserver/0.10.3;
+  };
   locationsharinglib = {
     "5.0.3" = import ./overrides/locationsharinglib/5.0.3;
   };
