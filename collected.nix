@@ -7715,6 +7715,9 @@
   qrcode-terminal = {
     "0.8" = import ./overrides/qrcode-terminal/0.8;
   };
+  qtoml = {
+    "0.3.1" = import ./overrides/qtoml/0.3.1;
+  };
   qtsnbl = {
     "2018.6.8" = import ./overrides/qtsnbl/2018.6.8;
   };
