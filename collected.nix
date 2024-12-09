@@ -5821,6 +5821,9 @@
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
+  persisting-theory = {
+    "1.0" = import ./overrides/persisting-theory/1.0;
+  };
   pescea = {
     "1.0.12" = import ./overrides/pescea/1.0.12;
   };
