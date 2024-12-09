@@ -3787,6 +3787,9 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  instapy = {
+    "0.6.16" = import ./overrides/instapy/0.6.16;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
