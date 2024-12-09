@@ -852,6 +852,9 @@
   bsuite = {
     "0.3.5" = import ./overrides/bsuite/0.3.5;
   };
+  bt = {
+    "1.1.0" = import ./overrides/bt/1.1.0;
+  };
   btest = {
     "1.1" = import ./overrides/btest/1.1;
   };
