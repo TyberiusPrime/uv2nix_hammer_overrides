@@ -3907,6 +3907,9 @@
   jcloud = {
     "0.3" = import ./overrides/jcloud/0.3;
   };
+  jello = {
+    "1.6.0" = import ./overrides/jello/1.6.0;
+  };
   jenkins = {
     "1.0.2" = import ./overrides/jenkins/1.0.2;
   };
