@@ -5836,6 +5836,9 @@
   petname = {
     "2.6" = import ./overrides/petname/2.6;
   };
+  pex = {
+    "2.19.0" = import ./overrides/pex/2.19.0;
+  };
   pexif = {
     "0.15" = import ./overrides/pexif/0.15;
   };
