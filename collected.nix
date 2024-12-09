@@ -123,6 +123,9 @@
   aiologger = {
     "0.7.0" = import ./overrides/aiologger/0.7.0;
   };
+  aiometer = {
+    "0.5.0" = import ./overrides/aiometer/0.5.0;
+  };
   aiomqtt = {
     "0.1.3" = import ./overrides/aiomqtt/0.1.3;
   };
