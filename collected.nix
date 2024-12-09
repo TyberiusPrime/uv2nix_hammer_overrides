@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  discord = {
+    "2.3.2" = import ./overrides/discord/2.3.2;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
