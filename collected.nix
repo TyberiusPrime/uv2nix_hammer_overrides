@@ -3727,6 +3727,9 @@
   imutils = {
     "0.5.4" = import ./overrides/imutils/0.5.4;
   };
+  in-place = {
+    "1.0.0" = import ./overrides/in-place/1.0.0;
+  };
   infi-execute = {
     "0.1.8" = import ./overrides/infi-execute/0.1.8;
   };
