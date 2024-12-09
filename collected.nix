@@ -6270,6 +6270,9 @@
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
   };
+  pure-pcapy3 = {
+    "1.0.1" = import ./overrides/pure-pcapy3/1.0.1;
+  };
   pure-sasl = {
     "0.6.2" = import ./overrides/pure-sasl/0.6.2;
   };
