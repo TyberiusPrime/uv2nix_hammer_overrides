@@ -8108,6 +8108,9 @@
   safeio = {
     "1.2" = import ./overrides/safeio/1.2;
   };
+  safety-schemas = {
+    "0.0.5" = import ./overrides/safety-schemas/0.0.5;
+  };
   salsa20 = {
     "0.3.0" = import ./overrides/salsa20/0.3.0;
   };
