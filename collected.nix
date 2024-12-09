@@ -2670,6 +2670,9 @@
   fancyimpute = {
     "0.7.0" = import ./overrides/fancyimpute/0.7.0;
   };
+  farasapy = {
+    "0.0.14" = import ./overrides/farasapy/0.0.14;
+  };
   fasta-reader = {
     "3.0.3" = import ./overrides/fasta-reader/3.0.3;
   };
