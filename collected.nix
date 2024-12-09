@@ -4437,6 +4437,9 @@
   lino-xl = {
     "24.9.0" = import ./overrides/lino-xl/24.9.0;
   };
+  linode = {
+    "0.4" = import ./overrides/linode/0.4;
+  };
   linux-metrics = {
     "0.1.4" = import ./overrides/linux-metrics/0.1.4;
   };
