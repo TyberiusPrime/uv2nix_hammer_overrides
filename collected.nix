@@ -2487,6 +2487,9 @@
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
   };
+  efficientnet-pytorch = {
+    "0.7.1" = import ./overrides/efficientnet-pytorch/0.7.1;
+  };
   eigenpy = {
     "3.5.1" = import ./overrides/eigenpy/3.5.1;
   };
@@ -8265,6 +8268,9 @@
   };
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
+  };
+  segmentation-models-pytorch = {
+    "0.3.4" = import ./overrides/segmentation-models-pytorch/0.3.4;
   };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
