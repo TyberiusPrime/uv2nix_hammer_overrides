@@ -95,6 +95,9 @@
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
+  aioesphomeapi = {
+    "25.4.0" = import ./overrides/aioesphomeapi/25.4.0;
+  };
   aiohttp = {
     "3.8.3" = import ./overrides/aiohttp/3.8.3;
     "3.8.6" = import ./overrides/aiohttp/3.8.6;
