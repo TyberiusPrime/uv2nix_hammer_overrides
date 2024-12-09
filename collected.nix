@@ -4895,6 +4895,9 @@
   modgrammar = {
     "0.10" = import ./overrides/modgrammar/0.10;
   };
+  modin = {
+    "0.31.0" = import ./overrides/modin/0.31.0;
+  };
   modulemd = {
     "1.3.3" = import ./overrides/modulemd/1.3.3;
   };
