@@ -8909,6 +8909,9 @@
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
+  tcxreader = {
+    "0.4.10" = import ./overrides/tcxreader/0.4.10;
+  };
   tdqm = {
     "0.0.1" = import ./overrides/tdqm/0.0.1;
   };
