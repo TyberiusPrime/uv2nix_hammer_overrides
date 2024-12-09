@@ -1874,6 +1874,9 @@
     "0.54.0" = import ./overrides/django-allauth/0.54.0;
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
+  django-angular = {
+    "2.3.1" = import ./overrides/django-angular/2.3.1;
+  };
   django-announcements = {
     "1.2.0" = import ./overrides/django-announcements/1.2.0;
   };
