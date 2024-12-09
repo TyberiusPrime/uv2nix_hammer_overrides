@@ -5802,6 +5802,9 @@
   pemja = {
     "0.4.1" = import ./overrides/pemja/0.4.1;
   };
+  pencompy = {
+    "0.0.4" = import ./overrides/pencompy/0.0.4;
+  };
   pendulum = {
     "1.5.1" = import ./overrides/pendulum/1.5.1;
     "2.1.2" = import ./overrides/pendulum/2.1.2;
