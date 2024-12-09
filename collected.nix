@@ -1149,6 +1149,9 @@
   cloud-inquisitor = {
     "2.2.0" = import ./overrides/cloud-inquisitor/2.2.0;
   };
+  cloud-sql-python-connector = {
+    "1.12.0" = import ./overrides/cloud-sql-python-connector/1.12.0;
+  };
   cloudflare = {
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
     "2.20.0" = import ./overrides/cloudflare/2.20.0;
