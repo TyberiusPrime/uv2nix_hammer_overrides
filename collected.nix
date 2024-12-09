@@ -5205,6 +5205,9 @@
   neuronpy = {
     "0.1.6" = import ./overrides/neuronpy/0.1.6;
   };
+  nevermined-metadata-driver-interface = {
+    "0.4.1" = import ./overrides/nevermined-metadata-driver-interface/0.4.1;
+  };
   nextcord = {
     "2.6.0" = import ./overrides/nextcord/2.6.0;
   };
