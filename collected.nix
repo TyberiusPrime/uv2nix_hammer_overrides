@@ -4835,6 +4835,9 @@
   mkdocs-jupyter = {
     "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
   };
+  mkdocs-literate-nav = {
+    "0.6.1" = import ./overrides/mkdocs-literate-nav/0.6.1;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
