@@ -7833,6 +7833,9 @@
   redisbloom = {
     "0.4.0" = import ./overrides/redisbloom/0.4.0;
   };
+  redislite = {
+    "6.2.912183" = import ./overrides/redislite/6.2.912183;
+  };
   redlib = {
     "1.5.7" = import ./overrides/redlib/1.5.7;
   };
