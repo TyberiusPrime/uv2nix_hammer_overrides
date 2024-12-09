@@ -743,6 +743,9 @@
   bitsandbytes = {
     "0.43.3" = import ./overrides/bitsandbytes/0.43.3;
   };
+  bitstruct = {
+    "8.19.0" = import ./overrides/bitstruct/8.19.0;
+  };
   bittorrent-bencode = {
     "5.0.8.1" = import ./overrides/bittorrent-bencode/5.0.8.1;
   };
