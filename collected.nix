@@ -7901,6 +7901,9 @@
   requests-oauth = {
     "0.4.1" = import ./overrides/requests-oauth/0.4.1;
   };
+  requests-toolbelt = {
+    "1.0.0" = import ./overrides/requests-toolbelt/1.0.0;
+  };
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
