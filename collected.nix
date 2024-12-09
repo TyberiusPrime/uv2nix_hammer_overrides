@@ -5138,6 +5138,9 @@
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
   };
+  ncclient = {
+    "0.6.15" = import ./overrides/ncclient/0.6.15;
+  };
   ncephes = {
     "1.1.0" = import ./overrides/ncephes/1.1.0;
   };
