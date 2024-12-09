@@ -2691,6 +2691,9 @@
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
+  fastlid = {
+    "0.1.12" = import ./overrides/fastlid/0.1.12;
+  };
   fastpbkdf2 = {
     "0.2" = import ./overrides/fastpbkdf2/0.2;
   };
