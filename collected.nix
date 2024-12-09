@@ -3372,6 +3372,9 @@
   h5pyd = {
     "0.18.0" = import ./overrides/h5pyd/0.18.0;
   };
+  h5sparse = {
+    "0.1.0" = import ./overrides/h5sparse/0.1.0;
+  };
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
