@@ -767,6 +767,9 @@
   blaze = {
     "0.10.1" = import ./overrides/blaze/0.10.1;
   };
+  bleach = {
+    "6.1.0" = import ./overrides/bleach/6.1.0;
+  };
   bleach-whitelist = {
     "0.0.11" = import ./overrides/bleach-whitelist/0.0.11;
   };
