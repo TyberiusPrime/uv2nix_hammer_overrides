@@ -68,6 +68,9 @@
   advancedhtmlparser = {
     "9.0.2" = import ./overrides/advancedhtmlparser/9.0.2;
   };
+  aenum = {
+    "3.1.15" = import ./overrides/aenum/3.1.15;
+  };
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
