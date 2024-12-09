@@ -5426,6 +5426,9 @@
   object-clerk = {
     "0.1.1" = import ./overrides/object-clerk/0.1.1;
   };
+  oca-port = {
+    "0.15" = import ./overrides/oca-port/0.15;
+  };
   octobot-commons = {
     "1.9.58" = import ./overrides/octobot-commons/1.9.58;
   };
