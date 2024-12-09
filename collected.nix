@@ -7640,6 +7640,9 @@
   pywebsocket3 = {
     "4.0.2" = import ./overrides/pywebsocket3/4.0.2;
   };
+  pywemo = {
+    "1.4.0" = import ./overrides/pywemo/1.4.0;
+  };
   pywfa = {
     "0.5.1" = import ./overrides/pywfa/0.5.1;
   };
