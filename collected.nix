@@ -5417,6 +5417,9 @@
   oauth = {
     "1.0.1" = import ./overrides/oauth/1.0.1;
   };
+  oauth2 = {
+    "1.9.0.post1" = import ./overrides/oauth2/1.9.0.post1;
+  };
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
