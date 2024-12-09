@@ -3007,6 +3007,9 @@
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
   };
+  ftw-autofeature = {
+    "1.1.0" = import ./overrides/ftw-autofeature/1.1.0;
+  };
   ftw-colorbox = {
     "1.6.4" = import ./overrides/ftw-colorbox/1.6.4;
   };
