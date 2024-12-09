@@ -4416,6 +4416,9 @@
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
+  linecache2 = {
+    "1.0.0" = import ./overrides/linecache2/1.0.0;
+  };
   lined = {
     "0.1.24" = import ./overrides/lined/0.1.24;
   };
