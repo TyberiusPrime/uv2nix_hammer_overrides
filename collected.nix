@@ -1928,6 +1928,9 @@
   django-cratis = {
     "0.9.1" = import ./overrides/django-cratis/0.9.1;
   };
+  django-cron = {
+    "0.6.0" = import ./overrides/django-cron/0.6.0;
+  };
   django-crontab = {
     "0.7.1" = import ./overrides/django-crontab/0.7.1;
   };
