@@ -7021,6 +7021,9 @@
   pyqrcode = {
     "1.2.1" = import ./overrides/pyqrcode/1.2.1;
   };
+  pyqt-svg-icon-pushbutton = {
+    "0.0.15" = import ./overrides/pyqt-svg-icon-pushbutton/0.0.15;
+  };
   pyqt5 = {
     "5.15.11" = import ./overrides/pyqt5/5.15.11;
   };
