@@ -8840,6 +8840,9 @@
   sure = {
     "3.0a2" = import ./overrides/sure/3.0a2;
   };
+  surepy = {
+    "0.9.0" = import ./overrides/surepy/0.9.0;
+  };
   surt = {
     "0.3.1" = import ./overrides/surt/0.3.1;
   };
