@@ -8813,6 +8813,9 @@
   stringconvert = {
     "0.3.2" = import ./overrides/stringconvert/0.3.2;
   };
+  strip-ansi = {
+    "0.1.1" = import ./overrides/strip-ansi/0.1.1;
+  };
   stripogram = {
     "1.5" = import ./overrides/stripogram/1.5;
   };
