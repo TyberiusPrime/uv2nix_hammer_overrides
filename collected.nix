@@ -6063,6 +6063,9 @@
   potaahto = {
     "0.1.2" = import ./overrides/potaahto/0.1.2;
   };
+  potentials = {
+    "0.3.8" = import ./overrides/potentials/0.3.8;
+  };
   powerline-status = {
     "2.7" = import ./overrides/powerline-status/2.7;
   };
