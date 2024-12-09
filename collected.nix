@@ -1852,6 +1852,9 @@
   diversipy = {
     "0.9" = import ./overrides/diversipy/0.9;
   };
+  dj-database-url = {
+    "2.2.0" = import ./overrides/dj-database-url/2.2.0;
+  };
   dj-rest-auth = {
     "6.0.0" = import ./overrides/dj-rest-auth/6.0.0;
   };
