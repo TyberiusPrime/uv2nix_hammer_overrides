@@ -3973,6 +3973,9 @@
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
   };
+  jsii = {
+    "1.103.1" = import ./overrides/jsii/1.103.1;
+  };
   jsl = {
     "0.2.4" = import ./overrides/jsl/0.2.4;
   };
