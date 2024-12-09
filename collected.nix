@@ -10160,6 +10160,9 @@
   zlmdb = {
     "23.1.1" = import ./overrides/zlmdb/23.1.1;
   };
+  zmail = {
+    "0.2.8" = import ./overrides/zmail/0.2.8;
+  };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
   };
