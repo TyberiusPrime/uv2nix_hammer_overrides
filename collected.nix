@@ -3811,6 +3811,9 @@
   invenio-rdm-records = {
     "12.1.0" = import ./overrides/invenio-rdm-records/12.1.0;
   };
+  invisibleroads-macros = {
+    "0.9.5.1" = import ./overrides/invisibleroads-macros/0.9.5.1;
+  };
   iocapture = {
     "0.1.2" = import ./overrides/iocapture/0.1.2;
   };
