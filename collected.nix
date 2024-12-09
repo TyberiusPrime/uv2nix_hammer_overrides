@@ -1289,6 +1289,9 @@
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
   };
+  collective-themefragments = {
+    "2.12" = import ./overrides/collective-themefragments/2.12;
+  };
   color-operations = {
     "0.1.6" = import ./overrides/color-operations/0.1.6;
   };
