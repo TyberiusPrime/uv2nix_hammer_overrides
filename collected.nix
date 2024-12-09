@@ -7493,6 +7493,9 @@
   python-usbtmc = {
     "0.8" = import ./overrides/python-usbtmc/0.8;
   };
+  python-vagrant = {
+    "1.0.0" = import ./overrides/python-vagrant/1.0.0;
+  };
   python-vxi11 = {
     "0.9" = import ./overrides/python-vxi11/0.9;
   };
