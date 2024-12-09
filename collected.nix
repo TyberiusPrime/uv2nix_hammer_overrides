@@ -1560,6 +1560,9 @@
   cssmin = {
     "0.2.0" = import ./overrides/cssmin/0.2.0;
   };
+  cstruct = {
+    "5.3" = import ./overrides/cstruct/5.3;
+  };
   csv342 = {
     "1.0.1" = import ./overrides/csv342/1.0.1;
   };
