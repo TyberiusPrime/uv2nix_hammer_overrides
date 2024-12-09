@@ -8090,6 +8090,9 @@
   s-gd2 = {
     "1.8.1" = import ./overrides/s-gd2/1.8.1;
   };
+  s3-credentials = {
+    "0.16.1" = import ./overrides/s3-credentials/0.16.1;
+  };
   s3-pit-restore = {
     "0.9" = import ./overrides/s3-pit-restore/0.9;
   };
