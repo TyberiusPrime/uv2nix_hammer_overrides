@@ -2081,6 +2081,9 @@
   django-paintstore = {
     "0.2" = import ./overrides/django-paintstore/0.2;
   };
+  django-pandas = {
+    "0.6.7" = import ./overrides/django-pandas/0.6.7;
+  };
   django-pglocks = {
     "1.0.4" = import ./overrides/django-pglocks/1.0.4;
   };
