@@ -2670,6 +2670,9 @@
   fancyimpute = {
     "0.7.0" = import ./overrides/fancyimpute/0.7.0;
   };
+  faraday-agent-parameters-types = {
+    "1.7.0" = import ./overrides/faraday-agent-parameters-types/1.7.0;
+  };
   fasta-reader = {
     "3.0.3" = import ./overrides/fasta-reader/3.0.3;
   };
