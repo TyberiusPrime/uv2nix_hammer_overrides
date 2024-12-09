@@ -4338,6 +4338,9 @@
   libmr = {
     "0.1.9" = import ./overrides/libmr/0.1.9;
   };
+  libnacl = {
+    "2.1.0" = import ./overrides/libnacl/2.1.0;
+  };
   libpurecool = {
     "0.6.4" = import ./overrides/libpurecool/0.6.4;
   };
