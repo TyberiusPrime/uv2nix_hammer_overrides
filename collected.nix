@@ -388,6 +388,9 @@
   arxiv2bib = {
     "1.0.8" = import ./overrides/arxiv2bib/1.0.8;
   };
+  asana = {
+    "5.0.10" = import ./overrides/asana/5.0.10;
+  };
   ascii-graph = {
     "1.5.1" = import ./overrides/ascii-graph/1.5.1;
   };
