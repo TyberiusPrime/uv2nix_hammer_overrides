@@ -7125,6 +7125,9 @@
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
   };
+  pysiaf = {
+    "0.22.0" = import ./overrides/pysiaf/0.22.0;
+  };
   pyside2 = {
     "5.15.2.1" = import ./overrides/pyside2/5.15.2.1;
   };
