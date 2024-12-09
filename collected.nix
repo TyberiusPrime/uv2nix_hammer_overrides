@@ -5304,6 +5304,9 @@
   norecaptcha = {
     "1.0.0" = import ./overrides/norecaptcha/1.0.0;
   };
+  normality = {
+    "2.5.0" = import ./overrides/normality/2.5.0;
+  };
   nose-cov = {
     "1.6" = import ./overrides/nose-cov/1.6;
   };
