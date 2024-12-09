@@ -1515,6 +1515,9 @@
   crossbar = {
     "22.6.1" = import ./overrides/crossbar/22.6.1;
   };
+  crossref-commons = {
+    "0.0.7" = import ./overrides/crossref-commons/0.0.7;
+  };
   cryio = {
     "2018.5.30" = import ./overrides/cryio/2018.5.30;
   };
