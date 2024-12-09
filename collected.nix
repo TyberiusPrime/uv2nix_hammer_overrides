@@ -2337,6 +2337,9 @@
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  dolmen-file = {
+    "0.6" = import ./overrides/dolmen-file/0.6;
+  };
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
