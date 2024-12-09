@@ -7409,6 +7409,9 @@
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
+  python-monkey-business = {
+    "1.1.0" = import ./overrides/python-monkey-business/1.1.0;
+  };
   python-multipart = {
     "0.0.5" = import ./overrides/python-multipart/0.0.5;
   };
