@@ -3607,6 +3607,9 @@
   hyperloglog = {
     "0.0.14" = import ./overrides/hyperloglog/0.0.14;
   };
+  hyperspy = {
+    "2.1.1" = import ./overrides/hyperspy/2.1.1;
+  };
   hyrule = {
     "0.6.0" = import ./overrides/hyrule/0.6.0;
   };
