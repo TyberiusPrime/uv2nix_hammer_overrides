@@ -3462,6 +3462,9 @@
   hic-straw = {
     "1.3.1" = import ./overrides/hic-straw/1.3.1;
   };
+  hickle = {
+    "5.0.3" = import ./overrides/hickle/5.0.3;
+  };
   hierplace = {
     "1.1.0" = import ./overrides/hierplace/1.1.0;
   };
