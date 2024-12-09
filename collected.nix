@@ -9868,6 +9868,9 @@
   webthing-ws = {
     "0.2.0" = import ./overrides/webthing-ws/0.2.0;
   };
+  wechatpy = {
+    "1.8.18" = import ./overrides/wechatpy/1.8.18;
+  };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
