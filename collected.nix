@@ -9735,6 +9735,9 @@
   vivisect-vstruct-wb = {
     "1.0.3" = import ./overrides/vivisect-vstruct-wb/1.0.3;
   };
+  vk-api = {
+    "11.9.9" = import ./overrides/vk-api/11.9.9;
+  };
   vkontakte = {
     "1.3.5" = import ./overrides/vkontakte/1.3.5;
   };
