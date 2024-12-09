@@ -4577,6 +4577,9 @@
   madmom = {
     "0.16.1" = import ./overrides/madmom/0.16.1;
   };
+  maestral = {
+    "1.9.4" = import ./overrides/maestral/1.9.4;
+  };
   mailchecker = {
     "6.0.8" = import ./overrides/mailchecker/6.0.8;
   };
