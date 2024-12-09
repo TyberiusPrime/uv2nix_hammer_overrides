@@ -9537,6 +9537,9 @@
   unittest-data-provider = {
     "1.0.1" = import ./overrides/unittest-data-provider/1.0.1;
   };
+  unittest-xml-reporting = {
+    "3.2.0" = import ./overrides/unittest-xml-reporting/3.2.0;
+  };
   unittest2py3k = {
     "0.5.1" = import ./overrides/unittest2py3k/0.5.1;
   };
