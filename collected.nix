@@ -4601,6 +4601,9 @@
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
+  manuel = {
+    "1.12.4" = import ./overrides/manuel/1.12.4;
+  };
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
