@@ -4443,6 +4443,9 @@
   linuxfd = {
     "1.5" = import ./overrides/linuxfd/1.5;
   };
+  liquidctl = {
+    "1.13.0" = import ./overrides/liquidctl/1.13.0;
+  };
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
