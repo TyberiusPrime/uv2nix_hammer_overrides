@@ -3378,6 +3378,9 @@
   haigha = {
     "0.9.0" = import ./overrides/haigha/0.9.0;
   };
+  haikunator = {
+    "2.1.0" = import ./overrides/haikunator/2.1.0;
+  };
   halo = {
     "0.0.31" = import ./overrides/halo/0.0.31;
   };
