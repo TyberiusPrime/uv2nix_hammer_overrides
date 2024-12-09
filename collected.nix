@@ -1364,6 +1364,9 @@
   confini = {
     "0.6.5" = import ./overrides/confini/0.6.5;
   };
+  confmodel = {
+    "0.2.0" = import ./overrides/confmodel/0.2.0;
+  };
   confutil = {
     "0.1.4" = import ./overrides/confutil/0.1.4;
   };
@@ -7520,6 +7523,9 @@
   python3-modargs = {
     "2.0.2" = import ./overrides/python3-modargs/2.0.2;
   };
+  python3-protobuf = {
+    "2.5.0" = import ./overrides/python3-protobuf/2.5.0;
+  };
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
   };
@@ -7948,6 +7954,9 @@
   };
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
+  };
+  riak = {
+    "2.7.0" = import ./overrides/riak/2.7.0;
   };
   rig = {
     "2.4.1" = import ./overrides/rig/2.4.1;
@@ -9416,17 +9425,29 @@
   twofish = {
     "0.3.0" = import ./overrides/twofish/0.3.0;
   };
+  txamqp = {
+    "0.8.2" = import ./overrides/txamqp/0.8.2;
+  };
   txcelery-py3 = {
     "1.6.4" = import ./overrides/txcelery-py3/1.6.4;
   };
   txhttputil = {
     "1.3.0" = import ./overrides/txhttputil/1.3.0;
   };
+  txjson-rpc = {
+    "0.5" = import ./overrides/txjson-rpc/0.5;
+  };
   txredis = {
     "2.4" = import ./overrides/txredis/2.4;
   };
+  txssmi = {
+    "0.3.0" = import ./overrides/txssmi/0.3.0;
+  };
   txsuds-py3 = {
     "0.5.10" = import ./overrides/txsuds-py3/0.5.10;
+  };
+  txtwitter = {
+    "0.1.6" = import ./overrides/txtwitter/0.1.6;
   };
   txwebsocket = {
     "1.1.1" = import ./overrides/txwebsocket/1.1.1;
@@ -9786,6 +9807,9 @@
   };
   vsure = {
     "2.6.7" = import ./overrides/vsure/2.6.7;
+  };
+  vumi = {
+    "0.6.19" = import ./overrides/vumi/0.6.19;
   };
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
