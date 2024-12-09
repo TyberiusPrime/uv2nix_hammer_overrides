@@ -2147,6 +2147,9 @@
   django-sites-groups = {
     "1.11.1" = import ./overrides/django-sites-groups/1.11.1;
   };
+  django-six = {
+    "1.0.5" = import ./overrides/django-six/1.0.5;
+  };
   django-snippetscream = {
     "0.0.7" = import ./overrides/django-snippetscream/0.0.7;
   };
