@@ -7188,6 +7188,9 @@
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
+  pyswitchbee = {
+    "1.8.3" = import ./overrides/pyswitchbee/1.8.3;
+  };
   pysyncobj = {
     "0.3.12" = import ./overrides/pysyncobj/0.3.12;
   };
