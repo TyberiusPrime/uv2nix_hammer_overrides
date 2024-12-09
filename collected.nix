@@ -8993,6 +8993,9 @@
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
+  tessif = {
+    "0.0.28" = import ./overrides/tessif/0.0.28;
+  };
   test-tube = {
     "0.7.5" = import ./overrides/test-tube/0.7.5;
   };
