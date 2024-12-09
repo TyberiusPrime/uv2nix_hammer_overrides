@@ -5620,6 +5620,9 @@
   oss2 = {
     "2.19.0" = import ./overrides/oss2/2.19.0;
   };
+  ossindex-lib = {
+    "1.1.1" = import ./overrides/ossindex-lib/1.1.1;
+  };
   otree = {
     "5.11.0" = import ./overrides/otree/5.11.0;
   };
