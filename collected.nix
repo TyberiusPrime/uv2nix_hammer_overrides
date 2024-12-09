@@ -2024,6 +2024,9 @@
   django-libs = {
     "2.0.3" = import ./overrides/django-libs/2.0.3;
   };
+  django-libsass = {
+    "0.9" = import ./overrides/django-libsass/0.9;
+  };
   django-likes = {
     "2.0.1" = import ./overrides/django-likes/2.0.1;
   };
