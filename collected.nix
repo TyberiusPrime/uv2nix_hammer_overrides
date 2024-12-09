@@ -4199,6 +4199,9 @@
   kiwi = {
     "10.1.8" = import ./overrides/kiwi/10.1.8;
   };
+  klepto = {
+    "0.2.5" = import ./overrides/klepto/0.2.5;
+  };
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
