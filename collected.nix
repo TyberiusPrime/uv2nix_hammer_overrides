@@ -6949,6 +6949,9 @@
   pyorbital = {
     "1.8.3" = import ./overrides/pyorbital/1.8.3;
   };
+  pypandoc = {
+    "1.13" = import ./overrides/pypandoc/1.13;
+  };
   pyparser = {
     "1.0" = import ./overrides/pyparser/1.0;
   };
