@@ -5575,6 +5575,9 @@
   opster = {
     "5.0" = import ./overrides/opster/5.0;
   };
+  optimum = {
+    "1.22.0" = import ./overrides/optimum/1.22.0;
+  };
   option-merge = {
     "1.6" = import ./overrides/option-merge/1.6;
   };
