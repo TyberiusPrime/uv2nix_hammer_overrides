@@ -6474,6 +6474,9 @@
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
   };
+  pycocotools = {
+    "2.0.8" = import ./overrides/pycocotools/2.0.8;
+  };
   pycoin = {
     "0.92.20230326" = import ./overrides/pycoin/0.92.20230326;
   };
