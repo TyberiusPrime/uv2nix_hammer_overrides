@@ -8999,6 +8999,9 @@
   testgear-api-client = {
     "3.2.0" = import ./overrides/testgear-api-client/3.2.0;
   };
+  testinfra = {
+    "6.0.0" = import ./overrides/testinfra/6.0.0;
+  };
   testit-api-client = {
     "4.0.0" = import ./overrides/testit-api-client/4.0.0;
   };
