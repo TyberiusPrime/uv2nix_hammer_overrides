@@ -3332,6 +3332,9 @@
   grpcio = {
     "1.57.0" = import ./overrides/grpcio/1.57.0;
   };
+  grpcio-health-checking = {
+    "1.66.1" = import ./overrides/grpcio-health-checking/1.66.1;
+  };
   grpclib = {
     "0.4.7" = import ./overrides/grpclib/0.4.7;
   };
