@@ -3853,6 +3853,9 @@
   ipy = {
     "1.1" = import ./overrides/ipy/1.1;
   };
+  ipython-autotime = {
+    "0.3.2" = import ./overrides/ipython-autotime/0.3.2;
+  };
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
