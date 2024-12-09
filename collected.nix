@@ -3261,6 +3261,9 @@
   googleauthentication = {
     "0.0.17" = import ./overrides/googleauthentication/0.0.17;
   };
+  googledrivedownloader = {
+    "0.4" = import ./overrides/googledrivedownloader/0.4;
+  };
   googlemaps = {
     "4.10.0" = import ./overrides/googlemaps/4.10.0;
   };
