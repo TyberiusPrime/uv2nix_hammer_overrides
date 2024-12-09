@@ -6456,6 +6456,9 @@
   pychalk = {
     "2.0.1" = import ./overrides/pychalk/2.0.1;
   };
+  pychef = {
+    "0.3.0" = import ./overrides/pychef/0.3.0;
+  };
   pychm = {
     "0.8.6" = import ./overrides/pychm/0.8.6;
   };
