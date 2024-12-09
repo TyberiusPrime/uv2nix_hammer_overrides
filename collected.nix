@@ -6444,6 +6444,9 @@
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
+  pycardano = {
+    "0.11.1" = import ./overrides/pycardano/0.11.1;
+  };
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
