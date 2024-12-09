@@ -2682,6 +2682,9 @@
   fastcache = {
     "1.1.0" = import ./overrides/fastcache/1.1.0;
   };
+  fastcluster = {
+    "1.2.6" = import ./overrides/fastcluster/1.2.6;
+  };
   fastdtw = {
     "0.3.4" = import ./overrides/fastdtw/0.3.4;
   };
