@@ -9768,6 +9768,9 @@
   volkszaehler = {
     "0.4.0" = import ./overrides/volkszaehler/0.4.0;
   };
+  voluptuous-stubs = {
+    "0.1.1" = import ./overrides/voluptuous-stubs/0.1.1;
+  };
   volvooncall = {
     "0.10.4" = import ./overrides/volvooncall/0.10.4;
   };
