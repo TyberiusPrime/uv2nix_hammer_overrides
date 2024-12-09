@@ -5632,6 +5632,9 @@
   owlready2 = {
     "0.46" = import ./overrides/owlready2/0.46;
   };
+  oxasl = {
+    "0.2.2" = import ./overrides/oxasl/0.2.2;
+  };
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
   };
