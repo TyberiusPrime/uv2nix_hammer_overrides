@@ -5298,6 +5298,9 @@
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
+  nonebot-plugin-guild-patch = {
+    "0.2.3" = import ./overrides/nonebot-plugin-guild-patch/0.2.3;
+  };
   nonstdlib = {
     "1.12.0" = import ./overrides/nonstdlib/1.12.0;
   };
