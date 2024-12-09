@@ -2237,6 +2237,9 @@
   djangorestframework-extras = {
     "0.3.0" = import ./overrides/djangorestframework-extras/0.3.0;
   };
+  djangorestframework-filters = {
+    "0.11.1" = import ./overrides/djangorestframework-filters/0.11.1;
+  };
   djangorestframework-jsonschema = {
     "0.1.1" = import ./overrides/djangorestframework-jsonschema/0.1.1;
   };
