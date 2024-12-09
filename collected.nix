@@ -2267,6 +2267,9 @@
   dkimpy = {
     "1.1.8" = import ./overrides/dkimpy/1.1.8;
   };
+  dkist-fits-specifications = {
+    "4.6.0" = import ./overrides/dkist-fits-specifications/4.6.0;
+  };
   dkist-header-validator = {
     "5.1.1" = import ./overrides/dkist-header-validator/5.1.1;
   };
