@@ -5572,6 +5572,9 @@
   openwrt-ubus-rpc = {
     "0.0.3" = import ./overrides/openwrt-ubus-rpc/0.0.3;
   };
+  opower = {
+    "0.7.0" = import ./overrides/opower/0.7.0;
+  };
   opster = {
     "5.0" = import ./overrides/opster/5.0;
   };
