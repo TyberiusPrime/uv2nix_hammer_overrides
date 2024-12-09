@@ -1104,6 +1104,9 @@
   cleandev-config-loader = {
     "0.3.5" = import ./overrides/cleandev-config-loader/0.3.5;
   };
+  clevercsv = {
+    "0.8.2" = import ./overrides/clevercsv/0.8.2;
+  };
   cleverdict = {
     "1.9.2" = import ./overrides/cleverdict/1.9.2;
   };
