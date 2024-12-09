@@ -4257,6 +4257,9 @@
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
   };
+  launchpadlib = {
+    "2.0.0" = import ./overrides/launchpadlib/2.0.0;
+  };
   lava-tool = {
     "0.11.1" = import ./overrides/lava-tool/0.11.1;
   };
