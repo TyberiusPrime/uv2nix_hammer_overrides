@@ -6749,6 +6749,9 @@
   pyinterval = {
     "1.2.0" = import ./overrides/pyinterval/1.2.0;
   };
+  pyintesishome = {
+    "1.8.5" = import ./overrides/pyintesishome/1.8.5;
+  };
   pyipma = {
     "3.0.7" = import ./overrides/pyipma/3.0.7;
   };
