@@ -4946,6 +4946,9 @@
   mox = {
     "0.5.3" = import ./overrides/mox/0.5.3;
   };
+  mox3 = {
+    "1.1.0" = import ./overrides/mox3/1.1.0;
+  };
   moz-sql-parser = {
     "4.40.21126" = import ./overrides/moz-sql-parser/4.40.21126;
   };
