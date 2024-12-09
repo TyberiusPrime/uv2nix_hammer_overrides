@@ -1403,6 +1403,9 @@
   conversionkit = {
     "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
+  coordinates = {
+    "0.4.0" = import ./overrides/coordinates/0.4.0;
+  };
   coqui-trainer = {
     "0.0.5" = import ./overrides/coqui-trainer/0.0.5;
   };
