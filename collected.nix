@@ -452,6 +452,9 @@
   asyncpgsa = {
     "0.27.1" = import ./overrides/asyncpgsa/0.27.1;
   };
+  atc-ble = {
+    "0.1.0" = import ./overrides/atc-ble/0.1.0;
+  };
   atomic = {
     "0.7.3" = import ./overrides/atomic/0.7.3;
   };
