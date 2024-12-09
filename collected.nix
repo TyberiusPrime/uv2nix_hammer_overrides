@@ -2619,6 +2619,9 @@
   ewoksutils = {
     "0.1.2" = import ./overrides/ewoksutils/0.1.2;
   };
+  exchangelib = {
+    "5.4.3" = import ./overrides/exchangelib/5.4.3;
+  };
   exdown = {
     "0.9.0" = import ./overrides/exdown/0.9.0;
   };
