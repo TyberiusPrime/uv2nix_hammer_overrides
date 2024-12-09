@@ -7149,6 +7149,9 @@
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
   };
+  pysnow = {
+    "0.7.17" = import ./overrides/pysnow/0.7.17;
+  };
   pysocks = {
     "1.6.8" = import ./overrides/pysocks/1.6.8;
   };
