@@ -9732,6 +9732,9 @@
   vivarium-core = {
     "1.6.4" = import ./overrides/vivarium-core/1.6.4;
   };
+  vivisect = {
+    "1.2.1" = import ./overrides/vivisect/1.2.1;
+  };
   vivisect-vstruct-wb = {
     "1.0.3" = import ./overrides/vivisect-vstruct-wb/1.0.3;
   };
