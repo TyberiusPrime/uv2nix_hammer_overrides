@@ -1686,6 +1686,9 @@
   datadbs = {
     "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
+  datakit-core = {
+    "0.3.2" = import ./overrides/datakit-core/0.3.2;
+  };
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
