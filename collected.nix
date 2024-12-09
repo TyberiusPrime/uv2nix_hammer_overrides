@@ -8795,6 +8795,9 @@
   streamlabswater = {
     "1.0.1" = import ./overrides/streamlabswater/1.0.1;
   };
+  streamlit-aggrid = {
+    "1.0.5" = import ./overrides/streamlit-aggrid/1.0.5;
+  };
   streql = {
     "3.0.2" = import ./overrides/streql/3.0.2;
   };
