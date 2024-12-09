@@ -2337,6 +2337,9 @@
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  domain2idna = {
+    "1.12.0" = import ./overrides/domain2idna/1.12.0;
+  };
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
