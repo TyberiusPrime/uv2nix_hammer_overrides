@@ -10148,6 +10148,9 @@
   zhconv = {
     "1.4.3" = import ./overrides/zhconv/1.4.3;
   };
+  zhinst = {
+    "24.7.2" = import ./overrides/zhinst/24.7.2;
+  };
   zipseeker = {
     "1.0.11" = import ./overrides/zipseeker/1.0.11;
   };
