@@ -9452,6 +9452,9 @@
   typology = {
     "0.2.3" = import ./overrides/typology/0.2.3;
   };
+  tyro = {
+    "0.8.10" = import ./overrides/tyro/0.8.10;
+  };
   tzdata = {
     "2024.1" = import ./overrides/tzdata/2024.1;
   };
