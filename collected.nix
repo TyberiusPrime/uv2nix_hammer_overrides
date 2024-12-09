@@ -5238,6 +5238,9 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  ninebot-ble = {
+    "0.0.6" = import ./overrides/ninebot-ble/0.0.6;
+  };
   nix-prefetch-github = {
     "7.1.0" = import ./overrides/nix-prefetch-github/7.1.0;
   };
