@@ -8429,6 +8429,9 @@
   simplekml = {
     "1.3.6" = import ./overrides/simplekml/1.3.6;
   };
+  simplelogging = {
+    "0.12.0" = import ./overrides/simplelogging/0.12.0;
+  };
   simplenote = {
     "2.1.4" = import ./overrides/simplenote/2.1.4;
   };
