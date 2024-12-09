@@ -4583,6 +4583,9 @@
   mailchimp = {
     "2.0.10" = import ./overrides/mailchimp/2.0.10;
   };
+  mailjet-rest = {
+    "1.3.4" = import ./overrides/mailjet-rest/1.3.4;
+  };
   mailmanclient = {
     "3.3.5" = import ./overrides/mailmanclient/3.3.5;
   };
