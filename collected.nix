@@ -2523,6 +2523,9 @@
   empyrical = {
     "0.5.5" = import ./overrides/empyrical/0.5.5;
   };
+  emv = {
+    "1.0.14" = import ./overrides/emv/1.0.14;
+  };
   encodec = {
     "0.1.1" = import ./overrides/encodec/0.1.1;
   };
