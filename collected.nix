@@ -1205,6 +1205,9 @@
   cmlibs-zinc = {
     "4.1.2" = import ./overrides/cmlibs-zinc/4.1.2;
   };
+  cmocean = {
+    "4.0.3" = import ./overrides/cmocean/4.0.3;
+  };
   cmsis-svd = {
     "0.4" = import ./overrides/cmsis-svd/0.4;
   };
