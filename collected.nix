@@ -4667,6 +4667,9 @@
   mayavi = {
     "4.8.2" = import ./overrides/mayavi/4.8.2;
   };
+  mbf-gtf = {
+    "0.4.1" = import ./overrides/mbf-gtf/0.4.1;
+  };
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };
