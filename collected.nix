@@ -4655,6 +4655,9 @@
   matplotlib = {
     "3.4.2" = import ./overrides/matplotlib/3.4.2;
   };
+  matplotlib-scalebar = {
+    "0.8.1" = import ./overrides/matplotlib-scalebar/0.8.1;
+  };
   matplotlib-venn = {
     "1.1.1" = import ./overrides/matplotlib-venn/1.1.1;
   };
