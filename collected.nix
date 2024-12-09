@@ -6719,6 +6719,9 @@
   pyhashxx = {
     "0.1.3" = import ./overrides/pyhashxx/0.1.3;
   };
+  pyhcl = {
+    "0.4.5" = import ./overrides/pyhcl/0.4.5;
+  };
   pyhive = {
     "0.7.0" = import ./overrides/pyhive/0.7.0;
   };
