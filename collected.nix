@@ -1843,6 +1843,9 @@
   distorm3 = {
     "3.5.2" = import ./overrides/distorm3/3.5.2;
   };
+  distributed = {
+    "2024.8.2" = import ./overrides/distributed/2024.8.2;
+  };
   distributedlock = {
     "1.2" = import ./overrides/distributedlock/1.2;
   };
