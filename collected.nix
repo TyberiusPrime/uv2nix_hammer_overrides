@@ -1767,6 +1767,9 @@
   delta = {
     "0.4.2" = import ./overrides/delta/0.4.2;
   };
+  deluge-client = {
+    "1.10.2" = import ./overrides/deluge-client/1.10.2;
+  };
   demands = {
     "3.0.0" = import ./overrides/demands/3.0.0;
   };
