@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  jwcrypto = {
+    "1.5.6" = import ./overrides/jwcrypto/1.5.6;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
