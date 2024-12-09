@@ -837,6 +837,9 @@
   brightway2 = {
     "2.4.6" = import ./overrides/brightway2/2.4.6;
   };
+  broadlink = {
+    "0.19.0" = import ./overrides/broadlink/0.19.0;
+  };
   brownie = {
     "0.5.1" = import ./overrides/brownie/0.5.1;
   };
