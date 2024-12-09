@@ -3243,6 +3243,9 @@
   google-apputils = {
     "0.4.2" = import ./overrides/google-apputils/0.4.2;
   };
+  google-auth-httplib2 = {
+    "0.2.0" = import ./overrides/google-auth-httplib2/0.2.0;
+  };
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
