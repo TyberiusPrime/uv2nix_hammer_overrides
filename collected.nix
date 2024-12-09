@@ -2778,6 +2778,9 @@
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
+  firefly-dependency-injection = {
+    "1.0.0" = import ./overrides/firefly-dependency-injection/1.0.0;
+  };
   fireworks = {
     "2.0.3" = import ./overrides/fireworks/2.0.3;
   };
