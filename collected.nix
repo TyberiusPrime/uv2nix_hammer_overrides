@@ -1232,6 +1232,9 @@
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
+  cogapp = {
+    "3.4.1" = import ./overrides/cogapp/3.4.1;
+  };
   coincurve = {
     "15.0.0" = import ./overrides/coincurve/15.0.0;
   };
