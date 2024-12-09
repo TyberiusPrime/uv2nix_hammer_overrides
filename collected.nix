@@ -3760,6 +3760,9 @@
   injson = {
     "0.4.1" = import ./overrides/injson/0.4.1;
   };
+  inmanta-core = {
+    "13.0.1" = import ./overrides/inmanta-core/13.0.1;
+  };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
