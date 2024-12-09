@@ -6722,6 +6722,9 @@
   pyhive = {
     "0.7.0" = import ./overrides/pyhive/0.7.0;
   };
+  pyhiveapi = {
+    "0.5.16" = import ./overrides/pyhiveapi/0.5.16;
+  };
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
