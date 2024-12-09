@@ -5025,6 +5025,9 @@
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
+  multidimensional-urlencode = {
+    "0.0.4" = import ./overrides/multidimensional-urlencode/0.0.4;
+  };
   multio = {
     "0.2.5" = import ./overrides/multio/0.2.5;
   };
