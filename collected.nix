@@ -7595,6 +7595,9 @@
   pyvat = {
     "1.3.18" = import ./overrides/pyvat/1.3.18;
   };
+  pyvera = {
+    "0.3.15" = import ./overrides/pyvera/0.3.15;
+  };
   pyverilog = {
     "1.3.0" = import ./overrides/pyverilog/1.3.0;
   };
