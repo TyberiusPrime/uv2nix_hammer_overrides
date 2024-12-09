@@ -9437,6 +9437,9 @@
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
+  typed-settings = {
+    "24.5.0" = import ./overrides/typed-settings/24.5.0;
+  };
   typedecorator = {
     "0.0.5" = import ./overrides/typedecorator/0.0.5;
   };
