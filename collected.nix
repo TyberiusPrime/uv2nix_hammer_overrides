@@ -4622,6 +4622,9 @@
   markerlib = {
     "0.6.0" = import ./overrides/markerlib/0.6.0;
   };
+  marko = {
+    "2.1.2" = import ./overrides/marko/2.1.2;
+  };
   markovify = {
     "0.9.4" = import ./overrides/markovify/0.9.4;
   };
