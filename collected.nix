@@ -3760,6 +3760,9 @@
   injson = {
     "0.4.1" = import ./overrides/injson/0.4.1;
   };
+  inkbird-ble = {
+    "0.5.8" = import ./overrides/inkbird-ble/0.5.8;
+  };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
