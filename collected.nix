@@ -8015,6 +8015,9 @@
   ros-cdk-cxapi = {
     "1.2.0" = import ./overrides/ros-cdk-cxapi/1.2.0;
   };
+  rosdistro = {
+    "0.9.1" = import ./overrides/rosdistro/0.9.1;
+  };
   rouge-score = {
     "0.1.2" = import ./overrides/rouge-score/0.1.2;
   };
