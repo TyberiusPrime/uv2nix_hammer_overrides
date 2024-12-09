@@ -9654,6 +9654,9 @@
   varz = {
     "0.8.1" = import ./overrides/varz/0.8.1;
   };
+  vbml = {
+    "1.1.post1" = import ./overrides/vbml/1.1.post1;
+  };
   vcf-parser = {
     "1.6" = import ./overrides/vcf-parser/1.6;
   };
