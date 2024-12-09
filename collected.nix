@@ -9687,6 +9687,9 @@
   versiontools = {
     "1.9.1" = import ./overrides/versiontools/1.9.1;
   };
+  vertica-python = {
+    "1.4.0" = import ./overrides/vertica-python/1.4.0;
+  };
   veryprettytable = {
     "0.8.1" = import ./overrides/veryprettytable/0.8.1;
   };
