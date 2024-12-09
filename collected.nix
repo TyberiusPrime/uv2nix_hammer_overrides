@@ -5001,6 +5001,9 @@
   ms-cv = {
     "0.1.1" = import ./overrides/ms-cv/0.1.1;
   };
+  msal = {
+    "1.31.0" = import ./overrides/msal/1.31.0;
+  };
   msgpack = {
     "1.0.2" = import ./overrides/msgpack/1.0.2;
   };
