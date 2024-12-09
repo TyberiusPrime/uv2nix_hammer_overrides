@@ -5763,6 +5763,9 @@
   pdfminer = {
     "20191125" = import ./overrides/pdfminer/20191125;
   };
+  pdfminer2 = {
+    "20151206" = import ./overrides/pdfminer2/20151206;
+  };
   pdfminer3 = {
     "2018.12.3.0" = import ./overrides/pdfminer3/2018.12.3.0;
   };
