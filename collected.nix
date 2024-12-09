@@ -1701,6 +1701,9 @@
   date-extractor = {
     "5.1.5" = import ./overrides/date-extractor/5.1.5;
   };
+  dateable-kalends = {
+    "1.0" = import ./overrides/dateable-kalends/1.0;
+  };
   datrie = {
     "0.8.2" = import ./overrides/datrie/0.8.2;
   };
