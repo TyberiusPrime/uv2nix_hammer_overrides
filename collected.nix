@@ -2334,6 +2334,9 @@
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
+  dodgy = {
+    "0.2.1" = import ./overrides/dodgy/0.2.1;
+  };
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
