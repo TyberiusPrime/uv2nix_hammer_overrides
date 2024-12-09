@@ -795,6 +795,9 @@
   bluepy = {
     "1.3.0" = import ./overrides/bluepy/1.3.0;
   };
+  bluetooth-auto-recovery = {
+    "1.4.2" = import ./overrides/bluetooth-auto-recovery/1.4.2;
+  };
   bmipy = {
     "2.0.1" = import ./overrides/bmipy/2.0.1;
   };
