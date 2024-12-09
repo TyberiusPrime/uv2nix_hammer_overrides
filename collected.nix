@@ -3769,6 +3769,9 @@
   input-algorithms = {
     "0.6.0" = import ./overrides/input-algorithms/0.6.0;
   };
+  insegel = {
+    "1.3.1" = import ./overrides/insegel/1.3.1;
+  };
   insightface = {
     "0.7.3" = import ./overrides/insightface/0.7.3;
   };
