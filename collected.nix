@@ -6120,6 +6120,9 @@
   prettytable = {
     "0.7.2" = import ./overrides/prettytable/0.7.2;
   };
+  price-parser = {
+    "0.3.4" = import ./overrides/price-parser/0.3.4;
+  };
   primesieve = {
     "2.3.3" = import ./overrides/primesieve/2.3.3;
   };
