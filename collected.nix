@@ -2508,6 +2508,9 @@
   ellc = {
     "1.8.9" = import ./overrides/ellc/1.8.9;
   };
+  elm-framework-helpers = {
+    "0.3.1" = import ./overrides/elm-framework-helpers/0.3.1;
+  };
   embit = {
     "0.8.0" = import ./overrides/embit/0.8.0;
   };
