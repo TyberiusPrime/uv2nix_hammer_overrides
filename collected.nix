@@ -4296,6 +4296,9 @@
   lesscli = {
     "0.2.1" = import ./overrides/lesscli/0.2.1;
   };
+  lesscpy = {
+    "0.15.1" = import ./overrides/lesscpy/0.15.1;
+  };
   lettuce = {
     "0.2.23" = import ./overrides/lettuce/0.2.23;
   };
