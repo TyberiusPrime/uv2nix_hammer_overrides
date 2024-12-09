@@ -785,6 +785,9 @@
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
+  blockdiag = {
+    "3.0.0" = import ./overrides/blockdiag/3.0.0;
+  };
   blosc2 = {
     "2.0.0" = import ./overrides/blosc2/2.0.0;
     "2.7.1" = import ./overrides/blosc2/2.7.1;
