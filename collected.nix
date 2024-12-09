@@ -8819,6 +8819,9 @@
   stubserver = {
     "1.1" = import ./overrides/stubserver/1.1;
   };
+  sty = {
+    "1.0.6" = import ./overrides/sty/1.0.6;
+  };
   stylus = {
     "0.1.2" = import ./overrides/stylus/0.1.2;
   };
