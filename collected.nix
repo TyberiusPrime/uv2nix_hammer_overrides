@@ -8897,6 +8897,9 @@
   tarjan = {
     "0.2.4" = import ./overrides/tarjan/0.2.4;
   };
+  tartiflette = {
+    "1.4.1" = import ./overrides/tartiflette/1.4.1;
+  };
   tasklib = {
     "2.5.1" = import ./overrides/tasklib/2.5.1;
   };
