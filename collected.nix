@@ -8054,6 +8054,9 @@
   rrcf = {
     "0.4.4" = import ./overrides/rrcf/0.4.4;
   };
+  rsclib = {
+    "0.67" = import ./overrides/rsclib/0.67;
+  };
   rshell = {
     "0.0.33" = import ./overrides/rshell/0.0.33;
   };
