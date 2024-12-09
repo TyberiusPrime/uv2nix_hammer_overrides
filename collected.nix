@@ -1677,6 +1677,9 @@
   dashing = {
     "0.1.0" = import ./overrides/dashing/0.1.0;
   };
+  dask-histogram = {
+    "2024.3.0" = import ./overrides/dask-histogram/2024.3.0;
+  };
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
