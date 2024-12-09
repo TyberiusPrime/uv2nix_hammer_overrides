@@ -6471,6 +6471,9 @@
   pycli = {
     "2.0.3" = import ./overrides/pycli/2.0.3;
   };
+  pyclipper = {
+    "1.3.0.post5" = import ./overrides/pyclipper/1.3.0.post5;
+  };
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
   };
