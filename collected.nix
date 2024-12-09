@@ -843,6 +843,9 @@
   browsermob-proxy = {
     "0.8.0" = import ./overrides/browsermob-proxy/0.8.0;
   };
+  brunns-row = {
+    "2.1.0" = import ./overrides/brunns-row/2.1.0;
+  };
   bs4 = {
     "0.0.1" = import ./overrides/bs4/0.0.1;
   };
