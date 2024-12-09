@@ -813,6 +813,9 @@
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
+  bounded-pool-executor = {
+    "0.0.3" = import ./overrides/bounded-pool-executor/0.0.3;
+  };
   box2d-py = {
     "2.3.8" = import ./overrides/box2d-py/2.3.8;
   };
