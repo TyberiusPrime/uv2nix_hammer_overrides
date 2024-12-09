@@ -6300,6 +6300,9 @@
   px-settings = {
     "0.1.5" = import ./overrides/px-settings/0.1.5;
   };
+  py-3rdparty-mediawiki = {
+    "0.12.1" = import ./overrides/py-3rdparty-mediawiki/0.12.1;
+  };
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
