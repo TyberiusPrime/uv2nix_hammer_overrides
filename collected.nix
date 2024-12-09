@@ -9446,6 +9446,9 @@
   typing = {
     "3.5.2.2" = import ./overrides/typing/3.5.2.2;
   };
+  typing-extensions = {
+    "4.12.2" = import ./overrides/typing-extensions/4.12.2;
+  };
   typogrify = {
     "2.0.7" = import ./overrides/typogrify/2.0.7;
   };
