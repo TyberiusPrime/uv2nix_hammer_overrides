@@ -2664,6 +2664,9 @@
   fairseq = {
     "0.12.2" = import ./overrides/fairseq/0.12.2;
   };
+  falcon = {
+    "3.1.3" = import ./overrides/falcon/3.1.3;
+  };
   falcon-cors = {
     "1.1.7" = import ./overrides/falcon-cors/1.1.7;
   };
