@@ -9130,6 +9130,9 @@
   titlecase = {
     "2.4.1" = import ./overrides/titlecase/2.4.1;
   };
+  tkcolorpicker = {
+    "2.1.3" = import ./overrides/tkcolorpicker/2.1.3;
+  };
   tkinterhtml = {
     "0.7" = import ./overrides/tkinterhtml/0.7;
   };
