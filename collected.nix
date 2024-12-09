@@ -8873,6 +8873,9 @@
   systemd = {
     "0.17.1" = import ./overrides/systemd/0.17.1;
   };
+  systemrdl-compiler = {
+    "1.27.3" = import ./overrides/systemrdl-compiler/1.27.3;
+  };
   sysv-ipc = {
     "1.1.0" = import ./overrides/sysv-ipc/1.1.0;
   };
