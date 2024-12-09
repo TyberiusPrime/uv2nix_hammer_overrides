@@ -3243,6 +3243,9 @@
   google-apputils = {
     "0.4.2" = import ./overrides/google-apputils/0.4.2;
   };
+  google-cloud-workstations = {
+    "0.5.8" = import ./overrides/google-cloud-workstations/0.5.8;
+  };
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
