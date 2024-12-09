@@ -364,6 +364,9 @@
   arguments = {
     "76" = import ./overrides/arguments/76;
   };
+  arkitekt = {
+    "0.7.8" = import ./overrides/arkitekt/0.7.8;
+  };
   armstrong-utils-backends = {
     "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
   };
