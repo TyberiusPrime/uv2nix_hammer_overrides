@@ -9070,6 +9070,9 @@
   tiddlywebplugins-pkgstore = {
     "0.3" = import ./overrides/tiddlywebplugins-pkgstore/0.3;
   };
+  tiddlywebplugins-templates = {
+    "0.9.7" = import ./overrides/tiddlywebplugins-templates/0.9.7;
+  };
   tiddlywebplugins-twimport = {
     "1.1.1" = import ./overrides/tiddlywebplugins-twimport/1.1.1;
   };
