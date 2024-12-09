@@ -861,6 +861,9 @@
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
+  btsocket = {
+    "0.3.0" = import ./overrides/btsocket/0.3.0;
+  };
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
   };
