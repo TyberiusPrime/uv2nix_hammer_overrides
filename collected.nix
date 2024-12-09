@@ -7592,6 +7592,9 @@
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
   };
+  pyvalem = {
+    "2.7.1" = import ./overrides/pyvalem/2.7.1;
+  };
   pyvat = {
     "1.3.18" = import ./overrides/pyvat/1.3.18;
   };
