@@ -3158,6 +3158,9 @@
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
+  gin-config = {
+    "0.5.0" = import ./overrides/gin-config/0.5.0;
+  };
   girder = {
     "3.2.3" = import ./overrides/girder/3.2.3;
   };
