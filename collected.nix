@@ -4413,6 +4413,9 @@
   limix-plot = {
     "0.1.2" = import ./overrides/limix-plot/0.1.2;
   };
+  linear-operator = {
+    "0.5.3" = import ./overrides/linear-operator/0.5.3;
+  };
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
