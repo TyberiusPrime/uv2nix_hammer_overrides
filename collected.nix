@@ -8233,6 +8233,9 @@
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
   };
+  scour = {
+    "0.38.2" = import ./overrides/scour/0.38.2;
+  };
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
