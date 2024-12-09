@@ -4329,6 +4329,9 @@
   libfsntfs-python = {
     "20240501" = import ./overrides/libfsntfs-python/20240501;
   };
+  libgravatar = {
+    "1.0.4" = import ./overrides/libgravatar/1.0.4;
+  };
   libknot = {
     "3.4.0" = import ./overrides/libknot/3.4.0;
   };
