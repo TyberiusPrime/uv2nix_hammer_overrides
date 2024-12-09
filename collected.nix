@@ -5163,6 +5163,9 @@
   neologdn = {
     "0.5.3" = import ./overrides/neologdn/0.5.3;
   };
+  neomodel = {
+    "5.3.2" = import ./overrides/neomodel/5.3.2;
+  };
   neotermcolor = {
     "2.0.10" = import ./overrides/neotermcolor/2.0.10;
   };
