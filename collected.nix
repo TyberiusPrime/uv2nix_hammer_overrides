@@ -5579,6 +5579,7 @@
     "1.6" = import ./overrides/option-merge/1.6;
   };
   optional-django = {
+    "0.1.0" = import ./overrides/optional-django/0.1.0;
     "0.3.0" = import ./overrides/optional-django/0.3.0;
   };
   optproblems = {
