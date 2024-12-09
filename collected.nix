@@ -4105,6 +4105,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  kazoo = {
+    "2.10.0" = import ./overrides/kazoo/2.10.0;
+  };
   kedro = {
     "0.19.8" = import ./overrides/kedro/0.19.8;
   };
