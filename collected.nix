@@ -8894,6 +8894,9 @@
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
+  tappy = {
+    "1.1.0" = import ./overrides/tappy/1.1.0;
+  };
   tarjan = {
     "0.2.4" = import ./overrides/tarjan/0.2.4;
   };
