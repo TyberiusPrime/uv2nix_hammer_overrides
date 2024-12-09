@@ -2466,6 +2466,9 @@
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
+  editdistance-s = {
+    "1.0.0" = import ./overrides/editdistance-s/1.0.0;
+  };
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
