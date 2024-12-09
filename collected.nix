@@ -9115,6 +9115,9 @@
   tinyrecord = {
     "0.2.0" = import ./overrides/tinyrecord/0.2.0;
   };
+  tinyrpc = {
+    "1.1.7" = import ./overrides/tinyrpc/1.1.7;
+  };
   tinysegmenter = {
     "0.4" = import ./overrides/tinysegmenter/0.4;
   };
