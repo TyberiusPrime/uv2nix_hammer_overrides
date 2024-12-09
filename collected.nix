@@ -3243,6 +3243,9 @@
   google-apputils = {
     "0.4.2" = import ./overrides/google-apputils/0.4.2;
   };
+  google-cloud-tasks = {
+    "2.16.5" = import ./overrides/google-cloud-tasks/2.16.5;
+  };
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
