@@ -7009,6 +7009,9 @@
   pyprosegur = {
     "0.0.12" = import ./overrides/pyprosegur/0.0.12;
   };
+  pyprusalink = {
+    "2.1.1" = import ./overrides/pyprusalink/2.1.1;
+  };
   pyptlib = {
     "0.0.6" = import ./overrides/pyptlib/0.0.6;
   };
