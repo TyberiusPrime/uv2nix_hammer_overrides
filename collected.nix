@@ -7574,6 +7574,9 @@
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
+  pytzdata = {
+    "2020.1" = import ./overrides/pytzdata/2020.1;
+  };
   pyu2f = {
     "0.1.5" = import ./overrides/pyu2f/0.1.5;
   };
