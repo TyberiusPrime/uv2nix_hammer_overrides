@@ -7439,6 +7439,9 @@
   python-openzwave = {
     "0.4.19" = import ./overrides/python-openzwave/0.4.19;
   };
+  python-osc = {
+    "1.9.0" = import ./overrides/python-osc/1.9.0;
+  };
   python-packer = {
     "0.1.2" = import ./overrides/python-packer/0.1.2;
   };
