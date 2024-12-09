@@ -4099,6 +4099,9 @@
   kanilog = {
     "0.3.3" = import ./overrides/kanilog/0.3.3;
   };
+  kanjize = {
+    "1.5.0" = import ./overrides/kanjize/1.5.0;
+  };
   kappa = {
     "0.7.0" = import ./overrides/kappa/0.7.0;
   };
