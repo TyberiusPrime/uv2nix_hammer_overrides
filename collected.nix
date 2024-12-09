@@ -6867,6 +6867,9 @@
   pymeta3 = {
     "0.5.1" = import ./overrides/pymeta3/0.5.1;
   };
+  pymetadata = {
+    "0.4.4" = import ./overrides/pymetadata/0.4.4;
+  };
   pymetar = {
     "1.4" = import ./overrides/pymetar/1.4;
   };
