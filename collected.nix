@@ -810,6 +810,9 @@
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
+  botocore-stubs = {
+    "1.35.16" = import ./overrides/botocore-stubs/1.35.16;
+  };
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
