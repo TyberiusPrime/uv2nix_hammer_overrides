@@ -2899,6 +2899,9 @@
   flask-script = {
     "2.0.6" = import ./overrides/flask-script/2.0.6;
   };
+  flask-session-captcha = {
+    "1.4.2" = import ./overrides/flask-session-captcha/1.4.2;
+  };
   flask-silk = {
     "0.2" = import ./overrides/flask-silk/0.2;
   };
