@@ -4592,6 +4592,9 @@
   mailthon = {
     "0.1.1" = import ./overrides/mailthon/0.1.1;
   };
+  maison = {
+    "2.0.0" = import ./overrides/maison/2.0.0;
+  };
   manage-py = {
     "0.2.10" = import ./overrides/manage-py/0.2.10;
   };
