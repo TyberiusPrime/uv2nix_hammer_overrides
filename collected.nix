@@ -3598,6 +3598,9 @@
   hydralit-components = {
     "1.0.10" = import ./overrides/hydralit-components/1.0.10;
   };
+  hydroeval = {
+    "0.1.0" = import ./overrides/hydroeval/0.1.0;
+  };
   hypchat = {
     "0.21" = import ./overrides/hypchat/0.21;
   };
