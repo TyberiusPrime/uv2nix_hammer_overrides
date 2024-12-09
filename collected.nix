@@ -1904,6 +1904,9 @@
   django-bower = {
     "5.2.0" = import ./overrides/django-bower/5.2.0;
   };
+  django-cachalot = {
+    "2.6.3" = import ./overrides/django-cachalot/2.6.3;
+  };
   django-cacheops = {
     "7.0.2" = import ./overrides/django-cacheops/7.0.2;
   };
