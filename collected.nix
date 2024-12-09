@@ -2051,6 +2051,9 @@
   django-mp-pagination = {
     "0.3.0" = import ./overrides/django-mp-pagination/0.3.0;
   };
+  django-multiselectfield = {
+    "0.1.13" = import ./overrides/django-multiselectfield/0.1.13;
+  };
   django-next-prev = {
     "1.1.0" = import ./overrides/django-next-prev/1.1.0;
   };
