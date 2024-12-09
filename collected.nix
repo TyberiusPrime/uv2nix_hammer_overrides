@@ -187,6 +187,9 @@
   aliyun-python-sdk-core-v3 = {
     "2.13.33" = import ./overrides/aliyun-python-sdk-core-v3/2.13.33;
   };
+  aliyun-python-sdk-iot = {
+    "8.59.0" = import ./overrides/aliyun-python-sdk-iot/8.59.0;
+  };
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
   };
