@@ -1701,6 +1701,9 @@
   date-extractor = {
     "5.1.5" = import ./overrides/date-extractor/5.1.5;
   };
+  datedelta = {
+    "1.4" = import ./overrides/datedelta/1.4;
+  };
   datrie = {
     "0.8.2" = import ./overrides/datrie/0.8.2;
   };
