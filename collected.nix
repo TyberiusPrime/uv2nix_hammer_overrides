@@ -7369,6 +7369,9 @@
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
+  python-iso639 = {
+    "2024.4.27" = import ./overrides/python-iso639/2024.4.27;
+  };
   python-javabridge = {
     "4.0.3" = import ./overrides/python-javabridge/4.0.3;
     "4.0.4" = import ./overrides/python-javabridge/4.0.4;
