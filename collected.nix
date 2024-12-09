@@ -7263,6 +7263,9 @@
   python-axolotl-curve25519 = {
     "0.4.1.post2" = import ./overrides/python-axolotl-curve25519/0.4.1.post2;
   };
+  python-barcode = {
+    "0.15.1" = import ./overrides/python-barcode/0.15.1;
+  };
   python-baseconv = {
     "1.2.2" = import ./overrides/python-baseconv/1.2.2;
   };
