@@ -7799,6 +7799,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  readmdict = {
+    "0.1.1" = import ./overrides/readmdict/0.1.1;
+  };
   readtime = {
     "3.0.0" = import ./overrides/readtime/3.0.0;
   };
