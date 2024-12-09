@@ -5638,6 +5638,9 @@
   p4a-z2utils = {
     "1.0.2" = import ./overrides/p4a-z2utils/1.0.2;
   };
+  pacifica-namespace = {
+    "0.0.2" = import ./overrides/pacifica-namespace/0.0.2;
+  };
   packbits = {
     "0.6" = import ./overrides/packbits/0.6;
   };
