@@ -181,6 +181,9 @@
   aliyun-log-python-sdk = {
     "0.9.11" = import ./overrides/aliyun-log-python-sdk/0.9.11;
   };
+  aliyun-python-sdk-cdn = {
+    "3.8.8" = import ./overrides/aliyun-python-sdk-cdn/3.8.8;
+  };
   aliyun-python-sdk-core = {
     "2.15.2" = import ./overrides/aliyun-python-sdk-core/2.15.2;
   };
