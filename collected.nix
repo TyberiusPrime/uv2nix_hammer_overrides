@@ -5343,6 +5343,9 @@
   nsapi = {
     "3.0.5" = import ./overrides/nsapi/3.0.5;
   };
+  nsz = {
+    "4.6.1" = import ./overrides/nsz/4.6.1;
+  };
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
     "0.60.0" = import ./overrides/numba/0.60.0;
