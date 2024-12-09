@@ -2310,6 +2310,7 @@
     "1.0.375" = import ./overrides/docloud/1.0.375;
   };
   docopt = {
+    "0.6.1" = import ./overrides/docopt/0.6.1;
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
   docopts = {
