@@ -5949,6 +5949,9 @@
   pkcs7 = {
     "0.1.2" = import ./overrides/pkcs7/0.1.2;
   };
+  pkg-about = {
+    "1.1.8" = import ./overrides/pkg-about/1.1.8;
+  };
   pkgtools = {
     "0.7.3" = import ./overrides/pkgtools/0.7.3;
   };
