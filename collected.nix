@@ -301,6 +301,9 @@
   apkutils2 = {
     "1.0.0" = import ./overrides/apkutils2/1.0.0;
   };
+  apns2 = {
+    "0.7.2" = import ./overrides/apns2/0.7.2;
+  };
   app = {
     "0.1.0" = import ./overrides/app/0.1.0;
   };
