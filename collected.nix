@@ -8000,6 +8000,9 @@
   roku = {
     "4.1.0" = import ./overrides/roku/4.1.0;
   };
+  rollbar = {
+    "1.0.0" = import ./overrides/rollbar/1.0.0;
+  };
   roman = {
     "3.1" = import ./overrides/roman/3.1;
   };
