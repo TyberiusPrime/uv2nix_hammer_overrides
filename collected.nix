@@ -5618,7 +5618,11 @@
     "0.2.5" = import ./overrides/osm2geojson/0.2.5;
   };
   oss2 = {
+    "2.18.1" = import ./overrides/oss2/2.18.1;
     "2.19.0" = import ./overrides/oss2/2.19.0;
+  };
+  ossfs = {
+    "2023.12.0" = import ./overrides/ossfs/2023.12.0;
   };
   otree = {
     "5.11.0" = import ./overrides/otree/5.11.0;
