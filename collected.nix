@@ -8655,6 +8655,9 @@
   spikemetrics = {
     "0.2.4" = import ./overrides/spikemetrics/0.2.4;
   };
+  spinners = {
+    "0.0.24" = import ./overrides/spinners/0.0.24;
+  };
   splunk-sdk = {
     "2.0.2" = import ./overrides/splunk-sdk/2.0.2;
   };
