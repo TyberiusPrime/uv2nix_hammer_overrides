@@ -2021,6 +2021,9 @@
   django-lbutils = {
     "1.1.0" = import ./overrides/django-lbutils/1.1.0;
   };
+  django-leaflet = {
+    "0.30.1" = import ./overrides/django-leaflet/0.30.1;
+  };
   django-libs = {
     "2.0.3" = import ./overrides/django-libs/2.0.3;
   };
