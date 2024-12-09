@@ -8474,6 +8474,9 @@
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
   };
+  skrl = {
+    "1.2.0" = import ./overrides/skrl/1.2.0;
+  };
   sktime = {
     "0.26.0" = import ./overrides/sktime/0.26.0;
   };
