@@ -5772,6 +5772,9 @@
   pdftotext = {
     "2.2.2" = import ./overrides/pdftotext/2.2.2;
   };
+  pdoc = {
+    "14.6.1" = import ./overrides/pdoc/14.6.1;
+  };
   pdoc3 = {
     "0.11.1" = import ./overrides/pdoc3/0.11.1;
   };
