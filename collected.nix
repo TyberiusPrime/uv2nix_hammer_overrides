@@ -4904,6 +4904,9 @@
   moksha-hub = {
     "1.5.17" = import ./overrides/moksha-hub/1.5.17;
   };
+  moment = {
+    "0.12.1" = import ./overrides/moment/0.12.1;
+  };
   monero = {
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
