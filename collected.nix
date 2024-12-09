@@ -4377,6 +4377,9 @@
   libwapiti = {
     "0.2.1" = import ./overrides/libwapiti/0.2.1;
   };
+  liccheck = {
+    "0.9.2" = import ./overrides/liccheck/0.9.2;
+  };
   licensing = {
     "0.49" = import ./overrides/licensing/0.49;
   };
