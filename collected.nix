@@ -9419,6 +9419,9 @@
   txcelery-py3 = {
     "1.6.4" = import ./overrides/txcelery-py3/1.6.4;
   };
+  txgithub = {
+    "15.0.0" = import ./overrides/txgithub/15.0.0;
+  };
   txhttputil = {
     "1.3.0" = import ./overrides/txhttputil/1.3.0;
   };
