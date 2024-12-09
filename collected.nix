@@ -3952,6 +3952,9 @@
   journalwatch = {
     "1.1.0" = import ./overrides/journalwatch/1.1.0;
   };
+  joypy = {
+    "0.2.6" = import ./overrides/joypy/0.2.6;
+  };
   jpath = {
     "1.6" = import ./overrides/jpath/1.6;
   };
