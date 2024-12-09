@@ -5357,6 +5357,7 @@
   };
   numpy-sugar = {
     "1.5.3" = import ./overrides/numpy-sugar/1.5.3;
+    "1.5.4" = import ./overrides/numpy-sugar/1.5.4;
   };
   numpy2gif = {
     "1.0" = import ./overrides/numpy2gif/1.0;
