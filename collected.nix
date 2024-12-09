@@ -6012,6 +6012,9 @@
   pluginbase = {
     "1.0.1" = import ./overrides/pluginbase/1.0.1;
   };
+  pluginmanager = {
+    "0.4.1" = import ./overrides/pluginmanager/0.4.1;
+  };
   plugnplay = {
     "0.5.4" = import ./overrides/plugnplay/0.5.4;
   };
