@@ -6141,6 +6141,9 @@
   products-cmfdefault = {
     "2.2.4" = import ./overrides/products-cmfdefault/2.2.4;
   };
+  products-contentwellportlets = {
+    "4.3.1" = import ./overrides/products-contentwellportlets/4.3.1;
+  };
   products-cron4plone = {
     "1.1.11" = import ./overrides/products-cron4plone/1.1.11;
   };
