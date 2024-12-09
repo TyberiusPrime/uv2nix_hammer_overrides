@@ -2508,6 +2508,9 @@
   ellc = {
     "1.8.9" = import ./overrides/ellc/1.8.9;
   };
+  email-validator = {
+    "2.2.0" = import ./overrides/email-validator/2.2.0;
+  };
   embit = {
     "0.8.0" = import ./overrides/embit/0.8.0;
   };
