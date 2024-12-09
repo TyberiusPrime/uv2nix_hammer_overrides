@@ -1110,6 +1110,9 @@
   clf = {
     "0.5.7" = import ./overrides/clf/0.5.7;
   };
+  cliar = {
+    "1.3.5" = import ./overrides/cliar/1.3.5;
+  };
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
   };
