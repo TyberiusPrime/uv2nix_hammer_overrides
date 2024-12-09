@@ -1825,6 +1825,9 @@
   diplib = {
     "3.5.1" = import ./overrides/diplib/3.5.1;
   };
+  dirhash = {
+    "0.5.0" = import ./overrides/dirhash/0.5.0;
+  };
   dirlistproc = {
     "1.4.5" = import ./overrides/dirlistproc/1.4.5;
   };
