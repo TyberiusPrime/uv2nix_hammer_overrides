@@ -3110,6 +3110,9 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  gekko = {
+    "1.2.1" = import ./overrides/gekko/1.2.1;
+  };
   genpy = {
     "2022.1" = import ./overrides/genpy/2022.1;
   };
