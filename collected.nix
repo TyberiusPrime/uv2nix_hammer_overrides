@@ -8705,6 +8705,9 @@
     "0.0.11" = import ./overrides/sseclient/0.0.11;
     "0.0.27" = import ./overrides/sseclient/0.0.27;
   };
+  sseclient-py = {
+    "1.8.0" = import ./overrides/sseclient-py/1.8.0;
+  };
   ssh = {
     "1.8.0" = import ./overrides/ssh/1.8.0;
   };
