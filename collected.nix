@@ -5602,6 +5602,12 @@
   orvibo = {
     "1.1.2" = import ./overrides/orvibo/1.1.2;
   };
+  os-scrapy = {
+    "0.0.8" = import ./overrides/os-scrapy/0.0.8;
+  };
+  os-scrapy-cookiecutter = {
+    "0.0.13" = import ./overrides/os-scrapy-cookiecutter/0.0.13;
+  };
   os-tools = {
     "4.56" = import ./overrides/os-tools/4.56;
   };
