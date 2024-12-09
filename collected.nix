@@ -4229,6 +4229,9 @@
   lac = {
     "2.1.2" = import ./overrides/lac/2.1.2;
   };
+  lambdasdk = {
+    "0.1.4" = import ./overrides/lambdasdk/0.1.4;
+  };
   landez = {
     "2.5.0" = import ./overrides/landez/2.5.0;
   };
