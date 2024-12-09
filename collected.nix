@@ -7511,6 +7511,9 @@
   python-yubico = {
     "1.3.3" = import ./overrides/python-yubico/1.3.3;
   };
+  python3-application = {
+    "2.8.0" = import ./overrides/python3-application/2.8.0;
+  };
   python3-indy = {
     "1.16.0.post286" = import ./overrides/python3-indy/1.16.0.post286;
   };
