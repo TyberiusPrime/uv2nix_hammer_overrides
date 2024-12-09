@@ -2628,6 +2628,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  expiringdict = {
+    "1.2.2" = import ./overrides/expiringdict/1.2.2;
+  };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
