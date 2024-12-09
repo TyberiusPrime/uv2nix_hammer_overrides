@@ -4443,6 +4443,9 @@
   linuxfd = {
     "1.5" = import ./overrides/linuxfd/1.5;
   };
+  linz-logger = {
+    "0.11.0" = import ./overrides/linz-logger/0.11.0;
+  };
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
