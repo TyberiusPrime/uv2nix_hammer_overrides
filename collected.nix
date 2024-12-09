@@ -7230,6 +7230,9 @@
   pytest-logging = {
     "2015.11.4" = import ./overrides/pytest-logging/2015.11.4;
   };
+  pytest-mock = {
+    "3.14.0" = import ./overrides/pytest-mock/3.14.0;
+  };
   pytest-mockito = {
     "0.0.4" = import ./overrides/pytest-mockito/0.0.4;
   };
