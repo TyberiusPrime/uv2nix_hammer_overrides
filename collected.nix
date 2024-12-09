@@ -653,6 +653,9 @@
   bch = {
     "1.2.1" = import ./overrides/bch/1.2.1;
   };
+  bd2k-python-lib = {
+    "1.14a1.dev48" = import ./overrides/bd2k-python-lib/1.14a1.dev48;
+  };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
@@ -989,6 +992,9 @@
   };
   cfxdb = {
     "23.12.1" = import ./overrides/cfxdb/23.12.1;
+  };
+  cgcloud-lib = {
+    "1.6.0" = import ./overrides/cgcloud-lib/1.6.0;
   };
   cgen = {
     "2020.1" = import ./overrides/cgen/2020.1;
