@@ -9094,6 +9094,9 @@
   timeout-decorator = {
     "0.5.0" = import ./overrides/timeout-decorator/0.5.0;
   };
+  times = {
+    "0.7" = import ./overrides/times/0.7;
+  };
   timestring = {
     "1.6.4" = import ./overrides/timestring/1.6.4;
   };
