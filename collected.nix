@@ -5543,6 +5543,9 @@
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
   };
+  openlineage-integration-common = {
+    "1.22.0" = import ./overrides/openlineage-integration-common/1.22.0;
+  };
   openmdao = {
     "3.34.2" = import ./overrides/openmdao/3.34.2;
   };
