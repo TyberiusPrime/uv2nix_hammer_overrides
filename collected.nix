@@ -7475,6 +7475,9 @@
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
+  python-tado = {
+    "0.17.6" = import ./overrides/python-tado/0.17.6;
+  };
   python-tds = {
     "1.15.0" = import ./overrides/python-tds/1.15.0;
   };
