@@ -187,6 +187,9 @@
   aliyun-python-sdk-core-v3 = {
     "2.13.33" = import ./overrides/aliyun-python-sdk-core-v3/2.13.33;
   };
+  aliyun-python-sdk-slb = {
+    "3.3.22" = import ./overrides/aliyun-python-sdk-slb/3.3.22;
+  };
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
   };
