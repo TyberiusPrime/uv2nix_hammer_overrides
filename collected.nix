@@ -1370,6 +1370,9 @@
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
   };
+  connect-markdown-renderer = {
+    "3.0.0" = import ./overrides/connect-markdown-renderer/3.0.0;
+  };
   connection-pool = {
     "0.0.3" = import ./overrides/connection-pool/0.0.3;
   };
