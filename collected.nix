@@ -8266,6 +8266,9 @@
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
+  securetar = {
+    "2024.2.1" = import ./overrides/securetar/2024.2.1;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
