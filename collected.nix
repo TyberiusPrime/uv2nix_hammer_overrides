@@ -117,6 +117,9 @@
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
+  aiohttp-xmlrpc = {
+    "1.5.0" = import ./overrides/aiohttp-xmlrpc/1.5.0;
+  };
   aiolivisi = {
     "0.0.19" = import ./overrides/aiolivisi/0.0.19;
   };
