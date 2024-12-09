@@ -3787,6 +3787,9 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  instancelib = {
+    "0.5.0" = import ./overrides/instancelib/0.5.0;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
