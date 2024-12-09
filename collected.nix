@@ -9723,6 +9723,9 @@
   visdom = {
     "0.2.4" = import ./overrides/visdom/0.2.4;
   };
+  visidata = {
+    "3.0.2" = import ./overrides/visidata/3.0.2;
+  };
   visitor = {
     "0.1.3" = import ./overrides/visitor/0.1.3;
   };
