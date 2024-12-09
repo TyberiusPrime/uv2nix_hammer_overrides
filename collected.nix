@@ -5471,6 +5471,9 @@
   olefile = {
     "0.47" = import ./overrides/olefile/0.47;
   };
+  omc = {
+    "0.2.5" = import ./overrides/omc/0.2.5;
+  };
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
