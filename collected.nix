@@ -4413,6 +4413,9 @@
   limix-plot = {
     "0.1.2" = import ./overrides/limix-plot/0.1.2;
   };
+  line-bot-sdk = {
+    "3.13.0" = import ./overrides/line-bot-sdk/3.13.0;
+  };
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
