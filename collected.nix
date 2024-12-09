@@ -8081,6 +8081,9 @@
   runipy = {
     "0.1.5" = import ./overrides/runipy/0.1.5;
   };
+  runstats = {
+    "2.0.0" = import ./overrides/runstats/2.0.0;
+  };
   rwproperty = {
     "1.0" = import ./overrides/rwproperty/1.0;
   };
