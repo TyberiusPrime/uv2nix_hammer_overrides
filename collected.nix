@@ -17,6 +17,9 @@
   abjad = {
     "3.19" = import ./overrides/abjad/3.19;
   };
+  access-points = {
+    "0.4.73" = import ./overrides/access-points/0.4.73;
+  };
   accessify = {
     "0.3.1" = import ./overrides/accessify/0.3.1;
   };
