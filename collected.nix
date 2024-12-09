@@ -17,6 +17,9 @@
   abjad = {
     "3.19" = import ./overrides/abjad/3.19;
   };
+  accept-types = {
+    "0.4.1" = import ./overrides/accept-types/0.4.1;
+  };
   accessify = {
     "0.3.1" = import ./overrides/accessify/0.3.1;
   };
