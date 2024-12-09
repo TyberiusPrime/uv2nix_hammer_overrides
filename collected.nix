@@ -5238,6 +5238,9 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  niworkflows = {
+    "1.11.0" = import ./overrides/niworkflows/1.11.0;
+  };
   nix-prefetch-github = {
     "7.1.0" = import ./overrides/nix-prefetch-github/7.1.0;
   };
