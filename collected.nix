@@ -719,6 +719,9 @@
   bioservices = {
     "1.11.2" = import ./overrides/bioservices/1.11.2;
   };
+  biosteam = {
+    "2.45.0" = import ./overrides/biosteam/2.45.0;
+  };
   biplist = {
     "1.0.3" = import ./overrides/biplist/1.0.3;
   };
@@ -5346,6 +5349,9 @@
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
     "0.60.0" = import ./overrides/numba/0.60.0;
+  };
+  numpoly = {
+    "1.3.4" = import ./overrides/numpoly/1.3.4;
   };
   numpy = {
     "1.20.3" = import ./overrides/numpy/1.20.3;
