@@ -3504,6 +3504,9 @@
   hpbandster = {
     "0.7.4" = import ./overrides/hpbandster/0.7.4;
   };
+  hpl-specs = {
+    "1.4.0" = import ./overrides/hpl-specs/1.4.0;
+  };
   hpp-fcl = {
     "2.4.4" = import ./overrides/hpp-fcl/2.4.4;
   };
