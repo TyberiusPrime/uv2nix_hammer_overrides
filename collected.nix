@@ -3116,6 +3116,9 @@
   genson = {
     "1.2.2" = import ./overrides/genson/1.2.2;
   };
+  gentools = {
+    "1.2.2" = import ./overrides/gentools/1.2.2;
+  };
   genzshcomp = {
     "0.6.0" = import ./overrides/genzshcomp/0.6.0;
   };
