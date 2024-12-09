@@ -8147,6 +8147,9 @@
   sarah = {
     "0.1.4" = import ./overrides/sarah/0.1.4;
   };
+  sarif-tools = {
+    "3.0.0" = import ./overrides/sarif-tools/3.0.0;
+  };
   sas7bdat = {
     "2.2.3" = import ./overrides/sas7bdat/2.2.3;
   };
