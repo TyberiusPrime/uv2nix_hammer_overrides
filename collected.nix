@@ -3931,6 +3931,9 @@
   jinja2-highlight = {
     "0.6.1" = import ./overrides/jinja2-highlight/0.6.1;
   };
+  jinja2-time = {
+    "0.2.0" = import ./overrides/jinja2-time/0.2.0;
+  };
   jinja2schema = {
     "0.1.4" = import ./overrides/jinja2schema/0.1.4;
   };
