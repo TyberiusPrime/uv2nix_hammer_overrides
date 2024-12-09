@@ -1403,6 +1403,9 @@
   conversionkit = {
     "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
+  conversionutil = {
+    "1.4.6" = import ./overrides/conversionutil/1.4.6;
+  };
   coqui-trainer = {
     "0.0.5" = import ./overrides/coqui-trainer/0.0.5;
   };
