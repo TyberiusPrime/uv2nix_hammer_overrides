@@ -4455,6 +4455,9 @@
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
+  llama-index-llms-ollama = {
+    "0.3.1" = import ./overrides/llama-index-llms-ollama/0.3.1;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
