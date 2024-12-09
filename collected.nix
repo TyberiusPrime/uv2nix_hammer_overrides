@@ -4643,6 +4643,9 @@
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
+  masky = {
+    "0.2.0" = import ./overrides/masky/0.2.0;
+  };
   masonite = {
     "4.20.0" = import ./overrides/masonite/4.20.0;
   };
