@@ -4066,6 +4066,9 @@
   julius = {
     "0.2.7" = import ./overrides/julius/0.2.7;
   };
+  jupyter = {
+    "1.1.1" = import ./overrides/jupyter/1.1.1;
+  };
   jupyter-contrib-core = {
     "0.4.2" = import ./overrides/jupyter-contrib-core/0.4.2;
   };
