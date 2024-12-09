@@ -1985,6 +1985,9 @@
   django-gm2m = {
     "1.2" = import ./overrides/django-gm2m/1.2;
   };
+  django-grappelli = {
+    "4.0.1" = import ./overrides/django-grappelli/4.0.1;
+  };
   django-haystack = {
     "3.3.0" = import ./overrides/django-haystack/3.3.0;
   };
