@@ -7586,6 +7586,9 @@
   pyupdate = {
     "1.4.0" = import ./overrides/pyupdate/1.4.0;
   };
+  pyuseragents = {
+    "1.0.5" = import ./overrides/pyuseragents/1.0.5;
+  };
   pyutil = {
     "3.3.6" = import ./overrides/pyutil/3.3.6;
   };
