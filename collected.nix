@@ -9693,6 +9693,9 @@
   vext = {
     "0.7.6" = import ./overrides/vext/0.7.6;
   };
+  vgis-utils = {
+    "1.4.3" = import ./overrides/vgis-utils/1.4.3;
+  };
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
