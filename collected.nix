@@ -6018,6 +6018,9 @@
   plumbing = {
     "2.11.2" = import ./overrides/plumbing/2.11.2;
   };
+  plumbum = {
+    "1.8.3" = import ./overrides/plumbum/1.8.3;
+  };
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
