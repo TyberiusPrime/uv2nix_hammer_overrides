@@ -1017,6 +1017,9 @@
   chameleon-zpt = {
     "1.1.3" = import ./overrides/chameleon-zpt/1.1.3;
   };
+  chaostoolkit-lib = {
+    "1.44.0" = import ./overrides/chaostoolkit-lib/1.44.0;
+  };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
