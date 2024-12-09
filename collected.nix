@@ -6608,6 +6608,9 @@
   pyexcel = {
     "0.4.5" = import ./overrides/pyexcel/0.4.5;
   };
+  pyexcel-ods = {
+    "0.6.0" = import ./overrides/pyexcel-ods/0.6.0;
+  };
   pyexcel-xlsx = {
     "0.3.0" = import ./overrides/pyexcel-xlsx/0.3.0;
   };
