@@ -2712,6 +2712,9 @@
   fcore = {
     "4.0.0" = import ./overrides/fcore/4.0.0;
   };
+  fcsparser = {
+    "0.2.8" = import ./overrides/fcsparser/0.2.8;
+  };
   fdint = {
     "2.0.2" = import ./overrides/fdint/2.0.2;
   };
