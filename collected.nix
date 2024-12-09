@@ -4214,6 +4214,9 @@
   krb5 = {
     "0.6.0" = import ./overrides/krb5/0.6.0;
   };
+  krfzf-py = {
+    "0.0.6" = import ./overrides/krfzf-py/0.0.6;
+  };
   kser = {
     "0.8.25" = import ./overrides/kser/0.8.25;
   };
