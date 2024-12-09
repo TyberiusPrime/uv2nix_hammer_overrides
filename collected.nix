@@ -240,6 +240,9 @@
   ansible-base = {
     "2.10.17" = import ./overrides/ansible-base/2.10.17;
   };
+  ansible-doctor = {
+    "6.0.2" = import ./overrides/ansible-doctor/6.0.2;
+  };
   ansiconv = {
     "1.0.0" = import ./overrides/ansiconv/1.0.0;
   };
