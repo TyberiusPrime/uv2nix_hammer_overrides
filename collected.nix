@@ -7125,6 +7125,9 @@
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
   };
+  pyshuttlis = {
+    "0.1.56" = import ./overrides/pyshuttlis/0.1.56;
+  };
   pyside2 = {
     "5.15.2.1" = import ./overrides/pyside2/5.15.2.1;
   };
