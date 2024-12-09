@@ -7781,6 +7781,9 @@
   ratelimit = {
     "2.2.1" = import ./overrides/ratelimit/2.2.1;
   };
+  ratelimiter = {
+    "1.2.0.post0" = import ./overrides/ratelimiter/1.2.0.post0;
+  };
   rattail = {
     "0.18.11" = import ./overrides/rattail/0.18.11;
   };
