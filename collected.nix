@@ -4682,6 +4682,9 @@
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
   };
+  megrok-chameleon = {
+    "0.5.2" = import ./overrides/megrok-chameleon/0.5.2;
+  };
   megrok-layout = {
     "1.3" = import ./overrides/megrok-layout/1.3;
   };
