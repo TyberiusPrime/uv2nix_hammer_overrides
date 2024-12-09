@@ -4223,6 +4223,9 @@
   kss-core = {
     "1.6.5" = import ./overrides/kss-core/1.6.5;
   };
+  kthread = {
+    "0.2.3" = import ./overrides/kthread/0.2.3;
+  };
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
   };
