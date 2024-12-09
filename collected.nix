@@ -5696,6 +5696,9 @@
   pandoc-attributes = {
     "0.1.7" = import ./overrides/pandoc-attributes/0.1.7;
   };
+  pandora = {
+    "1.6.1" = import ./overrides/pandora/1.6.1;
+  };
   pangocffi = {
     "0.13.0" = import ./overrides/pangocffi/0.13.0;
   };
