@@ -8132,6 +8132,9 @@
   sanetime = {
     "4.2.3" = import ./overrides/sanetime/4.2.3;
   };
+  saneyaml = {
+    "0.6.1" = import ./overrides/saneyaml/0.6.1;
+  };
   sanic-compress = {
     "0.1.1" = import ./overrides/sanic-compress/0.1.1;
   };
