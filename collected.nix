@@ -6381,6 +6381,9 @@
   pyarrow = {
     "11.0.0" = import ./overrides/pyarrow/11.0.0;
   };
+  pyarrow-hotfix = {
+    "0.6" = import ./overrides/pyarrow-hotfix/0.6;
+  };
   pyasn = {
     "1.6.2" = import ./overrides/pyasn/1.6.2;
   };
