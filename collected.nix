@@ -2544,6 +2544,9 @@
   epc = {
     "0.0.5" = import ./overrides/epc/0.0.5;
   };
+  ephemeral-port-reserve = {
+    "1.1.4" = import ./overrides/ephemeral-port-reserve/1.1.4;
+  };
   epion = {
     "0.0.3" = import ./overrides/epion/0.0.3;
   };
