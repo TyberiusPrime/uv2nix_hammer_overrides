@@ -1686,6 +1686,9 @@
   datadbs = {
     "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
+  datapane = {
+    "0.17.0" = import ./overrides/datapane/0.17.0;
+  };
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
