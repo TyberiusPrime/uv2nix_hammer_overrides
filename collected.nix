@@ -144,6 +144,9 @@
   aioxmpp = {
     "0.13.3" = import ./overrides/aioxmpp/0.13.3;
   };
+  aioymaps = {
+    "1.2.5" = import ./overrides/aioymaps/1.2.5;
+  };
   aiozeroconf = {
     "0.1.8" = import ./overrides/aiozeroconf/0.1.8;
   };
