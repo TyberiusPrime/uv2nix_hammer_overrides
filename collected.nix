@@ -5013,6 +5013,9 @@
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
+  mujson = {
+    "1.4" = import ./overrides/mujson/1.4;
+  };
   mullvad-closest = {
     "0.0.3" = import ./overrides/mullvad-closest/0.0.3;
   };
