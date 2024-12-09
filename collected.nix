@@ -8538,6 +8538,9 @@
   snakemake = {
     "7.32.4" = import ./overrides/snakemake/7.32.4;
   };
+  snap-helpers = {
+    "0.4.2" = import ./overrides/snap-helpers/0.4.2;
+  };
   snapcast = {
     "2.3.6" = import ./overrides/snapcast/2.3.6;
   };
