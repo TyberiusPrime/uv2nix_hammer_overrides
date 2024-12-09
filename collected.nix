@@ -1092,6 +1092,9 @@
   ckantoolkit = {
     "0.0.7" = import ./overrides/ckantoolkit/0.0.7;
   };
+  ckcc-protocol = {
+    "1.4.0" = import ./overrides/ckcc-protocol/1.4.0;
+  };
   ckms = {
     "0.65.0" = import ./overrides/ckms/0.65.0;
   };
