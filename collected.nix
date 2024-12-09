@@ -7282,6 +7282,9 @@
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
   };
+  python-coveralls = {
+    "2.9.3" = import ./overrides/python-coveralls/2.9.3;
+  };
   python-ctags3 = {
     "1.6.0" = import ./overrides/python-ctags3/1.6.0;
   };
