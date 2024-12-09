@@ -4661,6 +4661,9 @@
   matrix-api-async = {
     "0.1.0" = import ./overrides/matrix-api-async/0.1.0;
   };
+  matrix-client = {
+    "0.4.0" = import ./overrides/matrix-client/0.4.0;
+  };
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
