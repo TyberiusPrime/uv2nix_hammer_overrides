@@ -5471,6 +5471,9 @@
   olefile = {
     "0.47" = import ./overrides/olefile/0.47;
   };
+  ome-zarr = {
+    "0.9.0" = import ./overrides/ome-zarr/0.9.0;
+  };
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
