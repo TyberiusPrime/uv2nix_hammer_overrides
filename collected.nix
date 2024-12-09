@@ -6536,6 +6536,9 @@
   pycups = {
     "2.0.4" = import ./overrides/pycups/2.0.4;
   };
+  pydantic-openapi-helper = {
+    "0.2.11" = import ./overrides/pydantic-openapi-helper/0.2.11;
+  };
   pydaqmx = {
     "1.4.6" = import ./overrides/pydaqmx/1.4.6;
   };
