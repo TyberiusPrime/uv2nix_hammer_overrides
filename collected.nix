@@ -4202,6 +4202,9 @@
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
+  konnected = {
+    "1.2.0" = import ./overrides/konnected/1.2.0;
+  };
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
   };
