@@ -9347,6 +9347,9 @@
   turbogears2 = {
     "2.4.3" = import ./overrides/turbogears2/2.4.3;
   };
+  tuspy = {
+    "1.0.3" = import ./overrides/tuspy/1.0.3;
+  };
   tutor = {
     "18.1.3" = import ./overrides/tutor/18.1.3;
   };
