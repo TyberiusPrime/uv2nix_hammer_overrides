@@ -7242,6 +7242,9 @@
   pytest-remfiles = {
     "0.0.2" = import ./overrides/pytest-remfiles/0.0.2;
   };
+  pytest-retry = {
+    "1.6.3" = import ./overrides/pytest-retry/1.6.3;
+  };
   pytest-services = {
     "2.2.1" = import ./overrides/pytest-services/2.2.1;
   };
