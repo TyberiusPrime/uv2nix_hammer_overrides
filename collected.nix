@@ -1488,6 +1488,9 @@
   crc16 = {
     "0.1.1" = import ./overrides/crc16/0.1.1;
   };
+  crc32c = {
+    "2.7.post1" = import ./overrides/crc32c/2.7.post1;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
