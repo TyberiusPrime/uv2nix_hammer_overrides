@@ -2691,6 +2691,9 @@
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
+  fastjsonschema = {
+    "2.20.0" = import ./overrides/fastjsonschema/2.20.0;
+  };
   fastpbkdf2 = {
     "0.2" = import ./overrides/fastpbkdf2/0.2;
   };
