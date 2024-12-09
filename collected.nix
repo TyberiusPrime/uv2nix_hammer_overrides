@@ -5298,6 +5298,9 @@
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
+  nonebot-adapter-onebot = {
+    "2.4.4" = import ./overrides/nonebot-adapter-onebot/2.4.4;
+  };
   nonstdlib = {
     "1.12.0" = import ./overrides/nonstdlib/1.12.0;
   };
