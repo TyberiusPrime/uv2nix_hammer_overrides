@@ -10184,6 +10184,12 @@
   zope-fanstatic = {
     "3.0.0" = import ./overrides/zope-fanstatic/3.0.0;
   };
+  zope-rdb = {
+    "3.5.0" = import ./overrides/zope-rdb/3.5.0;
+  };
+  zope-thread = {
+    "3.4" = import ./overrides/zope-thread/3.4;
+  };
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
   };
