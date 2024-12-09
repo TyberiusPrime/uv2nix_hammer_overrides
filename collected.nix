@@ -5584,6 +5584,9 @@
   optproblems = {
     "1.3" = import ./overrides/optproblems/1.3;
   };
+  optree = {
+    "0.12.1" = import ./overrides/optree/0.12.1;
+  };
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };

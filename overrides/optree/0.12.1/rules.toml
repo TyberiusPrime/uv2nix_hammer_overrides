@@ -1,0 +1,2 @@
+BuildSystems = [ "pybind11", "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.cmake",]
