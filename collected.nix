@@ -5235,6 +5235,9 @@
   nilsimsa = {
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
   };
+  nilspodlib = {
+    "3.6.0" = import ./overrides/nilspodlib/3.6.0;
+  };
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
