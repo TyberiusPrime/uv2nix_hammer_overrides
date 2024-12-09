@@ -102,6 +102,9 @@
   aiohttp-apispec = {
     "2.2.3" = import ./overrides/aiohttp-apispec/2.2.3;
   };
+  aiohttp-basicauth = {
+    "1.0.0" = import ./overrides/aiohttp-basicauth/1.0.0;
+  };
   aiohttp-devtools = {
     "1.1.2" = import ./overrides/aiohttp-devtools/1.1.2;
   };
