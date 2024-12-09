@@ -7203,6 +7203,9 @@
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
+  pytconf = {
+    "0.1.14" = import ./overrides/pytconf/0.1.14;
+  };
   pytdx = {
     "1.72" = import ./overrides/pytdx/1.72;
   };
