@@ -7409,6 +7409,9 @@
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
+  python-mpd2 = {
+    "3.1.1" = import ./overrides/python-mpd2/3.1.1;
+  };
   python-multipart = {
     "0.0.5" = import ./overrides/python-multipart/0.0.5;
   };
