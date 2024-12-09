@@ -1,1 +1,1 @@
-BuildSystems = [ "wheel",]
+BuildSystems = [ "setuptools", "wheel",]
