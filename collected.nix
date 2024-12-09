@@ -7167,6 +7167,9 @@
   pyspf = {
     "2.0.14" = import ./overrides/pyspf/2.0.14;
   };
+  pyspotlight = {
+    "0.7.2" = import ./overrides/pyspotlight/0.7.2;
+  };
   pysptk = {
     "1.0.1" = import ./overrides/pysptk/1.0.1;
   };
