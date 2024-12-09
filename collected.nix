@@ -5970,6 +5970,9 @@
   plone-app-form = {
     "2.3.3" = import ./overrides/plone-app-form/2.3.3;
   };
+  plone-app-imagecropping = {
+    "3.0.3" = import ./overrides/plone-app-imagecropping/3.0.3;
+  };
   plone-app-jquery = {
     "1.11.2" = import ./overrides/plone-app-jquery/1.11.2;
   };
