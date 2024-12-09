@@ -2775,6 +2775,9 @@
   finviz = {
     "1.4.6" = import ./overrides/finviz/1.4.6;
   };
+  finvizfinance = {
+    "1.0.1" = import ./overrides/finvizfinance/1.0.1;
+  };
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
