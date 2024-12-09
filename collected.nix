@@ -7766,6 +7766,9 @@
   rainbow-logging-handler = {
     "2.2.2" = import ./overrides/rainbow-logging-handler/2.2.2;
   };
+  raincloudy = {
+    "1.2.0" = import ./overrides/raincloudy/1.2.0;
+  };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
   };
