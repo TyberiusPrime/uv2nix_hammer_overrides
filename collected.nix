@@ -8780,6 +8780,9 @@
   straight-plugin = {
     "1.5.0" = import ./overrides/straight-plugin/1.5.0;
   };
+  stransi = {
+    "0.3.0" = import ./overrides/stransi/0.3.0;
+  };
   strategies = {
     "0.2.3" = import ./overrides/strategies/0.2.3;
   };
