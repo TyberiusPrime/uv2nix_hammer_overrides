@@ -5510,6 +5510,9 @@
   opcua = {
     "0.98.13" = import ./overrides/opcua/0.98.13;
   };
+  open-garage = {
+    "0.2.0" = import ./overrides/open-garage/0.2.0;
+  };
   openai-clip = {
     "1.0.1" = import ./overrides/openai-clip/1.0.1;
   };
