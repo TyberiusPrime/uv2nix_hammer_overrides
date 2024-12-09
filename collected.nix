@@ -265,6 +265,9 @@
   antropy = {
     "0.1.6" = import ./overrides/antropy/0.1.6;
   };
+  anyascii = {
+    "0.3.2" = import ./overrides/anyascii/0.3.2;
+  };
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
