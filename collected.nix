@@ -8750,6 +8750,9 @@
   stheno = {
     "1.4.1" = import ./overrides/stheno/1.4.1;
   };
+  stickytape = {
+    "0.2.1" = import ./overrides/stickytape/0.2.1;
+  };
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
