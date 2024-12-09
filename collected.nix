@@ -86,6 +86,9 @@
   ago = {
     "0.0.95" = import ./overrides/ago/0.0.95;
   };
+  agutil = {
+    "5.0.1" = import ./overrides/agutil/5.0.1;
+  };
   aido-protocols-daffy = {
     "6.1.1" = import ./overrides/aido-protocols-daffy/6.1.1;
   };
