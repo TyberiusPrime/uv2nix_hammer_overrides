@@ -8189,6 +8189,9 @@
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
   };
+  schemainspect = {
+    "3.1.1663587362" = import ./overrides/schemainspect/3.1.1663587362;
+  };
   schiene = {
     "0.26" = import ./overrides/schiene/0.26;
   };
