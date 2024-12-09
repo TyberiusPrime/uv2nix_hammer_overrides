@@ -8287,6 +8287,9 @@
   serafin = {
     "0.12.2" = import ./overrides/serafin/0.12.2;
   };
+  serde = {
+    "0.9.0" = import ./overrides/serde/0.9.0;
+  };
   serial-device2 = {
     "2.0.2" = import ./overrides/serial-device2/2.0.2;
   };
