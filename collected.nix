@@ -8302,6 +8302,9 @@
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
+  set-loglevel = {
+    "0.1.2" = import ./overrides/set-loglevel/0.1.2;
+  };
   setuptools-lint = {
     "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
   };
