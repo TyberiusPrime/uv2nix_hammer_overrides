@@ -2935,6 +2935,9 @@
   flexsolve = {
     "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
+  flox-core = {
+    "0.2.0" = import ./overrides/flox-core/0.2.0;
+  };
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
