@@ -8930,6 +8930,9 @@
   tellduslive = {
     "0.10.12" = import ./overrides/tellduslive/0.10.12;
   };
+  telnetlib3 = {
+    "2.0.4" = import ./overrides/telnetlib3/2.0.4;
+  };
   temescal = {
     "0.5" = import ./overrides/temescal/0.5;
   };
