@@ -4413,6 +4413,9 @@
   limix-plot = {
     "0.1.2" = import ./overrides/limix-plot/0.1.2;
   };
+  linear-garage-door = {
+    "0.2.10" = import ./overrides/linear-garage-door/0.2.10;
+  };
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
   };
