@@ -6054,6 +6054,9 @@
   polygon3 = {
     "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
   };
+  polywrap-manifest = {
+    "0.1.2" = import ./overrides/polywrap-manifest/0.1.2;
+  };
   portpicker = {
     "1.3.1" = import ./overrides/portpicker/1.3.1;
   };
