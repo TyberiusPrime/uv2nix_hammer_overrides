@@ -3721,6 +3721,9 @@
   importlib2 = {
     "3.5.0.2" = import ./overrides/importlib2/3.5.0.2;
   };
+  impyla = {
+    "0.19.0" = import ./overrides/impyla/0.19.0;
+  };
   imread = {
     "0.7.6" = import ./overrides/imread/0.7.6;
   };
