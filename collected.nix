@@ -3310,6 +3310,9 @@
   graphenelib = {
     "1.6.1" = import ./overrides/graphenelib/1.6.1;
   };
+  graphio = {
+    "0.9.3" = import ./overrides/graphio/0.9.3;
+  };
   graphql-server-core = {
     "1.1.3" = import ./overrides/graphql-server-core/1.1.3;
     "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
