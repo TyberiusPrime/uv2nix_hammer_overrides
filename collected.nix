@@ -9998,6 +9998,9 @@
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
   };
+  xdg-base-dirs = {
+    "6.0.1" = import ./overrides/xdg-base-dirs/6.0.1;
+  };
   xdis = {
     "6.1.1" = import ./overrides/xdis/6.1.1;
   };
