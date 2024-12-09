@@ -9458,6 +9458,9 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  ucsmsdk = {
+    "0.9.19" = import ./overrides/ucsmsdk/0.9.19;
+  };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
   };
