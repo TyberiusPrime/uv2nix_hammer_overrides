@@ -542,6 +542,9 @@
   azure-cognitiveservices-speech = {
     "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
   };
+  azure-mgmt-hdinsight = {
+    "9.0.0" = import ./overrides/azure-mgmt-hdinsight/9.0.0;
+  };
   azureml-automl-core = {
     "1.57.0" = import ./overrides/azureml-automl-core/1.57.0;
   };
