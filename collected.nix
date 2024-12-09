@@ -8266,6 +8266,9 @@
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
+  seawater = {
+    "3.3.5" = import ./overrides/seawater/3.3.5;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
