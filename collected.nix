@@ -8242,6 +8242,9 @@
   scrapeasy = {
     "0.12" = import ./overrides/scrapeasy/0.12;
   };
+  scrapli = {
+    "2024.7.30" = import ./overrides/scrapli/2024.7.30;
+  };
   screed = {
     "1.1.3" = import ./overrides/screed/1.1.3;
   };
