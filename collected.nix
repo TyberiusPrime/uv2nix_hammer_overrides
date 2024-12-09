@@ -5241,6 +5241,9 @@
   nix-prefetch-github = {
     "7.1.0" = import ./overrides/nix-prefetch-github/7.1.0;
   };
+  nixio = {
+    "1.5.3" = import ./overrides/nixio/1.5.3;
+  };
   nlptoolkit-annotatedsentence = {
     "1.0.38" = import ./overrides/nlptoolkit-annotatedsentence/1.0.38;
   };
