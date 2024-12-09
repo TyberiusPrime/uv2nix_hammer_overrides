@@ -7454,6 +7454,9 @@
   python-qpid-proton = {
     "0.39.0" = import ./overrides/python-qpid-proton/0.39.0;
   };
+  python-resize-image = {
+    "1.1.20" = import ./overrides/python-resize-image/1.1.20;
+  };
   python-rtmidi = {
     "1.5.8" = import ./overrides/python-rtmidi/1.5.8;
   };
