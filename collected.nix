@@ -319,6 +319,9 @@
   aranet4 = {
     "2.4.0" = import ./overrides/aranet4/2.4.0;
   };
+  arboreto = {
+    "0.1.6" = import ./overrides/arboreto/0.1.6;
+  };
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
