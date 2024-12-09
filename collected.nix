@@ -9443,6 +9443,9 @@
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
+  typesystem = {
+    "0.4.1" = import ./overrides/typesystem/0.4.1;
+  };
   typing = {
     "3.5.2.2" = import ./overrides/typing/3.5.2.2;
   };
