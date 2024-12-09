@@ -2538,6 +2538,9 @@
   environmental-override = {
     "0.1.2" = import ./overrides/environmental-override/0.1.2;
   };
+  envisage = {
+    "7.0.3" = import ./overrides/envisage/7.0.3;
+  };
   envparse = {
     "0.2.0" = import ./overrides/envparse/0.2.0;
   };
