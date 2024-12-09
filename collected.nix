@@ -1199,6 +1199,9 @@
   cmeel-urdfdom = {
     "3.1.1.1" = import ./overrides/cmeel-urdfdom/3.1.1.1;
   };
+  cmem-plugin-base = {
+    "4.7.0" = import ./overrides/cmem-plugin-base/4.7.0;
+  };
   cmigemo = {
     "0.1.6" = import ./overrides/cmigemo/0.1.6;
   };
