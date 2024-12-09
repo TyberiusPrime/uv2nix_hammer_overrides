@@ -2640,6 +2640,9 @@
   f5-sdk = {
     "3.0.21" = import ./overrides/f5-sdk/3.0.21;
   };
+  f90nml = {
+    "1.4.4" = import ./overrides/f90nml/1.4.4;
+  };
   fabtools = {
     "0.20.0" = import ./overrides/fabtools/0.20.0;
   };
