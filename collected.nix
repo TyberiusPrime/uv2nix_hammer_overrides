@@ -5857,6 +5857,9 @@
   pgsanity = {
     "0.2.9" = import ./overrides/pgsanity/0.2.9;
   };
+  pgspecial = {
+    "2.1.2" = import ./overrides/pgspecial/2.1.2;
+  };
   pgsu = {
     "0.2.4" = import ./overrides/pgsu/0.2.4;
   };
