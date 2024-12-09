@@ -2466,6 +2466,9 @@
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
+  edgegrid-python = {
+    "1.3.1" = import ./overrides/edgegrid-python/1.3.1;
+  };
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
