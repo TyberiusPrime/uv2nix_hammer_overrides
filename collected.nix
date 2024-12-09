@@ -7961,6 +7961,9 @@
   ripozo = {
     "1.3.0" = import ./overrides/ripozo/1.3.0;
   };
+  riscv-config = {
+    "3.18.3" = import ./overrides/riscv-config/3.18.3;
+  };
   ritassist = {
     "0.9.3" = import ./overrides/ritassist/0.9.3;
   };
