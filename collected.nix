@@ -7078,6 +7078,9 @@
   pyroute2-core = {
     "0.6.13" = import ./overrides/pyroute2-core/0.6.13;
   };
+  pyrr = {
+    "0.10.3" = import ./overrides/pyrr/0.10.3;
+  };
   pyrsistent = {
     "0.17.4rc1" = import ./overrides/pyrsistent/0.17.4rc1;
   };
