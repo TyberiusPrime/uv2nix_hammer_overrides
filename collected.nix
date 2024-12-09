@@ -6955,6 +6955,9 @@
   pypattyrn = {
     "1.2" = import ./overrides/pypattyrn/1.2;
   };
+  pypdf = {
+    "4.3.1" = import ./overrides/pypdf/4.3.1;
+  };
   pypdf2 = {
     "1.26.0" = import ./overrides/pypdf2/1.26.0;
   };
