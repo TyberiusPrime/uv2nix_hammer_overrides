@@ -7871,6 +7871,9 @@
   reparser = {
     "1.4.3" = import ./overrides/reparser/1.4.3;
   };
+  reportlab = {
+    "4.2.2" = import ./overrides/reportlab/4.2.2;
+  };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
   };
