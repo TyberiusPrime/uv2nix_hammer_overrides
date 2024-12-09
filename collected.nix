@@ -3745,6 +3745,9 @@
   infrae-cache = {
     "1.0.1" = import ./overrides/infrae-cache/1.0.1;
   };
+  infrae-rest = {
+    "1.3" = import ./overrides/infrae-rest/1.3;
+  };
   infrae-wsgi = {
     "2.2.1" = import ./overrides/infrae-wsgi/2.2.1;
   };
@@ -10135,6 +10138,9 @@
   };
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
+  };
+  zeam-component = {
+    "1.0" = import ./overrides/zeam-component/1.0;
   };
   zeam-form-base = {
     "1.4.1" = import ./overrides/zeam-form-base/1.4.1;
