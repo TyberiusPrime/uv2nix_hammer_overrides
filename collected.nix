@@ -4739,6 +4739,9 @@
   meteo-downloader = {
     "1.0" = import ./overrides/meteo-downloader/1.0;
   };
+  meteoalertapi = {
+    "0.3.1" = import ./overrides/meteoalertapi/0.3.1;
+  };
   meteocalc = {
     "1.1.0" = import ./overrides/meteocalc/1.1.0;
   };
