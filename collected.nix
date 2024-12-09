@@ -3234,6 +3234,9 @@
   golgi = {
     "2.0.1" = import ./overrides/golgi/2.0.1;
   };
+  google-analytics-data = {
+    "0.18.11" = import ./overrides/google-analytics-data/0.18.11;
+  };
   google-api-python-client = {
     "1.7.11" = import ./overrides/google-api-python-client/1.7.11;
   };
