@@ -310,6 +310,9 @@
   applescript = {
     "2021.2.9" = import ./overrides/applescript/2021.2.9;
   };
+  appthreat-vulnerability-db = {
+    "6.0.14" = import ./overrides/appthreat-vulnerability-db/6.0.14;
+  };
   appy = {
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
