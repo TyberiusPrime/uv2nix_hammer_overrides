@@ -1916,6 +1916,9 @@
   django-cleavejs = {
     "0.1.1" = import ./overrides/django-cleavejs/0.1.1;
   };
+  django-cms = {
+    "4.1.2" = import ./overrides/django-cms/4.1.2;
+  };
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
   };
