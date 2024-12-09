@@ -1982,6 +1982,9 @@
   django-geostore = {
     "1.0.0" = import ./overrides/django-geostore/1.0.0;
   };
+  django-getenv = {
+    "1.3.2" = import ./overrides/django-getenv/1.3.2;
+  };
   django-gm2m = {
     "1.2" = import ./overrides/django-gm2m/1.2;
   };
