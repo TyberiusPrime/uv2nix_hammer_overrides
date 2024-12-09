@@ -1,1 +1,2 @@
+BuildSystems = [ "setuptools", "wheel",]
 ManualOverrides = "__file__:dpt-logging/1.1.2/default.nix"
