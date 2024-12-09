@@ -5905,6 +5905,9 @@
   pilasopencv = {
     "2.7" = import ./overrides/pilasopencv/2.7;
   };
+  pilkit = {
+    "3.0" = import ./overrides/pilkit/3.0;
+  };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
     "8.4.0" = import ./overrides/pillow/8.4.0;
