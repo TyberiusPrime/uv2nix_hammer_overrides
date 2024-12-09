@@ -5414,6 +5414,9 @@
   oandapyv20 = {
     "0.7.2" = import ./overrides/oandapyv20/0.7.2;
   };
+  oarepo-model-builder = {
+    "4.0.90" = import ./overrides/oarepo-model-builder/4.0.90;
+  };
   oauth = {
     "1.0.1" = import ./overrides/oauth/1.0.1;
   };
