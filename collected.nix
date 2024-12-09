@@ -5836,6 +5836,9 @@
   petname = {
     "2.6" = import ./overrides/petname/2.6;
   };
+  pettingzoo = {
+    "1.24.3" = import ./overrides/pettingzoo/1.24.3;
+  };
   pexif = {
     "0.15" = import ./overrides/pexif/0.15;
   };
