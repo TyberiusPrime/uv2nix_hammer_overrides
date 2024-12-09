@@ -8592,6 +8592,9 @@
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
+  spark-nlp = {
+    "5.4.2" = import ./overrides/spark-nlp/5.4.2;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
