@@ -1,0 +1,2 @@
+BuildSystems = [ "cffi", "setuptools",]
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config",]

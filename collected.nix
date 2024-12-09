@@ -8266,6 +8266,9 @@
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
+  secp256k1 = {
+    "0.14.0" = import ./overrides/secp256k1/0.14.0;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
