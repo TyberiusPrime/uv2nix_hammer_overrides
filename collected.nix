@@ -5328,6 +5328,9 @@
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
+  notifications-android-tv = {
+    "1.2.2" = import ./overrides/notifications-android-tv/1.2.2;
+  };
   notmuch2 = {
     "0.1" = import ./overrides/notmuch2/0.1;
   };
