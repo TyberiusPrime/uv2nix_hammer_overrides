@@ -5462,6 +5462,9 @@
   oidcservice = {
     "1.1.0" = import ./overrides/oidcservice/1.1.0;
   };
+  okonomiyaki = {
+    "2.0.0" = import ./overrides/okonomiyaki/2.0.0;
+  };
   oktopus = {
     "0.1.2" = import ./overrides/oktopus/0.1.2;
   };
