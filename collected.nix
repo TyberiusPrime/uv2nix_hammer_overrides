@@ -3198,6 +3198,9 @@
   giturlparse-py = {
     "0.0.5" = import ./overrides/giturlparse-py/0.0.5;
   };
+  glean-parser = {
+    "15.0.1" = import ./overrides/glean-parser/15.0.1;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
