@@ -10097,6 +10097,9 @@
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
+  youtube-search = {
+    "2.1.2" = import ./overrides/youtube-search/2.1.2;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
