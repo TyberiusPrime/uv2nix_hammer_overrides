@@ -1671,6 +1671,9 @@
   dash-daq = {
     "0.5.0" = import ./overrides/dash-daq/0.5.0;
   };
+  dash-iconify = {
+    "0.1.2" = import ./overrides/dash-iconify/0.1.2;
+  };
   dash-renderer = {
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
