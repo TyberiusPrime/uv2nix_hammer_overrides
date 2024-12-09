@@ -2120,6 +2120,9 @@
   django-rest-framework-mongoengine = {
     "3.4.1" = import ./overrides/django-rest-framework-mongoengine/3.4.1;
   };
+  django-rest-framework-social-oauth2 = {
+    "1.2.0" = import ./overrides/django-rest-framework-social-oauth2/1.2.0;
+  };
   django-rest-knox = {
     "5.0.1" = import ./overrides/django-rest-knox/5.0.1;
   };
