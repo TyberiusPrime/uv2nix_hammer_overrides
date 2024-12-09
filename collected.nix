@@ -3243,6 +3243,9 @@
   google-apputils = {
     "0.4.2" = import ./overrides/google-apputils/0.4.2;
   };
+  google-cloud-kms = {
+    "2.24.2" = import ./overrides/google-cloud-kms/2.24.2;
+  };
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
