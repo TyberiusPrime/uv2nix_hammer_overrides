@@ -3074,6 +3074,9 @@
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
+  garages-amsterdam = {
+    "4.1.0" = import ./overrides/garages-amsterdam/4.1.0;
+  };
   gatspy = {
     "0.3" = import ./overrides/gatspy/0.3;
   };
