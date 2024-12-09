@@ -7376,6 +7376,9 @@
   python-jsonrpc = {
     "0.10.0" = import ./overrides/python-jsonrpc/0.10.0;
   };
+  python-jsonrpc-server = {
+    "0.4.0" = import ./overrides/python-jsonrpc-server/0.4.0;
+  };
   python-keyczar = {
     "0.716" = import ./overrides/python-keyczar/0.716;
   };
