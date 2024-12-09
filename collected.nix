@@ -7967,6 +7967,9 @@
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
+  rmcl = {
+    "0.4.2" = import ./overrides/rmcl/0.4.2;
+  };
   rmtest = {
     "0.7.0" = import ./overrides/rmtest/0.7.0;
   };
