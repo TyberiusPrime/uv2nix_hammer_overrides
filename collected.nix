@@ -4347,6 +4347,9 @@
   libregf-python = {
     "20240421" = import ./overrides/libregf-python/20240421;
   };
+  librosa = {
+    "0.10.2.post1" = import ./overrides/librosa/0.10.2.post1;
+  };
   librouteros = {
     "3.2.1" = import ./overrides/librouteros/3.2.1;
   };
