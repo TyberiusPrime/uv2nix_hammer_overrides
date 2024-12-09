@@ -10082,6 +10082,9 @@
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
   };
+  yeelight = {
+    "0.7.14" = import ./overrides/yeelight/0.7.14;
+  };
   yoctopuce = {
     "2.0.62554" = import ./overrides/yoctopuce/2.0.62554;
   };
