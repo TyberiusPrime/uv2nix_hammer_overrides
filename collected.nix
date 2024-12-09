@@ -972,6 +972,9 @@
   celery-redbeat = {
     "2.2.0" = import ./overrides/celery-redbeat/2.2.0;
   };
+  celery-types = {
+    "0.22.0" = import ./overrides/celery-types/0.22.0;
+  };
   cement = {
     "2.8.2" = import ./overrides/cement/2.8.2;
   };
