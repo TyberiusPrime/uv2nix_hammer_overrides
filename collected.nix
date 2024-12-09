@@ -1089,6 +1089,9 @@
   circum = {
     "0.0.6" = import ./overrides/circum/0.0.6;
   };
+  civis = {
+    "2.3.0" = import ./overrides/civis/2.3.0;
+  };
   ckantoolkit = {
     "0.0.7" = import ./overrides/ckantoolkit/0.0.7;
   };
