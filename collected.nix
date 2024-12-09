@@ -6051,6 +6051,9 @@
   polyglot = {
     "16.7.4" = import ./overrides/polyglot/16.7.4;
   };
+  polygon-api-client = {
+    "1.14.2" = import ./overrides/polygon-api-client/1.14.2;
+  };
   polygon3 = {
     "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
   };
