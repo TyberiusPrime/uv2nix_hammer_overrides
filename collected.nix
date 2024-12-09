@@ -644,6 +644,9 @@
   bayespy = {
     "0.6.2" = import ./overrides/bayespy/0.6.2;
   };
+  bcbio-gff = {
+    "0.7.1" = import ./overrides/bcbio-gff/0.7.1;
+  };
   bcf = {
     "1.9.0" = import ./overrides/bcf/1.9.0;
   };
