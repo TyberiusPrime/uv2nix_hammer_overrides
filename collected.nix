@@ -882,6 +882,9 @@
   bz2file = {
     "0.98" = import ./overrides/bz2file/0.98;
   };
+  c3d = {
+    "0.5.2" = import ./overrides/c3d/0.5.2;
+  };
   cachecontrol = {
     "0.12.3" = import ./overrides/cachecontrol/0.12.3;
   };
