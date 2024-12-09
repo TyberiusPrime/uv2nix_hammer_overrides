@@ -7604,6 +7604,9 @@
   pyvg = {
     "1.1.3" = import ./overrides/pyvg/1.1.3;
   };
+  pyvi = {
+    "0.1.1" = import ./overrides/pyvi/0.1.1;
+  };
   pyvimeo = {
     "1.1.2" = import ./overrides/pyvimeo/1.1.2;
   };
