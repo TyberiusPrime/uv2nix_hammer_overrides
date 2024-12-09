@@ -1406,6 +1406,9 @@
   coqui-trainer = {
     "0.0.5" = import ./overrides/coqui-trainer/0.0.5;
   };
+  corallium = {
+    "2.0.1" = import ./overrides/corallium/2.0.1;
+  };
   core-explore-common-app = {
     "2.10.0" = import ./overrides/core-explore-common-app/2.10.0;
   };
