@@ -7039,6 +7039,9 @@
   pyramid-deform = {
     "0.2" = import ./overrides/pyramid-deform/0.2;
   };
+  pyramid-layout = {
+    "1.0" = import ./overrides/pyramid-layout/1.0;
+  };
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
   };
