@@ -1566,6 +1566,9 @@
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
+  cubicweb-addressbook = {
+    "2.0.2" = import ./overrides/cubicweb-addressbook/2.0.2;
+  };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
@@ -8050,6 +8053,9 @@
   };
   rq = {
     "1.0" = import ./overrides/rq/1.0;
+  };
+  rql = {
+    "0.43.2" = import ./overrides/rql/0.43.2;
   };
   rrcf = {
     "0.4.4" = import ./overrides/rrcf/0.4.4;
