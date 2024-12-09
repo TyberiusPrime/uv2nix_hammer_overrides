@@ -9341,6 +9341,9 @@
   ttkwidgets = {
     "0.13.0" = import ./overrides/ttkwidgets/0.13.0;
   };
+  ttls = {
+    "1.8.3" = import ./overrides/ttls/1.8.3;
+  };
   tubeup = {
     "2023.9.19" = import ./overrides/tubeup/2023.9.19;
   };
