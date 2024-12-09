@@ -5711,6 +5711,9 @@
   papis-python-rofi = {
     "1.0.3" = import ./overrides/papis-python-rofi/1.0.3;
   };
+  para = {
+    "0.0.8" = import ./overrides/para/0.0.8;
+  };
   parametrizer = {
     "0.0.3" = import ./overrides/parametrizer/0.0.3;
   };
