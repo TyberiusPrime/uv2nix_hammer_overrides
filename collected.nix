@@ -1892,6 +1892,9 @@
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
+  django-bootstrap-breadcrumbs = {
+    "0.9.2" = import ./overrides/django-bootstrap-breadcrumbs/0.9.2;
+  };
   django-bootstrap-form = {
     "3.4" = import ./overrides/django-bootstrap-form/3.4;
   };
