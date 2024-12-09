@@ -5563,6 +5563,9 @@
     "1.3.0" = import ./overrides/opentracing/1.3.0;
     "2.4.0" = import ./overrides/opentracing/2.4.0;
   };
+  opentracing-instrumentation = {
+    "3.3.1" = import ./overrides/opentracing-instrumentation/3.3.1;
+  };
   opentypespec = {
     "1.9.1" = import ./overrides/opentypespec/1.9.1;
   };
