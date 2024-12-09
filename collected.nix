@@ -349,6 +349,9 @@
   argon2-cffi = {
     "16.3.0" = import ./overrides/argon2-cffi/16.3.0;
   };
+  argparse = {
+    "1.4.0" = import ./overrides/argparse/1.4.0;
+  };
   argparse-manpage = {
     "4.6" = import ./overrides/argparse-manpage/4.6;
   };
