@@ -1686,6 +1686,9 @@
   datadbs = {
     "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
+  datamart-profiler = {
+    "0.11" = import ./overrides/datamart-profiler/0.11;
+  };
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
