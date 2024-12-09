@@ -4820,6 +4820,9 @@
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
+  minizinc = {
+    "0.9.0" = import ./overrides/minizinc/0.9.0;
+  };
   mir-eval = {
     "0.7" = import ./overrides/mir-eval/0.7;
   };
