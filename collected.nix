@@ -4048,6 +4048,9 @@
   jsonrpc-websocket = {
     "3.1.5" = import ./overrides/jsonrpc-websocket/3.1.5;
   };
+  jsonrpclib-pelix = {
+    "0.4.3.3" = import ./overrides/jsonrpclib-pelix/0.4.3.3;
+  };
   jsonrpcserver = {
     "5.0.9" = import ./overrides/jsonrpcserver/5.0.9;
   };
