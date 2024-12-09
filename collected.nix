@@ -6132,6 +6132,9 @@
   proboscis = {
     "1.2.6.0" = import ./overrides/proboscis/1.2.6.0;
   };
+  procrastinate = {
+    "2.13.2" = import ./overrides/procrastinate/2.13.2;
+  };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
