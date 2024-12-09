@@ -2030,6 +2030,9 @@
   django-localeurl = {
     "2.0.2" = import ./overrides/django-localeurl/2.0.2;
   };
+  django-localflavor = {
+    "4.0" = import ./overrides/django-localflavor/4.0;
+  };
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
   };
