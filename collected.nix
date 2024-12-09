@@ -7808,6 +7808,9 @@
   recaptcha-client = {
     "1.0.6" = import ./overrides/recaptcha-client/1.0.6;
   };
+  recline = {
+    "2024.7.1" = import ./overrides/recline/2024.7.1;
+  };
   reconfigure = {
     "0.1.82" = import ./overrides/reconfigure/0.1.82;
   };
