@@ -7454,6 +7454,9 @@
   python-qpid-proton = {
     "0.39.0" = import ./overrides/python-qpid-proton/0.39.0;
   };
+  python-redmine = {
+    "2.5.0" = import ./overrides/python-redmine/2.5.0;
+  };
   python-rtmidi = {
     "1.5.8" = import ./overrides/python-rtmidi/1.5.8;
   };
