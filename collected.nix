@@ -4817,6 +4817,9 @@
   minikanren = {
     "1.0.3" = import ./overrides/minikanren/1.0.3;
   };
+  minilog = {
+    "2.3.1" = import ./overrides/minilog/2.3.1;
+  };
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
