@@ -978,6 +978,9 @@
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
+  certbot-dns-rfc2136 = {
+    "2.11.0" = import ./overrides/certbot-dns-rfc2136/2.11.0;
+  };
   cf-units = {
     "3.2.0" = import ./overrides/cf-units/3.2.0;
   };
