@@ -1791,6 +1791,9 @@
   dhooks = {
     "1.1.4" = import ./overrides/dhooks/1.1.4;
   };
+  dict-deep = {
+    "4.1.2" = import ./overrides/dict-deep/4.1.2;
+  };
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
