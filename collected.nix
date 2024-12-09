@@ -5411,6 +5411,9 @@
   nydus = {
     "0.11.0" = import ./overrides/nydus/0.11.0;
   };
+  oaklib = {
+    "0.6.16" = import ./overrides/oaklib/0.6.16;
+  };
   oandapyv20 = {
     "0.7.2" = import ./overrides/oandapyv20/0.7.2;
   };
