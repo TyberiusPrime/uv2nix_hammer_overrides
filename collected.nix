@@ -83,6 +83,9 @@
   agent-py = {
     "0.0.23" = import ./overrides/agent-py/0.0.23;
   };
+  aggdraw = {
+    "1.3.18.post0" = import ./overrides/aggdraw/1.3.18.post0;
+  };
   ago = {
     "0.0.95" = import ./overrides/ago/0.0.95;
   };
