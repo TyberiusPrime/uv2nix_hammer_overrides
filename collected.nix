@@ -3447,6 +3447,9 @@
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
+  hexbytes = {
+    "1.2.1" = import ./overrides/hexbytes/1.2.1;
+  };
   hexdump = {
     "3.3" = import ./overrides/hexdump/3.3;
   };
