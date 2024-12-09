@@ -5913,6 +5913,9 @@
   pillowfight = {
     "0.4" = import ./overrides/pillowfight/0.4;
   };
+  pilo = {
+    "0.6.2" = import ./overrides/pilo/0.6.2;
+  };
   pimpmyclass = {
     "0.4.3" = import ./overrides/pimpmyclass/0.4.3;
   };
