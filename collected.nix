@@ -56,6 +56,9 @@
   adb-shell = {
     "0.4.4" = import ./overrides/adb-shell/0.4.4;
   };
+  addict = {
+    "2.4.0" = import ./overrides/addict/2.4.0;
+  };
   addonfactory-splunk-conf-parser-lib = {
     "0.4.3" = import ./overrides/addonfactory-splunk-conf-parser-lib/0.4.3;
   };
