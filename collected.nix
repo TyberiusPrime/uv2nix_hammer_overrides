@@ -9723,6 +9723,9 @@
   visdom = {
     "0.2.4" = import ./overrides/visdom/0.2.4;
   };
+  visions = {
+    "0.7.6" = import ./overrides/visions/0.7.6;
+  };
   visitor = {
     "0.1.3" = import ./overrides/visitor/0.1.3;
   };
