@@ -3249,6 +3249,9 @@
   google-images-download = {
     "2.8.0" = import ./overrides/google-images-download/2.8.0;
   };
+  google-nest-sdm = {
+    "5.0.1" = import ./overrides/google-nest-sdm/5.0.1;
+  };
   google-search-results = {
     "2.4.2" = import ./overrides/google-search-results/2.4.2;
   };
