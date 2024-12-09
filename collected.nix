@@ -1089,6 +1089,9 @@
   circum = {
     "0.0.6" = import ./overrides/circum/0.0.6;
   };
+  ciscomobilityexpress = {
+    "1.0.2" = import ./overrides/ciscomobilityexpress/1.0.2;
+  };
   ckantoolkit = {
     "0.0.7" = import ./overrides/ckantoolkit/0.0.7;
   };
