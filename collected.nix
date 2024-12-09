@@ -9175,6 +9175,9 @@
   toolwrapper = {
     "2.1.0" = import ./overrides/toolwrapper/2.1.0;
   };
+  topp-utils = {
+    "0.5.1" = import ./overrides/topp-utils/0.5.1;
+  };
   torch = {
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
