@@ -2992,6 +2992,9 @@
   frozenlist = {
     "1.3.1" = import ./overrides/frozenlist/1.3.1;
   };
+  fs-s3fs = {
+    "1.1.1" = import ./overrides/fs-s3fs/1.1.1;
+  };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
