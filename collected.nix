@@ -8266,6 +8266,9 @@
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
+  seedir = {
+    "0.5.0" = import ./overrides/seedir/0.5.0;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
