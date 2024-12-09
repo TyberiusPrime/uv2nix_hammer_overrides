@@ -9371,6 +9371,9 @@
   twint = {
     "2.1.20" = import ./overrides/twint/2.1.20;
   };
+  twitchio = {
+    "2.10.0" = import ./overrides/twitchio/2.10.0;
+  };
   twitter-common-collections = {
     "0.3.11" = import ./overrides/twitter-common-collections/0.3.11;
   };
