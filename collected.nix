@@ -2207,6 +2207,9 @@
   django-treebeard = {
     "4.2.0" = import ./overrides/django-treebeard/4.2.0;
   };
+  django-types = {
+    "0.19.1" = import ./overrides/django-types/0.19.1;
+  };
   django-ultracache = {
     "2.2" = import ./overrides/django-ultracache/2.2;
   };
