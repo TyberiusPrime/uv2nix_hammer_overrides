@@ -3198,6 +3198,9 @@
   giturlparse-py = {
     "0.0.5" = import ./overrides/giturlparse-py/0.0.5;
   };
+  glean-sdk = {
+    "61.0.0" = import ./overrides/glean-sdk/61.0.0;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
