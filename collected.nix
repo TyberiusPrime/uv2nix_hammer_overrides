@@ -4458,6 +4458,9 @@
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
+  llm = {
+    "0.15" = import ./overrides/llm/0.15;
+  };
   llvmlite = {
     "0.36.0" = import ./overrides/llvmlite/0.36.0;
     "0.41.1" = import ./overrides/llvmlite/0.41.1;
