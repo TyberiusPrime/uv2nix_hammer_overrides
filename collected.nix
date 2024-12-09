@@ -8897,6 +8897,9 @@
   tarjan = {
     "0.2.4" = import ./overrides/tarjan/0.2.4;
   };
+  taskipy = {
+    "1.13.0" = import ./overrides/taskipy/1.13.0;
+  };
   tasklib = {
     "2.5.1" = import ./overrides/tasklib/2.5.1;
   };
