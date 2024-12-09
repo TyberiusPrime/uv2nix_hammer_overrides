@@ -8774,6 +8774,9 @@
   stormssh = {
     "0.7.0" = import ./overrides/stormssh/0.7.0;
   };
+  stqdm = {
+    "0.0.5" = import ./overrides/stqdm/0.0.5;
+  };
   str2bool = {
     "1.1" = import ./overrides/str2bool/1.1;
   };
