@@ -927,6 +927,9 @@
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
+  case-converter = {
+    "1.1.0" = import ./overrides/case-converter/1.1.0;
+  };
   cashaddress = {
     "1.0.6" = import ./overrides/cashaddress/1.0.6;
   };
