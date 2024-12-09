@@ -1319,6 +1319,9 @@
   cometblue-lite = {
     "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
   };
+  command-runner = {
+    "1.6.0" = import ./overrides/command-runner/1.6.0;
+  };
   commandlib = {
     "0.3.5" = import ./overrides/commandlib/0.3.5;
   };
