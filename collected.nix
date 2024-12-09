@@ -8102,6 +8102,9 @@
   sacremoses = {
     "0.0.53" = import ./overrides/sacremoses/0.0.53;
   };
+  sadisplay = {
+    "0.4.9" = import ./overrides/sadisplay/0.4.9;
+  };
   safe-pysha3 = {
     "1.0.4" = import ./overrides/safe-pysha3/1.0.4;
   };
