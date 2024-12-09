@@ -2842,6 +2842,9 @@
   flask-csrf = {
     "0.9.2" = import ./overrides/flask-csrf/0.9.2;
   };
+  flask-dramatiq = {
+    "0.6.0" = import ./overrides/flask-dramatiq/0.6.0;
+  };
   flask-expects-json = {
     "1.7.0" = import ./overrides/flask-expects-json/1.7.0;
   };
