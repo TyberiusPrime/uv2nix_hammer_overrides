@@ -6213,6 +6213,9 @@
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
+  psd-tools = {
+    "1.9.34" = import ./overrides/psd-tools/1.9.34;
+  };
   psqlparse = {
     "1.0rc7" = import ./overrides/psqlparse/1.0rc7;
   };
