@@ -2706,6 +2706,9 @@
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
+  fcache = {
+    "0.5.2" = import ./overrides/fcache/0.5.2;
+  };
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
