@@ -3787,6 +3787,9 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  intake-esm = {
+    "2024.2.6" = import ./overrides/intake-esm/2024.2.6;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
