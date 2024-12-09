@@ -3143,6 +3143,9 @@
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
+  getfilenuitkapython = {
+    "0.11" = import ./overrides/getfilenuitkapython/0.11;
+  };
   getkey = {
     "0.6.5" = import ./overrides/getkey/0.6.5;
   };
