@@ -4102,6 +4102,9 @@
   kappa = {
     "0.7.0" = import ./overrides/kappa/0.7.0;
   };
+  kasa-crypt = {
+    "0.4.4" = import ./overrides/kasa-crypt/0.4.4;
+  };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
