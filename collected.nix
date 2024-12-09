@@ -4673,6 +4673,9 @@
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
+  mdurl = {
+    "0.1.2" = import ./overrides/mdurl/0.1.2;
+  };
   mdutils = {
     "1.6.0" = import ./overrides/mdutils/1.6.0;
   };
