@@ -5937,6 +5937,9 @@
   pip-services3-rpc = {
     "3.3.4" = import ./overrides/pip-services3-rpc/3.3.4;
   };
+  pipelinewise-singer-python = {
+    "2.0.1" = import ./overrides/pipelinewise-singer-python/2.0.1;
+  };
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
