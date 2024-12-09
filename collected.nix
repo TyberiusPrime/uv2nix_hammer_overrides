@@ -271,6 +271,9 @@
   aorta = {
     "2.20.0" = import ./overrides/aorta/2.20.0;
   };
+  apache-airflow-providers-common-sql = {
+    "1.16.0" = import ./overrides/apache-airflow-providers-common-sql/1.16.0;
+  };
   apache-airflow-providers-google = {
     "10.22.0" = import ./overrides/apache-airflow-providers-google/10.22.0;
   };
