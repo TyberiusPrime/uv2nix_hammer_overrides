@@ -4805,6 +4805,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  minecraft-launcher-lib = {
+    "6.5" = import ./overrides/minecraft-launcher-lib/6.5;
+  };
   minepy = {
     "1.2.6" = import ./overrides/minepy/1.2.6;
   };
