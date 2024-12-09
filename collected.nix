@@ -8858,6 +8858,9 @@
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
   };
+  swisshydrodata = {
+    "0.1.0" = import ./overrides/swisshydrodata/0.1.0;
+  };
   sxsxml = {
     "0.0.0.5" = import ./overrides/sxsxml/0.0.0.5;
   };
