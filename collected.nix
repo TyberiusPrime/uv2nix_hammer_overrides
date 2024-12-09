@@ -9428,6 +9428,9 @@
   txsuds-py3 = {
     "0.5.10" = import ./overrides/txsuds-py3/0.5.10;
   };
+  txtorcon = {
+    "24.8.0" = import ./overrides/txtorcon/24.8.0;
+  };
   txwebsocket = {
     "1.1.1" = import ./overrides/txwebsocket/1.1.1;
   };
