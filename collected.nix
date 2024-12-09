@@ -2162,6 +2162,9 @@
   django-standard-form = {
     "1.1.1" = import ./overrides/django-standard-form/1.1.1;
   };
+  django-static-jquery-ui = {
+    "1.13.3.1" = import ./overrides/django-static-jquery-ui/1.13.3.1;
+  };
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
