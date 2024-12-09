@@ -5120,6 +5120,9 @@
   nanotime = {
     "0.5.2" = import ./overrides/nanotime/0.5.2;
   };
+  napari-tools-menu = {
+    "0.1.19" = import ./overrides/napari-tools-menu/0.1.19;
+  };
   nats-py = {
     "2.9.0" = import ./overrides/nats-py/2.9.0;
   };
