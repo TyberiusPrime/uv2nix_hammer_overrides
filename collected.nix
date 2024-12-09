@@ -3146,6 +3146,9 @@
   getkey = {
     "0.6.5" = import ./overrides/getkey/0.6.5;
   };
+  getmac = {
+    "0.9.5" = import ./overrides/getmac/0.9.5;
+  };
   gexml = {
     "1.2.0" = import ./overrides/gexml/1.2.0;
   };
