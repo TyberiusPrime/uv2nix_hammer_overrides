@@ -5331,6 +5331,9 @@
   notmuch2 = {
     "0.1" = import ./overrides/notmuch2/0.1;
   };
+  npe2 = {
+    "0.7.7" = import ./overrides/npe2/0.7.7;
+  };
   npm = {
     "0.1.1" = import ./overrides/npm/0.1.1;
   };
