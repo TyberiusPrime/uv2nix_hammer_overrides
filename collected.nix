@@ -1238,6 +1238,9 @@
   coinmarketcap = {
     "5.0.3" = import ./overrides/coinmarketcap/5.0.3;
   };
+  colcon-library-path = {
+    "0.2.1" = import ./overrides/colcon-library-path/0.2.1;
+  };
   collection = {
     "0.1.6" = import ./overrides/collection/0.1.6;
   };
