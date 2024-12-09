@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  geos = {
+    "0.2.3" = import ./overrides/geos/0.2.3;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
