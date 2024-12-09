@@ -5559,6 +5559,9 @@
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
+  openshift = {
+    "0.11.0" = import ./overrides/openshift/0.11.0;
+  };
   opentracing = {
     "1.3.0" = import ./overrides/opentracing/1.3.0;
     "2.4.0" = import ./overrides/opentracing/2.4.0;
@@ -9046,6 +9049,9 @@
   };
   thespian = {
     "3.10.7" = import ./overrides/thespian/3.10.7;
+  };
+  thoth-analyzer = {
+    "0.1.8" = import ./overrides/thoth-analyzer/0.1.8;
   };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
