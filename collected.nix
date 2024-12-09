@@ -3411,6 +3411,9 @@
   hbmqtt = {
     "0.9.6" = import ./overrides/hbmqtt/0.9.6;
   };
+  hcloud = {
+    "2.2.1" = import ./overrides/hcloud/2.2.1;
+  };
   hdbscan = {
     "0.8.38.post1" = import ./overrides/hdbscan/0.8.38.post1;
   };
