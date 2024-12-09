@@ -1328,6 +1328,9 @@
   commentjson = {
     "0.9.0" = import ./overrides/commentjson/0.9.0;
   };
+  commitizen = {
+    "3.29.0" = import ./overrides/commitizen/3.29.0;
+  };
   commontools = {
     "0.1.0" = import ./overrides/commontools/0.1.0;
   };
