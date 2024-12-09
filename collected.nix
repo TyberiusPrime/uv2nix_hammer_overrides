@@ -10142,6 +10142,9 @@
   zeroc-ice = {
     "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
   };
+  zeroconf = {
+    "0.134.0" = import ./overrides/zeroconf/0.134.0;
+  };
   zerotk-zops = {
     "0.5.3" = import ./overrides/zerotk-zops/0.5.3;
   };
