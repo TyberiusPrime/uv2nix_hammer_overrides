@@ -9047,6 +9047,9 @@
   thespian = {
     "3.10.7" = import ./overrides/thespian/3.10.7;
   };
+  thread6 = {
+    "0.2.0" = import ./overrides/thread6/0.2.0;
+  };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
