@@ -2451,6 +2451,9 @@
   easywebdav = {
     "1.2.0" = import ./overrides/easywebdav/1.2.0;
   };
+  ebaysdk = {
+    "2.2.0" = import ./overrides/ebaysdk/2.2.0;
+  };
   ebooklib = {
     "0.18" = import ./overrides/ebooklib/0.18;
   };
