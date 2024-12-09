@@ -8664,6 +8664,9 @@
   sprox = {
     "0.11.2" = import ./overrides/sprox/0.11.2;
   };
+  spur = {
+    "0.3.23" = import ./overrides/spur/0.3.23;
+  };
   spyne = {
     "2.14.0" = import ./overrides/spyne/2.14.0;
   };
