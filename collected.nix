@@ -4757,6 +4757,9 @@
   mgzip = {
     "0.2.1" = import ./overrides/mgzip/0.2.1;
   };
+  mhcflurry = {
+    "2.1.2" = import ./overrides/mhcflurry/2.1.2;
+  };
   mhcnames = {
     "0.4.8" = import ./overrides/mhcnames/0.4.8;
   };
