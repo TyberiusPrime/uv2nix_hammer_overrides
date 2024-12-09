@@ -8429,6 +8429,9 @@
   simplekml = {
     "1.3.6" = import ./overrides/simplekml/1.3.6;
   };
+  simplelayout-types-common = {
+    "3.1.0" = import ./overrides/simplelayout-types-common/3.1.0;
+  };
   simplenote = {
     "2.1.4" = import ./overrides/simplenote/2.1.4;
   };
