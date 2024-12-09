@@ -3210,6 +3210,9 @@
   glpk = {
     "0.4.7" = import ./overrides/glpk/0.4.7;
   };
+  gltflib = {
+    "1.0.13" = import ./overrides/gltflib/1.0.13;
+  };
   gluonnlp = {
     "0.10.0" = import ./overrides/gluonnlp/0.10.0;
   };
