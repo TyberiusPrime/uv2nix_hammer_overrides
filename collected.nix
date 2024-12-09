@@ -8266,6 +8266,9 @@
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
+  segtok = {
+    "1.5.11" = import ./overrides/segtok/1.5.11;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
