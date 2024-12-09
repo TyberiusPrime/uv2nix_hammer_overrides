@@ -9060,6 +9060,9 @@
   thunder-python = {
     "1.4.2" = import ./overrides/thunder-python/1.4.2;
   };
+  tidalapi = {
+    "0.7.6" = import ./overrides/tidalapi/0.7.6;
+  };
   tiddlyweb = {
     "2.4.2" = import ./overrides/tiddlyweb/2.4.2;
     "2.4.3" = import ./overrides/tiddlyweb/2.4.3;
