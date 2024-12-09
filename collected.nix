@@ -3155,6 +3155,9 @@
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
+  giant-mixins = {
+    "0.3.8" = import ./overrides/giant-mixins/0.3.8;
+  };
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
