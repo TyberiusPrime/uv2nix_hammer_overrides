@@ -7270,6 +7270,9 @@
     "0.1" = import ./overrides/python-bitcoinrpc/0.1;
     "1.0" = import ./overrides/python-bitcoinrpc/1.0;
   };
+  python-box = {
+    "7.2.0" = import ./overrides/python-box/7.2.0;
+  };
   python-bugzilla = {
     "3.2.0" = import ./overrides/python-bugzilla/3.2.0;
   };
