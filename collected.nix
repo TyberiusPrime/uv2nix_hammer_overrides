@@ -10010,6 +10010,9 @@
   xformers = {
     "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
   };
+  xiaomi-ble = {
+    "0.32.0" = import ./overrides/xiaomi-ble/0.32.0;
+  };
   xinabox-core = {
     "0.0.11" = import ./overrides/xinabox-core/0.0.11;
   };
