@@ -7475,6 +7475,9 @@
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
+  python-stdnum = {
+    "1.20" = import ./overrides/python-stdnum/1.20;
+  };
   python-tds = {
     "1.15.0" = import ./overrides/python-tds/1.15.0;
   };
