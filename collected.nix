@@ -8257,6 +8257,9 @@
   scrypt = {
     "0.8.13" = import ./overrides/scrypt/0.8.13;
   };
+  sdds = {
+    "0.4.2" = import ./overrides/sdds/0.4.2;
+  };
   sdkmanager = {
     "0.6.8" = import ./overrides/sdkmanager/0.6.8;
   };
