@@ -4123,6 +4123,9 @@
   keplergl = {
     "0.3.2" = import ./overrides/keplergl/0.3.2;
   };
+  keras = {
+    "3.5.0" = import ./overrides/keras/3.5.0;
+  };
   keras-bert = {
     "0.89.0" = import ./overrides/keras-bert/0.89.0;
   };
