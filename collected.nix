@@ -6879,6 +6879,9 @@
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
+  pymodm = {
+    "0.4.3" = import ./overrides/pymodm/0.4.3;
+  };
   pymongo = {
     "3.5.1" = import ./overrides/pymongo/3.5.1;
   };
