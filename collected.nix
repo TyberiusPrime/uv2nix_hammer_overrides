@@ -7027,6 +7027,9 @@
   pyqt5-qt5 = {
     "5.15.15" = import ./overrides/pyqt5-qt5/5.15.15;
   };
+  pyqtdarktheme = {
+    "2.1.0" = import ./overrides/pyqtdarktheme/2.1.0;
+  };
   pyquerystring = {
     "1.1" = import ./overrides/pyquerystring/1.1;
   };
