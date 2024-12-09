@@ -6123,6 +6123,9 @@
   primesieve = {
     "2.3.3" = import ./overrides/primesieve/2.3.3;
   };
+  probableparsing = {
+    "0.0.1" = import ./overrides/probableparsing/0.0.1;
+  };
   probator = {
     "1.10.1" = import ./overrides/probator/1.10.1;
   };
