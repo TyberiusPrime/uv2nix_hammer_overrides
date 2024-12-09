@@ -7357,6 +7357,9 @@
   python-hostlist = {
     "1.23.0" = import ./overrides/python-hostlist/1.23.0;
   };
+  python-hosts = {
+    "1.0.7" = import ./overrides/python-hosts/1.0.7;
+  };
   python-instagram = {
     "1.3.2" = import ./overrides/python-instagram/1.3.2;
   };
