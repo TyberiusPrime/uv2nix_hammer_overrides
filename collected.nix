@@ -4928,6 +4928,9 @@
   morph = {
     "0.1.5" = import ./overrides/morph/0.1.5;
   };
+  mortgage = {
+    "1.0.5" = import ./overrides/mortgage/1.0.5;
+  };
   mosestokenizer = {
     "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
   };
