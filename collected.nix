@@ -5745,6 +5745,9 @@
   pbkdf2 = {
     "1.3" = import ./overrides/pbkdf2/1.3;
   };
+  pbr = {
+    "6.1.0" = import ./overrides/pbr/6.1.0;
+  };
   pbs3 = {
     "3.0.2" = import ./overrides/pbs3/3.0.2;
   };
