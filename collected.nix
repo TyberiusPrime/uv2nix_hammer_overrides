@@ -6487,6 +6487,9 @@
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
+  pycookiecheat = {
+    "0.7.0" = import ./overrides/pycookiecheat/0.7.0;
+  };
   pycopy-cpython-micropython = {
     "1.0" = import ./overrides/pycopy-cpython-micropython/1.0;
   };
