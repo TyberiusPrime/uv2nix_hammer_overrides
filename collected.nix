@@ -2225,6 +2225,9 @@
   djangoapidec = {
     "1.8" = import ./overrides/djangoapidec/1.8;
   };
+  djangocms-attributes-field = {
+    "3.0.0" = import ./overrides/djangocms-attributes-field/3.0.0;
+  };
   djangocodemirror = {
     "2.1.0" = import ./overrides/djangocodemirror/2.1.0;
   };
