@@ -6054,6 +6054,9 @@
   polygon3 = {
     "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
   };
+  polyswarm-api = {
+    "3.9.0" = import ./overrides/polyswarm-api/3.9.0;
+  };
   portpicker = {
     "1.3.1" = import ./overrides/portpicker/1.3.1;
   };
