@@ -861,6 +861,9 @@
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
+  buildbot-pkg = {
+    "4.0.2" = import ./overrides/buildbot-pkg/4.0.2;
+  };
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
   };
