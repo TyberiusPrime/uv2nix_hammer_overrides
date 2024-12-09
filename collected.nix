@@ -7544,6 +7544,9 @@
   pytmpdir = {
     "1.1.0" = import ./overrides/pytmpdir/1.1.0;
   };
+  pytorch-lightning-bolts = {
+    "0.3.2.post1" = import ./overrides/pytorch-lightning-bolts/0.3.2.post1;
+  };
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
