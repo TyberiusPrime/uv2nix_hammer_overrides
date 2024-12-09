@@ -1997,6 +1997,9 @@
   django-iban = {
     "0.3.1" = import ./overrides/django-iban/0.3.1;
   };
+  django-ical = {
+    "1.9.2" = import ./overrides/django-ical/1.9.2;
+  };
   django-iconify = {
     "0.3" = import ./overrides/django-iconify/0.3;
   };
