@@ -9781,6 +9781,9 @@
   voxcell = {
     "3.1.9" = import ./overrides/voxcell/3.1.9;
   };
+  vpype = {
+    "1.14.0" = import ./overrides/vpype/1.14.0;
+  };
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
   };
