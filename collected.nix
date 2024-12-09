@@ -2373,6 +2373,9 @@
   dpt-threading = {
     "2.0.2" = import ./overrides/dpt-threading/2.0.2;
   };
+  dragonfly-core = {
+    "1.51.17" = import ./overrides/dragonfly-core/1.51.17;
+  };
   drawille = {
     "0.1.0" = import ./overrides/drawille/0.1.0;
   };
