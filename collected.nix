@@ -4655,6 +4655,9 @@
   matplotlib = {
     "3.4.2" = import ./overrides/matplotlib/3.4.2;
   };
+  matplotlib-label-lines = {
+    "0.7.0" = import ./overrides/matplotlib-label-lines/0.7.0;
+  };
   matplotlib-venn = {
     "1.1.1" = import ./overrides/matplotlib-venn/1.1.1;
   };
