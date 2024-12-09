@@ -6897,6 +6897,9 @@
   pymupdf = {
     "1.24.10" = import ./overrides/pymupdf/1.24.10;
   };
+  pymysensors = {
+    "0.24.1" = import ./overrides/pymysensors/0.24.1;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
