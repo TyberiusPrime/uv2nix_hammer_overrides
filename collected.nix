@@ -9338,6 +9338,9 @@
   tsam = {
     "2.3.3" = import ./overrides/tsam/2.3.3;
   };
+  tsplib95 = {
+    "0.7.1" = import ./overrides/tsplib95/0.7.1;
+  };
   ttkwidgets = {
     "0.13.0" = import ./overrides/ttkwidgets/0.13.0;
   };
