@@ -834,6 +834,9 @@
   breezy = {
     "3.3.8" = import ./overrides/breezy/3.3.8;
   };
+  brewer2mpl = {
+    "1.4.1" = import ./overrides/brewer2mpl/1.4.1;
+  };
   brightway2 = {
     "2.4.6" = import ./overrides/brightway2/2.4.6;
   };
