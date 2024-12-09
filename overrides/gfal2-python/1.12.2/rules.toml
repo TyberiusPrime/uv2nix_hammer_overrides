@@ -1,3 +1,3 @@
 BuildSystems = [ "setuptools",]
-DowngradePython = "3.11"
+DowngradePython = "3.10"
 NativeBuildInputs = [ "~literal:!:(pkgs.boost.override {python = final.python; numpy=final.numpy; enablePython=true;})", "~literal:!:pkgs.cmake", "~literal:!:pkgs.gfal2", "~literal:!:pkgs.glib", "~literal:!:pkgs.pcre2", "~literal:!:pkgs.pkg-config",]
