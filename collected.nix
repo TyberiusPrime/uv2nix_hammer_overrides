@@ -3292,6 +3292,9 @@
   gputil = {
     "1.4.0" = import ./overrides/gputil/1.4.0;
   };
+  gpxpy = {
+    "1.6.2" = import ./overrides/gpxpy/1.6.2;
+  };
   gpyopt = {
     "1.2.6" = import ./overrides/gpyopt/1.2.6;
   };
