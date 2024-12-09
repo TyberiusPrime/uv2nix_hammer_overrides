@@ -9017,6 +9017,9 @@
   textnets = {
     "0.9.4" = import ./overrides/textnets/0.9.4;
   };
+  textsearch = {
+    "0.0.24" = import ./overrides/textsearch/0.0.24;
+  };
   tflearn = {
     "0.5.0" = import ./overrides/tflearn/0.5.0;
   };
