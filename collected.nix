@@ -9103,6 +9103,9 @@
   tinycss = {
     "0.4" = import ./overrides/tinycss/0.4;
   };
+  tinycss2 = {
+    "1.3.0" = import ./overrides/tinycss2/1.3.0;
+  };
   tinyec = {
     "0.4.0" = import ./overrides/tinyec/0.4.0;
   };
