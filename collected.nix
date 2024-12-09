@@ -5286,6 +5286,9 @@
   nmslib = {
     "2.1.1" = import ./overrides/nmslib/2.1.1;
   };
+  node-semver = {
+    "0.9.0" = import ./overrides/node-semver/0.9.0;
+  };
   nodejs = {
     "0.1.1" = import ./overrides/nodejs/0.1.1;
   };
