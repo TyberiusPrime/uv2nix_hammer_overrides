@@ -8236,6 +8236,9 @@
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
+  scprep = {
+    "1.2.3" = import ./overrides/scprep/1.2.3;
+  };
   scrap-engine = {
     "1.4.1" = import ./overrides/scrap-engine/1.4.1;
   };
