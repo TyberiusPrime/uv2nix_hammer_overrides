@@ -1867,6 +1867,9 @@
   django-admin-multiple-choice-list-filter = {
     "0.1.1" = import ./overrides/django-admin-multiple-choice-list-filter/0.1.1;
   };
+  django-admin-ordering = {
+    "0.18.2" = import ./overrides/django-admin-ordering/0.18.2;
+  };
   django-admin-sortable = {
     "2.3" = import ./overrides/django-admin-sortable/2.3;
   };
