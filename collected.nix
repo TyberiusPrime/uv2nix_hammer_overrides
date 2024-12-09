@@ -8278,6 +8278,9 @@
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
+  sentry-sdk = {
+    "2.14.0" = import ./overrides/sentry-sdk/2.14.0;
+  };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
   };
