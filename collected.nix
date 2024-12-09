@@ -1446,6 +1446,9 @@
   coverage = {
     "6.5.0" = import ./overrides/coverage/6.5.0;
   };
+  coverage-badge = {
+    "1.1.2" = import ./overrides/coverage-badge/1.1.2;
+  };
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
