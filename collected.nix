@@ -7736,6 +7736,9 @@
   querystring = {
     "0.1.0" = import ./overrides/querystring/0.1.0;
   };
+  quicktions = {
+    "1.18" = import ./overrides/quicktions/1.18;
+  };
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
   };
