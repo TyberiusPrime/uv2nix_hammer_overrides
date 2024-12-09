@@ -5480,6 +5480,9 @@
   omnijson = {
     "0.1.2" = import ./overrides/omnijson/0.1.2;
   };
+  onesignal-sdk = {
+    "2.0.0" = import ./overrides/onesignal-sdk/2.0.0;
+  };
   onetimepad = {
     "1.4" = import ./overrides/onetimepad/1.4;
   };
