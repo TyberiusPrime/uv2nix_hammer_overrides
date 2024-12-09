@@ -5175,6 +5175,9 @@
   nepalicalendar = {
     "0.4" = import ./overrides/nepalicalendar/0.4;
   };
+  neptune-client = {
+    "1.11.1" = import ./overrides/neptune-client/1.11.1;
+  };
   nes-py = {
     "8.2.1" = import ./overrides/nes-py/8.2.1;
   };
