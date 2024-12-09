@@ -10133,6 +10133,9 @@
   zcs = {
     "0.1.25" = import ./overrides/zcs/0.1.25;
   };
+  zdaemon = {
+    "5.1" = import ./overrides/zdaemon/5.1;
+  };
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
