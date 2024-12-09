@@ -7197,6 +7197,9 @@
   pytabix = {
     "0.1" = import ./overrides/pytabix/0.1;
   };
+  pytablereader = {
+    "0.31.4" = import ./overrides/pytablereader/0.31.4;
+  };
   pytado = {
     "1.0.3" = import ./overrides/pytado/1.0.3;
   };
