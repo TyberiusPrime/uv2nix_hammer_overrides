@@ -7042,6 +7042,9 @@
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
   };
+  pyramid-tm = {
+    "2.5" = import ./overrides/pyramid-tm/2.5;
+  };
   pyreact = {
     "0.6.0" = import ./overrides/pyreact/0.6.0;
   };
