@@ -7167,6 +7167,9 @@
   pyspf = {
     "2.0.14" = import ./overrides/pyspf/2.0.14;
   };
+  pyspinel = {
+    "1.0.3" = import ./overrides/pyspinel/1.0.3;
+  };
   pysptk = {
     "1.0.1" = import ./overrides/pysptk/1.0.1;
   };
