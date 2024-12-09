@@ -9606,6 +9606,9 @@
   ushlex = {
     "0.99.1" = import ./overrides/ushlex/0.99.1;
   };
+  uszipcode = {
+    "1.0.1" = import ./overrides/uszipcode/1.0.1;
+  };
   utc = {
     "0.0.3" = import ./overrides/utc/0.0.3;
   };
