@@ -4490,6 +4490,9 @@
   logbook = {
     "1.5.3" = import ./overrides/logbook/1.5.3;
   };
+  logdecorator = {
+    "2.4" = import ./overrides/logdecorator/2.4;
+  };
   logger = {
     "1.4" = import ./overrides/logger/1.4;
   };
