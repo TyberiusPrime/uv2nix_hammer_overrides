@@ -2538,6 +2538,9 @@
   environmental-override = {
     "0.1.2" = import ./overrides/environmental-override/0.1.2;
   };
+  environs = {
+    "11.0.0" = import ./overrides/environs/11.0.0;
+  };
   envparse = {
     "0.2.0" = import ./overrides/envparse/0.2.0;
   };
