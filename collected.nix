@@ -9856,6 +9856,9 @@
   websocket-client-py3 = {
     "0.15.0" = import ./overrides/websocket-client-py3/0.15.0;
   };
+  websocket-server = {
+    "0.6.4" = import ./overrides/websocket-server/0.6.4;
+  };
   websockets = {
     "10.4" = import ./overrides/websockets/10.4;
     "12.0" = import ./overrides/websockets/12.0;
