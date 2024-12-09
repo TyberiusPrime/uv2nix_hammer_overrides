@@ -9738,6 +9738,9 @@
   vkontakte = {
     "1.3.5" = import ./overrides/vkontakte/1.3.5;
   };
+  vlermv = {
+    "2.0.0" = import ./overrides/vlermv/2.0.0;
+  };
   vllm = {
     "0.6.0" = import ./overrides/vllm/0.6.0;
   };
