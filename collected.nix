@@ -8732,6 +8732,9 @@
   statistics = {
     "1.0.3.5" = import ./overrides/statistics/1.0.3.5;
   };
+  statsd = {
+    "4.0.1" = import ./overrides/statsd/4.0.1;
+  };
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
   };
