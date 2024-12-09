@@ -7691,6 +7691,9 @@
   qcloud-image = {
     "1.0.0" = import ./overrides/qcloud-image/1.0.0;
   };
+  qctrl-commons = {
+    "23.1.0" = import ./overrides/qctrl-commons/23.1.0;
+  };
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
   };
