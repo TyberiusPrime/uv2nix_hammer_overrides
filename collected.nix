@@ -9835,6 +9835,9 @@
   webcouturier-dropdownmenu = {
     "3.0.2" = import ./overrides/webcouturier-dropdownmenu/3.0.2;
   };
+  webdataset = {
+    "0.2.100" = import ./overrides/webdataset/0.2.100;
+  };
   webdavclient3 = {
     "3.14.6" = import ./overrides/webdavclient3/3.14.6;
   };
