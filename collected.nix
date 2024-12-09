@@ -5860,6 +5860,9 @@
   pgsu = {
     "0.2.4" = import ./overrides/pgsu/0.2.4;
   };
+  phonenumbers = {
+    "8.13.45" = import ./overrides/phonenumbers/8.13.45;
+  };
   phonetics = {
     "1.0.5" = import ./overrides/phonetics/1.0.5;
   };
