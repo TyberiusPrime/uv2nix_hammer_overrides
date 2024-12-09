@@ -6315,6 +6315,9 @@
   py-getch = {
     "1.0.1" = import ./overrides/py-getch/1.0.1;
   };
+  py-helper-mod = {
+    "0.0.55" = import ./overrides/py-helper-mod/0.0.55;
+  };
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
