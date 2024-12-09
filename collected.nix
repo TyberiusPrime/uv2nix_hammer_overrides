@@ -653,6 +653,9 @@
   bch = {
     "1.2.1" = import ./overrides/bch/1.2.1;
   };
+  bdbag = {
+    "1.7.3" = import ./overrides/bdbag/1.7.3;
+  };
   beaker = {
     "1.13.0" = import ./overrides/beaker/1.13.0;
   };
