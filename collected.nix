@@ -8003,6 +8003,9 @@
   roman = {
     "3.1" = import ./overrides/roman/3.1;
   };
+  rootpath = {
+    "0.1.1" = import ./overrides/rootpath/0.1.1;
+  };
   ropper = {
     "1.13.8" = import ./overrides/ropper/1.13.8;
   };
