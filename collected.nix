@@ -5702,6 +5702,9 @@
   pao = {
     "1.0.2" = import ./overrides/pao/1.0.2;
   };
+  papermill = {
+    "2.6.0" = import ./overrides/papermill/2.6.0;
+  };
   paperwork-backend = {
     "2.2.5" = import ./overrides/paperwork-backend/2.2.5;
   };
