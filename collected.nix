@@ -3701,6 +3701,7 @@
     "1.27" = import ./overrides/imio-history/1.27;
   };
   imio-migrator = {
+    "1.34" = import ./overrides/imio-migrator/1.34;
     "1.38" = import ./overrides/imio-migrator/1.38;
   };
   imio-prettylink = {
