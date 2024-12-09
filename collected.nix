@@ -7158,6 +7158,9 @@
   pysol-cards = {
     "0.16.0" = import ./overrides/pysol-cards/0.16.0;
   };
+  pysolcast = {
+    "2.0.6" = import ./overrides/pysolcast/2.0.6;
+  };
   pysolr = {
     "3.9.0" = import ./overrides/pysolr/3.9.0;
   };
