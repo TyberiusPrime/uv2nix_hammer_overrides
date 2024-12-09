@@ -304,6 +304,9 @@
   app = {
     "0.1.0" = import ./overrides/app/0.1.0;
   };
+  appdaemon = {
+    "4.4.2" = import ./overrides/appdaemon/4.4.2;
+  };
   appium-python-client = {
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
