@@ -10055,6 +10055,9 @@
   yahooweather = {
     "0.10" = import ./overrides/yahooweather/0.10;
   };
+  yamale = {
+    "5.2.1" = import ./overrides/yamale/5.2.1;
+  };
   yamlcfg = {
     "0.5.3" = import ./overrides/yamlcfg/0.5.3;
   };
