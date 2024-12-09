@@ -2628,6 +2628,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  extension-helpers = {
+    "1.1.1" = import ./overrides/extension-helpers/1.1.1;
+  };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
