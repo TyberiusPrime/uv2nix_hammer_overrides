@@ -3982,6 +3982,9 @@
   json-cfg-rw = {
     "0.6.0" = import ./overrides/json-cfg-rw/0.6.0;
   };
+  json-checker = {
+    "2.0.0" = import ./overrides/json-checker/2.0.0;
+  };
   json-database = {
     "0.7.0" = import ./overrides/json-database/0.7.0;
   };
