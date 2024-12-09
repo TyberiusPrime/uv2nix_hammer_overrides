@@ -4347,6 +4347,9 @@
   libregf-python = {
     "20240421" = import ./overrides/libregf-python/20240421;
   };
+  librelingo-types = {
+    "3.3.0" = import ./overrides/librelingo-types/3.3.0;
+  };
   librouteros = {
     "3.2.1" = import ./overrides/librouteros/3.2.1;
   };
