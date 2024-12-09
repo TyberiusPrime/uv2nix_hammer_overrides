@@ -3868,6 +3868,9 @@
   isospecpy = {
     "2.2.2" = import ./overrides/isospecpy/2.2.2;
   };
+  isosurfaces = {
+    "0.1.2" = import ./overrides/isosurfaces/0.1.2;
+  };
   isounidecode = {
     "0.3" = import ./overrides/isounidecode/0.3;
   };
