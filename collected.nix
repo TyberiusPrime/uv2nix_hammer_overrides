@@ -9784,6 +9784,9 @@
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
   };
+  vsts-cli-common = {
+    "0.1.4" = import ./overrides/vsts-cli-common/0.1.4;
+  };
   vsure = {
     "2.6.7" = import ./overrides/vsure/2.6.7;
   };
