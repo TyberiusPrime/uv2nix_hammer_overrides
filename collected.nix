@@ -1274,6 +1274,9 @@
   collective-geo-settings = {
     "4.0" = import ./overrides/collective-geo-settings/4.0;
   };
+  collective-geolocationbehavior = {
+    "1.7.2" = import ./overrides/collective-geolocationbehavior/1.7.2;
+  };
   collective-iconifieddocumentactions = {
     "1.3.2" = import ./overrides/collective-iconifieddocumentactions/1.3.2;
   };
