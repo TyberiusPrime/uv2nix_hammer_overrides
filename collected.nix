@@ -5420,6 +5420,9 @@
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
+  ob = {
+    "0.1.0" = import ./overrides/ob/0.1.0;
+  };
   obd = {
     "0.7.2" = import ./overrides/obd/0.7.2;
   };
