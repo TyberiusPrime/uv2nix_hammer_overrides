@@ -7688,6 +7688,9 @@
   pyzerproc = {
     "0.4.12" = import ./overrides/pyzerproc/0.4.12;
   };
+  qcengine = {
+    "0.30.0" = import ./overrides/qcengine/0.30.0;
+  };
   qcloud-image = {
     "1.0.0" = import ./overrides/qcloud-image/1.0.0;
   };
