@@ -6312,6 +6312,9 @@
   py-dateutil = {
     "2.2" = import ./overrides/py-dateutil/2.2;
   };
+  py-ecg-detectors = {
+    "1.3.5" = import ./overrides/py-ecg-detectors/1.3.5;
+  };
   py-getch = {
     "1.0.1" = import ./overrides/py-getch/1.0.1;
   };
