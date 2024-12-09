@@ -8718,6 +8718,7 @@
     "0.4.5" = import ./overrides/starlette-wtf/0.4.5;
   };
   starline = {
+    "0.1.5" = import ./overrides/starline/0.1.5;
     "0.2.0" = import ./overrides/starline/0.2.0;
   };
   stashy = {
