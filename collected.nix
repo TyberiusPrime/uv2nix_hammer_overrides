@@ -7562,6 +7562,9 @@
   pyttsx = {
     "1.1" = import ./overrides/pyttsx/1.1;
   };
+  pytube = {
+    "15.0.0" = import ./overrides/pytube/15.0.0;
+  };
   pyturbojpeg = {
     "1.7.6" = import ./overrides/pyturbojpeg/1.7.6;
   };
