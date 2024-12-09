@@ -701,6 +701,9 @@
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
+  bids-validator = {
+    "1.14.7.post0" = import ./overrides/bids-validator/1.14.7.post0;
+  };
   billiard = {
     "3.5.0.5" = import ./overrides/billiard/3.5.0.5;
   };
