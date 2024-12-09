@@ -440,6 +440,9 @@
   asyncio-contextmanager = {
     "1.0.1" = import ./overrides/asyncio-contextmanager/1.0.1;
   };
+  asyncio-dgram = {
+    "2.2.0" = import ./overrides/asyncio-dgram/2.2.0;
+  };
   asyncio-nats-client = {
     "0.11.5" = import ./overrides/asyncio-nats-client/0.11.5;
   };
