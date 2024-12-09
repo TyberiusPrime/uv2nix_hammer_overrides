@@ -9458,6 +9458,9 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  ubersmith = {
+    "0.4.0" = import ./overrides/ubersmith/0.4.0;
+  };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
   };
