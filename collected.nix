@@ -206,6 +206,9 @@
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
+  amundsen-rds = {
+    "0.0.8" = import ./overrides/amundsen-rds/0.0.8;
+  };
   amuse-framework = {
     "2024.6.0" = import ./overrides/amuse-framework/2024.6.0;
   };
