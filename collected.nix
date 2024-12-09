@@ -6339,6 +6339,9 @@
   py-vollib = {
     "1.0.1" = import ./overrides/py-vollib/1.0.1;
   };
+  py-youtube = {
+    "1.1.7" = import ./overrides/py-youtube/1.1.7;
+  };
   py2bit = {
     "0.3.0" = import ./overrides/py2bit/0.3.0;
   };
