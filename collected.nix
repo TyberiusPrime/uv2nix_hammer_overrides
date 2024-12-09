@@ -5187,6 +5187,9 @@
   nestle = {
     "0.2.0" = import ./overrides/nestle/0.2.0;
   };
+  netdata = {
+    "1.2.0" = import ./overrides/netdata/1.2.0;
+  };
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
