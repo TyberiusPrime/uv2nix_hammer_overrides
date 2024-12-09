@@ -2312,6 +2312,9 @@
   docopt = {
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
+  docopt-subcommands = {
+    "4.0.0" = import ./overrides/docopt-subcommands/4.0.0;
+  };
   docopts = {
     "0.6.1" = import ./overrides/docopts/0.6.1;
   };
