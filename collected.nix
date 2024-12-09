@@ -3429,6 +3429,9 @@
   healthcheck = {
     "1.3.3" = import ./overrides/healthcheck/1.3.3;
   };
+  hearthstone = {
+    "9.10.0" = import ./overrides/hearthstone/9.10.0;
+  };
   heatshrink2 = {
     "0.13.0" = import ./overrides/heatshrink2/0.13.0;
   };
