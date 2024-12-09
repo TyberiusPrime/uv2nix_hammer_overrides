@@ -1430,6 +1430,9 @@
   cos-python-sdk-v5 = {
     "1.9.31" = import ./overrides/cos-python-sdk-v5/1.9.31;
   };
+  cosmpy = {
+    "0.9.2" = import ./overrides/cosmpy/0.9.2;
+  };
   couleur = {
     "0.7.4" = import ./overrides/couleur/0.7.4;
   };
