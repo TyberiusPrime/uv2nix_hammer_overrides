@@ -452,6 +452,9 @@
   asyncpgsa = {
     "0.27.1" = import ./overrides/asyncpgsa/0.27.1;
   };
+  asyncsleepiq = {
+    "1.5.3" = import ./overrides/asyncsleepiq/1.5.3;
+  };
   atomic = {
     "0.7.3" = import ./overrides/atomic/0.7.3;
   };
