@@ -3682,6 +3682,9 @@
   imantics = {
     "0.1.12" = import ./overrides/imantics/0.1.12;
   };
+  imbalanced-learn = {
+    "0.12.3" = import ./overrides/imbalanced-learn/0.12.3;
+  };
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
