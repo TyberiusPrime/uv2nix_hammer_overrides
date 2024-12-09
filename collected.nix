@@ -927,6 +927,9 @@
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
+  case-insensitive-dictionary = {
+    "0.2.1" = import ./overrides/case-insensitive-dictionary/0.2.1;
+  };
   cashaddress = {
     "1.0.6" = import ./overrides/cashaddress/1.0.6;
   };
