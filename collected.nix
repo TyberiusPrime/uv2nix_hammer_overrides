@@ -1433,6 +1433,9 @@
   couleur = {
     "0.7.4" = import ./overrides/couleur/0.7.4;
   };
+  countrynames = {
+    "1.15.3" = import ./overrides/countrynames/1.15.3;
+  };
   cov-core = {
     "1.15.0" = import ./overrides/cov-core/1.15.0;
   };
