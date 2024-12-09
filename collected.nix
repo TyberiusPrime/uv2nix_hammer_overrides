@@ -92,6 +92,9 @@
   aiee = {
     "0.3.2" = import ./overrides/aiee/0.3.2;
   };
+  aio-georss-client = {
+    "0.13" = import ./overrides/aio-georss-client/0.13;
+  };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
