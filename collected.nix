@@ -2400,6 +2400,9 @@
   dtfabric = {
     "20230520" = import ./overrides/dtfabric/20230520;
   };
+  dtoolcore = {
+    "3.18.3" = import ./overrides/dtoolcore/3.18.3;
+  };
   dtw = {
     "1.4.0" = import ./overrides/dtw/1.4.0;
   };
