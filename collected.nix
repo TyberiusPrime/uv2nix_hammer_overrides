@@ -707,6 +707,9 @@
   binary2strings = {
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
+  bincopy = {
+    "20.0.0" = import ./overrides/bincopy/20.0.0;
+  };
   bintrees = {
     "2.2.0" = import ./overrides/bintrees/2.2.0;
   };
