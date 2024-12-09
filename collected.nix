@@ -8456,6 +8456,9 @@
   singleton3 = {
     "1.0" = import ./overrides/singleton3/1.0;
   };
+  siobrultech-protocols = {
+    "0.14.0" = import ./overrides/siobrultech-protocols/0.14.0;
+  };
   siphash = {
     "0.0.1" = import ./overrides/siphash/0.0.1;
   };
