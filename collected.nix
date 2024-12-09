@@ -147,6 +147,9 @@
   aiozeroconf = {
     "0.1.8" = import ./overrides/aiozeroconf/0.1.8;
   };
+  aiozipkin = {
+    "1.1.1" = import ./overrides/aiozipkin/1.1.1;
+  };
   aipy = {
     "3.0.6" = import ./overrides/aipy/3.0.6;
   };
