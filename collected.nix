@@ -1346,6 +1346,9 @@
   compressed-rtf = {
     "1.0.6" = import ./overrides/compressed-rtf/1.0.6;
   };
+  comtypes = {
+    "1.4.7" = import ./overrides/comtypes/1.4.7;
+  };
   conan = {
     "2.7.0" = import ./overrides/conan/2.7.0;
   };
