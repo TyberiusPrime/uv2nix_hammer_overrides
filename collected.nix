@@ -7282,6 +7282,9 @@
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
   };
+  python-creole = {
+    "1.4.10" = import ./overrides/python-creole/1.4.10;
+  };
   python-ctags3 = {
     "1.6.0" = import ./overrides/python-ctags3/1.6.0;
   };
