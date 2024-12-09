@@ -4847,6 +4847,9 @@
   mmcv-full = {
     "1.7.2" = import ./overrides/mmcv-full/1.7.2;
   };
+  mmh3 = {
+    "4.1.0" = import ./overrides/mmh3/4.1.0;
+  };
   mmhash3 = {
     "3.0.1" = import ./overrides/mmhash3/3.0.1;
   };
