@@ -488,6 +488,9 @@
   autodoc = {
     "0.5.0" = import ./overrides/autodoc/0.5.0;
   };
+  autoflake = {
+    "2.3.1" = import ./overrides/autoflake/2.3.1;
+  };
   autograd-gamma = {
     "0.5.0" = import ./overrides/autograd-gamma/0.5.0;
   };
