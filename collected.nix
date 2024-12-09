@@ -2688,6 +2688,9 @@
   fastecdsa = {
     "2.3.2" = import ./overrides/fastecdsa/2.3.2;
   };
+  fastembed = {
+    "0.3.6" = import ./overrides/fastembed/0.3.6;
+  };
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
