@@ -1017,6 +1017,9 @@
   chameleon-zpt = {
     "1.1.3" = import ./overrides/chameleon-zpt/1.1.3;
   };
+  character-encoding-utils = {
+    "0.0.8" = import ./overrides/character-encoding-utils/0.0.8;
+  };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
