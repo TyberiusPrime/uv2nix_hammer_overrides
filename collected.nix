@@ -6264,6 +6264,9 @@
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
+  puffotter = {
+    "0.17.2" = import ./overrides/puffotter/0.17.2;
+  };
   pupynere = {
     "1.0.15" = import ./overrides/pupynere/1.0.15;
   };
