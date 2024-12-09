@@ -2727,6 +2727,9 @@
   feedgen = {
     "1.0.0" = import ./overrides/feedgen/1.0.0;
   };
+  feedgenerator = {
+    "2.1.0" = import ./overrides/feedgenerator/2.1.0;
+  };
   feedinlib = {
     "0.0.12" = import ./overrides/feedinlib/0.0.12;
   };
