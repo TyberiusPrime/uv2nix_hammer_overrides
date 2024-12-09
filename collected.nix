@@ -9992,6 +9992,9 @@
   xapp = {
     "0.0.1" = import ./overrides/xapp/0.0.1;
   };
+  xbob-db-verification-filelist = {
+    "1.3.5" = import ./overrides/xbob-db-verification-filelist/1.3.5;
+  };
   xbob-db-verification-utils = {
     "1.0.1" = import ./overrides/xbob-db-verification-utils/1.0.1;
   };
