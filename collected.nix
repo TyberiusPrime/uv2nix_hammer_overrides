@@ -1659,6 +1659,9 @@
   daff = {
     "1.3.46" = import ./overrides/daff/1.3.46;
   };
+  dagit = {
+    "1.8.7" = import ./overrides/dagit/1.8.7;
+  };
   dark-matter = {
     "4.0.89" = import ./overrides/dark-matter/4.0.89;
   };
