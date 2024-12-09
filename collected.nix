@@ -1026,6 +1026,9 @@
   charmhelpers = {
     "1.2.1" = import ./overrides/charmhelpers/1.2.1;
   };
+  chat-downloader = {
+    "0.2.8" = import ./overrides/chat-downloader/0.2.8;
+  };
   chempy = {
     "0.9.0" = import ./overrides/chempy/0.9.0;
   };
