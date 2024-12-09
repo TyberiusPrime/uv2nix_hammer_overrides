@@ -4670,6 +4670,9 @@
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };
+  mcuuid = {
+    "1.1.0" = import ./overrides/mcuuid/1.1.0;
+  };
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
