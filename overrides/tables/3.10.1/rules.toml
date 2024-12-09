@@ -1,0 +1,2 @@
+BuildSystems = [ "blosc2", "cython", "numpy", "packaging", "py-cpuinfo", "setuptools", "typing-extensions", "wheel",]
+HD5DIR = true

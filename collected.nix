@@ -8883,6 +8883,7 @@
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
   tables = {
+    "3.10.1" = import ./overrides/tables/3.10.1;
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
   tailer = {
