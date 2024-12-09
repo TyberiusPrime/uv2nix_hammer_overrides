@@ -509,6 +509,9 @@
   av = {
     "13.0.0" = import ./overrides/av/13.0.0;
   };
+  avidtools = {
+    "0.1.2" = import ./overrides/avidtools/0.1.2;
+  };
   avro = {
     "1.11.3" = import ./overrides/avro/1.11.3;
   };
