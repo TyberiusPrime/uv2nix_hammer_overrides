@@ -286,6 +286,9 @@
   apcaccess = {
     "0.0.13" = import ./overrides/apcaccess/0.0.13;
   };
+  apeye = {
+    "1.4.1" = import ./overrides/apeye/1.4.1;
+  };
   api = {
     "0.0.7" = import ./overrides/api/0.0.7;
   };
