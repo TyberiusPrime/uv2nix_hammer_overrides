@@ -6671,6 +6671,9 @@
   pyftpdlib = {
     "2.0.0" = import ./overrides/pyftpdlib/2.0.0;
   };
+  pygal = {
+    "3.0.5" = import ./overrides/pygal/3.0.5;
+  };
   pygame = {
     "2.1.3" = import ./overrides/pygame/2.1.3;
   };
