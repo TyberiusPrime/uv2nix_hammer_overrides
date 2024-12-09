@@ -7574,6 +7574,9 @@
   pytz = {
     "2024.1" = import ./overrides/pytz/2024.1;
   };
+  pytz-deprecation-shim = {
+    "0.1.0.post0" = import ./overrides/pytz-deprecation-shim/0.1.0.post0;
+  };
   pyu2f = {
     "0.1.5" = import ./overrides/pyu2f/0.1.5;
   };
