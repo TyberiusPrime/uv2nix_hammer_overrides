@@ -2541,6 +2541,9 @@
   envparse = {
     "0.2.0" = import ./overrides/envparse/0.2.0;
   };
+  envx = {
+    "1.0.2" = import ./overrides/envx/1.0.2;
+  };
   epc = {
     "0.0.5" = import ./overrides/epc/0.0.5;
   };
