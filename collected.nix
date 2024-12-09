@@ -4455,6 +4455,9 @@
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
+  llama-index-readers-database = {
+    "0.2.0" = import ./overrides/llama-index-readers-database/0.2.0;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
