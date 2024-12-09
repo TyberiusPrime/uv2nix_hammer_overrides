@@ -4616,6 +4616,9 @@
   marionette-client = {
     "3.3.0" = import ./overrides/marionette-client/3.3.0;
   };
+  marionette-harness = {
+    "5.0.0" = import ./overrides/marionette-harness/5.0.0;
+  };
   marionette-transport = {
     "1.2.0" = import ./overrides/marionette-transport/1.2.0;
   };
