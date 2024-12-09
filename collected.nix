@@ -5501,6 +5501,9 @@
   onnxsim = {
     "0.4.36" = import ./overrides/onnxsim/0.4.36;
   };
+  ontospy = {
+    "2.1.1" = import ./overrides/ontospy/2.1.1;
+  };
   onvif-zeep = {
     "0.2.12" = import ./overrides/onvif-zeep/0.2.12;
   };
