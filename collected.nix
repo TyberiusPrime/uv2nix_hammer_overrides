@@ -4108,6 +4108,9 @@
   kedro = {
     "0.19.8" = import ./overrides/kedro/0.19.8;
   };
+  keen = {
+    "0.7.0" = import ./overrides/keen/0.7.0;
+  };
   keeper-secrets-manager-core = {
     "16.6.5" = import ./overrides/keeper-secrets-manager-core/16.6.5;
   };
