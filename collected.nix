@@ -2790,6 +2790,9 @@
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };
+  fixtures = {
+    "4.1.0" = import ./overrides/fixtures/4.1.0;
+  };
   flake8-blind-except = {
     "0.2.1" = import ./overrides/flake8-blind-except/0.2.1;
   };
