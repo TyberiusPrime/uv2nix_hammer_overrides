@@ -2550,6 +2550,9 @@
   episcanpy = {
     "0.4.0" = import ./overrides/episcanpy/0.4.0;
   };
+  epiweeks = {
+    "2.3.0" = import ./overrides/epiweeks/2.3.0;
+  };
   epydoc = {
     "3.0.1" = import ./overrides/epydoc/3.0.1;
   };
