@@ -4592,6 +4592,9 @@
   mailthon = {
     "0.1.1" = import ./overrides/mailthon/0.1.1;
   };
+  manage = {
+    "0.1.15" = import ./overrides/manage/0.1.15;
+  };
   manage-py = {
     "0.2.10" = import ./overrides/manage-py/0.2.10;
   };
