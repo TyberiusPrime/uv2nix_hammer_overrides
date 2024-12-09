@@ -9642,6 +9642,9 @@
   validr = {
     "1.2.2" = import ./overrides/validr/1.2.2;
   };
+  valley = {
+    "1.7" = import ./overrides/valley/1.7;
+  };
   vamp = {
     "1.1.0" = import ./overrides/vamp/1.1.0;
   };
