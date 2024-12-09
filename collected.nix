@@ -903,6 +903,9 @@
   calver = {
     "2022.06.26" = import ./overrides/calver/2022.06.26;
   };
+  camina = {
+    "0.1.16" = import ./overrides/camina/0.1.16;
+  };
   can = {
     "0.0.0" = import ./overrides/can/0.0.0;
   };
