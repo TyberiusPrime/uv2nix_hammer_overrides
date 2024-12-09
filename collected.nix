@@ -9796,6 +9796,9 @@
   wai-common = {
     "0.0.44" = import ./overrides/wai-common/0.0.44;
   };
+  waiting = {
+    "1.5.0" = import ./overrides/waiting/1.5.0;
+  };
   wallet-py3k = {
     "0.0.4" = import ./overrides/wallet-py3k/0.0.4;
   };
