@@ -141,6 +141,9 @@
   aiosocks = {
     "0.2.6" = import ./overrides/aiosocks/0.2.6;
   };
+  aiovodafone = {
+    "0.6.1" = import ./overrides/aiovodafone/0.6.1;
+  };
   aioxmpp = {
     "0.13.3" = import ./overrides/aioxmpp/0.13.3;
   };
