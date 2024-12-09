@@ -9958,6 +9958,9 @@
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
   };
+  ww = {
+    "0.2.1" = import ./overrides/ww/0.2.1;
+  };
   wwpdb-io = {
     "0.33.4" = import ./overrides/wwpdb-io/0.33.4;
   };
