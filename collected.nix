@@ -3019,6 +3019,9 @@
   ftw-upgrade = {
     "3.3.1" = import ./overrides/ftw-upgrade/3.3.1;
   };
+  fugue = {
+    "0.9.1" = import ./overrides/fugue/0.9.1;
+  };
   funbelts = {
     "0.1.86" = import ./overrides/funbelts/0.1.86;
   };
