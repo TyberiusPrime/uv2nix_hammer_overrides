@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  dissononce = {
+    "0.34.3" = import ./overrides/dissononce/0.34.3;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
