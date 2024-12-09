@@ -2658,6 +2658,9 @@
   factor-analyzer = {
     "0.5.1" = import ./overrides/factor-analyzer/0.5.1;
   };
+  fairlearn = {
+    "0.10.0" = import ./overrides/fairlearn/0.10.0;
+  };
   fairscale = {
     "0.4.13" = import ./overrides/fairscale/0.4.13;
   };
