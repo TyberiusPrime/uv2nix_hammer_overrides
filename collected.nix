@@ -10136,6 +10136,9 @@
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
+  zeam-component = {
+    "1.0" = import ./overrides/zeam-component/1.0;
+  };
   zeam-form-base = {
     "1.4.1" = import ./overrides/zeam-form-base/1.4.1;
   };
