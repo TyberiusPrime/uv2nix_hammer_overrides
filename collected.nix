@@ -10160,6 +10160,9 @@
   zlmdb = {
     "23.1.1" = import ./overrides/zlmdb/23.1.1;
   };
+  zm-py = {
+    "0.5.4" = import ./overrides/zm-py/0.5.4;
+  };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
   };
