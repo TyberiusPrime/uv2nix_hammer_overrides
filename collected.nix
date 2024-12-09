@@ -804,6 +804,9 @@
   bolt-python = {
     "0.7.1" = import ./overrides/bolt-python/0.7.1;
   };
+  bond-async = {
+    "0.2.1" = import ./overrides/bond-async/0.2.1;
+  };
   bonsai = {
     "1.5.3" = import ./overrides/bonsai/1.5.3;
   };
