@@ -1563,6 +1563,9 @@
   csv342 = {
     "1.0.1" = import ./overrides/csv342/1.0.1;
   };
+  ctapipe = {
+    "0.21.2" = import ./overrides/ctapipe/0.21.2;
+  };
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
