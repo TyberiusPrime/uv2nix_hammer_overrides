@@ -722,6 +722,12 @@
   biplist = {
     "1.0.3" = import ./overrides/biplist/1.0.3;
   };
+  birdhousebuilder-recipe-conda = {
+    "0.4.0" = import ./overrides/birdhousebuilder-recipe-conda/0.4.0;
+  };
+  birdhousebuilder-recipe-supervisor = {
+    "0.4.0" = import ./overrides/birdhousebuilder-recipe-supervisor/0.4.0;
+  };
   birdy = {
     "0.3.2" = import ./overrides/birdy/0.3.2;
   };
@@ -10123,6 +10129,9 @@
   };
   zc-recipe-deployment = {
     "1.3.0" = import ./overrides/zc-recipe-deployment/1.3.0;
+  };
+  zc-recipe-egg = {
+    "2.0.7" = import ./overrides/zc-recipe-egg/2.0.7;
   };
   zc-thread = {
     "1.0.0" = import ./overrides/zc-thread/1.0.0;
