@@ -2694,6 +2694,9 @@
   fastpbkdf2 = {
     "0.2" = import ./overrides/fastpbkdf2/0.2;
   };
+  fastrlock = {
+    "0.8.2" = import ./overrides/fastrlock/0.8.2;
+  };
   fastscript = {
     "0.0.0.1" = import ./overrides/fastscript/0.0.0.1;
   };
