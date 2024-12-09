@@ -4428,6 +4428,9 @@
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
+  linkify-it-py = {
+    "2.0.3" = import ./overrides/linkify-it-py/2.0.3;
+  };
   links-from-link-header = {
     "0.1.0" = import ./overrides/links-from-link-header/0.1.0;
   };
