@@ -3423,6 +3423,9 @@
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
+  hdwallets = {
+    "0.1.2" = import ./overrides/hdwallets/0.1.2;
+  };
   headless = {
     "1.12.4" = import ./overrides/headless/1.12.4;
   };
