@@ -828,6 +828,9 @@
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
+  bravia-tv = {
+    "1.0.11" = import ./overrides/bravia-tv/1.0.11;
+  };
   breadability = {
     "0.1.20" = import ./overrides/breadability/0.1.20;
   };
