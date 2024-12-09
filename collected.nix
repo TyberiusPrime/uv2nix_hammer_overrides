@@ -837,6 +837,9 @@
   brightway2 = {
     "2.4.6" = import ./overrides/brightway2/2.4.6;
   };
+  bring-api = {
+    "0.8.1" = import ./overrides/bring-api/0.8.1;
+  };
   brownie = {
     "0.5.1" = import ./overrides/brownie/0.5.1;
   };
