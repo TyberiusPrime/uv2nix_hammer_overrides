@@ -8939,6 +8939,9 @@
   temperusb = {
     "1.6.1" = import ./overrides/temperusb/1.6.1;
   };
+  tempora = {
+    "5.7.0" = import ./overrides/tempora/5.7.0;
+  };
   temporenc = {
     "0.1.0" = import ./overrides/temporenc/0.1.0;
   };
