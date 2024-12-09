@@ -47,6 +47,9 @@
   adafruit-nrfutil = {
     "0.5.3.post16" = import ./overrides/adafruit-nrfutil/0.5.3.post16;
   };
+  adal = {
+    "1.2.7" = import ./overrides/adal/1.2.7;
+  };
   adapt-parser = {
     "1.0.0" = import ./overrides/adapt-parser/1.0.0;
   };
