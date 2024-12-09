@@ -9696,6 +9696,9 @@
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
+  vidstab = {
+    "1.7.4" = import ./overrides/vidstab/1.7.4;
+  };
   vincent = {
     "0.4.4" = import ./overrides/vincent/0.4.4;
   };
