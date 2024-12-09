@@ -5569,6 +5569,9 @@
   openvino = {
     "2024.3.0" = import ./overrides/openvino/2024.3.0;
   };
+  openwisp-utils = {
+    "1.1" = import ./overrides/openwisp-utils/1.1;
+  };
   openwrt-ubus-rpc = {
     "0.0.3" = import ./overrides/openwrt-ubus-rpc/0.0.3;
   };
