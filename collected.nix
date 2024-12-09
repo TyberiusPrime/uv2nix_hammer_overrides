@@ -9570,6 +9570,9 @@
   uptime-kuma-api = {
     "1.2.1" = import ./overrides/uptime-kuma-api/1.2.1;
   };
+  uptime-kuma-monitor = {
+    "1.0.0" = import ./overrides/uptime-kuma-monitor/1.0.0;
+  };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
