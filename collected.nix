@@ -311,6 +311,7 @@
     "2021.2.9" = import ./overrides/applescript/2021.2.9;
   };
   appy = {
+    "1.0.17" = import ./overrides/appy/1.0.17;
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
   aqualogic = {
