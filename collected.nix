@@ -689,6 +689,9 @@
   betacode = {
     "1.0" = import ./overrides/betacode/1.0;
   };
+  betamax = {
+    "0.9.0" = import ./overrides/betamax/0.9.0;
+  };
   betamax-matchers = {
     "0.4.0" = import ./overrides/betamax-matchers/0.4.0;
   };
