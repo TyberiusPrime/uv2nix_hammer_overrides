@@ -1,0 +1,1 @@
+BuildSystems = [ "django", "setuptools", "wheel",]
