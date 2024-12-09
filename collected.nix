@@ -10067,6 +10067,9 @@
   yapsy = {
     "1.12.2" = import ./overrides/yapsy/1.12.2;
   };
+  yark = {
+    "1.2.10" = import ./overrides/yark/1.2.10;
+  };
   yarl = {
     "1.8.1" = import ./overrides/yarl/1.8.1;
   };
