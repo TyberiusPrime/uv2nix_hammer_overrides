@@ -2787,6 +2787,9 @@
   fitsio = {
     "1.2.4" = import ./overrides/fitsio/1.2.4;
   };
+  fixerio = {
+    "0.1.1" = import ./overrides/fixerio/0.1.1;
+  };
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };
