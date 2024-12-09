@@ -7514,6 +7514,9 @@
   python3-indy = {
     "1.16.0.post286" = import ./overrides/python3-indy/1.16.0.post286;
   };
+  python3-ldap = {
+    "0.9.8.4" = import ./overrides/python3-ldap/0.9.8.4;
+  };
   python3-memcached = {
     "1.51" = import ./overrides/python3-memcached/1.51;
   };
