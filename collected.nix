@@ -5516,6 +5516,9 @@
   openai-whisper = {
     "20231117" = import ./overrides/openai-whisper/20231117;
   };
+  openant = {
+    "1.3.2" = import ./overrides/openant/1.3.2;
+  };
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
