@@ -8640,6 +8640,9 @@
   sphinxcontrib-plantuml = {
     "0.30" = import ./overrides/sphinxcontrib-plantuml/0.30;
   };
+  sphinxcontrib-programoutput = {
+    "0.17" = import ./overrides/sphinxcontrib-programoutput/0.17;
+  };
   sphinxcontrib-tikz = {
     "0.4.20" = import ./overrides/sphinxcontrib-tikz/0.4.20;
   };
