@@ -2974,6 +2974,9 @@
   fred = {
     "3.1" = import ./overrides/fred/3.1;
   };
+  fredapi = {
+    "0.5.2" = import ./overrides/fredapi/0.5.2;
+  };
   free-proxy = {
     "1.1.2" = import ./overrides/free-proxy/1.1.2;
   };
