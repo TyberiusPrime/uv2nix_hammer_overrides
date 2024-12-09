@@ -8471,6 +8471,9 @@
   skimpygimpy = {
     "1.4" = import ./overrides/skimpygimpy/1.4;
   };
+  skorch = {
+    "1.0.0" = import ./overrides/skorch/1.0.0;
+  };
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
   };
