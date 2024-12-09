@@ -9284,6 +9284,9 @@
   traits = {
     "6.3.2" = import ./overrides/traits/6.3.2;
   };
+  trame-client = {
+    "3.2.5" = import ./overrides/trame-client/3.2.5;
+  };
   trans = {
     "2.1.0" = import ./overrides/trans/2.1.0;
   };
