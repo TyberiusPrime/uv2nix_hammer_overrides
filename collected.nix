@@ -1737,6 +1737,9 @@
   dedupe-levenshtein-search = {
     "1.4.5" = import ./overrides/dedupe-levenshtein-search/1.4.5;
   };
+  deepdiff = {
+    "8.0.1" = import ./overrides/deepdiff/8.0.1;
+  };
   deeplake = {
     "3.9.22" = import ./overrides/deeplake/3.9.22;
   };
