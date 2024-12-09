@@ -1044,6 +1044,9 @@
   cifar2png = {
     "0.0.4" = import ./overrides/cifar2png/0.0.4;
   };
+  cinemagoer = {
+    "2023.5.1" = import ./overrides/cinemagoer/2023.5.1;
+  };
   cinq-auditor-cloudtrail = {
     "2.1.0" = import ./overrides/cinq-auditor-cloudtrail/2.1.0;
   };
