@@ -2953,6 +2953,9 @@
   formbar = {
     "1.0rc20170131" = import ./overrides/formbar/1.0rc20170131;
   };
+  formulae = {
+    "0.5.4" = import ./overrides/formulae/0.5.4;
+  };
   fortnitepy = {
     "3.6.9" = import ./overrides/fortnitepy/3.6.9;
   };
