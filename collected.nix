@@ -9895,6 +9895,9 @@
   windpowerlib = {
     "0.0.4" = import ./overrides/windpowerlib/0.0.4;
   };
+  winregistry = {
+    "1.1.1" = import ./overrides/winregistry/1.1.1;
+  };
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
   };
