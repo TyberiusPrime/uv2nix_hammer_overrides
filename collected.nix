@@ -2766,6 +2766,9 @@
   filemagic = {
     "1.6" = import ./overrides/filemagic/1.6;
   };
+  filetype = {
+    "1.2.0" = import ./overrides/filetype/1.2.0;
+  };
   filterpy = {
     "1.4.5" = import ./overrides/filterpy/1.4.5;
   };
