@@ -3910,6 +3910,9 @@
   jenkins = {
     "1.0.2" = import ./overrides/jenkins/1.0.2;
   };
+  jenkinsapi = {
+    "0.3.13" = import ./overrides/jenkinsapi/0.3.13;
+  };
   jfs = {
     "0.1.3" = import ./overrides/jfs/0.1.3;
   };
