@@ -1328,6 +1328,9 @@
   commentjson = {
     "0.9.0" = import ./overrides/commentjson/0.9.0;
   };
+  commonroad-io = {
+    "2024.2" = import ./overrides/commonroad-io/2024.2;
+  };
   commontools = {
     "0.1.0" = import ./overrides/commontools/0.1.0;
   };
