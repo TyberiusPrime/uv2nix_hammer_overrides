@@ -5114,6 +5114,9 @@
   nanomath = {
     "1.4.0" = import ./overrides/nanomath/1.4.0;
   };
+  nanome = {
+    "0.42.0" = import ./overrides/nanome/0.42.0;
+  };
   nanomsg = {
     "1.0" = import ./overrides/nanomsg/1.0;
   };
