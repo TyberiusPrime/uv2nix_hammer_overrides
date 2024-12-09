@@ -1385,6 +1385,9 @@
   consoleprinter = {
     "95" = import ./overrides/consoleprinter/95;
   };
+  constantly = {
+    "23.10.4" = import ./overrides/constantly/23.10.4;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
