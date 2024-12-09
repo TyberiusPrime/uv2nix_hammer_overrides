@@ -4832,6 +4832,9 @@
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
+  mkdocs-include-markdown-plugin = {
+    "6.2.2" = import ./overrides/mkdocs-include-markdown-plugin/6.2.2;
+  };
   mkdocs-jupyter = {
     "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
   };
