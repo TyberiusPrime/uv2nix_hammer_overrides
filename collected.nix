@@ -3739,6 +3739,9 @@
   infinity = {
     "1.5" = import ./overrides/infinity/1.5;
   };
+  inflect = {
+    "7.4.0" = import ./overrides/inflect/7.4.0;
+  };
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
