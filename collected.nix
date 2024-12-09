@@ -7859,6 +7859,9 @@
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
+  remotezip = {
+    "0.12.3" = import ./overrides/remotezip/0.12.3;
+  };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
