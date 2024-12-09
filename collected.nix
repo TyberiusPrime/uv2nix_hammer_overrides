@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  jupyterhub-systemdspawner = {
+    "1.0.1" = import ./overrides/jupyterhub-systemdspawner/1.0.1;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
