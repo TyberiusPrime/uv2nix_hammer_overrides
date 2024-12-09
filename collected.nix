@@ -2322,6 +2322,9 @@
   docrep = {
     "0.3.2" = import ./overrides/docrep/0.3.2;
   };
+  docstr-coverage = {
+    "2.3.2" = import ./overrides/docstr-coverage/2.3.2;
+  };
   doctest-ignore-unicode = {
     "0.1.2" = import ./overrides/doctest-ignore-unicode/0.1.2;
   };
