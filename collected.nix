@@ -3441,6 +3441,9 @@
   helputils = {
     "1.4.38" = import ./overrides/helputils/1.4.38;
   };
+  here-transit = {
+    "1.2.1" = import ./overrides/here-transit/1.2.1;
+  };
   hetzner = {
     "0.8.3" = import ./overrides/hetzner/0.8.3;
   };
