@@ -5617,6 +5617,9 @@
   osm2geojson = {
     "0.2.5" = import ./overrides/osm2geojson/0.2.5;
   };
+  osmnx = {
+    "1.9.4" = import ./overrides/osmnx/1.9.4;
+  };
   oss2 = {
     "2.19.0" = import ./overrides/oss2/2.19.0;
   };
