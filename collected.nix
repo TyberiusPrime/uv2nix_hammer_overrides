@@ -8816,6 +8816,9 @@
   stripogram = {
     "1.5" = import ./overrides/stripogram/1.5;
   };
+  strsimpy = {
+    "0.2.1" = import ./overrides/strsimpy/0.2.1;
+  };
   stubserver = {
     "1.1" = import ./overrides/stubserver/1.1;
   };
