@@ -5812,6 +5812,9 @@
   pep362 = {
     "0.6.2" = import ./overrides/pep362/0.6.2;
   };
+  perceval = {
+    "1.0.6" = import ./overrides/perceval/1.0.6;
+  };
   percol = {
     "0.2.1" = import ./overrides/percol/0.2.1;
   };
