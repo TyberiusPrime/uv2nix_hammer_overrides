@@ -6505,6 +6505,9 @@
   pycot = {
     "2.5.0" = import ./overrides/pycot/2.5.0;
   };
+  pycotap = {
+    "1.3.1" = import ./overrides/pycotap/1.3.1;
+  };
   pycountry = {
     "1.20" = import ./overrides/pycountry/1.20;
   };
