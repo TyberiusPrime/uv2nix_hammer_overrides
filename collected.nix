@@ -153,6 +153,9 @@
   aircv = {
     "1.4.6" = import ./overrides/aircv/1.4.6;
   };
+  airtouch5py = {
+    "0.2.10" = import ./overrides/airtouch5py/0.2.10;
+  };
   aldryn-boilerplates = {
     "0.8.0" = import ./overrides/aldryn-boilerplates/0.8.0;
   };
