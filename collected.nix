@@ -4000,6 +4000,9 @@
   json2html = {
     "1.3.0" = import ./overrides/json2html/1.3.0;
   };
+  jsonasobj = {
+    "1.3.1" = import ./overrides/jsonasobj/1.3.1;
+  };
   jsondate = {
     "0.1.2" = import ./overrides/jsondate/0.1.2;
   };
