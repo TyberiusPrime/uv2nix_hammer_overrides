@@ -2442,6 +2442,9 @@
   easyplotly = {
     "0.1.3" = import ./overrides/easyplotly/0.1.3;
   };
+  easyterm = {
+    "1.0.1" = import ./overrides/easyterm/1.0.1;
+  };
   easyutils = {
     "0.1.7" = import ./overrides/easyutils/0.1.7;
   };
