@@ -2944,6 +2944,9 @@
   fogbugz = {
     "1.0.6" = import ./overrides/fogbugz/1.0.6;
   };
+  fontbakery = {
+    "0.12.10" = import ./overrides/fontbakery/0.12.10;
+  };
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
   };
