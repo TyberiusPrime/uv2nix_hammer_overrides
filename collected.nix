@@ -419,6 +419,9 @@
   astropy-helpers = {
     "4.0.1" = import ./overrides/astropy-helpers/4.0.1;
   };
+  astropy-iers-data = {
+    "0.2024.9.2.0.33.23" = import ./overrides/astropy-iers-data/0.2024.9.2.0.33.23;
+  };
   astutils = {
     "0.0.6" = import ./overrides/astutils/0.0.6;
   };
