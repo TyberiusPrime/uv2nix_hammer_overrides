@@ -7167,6 +7167,9 @@
   pyspf = {
     "2.0.14" = import ./overrides/pyspf/2.0.14;
   };
+  pyspiflash = {
+    "0.6.3" = import ./overrides/pyspiflash/0.6.3;
+  };
   pysptk = {
     "1.0.1" = import ./overrides/pysptk/1.0.1;
   };
