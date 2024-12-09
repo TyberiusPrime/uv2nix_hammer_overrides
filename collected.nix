@@ -3571,6 +3571,9 @@
   huey = {
     "2.5.1" = import ./overrides/huey/2.5.1;
   };
+  human-readable = {
+    "1.3.4" = import ./overrides/human-readable/1.3.4;
+  };
   humanize = {
     "0.5.1" = import ./overrides/humanize/0.5.1;
   };
