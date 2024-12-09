@@ -9317,6 +9317,9 @@
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
+  trimesh = {
+    "4.4.9" = import ./overrides/trimesh/4.4.9;
+  };
   trollsift = {
     "0.5.1" = import ./overrides/trollsift/0.5.1;
   };
