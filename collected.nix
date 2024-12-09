@@ -3706,6 +3706,9 @@
   imio-prettylink = {
     "1.22" = import ./overrides/imio-prettylink/1.22;
   };
+  imio-pyutils = {
+    "1.0.4" = import ./overrides/imio-pyutils/1.0.4;
+  };
   imm-source = {
     "1.0.30" = import ./overrides/imm-source/1.0.30;
   };
