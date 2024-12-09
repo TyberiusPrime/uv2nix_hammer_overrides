@@ -2977,6 +2977,9 @@
   free-proxy = {
     "1.1.2" = import ./overrides/free-proxy/1.1.2;
   };
+  freebox-api = {
+    "1.1.0" = import ./overrides/freebox-api/1.1.0;
+  };
   freesasa = {
     "2.2.1" = import ./overrides/freesasa/2.2.1;
   };
