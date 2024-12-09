@@ -5010,6 +5010,9 @@
   msgpack-rpc-python = {
     "0.4.1" = import ./overrides/msgpack-rpc-python/0.4.1;
   };
+  msrestazure = {
+    "0.6.4.post1" = import ./overrides/msrestazure/0.6.4.post1;
+  };
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
