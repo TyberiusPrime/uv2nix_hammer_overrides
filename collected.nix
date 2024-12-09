@@ -4619,6 +4619,9 @@
   marionette-transport = {
     "1.2.0" = import ./overrides/marionette-transport/1.2.0;
   };
+  markdown-it-py = {
+    "3.0.0" = import ./overrides/markdown-it-py/3.0.0;
+  };
   markerlib = {
     "0.6.0" = import ./overrides/markerlib/0.6.0;
   };
