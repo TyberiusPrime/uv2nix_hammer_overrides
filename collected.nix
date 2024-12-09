@@ -6450,6 +6450,9 @@
   pycddlib = {
     "2.1.8.post1" = import ./overrides/pycddlib/2.1.8.post1;
   };
+  pycfdns = {
+    "3.0.0" = import ./overrides/pycfdns/3.0.0;
+  };
   pycflow2dot = {
     "0.2.3" = import ./overrides/pycflow2dot/0.2.3;
   };
