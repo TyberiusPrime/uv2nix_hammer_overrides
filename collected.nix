@@ -3155,6 +3155,9 @@
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
+  gibberish-detector = {
+    "0.1.1" = import ./overrides/gibberish-detector/0.1.1;
+  };
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
