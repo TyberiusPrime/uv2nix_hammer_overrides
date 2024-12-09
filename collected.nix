@@ -2807,6 +2807,7 @@
     "0.9.11" = import ./overrides/flanker/0.9.11;
   };
   flasgger = {
+    "0.9.7.1" = import ./overrides/flasgger/0.9.7.1;
     "0.9.7.2.dev2" = import ./overrides/flasgger/0.9.7.2.dev2;
   };
   flashtext = {
