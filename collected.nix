@@ -4547,6 +4547,9 @@
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
+  luigi = {
+    "3.3.0" = import ./overrides/luigi/3.3.0;
+  };
   lyrebird = {
     "3.0.5" = import ./overrides/lyrebird/3.0.5;
   };
@@ -6044,6 +6047,9 @@
   };
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
+  };
+  pollination-ladybug = {
+    "0.2.4" = import ./overrides/pollination-ladybug/0.2.4;
   };
   polling = {
     "0.3.2" = import ./overrides/polling/0.3.2;
