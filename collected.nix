@@ -5626,6 +5626,9 @@
   overly = {
     "0.1.85" = import ./overrides/overly/0.1.85;
   };
+  overpass = {
+    "0.7.2" = import ./overrides/overpass/0.7.2;
+  };
   ovirt-engine-sdk-python = {
     "4.6.1" = import ./overrides/ovirt-engine-sdk-python/4.6.1;
   };
