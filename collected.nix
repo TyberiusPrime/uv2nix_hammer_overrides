@@ -9898,6 +9898,9 @@
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
   };
+  wipac-mqclient = {
+    "1.0.1" = import ./overrides/wipac-mqclient/1.0.1;
+  };
   wireless = {
     "0.3.3" = import ./overrides/wireless/0.3.3;
   };
