@@ -4257,6 +4257,9 @@
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
   };
+  launchdarkly-server-sdk = {
+    "9.7.1" = import ./overrides/launchdarkly-server-sdk/9.7.1;
+  };
   lava-tool = {
     "0.11.1" = import ./overrides/lava-tool/0.11.1;
   };
