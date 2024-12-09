@@ -6144,6 +6144,9 @@
   products-cron4plone = {
     "1.1.11" = import ./overrides/products-cron4plone/1.1.11;
   };
+  products-datagridfield = {
+    "1.9.6" = import ./overrides/products-datagridfield/1.9.6;
+  };
   products-maps = {
     "3.3" = import ./overrides/products-maps/3.3;
   };
