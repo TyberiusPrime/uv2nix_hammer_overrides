@@ -5187,6 +5187,9 @@
   nestle = {
     "0.2.0" = import ./overrides/nestle/0.2.0;
   };
+  netdisco = {
+    "3.0.0" = import ./overrides/netdisco/3.0.0;
+  };
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
