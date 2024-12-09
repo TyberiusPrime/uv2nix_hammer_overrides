@@ -8990,6 +8990,9 @@
   terminaltables = {
     "3.1.0" = import ./overrides/terminaltables/3.1.0;
   };
+  tesla-fleet-api = {
+    "0.7.4" = import ./overrides/tesla-fleet-api/0.7.4;
+  };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
