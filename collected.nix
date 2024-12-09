@@ -2757,6 +2757,9 @@
   filebytes = {
     "0.10.2" = import ./overrides/filebytes/0.10.2;
   };
+  filecheck = {
+    "1.0.1" = import ./overrides/filecheck/1.0.1;
+  };
   filechunkio = {
     "1.8" = import ./overrides/filechunkio/1.8;
   };
