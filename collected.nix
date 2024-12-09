@@ -3155,6 +3155,9 @@
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
+  gidgethub = {
+    "5.3.0" = import ./overrides/gidgethub/5.3.0;
+  };
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
