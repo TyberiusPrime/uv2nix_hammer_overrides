@@ -9829,6 +9829,9 @@
   webapp2 = {
     "2.5.2" = import ./overrides/webapp2/2.5.2;
   };
+  webauthn = {
+    "2.2.0" = import ./overrides/webauthn/2.2.0;
+  };
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
