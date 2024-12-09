@@ -5432,6 +5432,9 @@
   octobot-tentacles-manager = {
     "2.9.16" = import ./overrides/octobot-tentacles-manager/2.9.16;
   };
+  oda-knowledge-base = {
+    "0.7.28" = import ./overrides/oda-knowledge-base/0.7.28;
+  };
   odfpy = {
     "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
