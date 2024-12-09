@@ -8643,6 +8643,9 @@
   sphinxcontrib-tikz = {
     "0.4.20" = import ./overrides/sphinxcontrib-tikz/0.4.20;
   };
+  sphinxcontrib-trio = {
+    "1.1.2" = import ./overrides/sphinxcontrib-trio/1.1.2;
+  };
   sphinxjp-themecore = {
     "0.2.0" = import ./overrides/sphinxjp-themecore/0.2.0;
   };
