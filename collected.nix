@@ -6913,6 +6913,9 @@
     "0.6.4" = import ./overrides/pynisher/0.6.4;
     "1.0.10" = import ./overrides/pynisher/1.0.10;
   };
+  pynixutil = {
+    "0.5.0" = import ./overrides/pynixutil/0.5.0;
+  };
   pynsq = {
     "0.9.1" = import ./overrides/pynsq/0.9.1;
   };
