@@ -7859,6 +7859,9 @@
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
+  remarshal = {
+    "0.18.0" = import ./overrides/remarshal/0.18.0;
+  };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
