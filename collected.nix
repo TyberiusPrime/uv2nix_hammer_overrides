@@ -7179,6 +7179,9 @@
   pyssim = {
     "0.7" = import ./overrides/pyssim/0.7;
   };
+  pystac-client = {
+    "0.8.3" = import ./overrides/pystac-client/0.8.3;
+  };
   pystemd = {
     "0.13.2" = import ./overrides/pystemd/0.13.2;
   };
