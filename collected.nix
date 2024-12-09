@@ -4184,6 +4184,9 @@
     "1.2.1" = import ./overrides/kinparse/1.2.1;
     "1.2.2" = import ./overrides/kinparse/1.2.2;
   };
+  kipoi-utils = {
+    "0.7.7" = import ./overrides/kipoi-utils/0.7.7;
+  };
   kitchen = {
     "1.2.6" = import ./overrides/kitchen/1.2.6;
   };
