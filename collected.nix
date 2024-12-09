@@ -8308,6 +8308,9 @@
   setuptools-scm = {
     "8.1.0" = import ./overrides/setuptools-scm/8.1.0;
   };
+  setuptools-scm-git-archive = {
+    "1.4.1" = import ./overrides/setuptools-scm-git-archive/1.4.1;
+  };
   sewar = {
     "0.4.6" = import ./overrides/sewar/0.4.6;
   };
