@@ -3907,6 +3907,9 @@
   jcloud = {
     "0.3" = import ./overrides/jcloud/0.3;
   };
+  jedi-language-server = {
+    "0.41.4" = import ./overrides/jedi-language-server/0.41.4;
+  };
   jenkins = {
     "1.0.2" = import ./overrides/jenkins/1.0.2;
   };
