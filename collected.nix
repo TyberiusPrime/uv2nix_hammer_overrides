@@ -4928,6 +4928,9 @@
   morph = {
     "0.1.5" = import ./overrides/morph/0.1.5;
   };
+  mosaik = {
+    "3.3.3" = import ./overrides/mosaik/3.3.3;
+  };
   mosestokenizer = {
     "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
   };
