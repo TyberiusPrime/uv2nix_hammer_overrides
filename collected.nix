@@ -1083,6 +1083,9 @@
   cipherprogram = {
     "0.0.4" = import ./overrides/cipherprogram/0.0.4;
   };
+  circlify = {
+    "0.15.0" = import ./overrides/circlify/0.15.0;
+  };
   circuit-webhook = {
     "1.0.1" = import ./overrides/circuit-webhook/1.0.1;
   };
