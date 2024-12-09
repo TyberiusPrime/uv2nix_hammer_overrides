@@ -2126,6 +2126,9 @@
   django-reversion = {
     "1.10.2" = import ./overrides/django-reversion/1.10.2;
   };
+  django-reversion-compare = {
+    "0.18.1" = import ./overrides/django-reversion-compare/0.18.1;
+  };
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
