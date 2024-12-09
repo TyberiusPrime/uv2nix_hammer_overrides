@@ -5617,6 +5617,9 @@
   osm2geojson = {
     "0.2.5" = import ./overrides/osm2geojson/0.2.5;
   };
+  osmosis-driver-interface = {
+    "0.1.0" = import ./overrides/osmosis-driver-interface/0.1.0;
+  };
   oss2 = {
     "2.19.0" = import ./overrides/oss2/2.19.0;
   };
