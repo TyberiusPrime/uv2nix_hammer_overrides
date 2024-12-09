@@ -367,6 +367,9 @@
   armstrong-utils-backends = {
     "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
   };
+  arnparse = {
+    "0.0.2" = import ./overrides/arnparse/0.0.2;
+  };
   arpeggio = {
     "2.0.2" = import ./overrides/arpeggio/2.0.2;
   };
