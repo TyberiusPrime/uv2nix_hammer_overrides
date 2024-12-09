@@ -4832,6 +4832,9 @@
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
+  mkdocs-gitlab-plugin = {
+    "0.1.4" = import ./overrides/mkdocs-gitlab-plugin/0.1.4;
+  };
   mkdocs-jupyter = {
     "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
   };
