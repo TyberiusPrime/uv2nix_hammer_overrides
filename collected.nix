@@ -8574,6 +8574,9 @@
   solrpy = {
     "1.0.0" = import ./overrides/solrpy/1.0.0;
   };
+  somfy-mylink-synergy = {
+    "1.0.6" = import ./overrides/somfy-mylink-synergy/1.0.6;
+  };
   somoclu = {
     "1.7.6" = import ./overrides/somoclu/1.7.6;
   };
