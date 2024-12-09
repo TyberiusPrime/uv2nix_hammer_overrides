@@ -9675,6 +9675,9 @@
   vedo = {
     "2024.5.2" = import ./overrides/vedo/2024.5.2;
   };
+  velbus-aio = {
+    "2024.7.6" = import ./overrides/velbus-aio/2024.7.6;
+  };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
