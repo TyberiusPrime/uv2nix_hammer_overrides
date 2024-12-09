@@ -1584,6 +1584,9 @@
   curve25519-donna = {
     "1.3" = import ./overrides/curve25519-donna/1.3;
   };
+  custom-inherit = {
+    "2.4.1" = import ./overrides/custom-inherit/2.4.1;
+  };
   customerio = {
     "2.1" = import ./overrides/customerio/2.1;
   };
