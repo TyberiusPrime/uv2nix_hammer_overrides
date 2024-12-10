@@ -7487,6 +7487,9 @@
   python-uinput = {
     "1.0.1" = import ./overrides/python-uinput/1.0.1;
   };
+  python-ulid = {
+    "2.7.0" = import ./overrides/python-ulid/2.7.0;
+  };
   python-unshare = {
     "0.2" = import ./overrides/python-unshare/0.2;
   };
