@@ -8444,6 +8444,9 @@
   simplesbml = {
     "2.3.0" = import ./overrides/simplesbml/2.3.0;
   };
+  sinethesizer = {
+    "0.6.2" = import ./overrides/sinethesizer/0.6.2;
+  };
   singer-encodings = {
     "0.1.3" = import ./overrides/singer-encodings/0.1.3;
   };
