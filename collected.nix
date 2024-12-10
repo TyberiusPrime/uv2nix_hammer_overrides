@@ -7233,6 +7233,9 @@
   pytest-mockito = {
     "0.0.4" = import ./overrides/pytest-mockito/0.0.4;
   };
+  pytest-mypy-plugins = {
+    "3.1.2" = import ./overrides/pytest-mypy-plugins/3.1.2;
+  };
   pytest-pep8 = {
     "1.0.6" = import ./overrides/pytest-pep8/1.0.6;
   };
