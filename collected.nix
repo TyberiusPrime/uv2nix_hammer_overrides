@@ -912,6 +912,9 @@
   canonical = {
     "0.52.0" = import ./overrides/canonical/0.52.0;
   };
+  canvasapi = {
+    "3.3.0" = import ./overrides/canvasapi/3.3.0;
+  };
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
