@@ -6993,6 +6993,7 @@
   };
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
+    "2.0.0" = import ./overrides/pyppeteer/2.0.0;
   };
   pyprecice = {
     "3.1.2" = import ./overrides/pyprecice/3.1.2;
