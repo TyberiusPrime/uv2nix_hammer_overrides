@@ -1680,6 +1680,9 @@
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
+  databroker = {
+    "1.2.5" = import ./overrides/databroker/1.2.5;
+  };
   datacleaner = {
     "0.1.5" = import ./overrides/datacleaner/0.1.5;
   };
