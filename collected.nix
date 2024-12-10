@@ -6596,6 +6596,9 @@
   pyelliptic = {
     "1.5.8" = import ./overrides/pyelliptic/1.5.8;
   };
+  pyemvue = {
+    "0.18.6" = import ./overrides/pyemvue/0.18.6;
+  };
   pyephem = {
     "9.99" = import ./overrides/pyephem/9.99;
   };
