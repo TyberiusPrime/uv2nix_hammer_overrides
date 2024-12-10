@@ -779,6 +779,9 @@
   blist = {
     "1.3.6" = import ./overrides/blist/1.3.6;
   };
+  blobfile = {
+    "3.0.0" = import ./overrides/blobfile/3.0.0;
+  };
   blockchain = {
     "1.4.4" = import ./overrides/blockchain/1.4.4;
   };
