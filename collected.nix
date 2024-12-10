@@ -1605,6 +1605,9 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  cython-test-exception-raiser = {
+    "1.0.2" = import ./overrides/cython-test-exception-raiser/1.0.2;
+  };
   d8s-dicts = {
     "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
   };
