@@ -9992,6 +9992,9 @@
   xapp = {
     "0.0.1" = import ./overrides/xapp/0.0.1;
   };
+  xattr = {
+    "1.1.0" = import ./overrides/xattr/1.1.0;
+  };
   xbob-db-verification-utils = {
     "1.0.1" = import ./overrides/xbob-db-verification-utils/1.0.1;
   };
