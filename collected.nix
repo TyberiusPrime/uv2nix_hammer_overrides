@@ -4502,6 +4502,9 @@
   logical-unification = {
     "0.4.6" = import ./overrides/logical-unification/0.4.6;
   };
+  logilab-astng = {
+    "0.24.3" = import ./overrides/logilab-astng/0.24.3;
+  };
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
   };
