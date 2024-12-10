@@ -8906,6 +8906,9 @@
   tbb = {
     "2021.13.1" = import ./overrides/tbb/2021.13.1;
   };
+  tbtrim = {
+    "0.3.1" = import ./overrides/tbtrim/0.3.1;
+  };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
