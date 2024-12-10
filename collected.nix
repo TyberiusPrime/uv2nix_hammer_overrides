@@ -9054,6 +9054,9 @@
     "0.16.0" = import ./overrides/thrift/0.16.0;
     "0.20.0" = import ./overrides/thrift/0.20.0;
   };
+  thrift-sasl = {
+    "0.4.3" = import ./overrides/thrift-sasl/0.4.3;
+  };
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
