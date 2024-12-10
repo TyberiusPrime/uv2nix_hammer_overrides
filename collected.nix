@@ -1283,6 +1283,9 @@
   collective-js-jqueryui = {
     "2.2.0" = import ./overrides/collective-js-jqueryui/2.2.0;
   };
+  collective-oembed = {
+    "2.0.1" = import ./overrides/collective-oembed/2.0.1;
+  };
   collective-quickupload = {
     "1.11.1" = import ./overrides/collective-quickupload/1.11.1;
   };
