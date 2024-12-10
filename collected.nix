@@ -9180,6 +9180,9 @@
     "2.4.1" = import ./overrides/torch/2.4.1;
     "2.5.1" = import ./overrides/torch/2.5.1;
   };
+  torch-geometric = {
+    "2.5.3" = import ./overrides/torch-geometric/2.5.3;
+  };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
   };
