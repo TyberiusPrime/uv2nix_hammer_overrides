@@ -2529,6 +2529,9 @@
   encryptedsocket = {
     "3.0.0" = import ./overrides/encryptedsocket/3.0.0;
   };
+  energyzero = {
+    "2.1.1" = import ./overrides/energyzero/2.1.1;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
