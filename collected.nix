@@ -2679,6 +2679,9 @@
   fastapi-cli = {
     "0.0.5" = import ./overrides/fastapi-cli/0.0.5;
   };
+  fastapi-sessions = {
+    "0.3.2" = import ./overrides/fastapi-sessions/0.3.2;
+  };
   fastcache = {
     "1.1.0" = import ./overrides/fastcache/1.1.0;
   };
