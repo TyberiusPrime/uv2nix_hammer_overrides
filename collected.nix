@@ -187,6 +187,9 @@
   aliyun-python-sdk-core-v3 = {
     "2.13.33" = import ./overrides/aliyun-python-sdk-core-v3/2.13.33;
   };
+  aliyun-python-sdk-dbfs = {
+    "2.0.7" = import ./overrides/aliyun-python-sdk-dbfs/2.0.7;
+  };
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
   };
