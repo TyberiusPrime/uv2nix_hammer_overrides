@@ -3071,6 +3071,9 @@
   gaegraph = {
     "3.9" = import ./overrides/gaegraph/3.9;
   };
+  galaxy-util = {
+    "24.1.1" = import ./overrides/galaxy-util/24.1.1;
+  };
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
