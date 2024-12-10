@@ -2983,6 +2983,9 @@
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
+  frigidaire = {
+    "0.18.23" = import ./overrides/frigidaire/0.18.23;
+  };
   frontmatter = {
     "3.0.8" = import ./overrides/frontmatter/3.0.8;
   };
