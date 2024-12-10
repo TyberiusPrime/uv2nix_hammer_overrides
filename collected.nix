@@ -7460,6 +7460,9 @@
   python-simple-hipchat = {
     "0.4.0" = import ./overrides/python-simple-hipchat/0.4.0;
   };
+  python-simpleconf = {
+    "0.6.0" = import ./overrides/python-simpleconf/0.6.0;
+  };
   python-singleton-metaclasses = {
     "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
   };
