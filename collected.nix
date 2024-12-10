@@ -9781,6 +9781,9 @@
   voxcell = {
     "3.1.9" = import ./overrides/voxcell/3.1.9;
   };
+  vpk = {
+    "1.4.0" = import ./overrides/vpk/1.4.0;
+  };
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
   };
