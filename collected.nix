@@ -4712,6 +4712,9 @@
   mergedb = {
     "0.1.1" = import ./overrides/mergedb/0.1.1;
   };
+  mergedict = {
+    "1.0.0" = import ./overrides/mergedict/1.0.0;
+  };
   merkletools = {
     "1.0.3" = import ./overrides/merkletools/1.0.3;
   };
