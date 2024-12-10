@@ -2938,6 +2938,9 @@
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
+  flufl-bounce = {
+    "2.3" = import ./overrides/flufl-bounce/2.3;
+  };
   fnvhash = {
     "0.1.0" = import ./overrides/fnvhash/0.1.0;
   };
@@ -8885,6 +8888,9 @@
   tables = {
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
+  tailbone = {
+    "0.21.9" = import ./overrides/tailbone/0.21.9;
+  };
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
   };
@@ -9954,6 +9960,9 @@
   };
   wtf-peewee = {
     "3.0.5" = import ./overrides/wtf-peewee/3.0.5;
+  };
+  wuttaweb = {
+    "0.16.1" = import ./overrides/wuttaweb/0.16.1;
   };
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
