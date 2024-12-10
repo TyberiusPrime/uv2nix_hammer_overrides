@@ -2306,6 +2306,9 @@
   dockerpty = {
     "0.4.1" = import ./overrides/dockerpty/0.4.1;
   };
+  dockerspawner = {
+    "13.0.0" = import ./overrides/dockerspawner/13.0.0;
+  };
   docloud = {
     "1.0.375" = import ./overrides/docloud/1.0.375;
   };
