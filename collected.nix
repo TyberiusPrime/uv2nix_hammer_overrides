@@ -1668,6 +1668,9 @@
   dash-colorscales = {
     "0.0.4" = import ./overrides/dash-colorscales/0.0.4;
   };
+  dash-core-components = {
+    "2.0.0" = import ./overrides/dash-core-components/2.0.0;
+  };
   dash-daq = {
     "0.5.0" = import ./overrides/dash-daq/0.5.0;
   };
