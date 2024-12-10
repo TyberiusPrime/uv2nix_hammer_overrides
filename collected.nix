@@ -2550,6 +2550,9 @@
   episcanpy = {
     "0.4.0" = import ./overrides/episcanpy/0.4.0;
   };
+  epson-projector = {
+    "0.5.1" = import ./overrides/epson-projector/0.5.1;
+  };
   epydoc = {
     "3.0.1" = import ./overrides/epydoc/3.0.1;
   };
