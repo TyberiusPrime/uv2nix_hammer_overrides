@@ -9576,6 +9576,9 @@
   urlnorm = {
     "1.1.4" = import ./overrides/urlnorm/1.1.4;
   };
+  urlnormalizer = {
+    "1.2.5" = import ./overrides/urlnormalizer/1.2.5;
+  };
   urlobject = {
     "2.4.3" = import ./overrides/urlobject/2.4.3;
   };
