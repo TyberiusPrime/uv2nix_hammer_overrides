@@ -9470,6 +9470,9 @@
   ujson = {
     "1.35" = import ./overrides/ujson/1.35;
   };
+  ultraheat-api = {
+    "0.5.7" = import ./overrides/ultraheat-api/0.5.7;
+  };
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
   };
