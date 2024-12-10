@@ -8695,6 +8695,9 @@
   sqre-apikit = {
     "0.1.3" = import ./overrides/sqre-apikit/0.1.3;
   };
+  squidpy = {
+    "1.6.1" = import ./overrides/squidpy/1.6.1;
+  };
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
   };
