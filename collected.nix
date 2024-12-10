@@ -8680,6 +8680,9 @@
   sqlalchemy-mptt = {
     "0.2.5" = import ./overrides/sqlalchemy-mptt/0.2.5;
   };
+  sqlalchemy-serializer = {
+    "1.4.22" = import ./overrides/sqlalchemy-serializer/1.4.22;
+  };
   sqlalchemy-utils = {
     "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
