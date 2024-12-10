@@ -4829,6 +4829,9 @@
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
   };
+  mixins = {
+    "0.1.4" = import ./overrides/mixins/0.1.4;
+  };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
