@@ -6039,6 +6039,9 @@
   poezio = {
     "0.14" = import ./overrides/poezio/0.14;
   };
+  politico-civic-entity = {
+    "0.3.1" = import ./overrides/politico-civic-entity/0.3.1;
+  };
   politico-civic-geography = {
     "0.5.1" = import ./overrides/politico-civic-geography/0.5.1;
   };
