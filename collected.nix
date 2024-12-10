@@ -2965,6 +2965,9 @@
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
+  fps-auth = {
+    "0.6.2" = import ./overrides/fps-auth/0.6.2;
+  };
   frasco = {
     "3.5.1" = import ./overrides/frasco/3.5.1;
   };
