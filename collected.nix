@@ -8723,6 +8723,9 @@
   stashy = {
     "0.7" = import ./overrides/stashy/0.7;
   };
+  statannotations = {
+    "0.6.0" = import ./overrides/statannotations/0.6.0;
+  };
   static = {
     "1.1.1" = import ./overrides/static/1.1.1;
   };
