@@ -5319,6 +5319,9 @@
   nose-pattern-exclude = {
     "0.1.3" = import ./overrides/nose-pattern-exclude/0.1.3;
   };
+  nose-testconfig = {
+    "0.10" = import ./overrides/nose-testconfig/0.10;
+  };
   nose-timer = {
     "1.0.1" = import ./overrides/nose-timer/1.0.1;
   };
