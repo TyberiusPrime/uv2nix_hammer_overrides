@@ -5623,6 +5623,9 @@
   otree = {
     "5.11.0" = import ./overrides/otree/5.11.0;
   };
+  outdated = {
+    "0.2.2" = import ./overrides/outdated/0.2.2;
+  };
   overly = {
     "0.1.85" = import ./overrides/overly/0.1.85;
   };
