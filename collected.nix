@@ -770,6 +770,9 @@
   bleach-whitelist = {
     "0.0.11" = import ./overrides/bleach-whitelist/0.0.11;
   };
+  blee-icmplayer = {
+    "0.5" = import ./overrides/blee-icmplayer/0.5;
+  };
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
   };
