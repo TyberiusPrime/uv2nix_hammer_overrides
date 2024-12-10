@@ -3432,6 +3432,9 @@
   heatshrink2 = {
     "0.13.0" = import ./overrides/heatshrink2/0.13.0;
   };
+  heatzypy = {
+    "2.5.5" = import ./overrides/heatzypy/2.5.5;
+  };
   helium = {
     "5.1.0" = import ./overrides/helium/5.1.0;
   };
