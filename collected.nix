@@ -1722,6 +1722,9 @@
   dd-aliyun-python-sdk-core = {
     "2.8.2" = import ./overrides/dd-aliyun-python-sdk-core/2.8.2;
   };
+  ddtrace-graphql = {
+    "0.2.0" = import ./overrides/ddtrace-graphql/0.2.0;
+  };
   deap = {
     "1.4.1" = import ./overrides/deap/1.4.1;
   };
