@@ -6689,6 +6689,9 @@
   pygetwindow = {
     "0.0.9" = import ./overrides/pygetwindow/0.0.9;
   };
+  pygifsicle = {
+    "1.1.0" = import ./overrides/pygifsicle/1.1.0;
+  };
   pygithub = {
     "1.45" = import ./overrides/pygithub/1.45;
   };
