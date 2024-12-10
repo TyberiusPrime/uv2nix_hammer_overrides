@@ -340,6 +340,9 @@
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
+  argdispatch = {
+    "1.3.1" = import ./overrides/argdispatch/1.3.1;
+  };
   argeasy = {
     "3.1.0" = import ./overrides/argeasy/3.1.0;
   };
