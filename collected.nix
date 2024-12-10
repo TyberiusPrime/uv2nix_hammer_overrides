@@ -7119,6 +7119,9 @@
   pysha3 = {
     "1.0.2" = import ./overrides/pysha3/1.0.2;
   };
+  pyshacl = {
+    "0.26.0" = import ./overrides/pyshacl/0.26.0;
+  };
   pysheds = {
     "0.4" = import ./overrides/pysheds/0.4;
   };
