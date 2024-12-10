@@ -5669,6 +5669,9 @@
   panda3d = {
     "1.10.15" = import ./overrides/panda3d/1.10.15;
   };
+  pandana = {
+    "0.7" = import ./overrides/pandana/0.7;
+  };
   pandapower = {
     "2.14.11" = import ./overrides/pandapower/2.14.11;
   };
