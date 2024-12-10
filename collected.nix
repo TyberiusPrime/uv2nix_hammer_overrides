@@ -298,6 +298,9 @@
   apistar = {
     "0.7.2" = import ./overrides/apistar/0.7.2;
   };
+  apitaxcore = {
+    "3.0.9" = import ./overrides/apitaxcore/3.0.9;
+  };
   apkutils2 = {
     "1.0.0" = import ./overrides/apkutils2/1.0.0;
   };
