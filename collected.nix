@@ -785,6 +785,15 @@
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
+  blockstack-client = {
+    "0.14.0.12" = import ./overrides/blockstack-client/0.14.0.12;
+  };
+  blockstack-profiles = {
+    "0.14.1" = import ./overrides/blockstack-profiles/0.14.1;
+  };
+  blockstack-zones = {
+    "0.19.0.0" = import ./overrides/blockstack-zones/0.19.0.0;
+  };
   blosc2 = {
     "2.0.0" = import ./overrides/blosc2/2.0.0;
     "2.7.1" = import ./overrides/blosc2/2.7.1;
@@ -4053,6 +4062,9 @@
   };
   jsonsir = {
     "0.0.2" = import ./overrides/jsonsir/0.0.2;
+  };
+  jsontokens = {
+    "0.0.5" = import ./overrides/jsontokens/0.0.5;
   };
   jstyleson = {
     "0.0.2" = import ./overrides/jstyleson/0.0.2;
@@ -9709,6 +9721,7 @@
     "0.3.16" = import ./overrides/virtstrap-local/0.3.16;
   };
   virtualchain = {
+    "0.18.0.2" = import ./overrides/virtualchain/0.18.0.2;
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
   visaplan-plone-tools = {
