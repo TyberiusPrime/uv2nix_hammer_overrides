@@ -9317,6 +9317,9 @@
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
+  trio-asyncio = {
+    "0.15.0" = import ./overrides/trio-asyncio/0.15.0;
+  };
   trollsift = {
     "0.5.1" = import ./overrides/trollsift/0.5.1;
   };
