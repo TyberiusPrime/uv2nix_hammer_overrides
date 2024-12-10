@@ -10094,6 +10094,9 @@
   yolov5 = {
     "7.0.13" = import ./overrides/yolov5/7.0.13;
   };
+  you-get = {
+    "0.4.1730" = import ./overrides/you-get/0.4.1730;
+  };
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
