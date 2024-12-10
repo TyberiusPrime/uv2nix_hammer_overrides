@@ -9838,6 +9838,9 @@
   webdavclient3 = {
     "3.14.6" = import ./overrides/webdavclient3/3.14.6;
   };
+  weberror = {
+    "0.13.1" = import ./overrides/weberror/0.13.1;
+  };
   webexteamssdk = {
     "1.7" = import ./overrides/webexteamssdk/1.7;
   };
