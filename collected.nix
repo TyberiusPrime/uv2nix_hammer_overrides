@@ -3856,6 +3856,9 @@
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
+  isbnlib = {
+    "3.10.14" = import ./overrides/isbnlib/3.10.14;
+  };
   iso-639 = {
     "0.4.5" = import ./overrides/iso-639/0.4.5;
   };
