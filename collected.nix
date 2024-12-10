@@ -2947,6 +2947,9 @@
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
   };
+  fordpass = {
+    "0.0.5" = import ./overrides/fordpass/0.0.5;
+  };
   formatizer = {
     "0.1.1" = import ./overrides/formatizer/0.1.1;
   };
