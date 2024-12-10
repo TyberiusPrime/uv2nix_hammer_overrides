@@ -4254,6 +4254,9 @@
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
+  latexcodec = {
+    "3.0.0" = import ./overrides/latexcodec/3.0.0;
+  };
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
   };
