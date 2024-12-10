@@ -1379,6 +1379,9 @@
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
+  console-menu = {
+    "0.8.0" = import ./overrides/console-menu/0.8.0;
+  };
   consolemsg = {
     "0.3.3" = import ./overrides/consolemsg/0.3.3;
   };
