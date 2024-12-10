@@ -6312,6 +6312,9 @@
   py-dateutil = {
     "2.2" = import ./overrides/py-dateutil/2.2;
   };
+  py-flags = {
+    "1.1.4" = import ./overrides/py-flags/1.1.4;
+  };
   py-getch = {
     "1.0.1" = import ./overrides/py-getch/1.0.1;
   };
