@@ -8828,6 +8828,9 @@
   subzerod = {
     "1.0" = import ./overrides/subzerod/1.0;
   };
+  suds = {
+    "1.2.0" = import ./overrides/suds/1.2.0;
+  };
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
