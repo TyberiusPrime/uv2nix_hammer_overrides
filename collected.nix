@@ -7655,6 +7655,9 @@
   pyworld = {
     "0.3.4" = import ./overrides/pyworld/0.3.4;
   };
+  pyws66i = {
+    "1.1" = import ./overrides/pyws66i/1.1;
+  };
   pywurfl = {
     "7.2.1" = import ./overrides/pywurfl/7.2.1;
   };
