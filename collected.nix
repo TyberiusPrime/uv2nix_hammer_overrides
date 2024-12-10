@@ -8402,6 +8402,9 @@
   silva-translations = {
     "3.0.2" = import ./overrides/silva-translations/3.0.2;
   };
+  simber = {
+    "0.2.6" = import ./overrides/simber/0.2.6;
+  };
   similaritymeasures = {
     "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
   };
