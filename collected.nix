@@ -8631,6 +8631,9 @@
   sphinxcontrib-issuetracker = {
     "0.11" = import ./overrides/sphinxcontrib-issuetracker/0.11;
   };
+  sphinxcontrib-jsmath = {
+    "1.0.1" = import ./overrides/sphinxcontrib-jsmath/1.0.1;
+  };
   sphinxcontrib-mscgen = {
     "0.6" = import ./overrides/sphinxcontrib-mscgen/0.6;
   };
