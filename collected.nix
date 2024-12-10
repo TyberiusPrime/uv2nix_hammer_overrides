@@ -1800,6 +1800,9 @@
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
+  dictpath = {
+    "0.1.3" = import ./overrides/dictpath/0.1.3;
+  };
   diffimg = {
     "0.3.0" = import ./overrides/diffimg/0.3.0;
   };
