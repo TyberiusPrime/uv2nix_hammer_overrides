@@ -3173,6 +3173,9 @@
   gisdata = {
     "0.5.4" = import ./overrides/gisdata/0.5.4;
   };
+  gistools = {
+    "1.2.28" = import ./overrides/gistools/1.2.28;
+  };
   git-sweep = {
     "0.1.1" = import ./overrides/git-sweep/0.1.1;
   };
