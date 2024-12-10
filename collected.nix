@@ -5208,6 +5208,9 @@
   nextcord = {
     "2.6.0" = import ./overrides/nextcord/2.6.0;
   };
+  nextdns = {
+    "3.3.0" = import ./overrides/nextdns/3.3.0;
+  };
   nflows = {
     "0.14" = import ./overrides/nflows/0.14;
   };
