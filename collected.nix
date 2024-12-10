@@ -1776,6 +1776,9 @@
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
+  desktop-entry-lib = {
+    "5.0" = import ./overrides/desktop-entry-lib/5.0;
+  };
   dev0s = {
     "3.36.6" = import ./overrides/dev0s/3.36.6;
   };
