@@ -6985,6 +6985,9 @@
   pypika = {
     "0.48.9" = import ./overrides/pypika/0.48.9;
   };
+  pypika-tortoise = {
+    "0.1.6" = import ./overrides/pypika-tortoise/0.1.6;
+  };
   pypillowfight = {
     "0.3.0" = import ./overrides/pypillowfight/0.3.0;
   };
