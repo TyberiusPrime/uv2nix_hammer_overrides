@@ -6725,6 +6725,9 @@
   pyhomematic = {
     "0.1.78" = import ./overrides/pyhomematic/0.1.78;
   };
+  pyhomeworks = {
+    "1.1.2" = import ./overrides/pyhomeworks/1.1.2;
+  };
   pyhull = {
     "2015.2.1" = import ./overrides/pyhull/2015.2.1;
   };
