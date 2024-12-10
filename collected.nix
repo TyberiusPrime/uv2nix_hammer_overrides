@@ -2769,6 +2769,9 @@
   filterpy = {
     "1.4.5" = import ./overrides/filterpy/1.4.5;
   };
+  finbourne-sdk-utilities = {
+    "0.0.10" = import ./overrides/finbourne-sdk-utilities/0.0.10;
+  };
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
   };
