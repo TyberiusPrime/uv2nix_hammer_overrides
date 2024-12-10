@@ -10067,6 +10067,9 @@
   yapsy = {
     "1.12.2" = import ./overrides/yapsy/1.12.2;
   };
+  yara-python = {
+    "4.5.1" = import ./overrides/yara-python/4.5.1;
+  };
   yarl = {
     "1.8.1" = import ./overrides/yarl/1.8.1;
   };
