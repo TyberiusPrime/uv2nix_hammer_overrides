@@ -2337,6 +2337,9 @@
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  dokuwiki = {
+    "1.3.3" = import ./overrides/dokuwiki/1.3.3;
+  };
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
