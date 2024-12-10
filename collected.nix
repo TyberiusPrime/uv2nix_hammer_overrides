@@ -5778,6 +5778,9 @@
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
+  peaqevcore = {
+    "19.11.2" = import ./overrides/peaqevcore/19.11.2;
+  };
   pecab = {
     "1.0.8" = import ./overrides/pecab/1.0.8;
   };
