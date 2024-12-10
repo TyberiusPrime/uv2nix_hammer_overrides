@@ -4208,6 +4208,9 @@
   kotti-tinymce = {
     "0.7.1" = import ./overrides/kotti-tinymce/0.7.1;
   };
+  kraken-common = {
+    "0.31.7" = import ./overrides/kraken-common/0.31.7;
+  };
   krakenex = {
     "2.2.2" = import ./overrides/krakenex/2.2.2;
   };
