@@ -1800,6 +1800,9 @@
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
+  dicttoxml = {
+    "1.7.16" = import ./overrides/dicttoxml/1.7.16;
+  };
   diffimg = {
     "0.3.0" = import ./overrides/diffimg/0.3.0;
   };
