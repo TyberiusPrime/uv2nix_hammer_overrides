@@ -7688,6 +7688,9 @@
   pyzerproc = {
     "0.4.12" = import ./overrides/pyzerproc/0.4.12;
   };
+  qasync = {
+    "0.27.1" = import ./overrides/qasync/0.27.1;
+  };
   qcloud-image = {
     "1.0.0" = import ./overrides/qcloud-image/1.0.0;
   };
