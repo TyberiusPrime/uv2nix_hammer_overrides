@@ -5708,6 +5708,9 @@
   paperwork-shell = {
     "2.2.5" = import ./overrides/paperwork-shell/2.2.5;
   };
+  papis = {
+    "0.13" = import ./overrides/papis/0.13;
+  };
   papis-python-rofi = {
     "1.0.3" = import ./overrides/papis-python-rofi/1.0.3;
   };
