@@ -5480,6 +5480,9 @@
   omnijson = {
     "0.1.2" = import ./overrides/omnijson/0.1.2;
   };
+  onelogin = {
+    "3.1.6" = import ./overrides/onelogin/3.1.6;
+  };
   onetimepad = {
     "1.4" = import ./overrides/onetimepad/1.4;
   };
