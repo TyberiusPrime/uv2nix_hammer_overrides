@@ -1680,6 +1680,9 @@
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
+  dataclasses = {
+    "0.8" = import ./overrides/dataclasses/0.8;
+  };
   datacleaner = {
     "0.1.5" = import ./overrides/datacleaner/0.1.5;
   };
