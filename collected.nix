@@ -1928,6 +1928,9 @@
   django-cratis = {
     "0.9.1" = import ./overrides/django-cratis/0.9.1;
   };
+  django-crispy-forms = {
+    "2.3" = import ./overrides/django-crispy-forms/2.3;
+  };
   django-crontab = {
     "0.7.1" = import ./overrides/django-crontab/0.7.1;
   };
