@@ -2300,6 +2300,9 @@
   dnspython3 = {
     "1.15.0" = import ./overrides/dnspython3/1.15.0;
   };
+  dnspythonchia = {
+    "2.2.0" = import ./overrides/dnspythonchia/2.2.0;
+  };
   dnsq = {
     "1.1.6" = import ./overrides/dnsq/1.1.6;
   };
