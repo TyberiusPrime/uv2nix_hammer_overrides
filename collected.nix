@@ -3808,6 +3808,9 @@
   invenio-github = {
     "1.5.2" = import ./overrides/invenio-github/1.5.2;
   };
+  invenio-jsonschemas = {
+    "1.1.4" = import ./overrides/invenio-jsonschemas/1.1.4;
+  };
   invenio-rdm-records = {
     "12.1.0" = import ./overrides/invenio-rdm-records/12.1.0;
   };
