@@ -6563,6 +6563,9 @@
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
+  pydiscourse = {
+    "1.7.0" = import ./overrides/pydiscourse/1.7.0;
+  };
   pydoe = {
     "0.3.8" = import ./overrides/pydoe/0.3.8;
   };
