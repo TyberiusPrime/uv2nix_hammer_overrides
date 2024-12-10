@@ -8846,6 +8846,9 @@
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
   };
+  svix-ksuid = {
+    "0.6.2" = import ./overrides/svix-ksuid/0.6.2;
+  };
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
   };
