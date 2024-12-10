@@ -8674,6 +8674,9 @@
     "1.4.15" = import ./overrides/sqlalchemy/1.4.15;
     "2.0.35" = import ./overrides/sqlalchemy/2.0.35;
   };
+  sqlalchemy-bigquery = {
+    "1.11.0" = import ./overrides/sqlalchemy-bigquery/1.11.0;
+  };
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
   };
