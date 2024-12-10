@@ -9082,6 +9082,9 @@
   tilemapbase = {
     "0.4.7" = import ./overrides/tilemapbase/0.4.7;
   };
+  tiler = {
+    "0.5.7" = import ./overrides/tiler/0.5.7;
+  };
   timecode = {
     "1.4.1" = import ./overrides/timecode/1.4.1;
   };
