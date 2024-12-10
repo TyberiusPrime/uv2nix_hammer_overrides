@@ -539,6 +539,9 @@
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
   };
+  azure-applicationinsights = {
+    "0.1.1" = import ./overrides/azure-applicationinsights/0.1.1;
+  };
   azure-cognitiveservices-speech = {
     "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
   };
