@@ -1566,6 +1566,9 @@
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
+  cuckoo-common = {
+    "0.1.0" = import ./overrides/cuckoo-common/0.1.0;
+  };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
@@ -3972,6 +3975,7 @@
   };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
+    "1.6.2" = import ./overrides/jsbeautifier/1.6.2;
   };
   jsl = {
     "0.2.4" = import ./overrides/jsl/0.2.4;
@@ -5469,6 +5473,7 @@
     "1.3.5" = import ./overrides/olctools/1.3.5;
   };
   olefile = {
+    "0.43" = import ./overrides/olefile/0.43;
     "0.47" = import ./overrides/olefile/0.47;
   };
   omemo-dr = {
@@ -5793,6 +5798,9 @@
   peek-plugin-base = {
     "3.4.16" = import ./overrides/peek-plugin-base/3.4.16;
   };
+  peepdf = {
+    "0.4.2" = import ./overrides/peepdf/0.4.2;
+  };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
@@ -5907,6 +5915,7 @@
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
+    "3.2.0" = import ./overrides/pillow/3.2.0;
     "8.4.0" = import ./overrides/pillow/8.4.0;
     "9.4.0" = import ./overrides/pillow/9.4.0;
   };
@@ -7406,6 +7415,9 @@
   python-lzo = {
     "1.15" = import ./overrides/python-lzo/1.15;
   };
+  python-magic = {
+    "0.4.12" = import ./overrides/python-magic/0.4.12;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
@@ -7522,6 +7534,9 @@
   };
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
+  };
+  pythonaes = {
+    "1.0" = import ./overrides/pythonaes/1.0;
   };
   pythonegardia = {
     "1.0.52" = import ./overrides/pythonegardia/1.0.52;
@@ -8319,6 +8334,9 @@
   };
   sfepy = {
     "2024.2" = import ./overrides/sfepy/2024.2;
+  };
+  sflock = {
+    "0.3.10" = import ./overrides/sflock/0.3.10;
   };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
