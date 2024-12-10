@@ -2328,6 +2328,9 @@
   document = {
     "1.0" = import ./overrides/document/1.0;
   };
+  docutils = {
+    "0.21.2" = import ./overrides/docutils/0.21.2;
+  };
   docx = {
     "0.2.4" = import ./overrides/docx/0.2.4;
   };
