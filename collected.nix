@@ -1680,6 +1680,9 @@
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
+  dataclasses-jsonschema = {
+    "2.16.0" = import ./overrides/dataclasses-jsonschema/2.16.0;
+  };
   datacleaner = {
     "0.1.5" = import ./overrides/datacleaner/0.1.5;
   };
