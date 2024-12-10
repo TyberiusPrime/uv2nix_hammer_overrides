@@ -8325,6 +8325,7 @@
   };
   sh = {
     "1.11" = import ./overrides/sh/1.11;
+    "2.0.7" = import ./overrides/sh/2.0.7;
   };
   sha3 = {
     "0.2.1" = import ./overrides/sha3/0.2.1;
