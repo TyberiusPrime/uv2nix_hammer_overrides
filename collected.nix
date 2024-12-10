@@ -1349,6 +1349,9 @@
   conan = {
     "2.7.0" = import ./overrides/conan/2.7.0;
   };
+  conda-package-streaming = {
+    "0.10.0" = import ./overrides/conda-package-streaming/0.10.0;
+  };
   configobj = {
     "5.0.9" = import ./overrides/configobj/5.0.9;
   };
