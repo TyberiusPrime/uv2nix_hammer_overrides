@@ -9416,6 +9416,9 @@
   twofish = {
     "0.3.0" = import ./overrides/twofish/0.3.0;
   };
+  twx-botapi = {
+    "3.6.2" = import ./overrides/twx-botapi/3.6.2;
+  };
   txcelery-py3 = {
     "1.6.4" = import ./overrides/txcelery-py3/1.6.4;
   };
