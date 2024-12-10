@@ -9118,6 +9118,9 @@
   tinysegmenter = {
     "0.4" = import ./overrides/tinysegmenter/0.4;
   };
+  tinytim = {
+    "1.11.0" = import ./overrides/tinytim/1.11.0;
+  };
   tinytimer = {
     "0.0.0" = import ./overrides/tinytimer/0.0.0;
   };
