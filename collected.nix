@@ -7556,6 +7556,9 @@
   pytricia = {
     "1.0.2" = import ./overrides/pytricia/1.0.2;
   };
+  pytrydan = {
+    "0.8.1" = import ./overrides/pytrydan/0.8.1;
+  };
   pytsk3 = {
     "20231007" = import ./overrides/pytsk3/20231007;
   };
