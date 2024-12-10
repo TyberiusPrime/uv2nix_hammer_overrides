@@ -5587,6 +5587,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  orange-widget-base = {
+    "4.24.0" = import ./overrides/orange-widget-base/4.24.0;
+  };
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
   };
