@@ -8102,6 +8102,9 @@
   sacremoses = {
     "0.0.53" = import ./overrides/sacremoses/0.0.53;
   };
+  safe-eth-py = {
+    "5.8.0" = import ./overrides/safe-eth-py/5.8.0;
+  };
   safe-pysha3 = {
     "1.0.4" = import ./overrides/safe-pysha3/1.0.4;
   };
