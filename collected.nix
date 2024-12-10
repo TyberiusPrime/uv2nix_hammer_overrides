@@ -1991,6 +1991,9 @@
   django-htmlmin = {
     "0.11.0" = import ./overrides/django-htmlmin/0.11.0;
   };
+  django-htmx = {
+    "1.19.0" = import ./overrides/django-htmx/1.19.0;
+  };
   django-hvad = {
     "1.8.0" = import ./overrides/django-hvad/1.8.0;
   };
