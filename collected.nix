@@ -8204,6 +8204,9 @@
   scikit-commpy = {
     "0.8.0" = import ./overrides/scikit-commpy/0.8.0;
   };
+  scikit-cuda = {
+    "0.5.3" = import ./overrides/scikit-cuda/0.5.3;
+  };
   scikit-fmm = {
     "2024.5.29" = import ./overrides/scikit-fmm/2024.5.29;
   };
