@@ -2508,6 +2508,9 @@
   ellc = {
     "1.8.9" = import ./overrides/ellc/1.8.9;
   };
+  elmax-api = {
+    "0.0.5" = import ./overrides/elmax-api/0.0.5;
+  };
   embit = {
     "0.8.0" = import ./overrides/embit/0.8.0;
   };
