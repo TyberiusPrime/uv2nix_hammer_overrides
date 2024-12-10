@@ -4667,6 +4667,9 @@
   mayavi = {
     "4.8.2" = import ./overrides/mayavi/4.8.2;
   };
+  mccabe = {
+    "0.7.0" = import ./overrides/mccabe/0.7.0;
+  };
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };
