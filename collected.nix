@@ -2568,6 +2568,9 @@
   esptool = {
     "4.7.0" = import ./overrides/esptool/4.7.0;
   };
+  esridump = {
+    "1.13.0" = import ./overrides/esridump/1.13.0;
+  };
   etcd3 = {
     "0.12.0" = import ./overrides/etcd3/0.12.0;
   };
