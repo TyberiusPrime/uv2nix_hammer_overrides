@@ -6318,6 +6318,9 @@
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
+  py-nightscout = {
+    "1.3.3" = import ./overrides/py-nightscout/1.3.3;
+  };
   py-postgresql = {
     "1.2.1" = import ./overrides/py-postgresql/1.2.1;
   };
