@@ -7291,6 +7291,9 @@
   python-ddp = {
     "0.1.5" = import ./overrides/python-ddp/0.1.5;
   };
+  python-decouple = {
+    "3.8" = import ./overrides/python-decouple/3.8;
+  };
   python-deprecated = {
     "1.1.0" = import ./overrides/python-deprecated/1.1.0;
   };
