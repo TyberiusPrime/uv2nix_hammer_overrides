@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  georss-nrcan-earthquakes-client = {
+    "0.4" = import ./overrides/georss-nrcan-earthquakes-client/0.4;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
