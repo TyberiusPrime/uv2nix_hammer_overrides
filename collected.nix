@@ -2421,6 +2421,9 @@
   durc = {
     "3.1.0" = import ./overrides/durc/3.1.0;
   };
+  dvc-data = {
+    "3.16.5" = import ./overrides/dvc-data/3.16.5;
+  };
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
