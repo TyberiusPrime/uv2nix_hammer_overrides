@@ -1029,6 +1029,9 @@
   chempy = {
     "0.9.0" = import ./overrides/chempy/0.9.0;
   };
+  chess = {
+    "1.11.1" = import ./overrides/chess/1.11.1;
+  };
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
@@ -7278,6 +7281,9 @@
   };
   python-card-me = {
     "0.9.3" = import ./overrides/python-card-me/0.9.3;
+  };
+  python-chess = {
+    "1.999" = import ./overrides/python-chess/1.999;
   };
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
