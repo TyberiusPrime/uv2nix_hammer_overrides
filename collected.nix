@@ -6740,6 +6740,9 @@
   pyimpfuzzy = {
     "0.5" = import ./overrides/pyimpfuzzy/0.5;
   };
+  pyinaturalist = {
+    "0.19.0" = import ./overrides/pyinaturalist/0.19.0;
+  };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
