@@ -7982,6 +7982,9 @@
   robotframework-python3 = {
     "2.9" = import ./overrides/robotframework-python3/2.9;
   };
+  robotframework-ride = {
+    "2.0.8.1" = import ./overrides/robotframework-ride/2.0.8.1;
+  };
   robotframework-sshlibrary = {
     "3.8.0" = import ./overrides/robotframework-sshlibrary/3.8.0;
   };
