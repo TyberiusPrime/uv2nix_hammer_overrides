@@ -8589,6 +8589,9 @@
   sox = {
     "1.5.0" = import ./overrides/sox/1.5.0;
   };
+  spacy-pkuseg = {
+    "1.0.0" = import ./overrides/spacy-pkuseg/1.0.0;
+  };
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
