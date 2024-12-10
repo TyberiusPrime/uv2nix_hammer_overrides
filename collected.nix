@@ -6668,6 +6668,9 @@
   pyfribidi = {
     "0.12.0" = import ./overrides/pyfribidi/0.12.0;
   };
+  pyfsdb = {
+    "2.3.7" = import ./overrides/pyfsdb/2.3.7;
+  };
   pyftpdlib = {
     "2.0.0" = import ./overrides/pyftpdlib/2.0.0;
   };
