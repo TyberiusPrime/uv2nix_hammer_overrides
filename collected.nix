@@ -5010,6 +5010,9 @@
   msgpack-rpc-python = {
     "0.4.1" = import ./overrides/msgpack-rpc-python/0.4.1;
   };
+  mt-940 = {
+    "4.30.0" = import ./overrides/mt-940/4.30.0;
+  };
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
