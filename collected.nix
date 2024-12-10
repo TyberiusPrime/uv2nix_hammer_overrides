@@ -6821,6 +6821,9 @@
   pylibfdt = {
     "1.7.2" = import ./overrides/pylibfdt/1.7.2;
   };
+  pylibftdi = {
+    "0.22.0" = import ./overrides/pylibftdi/0.22.0;
+  };
   pylibscrypt = {
     "1.8.0" = import ./overrides/pylibscrypt/1.8.0;
     "2.0.0" = import ./overrides/pylibscrypt/2.0.0;
