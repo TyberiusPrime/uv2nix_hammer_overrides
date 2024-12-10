@@ -861,6 +861,9 @@
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
+  buienradar = {
+    "1.0.6" = import ./overrides/buienradar/1.0.6;
+  };
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
   };
