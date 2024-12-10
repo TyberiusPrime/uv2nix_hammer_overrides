@@ -1168,6 +1168,9 @@
   cloudshell-core = {
     "2.2.180" = import ./overrides/cloudshell-core/2.2.180;
   };
+  cloudshell-cp-core = {
+    "2.5.4" = import ./overrides/cloudshell-cp-core/2.5.4;
+  };
   cloudshell-firewall = {
     "3.0.3" = import ./overrides/cloudshell-firewall/3.0.3;
   };
