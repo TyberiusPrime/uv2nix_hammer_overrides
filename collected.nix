@@ -4290,6 +4290,9 @@
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
+  ld2410-ble = {
+    "0.2.0" = import ./overrides/ld2410-ble/0.2.0;
+  };
   lepl = {
     "5.1.3" = import ./overrides/lepl/5.1.3;
   };
