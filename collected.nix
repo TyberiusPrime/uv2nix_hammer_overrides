@@ -9299,6 +9299,9 @@
   transmissionrpc = {
     "0.11" = import ./overrides/transmissionrpc/0.11;
   };
+  transparentpath = {
+    "1.1.38" = import ./overrides/transparentpath/1.1.38;
+  };
   transpyler = {
     "0.5.0" = import ./overrides/transpyler/0.5.0;
   };
