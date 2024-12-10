@@ -3534,6 +3534,9 @@
   htools = {
     "7.7.0" = import ./overrides/htools/7.7.0;
   };
+  httmock = {
+    "1.4.0" = import ./overrides/httmock/1.4.0;
+  };
   http-ece = {
     "1.1.0" = import ./overrides/http-ece/1.1.0;
     "1.2.1" = import ./overrides/http-ece/1.2.1;
