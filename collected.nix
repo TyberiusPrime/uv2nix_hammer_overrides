@@ -3727,6 +3727,9 @@
   imutils = {
     "0.5.4" = import ./overrides/imutils/0.5.4;
   };
+  indra = {
+    "1.23.0" = import ./overrides/indra/1.23.0;
+  };
   infi-execute = {
     "0.1.8" = import ./overrides/infi-execute/0.1.8;
   };
@@ -7086,6 +7089,9 @@
   };
   pysat = {
     "3.2.0" = import ./overrides/pysat/3.2.0;
+  };
+  pysb = {
+    "1.16.0" = import ./overrides/pysb/1.16.0;
   };
   pyscard = {
     "2.0.0" = import ./overrides/pyscard/2.0.0;
