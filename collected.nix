@@ -5070,6 +5070,9 @@
   mypy-lang = {
     "0.5.0" = import ./overrides/mypy-lang/0.5.0;
   };
+  mypy-protobuf = {
+    "3.6.0" = import ./overrides/mypy-protobuf/3.6.0;
+  };
   myqr = {
     "2.3.1" = import ./overrides/myqr/2.3.1;
   };
