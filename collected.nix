@@ -9284,6 +9284,9 @@
   traits = {
     "6.3.2" = import ./overrides/traits/6.3.2;
   };
+  traitsui = {
+    "8.0.0" = import ./overrides/traitsui/8.0.0;
+  };
   trans = {
     "2.1.0" = import ./overrides/trans/2.1.0;
   };
