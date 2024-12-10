@@ -5474,6 +5474,9 @@
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
   };
+  omero-web = {
+    "5.27.2" = import ./overrides/omero-web/5.27.2;
+  };
   omf = {
     "1.0.1" = import ./overrides/omf/1.0.1;
   };
