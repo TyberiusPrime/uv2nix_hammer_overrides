@@ -7098,6 +7098,9 @@
   pyschemes = {
     "1.0.0" = import ./overrides/pyschemes/1.0.0;
   };
+  pyschlage = {
+    "2024.8.0" = import ./overrides/pyschlage/2024.8.0;
+  };
   pyscreeze = {
     "1.0.1" = import ./overrides/pyscreeze/1.0.1;
   };
