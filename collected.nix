@@ -3568,6 +3568,9 @@
   huepy = {
     "1.2.1" = import ./overrides/huepy/1.2.1;
   };
+  hues = {
+    "0.2.2" = import ./overrides/hues/0.2.2;
+  };
   huey = {
     "2.5.1" = import ./overrides/huey/2.5.1;
   };
