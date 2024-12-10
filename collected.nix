@@ -3772,6 +3772,9 @@
   insightface = {
     "0.7.3" = import ./overrides/insightface/0.7.3;
   };
+  insights-core = {
+    "3.4.11.post1" = import ./overrides/insights-core/3.4.11.post1;
+  };
   inspect-it = {
     "0.3.2" = import ./overrides/inspect-it/0.3.2;
   };
