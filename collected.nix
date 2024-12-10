@@ -8747,6 +8747,9 @@
   stemming = {
     "1.0.1" = import ./overrides/stemming/1.0.1;
   };
+  stestr = {
+    "4.1.0" = import ./overrides/stestr/4.1.0;
+  };
   stheno = {
     "1.4.1" = import ./overrides/stheno/1.4.1;
   };
