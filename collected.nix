@@ -3541,6 +3541,9 @@
   http-parser = {
     "0.9.0" = import ./overrides/http-parser/0.9.0;
   };
+  http-sf = {
+    "1.0.2" = import ./overrides/http-sf/1.0.2;
+  };
   http3 = {
     "0.6.7" = import ./overrides/http3/0.6.7;
   };
