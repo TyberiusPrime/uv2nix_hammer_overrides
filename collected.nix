@@ -6578,6 +6578,9 @@
   pyds9 = {
     "1.8.1" = import ./overrides/pyds9/1.8.1;
   };
+  pydyf = {
+    "0.11.0" = import ./overrides/pydyf/0.11.0;
+  };
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
