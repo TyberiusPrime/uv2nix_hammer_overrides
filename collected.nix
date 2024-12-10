@@ -437,6 +437,9 @@
   asynccmd = {
     "0.2.4" = import ./overrides/asynccmd/0.2.4;
   };
+  asyncinotify = {
+    "4.0.9" = import ./overrides/asyncinotify/4.0.9;
+  };
   asyncio-contextmanager = {
     "1.0.1" = import ./overrides/asyncio-contextmanager/1.0.1;
   };
