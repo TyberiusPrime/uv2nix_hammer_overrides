@@ -9434,6 +9434,9 @@
   txws = {
     "0.9.1" = import ./overrides/txws/0.9.1;
   };
+  typeapi = {
+    "2.2.3" = import ./overrides/typeapi/2.2.3;
+  };
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
