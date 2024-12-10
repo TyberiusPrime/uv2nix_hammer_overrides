@@ -10127,6 +10127,9 @@
   zc-thread = {
     "1.0.0" = import ./overrides/zc-thread/1.0.0;
   };
+  zc-z3monitor = {
+    "0.8.0" = import ./overrides/zc-z3monitor/0.8.0;
+  };
   zc-zk = {
     "2.1.0" = import ./overrides/zc-zk/2.1.0;
   };
