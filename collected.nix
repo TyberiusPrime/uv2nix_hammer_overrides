@@ -135,6 +135,9 @@
   aiosasl = {
     "0.5.0" = import ./overrides/aiosasl/0.5.0;
   };
+  aiosenz = {
+    "1.0.0" = import ./overrides/aiosenz/1.0.0;
+  };
   aioserial = {
     "1.3.1" = import ./overrides/aioserial/1.3.1;
   };
