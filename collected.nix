@@ -4223,6 +4223,9 @@
   kss-core = {
     "1.6.5" = import ./overrides/kss-core/1.6.5;
   };
+  kucoin-python = {
+    "1.0.24" = import ./overrides/kucoin-python/1.0.24;
+  };
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
   };
