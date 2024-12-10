@@ -5611,6 +5611,9 @@
   osc = {
     "1.8.2" = import ./overrides/osc/1.8.2;
   };
+  oschmod = {
+    "0.3.12" = import ./overrides/oschmod/0.3.12;
+  };
   osconf = {
     "0.1.3" = import ./overrides/osconf/0.1.3;
   };
