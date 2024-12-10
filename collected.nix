@@ -1467,6 +1467,9 @@
   cppyy-backend = {
     "1.15.2" = import ./overrides/cppyy-backend/1.15.2;
   };
+  cpufeature = {
+    "0.2.1" = import ./overrides/cpufeature/0.2.1;
+  };
   cpycppyy = {
     "1.12.16" = import ./overrides/cpycppyy/1.12.16;
   };
