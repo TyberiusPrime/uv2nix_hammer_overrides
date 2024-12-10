@@ -6788,6 +6788,9 @@
   pykulersky = {
     "0.5.5" = import ./overrides/pykulersky/0.5.5;
   };
+  pykwalify = {
+    "1.8.0" = import ./overrides/pykwalify/1.8.0;
+  };
   pykwb = {
     "0.0.10" = import ./overrides/pykwb/0.0.10;
   };
