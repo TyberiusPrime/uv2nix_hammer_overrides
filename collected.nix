@@ -1758,6 +1758,9 @@
   defopt = {
     "6.4.0" = import ./overrides/defopt/6.4.0;
   };
+  degiro-connector = {
+    "3.0.22" = import ./overrides/degiro-connector/3.0.22;
+  };
   delfick-error = {
     "1.8" = import ./overrides/delfick-error/1.8;
   };
