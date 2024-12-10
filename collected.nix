@@ -3283,6 +3283,9 @@
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
+  gpsoauth = {
+    "1.1.1" = import ./overrides/gpsoauth/1.1.1;
+  };
   gpt4all = {
     "2.8.2" = import ./overrides/gpt4all/2.8.2;
   };
