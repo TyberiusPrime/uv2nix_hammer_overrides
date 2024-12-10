@@ -10034,6 +10034,9 @@
   xrootd = {
     "5.7.1" = import ./overrides/xrootd/5.7.1;
   };
+  xsdata = {
+    "24.7" = import ./overrides/xsdata/24.7;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
