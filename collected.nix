@@ -4670,6 +4670,9 @@
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };
+  mdit-py-plugins = {
+    "0.4.2" = import ./overrides/mdit-py-plugins/0.4.2;
+  };
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
