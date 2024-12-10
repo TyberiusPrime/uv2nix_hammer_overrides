@@ -8879,6 +8879,9 @@
   ta = {
     "0.11.0" = import ./overrides/ta/0.11.0;
   };
+  tabcmd = {
+    "2.0.14" = import ./overrides/tabcmd/2.0.14;
+  };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
