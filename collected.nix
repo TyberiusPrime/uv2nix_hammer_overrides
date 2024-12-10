@@ -1713,6 +1713,9 @@
   db-sqlite3 = {
     "0.0.1" = import ./overrides/db-sqlite3/0.0.1;
   };
+  dbfread = {
+    "2.0.7" = import ./overrides/dbfread/2.0.7;
+  };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
