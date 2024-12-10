@@ -6093,6 +6093,9 @@
   preggy = {
     "1.4.4" = import ./overrides/preggy/1.4.4;
   };
+  presto-python-client = {
+    "0.8.4" = import ./overrides/presto-python-client/0.8.4;
+  };
   pretrainedmodels = {
     "0.7.4" = import ./overrides/pretrainedmodels/0.7.4;
   };
