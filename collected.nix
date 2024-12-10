@@ -3766,6 +3766,9 @@
   inotify-simple = {
     "1.3.5" = import ./overrides/inotify-simple/1.3.5;
   };
+  inotifyrecursive = {
+    "0.3.5" = import ./overrides/inotifyrecursive/0.3.5;
+  };
   input-algorithms = {
     "0.6.0" = import ./overrides/input-algorithms/0.6.0;
   };
