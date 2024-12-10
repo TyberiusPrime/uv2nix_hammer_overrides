@@ -416,6 +416,9 @@
   astroplan = {
     "0.9.1" = import ./overrides/astroplan/0.9.1;
   };
+  astropy = {
+    "6.1.3" = import ./overrides/astropy/6.1.3;
+  };
   astropy-helpers = {
     "4.0.1" = import ./overrides/astropy-helpers/4.0.1;
   };
