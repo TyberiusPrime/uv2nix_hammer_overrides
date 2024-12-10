@@ -8108,6 +8108,9 @@
   safeio = {
     "1.2" = import ./overrides/safeio/1.2;
   };
+  sage-package = {
+    "0.0.7" = import ./overrides/sage-package/0.0.7;
+  };
   salsa20 = {
     "0.3.0" = import ./overrides/salsa20/0.3.0;
   };
