@@ -8408,6 +8408,9 @@
   simple-crypt = {
     "4.1.7" = import ./overrides/simple-crypt/4.1.7;
   };
+  simple-loggers = {
+    "1.0.5" = import ./overrides/simple-loggers/1.0.5;
+  };
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
