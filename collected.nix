@@ -7087,6 +7087,9 @@
   pysat = {
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
+  pysb = {
+    "1.16.0" = import ./overrides/pysb/1.16.0;
+  };
   pyscard = {
     "2.0.0" = import ./overrides/pyscard/2.0.0;
     "2.1.1" = import ./overrides/pyscard/2.1.1;
