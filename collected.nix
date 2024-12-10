@@ -2733,6 +2733,9 @@
   feeluown = {
     "4.1.7" = import ./overrides/feeluown/4.1.7;
   };
+  feincms3 = {
+    "5.2.3" = import ./overrides/feincms3/5.2.3;
+  };
   fernet = {
     "1.0.1" = import ./overrides/fernet/1.0.1;
   };
