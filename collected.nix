@@ -4425,6 +4425,9 @@
   linetable = {
     "0.0.3" = import ./overrides/linetable/0.0.3;
   };
+  lingpy = {
+    "2.6.13" = import ./overrides/lingpy/2.6.13;
+  };
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
