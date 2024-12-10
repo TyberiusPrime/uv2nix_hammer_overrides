@@ -1560,6 +1560,9 @@
   cssmin = {
     "0.2.0" = import ./overrides/cssmin/0.2.0;
   };
+  cssutils = {
+    "2.11.1" = import ./overrides/cssutils/2.11.1;
+  };
   csv342 = {
     "1.0.1" = import ./overrides/csv342/1.0.1;
   };
