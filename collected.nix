@@ -7227,6 +7227,9 @@
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
   };
+  pytest-localserver = {
+    "0.9.0" = import ./overrides/pytest-localserver/0.9.0;
+  };
   pytest-logging = {
     "2015.11.4" = import ./overrides/pytest-logging/2015.11.4;
   };
