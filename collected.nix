@@ -10082,6 +10082,9 @@
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
   };
+  yfinance = {
+    "0.2.43" = import ./overrides/yfinance/0.2.43;
+  };
   yoctopuce = {
     "2.0.62554" = import ./overrides/yoctopuce/2.0.62554;
   };
