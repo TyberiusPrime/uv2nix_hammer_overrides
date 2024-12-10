@@ -3110,6 +3110,9 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  gearbox = {
+    "0.2.2" = import ./overrides/gearbox/0.2.2;
+  };
   genpy = {
     "2022.1" = import ./overrides/genpy/2022.1;
   };
@@ -9031,6 +9034,9 @@
   };
   tgext-datahelpers = {
     "0.2.1" = import ./overrides/tgext-datahelpers/0.2.1;
+  };
+  tgext-pluggable = {
+    "0.8.4" = import ./overrides/tgext-pluggable/0.8.4;
   };
   thealot = {
     "0.3.2" = import ./overrides/thealot/0.3.2;
