@@ -7173,6 +7173,9 @@
   pysqlite3 = {
     "0.5.3" = import ./overrides/pysqlite3/0.5.3;
   };
+  pysqueezebox = {
+    "0.8.1" = import ./overrides/pysqueezebox/0.8.1;
+  };
   pysrt = {
     "1.1.2" = import ./overrides/pysrt/1.1.2;
   };
