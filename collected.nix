@@ -4922,6 +4922,9 @@
   monthdelta = {
     "0.9.1" = import ./overrides/monthdelta/0.9.1;
   };
+  moonraker-api = {
+    "2.0.6" = import ./overrides/moonraker-api/2.0.6;
+  };
   mordred = {
     "1.2.0" = import ./overrides/mordred/1.2.0;
   };
