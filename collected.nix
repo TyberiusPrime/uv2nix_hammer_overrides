@@ -7970,6 +7970,9 @@
   rmtest = {
     "0.7.0" = import ./overrides/rmtest/0.7.0;
   };
+  road-collisions-base = {
+    "0.0.22" = import ./overrides/road-collisions-base/0.0.22;
+  };
   roadtools = {
     "0.0.1" = import ./overrides/roadtools/0.0.1;
   };
