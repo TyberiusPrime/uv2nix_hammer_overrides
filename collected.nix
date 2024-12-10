@@ -4223,6 +4223,9 @@
   kss-core = {
     "1.6.5" = import ./overrides/kss-core/1.6.5;
   };
+  kubernetes-asyncio = {
+    "31.1.0" = import ./overrides/kubernetes-asyncio/31.1.0;
+  };
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
   };
