@@ -7628,6 +7628,9 @@
   pywatchman = {
     "2.0.0" = import ./overrides/pywatchman/2.0.0;
   };
+  pyweatherflowrest = {
+    "1.0.11" = import ./overrides/pyweatherflowrest/1.0.11;
+  };
   pywebdav = {
     "0.9.8" = import ./overrides/pywebdav/0.9.8;
   };
