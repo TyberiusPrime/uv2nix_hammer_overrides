@@ -150,6 +150,9 @@
   aipy = {
     "3.0.6" = import ./overrides/aipy/3.0.6;
   };
+  airbyte-cdk = {
+    "5.5.2" = import ./overrides/airbyte-cdk/5.5.2;
+  };
   aircv = {
     "1.4.6" = import ./overrides/aircv/1.4.6;
   };
