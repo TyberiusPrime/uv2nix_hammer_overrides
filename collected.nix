@@ -7964,6 +7964,9 @@
   ritassist = {
     "0.9.3" = import ./overrides/ritassist/0.9.3;
   };
+  rjsmin = {
+    "1.2.2" = import ./overrides/rjsmin/1.2.2;
+  };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
