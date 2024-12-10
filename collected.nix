@@ -4835,6 +4835,9 @@
   mkdocs-jupyter = {
     "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
   };
+  mkdocs-table-reader-plugin = {
+    "3.1.0" = import ./overrides/mkdocs-table-reader-plugin/3.1.0;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
