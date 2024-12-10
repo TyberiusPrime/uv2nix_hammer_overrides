@@ -3317,6 +3317,9 @@
   greenlet = {
     "3.1.0" = import ./overrides/greenlet/3.1.0;
   };
+  greynoise = {
+    "2.3.0" = import ./overrides/greynoise/2.3.0;
+  };
   gripcontrol = {
     "4.2.0" = import ./overrides/gripcontrol/4.2.0;
   };
