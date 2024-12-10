@@ -5964,6 +5964,9 @@
   plant = {
     "0.1.3" = import ./overrides/plant/0.1.3;
   };
+  platformdirs = {
+    "4.3.2" = import ./overrides/platformdirs/4.3.2;
+  };
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
