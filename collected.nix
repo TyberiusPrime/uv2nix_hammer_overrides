@@ -2628,6 +2628,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  extract-msg = {
+    "0.49.0" = import ./overrides/extract-msg/0.49.0;
+  };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
