@@ -9115,6 +9115,9 @@
   tinyrecord = {
     "0.2.0" = import ./overrides/tinyrecord/0.2.0;
   };
+  tinyscript = {
+    "1.30.16" = import ./overrides/tinyscript/1.30.16;
+  };
   tinysegmenter = {
     "0.4" = import ./overrides/tinysegmenter/0.4;
   };
