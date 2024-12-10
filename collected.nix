@@ -8981,6 +8981,9 @@
   tensorflow-io-gcs-filesystem = {
     "0.37.1" = import ./overrides/tensorflow-io-gcs-filesystem/0.37.1;
   };
+  teradata = {
+    "15.10.0.21" = import ./overrides/teradata/15.10.0.21;
+  };
   termcolor = {
     "1.1.0" = import ./overrides/termcolor/1.1.0;
   };
