@@ -7167,6 +7167,9 @@
   pyspf = {
     "2.0.14" = import ./overrides/pyspf/2.0.14;
   };
+  pyspnego = {
+    "0.11.1" = import ./overrides/pyspnego/0.11.1;
+  };
   pysptk = {
     "1.0.1" = import ./overrides/pysptk/1.0.1;
   };
