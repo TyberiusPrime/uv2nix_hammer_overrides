@@ -3429,6 +3429,9 @@
   healthcheck = {
     "1.3.3" = import ./overrides/healthcheck/1.3.3;
   };
+  heaserver = {
+    "1.10.6" = import ./overrides/heaserver/1.10.6;
+  };
   heatshrink2 = {
     "0.13.0" = import ./overrides/heatshrink2/0.13.0;
   };
