@@ -7736,6 +7736,9 @@
   querystring = {
     "0.1.0" = import ./overrides/querystring/0.1.0;
   };
+  questionary = {
+    "2.0.1" = import ./overrides/questionary/2.0.1;
+  };
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
   };
