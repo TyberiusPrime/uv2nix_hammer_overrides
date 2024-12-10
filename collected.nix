@@ -5426,6 +5426,9 @@
   object-clerk = {
     "0.1.1" = import ./overrides/object-clerk/0.1.1;
   };
+  observable = {
+    "1.0.3" = import ./overrides/observable/1.0.3;
+  };
   octobot-commons = {
     "1.9.58" = import ./overrides/octobot-commons/1.9.58;
   };
