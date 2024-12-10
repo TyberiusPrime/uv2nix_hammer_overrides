@@ -313,6 +313,9 @@
   appy = {
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
+  apricot-select = {
+    "0.6.1" = import ./overrides/apricot-select/0.6.1;
+  };
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
