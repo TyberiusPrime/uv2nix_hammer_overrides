@@ -2721,6 +2721,9 @@
   feather-format = {
     "0.4.1" = import ./overrides/feather-format/0.4.1;
   };
+  feature-engine = {
+    "1.8.1" = import ./overrides/feature-engine/1.8.1;
+  };
   feedfinder2 = {
     "0.0.4" = import ./overrides/feedfinder2/0.0.4;
   };
