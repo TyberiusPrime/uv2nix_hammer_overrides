@@ -7532,6 +7532,9 @@
   pythonwhois = {
     "2.4.3" = import ./overrides/pythonwhois/2.4.3;
   };
+  pythreader = {
+    "2.15.0" = import ./overrides/pythreader/2.15.0;
+  };
   pytidylib = {
     "0.3.2" = import ./overrides/pytidylib/0.3.2;
   };
