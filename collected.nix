@@ -708,6 +708,7 @@
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
   bintrees = {
+    "2.0.7" = import ./overrides/bintrees/2.0.7;
     "2.2.0" = import ./overrides/bintrees/2.2.0;
   };
   binwalk = {
@@ -3106,6 +3107,9 @@
   };
   gdata = {
     "2.0.18" = import ./overrides/gdata/2.0.18;
+  };
+  gdax = {
+    "1.0.6" = import ./overrides/gdax/1.0.6;
   };
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
