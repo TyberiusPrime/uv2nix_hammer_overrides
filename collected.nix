@@ -3522,6 +3522,9 @@
   html5lib = {
     "0.9999999" = import ./overrides/html5lib/0.9999999;
   };
+  htmldate = {
+    "1.9.0" = import ./overrides/htmldate/1.9.0;
+  };
   htmllaundry = {
     "2.2" = import ./overrides/htmllaundry/2.2;
   };
