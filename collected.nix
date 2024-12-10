@@ -8111,6 +8111,9 @@
   salsa20 = {
     "0.3.0" = import ./overrides/salsa20/0.3.0;
   };
+  salt = {
+    "3007.1" = import ./overrides/salt/3007.1;
+  };
   salure-helpers-salureconnect = {
     "2.2.3" = import ./overrides/salure-helpers-salureconnect/2.2.3;
   };
