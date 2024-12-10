@@ -1871,6 +1871,7 @@
     "2.3" = import ./overrides/django-admin-sortable/2.3;
   };
   django-allauth = {
+    "0.51.0" = import ./overrides/django-allauth/0.51.0;
     "0.54.0" = import ./overrides/django-allauth/0.54.0;
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
   };
@@ -5568,6 +5569,9 @@
   };
   openvino = {
     "2024.3.0" = import ./overrides/openvino/2024.3.0;
+  };
+  openwisp-users = {
+    "1.0.2" = import ./overrides/openwisp-users/1.0.2;
   };
   openwrt-ubus-rpc = {
     "0.0.3" = import ./overrides/openwrt-ubus-rpc/0.0.3;
