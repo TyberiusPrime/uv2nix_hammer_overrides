@@ -2096,6 +2096,9 @@
   django-preferences = {
     "1.0.0" = import ./overrides/django-preferences/1.0.0;
   };
+  django-prices = {
+    "2.3.0" = import ./overrides/django-prices/2.3.0;
+  };
   django-pure-pagination = {
     "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
   };
