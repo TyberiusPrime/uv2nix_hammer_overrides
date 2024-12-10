@@ -5345,6 +5345,7 @@
   };
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
+    "0.58.0" = import ./overrides/numba/0.58.0;
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
@@ -9292,6 +9293,9 @@
   };
   transifex-client = {
     "0.14.4" = import ./overrides/transifex-client/0.14.4;
+  };
+  transitleastsquares = {
+    "1.32" = import ./overrides/transitleastsquares/1.32;
   };
   translitcodec = {
     "0.7.0" = import ./overrides/translitcodec/0.7.0;
