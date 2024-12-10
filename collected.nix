@@ -9642,6 +9642,9 @@
   validr = {
     "1.2.2" = import ./overrides/validr/1.2.2;
   };
+  vallox-websocket-api = {
+    "5.3.0" = import ./overrides/vallox-websocket-api/5.3.0;
+  };
   vamp = {
     "1.1.0" = import ./overrides/vamp/1.1.0;
   };
