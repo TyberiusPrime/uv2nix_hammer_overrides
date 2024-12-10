@@ -1017,6 +1017,9 @@
   chameleon-zpt = {
     "1.1.3" = import ./overrides/chameleon-zpt/1.1.3;
   };
+  characteristic = {
+    "14.3.0" = import ./overrides/characteristic/14.3.0;
+  };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
