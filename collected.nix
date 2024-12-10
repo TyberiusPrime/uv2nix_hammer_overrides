@@ -5590,6 +5590,9 @@
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
   };
+  ordered-set = {
+    "4.1.0" = import ./overrides/ordered-set/4.1.0;
+  };
   ordereddict = {
     "1.1" = import ./overrides/ordereddict/1.1;
   };
