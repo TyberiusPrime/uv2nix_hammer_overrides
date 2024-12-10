@@ -9934,6 +9934,9 @@
   workerpool = {
     "0.9.4" = import ./overrides/workerpool/0.9.4;
   };
+  wrapt-timeout-decorator = {
+    "1.5.1" = import ./overrides/wrapt-timeout-decorator/1.5.1;
+  };
   ws4py = {
     "0.5.1" = import ./overrides/ws4py/0.5.1;
   };
