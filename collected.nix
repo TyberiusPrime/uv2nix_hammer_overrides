@@ -1421,6 +1421,9 @@
   coreapi-cli = {
     "1.0.9" = import ./overrides/coreapi-cli/1.0.9;
   };
+  corejet-core = {
+    "1.1.0" = import ./overrides/corejet-core/1.1.0;
+  };
   coremltools = {
     "7.2" = import ./overrides/coremltools/7.2;
   };
