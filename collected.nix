@@ -7478,6 +7478,9 @@
   python-tds = {
     "1.15.0" = import ./overrides/python-tds/1.15.0;
   };
+  python-telegram = {
+    "0.19.0" = import ./overrides/python-telegram/0.19.0;
+  };
   python-terraform = {
     "0.10.1" = import ./overrides/python-terraform/0.10.1;
   };
