@@ -704,6 +704,9 @@
   billiard = {
     "3.5.0.5" = import ./overrides/billiard/3.5.0.5;
   };
+  binary = {
+    "1.0.0" = import ./overrides/binary/1.0.0;
+  };
   binary2strings = {
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
