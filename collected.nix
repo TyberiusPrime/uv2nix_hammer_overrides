@@ -7209,6 +7209,9 @@
   pytelegraf = {
     "0.3.3" = import ./overrides/pytelegraf/0.3.3;
   };
+  pytest-allure-adaptor = {
+    "1.7.10" = import ./overrides/pytest-allure-adaptor/1.7.10;
+  };
   pytest-black = {
     "0.3.12" = import ./overrides/pytest-black/0.3.12;
   };
