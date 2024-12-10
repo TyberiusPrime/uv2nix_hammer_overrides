@@ -1831,6 +1831,9 @@
   dirsync = {
     "2.2.5" = import ./overrides/dirsync/2.2.5;
   };
+  dirtyjson = {
+    "1.0.8" = import ./overrides/dirtyjson/1.0.8;
+  };
   dis = {
     "1.0.1" = import ./overrides/dis/1.0.1;
   };
