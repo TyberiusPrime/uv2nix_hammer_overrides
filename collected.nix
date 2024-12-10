@@ -611,6 +611,9 @@
   basic-logtools = {
     "0.2.0" = import ./overrides/basic-logtools/0.2.0;
   };
+  basicauth = {
+    "1.0.0" = import ./overrides/basicauth/1.0.0;
+  };
   basiciw = {
     "0.2.2" = import ./overrides/basiciw/0.2.2;
   };
