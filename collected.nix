@@ -8108,6 +8108,9 @@
   safeio = {
     "1.2" = import ./overrides/safeio/1.2;
   };
+  sailthru-client = {
+    "2.3.5" = import ./overrides/sailthru-client/2.3.5;
+  };
   salsa20 = {
     "0.3.0" = import ./overrides/salsa20/0.3.0;
   };
