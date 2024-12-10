@@ -2790,6 +2790,9 @@
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };
+  fjaraskupan = {
+    "2.3.0" = import ./overrides/fjaraskupan/2.3.0;
+  };
   flake8-blind-except = {
     "0.2.1" = import ./overrides/flake8-blind-except/0.2.1;
   };
