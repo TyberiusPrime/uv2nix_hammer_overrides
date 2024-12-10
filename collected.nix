@@ -5848,6 +5848,9 @@
   pfurl = {
     "2.3.0.1" = import ./overrides/pfurl/2.3.0.1;
   };
+  pglast = {
+    "6.3" = import ./overrides/pglast/6.3;
+  };
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
   };
