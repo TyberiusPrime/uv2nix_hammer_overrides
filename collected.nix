@@ -7012,6 +7012,9 @@
   pyptlib = {
     "0.0.6" = import ./overrides/pyptlib/0.0.6;
   };
+  pypyodbc = {
+    "1.3.6" = import ./overrides/pypyodbc/1.3.6;
+  };
   pypytools = {
     "0.6.2" = import ./overrides/pypytools/0.6.2;
   };
