@@ -5414,6 +5414,9 @@
   oandapyv20 = {
     "0.7.2" = import ./overrides/oandapyv20/0.7.2;
   };
+  oasys-srwpy = {
+    "1.0.5" = import ./overrides/oasys-srwpy/1.0.5;
+  };
   oauth = {
     "1.0.1" = import ./overrides/oauth/1.0.1;
   };
