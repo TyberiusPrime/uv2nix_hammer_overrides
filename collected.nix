@@ -5842,6 +5842,9 @@
   pfmisc = {
     "2.2.14" = import ./overrides/pfmisc/2.2.14;
   };
+  pftools = {
+    "1.3.11" = import ./overrides/pftools/1.3.11;
+  };
   pftree = {
     "3.4.2" = import ./overrides/pftree/3.4.2;
   };
