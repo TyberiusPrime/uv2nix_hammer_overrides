@@ -542,6 +542,9 @@
   azure-cognitiveservices-speech = {
     "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
   };
+  azure-cosmosdb-nspkg = {
+    "2.0.2" = import ./overrides/azure-cosmosdb-nspkg/2.0.2;
+  };
   azureml-automl-core = {
     "1.57.0" = import ./overrides/azureml-automl-core/1.57.0;
   };
