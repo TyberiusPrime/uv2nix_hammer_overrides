@@ -804,6 +804,9 @@
   bolt-python = {
     "0.7.1" = import ./overrides/bolt-python/0.7.1;
   };
+  bolton-clack = {
+    "0.3.12" = import ./overrides/bolton-clack/0.3.12;
+  };
   bonsai = {
     "1.5.3" = import ./overrides/bonsai/1.5.3;
   };
