@@ -4679,6 +4679,9 @@
   mdv = {
     "1.7.5" = import ./overrides/mdv/1.7.5;
   };
+  mechanize = {
+    "0.4.10" = import ./overrides/mechanize/0.4.10;
+  };
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
   };
