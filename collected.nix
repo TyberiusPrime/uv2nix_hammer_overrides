@@ -9630,6 +9630,9 @@
   uwsgidecorators = {
     "1.1.0" = import ./overrides/uwsgidecorators/1.1.0;
   };
+  uxsim = {
+    "1.5.0" = import ./overrides/uxsim/1.5.0;
+  };
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
