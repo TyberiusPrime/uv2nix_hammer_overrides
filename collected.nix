@@ -9443,6 +9443,9 @@
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
+  types-aiobotocore-s3outposts = {
+    "2.15.0" = import ./overrides/types-aiobotocore-s3outposts/2.15.0;
+  };
   typing = {
     "3.5.2.2" = import ./overrides/typing/3.5.2.2;
   };
