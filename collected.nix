@@ -8299,6 +8299,9 @@
   serverfiles = {
     "0.3.1" = import ./overrides/serverfiles/0.3.1;
   };
+  servicex = {
+    "2.8.0" = import ./overrides/servicex/2.8.0;
+  };
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
