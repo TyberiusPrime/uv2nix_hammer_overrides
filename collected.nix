@@ -9787,6 +9787,9 @@
   vsure = {
     "2.6.7" = import ./overrides/vsure/2.6.7;
   };
+  w1thermsensor = {
+    "2.3.0" = import ./overrides/w1thermsensor/2.3.0;
+  };
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
   };
