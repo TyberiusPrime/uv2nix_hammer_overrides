@@ -527,6 +527,9 @@
   aws-psycopg2 = {
     "1.3.8" = import ./overrides/aws-psycopg2/1.3.8;
   };
+  aws-s3-resource = {
+    "0.0.15" = import ./overrides/aws-s3-resource/0.0.15;
+  };
   awscli-cwlogs = {
     "1.4.6" = import ./overrides/awscli-cwlogs/1.4.6;
   };
