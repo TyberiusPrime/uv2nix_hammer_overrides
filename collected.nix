@@ -1159,6 +1159,9 @@
   cloudinary = {
     "1.41.0" = import ./overrides/cloudinary/1.41.0;
   };
+  cloudscraper = {
+    "1.2.71" = import ./overrides/cloudscraper/1.2.71;
+  };
   cloudshell-automation-api = {
     "8.3.0.168355" = import ./overrides/cloudshell-automation-api/8.3.0.168355;
   };
