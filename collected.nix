@@ -2072,6 +2072,9 @@
   django-ohm2-handlers-light = {
     "0.4.3" = import ./overrides/django-ohm2-handlers-light/0.4.3;
   };
+  django-orderable = {
+    "6.1.2" = import ./overrides/django-orderable/6.1.2;
+  };
   django-pagination = {
     "1.0.7" = import ./overrides/django-pagination/1.0.7;
   };
