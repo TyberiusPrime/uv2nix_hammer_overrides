@@ -8637,6 +8637,9 @@
   sphinxcontrib-newsfeed = {
     "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
   };
+  sphinxcontrib-openapi = {
+    "0.8.4" = import ./overrides/sphinxcontrib-openapi/0.8.4;
+  };
   sphinxcontrib-plantuml = {
     "0.30" = import ./overrides/sphinxcontrib-plantuml/0.30;
   };
