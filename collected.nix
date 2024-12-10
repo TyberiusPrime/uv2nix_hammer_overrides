@@ -3856,6 +3856,9 @@
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
+  ismember = {
+    "1.0.5" = import ./overrides/ismember/1.0.5;
+  };
   iso-639 = {
     "0.4.5" = import ./overrides/iso-639/0.4.5;
   };
