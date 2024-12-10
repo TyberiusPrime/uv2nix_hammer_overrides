@@ -7859,6 +7859,9 @@
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
+  remi = {
+    "2022.7.27" = import ./overrides/remi/2022.7.27;
+  };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
