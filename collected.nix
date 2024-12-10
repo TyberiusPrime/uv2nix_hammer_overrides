@@ -533,6 +533,9 @@
   awscli-local = {
     "0.22.0" = import ./overrides/awscli-local/0.22.0;
   };
+  awscrt = {
+    "0.21.5" = import ./overrides/awscrt/0.21.5;
+  };
   awsebcli = {
     "3.20.10" = import ./overrides/awsebcli/3.20.10;
   };
