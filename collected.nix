@@ -9880,6 +9880,9 @@
   wheezy-template = {
     "3.2.2" = import ./overrides/wheezy-template/3.2.2;
   };
+  whenever = {
+    "0.6.8" = import ./overrides/whenever/0.6.8;
+  };
   whisper = {
     "1.1.10" = import ./overrides/whisper/1.1.10;
   };
