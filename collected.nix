@@ -6575,6 +6575,9 @@
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
   };
+  pydruid = {
+    "0.6.9" = import ./overrides/pydruid/0.6.9;
+  };
   pyds9 = {
     "1.8.1" = import ./overrides/pyds9/1.8.1;
   };
