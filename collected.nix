@@ -2700,6 +2700,9 @@
   fastuuid = {
     "0.8.0" = import ./overrides/fastuuid/0.8.0;
   };
+  faust-cchardet = {
+    "2.1.19" = import ./overrides/faust-cchardet/2.1.19;
+  };
   faust-streaming = {
     "0.11.3" = import ./overrides/faust-streaming/0.11.3;
   };
