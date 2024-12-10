@@ -5096,6 +5096,9 @@
   mythril = {
     "0.24.8" = import ./overrides/mythril/0.24.8;
   };
+  nacos-sdk-python = {
+    "1.0.0" = import ./overrides/nacos-sdk-python/1.0.0;
+  };
   nad-receiver = {
     "0.3.0" = import ./overrides/nad-receiver/0.3.0;
   };
