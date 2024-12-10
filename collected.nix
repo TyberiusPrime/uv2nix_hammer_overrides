@@ -2081,6 +2081,9 @@
   django-paintstore = {
     "0.2" = import ./overrides/django-paintstore/0.2;
   };
+  django-permissionedforms = {
+    "0.1" = import ./overrides/django-permissionedforms/0.1;
+  };
   django-pglocks = {
     "1.0.4" = import ./overrides/django-pglocks/1.0.4;
   };
