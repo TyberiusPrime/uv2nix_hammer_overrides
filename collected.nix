@@ -9124,6 +9124,9 @@
   tipfy = {
     "0.6.4" = import ./overrides/tipfy/0.6.4;
   };
+  tippo = {
+    "4.1.1" = import ./overrides/tippo/4.1.1;
+  };
   tissue = {
     "0.9.2" = import ./overrides/tissue/0.9.2;
   };
