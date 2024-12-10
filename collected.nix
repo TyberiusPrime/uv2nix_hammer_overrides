@@ -6165,6 +6165,9 @@
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
+  profilehooks = {
+    "1.12.0" = import ./overrides/profilehooks/1.12.0;
+  };
   progress = {
     "1.6" = import ./overrides/progress/1.6;
   };
