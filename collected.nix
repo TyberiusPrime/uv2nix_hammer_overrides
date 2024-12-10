@@ -8858,6 +8858,9 @@
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
   };
+  switchbot-api = {
+    "2.2.1" = import ./overrides/switchbot-api/2.2.1;
+  };
   sxsxml = {
     "0.0.0.5" = import ./overrides/sxsxml/0.0.0.5;
   };
