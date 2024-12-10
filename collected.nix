@@ -10079,6 +10079,9 @@
   yattag = {
     "1.16.0" = import ./overrides/yattag/1.16.0;
   };
+  ydata-profiling = {
+    "4.10.0" = import ./overrides/ydata-profiling/4.10.0;
+  };
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
   };
