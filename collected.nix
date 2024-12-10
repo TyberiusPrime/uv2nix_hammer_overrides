@@ -9886,6 +9886,9 @@
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
+  wicked = {
+    "1.1.12" = import ./overrides/wicked/1.1.12;
+  };
   wikipedia = {
     "1.4.0" = import ./overrides/wikipedia/1.4.0;
   };
