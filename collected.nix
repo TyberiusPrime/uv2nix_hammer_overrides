@@ -9621,6 +9621,9 @@
   utm = {
     "0.7.0" = import ./overrides/utm/0.7.0;
   };
+  utwist = {
+    "0.1.3" = import ./overrides/utwist/0.1.3;
+  };
   uuid = {
     "1.30" = import ./overrides/uuid/1.30;
   };
