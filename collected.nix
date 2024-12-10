@@ -1110,6 +1110,9 @@
   clf = {
     "0.5.7" = import ./overrides/clf/0.5.7;
   };
+  click-aliases = {
+    "1.0.4" = import ./overrides/click-aliases/1.0.4;
+  };
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
   };
