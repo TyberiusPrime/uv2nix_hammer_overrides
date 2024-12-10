@@ -190,6 +190,9 @@
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
   };
+  allure-python-commons-test = {
+    "2.13.5" = import ./overrides/allure-python-commons-test/2.13.5;
+  };
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
