@@ -7137,6 +7137,9 @@
   pysigset = {
     "0.4.0" = import ./overrides/pysigset/0.4.0;
   };
+  pysimdjson = {
+    "6.0.2" = import ./overrides/pysimdjson/6.0.2;
+  };
   pysingleton = {
     "0.2.1" = import ./overrides/pysingleton/0.2.1;
   };
