@@ -503,6 +503,9 @@
   autosemver = {
     "1.0.0" = import ./overrides/autosemver/1.0.0;
   };
+  autoslot = {
+    "2022.12.1" = import ./overrides/autoslot/2022.12.1;
+  };
   autowrapt = {
     "1.0" = import ./overrides/autowrapt/1.0;
   };
