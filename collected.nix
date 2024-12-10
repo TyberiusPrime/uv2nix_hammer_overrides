@@ -7221,6 +7221,9 @@
   pytest-cram = {
     "0.2.2" = import ./overrides/pytest-cram/0.2.2;
   };
+  pytest-examples = {
+    "0.0.13" = import ./overrides/pytest-examples/0.0.13;
+  };
   pytest-expect = {
     "1.1.0" = import ./overrides/pytest-expect/1.1.0;
   };
