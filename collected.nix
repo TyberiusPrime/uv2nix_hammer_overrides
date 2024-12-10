@@ -1752,6 +1752,9 @@
   deepwave = {
     "0.0.20" = import ./overrides/deepwave/0.0.20;
   };
+  deezer-python = {
+    "7.0.0" = import ./overrides/deezer-python/7.0.0;
+  };
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
