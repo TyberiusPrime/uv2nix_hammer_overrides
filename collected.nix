@@ -5967,6 +5967,9 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plexwebsocket = {
+    "0.0.14" = import ./overrides/plexwebsocket/0.0.14;
+  };
   plone-app-form = {
     "2.3.3" = import ./overrides/plone-app-form/2.3.3;
   };
