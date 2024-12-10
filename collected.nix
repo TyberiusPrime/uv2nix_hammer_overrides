@@ -2051,6 +2051,9 @@
   django-mp-pagination = {
     "0.3.0" = import ./overrides/django-mp-pagination/0.3.0;
   };
+  django-multi-email-field = {
+    "0.7.0" = import ./overrides/django-multi-email-field/0.7.0;
+  };
   django-next-prev = {
     "1.1.0" = import ./overrides/django-next-prev/1.1.0;
   };
