@@ -3838,6 +3838,9 @@
   iowait = {
     "0.2" = import ./overrides/iowait/0.2;
   };
+  ip-associations-python-novaclient-ext = {
+    "0.2" = import ./overrides/ip-associations-python-novaclient-ext/0.2;
+  };
   ipadic = {
     "1.0.0" = import ./overrides/ipadic/1.0.0;
   };
@@ -5602,8 +5605,17 @@
   orvibo = {
     "1.1.2" = import ./overrides/orvibo/1.1.2;
   };
+  os-diskconfig-python-novaclient-ext = {
+    "0.1.3" = import ./overrides/os-diskconfig-python-novaclient-ext/0.1.3;
+  };
+  os-networksv2-python-novaclient-ext = {
+    "0.26" = import ./overrides/os-networksv2-python-novaclient-ext/0.26;
+  };
   os-tools = {
     "4.56" = import ./overrides/os-tools/4.56;
+  };
+  os-virtual-interfacesv2-python-novaclient-ext = {
+    "0.20" = import ./overrides/os-virtual-interfacesv2-python-novaclient-ext/0.20;
   };
   osascript = {
     "2020.12.3" = import ./overrides/osascript/2020.12.3;
@@ -6056,6 +6068,9 @@
   };
   portpicker = {
     "1.3.1" = import ./overrides/portpicker/1.3.1;
+  };
+  positional = {
+    "1.2.1" = import ./overrides/positional/1.2.1;
   };
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
@@ -7042,6 +7057,9 @@
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
   };
+  pyrax = {
+    "1.10.0" = import ./overrides/pyrax/1.10.0;
+  };
   pyreact = {
     "0.6.0" = import ./overrides/pyreact/0.6.0;
   };
@@ -7745,6 +7763,12 @@
   rabird-core = {
     "0.4.1" = import ./overrides/rabird-core/0.4.1;
   };
+  rackspace-auth-openstack = {
+    "1.3" = import ./overrides/rackspace-auth-openstack/1.3;
+  };
+  rackspace-novaclient = {
+    "2.1" = import ./overrides/rackspace-novaclient/2.1;
+  };
   radar = {
     "0.3" = import ./overrides/radar/0.3;
   };
@@ -7786,6 +7810,12 @@
   };
   rauth = {
     "0.7.3" = import ./overrides/rauth/0.7.3;
+  };
+  rax-default-network-flags-python-novaclient-ext = {
+    "0.4.0" = import ./overrides/rax-default-network-flags-python-novaclient-ext/0.4.0;
+  };
+  rax-scheduled-images-python-novaclient-ext = {
+    "0.3.1" = import ./overrides/rax-scheduled-images-python-novaclient-ext/0.3.1;
   };
   rcsb-utils-io = {
     "1.49" = import ./overrides/rcsb-utils-io/1.49;
