@@ -5736,6 +5736,9 @@
   path-and-address = {
     "2.0.1" = import ./overrides/path-and-address/2.0.1;
   };
+  pathable = {
+    "0.4.3" = import ./overrides/pathable/0.4.3;
+  };
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
