@@ -9898,6 +9898,9 @@
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
   };
+  winsspi = {
+    "0.0.11" = import ./overrides/winsspi/0.0.11;
+  };
   wireless = {
     "0.3.3" = import ./overrides/wireless/0.3.3;
   };
