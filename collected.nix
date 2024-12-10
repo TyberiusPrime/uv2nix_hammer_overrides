@@ -3146,6 +3146,9 @@
   getkey = {
     "0.6.5" = import ./overrides/getkey/0.6.5;
   };
+  getpaid-core = {
+    "0.9.2" = import ./overrides/getpaid-core/0.9.2;
+  };
   gexml = {
     "1.2.0" = import ./overrides/gexml/1.2.0;
   };
@@ -3582,6 +3585,9 @@
   };
   hunspell = {
     "0.5.5" = import ./overrides/hunspell/0.5.5;
+  };
+  hurry-workflow = {
+    "3.0.2" = import ./overrides/hurry-workflow/3.0.2;
   };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
