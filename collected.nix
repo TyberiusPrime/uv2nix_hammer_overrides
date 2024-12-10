@@ -8589,6 +8589,9 @@
   sox = {
     "1.5.0" = import ./overrides/sox/1.5.0;
   };
+  spacy-loggers = {
+    "1.0.5" = import ./overrides/spacy-loggers/1.0.5;
+  };
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
