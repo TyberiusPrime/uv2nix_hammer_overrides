@@ -7233,6 +7233,9 @@
   pytest-mockito = {
     "0.0.4" = import ./overrides/pytest-mockito/0.0.4;
   };
+  pytest-parallel = {
+    "0.1.1" = import ./overrides/pytest-parallel/0.1.1;
+  };
   pytest-pep8 = {
     "1.0.6" = import ./overrides/pytest-pep8/1.0.6;
   };
