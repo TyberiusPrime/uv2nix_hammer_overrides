@@ -2135,6 +2135,9 @@
   django-sendsms = {
     "0.5" = import ./overrides/django-sendsms/0.5;
   };
+  django-sesame = {
+    "3.2.2" = import ./overrides/django-sesame/3.2.2;
+  };
   django-settings-export = {
     "1.2.1" = import ./overrides/django-settings-export/1.2.1;
   };
