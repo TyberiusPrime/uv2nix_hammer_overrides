@@ -7036,6 +7036,9 @@
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
   };
+  pyramid-celery = {
+    "4.0.0" = import ./overrides/pyramid-celery/4.0.0;
+  };
   pyramid-deform = {
     "0.2" = import ./overrides/pyramid-deform/0.2;
   };
