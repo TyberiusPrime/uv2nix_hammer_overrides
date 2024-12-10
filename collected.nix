@@ -6617,14 +6617,23 @@
   pyexiv2 = {
     "2.14.0" = import ./overrides/pyexiv2/2.14.0;
   };
+  pyf-componentized = {
+    "2.0.5" = import ./overrides/pyf-componentized/2.0.5;
+  };
   pyf-dataflow = {
     "2.0.2" = import ./overrides/pyf-dataflow/2.0.2;
+  };
+  pyf-manager = {
+    "2.0.1" = import ./overrides/pyf-manager/2.0.1;
   };
   pyf-splitter = {
     "3.1" = import ./overrides/pyf-splitter/3.1;
   };
   pyf-transport = {
     "2.0.1" = import ./overrides/pyf-transport/2.0.1;
+  };
+  pyf-warehouse = {
+    "2.0.1" = import ./overrides/pyf-warehouse/2.0.1;
   };
   pyfab = {
     "0.3.6" = import ./overrides/pyfab/0.3.6;
