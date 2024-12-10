@@ -6779,6 +6779,9 @@
   pykerberos = {
     "1.2.4" = import ./overrides/pykerberos/1.2.4;
   };
+  pykml = {
+    "0.2.0" = import ./overrides/pykml/0.2.0;
+  };
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
   };
