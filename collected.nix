@@ -8900,6 +8900,9 @@
   tasklib = {
     "2.5.1" = import ./overrides/tasklib/2.5.1;
   };
+  taxi = {
+    "6.3.1" = import ./overrides/taxi/6.3.1;
+  };
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
   };
