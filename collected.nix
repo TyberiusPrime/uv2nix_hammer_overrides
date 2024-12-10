@@ -271,6 +271,9 @@
   aorta = {
     "2.20.0" = import ./overrides/aorta/2.20.0;
   };
+  apache-airflow-providers-ftp = {
+    "3.11.0" = import ./overrides/apache-airflow-providers-ftp/3.11.0;
+  };
   apache-airflow-providers-google = {
     "10.22.0" = import ./overrides/apache-airflow-providers-google/10.22.0;
   };
