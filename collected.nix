@@ -479,6 +479,9 @@
   auto-sklearn = {
     "0.15.0" = import ./overrides/auto-sklearn/0.15.0;
   };
+  autobahn = {
+    "24.4.2" = import ./overrides/autobahn/24.4.2;
+  };
   autobreadcrumbs = {
     "2.0.0" = import ./overrides/autobreadcrumbs/2.0.0;
   };
