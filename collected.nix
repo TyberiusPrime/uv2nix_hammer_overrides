@@ -4238,6 +4238,9 @@
   langid = {
     "1.1.6" = import ./overrides/langid/1.1.6;
   };
+  langsmith = {
+    "0.1.117" = import ./overrides/langsmith/0.1.117;
+  };
   lanms-neo = {
     "1.0.2" = import ./overrides/lanms-neo/1.0.2;
   };
