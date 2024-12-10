@@ -4562,6 +4562,9 @@
   m-kafka-sdk-v2 = {
     "1.0.4" = import ./overrides/m-kafka-sdk-v2/1.0.4;
   };
+  m-singleton = {
+    "0.3" = import ./overrides/m-singleton/0.3;
+  };
   m2crypto = {
     "0.42.0" = import ./overrides/m2crypto/0.42.0;
   };
