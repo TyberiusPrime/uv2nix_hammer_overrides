@@ -9050,6 +9050,9 @@
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
+  three-merge = {
+    "0.1.1" = import ./overrides/three-merge/0.1.1;
+  };
   thrift = {
     "0.16.0" = import ./overrides/thrift/0.16.0;
     "0.20.0" = import ./overrides/thrift/0.20.0;
