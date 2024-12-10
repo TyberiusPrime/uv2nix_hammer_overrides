@@ -701,6 +701,9 @@
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
+  bilby = {
+    "2.3.0" = import ./overrides/bilby/2.3.0;
+  };
   billiard = {
     "3.5.0.5" = import ./overrides/billiard/3.5.0.5;
   };
