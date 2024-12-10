@@ -1870,6 +1870,9 @@
   django-admin-sortable = {
     "2.3" = import ./overrides/django-admin-sortable/2.3;
   };
+  django-adminplus = {
+    "0.6" = import ./overrides/django-adminplus/0.6;
+  };
   django-allauth = {
     "0.54.0" = import ./overrides/django-allauth/0.54.0;
     "64.2.1" = import ./overrides/django-allauth/64.2.1;
