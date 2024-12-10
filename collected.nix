@@ -3098,6 +3098,9 @@
   gcloud = {
     "0.18.3" = import ./overrides/gcloud/0.18.3;
   };
+  gcloud-aio-auth = {
+    "5.3.2" = import ./overrides/gcloud-aio-auth/5.3.2;
+  };
   gcloud-aio-bigquery = {
     "7.1.0" = import ./overrides/gcloud-aio-bigquery/7.1.0;
   };
