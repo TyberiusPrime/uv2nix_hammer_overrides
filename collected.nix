@@ -3853,6 +3853,9 @@
   ipy = {
     "1.1" = import ./overrides/ipy/1.1;
   };
+  ipython-cluster-helper = {
+    "0.6.4" = import ./overrides/ipython-cluster-helper/0.6.4;
+  };
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
