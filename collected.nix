@@ -9684,6 +9684,9 @@
   verlib = {
     "0.1" = import ./overrides/verlib/0.1;
   };
+  versionfinder = {
+    "1.1.1" = import ./overrides/versionfinder/1.1.1;
+  };
   versiontools = {
     "1.9.1" = import ./overrides/versiontools/1.9.1;
   };
