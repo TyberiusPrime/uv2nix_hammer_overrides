@@ -2995,6 +2995,9 @@
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
+  fpyutils = {
+    "4.0.1" = import ./overrides/fpyutils/4.0.1;
+  };
   frasco = {
     "3.5.1" = import ./overrides/frasco/3.5.1;
   };
