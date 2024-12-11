@@ -9822,6 +9822,9 @@
   pyxl3 = {
     "1.4" = import ./overrides/pyxl3/1.4;
   };
+  pyxlsb = {
+    "1.0.10" = import ./overrides/pyxlsb/1.0.10;
+  };
   pyyaml = {
     "3.13" = import ./overrides/pyyaml/3.13;
     "5.1.2" = import ./overrides/pyyaml/5.1.2;
