@@ -2781,6 +2781,9 @@
   dpt-threading = {
     "2.0.2" = import ./overrides/dpt-threading/2.0.2;
   };
+  dramatiq = {
+    "1.17.0" = import ./overrides/dramatiq/1.17.0;
+  };
   drawille = {
     "0.1.0" = import ./overrides/drawille/0.1.0;
   };
