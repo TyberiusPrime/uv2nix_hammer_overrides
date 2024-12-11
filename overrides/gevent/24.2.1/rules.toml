@@ -1,0 +1,1 @@
+BuildSystems = [ "cffi", "cython", "greenlet", "setuptools",]
