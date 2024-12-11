@@ -10079,6 +10079,9 @@
   untokenize = {
     "0.1.1" = import ./overrides/untokenize/0.1.1;
   };
+  upass = {
+    "0.3.0" = import ./overrides/upass/0.3.0;
+  };
   update-copyright = {
     "0.6.2" = import ./overrides/update-copyright/0.6.2;
   };
