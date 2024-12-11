@@ -8864,6 +8864,9 @@
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
   };
+  systembridgemodels = {
+    "4.2.4" = import ./overrides/systembridgemodels/4.2.4;
+  };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
   };
