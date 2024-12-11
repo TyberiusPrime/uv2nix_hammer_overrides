@@ -1566,6 +1566,9 @@
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
+  ctgan = {
+    "0.10.1" = import ./overrides/ctgan/0.10.1;
+  };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
