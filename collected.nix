@@ -4372,6 +4372,9 @@
   grpc-stubs = {
     "1.53.0.5" = import ./overrides/grpc-stubs/1.53.0.5;
   };
+  grpc-interceptor = {
+    "0.15.4" = import ./overrides/grpc-interceptor/0.15.4;
+  };
   grpcio = {
     "1.57.0" = import ./overrides/grpcio/1.57.0;
   };
