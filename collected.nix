@@ -3297,6 +3297,9 @@
     "0.9.3" = import ./overrides/fido2/0.9.3;
     "1.1.3" = import ./overrides/fido2/1.1.3;
   };
+  fields = {
+    "5.0.0" = import ./overrides/fields/5.0.0;
+  };
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
   };
