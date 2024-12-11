@@ -5636,6 +5636,9 @@
   lazr-uri = {
     "1.0.6" = import ./overrides/lazr-uri/1.0.6;
   };
+  lazy = {
+    "1.6" = import ./overrides/lazy/1.6;
+  };
   lazy-import = {
     "0.2.2" = import ./overrides/lazy-import/0.2.2;
   };
