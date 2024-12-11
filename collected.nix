@@ -7865,6 +7865,9 @@
   pymeeus = {
     "0.5.12" = import ./overrides/pymeeus/0.5.12;
   };
+  pymemcache = {
+    "4.0.0" = import ./overrides/pymemcache/4.0.0;
+  };
   pymessenger = {
     "0.0.7.0" = import ./overrides/pymessenger/0.0.7.0;
   };
