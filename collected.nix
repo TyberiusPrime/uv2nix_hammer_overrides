@@ -2578,6 +2578,9 @@
   easy-config = {
     "0.2.0" = import ./overrides/easy-config/0.2.0;
   };
+  easy-pil = {
+    "0.3.4" = import ./overrides/easy-pil/0.3.4;
+  };
   easycli = {
     "1.9.3" = import ./overrides/easycli/1.9.3;
   };
