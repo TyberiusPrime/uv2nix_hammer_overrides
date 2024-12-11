@@ -11059,6 +11059,9 @@
   qnap-qsw = {
     "0.3.0" = import ./overrides/qnap-qsw/0.3.0;
   };
+  qpimage = {
+    "0.9.2" = import ./overrides/qpimage/0.9.2;
+  };
   qprompt = {
     "0.16.3" = import ./overrides/qprompt/0.16.3;
   };
