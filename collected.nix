@@ -5821,6 +5821,9 @@
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
+  persim = {
+    "0.3.7" = import ./overrides/persim/0.3.7;
+  };
   pescea = {
     "1.0.12" = import ./overrides/pescea/1.0.12;
   };
