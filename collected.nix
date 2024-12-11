@@ -5519,6 +5519,9 @@
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
+  opencc-python-reimplemented = {
+    "0.1.7" = import ./overrides/opencc-python-reimplemented/0.1.7;
+  };
   opencmiss-utils = {
     "0.4.2" = import ./overrides/opencmiss-utils/0.4.2;
   };
