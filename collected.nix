@@ -9295,6 +9295,9 @@
   pyopengl = {
     "3.1.0" = import ./overrides/pyopengl/3.1.0;
   };
+  pyopenuv = {
+    "2023.12.0" = import ./overrides/pyopenuv/2023.12.0;
+  };
   pyoppleio = {
     "1.0.7" = import ./overrides/pyoppleio/1.0.7;
   };
