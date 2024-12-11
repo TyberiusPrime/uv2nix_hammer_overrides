@@ -1822,6 +1822,9 @@
   dimagi-utils = {
     "1.2.3.2" = import ./overrides/dimagi-utils/1.2.3.2;
   };
+  diot = {
+    "0.2.3" = import ./overrides/diot/0.2.3;
+  };
   diplib = {
     "3.5.1" = import ./overrides/diplib/3.5.1;
   };
