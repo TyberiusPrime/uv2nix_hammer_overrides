@@ -10169,6 +10169,9 @@
   zodbcode = {
     "3.4.0" = import ./overrides/zodbcode/3.4.0;
   };
+  zope-app-annotation = {
+    "3.4.0" = import ./overrides/zope-app-annotation/3.4.0;
+  };
   zope-app-cache = {
     "3.7.0" = import ./overrides/zope-app-cache/3.7.0;
   };
