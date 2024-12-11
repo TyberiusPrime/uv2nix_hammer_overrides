@@ -3775,6 +3775,9 @@
   inspect-it = {
     "0.3.2" = import ./overrides/inspect-it/0.3.2;
   };
+  inspecta = {
+    "0.1.3" = import ./overrides/inspecta/0.1.3;
+  };
   instabot = {
     "0.117.0" = import ./overrides/instabot/0.117.0;
   };
