@@ -169,6 +169,9 @@
   aioopenexchangerates = {
     "0.6.2" = import ./overrides/aioopenexchangerates/0.6.2;
   };
+  aiomysql = {
+    "0.2.0" = import ./overrides/aiomysql/0.2.0;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
