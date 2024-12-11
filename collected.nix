@@ -8965,6 +8965,9 @@
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
+  pydelijn = {
+    "1.1.0" = import ./overrides/pydelijn/1.1.0;
+  };
   pydenticon = {
     "0.3.1" = import ./overrides/pydenticon/0.3.1;
   };
