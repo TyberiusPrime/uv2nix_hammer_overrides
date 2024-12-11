@@ -7035,6 +7035,9 @@
   pymailgunner = {
     "1.5" = import ./overrides/pymailgunner/1.5;
   };
+  pymarc = {
+    "5.2.2" = import ./overrides/pymarc/5.2.2;
+  };
   pymarktex = {
     "1.4.6" = import ./overrides/pymarktex/1.4.6;
   };
