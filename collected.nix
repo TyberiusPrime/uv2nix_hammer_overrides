@@ -9138,6 +9138,9 @@
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
   };
+  qutip = {
+    "5.0.4" = import ./overrides/qutip/5.0.4;
+  };
   r2pipe = {
     "1.9.4" = import ./overrides/r2pipe/1.9.4;
   };
