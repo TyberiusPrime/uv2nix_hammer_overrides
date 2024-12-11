@@ -578,6 +578,9 @@
   autopaths = {
     "1.6.0" = import ./overrides/autopaths/1.6.0;
   };
+  autoray = {
+    "0.6.12" = import ./overrides/autoray/0.6.12;
+  };
   autosemver = {
     "1.0.0" = import ./overrides/autosemver/1.0.0;
   };
