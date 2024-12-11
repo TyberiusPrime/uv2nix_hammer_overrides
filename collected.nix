@@ -2153,6 +2153,9 @@
   cryptacular = {
     "1.6.2" = import ./overrides/cryptacular/1.6.2;
   };
+  cryptg = {
+    "0.4.0" = import ./overrides/cryptg/0.4.0;
+  };
   cryptocompare = {
     "0.7.6" = import ./overrides/cryptocompare/0.7.6;
   };
