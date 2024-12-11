@@ -175,6 +175,9 @@
   aiomysql = {
     "0.2.0" = import ./overrides/aiomysql/0.2.0;
   };
+  aionut = {
+    "4.3.3" = import ./overrides/aionut/4.3.3;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
