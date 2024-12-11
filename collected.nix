@@ -9117,6 +9117,9 @@
   radiotherm = {
     "2.1.0" = import ./overrides/radiotherm/2.1.0;
   };
+  radon = {
+    "6.0.1" = import ./overrides/radon/6.0.1;
+  };
   rainbow-logging-handler = {
     "2.2.2" = import ./overrides/rainbow-logging-handler/2.2.2;
   };
