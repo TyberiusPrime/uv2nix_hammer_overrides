@@ -6885,6 +6885,9 @@
   odo = {
     "0.5.0" = import ./overrides/odo/0.5.0;
   };
+  oedialect = {
+    "0.1.1" = import ./overrides/oedialect/0.1.1;
+  };
   offsetbasedgraph = {
     "2.1.4" = import ./overrides/offsetbasedgraph/2.1.4;
   };
