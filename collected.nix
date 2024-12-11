@@ -452,6 +452,9 @@
   asyncpgsa = {
     "0.27.1" = import ./overrides/asyncpgsa/0.27.1;
   };
+  asyncwhois = {
+    "1.1.4" = import ./overrides/asyncwhois/1.1.4;
+  };
   atomic = {
     "0.7.3" = import ./overrides/atomic/0.7.3;
   };
