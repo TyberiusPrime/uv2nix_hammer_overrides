@@ -2508,6 +2508,9 @@
   ellc = {
     "1.8.9" = import ./overrides/ellc/1.8.9;
   };
+  embedding-reader = {
+    "1.7.0" = import ./overrides/embedding-reader/1.7.0;
+  };
   embit = {
     "0.8.0" = import ./overrides/embit/0.8.0;
   };
