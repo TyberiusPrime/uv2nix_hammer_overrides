@@ -6806,6 +6806,9 @@
   pdftotext = {
     "2.2.2" = import ./overrides/pdftotext/2.2.2;
   };
+  pdoc-pyo3-sample-library = {
+    "1.0.11" = import ./overrides/pdoc-pyo3-sample-library/1.0.11;
+  };
   pdoc3 = {
     "0.11.1" = import ./overrides/pdoc3/0.11.1;
   };
