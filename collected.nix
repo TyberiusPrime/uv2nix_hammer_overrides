@@ -4395,6 +4395,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  kdtree = {
+    "0.16" = import ./overrides/kdtree/0.16;
+  };
   kedro = {
     "0.19.8" = import ./overrides/kedro/0.19.8;
   };
