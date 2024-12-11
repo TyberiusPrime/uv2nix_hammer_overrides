@@ -4873,6 +4873,9 @@
   kachery-cloud = {
     "0.4.9" = import ./overrides/kachery-cloud/0.4.9;
   };
+  kafka = {
+    "1.3.5" = import ./overrides/kafka/1.3.5;
+  };
   kafnafparserpy = {
     "1.896" = import ./overrides/kafnafparserpy/1.896;
   };
