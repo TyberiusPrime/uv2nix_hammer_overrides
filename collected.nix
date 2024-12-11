@@ -4538,6 +4538,9 @@
   jenkins = {
     "1.0.2" = import ./overrides/jenkins/1.0.2;
   };
+  jenkspy = {
+    "0.4.1" = import ./overrides/jenkspy/0.4.1;
+  };
   jfs = {
     "0.1.3" = import ./overrides/jfs/0.1.3;
   };
