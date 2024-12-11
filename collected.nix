@@ -14019,6 +14019,9 @@
   urwidtrees = {
     "1.0.3" = import ./overrides/urwidtrees/1.0.3;
   };
+  usaddress = {
+    "0.5.10" = import ./overrides/usaddress/0.5.10;
+  };
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
