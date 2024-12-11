@@ -7560,6 +7560,9 @@
   obd = {
     "0.7.2" = import ./overrides/obd/0.7.2;
   };
+  obfsproxy = {
+    "0.2.13" = import ./overrides/obfsproxy/0.2.13;
+  };
   object-clerk = {
     "0.1.1" = import ./overrides/object-clerk/0.1.1;
   };
