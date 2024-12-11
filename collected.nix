@@ -1675,6 +1675,9 @@
   cocos2d = {
     "0.6.10" = import ./overrides/cocos2d/0.6.10;
   };
+  cocotb = {
+    "1.9.1" = import ./overrides/cocotb/1.9.1;
+  };
   cocotb-bus = {
     "0.2.1" = import ./overrides/cocotb-bus/0.2.1;
   };
