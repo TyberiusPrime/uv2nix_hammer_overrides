@@ -11451,6 +11451,9 @@
   sunburnt = {
     "0.6" = import ./overrides/sunburnt/0.6;
   };
+  suntime = {
+    "1.3.2" = import ./overrides/suntime/1.3.2;
+  };
   sunwatcher = {
     "0.2.1" = import ./overrides/sunwatcher/0.2.1;
   };
