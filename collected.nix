@@ -954,6 +954,9 @@
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
+  cdsapi = {
+    "0.7.3" = import ./overrides/cdsapi/0.7.3;
+  };
   cdumay-error = {
     "0.2.0" = import ./overrides/cdumay-error/0.2.0;
   };
