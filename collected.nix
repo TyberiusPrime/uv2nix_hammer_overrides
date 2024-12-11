@@ -5264,6 +5264,9 @@
   jsonsir = {
     "0.0.2" = import ./overrides/jsonsir/0.0.2;
   };
+  jsontokens = {
+    "0.0.5" = import ./overrides/jsontokens/0.0.5;
+  };
   jstyleson = {
     "0.0.2" = import ./overrides/jstyleson/0.0.2;
   };
@@ -12543,6 +12546,7 @@
     "0.3.16" = import ./overrides/virtstrap-local/0.3.16;
   };
   virtualchain = {
+    "0.18.0.2" = import ./overrides/virtualchain/0.18.0.2;
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
   virtualenvwrapper = {
