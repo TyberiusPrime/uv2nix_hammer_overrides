@@ -1318,6 +1318,7 @@
     "0.0.0" = import ./overrides/can/0.0.0;
   };
   candv = {
+    "1.3.1" = import ./overrides/candv/1.3.1;
     "1.5.0" = import ./overrides/candv/1.5.0;
   };
   canonical = {
@@ -5278,6 +5279,9 @@
   };
   ijson = {
     "2.6.1" = import ./overrides/ijson/2.6.1;
+  };
+  il2fb-commons = {
+    "1.0.1" = import ./overrides/il2fb-commons/1.0.1;
   };
   ilock = {
     "1.0.3" = import ./overrides/ilock/1.0.3;
@@ -14009,6 +14013,7 @@
     "0.19" = import ./overrides/venstarcolortouch/0.19;
   };
   verboselib = {
+    "0.2.1" = import ./overrides/verboselib/0.2.1;
     "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
   verboselogs = {
