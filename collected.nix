@@ -387,6 +387,7 @@
     "0.1.4" = import ./overrides/appnope/0.1.4;
   };
   appy = {
+    "1.0.17" = import ./overrides/appy/1.0.17;
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
   aqualogic = {
