@@ -7665,6 +7665,9 @@
   pod-base = {
     "1.0.3" = import ./overrides/pod-base/1.0.3;
   };
+  podcastparser = {
+    "0.6.10" = import ./overrides/podcastparser/0.6.10;
+  };
   podcats = {
     "0.6.3" = import ./overrides/podcats/0.6.3;
   };
