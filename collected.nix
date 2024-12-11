@@ -8944,6 +8944,9 @@
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
+  pyinstaller-hooks-contrib = {
+    "2024.8" = import ./overrides/pyinstaller-hooks-contrib/2024.8;
+  };
   pyinsteon = {
     "1.6.3" = import ./overrides/pyinsteon/1.6.3;
   };
