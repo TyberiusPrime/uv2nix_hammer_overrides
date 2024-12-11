@@ -2394,6 +2394,9 @@
   drawille = {
     "0.1.0" = import ./overrides/drawille/0.1.0;
   };
+  drawilleplot = {
+    "0.1.0" = import ./overrides/drawilleplot/0.1.0;
+  };
   drf-access-policy = {
     "1.5.0" = import ./overrides/drf-access-policy/1.5.0;
   };
