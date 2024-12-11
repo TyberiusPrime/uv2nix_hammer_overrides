@@ -7049,6 +7049,9 @@
   mozdevice = {
     "4.1.2" = import ./overrides/mozdevice/4.1.2;
   };
+  mozdownload = {
+    "1.28.0" = import ./overrides/mozdownload/1.28.0;
+  };
   mozhttpd = {
     "0.7.1" = import ./overrides/mozhttpd/0.7.1;
   };
