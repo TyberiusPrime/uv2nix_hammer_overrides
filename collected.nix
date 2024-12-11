@@ -2916,6 +2916,9 @@
   eigenpy = {
     "3.5.1" = import ./overrides/eigenpy/3.5.1;
   };
+  elasticsearch = {
+    "8.15.1" = import ./overrides/elasticsearch/8.15.1;
+  };
   elasticsearch-async = {
     "6.2.0" = import ./overrides/elasticsearch-async/6.2.0;
   };
