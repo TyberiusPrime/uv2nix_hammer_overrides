@@ -6463,6 +6463,9 @@
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
+  pdb2sql = {
+    "0.5.3" = import ./overrides/pdb2sql/0.5.3;
+  };
   pdc-client = {
     "1.8.0" = import ./overrides/pdc-client/1.8.0;
   };
