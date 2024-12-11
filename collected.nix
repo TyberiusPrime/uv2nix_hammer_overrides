@@ -1482,6 +1482,9 @@
   cracklib = {
     "2.9.6" = import ./overrides/cracklib/2.9.6;
   };
+  craft-parts = {
+    "2.1.0" = import ./overrides/craft-parts/2.1.0;
+  };
   crank = {
     "0.8.1" = import ./overrides/crank/0.8.1;
   };
