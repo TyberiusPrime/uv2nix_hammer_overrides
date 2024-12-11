@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  discord-py-slash-command = {
+    "4.2.1" = import ./overrides/discord-py-slash-command/4.2.1;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
