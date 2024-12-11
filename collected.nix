@@ -2529,6 +2529,9 @@
   encryptedsocket = {
     "3.0.0" = import ./overrides/encryptedsocket/3.0.0;
   };
+  enocean = {
+    "0.60.1" = import ./overrides/enocean/0.60.1;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
