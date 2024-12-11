@@ -6081,6 +6081,9 @@
   pq = {
     "1.9.1" = import ./overrides/pq/1.9.1;
   };
+  pqdm = {
+    "0.2.0" = import ./overrides/pqdm/0.2.0;
+  };
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
