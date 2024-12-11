@@ -3173,6 +3173,9 @@
   editorium = {
     "0.0.0.30" = import ./overrides/editorium/0.0.0.30;
   };
+  edx-rest-api-client = {
+    "6.0.0" = import ./overrides/edx-rest-api-client/6.0.0;
+  };
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
