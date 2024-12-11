@@ -12435,6 +12435,9 @@
   volkszaehler = {
     "0.4.0" = import ./overrides/volkszaehler/0.4.0;
   };
+  voluptuous-serialize = {
+    "2.6.0" = import ./overrides/voluptuous-serialize/2.6.0;
+  };
   volvooncall = {
     "0.10.4" = import ./overrides/volvooncall/0.10.4;
   };
