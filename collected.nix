@@ -9056,6 +9056,9 @@
     "0.24.2" = import ./overrides/scikit-learn/0.24.2;
     "1.2.2" = import ./overrides/scikit-learn/1.2.2;
   };
+  scikit-posthocs = {
+    "0.9.0" = import ./overrides/scikit-posthocs/0.9.0;
+  };
   scikit-surgerycore = {
     "0.7.2" = import ./overrides/scikit-surgerycore/0.7.2;
   };
