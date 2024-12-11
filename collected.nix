@@ -3177,6 +3177,7 @@
     "0.1.1" = import ./overrides/git-sweep/0.1.1;
   };
   gitapi = {
+    "1.0.1" = import ./overrides/gitapi/1.0.1;
     "1.1.0a2" = import ./overrides/gitapi/1.1.0a2;
   };
   github-flask = {
@@ -4681,6 +4682,9 @@
   };
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
+  };
+  meep = {
+    "1.0.6" = import ./overrides/meep/1.0.6;
   };
   megrok-layout = {
     "1.3" = import ./overrides/megrok-layout/1.3;
