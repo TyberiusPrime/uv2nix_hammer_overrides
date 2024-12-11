@@ -8248,6 +8248,9 @@
   screen = {
     "1.0.1" = import ./overrides/screen/1.0.1;
   };
+  screenpy = {
+    "4.2.5" = import ./overrides/screenpy/4.2.5;
+  };
   scribes-helpers = {
     "0.5.1" = import ./overrides/scribes-helpers/0.5.1;
   };
