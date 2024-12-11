@@ -12278,6 +12278,9 @@
   ssh = {
     "1.8.0" = import ./overrides/ssh/1.8.0;
   };
+  sshtunnel = {
+    "0.4.0" = import ./overrides/sshtunnel/0.4.0;
+  };
   sslyze = {
     "6.0.0" = import ./overrides/sslyze/6.0.0;
   };
