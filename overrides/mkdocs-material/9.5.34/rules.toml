@@ -1,0 +1,1 @@
+BuildSystems = [ "hatch-nodejs-version", "hatch-requirements-txt", "hatchling", "trove-classifiers",]

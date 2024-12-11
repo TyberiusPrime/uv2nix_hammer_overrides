@@ -5949,6 +5949,9 @@
   mkdocs-table-reader-plugin = {
     "3.1.0" = import ./overrides/mkdocs-table-reader-plugin/3.1.0;
   };
+  mkdocs-material = {
+    "9.5.34" = import ./overrides/mkdocs-material/9.5.34;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
