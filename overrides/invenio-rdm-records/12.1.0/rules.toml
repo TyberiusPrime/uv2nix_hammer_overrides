@@ -1,1 +1,2 @@
+BuildSystems = [ "babel", "setuptools", "wheel",]
 ManualOverrides = "__file__:invenio-rdm-records/12.1.0/default.nix"
