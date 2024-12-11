@@ -10208,6 +10208,9 @@
   zuper-typing-z6 = {
     "6.2.3" = import ./overrides/zuper-typing-z6/6.2.3;
   };
+  zwave-me-ws = {
+    "0.4.3" = import ./overrides/zwave-me-ws/0.4.3;
+  };
   zxcvbn = {
     "4.4.28" = import ./overrides/zxcvbn/4.4.28;
   };
