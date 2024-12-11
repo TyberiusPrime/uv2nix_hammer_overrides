@@ -8374,6 +8374,9 @@
   py-postgresql = {
     "1.2.1" = import ./overrides/py-postgresql/1.2.1;
   };
+  py-serializable = {
+    "1.1.0" = import ./overrides/py-serializable/1.1.0;
+  };
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
   };
