@@ -3074,6 +3074,9 @@
   faust-streaming = {
     "0.11.3" = import ./overrides/faust-streaming/0.11.3;
   };
+  fbmessenger = {
+    "6.0.0" = import ./overrides/fbmessenger/6.0.0;
+  };
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
