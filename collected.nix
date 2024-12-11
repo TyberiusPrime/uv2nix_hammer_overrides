@@ -8817,6 +8817,9 @@
   pyads = {
     "3.4.2" = import ./overrides/pyads/3.4.2;
   };
+  pyaehw4a1 = {
+    "0.3.9" = import ./overrides/pyaehw4a1/0.3.9;
+  };
   pyaes = {
     "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
