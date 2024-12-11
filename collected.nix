@@ -3646,6 +3646,9 @@
   funcargparse = {
     "0.2.5" = import ./overrides/funcargparse/0.2.5;
   };
+  funcsigs = {
+    "1.0.2" = import ./overrides/funcsigs/1.0.2;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
