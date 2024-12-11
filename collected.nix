@@ -12245,6 +12245,9 @@
   unittest2py3k = {
     "0.5.1" = import ./overrides/unittest2py3k/0.5.1;
   };
+  univers = {
+    "30.12.1" = import ./overrides/univers/30.12.1;
+  };
   unixpackage = {
     "0.4.7" = import ./overrides/unixpackage/0.4.7;
   };
