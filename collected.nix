@@ -8195,6 +8195,9 @@
   python-ctags3 = {
     "1.6.0" = import ./overrides/python-ctags3/1.6.0;
   };
+  python-daemon-3k = {
+    "1.5.8" = import ./overrides/python-daemon-3k/1.5.8;
+  };
   python-dateutil = {
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
@@ -11099,6 +11102,9 @@
   };
   wiringpi = {
     "2.60.1" = import ./overrides/wiringpi/2.60.1;
+  };
+  wishbone = {
+    "3.1.3" = import ./overrides/wishbone/3.1.3;
   };
   wit = {
     "6.0.1" = import ./overrides/wit/6.0.1;
