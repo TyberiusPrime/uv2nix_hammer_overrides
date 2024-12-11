@@ -74,6 +74,9 @@
   aescipher = {
     "6.0.0" = import ./overrides/aescipher/6.0.0;
   };
+  affine = {
+    "2.4.0" = import ./overrides/affine/2.4.0;
+  };
   affinegap = {
     "1.12" = import ./overrides/affinegap/1.12;
   };
