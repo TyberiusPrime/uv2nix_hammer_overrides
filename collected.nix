@@ -2338,6 +2338,7 @@
   };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
+    "3.8.2" = import ./overrides/django-autocomplete-light/3.8.2;
   };
   django-axes = {
     "6.5.1" = import ./overrides/django-axes/6.5.1;
