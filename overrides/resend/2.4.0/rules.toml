@@ -1,0 +1,2 @@
+BuildSystems = [ "requests", "setuptools",]
+MissingEmptyFiles = [ "requirements.txt",]
