@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  diskcache = {
+    "5.6.3" = import ./overrides/diskcache/5.6.3;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
