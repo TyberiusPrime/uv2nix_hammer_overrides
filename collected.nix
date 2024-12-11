@@ -3203,6 +3203,9 @@
   django-templated-email = {
     "3.0.1" = import ./overrides/django-templated-email/3.0.1;
   };
+  django-templated-mail = {
+    "1.1.1" = import ./overrides/django-templated-mail/1.1.1;
+  };
   django-tenants = {
     "3.7.0" = import ./overrides/django-tenants/3.7.0;
   };
