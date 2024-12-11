@@ -5658,6 +5658,9 @@
   jmbo = {
     "3.0.5" = import ./overrides/jmbo/3.0.5;
   };
+  jmetalpy = {
+    "1.7.0" = import ./overrides/jmetalpy/1.7.0;
+  };
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
   };
