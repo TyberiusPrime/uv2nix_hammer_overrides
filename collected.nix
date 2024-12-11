@@ -2690,6 +2690,9 @@
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
   };
+  django-codenerix-extensions = {
+    "4.0.3" = import ./overrides/django-codenerix-extensions/4.0.3;
+  };
   django-compat = {
     "1.0.15" = import ./overrides/django-compat/1.0.15;
   };
