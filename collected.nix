@@ -10873,6 +10873,9 @@
   sat-stac = {
     "0.4.1" = import ./overrides/sat-stac/0.4.1;
   };
+  satella = {
+    "2.25.3" = import ./overrides/satella/2.25.3;
+  };
   satpy = {
     "0.51.0" = import ./overrides/satpy/0.51.0;
   };
