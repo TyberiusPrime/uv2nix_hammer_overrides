@@ -7968,6 +7968,9 @@
   python-nest = {
     "4.2.0" = import ./overrides/python-nest/4.2.0;
   };
+  python-nexus = {
+    "2.9.0" = import ./overrides/python-nexus/2.9.0;
+  };
   python-nmap = {
     "0.7.1" = import ./overrides/python-nmap/0.7.1;
   };
