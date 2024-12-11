@@ -1,3 +1,5 @@
 BuildInputs = [ "~literal:!:pkgs.udunits",]
 BuildSystems = [ "cython_0", "oldest-supported-numpy", "setuptools", "setuptools-scm", "wheel",]
+DowngradeNumpy = "<2"
+DowngradePython = "3.10"
 Udunits = true
