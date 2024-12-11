@@ -8000,6 +8000,9 @@
   roku = {
     "4.1.0" = import ./overrides/roku/4.1.0;
   };
+  rokuecp = {
+    "0.19.4" = import ./overrides/rokuecp/0.19.4;
+  };
   roman = {
     "3.1" = import ./overrides/roman/3.1;
   };
