@@ -12319,6 +12319,9 @@
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
+  threatbus = {
+    "2022.5.16" = import ./overrides/threatbus/2022.5.16;
+  };
   thrift = {
     "0.16.0" = import ./overrides/thrift/0.16.0;
     "0.20.0" = import ./overrides/thrift/0.20.0;
