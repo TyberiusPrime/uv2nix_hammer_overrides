@@ -2562,6 +2562,9 @@
   django-shortuuidfield = {
     "0.1.3" = import ./overrides/django-shortuuidfield/0.1.3;
   };
+  django-simplemde = {
+    "0.1.4" = import ./overrides/django-simplemde/0.1.4;
+  };
   django-sites = {
     "0.11" = import ./overrides/django-sites/0.11;
   };
