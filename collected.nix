@@ -8865,6 +8865,9 @@
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
+  posttroll = {
+    "1.11.0" = import ./overrides/posttroll/1.11.0;
+  };
   potaahto = {
     "0.1.2" = import ./overrides/potaahto/0.1.2;
   };
