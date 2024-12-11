@@ -5467,6 +5467,9 @@
   nglview = {
     "3.1.2" = import ./overrides/nglview/3.1.2;
   };
+  nh3 = {
+    "0.2.18" = import ./overrides/nh3/0.2.18;
+  };
   nilsimsa = {
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
   };
