@@ -8104,6 +8104,9 @@
   pipwin = {
     "0.5.2" = import ./overrides/pipwin/0.5.2;
   };
+  pixelmatch = {
+    "0.3.0" = import ./overrides/pixelmatch/0.3.0;
+  };
   pixiedust = {
     "1.1.19" = import ./overrides/pixiedust/1.1.19;
   };
