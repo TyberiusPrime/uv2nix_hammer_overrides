@@ -5599,6 +5599,9 @@
   naturalsort = {
     "1.5.1" = import ./overrides/naturalsort/1.5.1;
   };
+  navec = {
+    "0.10.0" = import ./overrides/navec/0.10.0;
+  };
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
   };
