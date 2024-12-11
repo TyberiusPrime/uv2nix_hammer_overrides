@@ -3222,6 +3222,9 @@
   gcs-oauth2-boto-plugin = {
     "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
   };
+  gcsa = {
+    "2.3.0" = import ./overrides/gcsa/2.3.0;
+  };
   gdata = {
     "2.0.18" = import ./overrides/gdata/2.0.18;
   };
