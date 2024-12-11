@@ -9693,6 +9693,9 @@
   read-roi = {
     "1.6.0" = import ./overrides/read-roi/1.6.0;
   };
+  readee = {
+    "0.0.136" = import ./overrides/readee/0.0.136;
+  };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
