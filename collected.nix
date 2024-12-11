@@ -2778,6 +2778,9 @@
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
+  firecloud = {
+    "0.16.37" = import ./overrides/firecloud/0.16.37;
+  };
   fireworks = {
     "2.0.3" = import ./overrides/fireworks/2.0.3;
   };
