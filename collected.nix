@@ -7313,6 +7313,9 @@
   oauth2client = {
     "3.0.0" = import ./overrides/oauth2client/3.0.0;
   };
+  oauthenticator = {
+    "17.0.0" = import ./overrides/oauthenticator/17.0.0;
+  };
   obd = {
     "0.7.2" = import ./overrides/obd/0.7.2;
   };
