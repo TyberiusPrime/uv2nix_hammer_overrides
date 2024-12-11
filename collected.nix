@@ -6991,6 +6991,9 @@
   pypng = {
     "0.0.19" = import ./overrides/pypng/0.0.19;
   };
+  pypot = {
+    "5.0.2" = import ./overrides/pypot/5.0.2;
+  };
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
   };
