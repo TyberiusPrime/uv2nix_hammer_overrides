@@ -10116,6 +10116,9 @@
   pyquerystring = {
     "1.1" = import ./overrides/pyquerystring/1.1;
   };
+  pyqvrpro = {
+    "0.52" = import ./overrides/pyqvrpro/0.52;
+  };
   pyqwikswitch = {
     "0.94" = import ./overrides/pyqwikswitch/0.94;
   };
