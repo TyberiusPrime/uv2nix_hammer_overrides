@@ -13686,6 +13686,9 @@
   webthing-ws = {
     "0.2.0" = import ./overrides/webthing-ws/0.2.0;
   };
+  wf-cv-utils = {
+    "3.6.3" = import ./overrides/wf-cv-utils/3.6.3;
+  };
   wf-minimal-honeycomb-python = {
     "0.6.3" = import ./overrides/wf-minimal-honeycomb-python/0.6.3;
   };
