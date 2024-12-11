@@ -10871,6 +10871,9 @@
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
+  selenium-wire = {
+    "5.1.0" = import ./overrides/selenium-wire/5.1.0;
+  };
   self = {
     "2020.12.3" = import ./overrides/self/2020.12.3;
   };
