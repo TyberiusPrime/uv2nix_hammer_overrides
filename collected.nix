@@ -3814,6 +3814,9 @@
   iocapture = {
     "0.1.2" = import ./overrides/iocapture/0.1.2;
   };
+  iocsearcher = {
+    "2.4.1" = import ./overrides/iocsearcher/2.4.1;
+  };
   ioctl-opt = {
     "1.3" = import ./overrides/ioctl-opt/1.3;
   };
