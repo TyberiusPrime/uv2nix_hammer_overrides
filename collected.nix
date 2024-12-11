@@ -11621,6 +11621,9 @@
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
+  tdigest = {
+    "0.5.2.2" = import ./overrides/tdigest/0.5.2.2;
+  };
   tdqm = {
     "0.0.1" = import ./overrides/tdqm/0.0.1;
   };
