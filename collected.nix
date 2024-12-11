@@ -3712,6 +3712,9 @@
   impacket = {
     "0.11.0" = import ./overrides/impacket/0.11.0;
   };
+  implements = {
+    "0.3.0" = import ./overrides/implements/0.3.0;
+  };
   implicit = {
     "0.7.2" = import ./overrides/implicit/0.7.2;
   };
