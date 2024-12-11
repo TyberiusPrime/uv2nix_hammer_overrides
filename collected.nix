@@ -644,6 +644,9 @@
     "1.10.5" = import ./overrides/awkward/1.10.5;
     "2.6.7" = import ./overrides/awkward/2.6.7;
   };
+  aws-adfs = {
+    "2.11.2" = import ./overrides/aws-adfs/2.11.2;
+  };
   aws-cdk-constructs = {
     "2.32.0.post0" = import ./overrides/aws-cdk-constructs/2.32.0.post0;
   };
