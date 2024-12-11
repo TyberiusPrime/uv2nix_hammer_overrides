@@ -1707,6 +1707,9 @@
   datadbs = {
     "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
+  datamodel-code-generator = {
+    "0.26.0" = import ./overrides/datamodel-code-generator/0.26.0;
+  };
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
