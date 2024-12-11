@@ -3798,6 +3798,7 @@
     "0.1.1" = import ./overrides/formatizer/0.1.1;
   };
   formbar = {
+    "0.24.3" = import ./overrides/formbar/0.24.3;
     "1.0rc20170131" = import ./overrides/formbar/1.0rc20170131;
   };
   fortnitepy = {

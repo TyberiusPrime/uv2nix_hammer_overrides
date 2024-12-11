@@ -1,2 +1,1 @@
-BorkedRuntimeDepsCheck = true
 BuildSystems = [ "setuptools",]
