@@ -5466,6 +5466,9 @@
   jaeger-client = {
     "4.8.0" = import ./overrides/jaeger-client/4.8.0;
   };
+  jamo = {
+    "0.4.1" = import ./overrides/jamo/0.4.1;
+  };
   jams = {
     "0.3.4" = import ./overrides/jams/0.3.4;
   };
