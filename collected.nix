@@ -7727,6 +7727,9 @@
   products-basesyndication = {
     "1.0.0" = import ./overrides/products-basesyndication/1.0.0;
   };
+  products-atreferencebrowserwidget = {
+    "3.0" = import ./overrides/products-atreferencebrowserwidget/3.0;
+  };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
   };
