@@ -9827,6 +9827,9 @@
   pypdftk = {
     "0.5" = import ./overrides/pypdftk/0.5;
   };
+  pype-base = {
+    "0.3.0" = import ./overrides/pype-base/0.3.0;
+  };
   pypeg2 = {
     "2.15.2" = import ./overrides/pypeg2/2.15.2;
   };
