@@ -13237,6 +13237,9 @@
   tesla-fleet-api = {
     "0.7.4" = import ./overrides/tesla-fleet-api/0.7.4;
   };
+  tesla-powerwall = {
+    "0.5.2" = import ./overrides/tesla-powerwall/0.5.2;
+  };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
