@@ -9859,6 +9859,7 @@
   websockets = {
     "10.4" = import ./overrides/websockets/10.4;
     "12.0" = import ./overrides/websockets/12.0;
+    "13.0.1" = import ./overrides/websockets/13.0.1;
     "8.1" = import ./overrides/websockets/8.1;
     "9.1" = import ./overrides/websockets/9.1;
   };
