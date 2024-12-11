@@ -6,6 +6,7 @@ from pathlib import Path
 import random
 
 random.seed(0)
+is_wheel = "--wheel" in sys.argv
 
 
 def normalize_python_package_name(pkg):
@@ -13,15 +14,25 @@ def normalize_python_package_name(pkg):
 
 
 all_pkgs = json.loads((Path(__file__).parent.parent / "todo" / "todo.json").read_text())
-excluded_pkgs = toml.loads(
-    (Path(__file__).parent.parent / "todo" / "excluded.toml").read_text()
-)
+if is_wheel:
+    excluded_pkgs = toml.loads(
+        (Path(__file__).parent.parent / "todo" / "excluded_wheel.toml").read_text()
+    )
+else:
+    excluded_pkgs = toml.loads(
+        (Path(__file__).parent.parent / "todo" / "excluded_source.toml").read_text()
+    )
 
 
 def write_excluded_pkgs():
-    (Path(__file__).parent.parent / "todo" / "excluded.toml").write_text(
-        toml.dumps(excluded_pkgs)
-    )
+    if is_wheel:
+        (Path(__file__).parent.parent / "todo" / "excluded_wheel.toml").write_text(
+            toml.dumps(excluded_pkgs)
+        )
+    else:
+        (Path(__file__).parent.parent / "todo" / "excluded_source.toml").write_text(
+            toml.dumps(excluded_pkgs)
+        )
 
 
 done = [
@@ -88,7 +99,9 @@ for chosen in order:
     if chosen in attempted and "--break" in sys.argv:
         print("Aborting because of prev. attempt", chosen)
         sys.exit()
-    cmd = ["uv2nix-hammer", "--wheel", chosen]
+    cmd = ["uv2nix-hammer", chosen]
+    if is_wheel:
+        cmd.append("--wheel")
     print("executing", " ".join(cmd))
     p = subprocess.Popen(
         cmd,
@@ -106,39 +119,43 @@ for chosen in order:
     if p.returncode != 0:
         if "timeout" == stderr:
             msg = "timeout"
-        if "No non-pre release found" in stderr:
+        elif "No non-pre release found" in stderr:
             msg == "Automatic: no (non-pre) release found"
 
-        if "No releases available" in stderr:
+        elif "No releases available" in stderr:
             msg = "Automatic: no releases available"
-        if "has no wheels with a matching Python ABI" in stderr:
+        elif "has no wheels with a matching Python ABI" in stderr:
             msg = "Automatic: no wheels for this ABI (and no source). Possibly we misidentified the supported python version"
-        if "NeedsExclusion: " in stderr:
+        elif "NeedsExclusion: " in stderr:
             reason = stderr.rsplit("NeedsExclusion: ", 1)[1].strip().split("\n")[0]
             msg = f"Automatic: {reason}"
-        if "Missing parentheses in call to 'print'." in stderr:
+        elif "Missing parentheses in call to 'print'." in stderr:
             msg = "Automatic: python2 only, Missing parentheses in call to 'print'."
-        if "except ParseBaseException, err:" in stderr:
+        elif "except ParseBaseException, err:" in stderr:
             msg = "Automatic: python2 only, except statement"
-        if "assertion '(compatibleWheels != [ ])' failed" in stderr:
+        elif "assertion '(compatibleWheels != [ ])' failed" in stderr:
             msg = "Automatic: no compatible wheels (and no source)"
-        if (
+        elif (
             "ModuleNotFoundError: No module named 'imp'" in stderr
             and "'['uv', 'lock'," in stderr
         ):
             msg = "Automatic: uv failure, required imp."
-        if "ValueError: No non-pre release found" in stderr:
+        elif "ValueError: No non-pre release found" in stderr:
             msg = "Automatic: no non-pre release found"
-        if "package not on pypi" in stderr:
+        elif "package not on pypi" in stderr:
             msg = "Automatic: package not on pypi"
-        if "was not found in the package registry" in stderr:
+        elif "was not found in the package registry" in stderr:
             msg = "Automatic: uv failure: Dependency not found in package registry"
-        if "No solution found when resolving dependencies" in stderr:
+        elif "No solution found when resolving dependencies" in stderr:
             msg = "Automic: uv lock failure, no solution when resolving dependencies"
-        if "use_2to3 is invalid." in stderr:
+        elif "use_2to3 is invalid." in stderr:
             msg = "uv lock error, 'use_2to3 is invalid.'"
-        if " Command '['uv', 'lock', '--no-cache', " in stderr:
-            msg = "uv lock failure, Unspecifieded"
+        elif "has no source distribution" in stderr and not is_wheel:
+            msg = "automatic: no source available"
+        elif "Missing parentheses in call to 'print'." in stderr:
+            msg = "uv lock failure, python2 only"
+        elif " Command '['uv', 'lock', '--no-cache', " in stderr:
+            msg = "uv lock failure, Unspecified"
 
         if msg:
             print(msg)
@@ -156,7 +173,7 @@ for chosen in order:
             excluded_pkgs[chosen] = "Automatic: no run performed, uv failure?"
             write_excluded_pkgs()
         if run_0 is not None and run_0.exists():
-            r0 = run_0.read_text()
+            r0 = run_0.read_text(errors='replaces')
             if "error: infinite recursion encountered" in r0:
                 print("infinite recursion encountered", chosen)
                 excluded_pkgs[chosen] = "Automatic: infinite recursion encountered"
