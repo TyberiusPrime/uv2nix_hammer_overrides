@@ -401,6 +401,9 @@
   asn1tools = {
     "0.167.0" = import ./overrides/asn1tools/0.167.0;
   };
+  asreview = {
+    "1.6.3" = import ./overrides/asreview/1.6.3;
+  };
   assertpy = {
     "1.1" = import ./overrides/assertpy/1.1;
   };
