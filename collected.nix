@@ -13008,6 +13008,7 @@
     "1.30.16" = import ./overrides/tinyscript/1.30.16;
   };
   tinysegmenter = {
+    "0.3" = import ./overrides/tinysegmenter/0.3;
     "0.4" = import ./overrides/tinysegmenter/0.4;
   };
   tinytim = {
