@@ -2470,6 +2470,9 @@
   django-model-utils = {
     "3.0.0" = import ./overrides/django-model-utils/3.0.0;
   };
+  django-modelcluster = {
+    "6.3" = import ./overrides/django-modelcluster/6.3;
+  };
   django-mongoengine = {
     "0.5.6" = import ./overrides/django-mongoengine/0.5.6;
   };
