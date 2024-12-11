@@ -2283,6 +2283,9 @@
   cykhash = {
     "2.0.1" = import ./overrides/cykhash/2.0.1;
   };
+  cypherpunkpay = {
+    "1.0.11" = import ./overrides/cypherpunkpay/1.0.11;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
@@ -7101,6 +7104,7 @@
     "23.5.3" = import ./overrides/molecule-plugins/23.5.3;
   };
   monero = {
+    "0.99" = import ./overrides/monero/0.99;
     "1.1.1" = import ./overrides/monero/1.1.1;
   };
   money = {
