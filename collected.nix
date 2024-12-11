@@ -6442,6 +6442,9 @@
   poezio = {
     "0.14" = import ./overrides/poezio/0.14;
   };
+  politico-civic-election = {
+    "0.3.3" = import ./overrides/politico-civic-election/0.3.3;
+  };
   politico-civic-geography = {
     "0.5.1" = import ./overrides/politico-civic-geography/0.5.1;
   };
