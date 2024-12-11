@@ -9211,6 +9211,9 @@
   surt = {
     "0.3.1" = import ./overrides/surt/0.3.1;
   };
+  survey = {
+    "5.4.0" = import ./overrides/survey/5.4.0;
+  };
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
   };
