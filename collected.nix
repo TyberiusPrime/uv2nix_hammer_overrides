@@ -7370,6 +7370,9 @@
   pycoin = {
     "0.92.20230326" = import ./overrides/pycoin/0.92.20230326;
   };
+  pycoingecko = {
+    "3.1.0" = import ./overrides/pycoingecko/3.1.0;
+  };
   pycollada = {
     "0.6" = import ./overrides/pycollada/0.6;
     "0.8" = import ./overrides/pycollada/0.8;
