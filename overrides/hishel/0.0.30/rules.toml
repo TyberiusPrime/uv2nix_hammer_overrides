@@ -1,0 +1,1 @@
+BuildSystems = [ "hatch-fancy-pypi-readme", "hatchling",]
