@@ -716,6 +716,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  bionumpy = {
+    "1.0.12" = import ./overrides/bionumpy/1.0.12;
+  };
   bioservices = {
     "1.11.2" = import ./overrides/bioservices/1.11.2;
   };
