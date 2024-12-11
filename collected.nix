@@ -10124,6 +10124,9 @@
   tba-api-v3client = {
     "3.8.0" = import ./overrides/tba-api-v3client/3.8.0;
   };
+  tbats = {
+    "1.1.3" = import ./overrides/tbats/1.1.3;
+  };
   tbb = {
     "2021.13.1" = import ./overrides/tbb/2021.13.1;
   };
