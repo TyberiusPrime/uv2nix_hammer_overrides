@@ -4720,6 +4720,9 @@
   livestreamer-curses = {
     "1.5.2" = import ./overrides/livestreamer-curses/1.5.2;
   };
+  lizard = {
+    "1.17.10" = import ./overrides/lizard/1.17.10;
+  };
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
