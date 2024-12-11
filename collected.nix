@@ -4401,6 +4401,9 @@
   kaggle = {
     "1.6.17" = import ./overrides/kaggle/1.6.17;
   };
+  kaitaistruct = {
+    "0.10" = import ./overrides/kaitaistruct/0.10;
+  };
   kamene = {
     "0.32" = import ./overrides/kamene/0.32;
   };
