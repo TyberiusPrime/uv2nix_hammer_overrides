@@ -13303,6 +13303,9 @@
   thealot = {
     "0.3.2" = import ./overrides/thealot/0.3.2;
   };
+  theano = {
+    "1.0.5" = import ./overrides/theano/1.0.5;
+  };
   theano-pymc = {
     "1.1.2" = import ./overrides/theano-pymc/1.1.2;
   };
