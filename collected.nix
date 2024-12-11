@@ -5857,6 +5857,7 @@
   };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
+    "1.6.2" = import ./overrides/jsbeautifier/1.6.2;
   };
   jsii = {
     "1.103.1" = import ./overrides/jsii/1.103.1;
@@ -8005,6 +8006,7 @@
     "1.3.5" = import ./overrides/olctools/1.3.5;
   };
   olefile = {
+    "0.43" = import ./overrides/olefile/0.43;
     "0.47" = import ./overrides/olefile/0.47;
   };
   omc = {
@@ -8505,6 +8507,9 @@
   };
   peek-plugin-base = {
     "3.4.16" = import ./overrides/peek-plugin-base/3.4.16;
+  };
+  peepdf = {
+    "0.4.2" = import ./overrides/peepdf/0.4.2;
   };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
@@ -12266,6 +12271,9 @@
   };
   sfepy = {
     "2024.2" = import ./overrides/sfepy/2024.2;
+  };
+  sflock = {
+    "0.3.10" = import ./overrides/sflock/0.3.10;
   };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
