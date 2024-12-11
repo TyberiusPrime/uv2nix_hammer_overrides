@@ -8316,6 +8316,9 @@
   pyxdameraulevenshtein = {
     "1.8.0" = import ./overrides/pyxdameraulevenshtein/1.8.0;
   };
+  pyxdg = {
+    "0.28" = import ./overrides/pyxdg/0.28;
+  };
   pyxel = {
     "2.2.1" = import ./overrides/pyxel/2.2.1;
   };
