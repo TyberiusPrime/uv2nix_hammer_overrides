@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "meson-python", "ninja", "oldest-supported-numpy", "setuptools-scm",]
+NativeBuildInputs = [ "~literal:!:pkgs.meson",]
