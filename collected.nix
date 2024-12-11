@@ -6390,6 +6390,9 @@
   pyatem = {
     "0.10.0" = import ./overrides/pyatem/0.10.0;
   };
+  pyatmo = {
+    "8.1.0" = import ./overrides/pyatmo/8.1.0;
+  };
   pyaudio = {
     "0.2.14" = import ./overrides/pyaudio/0.2.14;
   };
