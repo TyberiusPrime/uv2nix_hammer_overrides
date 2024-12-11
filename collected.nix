@@ -2988,6 +2988,12 @@
   ebooklib = {
     "0.18" = import ./overrides/ebooklib/0.18;
   };
+  ebs-linuxnode-core = {
+    "3.2.1" = import ./overrides/ebs-linuxnode-core/3.2.1;
+  };
+  ebs-linuxnode-gui-kivy-core = {
+    "3.3.2" = import ./overrides/ebs-linuxnode-gui-kivy-core/3.3.2;
+  };
   ecmwf-api-client = {
     "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
   };
