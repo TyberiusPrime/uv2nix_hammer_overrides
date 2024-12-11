@@ -6809,6 +6809,9 @@
     "1.4.6" = import ./overrides/mysqlclient/1.4.6;
     "2.2.4" = import ./overrides/mysqlclient/2.2.4;
   };
+  myst-parser = {
+    "4.0.0" = import ./overrides/myst-parser/4.0.0;
+  };
   mythril = {
     "0.24.8" = import ./overrides/mythril/0.24.8;
   };
