@@ -7949,6 +7949,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  rhino3dm = {
+    "8.9.0" = import ./overrides/rhino3dm/8.9.0;
+  };
   rig = {
     "2.4.1" = import ./overrides/rig/2.4.1;
   };
