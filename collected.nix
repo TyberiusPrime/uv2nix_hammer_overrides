@@ -6851,6 +6851,9 @@
   mkdocs-literate-nav = {
     "0.6.1" = import ./overrides/mkdocs-literate-nav/0.6.1;
   };
+  mkm = {
+    "2.1.0" = import ./overrides/mkm/2.1.0;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
