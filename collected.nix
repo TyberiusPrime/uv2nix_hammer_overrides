@@ -3895,6 +3895,9 @@
   janex = {
     "0.0.80" = import ./overrides/janex/0.0.80;
   };
+  jaseci = {
+    "1.4.2.6" = import ./overrides/jaseci/1.4.2.6;
+  };
   javabridge = {
     "1.0.19" = import ./overrides/javabridge/1.0.19;
   };
