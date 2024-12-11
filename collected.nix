@@ -1663,6 +1663,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  coconut = {
+    "3.1.2" = import ./overrides/coconut/3.1.2;
+  };
   cocos2d = {
     "0.6.10" = import ./overrides/cocos2d/0.6.10;
   };
