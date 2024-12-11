@@ -2540,6 +2540,9 @@
   django-next-prev = {
     "1.1.0" = import ./overrides/django-next-prev/1.1.0;
   };
+  django-ninja = {
+    "1.3.0" = import ./overrides/django-ninja/1.3.0;
+  };
   django-notification = {
     "1.3.3" = import ./overrides/django-notification/1.3.3;
   };
