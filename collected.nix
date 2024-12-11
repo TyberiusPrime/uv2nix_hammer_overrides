@@ -4387,6 +4387,9 @@
   imageio = {
     "2.1.2" = import ./overrides/imageio/2.1.2;
   };
+  imageio-ffmpeg = {
+    "0.5.1" = import ./overrides/imageio-ffmpeg/0.5.1;
+  };
   imantics = {
     "0.1.12" = import ./overrides/imantics/0.1.12;
   };
