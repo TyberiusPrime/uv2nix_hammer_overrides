@@ -8170,6 +8170,9 @@
   polling = {
     "0.3.2" = import ./overrides/polling/0.3.2;
   };
+  polyfactory = {
+    "2.16.2" = import ./overrides/polyfactory/2.16.2;
+  };
   polyglot = {
     "16.7.4" = import ./overrides/polyglot/16.7.4;
   };
