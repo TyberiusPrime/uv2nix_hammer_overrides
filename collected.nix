@@ -12104,6 +12104,9 @@
   trans = {
     "2.1.0" = import ./overrides/trans/2.1.0;
   };
+  transaction = {
+    "4.0" = import ./overrides/transaction/4.0;
+  };
   transformers-stream-generator = {
     "0.0.5" = import ./overrides/transformers-stream-generator/0.0.5;
   };
