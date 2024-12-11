@@ -1,5 +1,6 @@
-{ pkgs, ... }:
-_old: with pkgs; {
+{pkgs, ...}
+        : old: with pkgs;
+{
   nativeBuildInputs = [ pkg-config ];
   buildInputs = [
     libinput
@@ -12,3 +13,5 @@ _old: with pkgs; {
     wlroots
   ];
 }
+
+        

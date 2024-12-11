@@ -1,6 +1,5 @@
-{ helpers, pkgs, ... }:
-old:
-(pkgs.lib.optionalAttrs (!helpers.isWheel old) {
+{helpers, pkgs, ...}
+        : old: (pkgs.lib.optionalAttrs (!helpers.isWheel old) {
   # from nixpkgs
   patchPhase = ''
     # Disable all tests that need to terminate within a predetermined amount of
@@ -23,3 +22,5 @@ old:
     done
   '';
 })
+
+        
