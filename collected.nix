@@ -5373,6 +5373,7 @@
     "0.82.2" = import ./overrides/jsonpath/0.82.2;
   };
   jsonpath-ng = {
+    "1.6.1" = import ./overrides/jsonpath-ng/1.6.1;
     "1.7.0" = import ./overrides/jsonpath-ng/1.7.0;
   };
   jsonpath-python = {
