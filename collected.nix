@@ -8151,6 +8151,9 @@
   rstgen = {
     "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
+  rstr = {
+    "3.2.2" = import ./overrides/rstr/3.2.2;
+  };
   rstview = {
     "0.4.0" = import ./overrides/rstview/0.4.0;
   };
