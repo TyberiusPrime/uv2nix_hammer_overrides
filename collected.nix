@@ -13019,6 +13019,7 @@
     "1.0.0" = import ./overrides/ttstokenizer/1.0.0;
   };
   tubeup = {
+    "2023.8.19" = import ./overrides/tubeup/2023.8.19;
     "2023.9.19" = import ./overrides/tubeup/2023.9.19;
   };
   tuf = {
