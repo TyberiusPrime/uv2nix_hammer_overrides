@@ -3323,6 +3323,9 @@
   groestlcoin-hash = {
     "1.0.3" = import ./overrides/groestlcoin-hash/1.0.3;
   };
+  grokui-base = {
+    "0.8.2" = import ./overrides/grokui-base/0.8.2;
+  };
   grpc-google-logging-v2 = {
     "0.11.1" = import ./overrides/grpc-google-logging-v2/0.11.1;
   };
@@ -4684,6 +4687,9 @@
   };
   megrok-layout = {
     "1.3" = import ./overrides/megrok-layout/1.3;
+  };
+  megrok-menu = {
+    "0.4.1" = import ./overrides/megrok-menu/0.4.1;
   };
   megrok-pagetemplate = {
     "0.7" = import ./overrides/megrok-pagetemplate/0.7;
