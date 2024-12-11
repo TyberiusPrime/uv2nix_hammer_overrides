@@ -2529,6 +2529,9 @@
   encryptedsocket = {
     "3.0.0" = import ./overrides/encryptedsocket/3.0.0;
   };
+  enochecker-core = {
+    "0.10.0" = import ./overrides/enochecker-core/0.10.0;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
