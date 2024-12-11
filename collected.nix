@@ -7571,6 +7571,7 @@
   };
   python-multipart = {
     "0.0.5" = import ./overrides/python-multipart/0.0.5;
+    "0.0.9" = import ./overrides/python-multipart/0.0.9;
   };
   python-nest = {
     "4.2.0" = import ./overrides/python-nest/4.2.0;
