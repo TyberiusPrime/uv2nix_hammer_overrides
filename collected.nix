@@ -9784,6 +9784,9 @@
   snapcast = {
     "2.3.6" = import ./overrides/snapcast/2.3.6;
   };
+  snapflow = {
+    "0.7.1" = import ./overrides/snapflow/0.7.1;
+  };
   snaptime = {
     "0.2.4" = import ./overrides/snaptime/0.2.4;
   };
