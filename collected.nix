@@ -2250,6 +2250,9 @@
   django-ranged-response = {
     "0.2.0" = import ./overrides/django-ranged-response/0.2.0;
   };
+  django-raster = {
+    "0.8.1" = import ./overrides/django-raster/0.8.1;
+  };
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
