@@ -6349,6 +6349,9 @@
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
   };
+  pure-protobuf = {
+    "3.1.2" = import ./overrides/pure-protobuf/3.1.2;
+  };
   pure-sasl = {
     "0.6.2" = import ./overrides/pure-sasl/0.6.2;
   };
