@@ -4547,6 +4547,9 @@
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
+  lxmf = {
+    "0.5.0" = import ./overrides/lxmf/0.5.0;
+  };
   lyrebird = {
     "3.0.5" = import ./overrides/lyrebird/3.0.5;
   };
