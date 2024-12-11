@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+MissingEmptyFiles = [ "/build/yamlconf-0.2.6/requirements.txt",]
