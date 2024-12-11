@@ -7149,6 +7149,9 @@
   pysmb = {
     "1.2.9.1" = import ./overrides/pysmb/1.2.9.1;
   };
+  pysmiles = {
+    "1.1.2" = import ./overrides/pysmiles/1.1.2;
+  };
   pysocks = {
     "1.6.8" = import ./overrides/pysocks/1.6.8;
   };
