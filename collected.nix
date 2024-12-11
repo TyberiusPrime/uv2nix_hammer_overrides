@@ -6045,6 +6045,9 @@
     "0.58.0" = import ./overrides/numba/0.58.0;
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
+  numpoly = {
+    "1.3.4" = import ./overrides/numpoly/1.3.4;
+  };
   numpy = {
     "1.20.3" = import ./overrides/numpy/1.20.3;
     "1.21.6" = import ./overrides/numpy/1.21.6;
