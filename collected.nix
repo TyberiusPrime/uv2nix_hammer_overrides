@@ -2860,6 +2860,9 @@
   flask-kvsession-invenio = {
     "0.6.3" = import ./overrides/flask-kvsession-invenio/0.6.3;
   };
+  flask-ldap3-login = {
+    "1.0.2" = import ./overrides/flask-ldap3-login/1.0.2;
+  };
   flask-limiter = {
     "1.1.0" = import ./overrides/flask-limiter/1.1.0;
   };
