@@ -8571,6 +8571,9 @@
   solidpython-ff = {
     "0.1.1" = import ./overrides/solidpython-ff/0.1.1;
   };
+  solo-python = {
+    "0.1.1" = import ./overrides/solo-python/0.1.1;
+  };
   solrpy = {
     "1.0.0" = import ./overrides/solrpy/1.0.0;
   };
