@@ -7182,6 +7182,9 @@
   packbits = {
     "0.6" = import ./overrides/packbits/0.6;
   };
+  packvers = {
+    "21.5" = import ./overrides/packvers/21.5;
+  };
   pactman = {
     "2.31.0" = import ./overrides/pactman/2.31.0;
   };
