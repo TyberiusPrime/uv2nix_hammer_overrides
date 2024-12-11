@@ -422,6 +422,9 @@
   api = {
     "0.0.7" = import ./overrides/api/0.0.7;
   };
+  api-client = {
+    "1.3.1" = import ./overrides/api-client/1.3.1;
+  };
   apiage = {
     "0.1.4" = import ./overrides/apiage/0.1.4;
   };
