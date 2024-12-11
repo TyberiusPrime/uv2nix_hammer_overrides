@@ -1059,6 +1059,9 @@
   chainlib-eth = {
     "0.6.3" = import ./overrides/chainlib-eth/0.6.3;
   };
+  chainmap = {
+    "1.0.3" = import ./overrides/chainmap/1.0.3;
+  };
   chameleon-core = {
     "1.0.4" = import ./overrides/chameleon-core/1.0.4;
   };
