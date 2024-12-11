@@ -6222,6 +6222,9 @@
   mkdocs-redirects = {
     "1.2.1" = import ./overrides/mkdocs-redirects/1.2.1;
   };
+  mkdocs-literate-nav = {
+    "0.6.1" = import ./overrides/mkdocs-literate-nav/0.6.1;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
