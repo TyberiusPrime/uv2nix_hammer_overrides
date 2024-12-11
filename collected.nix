@@ -11171,6 +11171,9 @@
   tutor-openedx = {
     "12.2.0" = import ./overrides/tutor-openedx/12.2.0;
   };
+  tuyaha = {
+    "0.0.11" = import ./overrides/tuyaha/0.0.11;
+  };
   tvdb-api = {
     "3.1.0" = import ./overrides/tvdb-api/3.1.0;
   };
