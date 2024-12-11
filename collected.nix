@@ -4260,6 +4260,9 @@
   gcloud-aio-bigquery = {
     "7.1.0" = import ./overrides/gcloud-aio-bigquery/7.1.0;
   };
+  gcloud-rest-auth = {
+    "5.3.2" = import ./overrides/gcloud-rest-auth/5.3.2;
+  };
   gcs-oauth2-boto-plugin = {
     "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
   };
