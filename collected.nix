@@ -4237,6 +4237,7 @@
     "0.4.0" = import ./overrides/gitlab-lint/0.4.0;
   };
   gitpython = {
+    "0.3.6" = import ./overrides/gitpython/0.3.6;
     "1.0.1" = import ./overrides/gitpython/1.0.1;
     "1.0.2" = import ./overrides/gitpython/1.0.2;
   };
