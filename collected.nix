@@ -12120,6 +12120,9 @@
   sqlalchemy-utils = {
     "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
+  sqlalchemy-views = {
+    "0.3.2" = import ./overrides/sqlalchemy-views/0.3.2;
+  };
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
