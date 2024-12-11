@@ -1849,6 +1849,7 @@
     "1.6.1" = import ./overrides/collective-testcaselayer/1.6.1;
   };
   color-operations = {
+    "0.1.5" = import ./overrides/color-operations/0.1.5;
     "0.1.6" = import ./overrides/color-operations/0.1.6;
   };
   colorconsole = {
