@@ -7475,6 +7475,9 @@
   pyramid-deform = {
     "0.2" = import ./overrides/pyramid-deform/0.2;
   };
+  pyramid-multiauth = {
+    "1.0.2" = import ./overrides/pyramid-multiauth/1.0.2;
+  };
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
   };
