@@ -6784,6 +6784,9 @@
     "0.8.18" = import ./overrides/prodict/0.8.18;
     "0.8.20" = import ./overrides/prodict/0.8.20;
   };
+  products-basesyndication = {
+    "1.0.0" = import ./overrides/products-basesyndication/1.0.0;
+  };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
   };
@@ -6792,6 +6795,9 @@
   };
   products-cron4plone = {
     "1.1.11" = import ./overrides/products-cron4plone/1.1.11;
+  };
+  products-fatsyndication = {
+    "1.0.1" = import ./overrides/products-fatsyndication/1.0.1;
   };
   products-maps = {
     "3.3" = import ./overrides/products-maps/3.3;
