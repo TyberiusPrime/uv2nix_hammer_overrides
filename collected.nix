@@ -4279,6 +4279,9 @@
   huey = {
     "2.5.1" = import ./overrides/huey/2.5.1;
   };
+  huggingface-hub = {
+    "0.24.6" = import ./overrides/huggingface-hub/0.24.6;
+  };
   humanize = {
     "0.5.1" = import ./overrides/humanize/0.5.1;
   };
