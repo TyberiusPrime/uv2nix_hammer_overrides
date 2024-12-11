@@ -3273,6 +3273,9 @@
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };
+  flake8-annotations-complexity = {
+    "0.0.8" = import ./overrides/flake8-annotations-complexity/0.0.8;
+  };
   flake8-blind-except = {
     "0.2.1" = import ./overrides/flake8-blind-except/0.2.1;
   };
