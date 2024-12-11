@@ -6131,6 +6131,9 @@
   mkdocs-material = {
     "9.5.34" = import ./overrides/mkdocs-material/9.5.34;
   };
+  mkdocstrings = {
+    "0.26.1" = import ./overrides/mkdocstrings/0.26.1;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
