@@ -5132,6 +5132,7 @@
   };
   mkdocs-jupyter = {
     "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
+    "0.25.0" = import ./overrides/mkdocs-jupyter/0.25.0;
   };
   mkdocs-minify-plugin = {
     "0.8.0" = import ./overrides/mkdocs-minify-plugin/0.8.0;
