@@ -11012,6 +11012,9 @@
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
   };
+  scp = {
+    "0.15.0" = import ./overrides/scp/0.15.0;
+  };
   scpclient = {
     "0.7" = import ./overrides/scpclient/0.7;
   };
