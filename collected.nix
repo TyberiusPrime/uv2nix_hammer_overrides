@@ -12301,6 +12301,9 @@
   toyplot = {
     "1.0.3" = import ./overrides/toyplot/1.0.3;
   };
+  toytree = {
+    "3.0.5" = import ./overrides/toytree/3.0.5;
+  };
   tpdcc-config = {
     "0.0.9" = import ./overrides/tpdcc-config/0.0.9;
   };
