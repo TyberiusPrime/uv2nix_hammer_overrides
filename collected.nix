@@ -10327,6 +10327,9 @@
     "4.0.3" = import ./overrides/python-javabridge/4.0.3;
     "4.0.4" = import ./overrides/python-javabridge/4.0.4;
   };
+  python-jenkins = {
+    "1.8.2" = import ./overrides/python-jenkins/1.8.2;
+  };
   python-jsonrpc = {
     "0.10.0" = import ./overrides/python-jsonrpc/0.10.0;
   };
