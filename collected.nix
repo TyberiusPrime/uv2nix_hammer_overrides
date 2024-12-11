@@ -181,6 +181,9 @@
   aionut = {
     "4.3.3" = import ./overrides/aionut/4.3.3;
   };
+  aionotion = {
+    "2024.3.1" = import ./overrides/aionotion/2024.3.1;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
