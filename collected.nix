@@ -4400,6 +4400,9 @@
   geobrickscommon = {
     "0.0.9" = import ./overrides/geobrickscommon/0.0.9;
   };
+  geographiclib = {
+    "2.0" = import ./overrides/geographiclib/2.0;
+  };
   geohash = {
     "1.0" = import ./overrides/geohash/1.0;
   };
