@@ -5040,6 +5040,9 @@
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
   };
+  mizani = {
+    "0.12.2" = import ./overrides/mizani/0.12.2;
+  };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
