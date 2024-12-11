@@ -9103,6 +9103,9 @@
   pynsq = {
     "0.9.1" = import ./overrides/pynsq/0.9.1;
   };
+  pynuki = {
+    "1.6.3" = import ./overrides/pynuki/1.6.3;
+  };
   pynut2 = {
     "2.1.2" = import ./overrides/pynut2/2.1.2;
   };
