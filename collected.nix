@@ -301,6 +301,9 @@
   apkutils2 = {
     "1.0.0" = import ./overrides/apkutils2/1.0.0;
   };
+  aplpy = {
+    "2.1.0" = import ./overrides/aplpy/2.1.0;
+  };
   app = {
     "0.1.0" = import ./overrides/app/0.1.0;
   };
