@@ -4615,6 +4615,9 @@
   gmusicapi = {
     "13.0.0" = import ./overrides/gmusicapi/13.0.0;
   };
+  gnuhealth = {
+    "4.4.1" = import ./overrides/gnuhealth/4.4.1;
+  };
   gnupg = {
     "2.3.1" = import ./overrides/gnupg/2.3.1;
   };
