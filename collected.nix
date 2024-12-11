@@ -14101,6 +14101,9 @@
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
+  validate-version-code = {
+    "1.0.4" = import ./overrides/validate-version-code/1.0.4;
+  };
   validators = {
     "0.20.0" = import ./overrides/validators/0.20.0;
   };
