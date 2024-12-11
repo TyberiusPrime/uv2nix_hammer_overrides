@@ -184,6 +184,9 @@
   aionotion = {
     "2024.3.1" = import ./overrides/aionotion/2024.3.1;
   };
+  aiomusiccast = {
+    "0.14.8" = import ./overrides/aiomusiccast/0.14.8;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
