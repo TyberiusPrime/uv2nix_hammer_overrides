@@ -10107,6 +10107,9 @@
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
   };
+  pysigma-pipeline-windows = {
+    "1.2.0" = import ./overrides/pysigma-pipeline-windows/1.2.0;
+  };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
   };
