@@ -5584,6 +5584,9 @@
   jquery-layer = {
     "1.0.0" = import ./overrides/jquery-layer/1.0.0;
   };
+  js-angular = {
+    "1.1.4" = import ./overrides/js-angular/1.1.4;
+  };
   js-jquery-form = {
     "3.9" = import ./overrides/js-jquery-form/3.9;
   };
