@@ -7831,6 +7831,9 @@
   python-oembed = {
     "0.2.4" = import ./overrides/python-oembed/0.2.4;
   };
+  python-olm = {
+    "3.2.16" = import ./overrides/python-olm/3.2.16;
+  };
   python-opendata-transport = {
     "0.4.0" = import ./overrides/python-opendata-transport/0.4.0;
   };
