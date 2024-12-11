@@ -5726,6 +5726,9 @@
   parsimonious = {
     "0.9.0" = import ./overrides/parsimonious/0.9.0;
   };
+  password-strength = {
+    "0.0.3.post2" = import ./overrides/password-strength/0.0.3.post2;
+  };
   patch = {
     "1.16" = import ./overrides/patch/1.16;
   };
