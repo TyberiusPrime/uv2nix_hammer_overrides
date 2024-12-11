@@ -3391,6 +3391,9 @@
   fogbugz = {
     "1.0.6" = import ./overrides/fogbugz/1.0.6;
   };
+  followthemoney = {
+    "3.7.1" = import ./overrides/followthemoney/3.7.1;
+  };
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
   };
