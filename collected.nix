@@ -5408,6 +5408,9 @@
   nvidia-nvtx-cu12 = {
     "12.1.105" = import ./overrides/nvidia-nvtx-cu12/12.1.105;
   };
+  nvsmi = {
+    "0.4.2" = import ./overrides/nvsmi/0.4.2;
+  };
   nydus = {
     "0.11.0" = import ./overrides/nydus/0.11.0;
   };
