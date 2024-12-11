@@ -8694,6 +8694,9 @@
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
+  sentinelsat = {
+    "1.2.1" = import ./overrides/sentinelsat/1.2.1;
+  };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
   };
