@@ -1,4 +1,27 @@
-{final, helpers, pkgs, resolveBuildSystem, ...}
-        : old: if (helpers.isWheel old) then {buildInputs = old.buildInputs or [] ++ [final.pyvex];preFixup = ''addAutoPatchelfSearchPath ${final.pyvex}/${final.python.sitePackages}/pyvex/lib
-'';} else {buildInputs = old.buildInputs or [] ++ [final.pyvex];nativeBuildInputs = old.nativeBuildInputs or [] ++ [final.pyvex] ++ ( resolveBuildSystem {pyvex = [];setuptools = [];unicorn = [];wheel = [];});}
-        
+{
+  final,
+  helpers,
+  resolveBuildSystem,
+  ...
+}:
+old:
+if (helpers.isWheel old) then
+  {
+    buildInputs = old.buildInputs or [ ] ++ [ final.pyvex ];
+    preFixup = ''
+      addAutoPatchelfSearchPath ${final.pyvex}/${final.python.sitePackages}/pyvex/lib
+    '';
+  }
+else
+  {
+    buildInputs = old.buildInputs or [ ] ++ [ final.pyvex ];
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ [ final.pyvex ]
+      ++ (resolveBuildSystem {
+        pyvex = [ ];
+        setuptools = [ ];
+        unicorn = [ ];
+        wheel = [ ];
+      });
+  }

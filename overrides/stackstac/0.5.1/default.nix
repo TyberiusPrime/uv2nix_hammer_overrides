@@ -1,3 +1,6 @@
-{final, helpers, resolveBuildSystem, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pdm-pep517 = [];});}
-        
+{ helpers, resolveBuildSystem, ... }:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  { nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { pdm-pep517 = [ ]; }); }

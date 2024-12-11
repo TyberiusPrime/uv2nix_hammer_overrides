@@ -53,5 +53,5 @@ for chosen in available:
 if commited_any:
     subprocess.check_call(['nix', 'fmt'])
 
-if commited_any:
-    subprocess.check_call(['nix-collect-garbage'])
+#if commited_any:
+    #subprocess.check_call(['nix-collect-garbage'])
