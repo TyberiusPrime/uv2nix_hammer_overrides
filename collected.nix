@@ -1791,6 +1791,9 @@
   dhooks = {
     "1.1.4" = import ./overrides/dhooks/1.1.4;
   };
+  diapyr = {
+    "30" = import ./overrides/diapyr/30;
+  };
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
