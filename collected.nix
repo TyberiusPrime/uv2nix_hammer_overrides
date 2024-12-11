@@ -8786,6 +8786,9 @@
   pytest-remfiles = {
     "0.0.2" = import ./overrides/pytest-remfiles/0.0.2;
   };
+  pytest-select = {
+    "0.1.2" = import ./overrides/pytest-select/0.1.2;
+  };
   pytest-services = {
     "2.2.1" = import ./overrides/pytest-services/2.2.1;
   };
