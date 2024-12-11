@@ -417,6 +417,9 @@
     "1.0.17" = import ./overrides/appy/1.0.17;
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
+  aprslib = {
+    "0.7.2" = import ./overrides/aprslib/0.7.2;
+  };
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
