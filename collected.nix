@@ -8888,6 +8888,9 @@
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
   };
+  tailscale = {
+    "0.6.1" = import ./overrides/tailscale/0.6.1;
+  };
   tambo = {
     "0.4.0" = import ./overrides/tambo/0.4.0;
   };
