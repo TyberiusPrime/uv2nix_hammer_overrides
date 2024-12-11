@@ -1,0 +1,1 @@
+BuildSystems = [ "numpy", "oldest-supported-numpy", "qdldl", "setuptools", "setuptools-scm", "wheel", "cmake",]
