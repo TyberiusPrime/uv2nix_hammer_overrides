@@ -5745,6 +5745,9 @@
   mkdocs-minify-plugin = {
     "0.8.0" = import ./overrides/mkdocs-minify-plugin/0.8.0;
   };
+  mkdocstrings-python = {
+    "1.11.1" = import ./overrides/mkdocstrings-python/1.11.1;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
