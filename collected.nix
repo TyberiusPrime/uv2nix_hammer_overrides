@@ -6198,6 +6198,9 @@
   proto-google-cloud-datastore-v1 = {
     "0.90.4" = import ./overrides/proto-google-cloud-datastore-v1/0.90.4;
   };
+  proto-plus = {
+    "1.24.0" = import ./overrides/proto-plus/1.24.0;
+  };
   protobuf3 = {
     "0.2.1" = import ./overrides/protobuf3/0.2.1;
   };
