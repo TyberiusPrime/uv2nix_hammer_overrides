@@ -773,6 +773,12 @@
   biplist = {
     "1.0.3" = import ./overrides/biplist/1.0.3;
   };
+  birdhousebuilder-recipe-conda = {
+    "0.4.0" = import ./overrides/birdhousebuilder-recipe-conda/0.4.0;
+  };
+  birdhousebuilder-recipe-supervisor = {
+    "0.4.0" = import ./overrides/birdhousebuilder-recipe-supervisor/0.4.0;
+  };
   birdy = {
     "0.3.2" = import ./overrides/birdy/0.3.2;
   };
