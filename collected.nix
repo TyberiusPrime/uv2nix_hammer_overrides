@@ -5478,6 +5478,9 @@
   modulemd = {
     "1.3.3" = import ./overrides/modulemd/1.3.3;
   };
+  mojimoji = {
+    "0.0.13" = import ./overrides/mojimoji/0.0.13;
+  };
   moksha-common = {
     "1.2.5" = import ./overrides/moksha-common/1.2.5;
   };
