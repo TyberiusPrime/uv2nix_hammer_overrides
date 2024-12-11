@@ -2349,6 +2349,9 @@
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
+  dotty-dict = {
+    "1.3.0" = import ./overrides/dotty-dict/1.3.0;
+  };
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
   };
@@ -6158,6 +6161,7 @@
   };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
+    "0.8.20" = import ./overrides/prodict/0.8.20;
   };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
@@ -9310,6 +9314,9 @@
   };
   tpdcc-libs-resources = {
     "0.0.2" = import ./overrides/tpdcc-libs-resources/0.0.2;
+  };
+  tracardi = {
+    "0.6.26" = import ./overrides/tracardi/0.6.26;
   };
   tracing = {
     "0.1.3" = import ./overrides/tracing/0.1.3;
