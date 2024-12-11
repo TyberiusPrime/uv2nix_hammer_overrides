@@ -1,0 +1,1 @@
+BuildSystems = [ "cython", "pkgconfig", "setuptools", "wheel",]
