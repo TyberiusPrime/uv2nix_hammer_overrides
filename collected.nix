@@ -4703,6 +4703,9 @@
   memoizer = {
     "0.0.1" = import ./overrides/memoizer/0.0.1;
   };
+  mendeleev = {
+    "0.17.0" = import ./overrides/mendeleev/0.17.0;
+  };
   menpo = {
     "0.11.1" = import ./overrides/menpo/0.11.1;
   };
