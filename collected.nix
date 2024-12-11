@@ -3752,6 +3752,9 @@
   geoid = {
     "1.1.5" = import ./overrides/geoid/1.1.5;
   };
+  geojson = {
+    "3.1.0" = import ./overrides/geojson/3.1.0;
+  };
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
