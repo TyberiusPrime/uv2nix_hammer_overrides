@@ -12138,6 +12138,9 @@
   simpleparse = {
     "2.2.4" = import ./overrides/simpleparse/2.2.4;
   };
+  simplepush = {
+    "2.2.3" = import ./overrides/simplepush/2.2.3;
+  };
   simplesam = {
     "0.1.4.1" = import ./overrides/simplesam/0.1.4.1;
   };
