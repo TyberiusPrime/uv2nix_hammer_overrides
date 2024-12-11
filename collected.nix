@@ -6197,6 +6197,9 @@
   mkdocstrings = {
     "0.26.1" = import ./overrides/mkdocstrings/0.26.1;
   };
+  mkdocs-redirects = {
+    "1.2.1" = import ./overrides/mkdocs-redirects/1.2.1;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
