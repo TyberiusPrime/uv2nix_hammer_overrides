@@ -2793,6 +2793,9 @@
   flake8-blind-except = {
     "0.2.1" = import ./overrides/flake8-blind-except/0.2.1;
   };
+  flake8-coding = {
+    "1.3.2" = import ./overrides/flake8-coding/1.3.2;
+  };
   flake8-mutable = {
     "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
   };
