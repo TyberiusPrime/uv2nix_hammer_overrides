@@ -111,6 +111,9 @@
   aiohttp-security = {
     "0.5.0" = import ./overrides/aiohttp-security/0.5.0;
   };
+  aiohttp-sse = {
+    "2.2.0" = import ./overrides/aiohttp-sse/2.2.0;
+  };
   aiohttp-swagger = {
     "1.0.15" = import ./overrides/aiohttp-swagger/1.0.15;
   };
