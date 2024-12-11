@@ -2554,6 +2554,9 @@
   django-axes = {
     "6.5.1" = import ./overrides/django-axes/6.5.1;
   };
+  django-autoconfig = {
+    "0.8.0" = import ./overrides/django-autoconfig/0.8.0;
+  };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
