@@ -9192,6 +9192,7 @@
     "0.10.3" = import ./overrides/pyrr/0.10.3;
   };
   pyrsistent = {
+    "0.17.3" = import ./overrides/pyrsistent/0.17.3;
     "0.17.4rc1" = import ./overrides/pyrsistent/0.17.4rc1;
   };
   pyrss2gen = {
@@ -10756,6 +10757,9 @@
   };
   self = {
     "2020.12.3" = import ./overrides/self/2020.12.3;
+  };
+  sem-desc = {
+    "6.13.0" = import ./overrides/sem-desc/6.13.0;
   };
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
