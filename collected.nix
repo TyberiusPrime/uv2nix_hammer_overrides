@@ -7247,6 +7247,9 @@
   ng-utility = {
     "1.0.3" = import ./overrides/ng-utility/1.0.3;
   };
+  nglui = {
+    "3.4.0" = import ./overrides/nglui/3.4.0;
+  };
   nglview = {
     "3.1.2" = import ./overrides/nglview/3.1.2;
   };
