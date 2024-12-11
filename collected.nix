@@ -9992,6 +9992,9 @@
   sonopy = {
     "0.1.2" = import ./overrides/sonopy/0.1.2;
   };
+  sos-notebook = {
+    "0.24.4" = import ./overrides/sos-notebook/0.24.4;
+  };
   soundfile = {
     "0.12.1" = import ./overrides/soundfile/0.12.1;
   };
