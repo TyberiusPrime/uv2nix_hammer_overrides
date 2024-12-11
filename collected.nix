@@ -8696,6 +8696,9 @@
   pprofile = {
     "2.2.0" = import ./overrides/pprofile/2.2.0;
   };
+  ppscore = {
+    "1.3.0" = import ./overrides/ppscore/1.3.0;
+  };
   pptree = {
     "3.1" = import ./overrides/pptree/3.1;
   };
