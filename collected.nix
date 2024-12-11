@@ -1755,6 +1755,9 @@
   defang = {
     "0.5.3" = import ./overrides/defang/0.5.3;
   };
+  defcon = {
+    "0.10.3" = import ./overrides/defcon/0.10.3;
+  };
   defopt = {
     "6.4.0" = import ./overrides/defopt/6.4.0;
   };
