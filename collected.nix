@@ -2403,6 +2403,9 @@
   dtw = {
     "1.4.0" = import ./overrides/dtw/1.4.0;
   };
+  dtw-python = {
+    "1.5.3" = import ./overrides/dtw-python/1.5.3;
+  };
   duckietown-docker-utils-daffy = {
     "6.1.1" = import ./overrides/duckietown-docker-utils-daffy/6.1.1;
   };
