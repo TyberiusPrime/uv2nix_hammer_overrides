@@ -2508,6 +2508,9 @@
   elasticsearch-async = {
     "6.2.0" = import ./overrides/elasticsearch-async/6.2.0;
   };
+  elasticsearch-dsl = {
+    "8.15.2" = import ./overrides/elasticsearch-dsl/8.15.2;
+  };
   elasticutils = {
     "0.10.3" = import ./overrides/elasticutils/0.10.3;
   };
