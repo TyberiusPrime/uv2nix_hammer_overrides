@@ -2965,6 +2965,9 @@
   fgame = {
     "0.6.5" = import ./overrides/fgame/0.6.5;
   };
+  fhirclient = {
+    "4.2.1" = import ./overrides/fhirclient/4.2.1;
+  };
   fibheap = {
     "0.2.1" = import ./overrides/fibheap/0.2.1;
   };
