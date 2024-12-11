@@ -9083,6 +9083,9 @@
   spectra = {
     "0.0.11" = import ./overrides/spectra/0.0.11;
   };
+  speedtest-cli = {
+    "2.1.3" = import ./overrides/speedtest-cli/2.1.3;
+  };
   speg = {
     "0.3" = import ./overrides/speg/0.3;
   };
