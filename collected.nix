@@ -7560,6 +7560,9 @@
   python-rtmidi = {
     "1.5.8" = import ./overrides/python-rtmidi/1.5.8;
   };
+  python-semantic-release = {
+    "9.8.8" = import ./overrides/python-semantic-release/9.8.8;
+  };
   python-simple-hipchat = {
     "0.4.0" = import ./overrides/python-simple-hipchat/0.4.0;
   };
