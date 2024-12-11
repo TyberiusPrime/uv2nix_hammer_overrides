@@ -3825,6 +3825,9 @@
   flask-oauth = {
     "0.12" = import ./overrides/flask-oauth/0.12;
   };
+  flask-oidc = {
+    "2.2.0" = import ./overrides/flask-oidc/2.2.0;
+  };
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
