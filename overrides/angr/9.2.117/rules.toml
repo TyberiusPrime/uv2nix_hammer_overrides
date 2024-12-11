@@ -1,2 +1,3 @@
 BuildInputs = [ "~literal:!:final.pyvex",]
+BuildSystems = [ "pyvex", "setuptools", "unicorn", "wheel",]
 NativeBuildInputs = [ "~literal:!:final.pyvex",]
