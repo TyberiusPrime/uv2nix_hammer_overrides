@@ -9745,6 +9745,9 @@
   schiene = {
     "0.26" = import ./overrides/schiene/0.26;
   };
+  schwimmbad = {
+    "0.4.2" = import ./overrides/schwimmbad/0.4.2;
+  };
   sciencedates = {
     "1.5.0" = import ./overrides/sciencedates/1.5.0;
   };
