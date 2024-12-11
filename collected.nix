@@ -7788,6 +7788,9 @@
   qualname = {
     "0.1.0" = import ./overrides/qualname/0.1.0;
   };
+  quantile-forest = {
+    "1.3.10" = import ./overrides/quantile-forest/1.3.10;
+  };
   quantile-python = {
     "1.1" = import ./overrides/quantile-python/1.1;
   };
