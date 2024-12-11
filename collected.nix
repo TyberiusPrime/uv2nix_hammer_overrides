@@ -13019,6 +13019,9 @@
   zope-fanstatic = {
     "3.0.0" = import ./overrides/zope-fanstatic/3.0.0;
   };
+  zope-xmlpickle = {
+    "3.4.0" = import ./overrides/zope-xmlpickle/3.4.0;
+  };
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
   };
