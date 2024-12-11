@@ -13824,8 +13824,14 @@
   txhttputil = {
     "1.3.0" = import ./overrides/txhttputil/1.3.0;
   };
+  txjson-rpc = {
+    "0.5" = import ./overrides/txjson-rpc/0.5;
+  };
   txredis = {
     "2.4" = import ./overrides/txredis/2.4;
+  };
+  txssmi = {
+    "0.3.0" = import ./overrides/txssmi/0.3.0;
   };
   txsuds-py3 = {
     "0.5.10" = import ./overrides/txsuds-py3/0.5.10;
