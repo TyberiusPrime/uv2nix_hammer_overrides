@@ -824,6 +824,9 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  biopython = {
+    "1.84" = import ./overrides/biopython/1.84;
+  };
   bioservices = {
     "1.11.2" = import ./overrides/bioservices/1.11.2;
   };
