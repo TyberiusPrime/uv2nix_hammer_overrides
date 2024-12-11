@@ -11231,6 +11231,9 @@
     "3.10.1" = import ./overrides/tables/3.10.1;
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
+  tailbone = {
+    "0.21.9" = import ./overrides/tailbone/0.21.9;
+  };
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
   };
