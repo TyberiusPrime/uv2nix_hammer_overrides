@@ -9630,6 +9630,9 @@
   uwsgidecorators = {
     "1.1.0" = import ./overrides/uwsgidecorators/1.1.0;
   };
+  vacuum-map-parser-base = {
+    "0.1.3" = import ./overrides/vacuum-map-parser-base/0.1.3;
+  };
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
