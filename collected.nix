@@ -7109,6 +7109,9 @@
   pefile = {
     "2019.4.18" = import ./overrides/pefile/2019.4.18;
   };
+  pegen = {
+    "0.3.0" = import ./overrides/pegen/0.3.0;
+  };
   pemja = {
     "0.4.1" = import ./overrides/pemja/0.4.1;
   };
