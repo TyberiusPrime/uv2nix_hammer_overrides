@@ -2191,6 +2191,9 @@
   cryptoconditions = {
     "0.8.1" = import ./overrides/cryptoconditions/0.8.1;
   };
+  cryptos = {
+    "2.0.9" = import ./overrides/cryptos/2.0.9;
+  };
   crystalpy = {
     "0.0.23" = import ./overrides/crystalpy/0.0.23;
   };
