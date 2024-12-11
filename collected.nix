@@ -3526,6 +3526,7 @@
     "0.9.11" = import ./overrides/flanker/0.9.11;
   };
   flasgger = {
+    "0.9.7.1" = import ./overrides/flasgger/0.9.7.1;
     "0.9.7.2.dev2" = import ./overrides/flasgger/0.9.7.2.dev2;
   };
   flashtext = {
@@ -4449,6 +4450,9 @@
   };
   httpauth = {
     "0.4.1" = import ./overrides/httpauth/0.4.1;
+  };
+  httpbin = {
+    "0.10.2" = import ./overrides/httpbin/0.10.2;
   };
   httpcache = {
     "0.1.3" = import ./overrides/httpcache/0.1.3;
