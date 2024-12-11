@@ -4461,6 +4461,9 @@
   langid = {
     "1.1.6" = import ./overrides/langid/1.1.6;
   };
+  language-data = {
+    "1.2.0" = import ./overrides/language-data/1.2.0;
+  };
   lanms-neo = {
     "1.0.2" = import ./overrides/lanms-neo/1.0.2;
   };
