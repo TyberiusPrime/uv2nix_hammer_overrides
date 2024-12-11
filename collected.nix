@@ -8099,6 +8099,9 @@
   pydateinfer = {
     "0.3.0" = import ./overrides/pydateinfer/0.3.0;
   };
+  pydbus = {
+    "0.6.0" = import ./overrides/pydbus/0.6.0;
+  };
   pydebug = {
     "1.0.3" = import ./overrides/pydebug/1.0.3;
   };
