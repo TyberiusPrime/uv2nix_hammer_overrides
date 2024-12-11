@@ -8135,6 +8135,9 @@
   sanic-compress = {
     "0.1.1" = import ./overrides/sanic-compress/0.1.1;
   };
+  sanic-ext = {
+    "23.12.0" = import ./overrides/sanic-ext/23.12.0;
+  };
   sanic-graphql = {
     "1.1.0" = import ./overrides/sanic-graphql/1.1.0;
   };
