@@ -1938,6 +1938,9 @@
   contextvars = {
     "2.4" = import ./overrides/contextvars/2.4;
   };
+  controku = {
+    "1.1.0" = import ./overrides/controku/1.1.0;
+  };
   conversionkit = {
     "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
