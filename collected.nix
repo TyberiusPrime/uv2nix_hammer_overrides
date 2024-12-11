@@ -8864,6 +8864,9 @@
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
   };
+  syn = {
+    "0.0.14" = import ./overrides/syn/0.0.14;
+  };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
   };
