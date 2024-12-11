@@ -8738,6 +8738,9 @@
   pyaudioanalysis = {
     "0.3.14" = import ./overrides/pyaudioanalysis/0.3.14;
   };
+  pyaussiebb = {
+    "0.1.4" = import ./overrides/pyaussiebb/0.1.4;
+  };
   pyauto-core = {
     "0.2.0" = import ./overrides/pyauto-core/0.2.0;
   };
