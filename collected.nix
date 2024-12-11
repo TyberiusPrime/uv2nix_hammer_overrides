@@ -1831,6 +1831,9 @@
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
+  descartes = {
+    "1.1.0" = import ./overrides/descartes/1.1.0;
+  };
   dev0s = {
     "3.36.6" = import ./overrides/dev0s/3.36.6;
   };
