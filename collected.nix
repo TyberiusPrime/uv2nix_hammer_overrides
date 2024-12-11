@@ -9579,6 +9579,9 @@
   pymupdf = {
     "1.24.10" = import ./overrides/pymupdf/1.24.10;
   };
+  pymyq = {
+    "3.1.6" = import ./overrides/pymyq/3.1.6;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
