@@ -8711,6 +8711,9 @@
   sslyze = {
     "6.0.0" = import ./overrides/sslyze/6.0.0;
   };
+  stanfordnlp = {
+    "0.2.0" = import ./overrides/stanfordnlp/0.2.0;
+  };
   starkbank-ecdsa = {
     "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
   };
