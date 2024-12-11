@@ -5129,6 +5129,9 @@
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
   };
+  logomaker = {
+    "0.8" = import ./overrides/logomaker/0.8;
+  };
   logstash-formatter = {
     "0.5.17" = import ./overrides/logstash-formatter/0.5.17;
   };
