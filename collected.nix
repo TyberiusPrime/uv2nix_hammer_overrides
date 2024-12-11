@@ -8583,6 +8583,9 @@
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
+  resampy = {
+    "0.4.3" = import ./overrides/resampy/0.4.3;
+  };
   reserved = {
     "0.1.1" = import ./overrides/reserved/0.1.1;
   };
