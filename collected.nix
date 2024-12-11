@@ -320,6 +320,9 @@
   apache-airflow-providers-google = {
     "10.22.0" = import ./overrides/apache-airflow-providers-google/10.22.0;
   };
+  apache-airflow-providers-ssh = {
+    "3.13.1" = import ./overrides/apache-airflow-providers-ssh/3.13.1;
+  };
   apache-beam = {
     "2.48.0" = import ./overrides/apache-beam/2.48.0;
   };
