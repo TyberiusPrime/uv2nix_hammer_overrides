@@ -8661,6 +8661,9 @@
   reverse-geocoder = {
     "1.5.1" = import ./overrides/reverse-geocoder/1.5.1;
   };
+  rfc3986 = {
+    "2.0.0" = import ./overrides/rfc3986/2.0.0;
+  };
   rfc7464 = {
     "17.7.0" = import ./overrides/rfc7464/17.7.0;
   };
