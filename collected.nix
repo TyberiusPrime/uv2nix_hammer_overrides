@@ -7329,6 +7329,9 @@
   pyflic = {
     "2.0.4" = import ./overrides/pyflic/2.0.4;
   };
+  pyflunearyou = {
+    "2021.10.0" = import ./overrides/pyflunearyou/2021.10.0;
+  };
   pyfma = {
     "0.1.6" = import ./overrides/pyfma/0.1.6;
   };
