@@ -8165,6 +8165,9 @@
   pyecowitt = {
     "0.21" = import ./overrides/pyecowitt/0.21;
   };
+  pyee = {
+    "12.0.0" = import ./overrides/pyee/12.0.0;
+  };
   pyelasticsearch = {
     "1.4.1" = import ./overrides/pyelasticsearch/1.4.1;
   };
