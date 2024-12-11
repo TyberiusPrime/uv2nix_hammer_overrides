@@ -1840,6 +1840,9 @@
   cssmin = {
     "0.2.0" = import ./overrides/cssmin/0.2.0;
   };
+  cssselect2 = {
+    "0.7.0" = import ./overrides/cssselect2/0.7.0;
+  };
   csv342 = {
     "1.0.1" = import ./overrides/csv342/1.0.1;
   };
