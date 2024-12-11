@@ -1831,6 +1831,9 @@
   deap = {
     "1.4.1" = import ./overrides/deap/1.4.1;
   };
+  debian-inspector = {
+    "31.1.0" = import ./overrides/debian-inspector/31.1.0;
+  };
   debts = {
     "0.5" = import ./overrides/debts/0.5;
   };
