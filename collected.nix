@@ -3252,6 +3252,9 @@
   google-search-results = {
     "2.4.2" = import ./overrides/google-search-results/2.4.2;
   };
+  google-trans-new = {
+    "1.1.9" = import ./overrides/google-trans-new/1.1.9;
+  };
   googleads = {
     "43.0.0" = import ./overrides/googleads/43.0.0;
   };
