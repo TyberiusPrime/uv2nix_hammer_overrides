@@ -9558,6 +9558,9 @@
   untokenize = {
     "0.1.1" = import ./overrides/untokenize/0.1.1;
   };
+  uonet-request-signer-hebe = {
+    "0.1.1" = import ./overrides/uonet-request-signer-hebe/0.1.1;
+  };
   update-copyright = {
     "0.6.2" = import ./overrides/update-copyright/0.6.2;
   };
