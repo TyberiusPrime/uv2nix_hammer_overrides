@@ -7403,6 +7403,9 @@
   nats-py = {
     "2.9.0" = import ./overrides/nats-py/2.9.0;
   };
+  nats-python = {
+    "0.8.0" = import ./overrides/nats-python/0.8.0;
+  };
   natsort = {
     "8.4.0" = import ./overrides/natsort/8.4.0;
   };
