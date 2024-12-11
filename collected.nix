@@ -3147,6 +3147,9 @@
   fastcache = {
     "1.1.0" = import ./overrides/fastcache/1.1.0;
   };
+  fastdiff = {
+    "0.3.0" = import ./overrides/fastdiff/0.3.0;
+  };
   fastdtw = {
     "0.3.4" = import ./overrides/fastdtw/0.3.4;
   };
