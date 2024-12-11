@@ -8876,6 +8876,9 @@
   products-atreferencebrowserwidget = {
     "3.0" = import ./overrides/products-atreferencebrowserwidget/3.0;
   };
+  products-advancedquery = {
+    "4.2.1" = import ./overrides/products-advancedquery/4.2.1;
+  };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
   };
