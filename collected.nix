@@ -2240,6 +2240,9 @@
   djangorestframework-jsonschema = {
     "0.1.1" = import ./overrides/djangorestframework-jsonschema/0.1.1;
   };
+  djangorestframework-recursive = {
+    "0.1.2" = import ./overrides/djangorestframework-recursive/0.1.2;
+  };
   djangotoolbox = {
     "1.8.0" = import ./overrides/djangotoolbox/1.8.0;
   };
