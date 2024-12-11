@@ -10380,6 +10380,9 @@
   watchgod = {
     "0.6" = import ./overrides/watchgod/0.6;
   };
+  watson-common = {
+    "1.6.3" = import ./overrides/watson-common/1.6.3;
+  };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
