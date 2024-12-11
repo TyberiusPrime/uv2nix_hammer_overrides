@@ -7772,6 +7772,9 @@
   npyscreen = {
     "4.10.5" = import ./overrides/npyscreen/4.10.5;
   };
+  nr-io-lexer = {
+    "1.0.0" = import ./overrides/nr-io-lexer/1.0.0;
+  };
   nsapi = {
     "3.0.5" = import ./overrides/nsapi/3.0.5;
   };
