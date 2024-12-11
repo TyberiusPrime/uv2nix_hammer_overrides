@@ -6411,6 +6411,9 @@
   pybars3 = {
     "0.9.7" = import ./overrides/pybars3/0.9.7;
   };
+  pybase64 = {
+    "1.4.0" = import ./overrides/pybase64/1.4.0;
+  };
   pybedtools = {
     "0.10.0" = import ./overrides/pybedtools/0.10.0;
   };
