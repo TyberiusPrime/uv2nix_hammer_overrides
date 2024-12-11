@@ -6027,6 +6027,7 @@
   };
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
+    "0.58.0" = import ./overrides/numba/0.58.0;
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
