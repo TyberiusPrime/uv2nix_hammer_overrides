@@ -2829,6 +2829,9 @@
   dtfabric = {
     "20230520" = import ./overrides/dtfabric/20230520;
   };
+  dtreeviz = {
+    "2.2.2" = import ./overrides/dtreeviz/2.2.2;
+  };
   dtw = {
     "1.4.0" = import ./overrides/dtw/1.4.0;
   };
