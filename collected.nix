@@ -6244,6 +6244,9 @@
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
+  linkml = {
+    "1.8.3" = import ./overrides/linkml/1.8.3;
+  };
   links-from-link-header = {
     "0.1.0" = import ./overrides/links-from-link-header/0.1.0;
   };
