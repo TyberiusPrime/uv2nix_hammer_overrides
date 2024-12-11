@@ -5024,6 +5024,9 @@
   mongokit = {
     "0.9.1.1" = import ./overrides/mongokit/0.9.1.1;
   };
+  mongomock = {
+    "4.1.2" = import ./overrides/mongomock/4.1.2;
+  };
   monkeyhex = {
     "1.7.4" = import ./overrides/monkeyhex/1.7.4;
   };
