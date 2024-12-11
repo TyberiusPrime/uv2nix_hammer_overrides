@@ -12093,6 +12093,9 @@
   utils = {
     "1.0.2" = import ./overrides/utils/1.0.2;
   };
+  utils-nuuuwan = {
+    "2.0.11" = import ./overrides/utils-nuuuwan/2.0.11;
+  };
   utilum = {
     "0.1.3" = import ./overrides/utilum/0.1.3;
   };
