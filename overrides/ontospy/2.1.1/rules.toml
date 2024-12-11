@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+MissingEmptyFiles = [ "/build/ontospy-2.1.1/requirements.txt",]
