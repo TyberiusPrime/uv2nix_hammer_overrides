@@ -7378,6 +7378,9 @@
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
   };
+  openlineage-airflow = {
+    "1.22.0" = import ./overrides/openlineage-airflow/1.22.0;
+  };
   openmdao = {
     "3.34.2" = import ./overrides/openmdao/3.34.2;
   };
