@@ -3520,6 +3520,9 @@
   googlemaps = {
     "4.10.0" = import ./overrides/googlemaps/4.10.0;
   };
+  googlesearch-python = {
+    "1.2.5" = import ./overrides/googlesearch-python/1.2.5;
+  };
   googletrans = {
     "3.0.0" = import ./overrides/googletrans/3.0.0;
   };
