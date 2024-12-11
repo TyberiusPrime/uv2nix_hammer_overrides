@@ -3440,6 +3440,9 @@
   fibheap = {
     "0.2.1" = import ./overrides/fibheap/0.2.1;
   };
+  fido = {
+    "4.2.2" = import ./overrides/fido/4.2.2;
+  };
   fido2 = {
     "0.9.3" = import ./overrides/fido2/0.9.3;
     "1.1.3" = import ./overrides/fido2/1.1.3;
