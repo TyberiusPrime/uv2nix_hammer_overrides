@@ -5241,6 +5241,9 @@
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
+  infi-traceback = {
+    "0.3.17" = import ./overrides/infi-traceback/0.3.17;
+  };
   infinity = {
     "1.5" = import ./overrides/infinity/1.5;
   };
