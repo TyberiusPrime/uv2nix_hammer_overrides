@@ -10594,6 +10594,9 @@
   simpleaudio = {
     "1.0.4" = import ./overrides/simpleaudio/1.0.4;
   };
+  simplebayes = {
+    "1.5.8" = import ./overrides/simplebayes/1.5.8;
+  };
   simpledbf = {
     "0.2.6" = import ./overrides/simpledbf/0.2.6;
   };
