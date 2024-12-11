@@ -352,6 +352,9 @@
   argeasy = {
     "3.1.0" = import ./overrides/argeasy/3.1.0;
   };
+  argh = {
+    "0.31.3" = import ./overrides/argh/0.31.3;
+  };
   argon2 = {
     "0.1.10" = import ./overrides/argon2/0.1.10;
   };
