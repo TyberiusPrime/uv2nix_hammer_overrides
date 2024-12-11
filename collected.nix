@@ -5517,6 +5517,9 @@
   ipcalc = {
     "1.1.3" = import ./overrides/ipcalc/1.1.3;
   };
+  ipdb = {
+    "0.13.9" = import ./overrides/ipdb/0.13.9;
+  };
   ipdbplugin = {
     "1.5.0" = import ./overrides/ipdbplugin/1.5.0;
   };
