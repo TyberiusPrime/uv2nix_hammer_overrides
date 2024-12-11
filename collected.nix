@@ -11535,6 +11535,9 @@
   unifi = {
     "1.2.5" = import ./overrides/unifi/1.2.5;
   };
+  unifi-discovery = {
+    "1.2.0" = import ./overrides/unifi-discovery/1.2.0;
+  };
   unified-message-relay = {
     "4.2" = import ./overrides/unified-message-relay/4.2;
   };
