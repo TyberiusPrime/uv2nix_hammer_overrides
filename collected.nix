@@ -12598,6 +12598,7 @@
     "4.2.5" = import ./overrides/supervisor/4.2.5;
   };
   sure = {
+    "2.0.1" = import ./overrides/sure/2.0.1;
     "3.0a2" = import ./overrides/sure/3.0a2;
   };
   surepy = {
