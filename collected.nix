@@ -10116,6 +10116,7 @@
   };
   scikit-build = {
     "0.18.0" = import ./overrides/scikit-build/0.18.0;
+    "0.18.1" = import ./overrides/scikit-build/0.18.1;
   };
   scikit-commpy = {
     "0.8.0" = import ./overrides/scikit-commpy/0.8.0;
