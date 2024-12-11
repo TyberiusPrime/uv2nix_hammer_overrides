@@ -5818,6 +5818,9 @@
   mkdocstrings-python = {
     "1.11.1" = import ./overrides/mkdocstrings-python/1.11.1;
   };
+  mkdocs-table-reader-plugin = {
+    "3.1.0" = import ./overrides/mkdocs-table-reader-plugin/3.1.0;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
