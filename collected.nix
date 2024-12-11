@@ -13743,6 +13743,9 @@
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
   };
+  zstandard = {
+    "0.23.0" = import ./overrides/zstandard/0.23.0;
+  };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
   };
