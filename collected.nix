@@ -10097,6 +10097,9 @@
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
+  ytmusicapi = {
+    "1.8.1" = import ./overrides/ytmusicapi/1.8.1;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
