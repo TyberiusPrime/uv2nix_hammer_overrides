@@ -9252,6 +9252,9 @@
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
+  slowapi = {
+    "0.1.9" = import ./overrides/slowapi/0.1.9;
+  };
   slugify = {
     "0.0.1" = import ./overrides/slugify/0.0.1;
   };
