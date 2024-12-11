@@ -10293,6 +10293,9 @@
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
   };
+  wsgiproxy = {
+    "0.2.2" = import ./overrides/wsgiproxy/0.2.2;
+  };
   wsgitools = {
     "0.3.1" = import ./overrides/wsgitools/0.3.1;
   };
