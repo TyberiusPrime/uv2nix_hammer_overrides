@@ -5249,6 +5249,9 @@
   jcloud = {
     "0.3" = import ./overrides/jcloud/0.3;
   };
+  jdcal = {
+    "1.4.1" = import ./overrides/jdcal/1.4.1;
+  };
   jenkins = {
     "1.0.2" = import ./overrides/jenkins/1.0.2;
   };
