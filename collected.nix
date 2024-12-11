@@ -12899,6 +12899,9 @@
   vincenty = {
     "0.1.4" = import ./overrides/vincenty/0.1.4;
   };
+  vinplots = {
+    "0.0.75" = import ./overrides/vinplots/0.0.75;
+  };
   virtstrap-core = {
     "0.3.16" = import ./overrides/virtstrap-core/0.3.16;
   };
