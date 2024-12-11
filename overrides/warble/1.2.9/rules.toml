@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.bluez", "~literal:!:pkgs.boost",]
+BuildSystems = [ "setuptools",]
