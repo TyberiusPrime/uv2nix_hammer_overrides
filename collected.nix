@@ -9467,6 +9467,7 @@
   };
   pycountry = {
     "1.20" = import ./overrides/pycountry/1.20;
+    "24.6.1" = import ./overrides/pycountry/24.6.1;
   };
   pycparser = {
     "2.14" = import ./overrides/pycparser/2.14;
