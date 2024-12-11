@@ -2324,6 +2324,9 @@
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
   };
+  django-axes = {
+    "6.5.1" = import ./overrides/django-axes/6.5.1;
+  };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
