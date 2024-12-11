@@ -10028,6 +10028,9 @@
   r2pipe = {
     "1.9.4" = import ./overrides/r2pipe/1.9.4;
   };
+  ra-utils = {
+    "1.14.0" = import ./overrides/ra-utils/1.14.0;
+  };
   rabird-core = {
     "0.4.1" = import ./overrides/rabird-core/0.4.1;
   };
