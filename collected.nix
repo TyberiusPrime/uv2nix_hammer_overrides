@@ -8380,6 +8380,9 @@
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
+  pipreqs = {
+    "0.5.0" = import ./overrides/pipreqs/0.5.0;
+  };
   pipwin = {
     "0.5.2" = import ./overrides/pipwin/0.5.2;
   };
