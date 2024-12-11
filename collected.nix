@@ -5460,6 +5460,9 @@
   jax = {
     "0.3.25" = import ./overrides/jax/0.3.25;
   };
+  jax-jumpy = {
+    "1.0.0" = import ./overrides/jax-jumpy/1.0.0;
+  };
   jaxlinop = {
     "0.0.3" = import ./overrides/jaxlinop/0.0.3;
   };
