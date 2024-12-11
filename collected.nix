@@ -9484,6 +9484,9 @@
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
+  rmfuse = {
+    "0.2.3" = import ./overrides/rmfuse/0.2.3;
+  };
   rmtest = {
     "0.7.0" = import ./overrides/rmtest/0.7.0;
   };
