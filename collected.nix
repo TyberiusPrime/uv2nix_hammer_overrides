@@ -7371,6 +7371,9 @@
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
   };
+  orderedattrdict = {
+    "1.6.0" = import ./overrides/orderedattrdict/1.6.0;
+  };
   ordereddict = {
     "1.1" = import ./overrides/ordereddict/1.1;
   };
