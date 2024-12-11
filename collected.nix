@@ -9318,6 +9318,9 @@
   pyqt5-qt5 = {
     "5.15.15" = import ./overrides/pyqt5-qt5/5.15.15;
   };
+  pyqtconsole = {
+    "1.2.3" = import ./overrides/pyqtconsole/1.2.3;
+  };
   pyquerystring = {
     "1.1" = import ./overrides/pyquerystring/1.1;
   };
