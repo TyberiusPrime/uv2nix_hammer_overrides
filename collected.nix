@@ -9703,6 +9703,9 @@
   pygooglechart = {
     "0.4.0" = import ./overrides/pygooglechart/0.4.0;
   };
+  pygount = {
+    "1.8.0" = import ./overrides/pygount/1.8.0;
+  };
   pygraphviz = {
     "1.13" = import ./overrides/pygraphviz/1.13;
   };
