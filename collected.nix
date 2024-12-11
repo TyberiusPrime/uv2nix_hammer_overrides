@@ -13987,6 +13987,9 @@
   zuper-typing-z6 = {
     "6.2.3" = import ./overrides/zuper-typing-z6/6.2.3;
   };
+  zwave-js-server-python = {
+    "0.58.0" = import ./overrides/zwave-js-server-python/0.58.0;
+  };
   zxcvbn = {
     "4.4.28" = import ./overrides/zxcvbn/4.4.28;
   };
