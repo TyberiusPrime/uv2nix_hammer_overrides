@@ -8362,6 +8362,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycddl = {
+    "0.6.3" = import ./overrides/pycddl/0.6.3;
+  };
   pycddlib = {
     "2.1.8.post1" = import ./overrides/pycddlib/2.1.8.post1;
   };
