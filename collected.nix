@@ -3609,6 +3609,9 @@
   html5lib = {
     "0.9999999" = import ./overrides/html5lib/0.9999999;
   };
+  html5print = {
+    "0.1.2" = import ./overrides/html5print/0.1.2;
+  };
   htmllaundry = {
     "2.2" = import ./overrides/htmllaundry/2.2;
   };
@@ -6175,6 +6178,7 @@
     "2.11.2" = import ./overrides/plumbing/2.11.2;
   };
   ply = {
+    "3.4" = import ./overrides/ply/3.4;
     "3.8" = import ./overrides/ply/3.8;
   };
   pmsensor = {
