@@ -4340,6 +4340,9 @@
   imm-source = {
     "1.0.30" = import ./overrides/imm-source/1.0.30;
   };
+  immutabledict = {
+    "4.2.0" = import ./overrides/immutabledict/4.2.0;
+  };
   impacket = {
     "0.11.0" = import ./overrides/impacket/0.11.0;
   };
