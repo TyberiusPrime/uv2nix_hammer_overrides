@@ -12767,6 +12767,9 @@
   xmlbuilder = {
     "1.0" = import ./overrides/xmlbuilder/1.0;
   };
+  xmodem = {
+    "0.4.7" = import ./overrides/xmodem/0.4.7;
+  };
   xmpppy = {
     "0.7.1" = import ./overrides/xmpppy/0.7.1;
   };
