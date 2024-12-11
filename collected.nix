@@ -7919,6 +7919,9 @@
   python-lzo = {
     "1.15" = import ./overrides/python-lzo/1.15;
   };
+  python-minifier = {
+    "2.9.0" = import ./overrides/python-minifier/2.9.0;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
