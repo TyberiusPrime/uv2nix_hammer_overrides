@@ -1,4 +1,3 @@
-# Excluded for now, but we might do something about it
 angrcli = "todo: find out how to make it find libpyvvex.so"
 arcor2 = "todo: needs opencv-python-contrib"
 autopy = "Needs nightly rust (todo?)"
@@ -33,7 +32,6 @@ pycaret = "todo: can't find wheel?"
 pygdal = "Todo: Version mismatch between gdal and the one in nixpkgs?"
 pygifsicle = " Installing gifsicle on Linux requires sudo! (todo: probably patchable)"
 pygsl = "needs intel-openmp and I don't know what libs that requires from nixpkgs. Todo"
-#pykeen = "Todo: pyproject.nix currently ignoring the don't build bytecode flag"
 pyldap = "todo, can't find openldap-dev includes"
 pymodaq = "todo: needs tables, which can't find blosc2 libs"
 pymupdf = "won't find mupdf .sos. But nixpkgs has it, todo"
@@ -63,8 +61,6 @@ uxsim = "todo: probably works but skipped to continue while pyqt5 is building"
 vina = "boost libary not found - needs patching, todo"
 wxpython = "todo: Needs porting from poetry2nix or nixpkgs"
 xkbcommon = "todo:  make it find xkbcommeon.h"
-
-# True exclusions
 abqpy = "Automatic: no run performed, uv failure?"
 acme = "Automatic: no run performed, uv failure?"
 adb = "Automatic: requires pypi typing, but typing has been built in since 3.6"

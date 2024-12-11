@@ -1,5 +1,6 @@
-{final, pkgs, ...}
-        : old: let
+{ final, pkgs, ... }:
+old:
+let
   inherit (pkgs) lib;
   mupdf-cxx = pkgs.mupdf.override {
     enableOcr = true;
@@ -62,5 +63,3 @@ in
     "test_textbox3"
   ];
 }
-
-        
