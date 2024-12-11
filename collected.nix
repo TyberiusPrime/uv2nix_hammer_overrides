@@ -6256,6 +6256,9 @@
   megrok-layout = {
     "1.3" = import ./overrides/megrok-layout/1.3;
   };
+  megrok-menu = {
+    "0.4.1" = import ./overrides/megrok-menu/0.4.1;
+  };
   megrok-pagetemplate = {
     "0.7" = import ./overrides/megrok-pagetemplate/0.7;
   };
