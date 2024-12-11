@@ -7564,6 +7564,9 @@
   negspacy = {
     "1.0.4" = import ./overrides/negspacy/1.0.4;
   };
+  neo = {
+    "0.13.3" = import ./overrides/neo/0.13.3;
+  };
   neo4j = {
     "5.19.0" = import ./overrides/neo4j/5.19.0;
   };
