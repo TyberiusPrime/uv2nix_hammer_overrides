@@ -1431,6 +1431,9 @@
   cfxdb = {
     "23.12.1" = import ./overrides/cfxdb/23.12.1;
   };
+  cgcloud-lib = {
+    "1.6.0" = import ./overrides/cgcloud-lib/1.6.0;
+  };
   cgen = {
     "2020.1" = import ./overrides/cgen/2020.1;
   };
