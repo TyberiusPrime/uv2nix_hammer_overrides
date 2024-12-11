@@ -12207,6 +12207,9 @@
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
+  verboselogs = {
+    "1.7" = import ./overrides/verboselogs/1.7;
+  };
   verlib = {
     "0.1" = import ./overrides/verlib/0.1;
   };
