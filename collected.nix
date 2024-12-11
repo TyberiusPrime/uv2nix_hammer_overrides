@@ -5293,6 +5293,9 @@
   ms-cv = {
     "0.1.1" = import ./overrides/ms-cv/0.1.1;
   };
+  msg-parser = {
+    "1.2.0" = import ./overrides/msg-parser/1.2.0;
+  };
   msgpack = {
     "1.0.2" = import ./overrides/msgpack/1.0.2;
   };
