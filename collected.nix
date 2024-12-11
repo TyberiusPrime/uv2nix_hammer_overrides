@@ -3716,6 +3716,7 @@
     "1.4.6" = import ./overrides/finviz/1.4.6;
   };
   fire = {
+    "0.5.0" = import ./overrides/fire/0.5.0;
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
   firecloud = {
@@ -5226,6 +5227,9 @@
   };
   jieba3k = {
     "0.35.1" = import ./overrides/jieba3k/0.35.1;
+  };
+  jill = {
+    "0.11.5" = import ./overrides/jill/0.11.5;
   };
   jina = {
     "3.27.6" = import ./overrides/jina/3.27.6;
