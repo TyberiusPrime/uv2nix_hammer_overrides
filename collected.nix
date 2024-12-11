@@ -9584,6 +9584,9 @@
   soundfile = {
     "0.12.1" = import ./overrides/soundfile/0.12.1;
   };
+  souper-plone = {
+    "1.3.1" = import ./overrides/souper-plone/1.3.1;
+  };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
