@@ -3603,6 +3603,9 @@
   exdown = {
     "0.9.0" = import ./overrides/exdown/0.9.0;
   };
+  execnb = {
+    "0.1.6" = import ./overrides/execnb/0.1.6;
+  };
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
