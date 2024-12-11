@@ -13125,6 +13125,18 @@
     "2.4.2" = import ./overrides/tiddlyweb/2.4.2;
     "2.4.3" = import ./overrides/tiddlyweb/2.4.3;
   };
+  tiddlywebplugins-atom = {
+    "1.4.6" = import ./overrides/tiddlywebplugins-atom/1.4.6;
+  };
+  tiddlywebplugins-cherrypy = {
+    "0.2.0" = import ./overrides/tiddlywebplugins-cherrypy/0.2.0;
+  };
+  tiddlywebplugins-console = {
+    "0.3.0" = import ./overrides/tiddlywebplugins-console/0.3.0;
+  };
+  tiddlywebplugins-differ = {
+    "0.6.4" = import ./overrides/tiddlywebplugins-differ/0.6.4;
+  };
   tiddlywebplugins-imaker = {
     "0.1.5" = import ./overrides/tiddlywebplugins-imaker/0.1.5;
   };
