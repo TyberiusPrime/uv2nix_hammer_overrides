@@ -7484,6 +7484,9 @@
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
+  python-twitch-client = {
+    "0.7.1" = import ./overrides/python-twitch-client/0.7.1;
+  };
   python-uinput = {
     "1.0.1" = import ./overrides/python-uinput/1.0.1;
   };
