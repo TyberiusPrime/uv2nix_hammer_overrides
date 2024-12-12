@@ -6264,6 +6264,9 @@
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
+  pulsectl = {
+    "24.8.0" = import ./overrides/pulsectl/24.8.0;
+  };
   pupynere = {
     "1.0.15" = import ./overrides/pupynere/1.0.15;
   };
