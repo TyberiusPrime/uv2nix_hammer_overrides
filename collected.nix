@@ -5961,6 +5961,9 @@
   plaid-python = {
     "25.0.0" = import ./overrides/plaid-python/25.0.0;
   };
+  planetary-computer = {
+    "1.0.0" = import ./overrides/planetary-computer/1.0.0;
+  };
   plant = {
     "0.1.3" = import ./overrides/plant/0.1.3;
   };
