@@ -1310,6 +1310,9 @@
   colr = {
     "0.9.1" = import ./overrides/colr/0.9.1;
   };
+  columnize = {
+    "0.3.11" = import ./overrides/columnize/0.3.11;
+  };
   combo = {
     "0.1.3" = import ./overrides/combo/0.1.3;
   };
