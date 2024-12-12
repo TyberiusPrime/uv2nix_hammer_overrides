@@ -6925,6 +6925,9 @@
   pyocclient = {
     "0.6" = import ./overrides/pyocclient/0.6;
   };
+  pyoctoprintapi = {
+    "0.1.14" = import ./overrides/pyoctoprintapi/0.1.14;
+  };
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
