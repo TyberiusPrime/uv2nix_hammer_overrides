@@ -1220,6 +1220,9 @@
   codeclimate-test-reporter = {
     "0.2.3" = import ./overrides/codeclimate-test-reporter/0.2.3;
   };
+  codecov = {
+    "2.1.13" = import ./overrides/codecov/2.1.13;
+  };
   codegen = {
     "1.0" = import ./overrides/codegen/1.0;
   };
