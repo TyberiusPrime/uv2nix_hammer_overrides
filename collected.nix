@@ -2769,6 +2769,9 @@
   filterpy = {
     "1.4.5" = import ./overrides/filterpy/1.4.5;
   };
+  finalfusion = {
+    "0.7.1" = import ./overrides/finalfusion/0.7.1;
+  };
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
   };
