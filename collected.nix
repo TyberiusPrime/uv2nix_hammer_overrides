@@ -10031,6 +10031,9 @@
   xobjects = {
     "0.4.4" = import ./overrides/xobjects/0.4.4;
   };
+  xray = {
+    "0.7.0" = import ./overrides/xray/0.7.0;
+  };
   xrootd = {
     "5.7.1" = import ./overrides/xrootd/5.7.1;
   };
