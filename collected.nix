@@ -3736,6 +3736,9 @@
   infi-pyutils = {
     "1.1.3" = import ./overrides/infi-pyutils/1.1.3;
   };
+  infi-recipe-console-scripts = {
+    "0.5.6" = import ./overrides/infi-recipe-console-scripts/0.5.6;
+  };
   infinity = {
     "1.5" = import ./overrides/infinity/1.5;
   };
