@@ -1925,6 +1925,9 @@
   django-concurrency = {
     "2.5" = import ./overrides/django-concurrency/2.5;
   };
+  django-configurations = {
+    "2.5.1" = import ./overrides/django-configurations/2.5.1;
+  };
   django-cratis = {
     "0.9.1" = import ./overrides/django-cratis/0.9.1;
   };
