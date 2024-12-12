@@ -7842,6 +7842,9 @@
   redlock-py = {
     "1.0.8" = import ./overrides/redlock-py/1.0.8;
   };
+  rednose = {
+    "1.3.0" = import ./overrides/rednose/1.3.0;
+  };
   reedsolo = {
     "2.0.13" = import ./overrides/reedsolo/2.0.13;
   };
@@ -8989,6 +8992,9 @@
   };
   terminaltables = {
     "3.1.0" = import ./overrides/terminaltables/3.1.0;
+  };
+  termstyle = {
+    "0.1.11" = import ./overrides/termstyle/0.1.11;
   };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
