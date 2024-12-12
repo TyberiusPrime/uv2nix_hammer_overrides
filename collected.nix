@@ -1563,6 +1563,9 @@
   csv342 = {
     "1.0.1" = import ./overrides/csv342/1.0.1;
   };
+  ctap-keyring-device = {
+    "1.0.6" = import ./overrides/ctap-keyring-device/1.0.6;
+  };
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
