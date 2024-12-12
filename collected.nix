@@ -5190,6 +5190,9 @@
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
+  netmiko = {
+    "4.4.0" = import ./overrides/netmiko/4.4.0;
+  };
   netstruct = {
     "1.1.2" = import ./overrides/netstruct/1.1.2;
   };
