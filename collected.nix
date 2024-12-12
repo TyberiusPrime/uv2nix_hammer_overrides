@@ -7910,6 +7910,9 @@
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
+  resize-right = {
+    "0.0.2" = import ./overrides/resize-right/0.0.2;
+  };
   resolver = {
     "0.2.1" = import ./overrides/resolver/0.2.1;
   };
