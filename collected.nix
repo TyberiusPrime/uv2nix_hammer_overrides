@@ -9802,6 +9802,9 @@
   walrus = {
     "0.9.4" = import ./overrides/walrus/0.9.4;
   };
+  waqiasync = {
+    "1.1.0" = import ./overrides/waqiasync/1.1.0;
+  };
   watchgod = {
     "0.6" = import ./overrides/watchgod/0.6;
   };
