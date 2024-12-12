@@ -7898,6 +7898,9 @@
   requests-ftp = {
     "0.3.1" = import ./overrides/requests-ftp/0.3.1;
   };
+  requests-kerberos = {
+    "0.15.0" = import ./overrides/requests-kerberos/0.15.0;
+  };
   requests-oauth = {
     "0.4.1" = import ./overrides/requests-oauth/0.4.1;
   };
