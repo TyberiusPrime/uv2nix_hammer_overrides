@@ -8804,6 +8804,9 @@
   strict-rfc3339 = {
     "0.7" = import ./overrides/strict-rfc3339/0.7;
   };
+  strictyaml = {
+    "1.7.3" = import ./overrides/strictyaml/1.7.3;
+  };
   stringcase = {
     "1.2.0" = import ./overrides/stringcase/1.2.0;
   };
