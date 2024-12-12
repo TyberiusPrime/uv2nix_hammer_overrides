@@ -6432,6 +6432,9 @@
   pybloomfiltermmap3 = {
     "0.6.0" = import ./overrides/pybloomfiltermmap3/0.6.0;
   };
+  pybotvac = {
+    "0.0.25" = import ./overrides/pybotvac/0.0.25;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
