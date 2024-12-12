@@ -3053,6 +3053,9 @@
   fuzzysearch = {
     "0.7.3" = import ./overrides/fuzzysearch/0.7.3;
   };
+  fuzzywuzzy = {
+    "0.18.0" = import ./overrides/fuzzywuzzy/0.18.0;
+  };
   fvcore = {
     "0.1.5.post20221221" = import ./overrides/fvcore/0.1.5.post20221221;
   };
