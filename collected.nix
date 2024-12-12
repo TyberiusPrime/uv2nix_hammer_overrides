@@ -1551,6 +1551,9 @@
   csrmesh = {
     "0.10.0" = import ./overrides/csrmesh/0.10.0;
   };
+  css-parser = {
+    "1.0.10" = import ./overrides/css-parser/1.0.10;
+  };
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
