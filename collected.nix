@@ -4568,6 +4568,9 @@
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
+  m3-builder = {
+    "1.2.0" = import ./overrides/m3-builder/1.2.0;
+  };
   m3-ui = {
     "3.0.1.6" = import ./overrides/m3-ui/3.0.1.6;
   };
