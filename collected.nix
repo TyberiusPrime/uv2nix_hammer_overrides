@@ -912,6 +912,9 @@
   canonical = {
     "0.52.0" = import ./overrides/canonical/0.52.0;
   };
+  cantools = {
+    "39.4.5" = import ./overrides/cantools/39.4.5;
+  };
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
