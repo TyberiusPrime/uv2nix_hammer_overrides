@@ -9986,6 +9986,9 @@
     "4.2.1" = import ./overrides/wxpython/4.2.1;
     "4.2.2" = import ./overrides/wxpython/4.2.2;
   };
+  wyoming = {
+    "1.6.0" = import ./overrides/wyoming/1.6.0;
+  };
   x256 = {
     "0.0.3" = import ./overrides/x256/0.0.3;
   };
