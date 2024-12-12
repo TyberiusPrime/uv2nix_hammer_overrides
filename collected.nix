@@ -6794,6 +6794,9 @@
   pylacrosse = {
     "0.4" = import ./overrides/pylacrosse/0.4;
   };
+  pylacus = {
+    "1.10.0" = import ./overrides/pylacus/1.10.0;
+  };
   pylatex = {
     "1.4.2" = import ./overrides/pylatex/1.4.2;
   };
