@@ -5641,6 +5641,9 @@
   packbits = {
     "0.6" = import ./overrides/packbits/0.6;
   };
+  packet-python = {
+    "1.44.3" = import ./overrides/packet-python/1.44.3;
+  };
   pactman = {
     "2.31.0" = import ./overrides/pactman/2.31.0;
   };
