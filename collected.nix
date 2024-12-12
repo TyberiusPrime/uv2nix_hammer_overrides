@@ -5414,6 +5414,9 @@
   oandapyv20 = {
     "0.7.2" = import ./overrides/oandapyv20/0.7.2;
   };
+  oasatelematics = {
+    "0.3" = import ./overrides/oasatelematics/0.3;
+  };
   oauth = {
     "1.0.1" = import ./overrides/oauth/1.0.1;
   };
