@@ -644,6 +644,9 @@
   bayespy = {
     "0.6.2" = import ./overrides/bayespy/0.6.2;
   };
+  bbknn = {
+    "1.6.0" = import ./overrides/bbknn/1.6.0;
+  };
   bcf = {
     "1.9.0" = import ./overrides/bcf/1.9.0;
   };
