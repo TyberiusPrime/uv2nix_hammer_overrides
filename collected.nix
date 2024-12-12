@@ -6484,6 +6484,9 @@
   pycolorizer = {
     "1.1.0" = import ./overrides/pycolorizer/1.1.0;
   };
+  pyconcepticon = {
+    "3.1.0" = import ./overrides/pyconcepticon/3.1.0;
+  };
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
