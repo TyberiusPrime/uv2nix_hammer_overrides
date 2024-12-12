@@ -5178,6 +5178,9 @@
   nes-py = {
     "8.2.1" = import ./overrides/nes-py/8.2.1;
   };
+  nest = {
+    "0.4.3" = import ./overrides/nest/0.4.3;
+  };
   nested-dict = {
     "1.61" = import ./overrides/nested-dict/1.61;
   };
