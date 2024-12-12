@@ -9916,6 +9916,9 @@
   wmd = {
     "1.3.2" = import ./overrides/wmd/1.3.2;
   };
+  wokkel = {
+    "18.0.0" = import ./overrides/wokkel/18.0.0;
+  };
   wolframclient = {
     "1.4.0" = import ./overrides/wolframclient/1.4.0;
   };
