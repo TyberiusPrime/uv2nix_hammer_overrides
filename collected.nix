@@ -2884,6 +2884,9 @@
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
+  flask-redis = {
+    "0.4.0" = import ./overrides/flask-redis/0.4.0;
+  };
   flask-registry = {
     "0.2.0" = import ./overrides/flask-registry/0.2.0;
   };
