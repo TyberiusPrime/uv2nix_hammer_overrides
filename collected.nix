@@ -3146,6 +3146,9 @@
   getkey = {
     "0.6.5" = import ./overrides/getkey/0.6.5;
   };
+  getversion = {
+    "1.0.2" = import ./overrides/getversion/1.0.2;
+  };
   gexml = {
     "1.2.0" = import ./overrides/gexml/1.2.0;
   };
