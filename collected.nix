@@ -9443,6 +9443,9 @@
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
+  types-python-dateutil = {
+    "2.9.0.20240906" = import ./overrides/types-python-dateutil/2.9.0.20240906;
+  };
   typing = {
     "3.5.2.2" = import ./overrides/typing/3.5.2.2;
   };
