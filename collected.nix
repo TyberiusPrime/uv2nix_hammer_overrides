@@ -5556,6 +5556,9 @@
   openpaperwork-gtk = {
     "2.2.5" = import ./overrides/openpaperwork-gtk/2.2.5;
   };
+  openqaoa-core = {
+    "0.2.6" = import ./overrides/openqaoa-core/0.2.6;
+  };
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
