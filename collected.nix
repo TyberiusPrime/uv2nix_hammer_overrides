@@ -8912,6 +8912,9 @@
   tdqm = {
     "0.0.1" = import ./overrides/tdqm/0.0.1;
   };
+  tdt = {
+    "0.6.6" = import ./overrides/tdt/0.6.6;
+  };
   technicolor = {
     "2017.1.16.1544" = import ./overrides/technicolor/2017.1.16.1544;
   };
