@@ -8269,6 +8269,9 @@
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
+  selenium = {
+    "4.24.0" = import ./overrides/selenium/4.24.0;
+  };
   self = {
     "2020.12.3" = import ./overrides/self/2020.12.3;
   };
