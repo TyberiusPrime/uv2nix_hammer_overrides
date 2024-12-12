@@ -5190,6 +5190,9 @@
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
+  netkit = {
+    "3.1.12" = import ./overrides/netkit/3.1.12;
+  };
   netstruct = {
     "1.1.2" = import ./overrides/netstruct/1.1.2;
   };
