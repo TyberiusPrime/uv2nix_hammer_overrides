@@ -587,6 +587,9 @@
   bamnostic = {
     "1.1.10" = import ./overrides/bamnostic/1.1.10;
   };
+  bandcamp-api = {
+    "0.2.3" = import ./overrides/bandcamp-api/0.2.3;
+  };
   bap = {
     "1.3.1" = import ./overrides/bap/1.3.1;
   };
