@@ -1602,6 +1602,9 @@
   cykhash = {
     "2.0.1" = import ./overrides/cykhash/2.0.1;
   };
+  cymem = {
+    "2.0.8" = import ./overrides/cymem/2.0.8;
+  };
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
