@@ -8996,6 +8996,9 @@
   test-tube = {
     "0.7.5" = import ./overrides/test-tube/0.7.5;
   };
+  testcontainers = {
+    "4.8.1" = import ./overrides/testcontainers/4.8.1;
+  };
   testgear-api-client = {
     "3.2.0" = import ./overrides/testgear-api-client/3.2.0;
   };
