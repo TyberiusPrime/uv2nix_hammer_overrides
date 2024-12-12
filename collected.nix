@@ -7949,6 +7949,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  rich-argparse = {
+    "1.5.2" = import ./overrides/rich-argparse/1.5.2;
+  };
   rig = {
     "2.4.1" = import ./overrides/rig/2.4.1;
   };
