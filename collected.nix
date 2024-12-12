@@ -3757,6 +3757,9 @@
   iniherit = {
     "0.3.9" = import ./overrides/iniherit/0.3.9;
   };
+  iniparse = {
+    "0.5" = import ./overrides/iniparse/0.5;
+  };
   injson = {
     "0.4.1" = import ./overrides/injson/0.4.1;
   };
