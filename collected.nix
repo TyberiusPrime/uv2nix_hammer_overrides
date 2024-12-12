@@ -3155,6 +3155,9 @@
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
+  gherkin-official = {
+    "29.0.0" = import ./overrides/gherkin-official/29.0.0;
+  };
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
