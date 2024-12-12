@@ -4517,6 +4517,9 @@
   logutils = {
     "0.3.5" = import ./overrides/logutils/0.3.5;
   };
+  logzero = {
+    "1.7.0" = import ./overrides/logzero/1.7.0;
+  };
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
