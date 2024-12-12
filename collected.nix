@@ -5751,6 +5751,9 @@
   pcapy-ng = {
     "1.0.9" = import ./overrides/pcapy-ng/1.0.9;
   };
+  pcffont = {
+    "0.0.15" = import ./overrides/pcffont/0.0.15;
+  };
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
