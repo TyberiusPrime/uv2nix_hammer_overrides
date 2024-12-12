@@ -1190,6 +1190,9 @@
   cloudshell-snmp = {
     "3.3.0" = import ./overrides/cloudshell-snmp/3.3.0;
   };
+  clumper = {
+    "0.2.15" = import ./overrides/clumper/0.2.15;
+  };
   cmapy = {
     "0.6.6" = import ./overrides/cmapy/0.6.6;
   };
