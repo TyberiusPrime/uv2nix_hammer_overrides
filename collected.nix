@@ -7239,6 +7239,9 @@
   pytest-raisesregexp = {
     "2.1" = import ./overrides/pytest-raisesregexp/2.1;
   };
+  pytest-recording = {
+    "0.13.2" = import ./overrides/pytest-recording/0.13.2;
+  };
   pytest-remfiles = {
     "0.0.2" = import ./overrides/pytest-remfiles/0.0.2;
   };
