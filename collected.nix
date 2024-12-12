@@ -187,6 +187,9 @@
   aliyun-python-sdk-core-v3 = {
     "2.13.33" = import ./overrides/aliyun-python-sdk-core-v3/2.13.33;
   };
+  allianceauth-app-utils = {
+    "1.25.0" = import ./overrides/allianceauth-app-utils/1.25.0;
+  };
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
   };
