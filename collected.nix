@@ -6876,6 +6876,9 @@
   pyminizip = {
     "0.2.6" = import ./overrides/pyminizip/0.2.6;
   };
+  pymitv = {
+    "1.5.0" = import ./overrides/pymitv/1.5.0;
+  };
   pymlconf = {
     "3.0.1" = import ./overrides/pymlconf/3.0.1;
   };
