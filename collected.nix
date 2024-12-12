@@ -4251,6 +4251,9 @@
     "0.7.8" = import ./overrides/lark-parser/0.7.8;
     "0.9.0" = import ./overrides/lark-parser/0.9.0;
   };
+  laspy = {
+    "2.5.4" = import ./overrides/laspy/2.5.4;
+  };
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
