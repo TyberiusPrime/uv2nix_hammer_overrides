@@ -7922,6 +7922,9 @@
   restructuredtext-lint = {
     "1.4.0" = import ./overrides/restructuredtext-lint/1.4.0;
   };
+  retina-face = {
+    "0.0.17" = import ./overrides/retina-face/0.0.17;
+  };
   retranslator = {
     "0.2.2" = import ./overrides/retranslator/0.2.2;
   };
