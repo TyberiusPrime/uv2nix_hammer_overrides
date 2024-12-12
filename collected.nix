@@ -334,6 +334,9 @@
   arcor2 = {
     "1.4.0" = import ./overrides/arcor2/1.4.0;
   };
+  arctic = {
+    "1.82.2" = import ./overrides/arctic/1.82.2;
+  };
   arelle = {
     "2.2" = import ./overrides/arelle/2.2;
   };
