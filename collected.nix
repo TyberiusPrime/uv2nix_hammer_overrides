@@ -7254,6 +7254,9 @@
   pytg = {
     "0.4.10" = import ./overrides/pytg/0.4.10;
   };
+  python-alexandria = {
+    "2.0.2" = import ./overrides/python-alexandria/2.0.2;
+  };
   python-alipay-sdk = {
     "3.3.0" = import ./overrides/python-alipay-sdk/3.3.0;
   };
