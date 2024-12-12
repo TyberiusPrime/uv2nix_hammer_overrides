@@ -4108,6 +4108,9 @@
   kedro = {
     "0.19.8" = import ./overrides/kedro/0.19.8;
   };
+  keepachangelog = {
+    "2.0.0" = import ./overrides/keepachangelog/2.0.0;
+  };
   keeper-secrets-manager-core = {
     "16.6.5" = import ./overrides/keeper-secrets-manager-core/16.6.5;
   };
