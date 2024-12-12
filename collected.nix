@@ -10187,6 +10187,9 @@
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
   };
+  zorg = {
+    "0.0.5" = import ./overrides/zorg/0.0.5;
+  };
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
   };
