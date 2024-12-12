@@ -268,6 +268,9 @@
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
+  anykeystore = {
+    "0.2" = import ./overrides/anykeystore/0.2;
+  };
   aorta = {
     "2.20.0" = import ./overrides/aorta/2.20.0;
   };
@@ -9674,6 +9677,9 @@
   };
   vedo = {
     "2024.5.2" = import ./overrides/vedo/2024.5.2;
+  };
+  velruse = {
+    "1.1.1" = import ./overrides/velruse/1.1.1;
   };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
