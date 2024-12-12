@@ -1919,6 +1919,9 @@
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
   };
+  django-comments-xtd = {
+    "2.10.0" = import ./overrides/django-comments-xtd/2.10.0;
+  };
   django-compat = {
     "1.0.15" = import ./overrides/django-compat/1.0.15;
   };
