@@ -8568,6 +8568,9 @@
   socksipy-branch = {
     "1.1" = import ./overrides/socksipy-branch/1.1;
   };
+  solidpython = {
+    "1.1.3" = import ./overrides/solidpython/1.1.3;
+  };
   solidpython-ff = {
     "0.1.1" = import ./overrides/solidpython-ff/0.1.1;
   };
