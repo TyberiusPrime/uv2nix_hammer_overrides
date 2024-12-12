@@ -3646,6 +3646,9 @@
   idds-workflow = {
     "2.1.40" = import ./overrides/idds-workflow/2.1.40;
   };
+  ideas = {
+    "0.1.5" = import ./overrides/ideas/0.1.5;
+  };
   idx2numpy = {
     "1.2.3" = import ./overrides/idx2numpy/1.2.3;
   };
