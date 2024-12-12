@@ -8302,6 +8302,9 @@
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
+  setupmeta = {
+    "3.6.0" = import ./overrides/setupmeta/3.6.0;
+  };
   setuptools-lint = {
     "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
   };
