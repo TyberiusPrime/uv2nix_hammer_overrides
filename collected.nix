@@ -4922,6 +4922,9 @@
   monthdelta = {
     "0.9.1" = import ./overrides/monthdelta/0.9.1;
   };
+  monzopy = {
+    "1.3.2" = import ./overrides/monzopy/1.3.2;
+  };
   mordred = {
     "1.2.0" = import ./overrides/mordred/1.2.0;
   };
