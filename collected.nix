@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  georss-qld-bushfire-alert-client = {
+    "0.8" = import ./overrides/georss-qld-bushfire-alert-client/0.8;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
