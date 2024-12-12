@@ -8984,6 +8984,9 @@
   termcolor = {
     "1.1.0" = import ./overrides/termcolor/1.1.0;
   };
+  termgraph = {
+    "0.5.3" = import ./overrides/termgraph/0.5.3;
+  };
   terminal = {
     "0.4.0" = import ./overrides/terminal/0.4.0;
   };
