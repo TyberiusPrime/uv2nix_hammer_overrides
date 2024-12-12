@@ -9314,6 +9314,9 @@
   trello = {
     "0.9.7.3" = import ./overrides/trello/0.9.7.3;
   };
+  treq = {
+    "23.11.0" = import ./overrides/treq/23.11.0;
+  };
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
