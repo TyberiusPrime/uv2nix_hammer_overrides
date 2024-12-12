@@ -3182,6 +3182,9 @@
   github-flask = {
     "3.2.0" = import ./overrides/github-flask/3.2.0;
   };
+  githubrelease = {
+    "1.5.9" = import ./overrides/githubrelease/1.5.9;
+  };
   gitignore-parser = {
     "0.1.11" = import ./overrides/gitignore-parser/0.1.11;
   };
