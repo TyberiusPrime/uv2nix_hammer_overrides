@@ -6563,6 +6563,9 @@
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
+  pydna = {
+    "5.2.0" = import ./overrides/pydna/5.2.0;
+  };
   pydoe = {
     "0.3.8" = import ./overrides/pydoe/0.3.8;
   };
