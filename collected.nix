@@ -1515,6 +1515,9 @@
   crossbar = {
     "22.6.1" = import ./overrides/crossbar/22.6.1;
   };
+  crossplane = {
+    "0.5.8" = import ./overrides/crossplane/0.5.8;
+  };
   cryio = {
     "2018.5.30" = import ./overrides/cryio/2018.5.30;
   };
