@@ -8024,6 +8024,9 @@
   rova = {
     "0.4.1" = import ./overrides/rova/0.4.1;
   };
+  royalnet = {
+    "6.6.0" = import ./overrides/royalnet/6.6.0;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
