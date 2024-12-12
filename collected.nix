@@ -4829,6 +4829,9 @@
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
   };
+  mkdocs-autolinks-plugin = {
+    "0.7.1" = import ./overrides/mkdocs-autolinks-plugin/0.7.1;
+  };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
