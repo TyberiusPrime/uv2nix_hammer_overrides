@@ -6036,6 +6036,9 @@
   podcats = {
     "0.6.3" = import ./overrides/podcats/0.6.3;
   };
+  poethepoet = {
+    "0.28.0" = import ./overrides/poethepoet/0.28.0;
+  };
   poezio = {
     "0.14" = import ./overrides/poezio/0.14;
   };
