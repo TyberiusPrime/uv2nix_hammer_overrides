@@ -2772,6 +2772,9 @@
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
   };
+  finnhub-python = {
+    "2.4.20" = import ./overrides/finnhub-python/2.4.20;
+  };
   finviz = {
     "1.4.6" = import ./overrides/finviz/1.4.6;
   };
