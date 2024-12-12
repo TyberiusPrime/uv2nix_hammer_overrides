@@ -4832,6 +4832,9 @@
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
+  mkdocs-gen-files = {
+    "0.5.0" = import ./overrides/mkdocs-gen-files/0.5.0;
+  };
   mkdocs-jupyter = {
     "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
   };
