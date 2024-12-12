@@ -8329,6 +8329,9 @@
   sha3 = {
     "0.2.1" = import ./overrides/sha3/0.2.1;
   };
+  shamir-mnemonic = {
+    "0.3.0" = import ./overrides/shamir-mnemonic/0.3.0;
+  };
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
     "0.44.0" = import ./overrides/shap/0.44.0;
