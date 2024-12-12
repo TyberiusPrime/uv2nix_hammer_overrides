@@ -3010,6 +3010,9 @@
   ftw-colorbox = {
     "1.6.4" = import ./overrides/ftw-colorbox/1.6.4;
   };
+  ftw-lawgiver = {
+    "1.17.5" = import ./overrides/ftw-lawgiver/1.17.5;
+  };
   ftw-profilehook = {
     "1.3.0" = import ./overrides/ftw-profilehook/1.3.0;
   };
