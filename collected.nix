@@ -7164,6 +7164,9 @@
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
+  pyspellchecker = {
+    "0.8.1" = import ./overrides/pyspellchecker/0.8.1;
+  };
   pyspf = {
     "2.0.14" = import ./overrides/pyspf/2.0.14;
   };
