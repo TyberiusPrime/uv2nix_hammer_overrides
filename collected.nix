@@ -147,6 +147,9 @@
   aiozeroconf = {
     "0.1.8" = import ./overrides/aiozeroconf/0.1.8;
   };
+  aiozmq = {
+    "1.0.0" = import ./overrides/aiozmq/1.0.0;
+  };
   aipy = {
     "3.0.6" = import ./overrides/aipy/3.0.6;
   };
