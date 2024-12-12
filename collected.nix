@@ -2454,6 +2454,9 @@
   ebooklib = {
     "0.18" = import ./overrides/ebooklib/0.18;
   };
+  ebs-linuxnode-core = {
+    "3.2.1" = import ./overrides/ebs-linuxnode-core/3.2.1;
+  };
   ecmwf-api-client = {
     "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
   };
@@ -7777,6 +7780,9 @@
   };
   rask = {
     "0.1.5" = import ./overrides/rask/0.1.5;
+  };
+  raspi-system = {
+    "0.2.1" = import ./overrides/raspi-system/0.2.1;
   };
   ratelimit = {
     "2.2.1" = import ./overrides/ratelimit/2.2.1;
