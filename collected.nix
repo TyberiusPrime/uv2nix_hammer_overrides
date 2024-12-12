@@ -2291,6 +2291,9 @@
   dlx = {
     "1.0.4" = import ./overrides/dlx/1.0.4;
   };
+  dm-control = {
+    "1.0.22" = import ./overrides/dm-control/1.0.22;
+  };
   dm-reuse = {
     "2.2" = import ./overrides/dm-reuse/2.2;
   };
