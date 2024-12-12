@@ -3134,6 +3134,9 @@
   geoid = {
     "1.1.5" = import ./overrides/geoid/1.1.5;
   };
+  geomdl = {
+    "5.3.1" = import ./overrides/geomdl/5.3.1;
+  };
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
