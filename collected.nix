@@ -3610,6 +3610,9 @@
   hyrule = {
     "0.6.0" = import ./overrides/hyrule/0.6.0;
   };
+  i2csense = {
+    "0.0.4" = import ./overrides/i2csense/0.0.4;
+  };
   i3-instant-layout = {
     "0.1.12" = import ./overrides/i3-instant-layout/0.1.12;
   };
