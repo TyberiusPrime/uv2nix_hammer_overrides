@@ -8945,6 +8945,9 @@
   temppathlib = {
     "1.2.0" = import ./overrides/temppathlib/1.2.0;
   };
+  tencentcloud-sdk-python-common = {
+    "3.0.1229" = import ./overrides/tencentcloud-sdk-python-common/3.0.1229;
+  };
   tendril-auth = {
     "0.5.0" = import ./overrides/tendril-auth/0.5.0;
   };
