@@ -6369,6 +6369,9 @@
   pyaltt2 = {
     "0.0.117" = import ./overrides/pyaltt2/0.0.117;
   };
+  pyaml-env = {
+    "1.2.1" = import ./overrides/pyaml-env/1.2.1;
+  };
   pyandoc = {
     "0.2.0" = import ./overrides/pyandoc/0.2.0;
   };
