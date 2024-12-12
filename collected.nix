@@ -9154,6 +9154,9 @@
   tlv8 = {
     "0.10.0" = import ./overrides/tlv8/0.10.0;
   };
+  tmuxp = {
+    "1.47.0" = import ./overrides/tmuxp/1.47.0;
+  };
   toil-lib = {
     "1.1.8" = import ./overrides/toil-lib/1.1.8;
   };
