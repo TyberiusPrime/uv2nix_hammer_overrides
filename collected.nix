@@ -7949,6 +7949,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  riemann-client = {
+    "7.0.0" = import ./overrides/riemann-client/7.0.0;
+  };
   rig = {
     "2.4.1" = import ./overrides/rig/2.4.1;
   };
