@@ -4502,6 +4502,9 @@
   logical-unification = {
     "0.4.6" = import ./overrides/logical-unification/0.4.6;
   };
+  logilab-constraint = {
+    "1.0" = import ./overrides/logilab-constraint/1.0;
+  };
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
   };
