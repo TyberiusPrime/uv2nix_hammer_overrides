@@ -8972,6 +8972,9 @@
   tendril-utils-yaml = {
     "0.2.2" = import ./overrides/tendril-utils-yaml/0.2.2;
   };
+  tensor2tensor = {
+    "1.15.7" = import ./overrides/tensor2tensor/1.15.7;
+  };
   tensordict = {
     "0.5.0" = import ./overrides/tensordict/0.5.0;
   };
