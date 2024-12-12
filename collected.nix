@@ -6785,6 +6785,9 @@
   pykrakenapi = {
     "0.3.2" = import ./overrides/pykrakenapi/0.3.2;
   };
+  pykube = {
+    "0.15.0" = import ./overrides/pykube/0.15.0;
+  };
   pykulersky = {
     "0.5.5" = import ./overrides/pykulersky/0.5.5;
   };
