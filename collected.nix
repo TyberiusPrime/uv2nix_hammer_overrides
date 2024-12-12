@@ -1277,6 +1277,9 @@
   collective-iconifieddocumentactions = {
     "1.3.2" = import ./overrides/collective-iconifieddocumentactions/1.3.2;
   };
+  collective-js-datatables = {
+    "4.1.2" = import ./overrides/collective-js-datatables/4.1.2;
+  };
   collective-js-iframeresizer = {
     "0.4" = import ./overrides/collective-js-iframeresizer/0.4;
   };
