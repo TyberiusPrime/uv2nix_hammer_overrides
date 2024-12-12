@@ -7586,6 +7586,9 @@
   pyupdate = {
     "1.4.0" = import ./overrides/pyupdate/1.4.0;
   };
+  pyuserinput = {
+    "0.1.11" = import ./overrides/pyuserinput/0.1.11;
+  };
   pyutil = {
     "3.3.6" = import ./overrides/pyutil/3.3.6;
   };
