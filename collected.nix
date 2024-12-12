@@ -6970,6 +6970,9 @@
   pypeg2 = {
     "2.15.2" = import ./overrides/pypeg2/2.15.2;
   };
+  pypeln = {
+    "0.4.9" = import ./overrides/pypeln/0.4.9;
+  };
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
