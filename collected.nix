@@ -9097,6 +9097,9 @@
   timestring = {
     "1.6.4" = import ./overrides/timestring/1.6.4;
   };
+  timetagger = {
+    "24.7.1" = import ./overrides/timetagger/24.7.1;
+  };
   tinyaes = {
     "1.1.0" = import ./overrides/tinyaes/1.1.0;
   };
