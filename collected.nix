@@ -4838,6 +4838,9 @@
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
+  mlflow-skinny = {
+    "2.16.0" = import ./overrides/mlflow-skinny/2.16.0;
+  };
   mmcif-utils = {
     "0.28" = import ./overrides/mmcif-utils/0.28;
   };
