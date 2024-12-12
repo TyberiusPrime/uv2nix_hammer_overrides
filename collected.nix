@@ -9832,6 +9832,9 @@
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
   };
+  webcolors = {
+    "24.8.0" = import ./overrides/webcolors/24.8.0;
+  };
   webcouturier-dropdownmenu = {
     "3.0.2" = import ./overrides/webcouturier-dropdownmenu/3.0.2;
   };
