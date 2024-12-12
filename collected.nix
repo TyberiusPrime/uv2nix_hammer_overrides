@@ -1791,6 +1791,9 @@
   dhooks = {
     "1.1.4" = import ./overrides/dhooks/1.1.4;
   };
+  diagrams = {
+    "0.23.4" = import ./overrides/diagrams/0.23.4;
+  };
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
@@ -9436,6 +9439,9 @@
   };
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
+  };
+  typed-ast = {
+    "1.5.5" = import ./overrides/typed-ast/1.5.5;
   };
   typedecorator = {
     "0.0.5" = import ./overrides/typedecorator/0.0.5;
