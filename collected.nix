@@ -4526,6 +4526,9 @@
   loopy = {
     "2024.1" = import ./overrides/loopy/2024.1;
   };
+  loralib = {
+    "0.1.2" = import ./overrides/loralib/0.1.2;
+  };
   loremipsum = {
     "1.0.5" = import ./overrides/loremipsum/1.0.5;
   };
