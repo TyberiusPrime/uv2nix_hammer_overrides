@@ -5331,6 +5331,9 @@
   notmuch2 = {
     "0.1" = import ./overrides/notmuch2/0.1;
   };
+  notus-scanner = {
+    "22.6.4" = import ./overrides/notus-scanner/22.6.4;
+  };
   npm = {
     "0.1.1" = import ./overrides/npm/0.1.1;
   };
