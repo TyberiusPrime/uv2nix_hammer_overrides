@@ -846,6 +846,9 @@
   bs4 = {
     "0.0.1" = import ./overrides/bs4/0.0.1;
   };
+  bsblan = {
+    "0.5.0" = import ./overrides/bsblan/0.5.0;
+  };
   bson = {
     "0.5.10" = import ./overrides/bson/0.5.10;
   };
