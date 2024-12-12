@@ -3850,6 +3850,9 @@
   iperf3 = {
     "0.1.11" = import ./overrides/iperf3/0.1.11;
   };
+  ipwhl = {
+    "1.1.0" = import ./overrides/ipwhl/1.1.0;
+  };
   ipy = {
     "1.1" = import ./overrides/ipy/1.1;
   };
