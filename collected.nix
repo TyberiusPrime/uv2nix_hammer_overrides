@@ -5138,6 +5138,9 @@
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
   };
+  nbmerge = {
+    "0.0.4" = import ./overrides/nbmerge/0.0.4;
+  };
   ncephes = {
     "1.1.0" = import ./overrides/ncephes/1.1.0;
   };
