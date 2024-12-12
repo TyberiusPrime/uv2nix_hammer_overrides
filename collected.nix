@@ -105,6 +105,9 @@
   aiohttp-devtools = {
     "1.1.2" = import ./overrides/aiohttp-devtools/1.1.2;
   };
+  aiohttp-remotes = {
+    "1.2.0" = import ./overrides/aiohttp-remotes/1.2.0;
+  };
   aiohttp-route-decorator = {
     "0.1.4" = import ./overrides/aiohttp-route-decorator/0.1.4;
   };
