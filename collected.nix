@@ -9678,6 +9678,9 @@
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
+  venusian = {
+    "3.1.0" = import ./overrides/venusian/3.1.0;
+  };
   verboselib = {
     "1.1.0" = import ./overrides/verboselib/1.1.0;
   };
