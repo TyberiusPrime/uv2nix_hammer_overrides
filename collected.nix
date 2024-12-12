@@ -8165,6 +8165,9 @@
   satpy = {
     "0.51.0" = import ./overrides/satpy/0.51.0;
   };
+  sauceclient = {
+    "1.0.0" = import ./overrides/sauceclient/1.0.0;
+  };
   sbtab = {
     "1.0.8" = import ./overrides/sbtab/1.0.8;
   };
