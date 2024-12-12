@@ -6596,6 +6596,9 @@
   pyelliptic = {
     "1.5.8" = import ./overrides/pyelliptic/1.5.8;
   };
+  pyenchant = {
+    "3.2.2" = import ./overrides/pyenchant/3.2.2;
+  };
   pyephem = {
     "9.99" = import ./overrides/pyephem/9.99;
   };
