@@ -5922,6 +5922,9 @@
   pin = {
     "2.7.0" = import ./overrides/pin/2.7.0;
   };
+  pins = {
+    "0.8.6" = import ./overrides/pins/0.8.6;
+  };
   pinyin = {
     "0.4.0" = import ./overrides/pinyin/0.4.0;
   };
