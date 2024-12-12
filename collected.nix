@@ -7245,6 +7245,9 @@
   pytest-services = {
     "2.2.1" = import ./overrides/pytest-services/2.2.1;
   };
+  pytest-snapshot = {
+    "0.9.0" = import ./overrides/pytest-snapshot/0.9.0;
+  };
   pytest-subtesthack = {
     "0.2.0" = import ./overrides/pytest-subtesthack/0.2.0;
   };
