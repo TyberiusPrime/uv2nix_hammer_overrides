@@ -6758,6 +6758,9 @@
   pyjq = {
     "2.6.0" = import ./overrides/pyjq/2.6.0;
   };
+  pyjson5 = {
+    "1.6.6" = import ./overrides/pyjson5/1.6.6;
+  };
   pyjsparser = {
     "2.7.1" = import ./overrides/pyjsparser/2.7.1;
   };
