@@ -2346,6 +2346,9 @@
   doufo = {
     "0.0.4" = import ./overrides/doufo/0.0.4;
   };
+  dparse = {
+    "0.6.3" = import ./overrides/dparse/0.6.3;
+  };
   dpcontracts = {
     "0.6.0" = import ./overrides/dpcontracts/0.6.0;
   };
