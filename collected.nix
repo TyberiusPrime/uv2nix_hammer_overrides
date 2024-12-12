@@ -2535,6 +2535,9 @@
   environ = {
     "1.0" = import ./overrides/environ/1.0;
   };
+  environ-config = {
+    "24.1.0" = import ./overrides/environ-config/24.1.0;
+  };
   environmental-override = {
     "0.1.2" = import ./overrides/environmental-override/0.1.2;
   };
