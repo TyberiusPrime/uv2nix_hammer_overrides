@@ -7469,6 +7469,9 @@
   python-smpp = {
     "0.1.9" = import ./overrides/python-smpp/0.1.9;
   };
+  python-social-auth = {
+    "0.3.6" = import ./overrides/python-social-auth/0.3.6;
+  };
   python-speech-features = {
     "0.6" = import ./overrides/python-speech-features/0.6;
   };
