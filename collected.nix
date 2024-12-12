@@ -1485,6 +1485,9 @@
   crank = {
     "0.8.1" = import ./overrides/crank/0.8.1;
   };
+  crate = {
+    "0.35.2" = import ./overrides/crate/0.35.2;
+  };
   crc16 = {
     "0.1.1" = import ./overrides/crc16/0.1.1;
   };
