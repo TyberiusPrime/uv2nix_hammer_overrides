@@ -9796,6 +9796,9 @@
   wai-common = {
     "0.0.44" = import ./overrides/wai-common/0.0.44;
   };
+  waitress = {
+    "3.0.0" = import ./overrides/waitress/3.0.0;
+  };
   wallet-py3k = {
     "0.0.4" = import ./overrides/wallet-py3k/0.0.4;
   };
