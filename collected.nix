@@ -6087,6 +6087,9 @@
   prayer-times-calculator = {
     "0.0.12" = import ./overrides/prayer-times-calculator/0.0.12;
   };
+  prdg-util = {
+    "0.0.7" = import ./overrides/prdg-util/0.0.7;
+  };
   precise-runner = {
     "0.3.1" = import ./overrides/precise-runner/0.3.1;
   };
@@ -7786,6 +7789,9 @@
   };
   rauth = {
     "0.7.3" = import ./overrides/rauth/0.7.3;
+  };
+  rbco-commandwrap = {
+    "0.0.2" = import ./overrides/rbco-commandwrap/0.0.2;
   };
   rcsb-utils-io = {
     "1.49" = import ./overrides/rcsb-utils-io/1.49;
