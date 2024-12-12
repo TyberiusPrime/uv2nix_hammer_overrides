@@ -10082,6 +10082,9 @@
   ydiff = {
     "1.3" = import ./overrides/ydiff/1.3;
   };
+  yellowbrick = {
+    "1.5" = import ./overrides/yellowbrick/1.5;
+  };
   yoctopuce = {
     "2.0.62554" = import ./overrides/yoctopuce/2.0.62554;
   };
