@@ -6189,6 +6189,9 @@
   properties = {
     "0.6.1" = import ./overrides/properties/0.6.1;
   };
+  propka = {
+    "3.5.1" = import ./overrides/propka/3.5.1;
+  };
   propobject = {
     "0.1.3" = import ./overrides/propobject/0.1.3;
   };
