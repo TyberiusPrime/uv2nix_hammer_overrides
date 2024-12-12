@@ -7961,6 +7961,9 @@
   ripozo = {
     "1.3.0" = import ./overrides/ripozo/1.3.0;
   };
+  rispy = {
+    "0.9.0" = import ./overrides/rispy/0.9.0;
+  };
   ritassist = {
     "0.9.3" = import ./overrides/ritassist/0.9.3;
   };
