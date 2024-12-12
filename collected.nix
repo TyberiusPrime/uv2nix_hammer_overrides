@@ -6459,6 +6459,9 @@
   pychm = {
     "0.8.6" = import ./overrides/pychm/0.8.6;
   };
+  pychrome = {
+    "0.2.4" = import ./overrides/pychrome/0.2.4;
+  };
   pycifrw = {
     "4.4.6" = import ./overrides/pycifrw/4.4.6;
   };
