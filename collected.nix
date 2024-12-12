@@ -8990,6 +8990,9 @@
   terminaltables = {
     "3.1.0" = import ./overrides/terminaltables/3.1.0;
   };
+  tesla-wall-connector = {
+    "1.0.2" = import ./overrides/tesla-wall-connector/1.0.2;
+  };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
