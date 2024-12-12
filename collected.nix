@@ -9422,6 +9422,9 @@
   txhttputil = {
     "1.3.0" = import ./overrides/txhttputil/1.3.0;
   };
+  txjson-rpc = {
+    "0.5" = import ./overrides/txjson-rpc/0.5;
+  };
   txredis = {
     "2.4" = import ./overrides/txredis/2.4;
   };
