@@ -53,6 +53,9 @@
   adapter-transformers = {
     "4.0.0" = import ./overrides/adapter-transformers/4.0.0;
   };
+  adb-homeassistant = {
+    "1.3.2" = import ./overrides/adb-homeassistant/1.3.2;
+  };
   adb-shell = {
     "0.4.4" = import ./overrides/adb-shell/0.4.4;
   };
