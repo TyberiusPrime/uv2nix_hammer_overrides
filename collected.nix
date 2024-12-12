@@ -9443,6 +9443,9 @@
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
+  types-mock = {
+    "5.1.0.20240425" = import ./overrides/types-mock/5.1.0.20240425;
+  };
   typing = {
     "3.5.2.2" = import ./overrides/typing/3.5.2.2;
   };
