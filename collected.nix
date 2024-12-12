@@ -9603,6 +9603,9 @@
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
+  userpath = {
+    "1.9.2" = import ./overrides/userpath/1.9.2;
+  };
   ushlex = {
     "0.99.1" = import ./overrides/ushlex/0.99.1;
   };
