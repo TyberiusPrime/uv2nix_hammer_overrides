@@ -8855,6 +8855,9 @@
   sw-python-utils = {
     "0.0.18" = import ./overrides/sw-python-utils/0.0.18;
   };
+  swagger-ui-py = {
+    "23.9.23" = import ./overrides/swagger-ui-py/23.9.23;
+  };
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
   };
