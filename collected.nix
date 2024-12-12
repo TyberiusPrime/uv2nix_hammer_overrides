@@ -8302,6 +8302,9 @@
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
+  setfit = {
+    "1.0.3" = import ./overrides/setfit/1.0.3;
+  };
   setuptools-lint = {
     "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
   };
