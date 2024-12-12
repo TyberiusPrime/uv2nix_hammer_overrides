@@ -9130,6 +9130,9 @@
   titlecase = {
     "2.4.1" = import ./overrides/titlecase/2.4.1;
   };
+  tkcalendar = {
+    "1.6.1" = import ./overrides/tkcalendar/1.6.1;
+  };
   tkinterhtml = {
     "0.7" = import ./overrides/tkinterhtml/0.7;
   };
