@@ -3037,6 +3037,9 @@
   funga-eth = {
     "0.8.0" = import ./overrides/funga-eth/0.8.0;
   };
+  funsor = {
+    "0.4.5" = import ./overrides/funsor/0.4.5;
+  };
   fusepy = {
     "3.0.1" = import ./overrides/fusepy/3.0.1;
   };
