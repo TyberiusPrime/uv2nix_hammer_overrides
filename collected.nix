@@ -2400,6 +2400,9 @@
   dtfabric = {
     "20230520" = import ./overrides/dtfabric/20230520;
   };
+  dtschema = {
+    "2024.9" = import ./overrides/dtschema/2024.9;
+  };
   dtw = {
     "1.4.0" = import ./overrides/dtw/1.4.0;
   };
