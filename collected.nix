@@ -6183,6 +6183,9 @@
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
+  prompthub-py = {
+    "4.0.0" = import ./overrides/prompthub-py/4.0.0;
+  };
   pronouncing = {
     "0.2.0" = import ./overrides/pronouncing/0.2.0;
   };
