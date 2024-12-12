@@ -8738,6 +8738,9 @@
   steam = {
     "1.4.4" = import ./overrides/steam/1.4.4;
   };
+  steelscript = {
+    "2.0.1" = import ./overrides/steelscript/2.0.1;
+  };
   stellar-base-sseclient = {
     "0.0.21" = import ./overrides/stellar-base-sseclient/0.0.21;
   };
