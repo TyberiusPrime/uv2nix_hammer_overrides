@@ -2688,6 +2688,9 @@
   fastecdsa = {
     "2.3.2" = import ./overrides/fastecdsa/2.3.2;
   };
+  fastentrypoints = {
+    "0.12" = import ./overrides/fastentrypoints/0.12;
+  };
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
