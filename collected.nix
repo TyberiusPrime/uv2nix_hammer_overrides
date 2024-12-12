@@ -1955,6 +1955,9 @@
   django-el-pagination = {
     "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
   };
+  django-embed-video = {
+    "1.4.10" = import ./overrides/django-embed-video/1.4.10;
+  };
   django-endless-pagination = {
     "2.0" = import ./overrides/django-endless-pagination/2.0;
   };
