@@ -662,6 +662,9 @@
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
   };
+  bech32 = {
+    "1.2.0" = import ./overrides/bech32/1.2.0;
+  };
   beeprint = {
     "2.4.11" = import ./overrides/beeprint/2.4.11;
   };
