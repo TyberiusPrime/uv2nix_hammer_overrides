@@ -536,6 +536,9 @@
   awsebcli = {
     "3.20.10" = import ./overrides/awsebcli/3.20.10;
   };
+  awsipranges = {
+    "0.3.3" = import ./overrides/awsipranges/0.3.3;
+  };
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
   };
