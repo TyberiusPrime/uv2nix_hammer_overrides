@@ -1677,6 +1677,9 @@
   dashing = {
     "0.1.0" = import ./overrides/dashing/0.1.0;
   };
+  dask-jobqueue = {
+    "0.9.0" = import ./overrides/dask-jobqueue/0.9.0;
+  };
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
