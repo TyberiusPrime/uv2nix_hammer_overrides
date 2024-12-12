@@ -8580,6 +8580,9 @@
   sonopy = {
     "0.1.2" = import ./overrides/sonopy/0.1.2;
   };
+  sortedcollections = {
+    "2.1.0" = import ./overrides/sortedcollections/2.1.0;
+  };
   soundfile = {
     "0.12.1" = import ./overrides/soundfile/0.12.1;
   };
