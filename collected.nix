@@ -903,6 +903,9 @@
   calver = {
     "2022.06.26" = import ./overrides/calver/2022.06.26;
   };
+  camelot-py = {
+    "0.11.0" = import ./overrides/camelot-py/0.11.0;
+  };
   can = {
     "0.0.0" = import ./overrides/can/0.0.0;
   };
