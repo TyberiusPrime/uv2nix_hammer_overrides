@@ -8093,6 +8093,9 @@
   s3-pit-restore = {
     "0.9" = import ./overrides/s3-pit-restore/0.9;
   };
+  s3fs = {
+    "2024.9.0" = import ./overrides/s3fs/2024.9.0;
+  };
   s3keyring = {
     "0.2.4" = import ./overrides/s3keyring/0.2.4;
   };
