@@ -5238,6 +5238,9 @@
   nimporter = {
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
+  nive = {
+    "1.6.2" = import ./overrides/nive/1.6.2;
+  };
   nix-prefetch-github = {
     "7.1.0" = import ./overrides/nix-prefetch-github/7.1.0;
   };
@@ -7035,6 +7038,9 @@
   };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
+  };
+  pyramid-chameleon = {
+    "0.3" = import ./overrides/pyramid-chameleon/0.3;
   };
   pyramid-deform = {
     "0.2" = import ./overrides/pyramid-deform/0.2;
