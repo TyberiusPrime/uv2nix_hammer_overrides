@@ -2595,6 +2595,9 @@
   euclid3 = {
     "0.1" = import ./overrides/euclid3/0.1;
   };
+  eufylife-ble-client = {
+    "0.1.8" = import ./overrides/eufylife-ble-client/0.1.8;
+  };
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
