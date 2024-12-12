@@ -6226,6 +6226,9 @@
   psycogreen = {
     "1.0.2" = import ./overrides/psycogreen/1.0.2;
   };
+  psycopg-pool = {
+    "3.2.2" = import ./overrides/psycopg-pool/3.2.2;
+  };
   psycopg2 = {
     "2.9.9" = import ./overrides/psycopg2/2.9.9;
   };
