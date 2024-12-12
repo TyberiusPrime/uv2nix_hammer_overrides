@@ -4428,6 +4428,9 @@
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
+  linkml-validator = {
+    "0.4.5" = import ./overrides/linkml-validator/0.4.5;
+  };
   links-from-link-header = {
     "0.1.0" = import ./overrides/links-from-link-header/0.1.0;
   };
