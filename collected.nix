@@ -2980,6 +2980,9 @@
   freesasa = {
     "2.2.1" = import ./overrides/freesasa/2.2.1;
   };
+  frictionless = {
+    "5.17.1" = import ./overrides/frictionless/5.17.1;
+  };
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
