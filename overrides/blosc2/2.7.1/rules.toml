@@ -1,1 +1,2 @@
+BuildSystems = [ "cmake", "cython", "ninja", "numpy", "scikit-build", "setuptools",]
 ManualOverrides = "__file__:blosc2/2.7.1/default.nix"
