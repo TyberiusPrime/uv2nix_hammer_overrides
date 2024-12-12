@@ -8363,6 +8363,9 @@
   shutilwhich = {
     "1.1.0" = import ./overrides/shutilwhich/1.1.0;
   };
+  si-prefix = {
+    "1.3.3" = import ./overrides/si-prefix/1.3.3;
+  };
   sievelib = {
     "1.4.1" = import ./overrides/sievelib/1.4.1;
   };
