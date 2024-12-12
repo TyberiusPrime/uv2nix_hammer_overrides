@@ -4223,6 +4223,9 @@
   kss-core = {
     "1.6.5" = import ./overrides/kss-core/1.6.5;
   };
+  kwarray = {
+    "0.7.0" = import ./overrides/kwarray/0.7.0;
+  };
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
   };
