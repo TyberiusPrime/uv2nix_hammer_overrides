@@ -6782,6 +6782,9 @@
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
   };
+  pykostalpiko = {
+    "1.1.2" = import ./overrides/pykostalpiko/1.1.2;
+  };
   pykrakenapi = {
     "0.3.2" = import ./overrides/pykrakenapi/0.3.2;
   };
