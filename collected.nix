@@ -9995,6 +9995,9 @@
   xbob-db-verification-utils = {
     "1.0.1" = import ./overrides/xbob-db-verification-utils/1.0.1;
   };
+  xboxapi = {
+    "2.0.1" = import ./overrides/xboxapi/2.0.1;
+  };
   xcffib = {
     "1.5.0" = import ./overrides/xcffib/1.5.0;
   };
