@@ -6306,6 +6306,9 @@
   py-bcrypt = {
     "0.4" = import ./overrides/py-bcrypt/0.4;
   };
+  py-bip39-bindings = {
+    "0.1.11" = import ./overrides/py-bip39-bindings/0.1.11;
+  };
   py-dag = {
     "3.0.1" = import ./overrides/py-dag/3.0.1;
   };
