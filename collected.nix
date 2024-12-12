@@ -1659,6 +1659,9 @@
   daff = {
     "1.3.46" = import ./overrides/daff/1.3.46;
   };
+  dagster-graphql = {
+    "1.8.6" = import ./overrides/dagster-graphql/1.8.6;
+  };
   dark-matter = {
     "4.0.89" = import ./overrides/dark-matter/4.0.89;
   };
