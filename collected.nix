@@ -7143,6 +7143,9 @@
   pysistence = {
     "0.4.1" = import ./overrides/pysistence/0.4.1;
   };
+  pysmappee = {
+    "0.2.29" = import ./overrides/pysmappee/0.2.29;
+  };
   pysmarthome = {
     "3.1.1" = import ./overrides/pysmarthome/3.1.1;
   };
