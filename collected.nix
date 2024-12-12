@@ -2673,6 +2673,9 @@
   fasta-reader = {
     "3.0.3" = import ./overrides/fasta-reader/3.0.3;
   };
+  fastapi = {
+    "0.114.0" = import ./overrides/fastapi/0.114.0;
+  };
   fastapi-camelcase = {
     "2.0.0" = import ./overrides/fastapi-camelcase/2.0.0;
   };
