@@ -7303,6 +7303,9 @@
   python-doi = {
     "0.2.0" = import ./overrides/python-doi/0.2.0;
   };
+  python-editor = {
+    "1.0.4" = import ./overrides/python-editor/1.0.4;
+  };
   python-etcd = {
     "0.4.5" = import ./overrides/python-etcd/0.4.5;
   };
