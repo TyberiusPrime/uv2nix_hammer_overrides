@@ -231,6 +231,9 @@
   annoy = {
     "1.17.3" = import ./overrides/annoy/1.17.3;
   };
+  anova-wifi = {
+    "0.17.1" = import ./overrides/anova-wifi/0.17.1;
+  };
   ansi2image = {
     "0.1.4" = import ./overrides/ansi2image/0.1.4;
   };
