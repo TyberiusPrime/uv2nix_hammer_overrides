@@ -2935,6 +2935,9 @@
   flexsolve = {
     "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
+  flickrapi = {
+    "2.4.0" = import ./overrides/flickrapi/2.4.0;
+  };
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
