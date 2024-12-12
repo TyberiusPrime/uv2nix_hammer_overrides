@@ -6644,6 +6644,9 @@
   pyfcm = {
     "1.4.9" = import ./overrides/pyfcm/1.4.9;
   };
+  pyfiglet = {
+    "1.0.2" = import ./overrides/pyfiglet/1.0.2;
+  };
   pyfim = {
     "6.28" = import ./overrides/pyfim/6.28;
   };
