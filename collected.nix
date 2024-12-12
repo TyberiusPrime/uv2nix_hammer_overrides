@@ -10019,6 +10019,9 @@
   xlwt-future = {
     "0.8.0" = import ./overrides/xlwt-future/0.8.0;
   };
+  xmindparser = {
+    "1.0.9" = import ./overrides/xmindparser/1.0.9;
+  };
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
   };
