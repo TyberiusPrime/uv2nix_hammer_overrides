@@ -3598,6 +3598,9 @@
   hydralit-components = {
     "1.0.10" = import ./overrides/hydralit-components/1.0.10;
   };
+  hypatia = {
+    "0.4" = import ./overrides/hypatia/0.4;
+  };
   hypchat = {
     "0.21" = import ./overrides/hypchat/0.21;
   };
