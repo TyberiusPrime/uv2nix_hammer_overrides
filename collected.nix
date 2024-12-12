@@ -9458,6 +9458,9 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  ua-parser = {
+    "0.18.0" = import ./overrides/ua-parser/0.18.0;
+  };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
   };
