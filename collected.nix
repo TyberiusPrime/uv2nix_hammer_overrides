@@ -2707,6 +2707,7 @@
     "1.0" = import ./overrides/fbpca/1.0;
   };
   fcm-django = {
+    "0.3.11" = import ./overrides/fcm-django/0.3.11;
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
   fcore = {
@@ -3073,6 +3074,9 @@
   };
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
+  };
+  garpixcms = {
+    "4.5.2" = import ./overrides/garpixcms/4.5.2;
   };
   gatspy = {
     "0.3" = import ./overrides/gatspy/0.3;
@@ -4566,6 +4570,7 @@
     "0.42.0" = import ./overrides/m2crypto/0.42.0;
   };
   m2r = {
+    "0.2.1" = import ./overrides/m2r/0.2.1;
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
   m3-ui = {
