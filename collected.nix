@@ -3044,6 +3044,9 @@
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
   };
+  future-annotations = {
+    "1.0.0" = import ./overrides/future-annotations/1.0.0;
+  };
   fuzzingbook = {
     "1.2.1" = import ./overrides/fuzzingbook/1.2.1;
   };
