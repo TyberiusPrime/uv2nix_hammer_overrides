@@ -7206,6 +7206,9 @@
   pytdx = {
     "1.72" = import ./overrides/pytdx/1.72;
   };
+  pytedee-async = {
+    "0.2.20" = import ./overrides/pytedee-async/0.2.20;
+  };
   pytelegraf = {
     "0.3.3" = import ./overrides/pytelegraf/0.3.3;
   };
