@@ -203,6 +203,9 @@
   amino = {
     "13.0.1" = import ./overrides/amino/13.0.1;
   };
+  ampel-interface = {
+    "0.10.1.post0" = import ./overrides/ampel-interface/0.10.1.post0;
+  };
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
