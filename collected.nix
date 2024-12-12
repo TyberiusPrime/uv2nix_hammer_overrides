@@ -1271,6 +1271,9 @@
   collective-excelexport = {
     "1.8.2" = import ./overrides/collective-excelexport/1.8.2;
   };
+  collective-geo-openlayers = {
+    "4.0" = import ./overrides/collective-geo-openlayers/4.0;
+  };
   collective-geo-settings = {
     "4.0" = import ./overrides/collective-geo-settings/4.0;
   };
