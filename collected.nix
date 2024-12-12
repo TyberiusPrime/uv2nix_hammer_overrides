@@ -1152,6 +1152,7 @@
   cloudflare = {
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
     "2.20.0" = import ./overrides/cloudflare/2.20.0;
+    "3.1.0" = import ./overrides/cloudflare/3.1.0;
   };
   cloudify-common = {
     "7.0.4" = import ./overrides/cloudify-common/7.0.4;
