@@ -464,6 +464,9 @@
   atomman = {
     "1.4.11" = import ./overrides/atomman/1.4.11;
   };
+  augmax = {
+    "0.3.4" = import ./overrides/augmax/0.3.4;
+  };
   auroranoaa = {
     "0.0.3" = import ./overrides/auroranoaa/0.0.3;
   };
