@@ -7131,6 +7131,9 @@
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
   };
+  pysigma-pipeline-sysmon = {
+    "1.0.4" = import ./overrides/pysigma-pipeline-sysmon/1.0.4;
+  };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
   };
