@@ -6276,6 +6276,9 @@
   pure25519 = {
     "0.0.1" = import ./overrides/pure25519/0.0.1;
   };
+  puremagic = {
+    "1.27" = import ./overrides/puremagic/1.27;
+  };
   purepng = {
     "0.2.0" = import ./overrides/purepng/0.2.0;
   };
