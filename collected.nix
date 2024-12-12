@@ -313,6 +313,9 @@
   appy = {
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
+  apsw-wheels = {
+    "3.36.0.post1" = import ./overrides/apsw-wheels/3.36.0.post1;
+  };
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
