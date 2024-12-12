@@ -2228,6 +2228,9 @@
   djangocodemirror = {
     "2.1.0" = import ./overrides/djangocodemirror/2.1.0;
   };
+  djangomix = {
+    "1.1.3" = import ./overrides/djangomix/1.1.3;
+  };
   djangorestframework-camel-case = {
     "1.4.2" = import ./overrides/djangorestframework-camel-case/1.4.2;
   };
