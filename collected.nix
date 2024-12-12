@@ -6828,6 +6828,9 @@
   pylibyaml = {
     "0.1.0" = import ./overrides/pylibyaml/0.1.0;
   };
+  pylint = {
+    "3.2.7" = import ./overrides/pylint/3.2.7;
+  };
   pylint-celery = {
     "0.3" = import ./overrides/pylint-celery/0.3;
   };
