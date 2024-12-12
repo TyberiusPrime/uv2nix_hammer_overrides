@@ -2658,6 +2658,9 @@
   factor-analyzer = {
     "0.5.1" = import ./overrides/factor-analyzer/0.5.1;
   };
+  factory-boy = {
+    "3.3.1" = import ./overrides/factory-boy/3.3.1;
+  };
   fairscale = {
     "0.4.13" = import ./overrides/fairscale/0.4.13;
   };
