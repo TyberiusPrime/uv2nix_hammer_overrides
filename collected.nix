@@ -8272,6 +8272,9 @@
   self = {
     "2020.12.3" = import ./overrides/self/2020.12.3;
   };
+  selinux = {
+    "0.3.0" = import ./overrides/selinux/0.3.0;
+  };
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
