@@ -8729,6 +8729,9 @@
   static3 = {
     "0.7.0" = import ./overrides/static3/0.7.0;
   };
+  staticjinja = {
+    "5.0.0" = import ./overrides/staticjinja/5.0.0;
+  };
   statistics = {
     "1.0.3.5" = import ./overrides/statistics/1.0.3.5;
   };
