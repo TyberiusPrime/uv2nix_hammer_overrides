@@ -9624,6 +9624,9 @@
   uuid = {
     "1.30" = import ./overrides/uuid/1.30;
   };
+  uvicorn = {
+    "0.30.6" = import ./overrides/uvicorn/0.30.6;
+  };
   uwsgi = {
     "2.0.26" = import ./overrides/uwsgi/2.0.26;
   };
