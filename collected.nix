@@ -5093,6 +5093,9 @@
     "1.4.6" = import ./overrides/mysqlclient/1.4.6;
     "2.2.4" = import ./overrides/mysqlclient/2.2.4;
   };
+  myterial = {
+    "1.2.1" = import ./overrides/myterial/1.2.1;
+  };
   mythril = {
     "0.24.8" = import ./overrides/mythril/0.24.8;
   };
