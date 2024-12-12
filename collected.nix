@@ -4329,6 +4329,9 @@
   libfsntfs-python = {
     "20240501" = import ./overrides/libfsntfs-python/20240501;
   };
+  libkeepass = {
+    "0.3.1.post1" = import ./overrides/libkeepass/0.3.1.post1;
+  };
   libknot = {
     "3.4.0" = import ./overrides/libknot/3.4.0;
   };
