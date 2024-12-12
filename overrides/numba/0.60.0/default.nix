@@ -1,7 +1,7 @@
-{final, helpers, pkgs, ...}
+{final, helpers, pkgs, resolveBuildSystem, ...}
         :
             old:
-            let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.tbb_2021_11.out];})) (old: old // ( {
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {buildInputs = old.buildInputs or [] ++ [pkgs.tbb_2021_11.out];} else {buildInputs = old.buildInputs or [] ++ [pkgs.tbb_2021_11.out];nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {numpy = [];setuptools = [];});})) (old: old // ( {
   # we want tbb to be available, since it's the only one that does
   # thread & fork safety.
   postInstall = ''
