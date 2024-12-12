@@ -548,6 +548,9 @@
   azureml-train-automl-client = {
     "1.57.0" = import ./overrides/azureml-train-automl-client/1.57.0;
   };
+  babelfont = {
+    "3.0.5" = import ./overrides/babelfont/3.0.5;
+  };
   backends = {
     "1.6.6" = import ./overrides/backends/1.6.6;
   };
