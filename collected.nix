@@ -6033,6 +6033,9 @@
   pod-base = {
     "1.0.3" = import ./overrides/pod-base/1.0.3;
   };
+  pod5 = {
+    "0.3.15" = import ./overrides/pod5/0.3.15;
+  };
   podcats = {
     "0.6.3" = import ./overrides/podcats/0.6.3;
   };
