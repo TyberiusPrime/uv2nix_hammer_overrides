@@ -5736,6 +5736,9 @@
   path-and-address = {
     "2.0.1" = import ./overrides/path-and-address/2.0.1;
   };
+  pathlib-abc = {
+    "0.3.1" = import ./overrides/pathlib-abc/0.3.1;
+  };
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
