@@ -4096,6 +4096,9 @@
   kamene = {
     "0.32" = import ./overrides/kamene/0.32;
   };
+  kanidm = {
+    "0.0.3" = import ./overrides/kanidm/0.0.3;
+  };
   kanilog = {
     "0.3.3" = import ./overrides/kanilog/0.3.3;
   };
