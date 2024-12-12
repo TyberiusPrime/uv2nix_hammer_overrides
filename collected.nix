@@ -1596,6 +1596,9 @@
   cwlgen = {
     "0.4.2" = import ./overrides/cwlgen/0.4.2;
   };
+  cycler = {
+    "0.12.1" = import ./overrides/cycler/0.12.1;
+  };
   cydets = {
     "1.1" = import ./overrides/cydets/1.1;
   };
