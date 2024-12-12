@@ -5190,6 +5190,9 @@
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
+  netlink-logging = {
+    "0.1.15" = import ./overrides/netlink-logging/0.1.15;
+  };
   netstruct = {
     "1.1.2" = import ./overrides/netstruct/1.1.2;
   };
