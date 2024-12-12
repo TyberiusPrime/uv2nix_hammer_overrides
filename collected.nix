@@ -9368,6 +9368,9 @@
   tw2-jquery = {
     "2.2.0.2" = import ./overrides/tw2-jquery/2.2.0.2;
   };
+  tweak = {
+    "1.0.4" = import ./overrides/tweak/1.0.4;
+  };
   twint = {
     "2.1.20" = import ./overrides/twint/2.1.20;
   };
