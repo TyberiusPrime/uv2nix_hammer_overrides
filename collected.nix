@@ -10046,6 +10046,9 @@
   xxhash = {
     "2.0.2" = import ./overrides/xxhash/2.0.2;
   };
+  yachalk = {
+    "0.1.6" = import ./overrides/yachalk/0.1.6;
+  };
   yahoo-finance = {
     "1.4.0" = import ./overrides/yahoo-finance/1.4.0;
   };
