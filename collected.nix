@@ -704,6 +704,9 @@
   billiard = {
     "3.5.0.5" = import ./overrides/billiard/3.5.0.5;
   };
+  bimmer-connected = {
+    "0.16.3" = import ./overrides/bimmer-connected/0.16.3;
+  };
   binary2strings = {
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
