@@ -8186,6 +8186,9 @@
   sceptre-file-resolver = {
     "1.0.6" = import ./overrides/sceptre-file-resolver/1.0.6;
   };
+  schedule = {
+    "1.2.2" = import ./overrides/schedule/1.2.2;
+  };
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
   };
