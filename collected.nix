@@ -4745,6 +4745,9 @@
   meteor-ejson = {
     "1.1.0" = import ./overrides/meteor-ejson/1.1.0;
   };
+  meteostat = {
+    "1.6.8" = import ./overrides/meteostat/1.6.8;
+  };
   metlog-py = {
     "0.10.0" = import ./overrides/metlog-py/0.10.0;
   };
