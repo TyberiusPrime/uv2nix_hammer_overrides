@@ -2237,6 +2237,9 @@
   djangorestframework-extras = {
     "0.3.0" = import ./overrides/djangorestframework-extras/0.3.0;
   };
+  djangorestframework-gis = {
+    "1.1" = import ./overrides/djangorestframework-gis/1.1;
+  };
   djangorestframework-jsonschema = {
     "0.1.1" = import ./overrides/djangorestframework-jsonschema/0.1.1;
   };
