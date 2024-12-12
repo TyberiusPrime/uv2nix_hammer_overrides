@@ -3444,6 +3444,9 @@
   hetzner = {
     "0.8.3" = import ./overrides/hetzner/0.8.3;
   };
+  hexagonit-testing = {
+    "1.2.2" = import ./overrides/hexagonit-testing/1.2.2;
+  };
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
@@ -4600,6 +4603,9 @@
   };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
+  };
+  manuel = {
+    "1.13.0" = import ./overrides/manuel/1.13.0;
   };
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
