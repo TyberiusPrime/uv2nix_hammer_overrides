@@ -4974,6 +4974,9 @@
     "4.0.0" = import ./overrides/mpi4py/4.0.0;
     "4.0.1" = import ./overrides/mpi4py/4.0.1;
   };
+  mpire = {
+    "2.10.2" = import ./overrides/mpire/2.10.2;
+  };
   mplcursors = {
     "0.5.3" = import ./overrides/mplcursors/0.5.3;
   };
