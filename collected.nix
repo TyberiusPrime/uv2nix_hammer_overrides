@@ -5967,6 +5967,9 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  plivo = {
+    "4.55.5" = import ./overrides/plivo/4.55.5;
+  };
   plone-app-form = {
     "2.3.3" = import ./overrides/plone-app-form/2.3.3;
   };
