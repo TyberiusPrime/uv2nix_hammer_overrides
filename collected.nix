@@ -3207,6 +3207,9 @@
   globster = {
     "0.1.0" = import ./overrides/globster/0.1.0;
   };
+  glom = {
+    "23.5.0" = import ./overrides/glom/23.5.0;
+  };
   glpk = {
     "0.4.7" = import ./overrides/glpk/0.4.7;
   };
