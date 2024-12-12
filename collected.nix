@@ -4715,6 +4715,9 @@
   merkletools = {
     "1.0.3" = import ./overrides/merkletools/1.0.3;
   };
+  meross-iot = {
+    "0.4.7.3" = import ./overrides/meross-iot/0.4.7.3;
+  };
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
