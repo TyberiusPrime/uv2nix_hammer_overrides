@@ -8885,6 +8885,9 @@
   tables = {
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
+  tabulate = {
+    "0.9.0" = import ./overrides/tabulate/0.9.0;
+  };
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
   };
