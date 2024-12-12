@@ -9368,6 +9368,9 @@
   tw2-jquery = {
     "2.2.0.2" = import ./overrides/tw2-jquery/2.2.0.2;
   };
+  tweet-preprocessor = {
+    "0.6.0" = import ./overrides/tweet-preprocessor/0.6.0;
+  };
   twint = {
     "2.1.20" = import ./overrides/twint/2.1.20;
   };
