@@ -2523,6 +2523,9 @@
   empyrical = {
     "0.5.5" = import ./overrides/empyrical/0.5.5;
   };
+  empyrical-reloaded = {
+    "0.5.10" = import ./overrides/empyrical-reloaded/0.5.10;
+  };
   encodec = {
     "0.1.1" = import ./overrides/encodec/0.1.1;
   };
@@ -5794,6 +5797,7 @@
     "3.4.16" = import ./overrides/peek-plugin-base/3.4.16;
   };
   peewee = {
+    "3.17.3" = import ./overrides/peewee/3.17.3;
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
   pefile = {
