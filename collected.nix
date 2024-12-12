@@ -9305,6 +9305,9 @@
   trash-cli = {
     "0.24.5.26" = import ./overrides/trash-cli/0.24.5.26;
   };
+  travertino = {
+    "0.3.0" = import ./overrides/travertino/0.3.0;
+  };
   trectools = {
     "0.0.50" = import ./overrides/trectools/0.0.50;
   };
