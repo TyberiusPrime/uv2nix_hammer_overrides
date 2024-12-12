@@ -413,6 +413,9 @@
   astpath = {
     "0.9.1" = import ./overrides/astpath/0.9.1;
   };
+  astral = {
+    "3.2" = import ./overrides/astral/3.2;
+  };
   astroplan = {
     "0.9.1" = import ./overrides/astroplan/0.9.1;
   };
