@@ -8996,6 +8996,9 @@
   test-tube = {
     "0.7.5" = import ./overrides/test-tube/0.7.5;
   };
+  testfixtures = {
+    "8.3.0" = import ./overrides/testfixtures/8.3.0;
+  };
   testgear-api-client = {
     "3.2.0" = import ./overrides/testgear-api-client/3.2.0;
   };
