@@ -2331,6 +2331,9 @@
   docx = {
     "0.2.4" = import ./overrides/docx/0.2.4;
   };
+  docx2python = {
+    "3.0.0" = import ./overrides/docx2python/3.0.0;
+  };
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
