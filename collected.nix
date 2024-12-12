@@ -9422,6 +9422,9 @@
   txhttputil = {
     "1.3.0" = import ./overrides/txhttputil/1.3.0;
   };
+  txmongo = {
+    "23.0.0" = import ./overrides/txmongo/23.0.0;
+  };
   txredis = {
     "2.4" = import ./overrides/txredis/2.4;
   };
