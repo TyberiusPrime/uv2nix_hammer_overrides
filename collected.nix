@@ -8616,6 +8616,9 @@
   sphinx-serve = {
     "1.0.1" = import ./overrides/sphinx-serve/1.0.1;
   };
+  sphinx-version-warning = {
+    "1.1.2" = import ./overrides/sphinx-version-warning/1.1.2;
+  };
   sphinxcontrib-bayesnet = {
     "0.4" = import ./overrides/sphinxcontrib-bayesnet/0.4;
   };
