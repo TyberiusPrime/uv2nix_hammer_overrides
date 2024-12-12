@@ -7601,6 +7601,9 @@
   pyversasense = {
     "0.0.6" = import ./overrides/pyversasense/0.0.6;
   };
+  pyvesync = {
+    "2.1.12" = import ./overrides/pyvesync/2.1.12;
+  };
   pyvg = {
     "1.1.3" = import ./overrides/pyvg/1.1.3;
   };
