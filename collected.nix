@@ -7901,6 +7901,9 @@
   requests-oauth = {
     "0.4.1" = import ./overrides/requests-oauth/0.4.1;
   };
+  requests-ratelimiter = {
+    "0.7.0" = import ./overrides/requests-ratelimiter/0.7.0;
+  };
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
