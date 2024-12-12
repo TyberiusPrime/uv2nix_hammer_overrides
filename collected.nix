@@ -313,6 +313,9 @@
   appy = {
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
+  apricot-select = {
+    "0.6.1" = import ./overrides/apricot-select/0.6.1;
+  };
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
@@ -6053,6 +6056,9 @@
   };
   polygon3 = {
     "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
+  };
+  pomegranate = {
+    "1.1.0" = import ./overrides/pomegranate/1.1.0;
   };
   portpicker = {
     "1.3.1" = import ./overrides/portpicker/1.3.1;
