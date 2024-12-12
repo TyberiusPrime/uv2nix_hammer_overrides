@@ -7853,6 +7853,9 @@
     "2020.2.20" = import ./overrides/regex/2020.2.20;
     "2021.4.4" = import ./overrides/regex/2021.4.4;
   };
+  reggisearch = {
+    "0.10" = import ./overrides/reggisearch/0.10;
+  };
   regional = {
     "1.1.2" = import ./overrides/regional/1.1.2;
   };
