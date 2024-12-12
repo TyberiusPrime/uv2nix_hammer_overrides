@@ -5010,6 +5010,9 @@
   msgpack-rpc-python = {
     "0.4.1" = import ./overrides/msgpack-rpc-python/0.4.1;
   };
+  msldap = {
+    "0.5.12" = import ./overrides/msldap/0.5.12;
+  };
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
