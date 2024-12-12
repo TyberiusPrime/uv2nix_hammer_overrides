@@ -6916,6 +6916,9 @@
   pynsq = {
     "0.9.1" = import ./overrides/pynsq/0.9.1;
   };
+  pyntcloud = {
+    "0.3.1" = import ./overrides/pyntcloud/0.3.1;
+  };
   pynut2 = {
     "2.1.2" = import ./overrides/pynut2/2.1.2;
   };
