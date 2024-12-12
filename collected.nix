@@ -53,6 +53,9 @@
   adapter-transformers = {
     "4.0.0" = import ./overrides/adapter-transformers/4.0.0;
   };
+  adb-enhanced = {
+    "2.5.24" = import ./overrides/adb-enhanced/2.5.24;
+  };
   adb-shell = {
     "0.4.4" = import ./overrides/adb-shell/0.4.4;
   };
