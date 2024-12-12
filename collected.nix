@@ -4455,6 +4455,9 @@
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
+  llama-index-legacy = {
+    "0.9.48.post3" = import ./overrides/llama-index-legacy/0.9.48.post3;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
