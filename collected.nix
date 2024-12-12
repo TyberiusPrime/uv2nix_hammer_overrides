@@ -10139,6 +10139,9 @@
   zeam-form-base = {
     "1.4.1" = import ./overrides/zeam-form-base/1.4.1;
   };
+  zeebe-grpc = {
+    "8.4.0" = import ./overrides/zeebe-grpc/8.4.0;
+  };
   zeroc-ice = {
     "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
   };
