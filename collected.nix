@@ -813,6 +813,9 @@
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
+  bottombar = {
+    "2.1" = import ./overrides/bottombar/2.1;
+  };
   box2d-py = {
     "2.3.8" = import ./overrides/box2d-py/2.3.8;
   };
