@@ -764,6 +764,9 @@
   blackboxauditing = {
     "0.1.54" = import ./overrides/blackboxauditing/0.1.54;
   };
+  blake3 = {
+    "0.4.1" = import ./overrides/blake3/0.4.1;
+  };
   blaze = {
     "0.10.1" = import ./overrides/blaze/0.10.1;
   };
