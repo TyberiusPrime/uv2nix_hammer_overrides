@@ -9585,6 +9585,9 @@
   urlparse2 = {
     "1.1.1" = import ./overrides/urlparse2/1.1.1;
   };
+  urlpath = {
+    "1.2.0" = import ./overrides/urlpath/1.2.0;
+  };
   urltools = {
     "0.4.0" = import ./overrides/urltools/0.4.0;
   };
