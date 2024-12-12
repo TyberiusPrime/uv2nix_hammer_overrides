@@ -7457,6 +7457,9 @@
   python-rtmidi = {
     "1.5.8" = import ./overrides/python-rtmidi/1.5.8;
   };
+  python-scrapyd-api = {
+    "2.1.2" = import ./overrides/python-scrapyd-api/2.1.2;
+  };
   python-simple-hipchat = {
     "0.4.0" = import ./overrides/python-simple-hipchat/0.4.0;
   };
