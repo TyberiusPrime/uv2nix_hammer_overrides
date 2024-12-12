@@ -313,6 +313,9 @@
   appy = {
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
+  aqipy-atmotech = {
+    "0.1.5" = import ./overrides/aqipy-atmotech/0.1.5;
+  };
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
