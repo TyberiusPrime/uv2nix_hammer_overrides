@@ -7415,6 +7415,9 @@
   python-nest = {
     "4.2.0" = import ./overrides/python-nest/4.2.0;
   };
+  python-nginx = {
+    "1.5.7" = import ./overrides/python-nginx/1.5.7;
+  };
   python-nmap = {
     "0.7.1" = import ./overrides/python-nmap/0.7.1;
   };
