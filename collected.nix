@@ -3619,6 +3619,9 @@
   iapws = {
     "1.5.4" = import ./overrides/iapws/1.5.4;
   };
+  iaqualink = {
+    "0.5.0" = import ./overrides/iaqualink/0.5.0;
+  };
   ibapi = {
     "9.81.1.post1" = import ./overrides/ibapi/9.81.1.post1;
   };
