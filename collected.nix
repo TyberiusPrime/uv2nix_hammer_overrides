@@ -4865,6 +4865,9 @@
   mo-logs = {
     "4.23.21108" = import ./overrides/mo-logs/4.23.21108;
   };
+  mo-sql-parsing = {
+    "10.656.24252" = import ./overrides/mo-sql-parsing/10.656.24252;
+  };
   mobi = {
     "0.3.3" = import ./overrides/mobi/0.3.3;
   };
