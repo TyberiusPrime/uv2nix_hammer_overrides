@@ -8323,6 +8323,9 @@
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
+  sgqlc = {
+    "16.3" = import ./overrides/sgqlc/16.3;
+  };
   sh = {
     "1.11" = import ./overrides/sh/1.11;
   };
