@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.openssl",]
+BuildSystems = [ "cmake", "cython", "setuptools", "wheel",]
+DowngradePython = "3.11"

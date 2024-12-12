@@ -9458,6 +9458,9 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  uamqp = {
+    "1.6.9" = import ./overrides/uamqp/1.6.9;
+  };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
   };
