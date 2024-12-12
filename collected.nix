@@ -6084,6 +6084,9 @@
   pql = {
     "0.4.3" = import ./overrides/pql/0.4.3;
   };
+  prawcore = {
+    "2.4.0" = import ./overrides/prawcore/2.4.0;
+  };
   prayer-times-calculator = {
     "0.0.12" = import ./overrides/prayer-times-calculator/0.0.12;
   };
