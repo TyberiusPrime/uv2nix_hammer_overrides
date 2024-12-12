@@ -9038,6 +9038,9 @@
   theano-pymc = {
     "1.1.2" = import ./overrides/theano-pymc/1.1.2;
   };
+  thelogrus = {
+    "0.7.0" = import ./overrides/thelogrus/0.7.0;
+  };
   thepiratebay = {
     "1.3.5" = import ./overrides/thepiratebay/1.3.5;
   };
