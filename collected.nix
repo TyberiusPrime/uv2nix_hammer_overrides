@@ -1113,6 +1113,9 @@
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
   };
+  click-configfile = {
+    "0.2.3" = import ./overrides/click-configfile/0.2.3;
+  };
   click-didyoumean = {
     "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
   };
