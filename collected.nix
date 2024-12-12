@@ -3871,6 +3871,9 @@
   isounidecode = {
     "0.3" = import ./overrides/isounidecode/0.3;
   };
+  iterative-telemetry = {
+    "0.0.8" = import ./overrides/iterative-telemetry/0.0.8;
+  };
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
