@@ -8831,6 +8831,9 @@
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
+  summarytools = {
+    "0.3.0" = import ./overrides/summarytools/0.3.0;
+  };
   sunburnt = {
     "0.6" = import ./overrides/sunburnt/0.6;
   };
