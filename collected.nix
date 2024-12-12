@@ -488,6 +488,9 @@
   autodoc = {
     "0.5.0" = import ./overrides/autodoc/0.5.0;
   };
+  autofit = {
+    "2024.7.16.1" = import ./overrides/autofit/2024.7.16.1;
+  };
   autograd-gamma = {
     "0.5.0" = import ./overrides/autograd-gamma/0.5.0;
   };
