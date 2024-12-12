@@ -4679,6 +4679,9 @@
   mdv = {
     "1.7.5" = import ./overrides/mdv/1.7.5;
   };
+  mealpy = {
+    "3.0.1" = import ./overrides/mealpy/3.0.1;
+  };
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
   };
