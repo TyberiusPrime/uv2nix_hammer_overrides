@@ -8087,6 +8087,9 @@
   rx = {
     "1.6.3" = import ./overrides/rx/1.6.3;
   };
+  rxn-utils = {
+    "2.0.0" = import ./overrides/rxn-utils/2.0.0;
+  };
   s-gd2 = {
     "1.8.1" = import ./overrides/s-gd2/1.8.1;
   };
