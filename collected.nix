@@ -5587,6 +5587,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  opytimark = {
+    "1.0.8" = import ./overrides/opytimark/1.0.8;
+  };
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
   };
