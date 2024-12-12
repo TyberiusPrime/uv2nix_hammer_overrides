@@ -4544,6 +4544,9 @@
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
+  luckydonald-utils = {
+    "0.84" = import ./overrides/luckydonald-utils/0.84;
+  };
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
