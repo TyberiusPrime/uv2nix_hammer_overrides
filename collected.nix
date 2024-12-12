@@ -6435,6 +6435,9 @@
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
+  pybrowsers = {
+    "0.6.0" = import ./overrides/pybrowsers/0.6.0;
+  };
   pybullet = {
     "3.2.6" = import ./overrides/pybullet/3.2.6;
   };
