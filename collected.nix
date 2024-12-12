@@ -8711,6 +8711,9 @@
   sslyze = {
     "6.0.0" = import ./overrides/sslyze/6.0.0;
   };
+  stanza = {
+    "1.9.2" = import ./overrides/stanza/1.9.2;
+  };
   starkbank-ecdsa = {
     "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
   };
