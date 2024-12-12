@@ -2628,6 +2628,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  exrex = {
+    "0.11.0" = import ./overrides/exrex/0.11.0;
+  };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
