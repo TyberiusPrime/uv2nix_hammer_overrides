@@ -511,6 +511,7 @@
   };
   avro = {
     "1.11.3" = import ./overrides/avro/1.11.3;
+    "1.7.7" = import ./overrides/avro/1.7.7;
   };
   avro-python3 = {
     "1.10.2" = import ./overrides/avro-python3/1.10.2;
@@ -1363,6 +1364,9 @@
   };
   confini = {
     "0.6.5" = import ./overrides/confini/0.6.5;
+  };
+  confmodel = {
+    "0.2.0" = import ./overrides/confmodel/0.2.0;
   };
   confutil = {
     "0.1.4" = import ./overrides/confutil/0.1.4;
@@ -2490,10 +2494,14 @@
   eigenpy = {
     "3.5.1" = import ./overrides/eigenpy/3.5.1;
   };
+  elastic-git = {
+    "1.5.0" = import ./overrides/elastic-git/1.5.0;
+  };
   elasticsearch-async = {
     "6.2.0" = import ./overrides/elasticsearch-async/6.2.0;
   };
   elasticutils = {
+    "0.10.1" = import ./overrides/elasticutils/0.10.1;
     "0.10.3" = import ./overrides/elasticutils/0.10.3;
   };
   eli5 = {
