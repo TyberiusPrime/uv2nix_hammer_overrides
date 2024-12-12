@@ -7793,6 +7793,9 @@
   rdp = {
     "0.8" = import ./overrides/rdp/0.8;
   };
+  re-assert = {
+    "1.1.0" = import ./overrides/re-assert/1.1.0;
+  };
   read-roi = {
     "1.6.0" = import ./overrides/read-roi/1.6.0;
   };
