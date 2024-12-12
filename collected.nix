@@ -5751,6 +5751,9 @@
   pcapy-ng = {
     "1.0.9" = import ./overrides/pcapy-ng/1.0.9;
   };
+  pcodedmp = {
+    "1.2.6" = import ./overrides/pcodedmp/1.2.6;
+  };
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
