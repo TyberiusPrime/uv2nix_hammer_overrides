@@ -1208,6 +1208,9 @@
   cmsis-svd = {
     "0.4" = import ./overrides/cmsis-svd/0.4;
   };
+  cobra = {
+    "0.29.0" = import ./overrides/cobra/0.29.0;
+  };
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
