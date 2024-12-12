@@ -3295,6 +3295,9 @@
   gpyopt = {
     "1.2.6" = import ./overrides/gpyopt/1.2.6;
   };
+  gpytorch = {
+    "1.13" = import ./overrides/gpytorch/1.13;
+  };
   gql = {
     "3.0.0a6" = import ./overrides/gql/3.0.0a6;
   };
