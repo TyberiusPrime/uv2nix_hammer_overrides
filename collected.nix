@@ -9163,6 +9163,9 @@
   toml-py = {
     "0.1.7" = import ./overrides/toml-py/0.1.7;
   };
+  tomlkit = {
+    "0.13.2" = import ./overrides/tomlkit/0.13.2;
+  };
   tonyg-rfc3339 = {
     "0.1" = import ./overrides/tonyg-rfc3339/0.1;
   };
