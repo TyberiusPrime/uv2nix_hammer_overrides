@@ -9895,6 +9895,9 @@
   windpowerlib = {
     "0.0.4" = import ./overrides/windpowerlib/0.0.4;
   };
+  winotify = {
+    "1.1.0" = import ./overrides/winotify/1.1.0;
+  };
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
   };
