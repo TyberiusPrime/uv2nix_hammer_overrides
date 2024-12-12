@@ -218,6 +218,9 @@
   android-backup = {
     "0.2.0" = import ./overrides/android-backup/0.2.0;
   };
+  androidtv = {
+    "0.0.73" = import ./overrides/androidtv/0.0.73;
+  };
   angr = {
     "9.2.117" = import ./overrides/angr/9.2.117;
     "9.2.120" = import ./overrides/angr/9.2.120;
@@ -6269,6 +6272,9 @@
   };
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
+  };
+  pure-python-adb = {
+    "0.3.0.dev0" = import ./overrides/pure-python-adb/0.3.0.dev0;
   };
   pure-sasl = {
     "0.6.2" = import ./overrides/pure-sasl/0.6.2;
