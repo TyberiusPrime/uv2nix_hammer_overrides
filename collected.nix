@@ -4568,6 +4568,9 @@
   m2r = {
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
+  m2r2 = {
+    "0.3.3.post2" = import ./overrides/m2r2/0.3.3.post2;
+  };
   m3-ui = {
     "3.0.1.6" = import ./overrides/m3-ui/3.0.1.6;
   };
