@@ -5205,6 +5205,9 @@
   neuronpy = {
     "0.1.6" = import ./overrides/neuronpy/0.1.6;
   };
+  nexmo = {
+    "2.5.2" = import ./overrides/nexmo/2.5.2;
+  };
   nextcord = {
     "2.6.0" = import ./overrides/nextcord/2.6.0;
   };
