@@ -8257,6 +8257,9 @@
   scrypt = {
     "0.8.13" = import ./overrides/scrypt/0.8.13;
   };
+  scylla-driver = {
+    "3.26.9" = import ./overrides/scylla-driver/3.26.9;
+  };
   sdkmanager = {
     "0.6.8" = import ./overrides/sdkmanager/0.6.8;
   };
