@@ -4706,6 +4706,9 @@
   menpo = {
     "0.11.1" = import ./overrides/menpo/0.11.1;
   };
+  mercadopago = {
+    "2.2.3" = import ./overrides/mercadopago/2.2.3;
+  };
   mercurial-extension-utils = {
     "1.5.2" = import ./overrides/mercurial-extension-utils/1.5.2;
   };
