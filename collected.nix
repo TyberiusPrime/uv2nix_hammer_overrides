@@ -8885,6 +8885,9 @@
   tables = {
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
+  tabula-py = {
+    "2.9.3" = import ./overrides/tabula-py/2.9.3;
+  };
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
   };
