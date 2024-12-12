@@ -1689,6 +1689,9 @@
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
+  datasette-publish-fly = {
+    "1.3.1" = import ./overrides/datasette-publish-fly/1.3.1;
+  };
   datashape = {
     "0.5.2" = import ./overrides/datashape/0.5.2;
   };
