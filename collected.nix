@@ -8459,6 +8459,9 @@
   siphash = {
     "0.0.1" = import ./overrides/siphash/0.0.1;
   };
+  siphon = {
+    "0.9" = import ./overrides/siphon/0.9;
+  };
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
