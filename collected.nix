@@ -7739,6 +7739,9 @@
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
   };
+  quilt = {
+    "2.9.15" = import ./overrides/quilt/2.9.15;
+  };
   r2pipe = {
     "1.9.4" = import ./overrides/r2pipe/1.9.4;
   };
