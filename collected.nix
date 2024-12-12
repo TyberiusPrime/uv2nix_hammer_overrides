@@ -4290,6 +4290,9 @@
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
+  ledgerwallet = {
+    "0.5.1" = import ./overrides/ledgerwallet/0.5.1;
+  };
   lepl = {
     "5.1.3" = import ./overrides/lepl/5.1.3;
   };
