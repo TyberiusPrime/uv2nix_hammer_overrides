@@ -3301,6 +3301,9 @@
   gradient-statsd = {
     "1.0.1" = import ./overrides/gradient-statsd/1.0.1;
   };
+  gradio-pdf = {
+    "0.0.15" = import ./overrides/gradio-pdf/0.0.15;
+  };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
   };
