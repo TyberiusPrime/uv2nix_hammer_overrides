@@ -153,6 +153,9 @@
   aircv = {
     "1.4.6" = import ./overrides/aircv/1.4.6;
   };
+  aj = {
+    "2.2.10" = import ./overrides/aj/2.2.10;
+  };
   aldryn-boilerplates = {
     "0.8.0" = import ./overrides/aldryn-boilerplates/0.8.0;
   };
@@ -3157,6 +3160,9 @@
   };
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
+  };
+  gipc = {
+    "1.6.0" = import ./overrides/gipc/1.6.0;
   };
   girder = {
     "3.2.3" = import ./overrides/girder/3.2.3;
