@@ -1776,6 +1776,9 @@
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
+  detecta = {
+    "0.0.5" = import ./overrides/detecta/0.0.5;
+  };
   dev0s = {
     "3.36.6" = import ./overrides/dev0s/3.36.6;
   };
