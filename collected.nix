@@ -141,6 +141,9 @@
   aiosocks = {
     "0.2.6" = import ./overrides/aiosocks/0.2.6;
   };
+  aioworkers = {
+    "0.27.0" = import ./overrides/aioworkers/0.27.0;
+  };
   aioxmpp = {
     "0.13.3" = import ./overrides/aioxmpp/0.13.3;
   };
