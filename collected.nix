@@ -5581,6 +5581,9 @@
   optional-django = {
     "0.3.0" = import ./overrides/optional-django/0.3.0;
   };
+  optparse-pretty = {
+    "0.1.1" = import ./overrides/optparse-pretty/0.1.1;
+  };
   optproblems = {
     "1.3" = import ./overrides/optproblems/1.3;
   };
