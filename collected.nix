@@ -8683,6 +8683,9 @@
   sqlalchemy-utils = {
     "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
+  sqlbag = {
+    "0.1.1617247075" = import ./overrides/sqlbag/0.1.1617247075;
+  };
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
