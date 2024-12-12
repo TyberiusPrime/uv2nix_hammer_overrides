@@ -2123,6 +2123,9 @@
   django-rest-knox = {
     "5.0.1" = import ./overrides/django-rest-knox/5.0.1;
   };
+  django-rest-polymorphic = {
+    "0.1.10" = import ./overrides/django-rest-polymorphic/0.1.10;
+  };
   django-reversion = {
     "1.10.2" = import ./overrides/django-reversion/1.10.2;
   };
