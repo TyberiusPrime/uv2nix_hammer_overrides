@@ -7976,6 +7976,9 @@
   robobrowser = {
     "0.5.3" = import ./overrides/robobrowser/0.5.3;
   };
+  robot-detection = {
+    "0.4" = import ./overrides/robot-detection/0.4;
+  };
   robotframework-pabot = {
     "2.18.0" = import ./overrides/robotframework-pabot/2.18.0;
   };
