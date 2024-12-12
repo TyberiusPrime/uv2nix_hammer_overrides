@@ -8689,6 +8689,9 @@
   sqlmap = {
     "1.8.9" = import ./overrides/sqlmap/1.8.9;
   };
+  sqlservice = {
+    "3.0.0" = import ./overrides/sqlservice/3.0.0;
+  };
   sqlsoup = {
     "0.9.1" = import ./overrides/sqlsoup/0.9.1;
   };
