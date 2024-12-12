@@ -1773,6 +1773,9 @@
   demjson3 = {
     "3.0.6" = import ./overrides/demjson3/3.0.6;
   };
+  dendroid = {
+    "1.6.1" = import ./overrides/dendroid/1.6.1;
+  };
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
