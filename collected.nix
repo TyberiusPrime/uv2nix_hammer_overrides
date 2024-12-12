@@ -5232,6 +5232,9 @@
   nglview = {
     "3.1.2" = import ./overrides/nglview/3.1.2;
   };
+  nibe = {
+    "2.12.0" = import ./overrides/nibe/2.12.0;
+  };
   nilsimsa = {
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
   };
