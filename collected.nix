@@ -5677,6 +5677,7 @@
   };
   pandas = {
     "1.1.5" = import ./overrides/pandas/1.1.5;
+    "1.3.1" = import ./overrides/pandas/1.3.1;
     "1.5.1" = import ./overrides/pandas/1.5.1;
     "1.5.3" = import ./overrides/pandas/1.5.3;
     "2.2.2" = import ./overrides/pandas/2.2.2;
@@ -5907,6 +5908,7 @@
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
+    "7.0.0" = import ./overrides/pillow/7.0.0;
     "8.4.0" = import ./overrides/pillow/8.4.0;
     "9.4.0" = import ./overrides/pillow/9.4.0;
   };
@@ -6217,6 +6219,7 @@
     "1.0rc7" = import ./overrides/psqlparse/1.0rc7;
   };
   psutil = {
+    "5.8.0" = import ./overrides/psutil/5.8.0;
     "5.9.0" = import ./overrides/psutil/5.9.0;
     "6.0.0" = import ./overrides/psutil/6.0.0;
   };
