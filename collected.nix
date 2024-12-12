@@ -5331,6 +5331,9 @@
   notmuch2 = {
     "0.1" = import ./overrides/notmuch2/0.1;
   };
+  nox-poetry = {
+    "1.0.3" = import ./overrides/nox-poetry/1.0.3;
+  };
   npm = {
     "0.1.1" = import ./overrides/npm/0.1.1;
   };
