@@ -4257,6 +4257,9 @@
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
   };
+  launchdarkly-eventsource = {
+    "1.2.0" = import ./overrides/launchdarkly-eventsource/1.2.0;
+  };
   lava-tool = {
     "0.11.1" = import ./overrides/lava-tool/0.11.1;
   };
