@@ -9949,6 +9949,9 @@
   wsgiutils = {
     "0.7.2" = import ./overrides/wsgiutils/0.7.2;
   };
+  wsnsimpy = {
+    "0.2.5" = import ./overrides/wsnsimpy/0.2.5;
+  };
   wstools-py3 = {
     "0.54.5" = import ./overrides/wstools-py3/0.54.5;
   };
