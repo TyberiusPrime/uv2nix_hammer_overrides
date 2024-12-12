@@ -918,6 +918,9 @@
   captain = {
     "4.5.0" = import ./overrides/captain/4.5.0;
   };
+  capturer = {
+    "3.0" = import ./overrides/capturer/3.0;
+  };
   carefree-toolkit = {
     "0.3.12" = import ./overrides/carefree-toolkit/0.3.12;
   };
