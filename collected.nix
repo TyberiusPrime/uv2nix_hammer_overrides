@@ -4574,6 +4574,9 @@
   m9s-trytond = {
     "7.0.7" = import ./overrides/m9s-trytond/7.0.7;
   };
+  macaddress = {
+    "2.0.2" = import ./overrides/macaddress/2.0.2;
+  };
   madmom = {
     "0.16.1" = import ./overrides/madmom/0.16.1;
   };
