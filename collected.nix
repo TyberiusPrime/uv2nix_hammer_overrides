@@ -9317,6 +9317,9 @@
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
+  trino = {
+    "0.329.0" = import ./overrides/trino/0.329.0;
+  };
   trollsift = {
     "0.5.1" = import ./overrides/trollsift/0.5.1;
   };
