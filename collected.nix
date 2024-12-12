@@ -6563,6 +6563,9 @@
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
+  pydicom-seg = {
+    "0.4.1" = import ./overrides/pydicom-seg/0.4.1;
+  };
   pydoe = {
     "0.3.8" = import ./overrides/pydoe/0.3.8;
   };
