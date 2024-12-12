@@ -599,6 +599,9 @@
   base32hex = {
     "1.0.2" = import ./overrides/base32hex/1.0.2;
   };
+  basescript = {
+    "0.3.9" = import ./overrides/basescript/0.3.9;
+  };
   bash = {
     "0.6" = import ./overrides/bash/0.6;
   };
@@ -7677,6 +7680,7 @@
     "1.4" = import ./overrides/pyxl3/1.4;
   };
   pyyaml = {
+    "5.1.1" = import ./overrides/pyyaml/5.1.1;
     "5.1.2" = import ./overrides/pyyaml/5.1.2;
     "5.3" = import ./overrides/pyyaml/5.3;
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
