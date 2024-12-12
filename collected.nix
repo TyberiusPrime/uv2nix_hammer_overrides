@@ -8099,6 +8099,9 @@
   sabyenc = {
     "3.3.6" = import ./overrides/sabyenc/3.3.6;
   };
+  sacred = {
+    "0.8.6" = import ./overrides/sacred/0.8.6;
+  };
   sacremoses = {
     "0.0.53" = import ./overrides/sacremoses/0.0.53;
   };
