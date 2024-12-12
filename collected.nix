@@ -5937,6 +5937,9 @@
   pip-services3-rpc = {
     "3.3.4" = import ./overrides/pip-services3-rpc/3.3.4;
   };
+  pipenv-poetry-migrate = {
+    "0.5.9" = import ./overrides/pipenv-poetry-migrate/0.5.9;
+  };
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
