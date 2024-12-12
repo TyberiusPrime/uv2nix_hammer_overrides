@@ -6909,6 +6909,9 @@
   pyneqsys = {
     "0.5.7" = import ./overrides/pyneqsys/0.5.7;
   };
+  pynetgear = {
+    "0.10.10" = import ./overrides/pynetgear/0.10.10;
+  };
   pynisher = {
     "0.6.4" = import ./overrides/pynisher/0.6.4;
     "1.0.10" = import ./overrides/pynisher/1.0.10;
