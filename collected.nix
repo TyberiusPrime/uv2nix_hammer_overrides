@@ -9348,6 +9348,7 @@
     "2.4.3" = import ./overrides/turbogears2/2.4.3;
   };
   tutor = {
+    "12.2.0" = import ./overrides/tutor/12.2.0;
     "18.1.3" = import ./overrides/tutor/18.1.3;
   };
   tutor-openedx = {
