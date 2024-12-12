@@ -6794,6 +6794,9 @@
   pylacrosse = {
     "0.4" = import ./overrides/pylacrosse/0.4;
   };
+  pylama = {
+    "8.4.1" = import ./overrides/pylama/8.4.1;
+  };
   pylatex = {
     "1.4.2" = import ./overrides/pylatex/1.4.2;
   };
