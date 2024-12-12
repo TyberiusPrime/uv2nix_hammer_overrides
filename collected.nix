@@ -5144,6 +5144,9 @@
   ndms2-client = {
     "0.1.3" = import ./overrides/ndms2-client/0.1.3;
   };
+  nebula3-python = {
+    "3.8.2" = import ./overrides/nebula3-python/3.8.2;
+  };
   negspacy = {
     "1.0.4" = import ./overrides/negspacy/1.0.4;
   };
