@@ -6339,6 +6339,9 @@
   py-vollib = {
     "1.0.1" = import ./overrides/py-vollib/1.0.1;
   };
+  py17track = {
+    "2021.12.2" = import ./overrides/py17track/2021.12.2;
+  };
   py2bit = {
     "0.3.0" = import ./overrides/py2bit/0.3.0;
   };
