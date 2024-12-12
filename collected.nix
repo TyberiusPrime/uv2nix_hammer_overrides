@@ -3480,6 +3480,9 @@
   hole = {
     "0.8.0" = import ./overrides/hole/0.8.0;
   };
+  hologram = {
+    "0.0.16" = import ./overrides/hologram/0.0.16;
+  };
   home-assistant-chip-core = {
     "2024.7.1" = import ./overrides/home-assistant-chip-core/2024.7.1;
   };
