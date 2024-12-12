@@ -2174,6 +2174,9 @@
   django-tablib = {
     "3.2" = import ./overrides/django-tablib/3.2;
   };
+  django-taggit = {
+    "6.0.0" = import ./overrides/django-taggit/6.0.0;
+  };
   django-taggit-serializer = {
     "0.1.7" = import ./overrides/django-taggit-serializer/0.1.7;
   };
