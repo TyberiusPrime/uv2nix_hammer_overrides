@@ -3709,6 +3709,9 @@
   imm-source = {
     "1.0.30" = import ./overrides/imm-source/1.0.30;
   };
+  immutables = {
+    "0.20" = import ./overrides/immutables/0.20;
+  };
   impacket = {
     "0.11.0" = import ./overrides/impacket/0.11.0;
   };
