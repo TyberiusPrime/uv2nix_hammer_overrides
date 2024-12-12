@@ -9630,6 +9630,9 @@
   uwsgidecorators = {
     "1.1.0" = import ./overrides/uwsgidecorators/1.1.0;
   };
+  vacuum-map-parser-roborock = {
+    "0.1.2" = import ./overrides/vacuum-map-parser-roborock/0.1.2;
+  };
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
