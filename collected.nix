@@ -10145,6 +10145,9 @@
   zerotk-zops = {
     "0.5.3" = import ./overrides/zerotk-zops/0.5.3;
   };
+  zest-releaser = {
+    "9.2.0" = import ./overrides/zest-releaser/9.2.0;
+  };
   zhconv = {
     "1.4.3" = import ./overrides/zhconv/1.4.3;
   };
