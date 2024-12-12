@@ -4386,6 +4386,9 @@
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
+  lightning-cloud = {
+    "0.5.70" = import ./overrides/lightning-cloud/0.5.70;
+  };
   lightparam = {
     "0.4.6" = import ./overrides/lightparam/0.4.6;
   };
