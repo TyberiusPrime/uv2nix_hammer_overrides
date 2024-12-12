@@ -80,6 +80,9 @@
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
+  afsapi = {
+    "0.2.8" = import ./overrides/afsapi/0.2.8;
+  };
   agent-py = {
     "0.0.23" = import ./overrides/agent-py/0.0.23;
   };
