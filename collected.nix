@@ -4989,6 +4989,9 @@
   mqtt2influxdb = {
     "1.5.2" = import ./overrides/mqtt2influxdb/1.5.2;
   };
+  mrjob = {
+    "0.7.4" = import ./overrides/mrjob/0.7.4;
+  };
   mroylib-min = {
     "2.2.5" = import ./overrides/mroylib-min/2.2.5;
   };
