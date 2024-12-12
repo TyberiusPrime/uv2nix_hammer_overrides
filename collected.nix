@@ -3274,6 +3274,9 @@
     "0.0.4" = import ./overrides/gpgrecord/0.0.4;
     "0.0.5" = import ./overrides/gpgrecord/0.0.5;
   };
+  gpiod = {
+    "2.2.1" = import ./overrides/gpiod/2.2.1;
+  };
   gplaycli = {
     "3.29" = import ./overrides/gplaycli/3.29;
   };
