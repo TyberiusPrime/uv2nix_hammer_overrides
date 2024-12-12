@@ -4829,6 +4829,9 @@
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
   };
+  mkdocs-drawio-exporter = {
+    "0.9.1" = import ./overrides/mkdocs-drawio-exporter/0.9.1;
+  };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
