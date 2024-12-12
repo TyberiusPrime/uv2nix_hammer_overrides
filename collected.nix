@@ -7342,6 +7342,9 @@
   python-gflags = {
     "3.1.2" = import ./overrides/python-gflags/3.1.2;
   };
+  python-gnupg = {
+    "0.5.2" = import ./overrides/python-gnupg/0.5.2;
+  };
   python-google-places = {
     "1.4.2" = import ./overrides/python-google-places/1.4.2;
   };
