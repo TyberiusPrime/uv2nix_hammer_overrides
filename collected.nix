@@ -1089,6 +1089,9 @@
   circum = {
     "0.0.6" = import ./overrides/circum/0.0.6;
   };
+  citation-utils = {
+    "0.4.14" = import ./overrides/citation-utils/0.4.14;
+  };
   ckantoolkit = {
     "0.0.7" = import ./overrides/ckantoolkit/0.0.7;
   };
