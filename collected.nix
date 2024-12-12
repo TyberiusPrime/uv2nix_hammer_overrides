@@ -5001,6 +5001,9 @@
   ms-cv = {
     "0.1.1" = import ./overrides/ms-cv/0.1.1;
   };
+  mscerts = {
+    "2024.5.29" = import ./overrides/mscerts/2024.5.29;
+  };
   msgpack = {
     "1.0.2" = import ./overrides/msgpack/1.0.2;
   };
