@@ -431,6 +431,9 @@
   async-upnp-client = {
     "0.40.0" = import ./overrides/async-upnp-client/0.40.0;
   };
+  asyncache = {
+    "0.3.1" = import ./overrides/asyncache/0.3.1;
+  };
   asyncblink = {
     "0.4.0" = import ./overrides/asyncblink/0.4.0;
   };
