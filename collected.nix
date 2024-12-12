@@ -2430,6 +2430,9 @@
   dynamic-pytables-where-condition = {
     "1.1.1" = import ./overrides/dynamic-pytables-where-condition/1.1.1;
   };
+  dynamodb-json = {
+    "1.4.2" = import ./overrides/dynamodb-json/1.4.2;
+  };
   easy-config = {
     "0.2.0" = import ./overrides/easy-config/0.2.0;
   };
