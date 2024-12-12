@@ -2012,6 +2012,9 @@
   django-json-field = {
     "0.5.7" = import ./overrides/django-json-field/0.5.7;
   };
+  django-jsonview = {
+    "2.0.0" = import ./overrides/django-jsonview/2.0.0;
+  };
   django-kombu = {
     "0.9.4" = import ./overrides/django-kombu/0.9.4;
   };
