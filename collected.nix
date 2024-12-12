@@ -2947,6 +2947,9 @@
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
   };
+  forge-core = {
+    "1.1.0" = import ./overrides/forge-core/1.1.0;
+  };
   formatizer = {
     "0.1.1" = import ./overrides/formatizer/0.1.1;
   };
