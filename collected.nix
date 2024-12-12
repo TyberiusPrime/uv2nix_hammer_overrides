@@ -175,6 +175,9 @@
   algebra = {
     "1.2.1" = import ./overrides/algebra/1.2.1;
   };
+  algebraic-data-types = {
+    "0.2.1" = import ./overrides/algebraic-data-types/0.2.1;
+  };
   alibabacloud-tea-py2 = {
     "0.1.0" = import ./overrides/alibabacloud-tea-py2/0.1.0;
   };
