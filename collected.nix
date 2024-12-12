@@ -7742,6 +7742,9 @@
   r2pipe = {
     "1.9.4" = import ./overrides/r2pipe/1.9.4;
   };
+  rabbitpy = {
+    "2.0.1" = import ./overrides/rabbitpy/2.0.1;
+  };
   rabird-core = {
     "0.4.1" = import ./overrides/rabird-core/0.4.1;
   };
