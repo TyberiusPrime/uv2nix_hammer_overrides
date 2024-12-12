@@ -2406,6 +2406,12 @@
   duckietown-docker-utils-daffy = {
     "6.1.1" = import ./overrides/duckietown-docker-utils-daffy/6.1.1;
   };
+  duckietown-serialization-ds1 = {
+    "1.1.1" = import ./overrides/duckietown-serialization-ds1/1.1.1;
+  };
+  duckietown-world-daffy = {
+    "6.4.3" = import ./overrides/duckietown-world-daffy/6.4.3;
+  };
   dugong = {
     "3.8.2" = import ./overrides/dugong/3.8.2;
   };
@@ -6682,6 +6688,9 @@
   };
   pygeoif = {
     "0.7" = import ./overrides/pygeoif/0.7;
+  };
+  pygeometry-z6 = {
+    "2.1.5" = import ./overrides/pygeometry-z6/2.1.5;
   };
   pygerrit2 = {
     "2.0.15" = import ./overrides/pygerrit2/2.0.15;
