@@ -7778,6 +7778,9 @@
   rask = {
     "0.1.5" = import ./overrides/rask/0.1.5;
   };
+  ratarmount = {
+    "0.15.2" = import ./overrides/ratarmount/0.15.2;
+  };
   ratelimit = {
     "2.2.1" = import ./overrides/ratelimit/2.2.1;
   };
