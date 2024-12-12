@@ -8411,6 +8411,9 @@
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
+  simple-salesforce = {
+    "1.12.6" = import ./overrides/simple-salesforce/1.12.6;
+  };
   simple-translation = {
     "0.8.6" = import ./overrides/simple-translation/0.8.6;
   };
