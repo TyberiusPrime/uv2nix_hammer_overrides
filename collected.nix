@@ -8263,6 +8263,9 @@
   sdnotify = {
     "0.3.2" = import ./overrides/sdnotify/0.3.2;
   };
+  seamm-util = {
+    "2024.8.22" = import ./overrides/seamm-util/2024.8.22;
+  };
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
