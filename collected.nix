@@ -6132,6 +6132,9 @@
   proboscis = {
     "1.2.6.0" = import ./overrides/proboscis/1.2.6.0;
   };
+  process-tests = {
+    "3.0.0" = import ./overrides/process-tests/3.0.0;
+  };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
