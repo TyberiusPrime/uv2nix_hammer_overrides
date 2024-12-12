@@ -6677,6 +6677,9 @@
   pygeneric = {
     "0.5.7" = import ./overrides/pygeneric/0.5.7;
   };
+  pygeoapi = {
+    "0.17.0" = import ./overrides/pygeoapi/0.17.0;
+  };
   pygeohash = {
     "1.2.0" = import ./overrides/pygeohash/1.2.0;
   };
