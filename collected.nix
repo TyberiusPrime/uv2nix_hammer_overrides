@@ -5423,6 +5423,9 @@
   obd = {
     "0.7.2" = import ./overrides/obd/0.7.2;
   };
+  objax = {
+    "1.8.0" = import ./overrides/objax/1.8.0;
+  };
   object-clerk = {
     "0.1.1" = import ./overrides/object-clerk/0.1.1;
   };
