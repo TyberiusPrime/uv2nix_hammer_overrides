@@ -9844,6 +9844,9 @@
   webhelpers = {
     "1.3" = import ./overrides/webhelpers/1.3;
   };
+  webrtc-noise-gain = {
+    "1.2.5" = import ./overrides/webrtc-noise-gain/1.2.5;
+  };
   webrtcvad = {
     "2.0.10" = import ./overrides/webrtcvad/2.0.10;
   };
