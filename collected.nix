@@ -3375,6 +3375,9 @@
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
+  habanero = {
+    "1.2.6" = import ./overrides/habanero/1.2.6;
+  };
   haigha = {
     "0.9.0" = import ./overrides/haigha/0.9.0;
   };
