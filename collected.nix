@@ -1289,6 +1289,9 @@
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
   };
+  collective-z3cform-datetimewidget = {
+    "1.2.9" = import ./overrides/collective-z3cform-datetimewidget/1.2.9;
+  };
   color-operations = {
     "0.1.6" = import ./overrides/color-operations/0.1.6;
   };
