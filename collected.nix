@@ -4202,6 +4202,9 @@
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
+  knx-frontend = {
+    "2024.9.4.64538" = import ./overrides/knx-frontend/2024.9.4.64538;
+  };
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
   };
