@@ -4428,6 +4428,9 @@
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
+  linknlink = {
+    "0.2.4" = import ./overrides/linknlink/0.2.4;
+  };
   links-from-link-header = {
     "0.1.0" = import ./overrides/links-from-link-header/0.1.0;
   };
