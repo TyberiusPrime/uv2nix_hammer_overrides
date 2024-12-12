@@ -3637,6 +3637,9 @@
   ibm-watson = {
     "8.1.0" = import ./overrides/ibm-watson/8.1.0;
   };
+  iceportal = {
+    "1.2.0" = import ./overrides/iceportal/1.2.0;
+  };
   icoextract = {
     "0.1.5" = import ./overrides/icoextract/0.1.5;
   };
