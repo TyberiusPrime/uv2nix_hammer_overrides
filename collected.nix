@@ -7451,6 +7451,9 @@
   python-pragmatic = {
     "1.0.0" = import ./overrides/python-pragmatic/1.0.0;
   };
+  python-pytun = {
+    "2.4.1" = import ./overrides/python-pytun/2.4.1;
+  };
   python-qpid-proton = {
     "0.39.0" = import ./overrides/python-qpid-proton/0.39.0;
   };
