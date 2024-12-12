@@ -8708,6 +8708,9 @@
   ssh = {
     "1.8.0" = import ./overrides/ssh/1.8.0;
   };
+  sslib = {
+    "0.2.0" = import ./overrides/sslib/0.2.0;
+  };
   sslyze = {
     "6.0.0" = import ./overrides/sslyze/6.0.0;
   };
