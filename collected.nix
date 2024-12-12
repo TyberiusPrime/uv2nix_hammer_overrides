@@ -4955,6 +4955,9 @@
   mozhttpd = {
     "0.7.1" = import ./overrides/mozhttpd/0.7.1;
   };
+  mozilla-django-oidc = {
+    "4.0.1" = import ./overrides/mozilla-django-oidc/4.0.1;
+  };
   mozlog = {
     "8.0.0" = import ./overrides/mozlog/8.0.0;
   };
