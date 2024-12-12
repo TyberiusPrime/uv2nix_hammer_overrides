@@ -5937,6 +5937,9 @@
   pip-services3-rpc = {
     "3.3.4" = import ./overrides/pip-services3-rpc/3.3.4;
   };
+  pipen = {
+    "0.15.5" = import ./overrides/pipen/0.15.5;
+  };
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
