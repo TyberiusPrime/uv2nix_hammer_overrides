@@ -5025,6 +5025,9 @@
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
+  multihash = {
+    "0.1.1" = import ./overrides/multihash/0.1.1;
+  };
   multio = {
     "0.2.5" = import ./overrides/multio/0.2.5;
   };
