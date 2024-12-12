@@ -123,6 +123,9 @@
   aiologger = {
     "0.7.0" = import ./overrides/aiologger/0.7.0;
   };
+  aiomodernforms = {
+    "0.1.8" = import ./overrides/aiomodernforms/0.1.8;
+  };
   aiomqtt = {
     "0.1.3" = import ./overrides/aiomqtt/0.1.3;
   };
