@@ -2210,6 +2210,9 @@
   django-ultracache = {
     "2.2" = import ./overrides/django-ultracache/2.2;
   };
+  django-url-filter = {
+    "0.3.15" = import ./overrides/django-url-filter/0.3.15;
+  };
   django-vkontakte-api = {
     "0.8.7" = import ./overrides/django-vkontakte-api/0.8.7;
   };
