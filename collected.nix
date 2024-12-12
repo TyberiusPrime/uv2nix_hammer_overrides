@@ -6578,6 +6578,9 @@
   pyds9 = {
     "1.8.1" = import ./overrides/pyds9/1.8.1;
   };
+  pyduke-energy = {
+    "1.0.6" = import ./overrides/pyduke-energy/1.0.6;
+  };
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
