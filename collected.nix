@@ -3071,6 +3071,9 @@
   gaegraph = {
     "3.9" = import ./overrides/gaegraph/3.9;
   };
+  galois = {
+    "0.4.2" = import ./overrides/galois/0.4.2;
+  };
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
