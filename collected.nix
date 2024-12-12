@@ -6692,6 +6692,9 @@
   pygithub = {
     "1.45" = import ./overrides/pygithub/1.45;
   };
+  pyglet = {
+    "2.0.17" = import ./overrides/pyglet/2.0.17;
+  };
   pygltflib = {
     "1.16.2" = import ./overrides/pygltflib/1.16.2;
   };
