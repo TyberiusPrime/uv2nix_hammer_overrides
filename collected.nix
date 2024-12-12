@@ -1217,6 +1217,9 @@
   cocotb-bus = {
     "0.2.1" = import ./overrides/cocotb-bus/0.2.1;
   };
+  codecarbon = {
+    "2.7.0" = import ./overrides/codecarbon/2.7.0;
+  };
   codeclimate-test-reporter = {
     "0.2.3" = import ./overrides/codeclimate-test-reporter/0.2.3;
   };
