@@ -2012,6 +2012,9 @@
   django-json-field = {
     "0.5.7" = import ./overrides/django-json-field/0.5.7;
   };
+  django-jsonfield-backport = {
+    "1.0.5" = import ./overrides/django-jsonfield-backport/1.0.5;
+  };
   django-kombu = {
     "0.9.4" = import ./overrides/django-kombu/0.9.4;
   };
