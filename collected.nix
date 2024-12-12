@@ -8714,6 +8714,9 @@
   starkbank-ecdsa = {
     "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
   };
+  starlette-context = {
+    "0.3.6" = import ./overrides/starlette-context/0.3.6;
+  };
   starlette-wtf = {
     "0.4.5" = import ./overrides/starlette-wtf/0.4.5;
   };
