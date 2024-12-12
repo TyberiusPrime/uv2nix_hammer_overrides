@@ -6282,6 +6282,9 @@
   pusherclient = {
     "0.3.0" = import ./overrides/pusherclient/0.3.0;
   };
+  pvextractor = {
+    "0.4" = import ./overrides/pvextractor/0.4;
+  };
   pwinput = {
     "1.0.3" = import ./overrides/pwinput/1.0.3;
   };
