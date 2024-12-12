@@ -6617,6 +6617,9 @@
   pyexiv2 = {
     "2.14.0" = import ./overrides/pyexiv2/2.14.0;
   };
+  pyezviz = {
+    "0.2.2.3" = import ./overrides/pyezviz/0.2.2.3;
+  };
   pyf-dataflow = {
     "2.0.2" = import ./overrides/pyf-dataflow/2.0.2;
   };
