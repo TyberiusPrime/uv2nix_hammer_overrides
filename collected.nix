@@ -4787,6 +4787,9 @@
   micropython-redis-modular = {
     "0.0.57" = import ./overrides/micropython-redis-modular/0.0.57;
   };
+  microsoft-kiota-http = {
+    "1.3.3" = import ./overrides/microsoft-kiota-http/1.3.3;
+  };
   midiutil = {
     "1.2.1" = import ./overrides/midiutil/1.2.1;
   };
