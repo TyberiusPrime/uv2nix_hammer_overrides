@@ -7958,6 +7958,9 @@
   ringo = {
     "1.14.0" = import ./overrides/ringo/1.14.0;
   };
+  rio-cogeo = {
+    "5.3.4" = import ./overrides/rio-cogeo/5.3.4;
+  };
   ripozo = {
     "1.3.0" = import ./overrides/ripozo/1.3.0;
   };
