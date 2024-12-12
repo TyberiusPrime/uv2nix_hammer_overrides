@@ -1277,6 +1277,9 @@
   collective-iconifieddocumentactions = {
     "1.3.2" = import ./overrides/collective-iconifieddocumentactions/1.3.2;
   };
+  collective-js-fullcalendar = {
+    "1.6.5" = import ./overrides/collective-js-fullcalendar/1.6.5;
+  };
   collective-js-iframeresizer = {
     "0.4" = import ./overrides/collective-js-iframeresizer/0.4;
   };
