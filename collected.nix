@@ -8888,6 +8888,9 @@
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
   };
+  takumi-config = {
+    "0.1.3" = import ./overrides/takumi-config/0.1.3;
+  };
   tambo = {
     "0.4.0" = import ./overrides/tambo/0.4.0;
   };
