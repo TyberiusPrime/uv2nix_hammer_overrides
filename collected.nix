@@ -283,6 +283,9 @@
   apache-flink-libraries = {
     "1.20.0" = import ./overrides/apache-flink-libraries/1.20.0;
   };
+  apache-skywalking = {
+    "1.1.0" = import ./overrides/apache-skywalking/1.1.0;
+  };
   apcaccess = {
     "0.0.13" = import ./overrides/apcaccess/0.0.13;
   };
