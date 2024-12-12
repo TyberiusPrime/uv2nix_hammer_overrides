@@ -9600,6 +9600,9 @@
   urwidtrees = {
     "1.0.3" = import ./overrides/urwidtrees/1.0.3;
   };
+  us = {
+    "3.2.0" = import ./overrides/us/3.2.0;
+  };
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
