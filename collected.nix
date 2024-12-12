@@ -930,6 +930,9 @@
   cashaddress = {
     "1.0.6" = import ./overrides/cashaddress/1.0.6;
   };
+  cassandra-driver = {
+    "3.29.2" = import ./overrides/cassandra-driver/3.29.2;
+  };
   caveclient = {
     "5.29.1" = import ./overrides/caveclient/5.29.1;
   };
