@@ -9272,6 +9272,9 @@
   tpdcc-libs-resources = {
     "0.0.2" = import ./overrides/tpdcc-libs-resources/0.0.2;
   };
+  tqdm = {
+    "4.66.5" = import ./overrides/tqdm/4.66.5;
+  };
   tracing = {
     "0.1.3" = import ./overrides/tracing/0.1.3;
   };
