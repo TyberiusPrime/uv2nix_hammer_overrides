@@ -5717,6 +5717,9 @@
   paramtools = {
     "0.18.3" = import ./overrides/paramtools/0.18.3;
   };
+  parmap = {
+    "1.7.0" = import ./overrides/parmap/1.7.0;
+  };
   parmed = {
     "4.2.2" = import ./overrides/parmed/4.2.2;
   };
