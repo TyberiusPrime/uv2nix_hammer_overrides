@@ -6180,6 +6180,9 @@
   projectq = {
     "0.8.0" = import ./overrides/projectq/0.8.0;
   };
+  projen = {
+    "0.87.2" = import ./overrides/projen/0.87.2;
+  };
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
