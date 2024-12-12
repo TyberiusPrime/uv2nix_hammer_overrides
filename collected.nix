@@ -1919,6 +1919,9 @@
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
   };
+  django-codenerix = {
+    "5.0.7" = import ./overrides/django-codenerix/5.0.7;
+  };
   django-compat = {
     "1.0.15" = import ./overrides/django-compat/1.0.15;
   };
