@@ -3210,6 +3210,9 @@
   glpk = {
     "0.4.7" = import ./overrides/glpk/0.4.7;
   };
+  glue-core = {
+    "1.21.1" = import ./overrides/glue-core/1.21.1;
+  };
   gluonnlp = {
     "0.10.0" = import ./overrides/gluonnlp/0.10.0;
   };
