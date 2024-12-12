@@ -1665,6 +1665,9 @@
   dartsclone = {
     "0.10.2" = import ./overrides/dartsclone/0.10.2;
   };
+  dash-bio = {
+    "1.0.2" = import ./overrides/dash-bio/1.0.2;
+  };
   dash-colorscales = {
     "0.0.4" = import ./overrides/dash-colorscales/0.0.4;
   };
