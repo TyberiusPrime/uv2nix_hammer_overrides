@@ -7643,6 +7643,9 @@
   pywfa = {
     "0.5.1" = import ./overrides/pywfa/0.5.1;
   };
+  pywikibot = {
+    "9.3.1" = import ./overrides/pywikibot/9.3.1;
+  };
   pywinpty = {
     "2.0.13" = import ./overrides/pywinpty/2.0.13;
   };
