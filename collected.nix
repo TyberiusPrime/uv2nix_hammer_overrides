@@ -807,6 +807,9 @@
   bonsai = {
     "1.5.3" = import ./overrides/bonsai/1.5.3;
   };
+  borb = {
+    "2.1.25" = import ./overrides/borb/2.1.25;
+  };
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
