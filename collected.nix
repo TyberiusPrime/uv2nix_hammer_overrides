@@ -3179,6 +3179,9 @@
   gitapi = {
     "1.1.0a2" = import ./overrides/gitapi/1.1.0a2;
   };
+  gitdb2 = {
+    "4.0.2" = import ./overrides/gitdb2/4.0.2;
+  };
   github-flask = {
     "3.2.0" = import ./overrides/github-flask/3.2.0;
   };
