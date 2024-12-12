@@ -3871,6 +3871,9 @@
   isounidecode = {
     "0.3" = import ./overrides/isounidecode/0.3;
   };
+  itly-sdk = {
+    "0.1.24" = import ./overrides/itly-sdk/0.1.24;
+  };
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
   };
