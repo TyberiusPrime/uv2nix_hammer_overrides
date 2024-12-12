@@ -1946,6 +1946,9 @@
   django-debug-panel = {
     "0.8.3" = import ./overrides/django-debug-panel/0.8.3;
   };
+  django-debug-toolbar = {
+    "4.4.6" = import ./overrides/django-debug-toolbar/4.4.6;
+  };
   django-deprecate-fields = {
     "0.1.2" = import ./overrides/django-deprecate-fields/0.1.2;
   };
