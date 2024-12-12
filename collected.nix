@@ -4925,6 +4925,9 @@
   mordred = {
     "1.2.0" = import ./overrides/mordred/1.2.0;
   };
+  morecantile = {
+    "5.4.2" = import ./overrides/morecantile/5.4.2;
+  };
   morph = {
     "0.1.5" = import ./overrides/morph/0.1.5;
   };
