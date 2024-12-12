@@ -7721,6 +7721,9 @@
   qualname = {
     "0.1.0" = import ./overrides/qualname/0.1.0;
   };
+  quantecon = {
+    "0.7.2" = import ./overrides/quantecon/0.7.2;
+  };
   quantile-python = {
     "1.1" = import ./overrides/quantile-python/1.1;
   };
