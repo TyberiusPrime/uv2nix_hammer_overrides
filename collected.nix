@@ -6653,6 +6653,9 @@
   pyflic = {
     "2.0.4" = import ./overrides/pyflic/2.0.4;
   };
+  pyflowchart = {
+    "0.3.1" = import ./overrides/pyflowchart/0.3.1;
+  };
   pyfma = {
     "0.1.6" = import ./overrides/pyfma/0.1.6;
   };
