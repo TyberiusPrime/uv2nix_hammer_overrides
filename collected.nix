@@ -4838,6 +4838,9 @@
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
+  mlpype-base = {
+    "0.5.2" = import ./overrides/mlpype-base/0.5.2;
+  };
   mmcif-utils = {
     "0.28" = import ./overrides/mmcif-utils/0.28;
   };
