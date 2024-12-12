@@ -1349,6 +1349,9 @@
   conan = {
     "2.7.0" = import ./overrides/conan/2.7.0;
   };
+  conda-lock = {
+    "2.5.7" = import ./overrides/conda-lock/2.5.7;
+  };
   configobj = {
     "5.0.9" = import ./overrides/configobj/5.0.9;
   };
