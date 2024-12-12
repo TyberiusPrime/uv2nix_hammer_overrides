@@ -3101,6 +3101,9 @@
   gcloud-aio-bigquery = {
     "7.1.0" = import ./overrides/gcloud-aio-bigquery/7.1.0;
   };
+  gcovr = {
+    "7.2" = import ./overrides/gcovr/7.2;
+  };
   gcs-oauth2-boto-plugin = {
     "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
   };
