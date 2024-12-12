@@ -8429,6 +8429,9 @@
   simplekml = {
     "1.3.6" = import ./overrides/simplekml/1.3.6;
   };
+  simplemma = {
+    "1.1.1" = import ./overrides/simplemma/1.1.1;
+  };
   simplenote = {
     "2.1.4" = import ./overrides/simplenote/2.1.4;
   };
