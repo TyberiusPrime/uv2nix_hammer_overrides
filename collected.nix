@@ -2334,6 +2334,9 @@
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
+  doit = {
+    "0.36.0" = import ./overrides/doit/0.36.0;
+  };
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
