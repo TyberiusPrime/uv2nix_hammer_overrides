@@ -4484,6 +4484,9 @@
   log-colorizer = {
     "2.0.0" = import ./overrides/log-colorizer/2.0.0;
   };
+  logalpha = {
+    "3.0.0" = import ./overrides/logalpha/3.0.0;
+  };
   logan = {
     "0.7.2" = import ./overrides/logan/0.7.2;
   };
