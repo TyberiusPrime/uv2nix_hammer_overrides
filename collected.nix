@@ -8495,6 +8495,9 @@
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
+  slugid = {
+    "2.0.0" = import ./overrides/slugid/2.0.0;
+  };
   slugify = {
     "0.0.1" = import ./overrides/slugify/0.0.1;
   };
