@@ -8589,6 +8589,9 @@
   sox = {
     "1.5.0" = import ./overrides/sox/1.5.0;
   };
+  spaceone-core = {
+    "2.0.96" = import ./overrides/spaceone-core/2.0.96;
+  };
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
