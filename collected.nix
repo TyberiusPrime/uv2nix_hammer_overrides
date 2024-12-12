@@ -1659,6 +1659,9 @@
   daff = {
     "1.3.46" = import ./overrides/daff/1.3.46;
   };
+  daiquiri = {
+    "3.2.5.1" = import ./overrides/daiquiri/3.2.5.1;
+  };
   dark-matter = {
     "4.0.89" = import ./overrides/dark-matter/4.0.89;
   };
