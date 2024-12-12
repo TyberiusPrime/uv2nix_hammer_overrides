@@ -3838,6 +3838,9 @@
   iowait = {
     "0.2" = import ./overrides/iowait/0.2;
   };
+  ipaddress = {
+    "1.0.23" = import ./overrides/ipaddress/1.0.23;
+  };
   ipadic = {
     "1.0.0" = import ./overrides/ipadic/1.0.0;
   };
