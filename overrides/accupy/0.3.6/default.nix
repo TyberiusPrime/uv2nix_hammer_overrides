@@ -1,5 +1,7 @@
-{helpers, pkgs, ...}
-        : old: if (!helpers.isWheel old) then
+{final, helpers, pkgs, resolveBuildSystem, ...}
+        :
+            old:
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {pybind11 = [];setuptools = [];wheel = [];});})) (old: old // ( if (!helpers.isWheel old) then
   {
     postConfigure = ''
       substituteInPlace setup.py \
@@ -8,5 +10,7 @@
   }
 else
   { }
-
-        
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    
