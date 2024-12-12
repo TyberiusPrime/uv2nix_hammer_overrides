@@ -1,0 +1,1 @@
+BuildSystems = [ "cython", "ewah-bool-utils", "numpy", "setuptools",]
