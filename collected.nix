@@ -2745,6 +2745,9 @@
   fibheap = {
     "0.2.1" = import ./overrides/fibheap/0.2.1;
   };
+  fiblary3-fork = {
+    "0.1.12" = import ./overrides/fiblary3-fork/0.1.12;
+  };
   fido2 = {
     "0.9.3" = import ./overrides/fido2/0.9.3;
   };
