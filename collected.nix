@@ -3742,6 +3742,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  inform = {
+    "1.31" = import ./overrides/inform/1.31;
+  };
   infrae-cache = {
     "1.0.1" = import ./overrides/infrae-cache/1.0.1;
   };
