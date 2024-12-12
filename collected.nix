@@ -5064,6 +5064,9 @@
   mybad = {
     "0.2.0" = import ./overrides/mybad/0.2.0;
   };
+  mygene = {
+    "3.2.2" = import ./overrides/mygene/3.2.2;
+  };
   mypy-extensions = {
     "0.4.4" = import ./overrides/mypy-extensions/0.4.4;
   };
