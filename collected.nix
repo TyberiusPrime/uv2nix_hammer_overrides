@@ -1098,6 +1098,9 @@
   cl1 = {
     "1.13.3" = import ./overrides/cl1/1.13.3;
   };
+  classifier-free-guidance-pytorch = {
+    "0.6.10" = import ./overrides/classifier-free-guidance-pytorch/0.6.10;
+  };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
