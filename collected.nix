@@ -5739,6 +5739,9 @@
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
+  pathvalidate = {
+    "3.2.1" = import ./overrides/pathvalidate/3.2.1;
+  };
   pause = {
     "0.3" = import ./overrides/pause/0.3;
   };
