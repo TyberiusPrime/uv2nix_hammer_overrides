@@ -9561,6 +9561,9 @@
   update-copyright = {
     "0.6.2" = import ./overrides/update-copyright/0.6.2;
   };
+  uproot = {
+    "5.3.12" = import ./overrides/uproot/5.3.12;
+  };
   upsetplot = {
     "0.9.0" = import ./overrides/upsetplot/0.9.0;
   };
