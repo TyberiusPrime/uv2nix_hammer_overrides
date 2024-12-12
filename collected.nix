@@ -7706,6 +7706,9 @@
   qnap-qsw = {
     "0.3.0" = import ./overrides/qnap-qsw/0.3.0;
   };
+  qnapstats = {
+    "0.4.0" = import ./overrides/qnapstats/0.4.0;
+  };
   qprompt = {
     "0.16.3" = import ./overrides/qprompt/0.16.3;
   };
