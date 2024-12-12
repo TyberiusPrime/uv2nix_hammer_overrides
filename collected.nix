@@ -32,6 +32,9 @@
   acoustics = {
     "0.2.6" = import ./overrides/acoustics/0.2.6;
   };
+  actdiag = {
+    "3.0.0" = import ./overrides/actdiag/3.0.0;
+  };
   active-alchemy = {
     "1.1.0" = import ./overrides/active-alchemy/1.1.0;
   };
