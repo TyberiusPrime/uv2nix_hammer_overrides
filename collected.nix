@@ -5361,6 +5361,9 @@
   numpy2gif = {
     "1.0" = import ./overrides/numpy2gif/1.0;
   };
+  nunavut = {
+    "2.3.1" = import ./overrides/nunavut/2.3.1;
+  };
   nutil = {
     "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
   };
