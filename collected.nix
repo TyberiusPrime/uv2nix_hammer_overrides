@@ -9802,6 +9802,9 @@
   walrus = {
     "0.9.4" = import ./overrides/walrus/0.9.4;
   };
+  watchdog-gevent = {
+    "0.2.0" = import ./overrides/watchdog-gevent/0.2.0;
+  };
   watchgod = {
     "0.6" = import ./overrides/watchgod/0.6;
   };
