@@ -8529,6 +8529,9 @@
   smt = {
     "2.6.3" = import ./overrides/smt/2.6.3;
   };
+  smtpdfix = {
+    "0.5.2" = import ./overrides/smtpdfix/0.5.2;
+  };
   snakebite = {
     "2.11.0" = import ./overrides/snakebite/2.11.0;
   };
