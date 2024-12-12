@@ -6447,6 +6447,9 @@
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
   };
+  pycategories = {
+    "1.2.0" = import ./overrides/pycategories/1.2.0;
+  };
   pycddlib = {
     "2.1.8.post1" = import ./overrides/pycddlib/2.1.8.post1;
   };
