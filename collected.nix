@@ -8538,6 +8538,9 @@
   snakemake = {
     "7.32.4" = import ./overrides/snakemake/7.32.4;
   };
+  snakemake-executor-plugin-cluster-generic = {
+    "1.0.9" = import ./overrides/snakemake-executor-plugin-cluster-generic/1.0.9;
+  };
   snapcast = {
     "2.3.6" = import ./overrides/snapcast/2.3.6;
   };
