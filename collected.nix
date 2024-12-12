@@ -5872,6 +5872,9 @@
   phunspell = {
     "0.1.6" = import ./overrides/phunspell/0.1.6;
   };
+  pick = {
+    "2.3.2" = import ./overrides/pick/2.3.2;
+  };
   pickle-mixin = {
     "1.0.2" = import ./overrides/pickle-mixin/1.0.2;
   };
