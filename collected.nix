@@ -9937,6 +9937,9 @@
   ws4py = {
     "0.5.1" = import ./overrides/ws4py/0.5.1;
   };
+  wsaccel = {
+    "0.6.6" = import ./overrides/wsaccel/0.6.6;
+  };
   wsgi-request-logger = {
     "0.4.6" = import ./overrides/wsgi-request-logger/0.4.6;
   };
