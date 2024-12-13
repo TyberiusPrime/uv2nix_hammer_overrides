@@ -1566,6 +1566,9 @@
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
+  cucumber-tag-expressions = {
+    "6.1.0" = import ./overrides/cucumber-tag-expressions/6.1.0;
+  };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
