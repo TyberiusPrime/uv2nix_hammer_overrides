@@ -7964,6 +7964,9 @@
   ritassist = {
     "0.9.3" = import ./overrides/ritassist/0.9.3;
   };
+  rki-covid-parser = {
+    "1.3.3" = import ./overrides/rki-covid-parser/1.3.3;
+  };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
