@@ -9880,6 +9880,9 @@
   wheezy-template = {
     "3.2.2" = import ./overrides/wheezy-template/3.2.2;
   };
+  whirlpool-sixth-sense = {
+    "0.18.9" = import ./overrides/whirlpool-sixth-sense/0.18.9;
+  };
   whisper = {
     "1.1.10" = import ./overrides/whisper/1.1.10;
   };
