@@ -7084,6 +7084,9 @@
   pyrss2gen = {
     "1.1" = import ./overrides/pyrss2gen/1.1;
   };
+  pyrtlsdr = {
+    "0.3.0" = import ./overrides/pyrtlsdr/0.3.0;
+  };
   pysat = {
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
