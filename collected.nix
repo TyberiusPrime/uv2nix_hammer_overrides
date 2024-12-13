@@ -9293,6 +9293,9 @@
   transifex-client = {
     "0.14.4" = import ./overrides/transifex-client/0.14.4;
   };
+  translate-toolkit = {
+    "3.13.3" = import ./overrides/translate-toolkit/3.13.3;
+  };
   translitcodec = {
     "0.7.0" = import ./overrides/translitcodec/0.7.0;
   };
