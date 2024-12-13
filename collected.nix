@@ -3110,6 +3110,9 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  geemap = {
+    "0.34.1" = import ./overrides/geemap/0.34.1;
+  };
   genpy = {
     "2022.1" = import ./overrides/genpy/2022.1;
   };
