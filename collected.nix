@@ -7677,6 +7677,7 @@
     "1.4" = import ./overrides/pyxl3/1.4;
   };
   pyyaml = {
+    "5.1" = import ./overrides/pyyaml/5.1;
     "5.1.2" = import ./overrides/pyyaml/5.1.2;
     "5.3" = import ./overrides/pyyaml/5.3;
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
