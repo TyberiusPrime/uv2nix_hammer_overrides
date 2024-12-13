@@ -6949,6 +6949,9 @@
   pyorbital = {
     "1.8.3" = import ./overrides/pyorbital/1.8.3;
   };
+  pyoutbreaksnearme = {
+    "2023.12.0" = import ./overrides/pyoutbreaksnearme/2023.12.0;
+  };
   pyparser = {
     "1.0" = import ./overrides/pyparser/1.0;
   };
