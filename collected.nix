@@ -295,6 +295,9 @@
   apiclient = {
     "1.0.4" = import ./overrides/apiclient/1.0.4;
   };
+  apispec-webframeworks = {
+    "1.1.0" = import ./overrides/apispec-webframeworks/1.1.0;
+  };
   apistar = {
     "0.7.2" = import ./overrides/apistar/0.7.2;
   };
