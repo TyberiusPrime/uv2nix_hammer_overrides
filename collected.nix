@@ -6599,6 +6599,9 @@
   pyephem = {
     "9.99" = import ./overrides/pyephem/9.99;
   };
+  pyepics = {
+    "3.5.7" = import ./overrides/pyepics/3.5.7;
+  };
   pyes = {
     "0.99.6" = import ./overrides/pyes/0.99.6;
   };
