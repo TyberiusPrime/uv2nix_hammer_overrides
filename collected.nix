@@ -2303,6 +2303,9 @@
   dnsq = {
     "1.1.6" = import ./overrides/dnsq/1.1.6;
   };
+  docformatter = {
+    "1.7.5" = import ./overrides/docformatter/1.7.5;
+  };
   dockerpty = {
     "0.4.1" = import ./overrides/dockerpty/0.4.1;
   };
