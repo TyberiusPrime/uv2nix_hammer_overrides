@@ -8667,6 +8667,9 @@
   spyne = {
     "2.14.0" = import ./overrides/spyne/2.14.0;
   };
+  sqlacodegen = {
+    "2.3.0.post1" = import ./overrides/sqlacodegen/2.3.0.post1;
+  };
   sqlalchemy = {
     "1.3.13" = import ./overrides/sqlalchemy/1.3.13;
     "1.3.20" = import ./overrides/sqlalchemy/1.3.20;
