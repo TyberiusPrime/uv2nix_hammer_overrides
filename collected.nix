@@ -3802,6 +3802,9 @@
   interval = {
     "1.0.0" = import ./overrides/interval/1.0.0;
   };
+  intervals = {
+    "0.9.2" = import ./overrides/intervals/0.9.2;
+  };
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
   };
