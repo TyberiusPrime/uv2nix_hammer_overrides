@@ -1716,6 +1716,9 @@
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
+  dbt-semantic-interfaces = {
+    "0.7.1" = import ./overrides/dbt-semantic-interfaces/0.7.1;
+  };
   dbutils = {
     "1.3" = import ./overrides/dbutils/1.3;
   };
