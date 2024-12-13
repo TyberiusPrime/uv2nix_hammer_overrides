@@ -6530,6 +6530,9 @@
   pycryptodomex = {
     "3.9.9" = import ./overrides/pycryptodomex/3.9.9;
   };
+  pyct = {
+    "0.5.0" = import ./overrides/pyct/0.5.0;
+  };
   pycuda = {
     "2024.1.2" = import ./overrides/pycuda/2024.1.2;
   };
