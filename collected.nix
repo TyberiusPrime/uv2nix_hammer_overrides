@@ -7185,6 +7185,9 @@
   pystemmer = {
     "2.2.0.1" = import ./overrides/pystemmer/2.2.0.1;
   };
+  pysvn = {
+    "0.1.0" = import ./overrides/pysvn/0.1.0;
+  };
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
