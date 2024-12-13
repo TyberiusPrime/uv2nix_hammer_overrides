@@ -6849,6 +6849,9 @@
   pymatsolver = {
     "0.2.0" = import ./overrides/pymatsolver/0.2.0;
   };
+  pymaven-patch = {
+    "0.3.2" = import ./overrides/pymaven-patch/0.3.2;
+  };
   pymbolic = {
     "2022.2" = import ./overrides/pymbolic/2022.2;
   };
