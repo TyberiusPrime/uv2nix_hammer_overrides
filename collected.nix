@@ -2288,6 +2288,9 @@
   dlib = {
     "19.24.6" = import ./overrides/dlib/19.24.6;
   };
+  dlinfo = {
+    "1.2.1" = import ./overrides/dlinfo/1.2.1;
+  };
   dlx = {
     "1.0.4" = import ./overrides/dlx/1.0.4;
   };
