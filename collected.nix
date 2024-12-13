@@ -807,6 +807,9 @@
   bonsai = {
     "1.5.3" = import ./overrides/bonsai/1.5.3;
   };
+  bookiesports = {
+    "0.4.18" = import ./overrides/bookiesports/0.4.18;
+  };
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
