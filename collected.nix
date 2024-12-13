@@ -401,6 +401,9 @@
   asn1tools = {
     "0.167.0" = import ./overrides/asn1tools/0.167.0;
   };
+  aspectlib = {
+    "2.0.0" = import ./overrides/aspectlib/2.0.0;
+  };
   assertpy = {
     "1.1" = import ./overrides/assertpy/1.1;
   };
