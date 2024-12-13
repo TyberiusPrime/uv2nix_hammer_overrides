@@ -3787,6 +3787,9 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  intbitset = {
+    "3.1.0" = import ./overrides/intbitset/3.1.0;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
