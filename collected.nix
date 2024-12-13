@@ -5543,6 +5543,9 @@
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
   };
+  openimis-be-calculation = {
+    "1.7.1" = import ./overrides/openimis-be-calculation/1.7.1;
+  };
   openmdao = {
     "3.34.2" = import ./overrides/openmdao/3.34.2;
   };
