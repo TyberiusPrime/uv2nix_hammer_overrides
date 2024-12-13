@@ -6575,6 +6575,9 @@
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
   };
+  pydroid-ipcam = {
+    "2.0.0" = import ./overrides/pydroid-ipcam/2.0.0;
+  };
   pyds9 = {
     "1.8.1" = import ./overrides/pyds9/1.8.1;
   };
