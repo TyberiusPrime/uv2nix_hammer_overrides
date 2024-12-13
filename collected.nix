@@ -5001,6 +5001,9 @@
   ms-cv = {
     "0.1.1" = import ./overrides/ms-cv/0.1.1;
   };
+  msedge-selenium-tools = {
+    "3.141.4" = import ./overrides/msedge-selenium-tools/3.141.4;
+  };
   msgpack = {
     "1.0.2" = import ./overrides/msgpack/1.0.2;
   };
