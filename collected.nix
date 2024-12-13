@@ -692,6 +692,9 @@
   betamax-matchers = {
     "0.4.0" = import ./overrides/betamax-matchers/0.4.0;
   };
+  better-boto = {
+    "0.43.0" = import ./overrides/better-boto/0.43.0;
+  };
   betterproto = {
     "1.2.5" = import ./overrides/betterproto/1.2.5;
   };
