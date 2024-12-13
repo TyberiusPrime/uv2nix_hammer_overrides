@@ -7913,6 +7913,9 @@
   resolver = {
     "0.2.1" = import ./overrides/resolver/0.2.1;
   };
+  responder = {
+    "2.0.7" = import ./overrides/responder/2.0.7;
+  };
   restible = {
     "0.12.1" = import ./overrides/restible/0.12.1;
   };
