@@ -1029,6 +1029,9 @@
   chempy = {
     "0.9.0" = import ./overrides/chempy/0.9.0;
   };
+  chex = {
+    "0.1.86" = import ./overrides/chex/0.1.86;
+  };
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
   };
