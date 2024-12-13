@@ -6318,6 +6318,9 @@
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
+  py-moneyed = {
+    "3.0" = import ./overrides/py-moneyed/3.0;
+  };
   py-postgresql = {
     "1.2.1" = import ./overrides/py-postgresql/1.2.1;
   };
