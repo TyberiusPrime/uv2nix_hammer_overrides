@@ -8846,6 +8846,9 @@
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
   };
+  svgutils = {
+    "0.3.4" = import ./overrides/svgutils/0.3.4;
+  };
   svn = {
     "1.0.1" = import ./overrides/svn/1.0.1;
   };
