@@ -3423,6 +3423,9 @@
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
+  hdmf = {
+    "3.14.4" = import ./overrides/hdmf/3.14.4;
+  };
   headless = {
     "1.12.4" = import ./overrides/headless/1.12.4;
   };
