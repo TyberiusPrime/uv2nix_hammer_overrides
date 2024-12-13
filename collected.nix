@@ -4883,6 +4883,9 @@
   mocket = {
     "3.12.9" = import ./overrides/mocket/3.12.9;
   };
+  mockito = {
+    "1.5.1" = import ./overrides/mockito/1.5.1;
+  };
   modelcatalog-api = {
     "8.0.0" = import ./overrides/modelcatalog-api/8.0.0;
   };
