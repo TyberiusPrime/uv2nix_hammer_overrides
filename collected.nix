@@ -2529,6 +2529,9 @@
   encryptedsocket = {
     "3.0.0" = import ./overrides/encryptedsocket/3.0.0;
   };
+  entsoe-py = {
+    "0.6.8" = import ./overrides/entsoe-py/0.6.8;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
