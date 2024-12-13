@@ -6300,6 +6300,9 @@
   px-settings = {
     "0.1.5" = import ./overrides/px-settings/0.1.5;
   };
+  py-aiger = {
+    "6.2.3" = import ./overrides/py-aiger/6.2.3;
+  };
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
