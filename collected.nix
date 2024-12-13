@@ -388,6 +388,9 @@
   arxiv2bib = {
     "1.0.8" = import ./overrides/arxiv2bib/1.0.8;
   };
+  aryth = {
+    "0.0.12" = import ./overrides/aryth/0.0.12;
+  };
   ascii-graph = {
     "1.5.1" = import ./overrides/ascii-graph/1.5.1;
   };
