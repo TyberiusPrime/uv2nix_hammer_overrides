@@ -8408,6 +8408,9 @@
   simple-crypt = {
     "4.1.7" = import ./overrides/simple-crypt/4.1.7;
   };
+  simple-rest-client = {
+    "1.2.1" = import ./overrides/simple-rest-client/1.2.1;
+  };
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
