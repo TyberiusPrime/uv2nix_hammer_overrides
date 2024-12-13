@@ -206,6 +206,9 @@
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
+  amqtt = {
+    "0.10.1" = import ./overrides/amqtt/0.10.1;
+  };
   amuse-framework = {
     "2024.6.0" = import ./overrides/amuse-framework/2024.6.0;
   };
