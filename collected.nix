@@ -9422,6 +9422,9 @@
   txhttputil = {
     "1.3.0" = import ./overrides/txhttputil/1.3.0;
   };
+  txi2p-tahoe = {
+    "0.3.7" = import ./overrides/txi2p-tahoe/0.3.7;
+  };
   txredis = {
     "2.4" = import ./overrides/txredis/2.4;
   };
