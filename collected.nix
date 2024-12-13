@@ -7493,6 +7493,9 @@
   python-usbtmc = {
     "0.8" = import ./overrides/python-usbtmc/0.8;
   };
+  python-utils = {
+    "3.8.2" = import ./overrides/python-utils/3.8.2;
+  };
   python-vxi11 = {
     "0.9" = import ./overrides/python-vxi11/0.9;
   };
