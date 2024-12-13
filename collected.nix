@@ -1433,6 +1433,9 @@
   couleur = {
     "0.7.4" = import ./overrides/couleur/0.7.4;
   };
+  country-converter = {
+    "1.2" = import ./overrides/country-converter/1.2;
+  };
   cov-core = {
     "1.15.0" = import ./overrides/cov-core/1.15.0;
   };
