@@ -4066,6 +4066,9 @@
   julius = {
     "0.2.7" = import ./overrides/julius/0.2.7;
   };
+  junos-eznc = {
+    "2.7.1" = import ./overrides/junos-eznc/2.7.1;
+  };
   jupyter-contrib-core = {
     "0.4.2" = import ./overrides/jupyter-contrib-core/0.4.2;
   };
@@ -5137,6 +5140,9 @@
   };
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
+  };
+  ncclient = {
+    "0.6.16" = import ./overrides/ncclient/0.6.16;
   };
   ncephes = {
     "1.1.0" = import ./overrides/ncephes/1.1.0;
