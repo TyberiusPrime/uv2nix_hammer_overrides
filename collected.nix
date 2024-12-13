@@ -999,6 +999,9 @@
   chacha20poly1305 = {
     "0.0.3" = import ./overrides/chacha20poly1305/0.0.3;
   };
+  chacha20poly1305-reuseable = {
+    "0.13.2" = import ./overrides/chacha20poly1305-reuseable/0.13.2;
+  };
   chainer = {
     "7.8.1" = import ./overrides/chainer/7.8.1;
   };
