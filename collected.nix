@@ -7577,6 +7577,9 @@
   pyu2f = {
     "0.1.5" = import ./overrides/pyu2f/0.1.5;
   };
+  pyudev = {
+    "0.24.3" = import ./overrides/pyudev/0.24.3;
+  };
   pyudorandom = {
     "1.0.0" = import ./overrides/pyudorandom/1.0.0;
   };
