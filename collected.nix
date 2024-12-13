@@ -3598,6 +3598,9 @@
   hydralit-components = {
     "1.0.10" = import ./overrides/hydralit-components/1.0.10;
   };
+  hydrus-api = {
+    "5.0.1" = import ./overrides/hydrus-api/5.0.1;
+  };
   hypchat = {
     "0.21" = import ./overrides/hypchat/0.21;
   };
