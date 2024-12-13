@@ -8831,6 +8831,9 @@
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
+  suitcase-utils = {
+    "0.5.4" = import ./overrides/suitcase-utils/0.5.4;
+  };
   sunburnt = {
     "0.6" = import ./overrides/sunburnt/0.6;
   };
