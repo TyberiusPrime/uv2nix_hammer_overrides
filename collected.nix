@@ -1910,6 +1910,9 @@
   django-celery-beat = {
     "2.6.0" = import ./overrides/django-celery-beat/2.6.0;
   };
+  django-celery-email = {
+    "3.0.0" = import ./overrides/django-celery-email/3.0.0;
+  };
   django-chamber = {
     "0.6.17" = import ./overrides/django-chamber/0.6.17;
   };
