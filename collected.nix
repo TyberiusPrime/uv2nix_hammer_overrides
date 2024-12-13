@@ -8547,6 +8547,9 @@
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
+  snuggs = {
+    "1.4.7" = import ./overrides/snuggs/1.4.7;
+  };
   soappy-py3 = {
     "0.52.30" = import ./overrides/soappy-py3/0.52.30;
   };
