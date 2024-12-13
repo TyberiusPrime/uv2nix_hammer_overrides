@@ -8544,6 +8544,9 @@
   snaptime = {
     "0.2.4" = import ./overrides/snaptime/0.2.4;
   };
+  snorkel = {
+    "0.10.0" = import ./overrides/snorkel/0.10.0;
+  };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
