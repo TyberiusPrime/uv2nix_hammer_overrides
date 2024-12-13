@@ -8825,6 +8825,9 @@
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
   };
+  subrun = {
+    "0.0.8" = import ./overrides/subrun/0.0.8;
+  };
   subzerod = {
     "1.0" = import ./overrides/subzerod/1.0;
   };
