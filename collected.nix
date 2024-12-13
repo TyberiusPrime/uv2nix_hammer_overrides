@@ -7131,6 +7131,9 @@
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
   };
+  pysigma-backend-splunk = {
+    "1.1.0" = import ./overrides/pysigma-backend-splunk/1.1.0;
+  };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
   };
