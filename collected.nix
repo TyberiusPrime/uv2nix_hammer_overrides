@@ -7982,6 +7982,9 @@
   robotframework-python3 = {
     "2.9" = import ./overrides/robotframework-python3/2.9;
   };
+  robotframework-selenium2library = {
+    "3.0.0" = import ./overrides/robotframework-selenium2library/3.0.0;
+  };
   robotframework-sshlibrary = {
     "3.8.0" = import ./overrides/robotframework-sshlibrary/3.8.0;
   };
