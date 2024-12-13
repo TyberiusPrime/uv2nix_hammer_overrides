@@ -5988,6 +5988,9 @@
   plone-directives-form = {
     "2.0.3" = import ./overrides/plone-directives-form/2.0.3;
   };
+  plone-fieldsets = {
+    "2.0.3" = import ./overrides/plone-fieldsets/2.0.3;
+  };
   plone-formwidget-captcha = {
     "1.0.3" = import ./overrides/plone-formwidget-captcha/1.0.3;
   };
