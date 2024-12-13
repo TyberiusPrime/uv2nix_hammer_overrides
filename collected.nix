@@ -3074,6 +3074,9 @@
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
+  gardena-bluetooth = {
+    "1.4.3" = import ./overrides/gardena-bluetooth/1.4.3;
+  };
   gatspy = {
     "0.3" = import ./overrides/gatspy/0.3;
   };
