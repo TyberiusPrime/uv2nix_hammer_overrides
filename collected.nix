@@ -6629,6 +6629,9 @@
   pyfab = {
     "0.3.6" = import ./overrides/pyfab/0.3.6;
   };
+  pyfakeuse = {
+    "0.0.8" = import ./overrides/pyfakeuse/0.0.8;
+  };
   pyfakewebcam = {
     "0.1.0" = import ./overrides/pyfakewebcam/0.1.0;
   };
