@@ -5860,6 +5860,9 @@
   pgsu = {
     "0.2.4" = import ./overrides/pgsu/0.2.4;
   };
+  phate = {
+    "1.0.11" = import ./overrides/phate/1.0.11;
+  };
   phonetics = {
     "1.0.5" = import ./overrides/phonetics/1.0.5;
   };
