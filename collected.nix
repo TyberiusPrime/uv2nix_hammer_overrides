@@ -8517,6 +8517,9 @@
   smallvectors = {
     "0.7.0" = import ./overrides/smallvectors/0.7.0;
   };
+  smbprotocol = {
+    "1.14.0" = import ./overrides/smbprotocol/1.14.0;
+  };
   smbus = {
     "1.1.post2" = import ./overrides/smbus/1.1.post2;
   };
