@@ -6644,6 +6644,9 @@
   pyfcm = {
     "1.4.9" = import ./overrides/pyfcm/1.4.9;
   };
+  pyfido = {
+    "2.1.2" = import ./overrides/pyfido/2.1.2;
+  };
   pyfim = {
     "6.28" = import ./overrides/pyfim/6.28;
   };
