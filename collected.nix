@@ -8096,6 +8096,9 @@
   s3keyring = {
     "0.2.4" = import ./overrides/s3keyring/0.2.4;
   };
+  s3path = {
+    "0.5.8" = import ./overrides/s3path/0.5.8;
+  };
   sabyenc = {
     "3.3.6" = import ./overrides/sabyenc/3.3.6;
   };
