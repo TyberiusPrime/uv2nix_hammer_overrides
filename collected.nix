@@ -9041,6 +9041,9 @@
   thepiratebay = {
     "1.3.5" = import ./overrides/thepiratebay/1.3.5;
   };
+  thermopro-ble = {
+    "0.10.0" = import ./overrides/thermopro-ble/0.10.0;
+  };
   thermosteam = {
     "0.43.0" = import ./overrides/thermosteam/0.43.0;
   };
