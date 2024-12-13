@@ -6387,6 +6387,9 @@
   pyastronomy = {
     "0.22.0" = import ./overrides/pyastronomy/0.22.0;
   };
+  pyasuswrt = {
+    "0.1.21" = import ./overrides/pyasuswrt/0.1.21;
+  };
   pyatem = {
     "0.10.0" = import ./overrides/pyatem/0.10.0;
   };
