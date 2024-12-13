@@ -1782,6 +1782,9 @@
   device-detector = {
     "5.0.1" = import ./overrides/device-detector/5.0.1;
   };
+  devpi-server = {
+    "6.12.1" = import ./overrides/devpi-server/6.12.1;
+  };
   dexy = {
     "2.0.9" = import ./overrides/dexy/2.0.9;
   };
