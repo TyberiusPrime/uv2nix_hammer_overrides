@@ -4790,6 +4790,9 @@
   midiutil = {
     "1.2.1" = import ./overrides/midiutil/1.2.1;
   };
+  mido = {
+    "1.3.2" = import ./overrides/mido/1.3.2;
+  };
   migen = {
     "0.9.2" = import ./overrides/migen/0.9.2;
   };
