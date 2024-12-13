@@ -1734,6 +1734,9 @@
   decouple = {
     "0.0.7" = import ./overrides/decouple/0.0.7;
   };
+  dedupe = {
+    "3.0.3" = import ./overrides/dedupe/3.0.3;
+  };
   dedupe-levenshtein-search = {
     "1.4.5" = import ./overrides/dedupe-levenshtein-search/1.4.5;
   };
