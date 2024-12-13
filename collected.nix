@@ -5193,6 +5193,9 @@
   netstruct = {
     "1.1.2" = import ./overrides/netstruct/1.1.2;
   };
+  nettigo-air-monitor = {
+    "3.3.0" = import ./overrides/nettigo-air-monitor/3.3.0;
+  };
   netw0rk = {
     "1.11.3" = import ./overrides/netw0rk/1.11.3;
   };
