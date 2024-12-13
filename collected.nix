@@ -8171,6 +8171,9 @@
   scales = {
     "1.0.9" = import ./overrides/scales/1.0.9;
   };
+  scancode-toolkit = {
+    "32.2.1" = import ./overrides/scancode-toolkit/32.2.1;
+  };
   scandir = {
     "1.10.0" = import ./overrides/scandir/1.10.0;
   };
