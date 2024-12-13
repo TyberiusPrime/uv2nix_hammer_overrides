@@ -2346,6 +2346,9 @@
   doufo = {
     "0.0.4" = import ./overrides/doufo/0.0.4;
   };
+  downloader-cli = {
+    "0.3.4" = import ./overrides/downloader-cli/0.3.4;
+  };
   dpcontracts = {
     "0.6.0" = import ./overrides/dpcontracts/0.6.0;
   };
