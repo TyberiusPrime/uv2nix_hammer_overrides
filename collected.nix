@@ -8683,6 +8683,9 @@
   sqlalchemy-utils = {
     "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
+  sqlalchemy-vertica-python = {
+    "0.6.3" = import ./overrides/sqlalchemy-vertica-python/0.6.3;
+  };
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
