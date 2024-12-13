@@ -1283,6 +1283,9 @@
   collective-js-jqueryui = {
     "2.2.0" = import ./overrides/collective-js-jqueryui/2.2.0;
   };
+  collective-prettyphoto = {
+    "0.6" = import ./overrides/collective-prettyphoto/0.6;
+  };
   collective-quickupload = {
     "1.11.1" = import ./overrides/collective-quickupload/1.11.1;
   };
