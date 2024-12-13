@@ -7406,6 +7406,9 @@
   python-lzo = {
     "1.15" = import ./overrides/python-lzo/1.15;
   };
+  python-mimeparse = {
+    "2.0.0" = import ./overrides/python-mimeparse/2.0.0;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
