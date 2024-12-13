@@ -3688,6 +3688,9 @@
   imgcat = {
     "0.5.0" = import ./overrides/imgcat/0.5.0;
   };
+  imgtool = {
+    "2.1.0" = import ./overrides/imgtool/2.1.0;
+  };
   imgviz = {
     "1.7.5" = import ./overrides/imgviz/1.7.5;
   };
