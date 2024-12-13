@@ -1122,6 +1122,9 @@
   clickhouse-sqlalchemy = {
     "0.3.2" = import ./overrides/clickhouse-sqlalchemy/0.3.2;
   };
+  climage = {
+    "0.2.0" = import ./overrides/climage/0.2.0;
+  };
   clime = {
     "0.3.1" = import ./overrides/clime/0.3.1;
   };
