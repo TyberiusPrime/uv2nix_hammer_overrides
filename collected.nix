@@ -215,6 +215,9 @@
   anchor-kr = {
     "0.1.3" = import ./overrides/anchor-kr/0.1.3;
   };
+  androguard = {
+    "4.1.2" = import ./overrides/androguard/4.1.2;
+  };
   android-backup = {
     "0.2.0" = import ./overrides/android-backup/0.2.0;
   };
