@@ -1098,6 +1098,9 @@
   cl1 = {
     "1.13.3" = import ./overrides/cl1/1.13.3;
   };
+  claripy = {
+    "9.2.117" = import ./overrides/claripy/9.2.117;
+  };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
