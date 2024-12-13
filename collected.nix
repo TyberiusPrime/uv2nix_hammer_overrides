@@ -7958,6 +7958,9 @@
   ringo = {
     "1.14.0" = import ./overrides/ringo/1.14.0;
   };
+  riotwatcher = {
+    "3.3.0" = import ./overrides/riotwatcher/3.3.0;
+  };
   ripozo = {
     "1.3.0" = import ./overrides/ripozo/1.3.0;
   };
