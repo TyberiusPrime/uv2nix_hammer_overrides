@@ -7345,6 +7345,9 @@
   python-google-places = {
     "1.4.2" = import ./overrides/python-google-places/1.4.2;
   };
+  python-graph-core = {
+    "1.8.2" = import ./overrides/python-graph-core/1.8.2;
+  };
   python-helper = {
     "0.3.74" = import ./overrides/python-helper/0.3.74;
   };
