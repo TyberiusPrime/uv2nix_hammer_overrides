@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "numpy", "oldest-supported-numpy", "setuptools", "wheel",]
+DowngradePython = "3.11"
