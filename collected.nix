@@ -92,6 +92,9 @@
   aiee = {
     "0.3.2" = import ./overrides/aiee/0.3.2;
   };
+  aihelper = {
+    "0.2.13" = import ./overrides/aihelper/0.2.13;
+  };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
