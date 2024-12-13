@@ -1044,6 +1044,9 @@
   cifar2png = {
     "0.0.4" = import ./overrides/cifar2png/0.0.4;
   };
+  cijoe = {
+    "0.9.34" = import ./overrides/cijoe/0.9.34;
+  };
   cinq-auditor-cloudtrail = {
     "2.1.0" = import ./overrides/cinq-auditor-cloudtrail/2.1.0;
   };
