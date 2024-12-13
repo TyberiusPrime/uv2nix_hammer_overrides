@@ -3459,6 +3459,9 @@
   hgapi = {
     "1.7.4" = import ./overrides/hgapi/1.7.4;
   };
+  hglib = {
+    "2.6.2" = import ./overrides/hglib/2.6.2;
+  };
   hic-straw = {
     "1.3.1" = import ./overrides/hic-straw/1.3.1;
   };
