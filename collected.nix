@@ -6375,6 +6375,9 @@
   pyapi-gitlab = {
     "7.8.5" = import ./overrides/pyapi-gitlab/7.8.5;
   };
+  pyapp = {
+    "4.15.2" = import ./overrides/pyapp/4.15.2;
+  };
   pyarlo = {
     "0.2.4" = import ./overrides/pyarlo/0.2.4;
   };
