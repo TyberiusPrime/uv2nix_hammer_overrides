@@ -190,6 +190,9 @@
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
   };
+  alog = {
+    "1.2.0" = import ./overrides/alog/1.2.0;
+  };
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
