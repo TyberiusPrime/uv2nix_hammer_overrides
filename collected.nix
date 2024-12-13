@@ -8033,6 +8033,9 @@
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
+  rpi-ws281x = {
+    "5.0.0" = import ./overrides/rpi-ws281x/5.0.0;
+  };
   rpio = {
     "0.10.0" = import ./overrides/rpio/0.10.0;
   };
