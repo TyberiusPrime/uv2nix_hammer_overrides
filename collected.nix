@@ -3691,6 +3691,9 @@
   imgviz = {
     "1.7.5" = import ./overrides/imgviz/1.7.5;
   };
+  imio = {
+    "0.3.1" = import ./overrides/imio/0.3.1;
+  };
   imio-actionspanel = {
     "1.68" = import ./overrides/imio-actionspanel/1.68;
   };
