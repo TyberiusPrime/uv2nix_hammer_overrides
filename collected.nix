@@ -3210,6 +3210,9 @@
   glpk = {
     "0.4.7" = import ./overrides/glpk/0.4.7;
   };
+  gluoncv = {
+    "0.10.5.post0" = import ./overrides/gluoncv/0.10.5.post0;
+  };
   gluonnlp = {
     "0.10.0" = import ./overrides/gluonnlp/0.10.0;
   };
