@@ -7236,6 +7236,9 @@
   pytest-pep8 = {
     "1.0.6" = import ./overrides/pytest-pep8/1.0.6;
   };
+  pytest-raises = {
+    "0.11" = import ./overrides/pytest-raises/0.11;
+  };
   pytest-raisesregexp = {
     "2.1" = import ./overrides/pytest-raisesregexp/2.1;
   };
