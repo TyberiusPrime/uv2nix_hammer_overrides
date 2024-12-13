@@ -4577,6 +4577,9 @@
   madmom = {
     "0.16.1" = import ./overrides/madmom/0.16.1;
   };
+  magic-filter = {
+    "1.0.12" = import ./overrides/magic-filter/1.0.12;
+  };
   mailchecker = {
     "6.0.8" = import ./overrides/mailchecker/6.0.8;
   };
