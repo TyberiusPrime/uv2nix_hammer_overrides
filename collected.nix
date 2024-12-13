@@ -6605,6 +6605,9 @@
   pyethash = {
     "0.1.27" = import ./overrides/pyethash/0.1.27;
   };
+  pyevilgenius = {
+    "2.0.0" = import ./overrides/pyevilgenius/2.0.0;
+  };
   pyexcel = {
     "0.4.5" = import ./overrides/pyexcel/0.4.5;
   };
