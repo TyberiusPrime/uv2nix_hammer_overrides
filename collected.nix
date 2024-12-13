@@ -2195,6 +2195,9 @@
   django-timezones = {
     "0.2" = import ./overrides/django-timezones/0.2;
   };
+  django-tinymce4-lite = {
+    "1.8.0" = import ./overrides/django-tinymce4-lite/1.8.0;
+  };
   django-titofisto = {
     "0.2.2" = import ./overrides/django-titofisto/0.2.2;
   };
