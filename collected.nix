@@ -35,6 +35,9 @@
   active-alchemy = {
     "1.1.0" = import ./overrides/active-alchemy/1.1.0;
   };
+  adafruit-circuitpython-ble = {
+    "10.0.7" = import ./overrides/adafruit-circuitpython-ble/10.0.7;
+  };
   adafruit-extended-bus = {
     "1.0.2" = import ./overrides/adafruit-extended-bus/1.0.2;
   };
