@@ -5733,6 +5733,9 @@
     "1.18.0" = import ./overrides/patch-ng/1.18.0;
     "1.18.1" = import ./overrides/patch-ng/1.18.1;
   };
+  path = {
+    "17.0.0" = import ./overrides/path/17.0.0;
+  };
   path-and-address = {
     "2.0.1" = import ./overrides/path-and-address/2.0.1;
   };
