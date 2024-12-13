@@ -3317,6 +3317,9 @@
   greenlet = {
     "3.1.0" = import ./overrides/greenlet/3.1.0;
   };
+  grimoire-elk = {
+    "1.1.5" = import ./overrides/grimoire-elk/1.1.5;
+  };
   gripcontrol = {
     "4.2.0" = import ./overrides/gripcontrol/4.2.0;
   };
