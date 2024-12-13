@@ -2322,6 +2322,9 @@
   docrep = {
     "0.3.2" = import ./overrides/docrep/0.3.2;
   };
+  docstring-parser = {
+    "0.11" = import ./overrides/docstring-parser/0.11;
+  };
   doctest-ignore-unicode = {
     "0.1.2" = import ./overrides/doctest-ignore-unicode/0.1.2;
   };
@@ -6562,6 +6565,9 @@
   };
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
+  };
+  pydoc-markdown = {
+    "4.8.2" = import ./overrides/pydoc-markdown/4.8.2;
   };
   pydoe = {
     "0.3.8" = import ./overrides/pydoe/0.3.8;
