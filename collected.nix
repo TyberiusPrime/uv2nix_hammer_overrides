@@ -243,6 +243,9 @@
   ansiconv = {
     "1.0.0" = import ./overrides/ansiconv/1.0.0;
   };
+  ansimarkup = {
+    "2.1.0" = import ./overrides/ansimarkup/2.1.0;
+  };
   anthemav = {
     "1.4.2" = import ./overrides/anthemav/1.4.2;
   };
