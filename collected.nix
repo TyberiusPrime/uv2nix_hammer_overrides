@@ -1806,6 +1806,9 @@
   diffpy-structure = {
     "3.2.1" = import ./overrides/diffpy-structure/3.2.1;
   };
+  diffxpy = {
+    "0.7.4" = import ./overrides/diffxpy/0.7.4;
+  };
   digdictionaryextractor = {
     "0.3.0" = import ./overrides/digdictionaryextractor/0.3.0;
   };
