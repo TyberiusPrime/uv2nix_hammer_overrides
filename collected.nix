@@ -8523,6 +8523,9 @@
   smbus-cffi = {
     "0.5.1" = import ./overrides/smbus-cffi/0.5.1;
   };
+  smbus2 = {
+    "0.4.3" = import ./overrides/smbus2/0.4.3;
+  };
   smokesignal = {
     "0.7.0" = import ./overrides/smokesignal/0.7.0;
   };
