@@ -3583,6 +3583,9 @@
   hunspell = {
     "0.5.5" = import ./overrides/hunspell/0.5.5;
   };
+  hupper = {
+    "1.12.1" = import ./overrides/hupper/1.12.1;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
