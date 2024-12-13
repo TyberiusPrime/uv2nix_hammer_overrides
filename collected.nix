@@ -7279,6 +7279,9 @@
   python-card-me = {
     "0.9.3" = import ./overrides/python-card-me/0.9.3;
   };
+  python-codon-tables = {
+    "0.1.12" = import ./overrides/python-codon-tables/0.1.12;
+  };
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
   };
