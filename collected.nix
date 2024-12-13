@@ -692,6 +692,9 @@
   betamax-matchers = {
     "0.4.0" = import ./overrides/betamax-matchers/0.4.0;
   };
+  betamax-serializers = {
+    "0.2.1" = import ./overrides/betamax-serializers/0.2.1;
+  };
   betterproto = {
     "1.2.5" = import ./overrides/betterproto/1.2.5;
   };
