@@ -3225,6 +3225,9 @@
   gmusicapi = {
     "13.0.0" = import ./overrides/gmusicapi/13.0.0;
   };
+  gntp = {
+    "1.0.3" = import ./overrides/gntp/1.0.3;
+  };
   gnupg = {
     "2.3.1" = import ./overrides/gnupg/2.3.1;
   };
