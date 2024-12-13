@@ -7131,6 +7131,9 @@
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
   };
+  pysigma-backend-qradar = {
+    "0.3.3" = import ./overrides/pysigma-backend-qradar/0.3.3;
+  };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
   };
