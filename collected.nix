@@ -5887,6 +5887,9 @@
   pickledb = {
     "0.9.2" = import ./overrides/pickledb/0.9.2;
   };
+  picobox = {
+    "4.0.0" = import ./overrides/picobox/4.0.0;
+  };
   pidfile = {
     "0.1.1" = import ./overrides/pidfile/0.1.1;
   };
