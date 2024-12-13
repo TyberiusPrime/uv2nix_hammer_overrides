@@ -2803,6 +2803,9 @@
   flake8-todo = {
     "0.7" = import ./overrides/flake8-todo/0.7;
   };
+  flammkuchen = {
+    "1.0.3" = import ./overrides/flammkuchen/1.0.3;
+  };
   flanker = {
     "0.9.11" = import ./overrides/flanker/0.9.11;
   };
