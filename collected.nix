@@ -9154,6 +9154,9 @@
   tlv8 = {
     "0.10.0" = import ./overrides/tlv8/0.10.0;
   };
+  tmb = {
+    "0.1.5" = import ./overrides/tmb/0.1.5;
+  };
   toil-lib = {
     "1.1.8" = import ./overrides/toil-lib/1.1.8;
   };
