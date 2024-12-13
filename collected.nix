@@ -8051,6 +8051,9 @@
   rq = {
     "1.0" = import ./overrides/rq/1.0;
   };
+  rq-scheduler = {
+    "0.13.1" = import ./overrides/rq-scheduler/0.13.1;
+  };
   rrcf = {
     "0.4.4" = import ./overrides/rrcf/0.4.4;
   };
