@@ -7697,6 +7697,9 @@
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
+  qiniu = {
+    "7.13.2" = import ./overrides/qiniu/7.13.2;
+  };
   qiskit-aqua = {
     "0.9.5" = import ./overrides/qiskit-aqua/0.9.5;
   };
