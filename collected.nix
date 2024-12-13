@@ -172,6 +172,9 @@
     "1.3.3" = import ./overrides/alembic/1.3.3;
     "1.6.2" = import ./overrides/alembic/1.6.2;
   };
+  alembic-postgresql-enum = {
+    "1.3.0" = import ./overrides/alembic-postgresql-enum/1.3.0;
+  };
   algebra = {
     "1.2.1" = import ./overrides/algebra/1.2.1;
   };
