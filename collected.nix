@@ -1566,6 +1566,9 @@
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
+  cufflinks = {
+    "0.17.3" = import ./overrides/cufflinks/0.17.3;
+  };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
   };
