@@ -3107,6 +3107,9 @@
   gdata = {
     "2.0.18" = import ./overrides/gdata/2.0.18;
   };
+  gdist = {
+    "2.1.0" = import ./overrides/gdist/2.1.0;
+  };
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
