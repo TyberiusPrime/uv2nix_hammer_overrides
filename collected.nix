@@ -1800,6 +1800,9 @@
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
+  diff-cover = {
+    "9.2.0" = import ./overrides/diff-cover/9.2.0;
+  };
   diffimg = {
     "0.3.0" = import ./overrides/diffimg/0.3.0;
   };
