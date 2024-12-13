@@ -4607,6 +4607,9 @@
   mappy = {
     "2.28" = import ./overrides/mappy/2.28;
   };
+  mara-db = {
+    "4.11.0" = import ./overrides/mara-db/4.11.0;
+  };
   mariadb = {
     "1.1.10" = import ./overrides/mariadb/1.1.10;
   };
