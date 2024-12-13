@@ -813,6 +813,9 @@
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
+  bottle-websocket = {
+    "0.2.9" = import ./overrides/bottle-websocket/0.2.9;
+  };
   box2d-py = {
     "2.3.8" = import ./overrides/box2d-py/2.3.8;
   };
@@ -2483,6 +2486,9 @@
   };
   eebrightbox = {
     "0.0.6" = import ./overrides/eebrightbox/0.0.6;
+  };
+  eel = {
+    "0.17.0" = import ./overrides/eel/0.17.0;
   };
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
