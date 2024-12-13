@@ -464,6 +464,9 @@
   atomman = {
     "1.4.11" = import ./overrides/atomman/1.4.11;
   };
+  attacut = {
+    "1.0.6" = import ./overrides/attacut/1.0.6;
+  };
   auroranoaa = {
     "0.0.3" = import ./overrides/auroranoaa/0.0.3;
   };
