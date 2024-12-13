@@ -7949,6 +7949,9 @@
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
   };
+  rich-pixels = {
+    "3.0.1" = import ./overrides/rich-pixels/3.0.1;
+  };
   rig = {
     "2.4.1" = import ./overrides/rig/2.4.1;
   };
