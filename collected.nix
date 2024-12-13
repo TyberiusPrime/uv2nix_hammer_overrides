@@ -2700,6 +2700,9 @@
   fastuuid = {
     "0.8.0" = import ./overrides/fastuuid/0.8.0;
   };
+  fastybird-modules-metadata = {
+    "0.1.0" = import ./overrides/fastybird-modules-metadata/0.1.0;
+  };
   faust-streaming = {
     "0.11.3" = import ./overrides/faust-streaming/0.11.3;
   };
