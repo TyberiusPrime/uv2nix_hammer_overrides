@@ -3350,6 +3350,9 @@
   gsignals = {
     "0.2.1" = import ./overrides/gsignals/0.2.1;
   };
+  gspread = {
+    "6.1.2" = import ./overrides/gspread/6.1.2;
+  };
   gssapi = {
     "1.8.3" = import ./overrides/gssapi/1.8.3;
   };
