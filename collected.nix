@@ -4356,6 +4356,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  libtmux = {
+    "0.37.0" = import ./overrides/libtmux/0.37.0;
+  };
   libtools = {
     "0.4.2" = import ./overrides/libtools/0.4.2;
   };
