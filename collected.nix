@@ -6264,6 +6264,9 @@
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
+  pulumi-aws = {
+    "6.51.0" = import ./overrides/pulumi-aws/6.51.0;
+  };
   pupynere = {
     "1.0.15" = import ./overrides/pupynere/1.0.15;
   };
