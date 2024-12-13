@@ -5593,6 +5593,9 @@
   ordereddict = {
     "1.1" = import ./overrides/ordereddict/1.1;
   };
+  orderedmultidict = {
+    "1.0.1" = import ./overrides/orderedmultidict/1.0.1;
+  };
   orderedset = {
     "2.0.3" = import ./overrides/orderedset/2.0.3;
   };
