@@ -3274,6 +3274,9 @@
     "0.0.4" = import ./overrides/gpgrecord/0.0.4;
     "0.0.5" = import ./overrides/gpgrecord/0.0.5;
   };
+  gpiozero = {
+    "2.0.1" = import ./overrides/gpiozero/2.0.1;
+  };
   gplaycli = {
     "3.29" = import ./overrides/gplaycli/3.29;
   };
