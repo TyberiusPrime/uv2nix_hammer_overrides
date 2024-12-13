@@ -1925,6 +1925,9 @@
   django-concurrency = {
     "2.5" = import ./overrides/django-concurrency/2.5;
   };
+  django-contact-form = {
+    "5.1.0" = import ./overrides/django-contact-form/5.1.0;
+  };
   django-cratis = {
     "0.9.1" = import ./overrides/django-cratis/0.9.1;
   };
