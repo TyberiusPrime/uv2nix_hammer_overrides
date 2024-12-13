@@ -5064,6 +5064,9 @@
   mybad = {
     "0.2.0" = import ./overrides/mybad/0.2.0;
   };
+  mycapytain = {
+    "3.0.2" = import ./overrides/mycapytain/3.0.2;
+  };
   mypy-extensions = {
     "0.4.4" = import ./overrides/mypy-extensions/0.4.4;
   };
