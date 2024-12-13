@@ -2108,6 +2108,9 @@
   django-ranged-response = {
     "0.2.0" = import ./overrides/django-ranged-response/0.2.0;
   };
+  django-recaptcha = {
+    "4.0.0" = import ./overrides/django-recaptcha/4.0.0;
+  };
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
