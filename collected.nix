@@ -882,6 +882,9 @@
   bz2file = {
     "0.98" = import ./overrides/bz2file/0.98;
   };
+  c8connector = {
+    "0.0.32" = import ./overrides/c8connector/0.0.32;
+  };
   cachecontrol = {
     "0.12.3" = import ./overrides/cachecontrol/0.12.3;
   };
