@@ -837,6 +837,9 @@
   brightway2 = {
     "2.4.6" = import ./overrides/brightway2/2.4.6;
   };
+  brottsplatskartan = {
+    "1.0.5" = import ./overrides/brottsplatskartan/1.0.5;
+  };
   brownie = {
     "0.5.1" = import ./overrides/brownie/0.5.1;
   };
