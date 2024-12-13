@@ -2337,6 +2337,9 @@
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  dopamine-rl = {
+    "4.0.9" = import ./overrides/dopamine-rl/4.0.9;
+  };
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
@@ -3360,6 +3363,7 @@
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
   gym = {
+    "0.25.2" = import ./overrides/gym/0.25.2;
     "0.26.2" = import ./overrides/gym/0.26.2;
   };
   h2o = {
