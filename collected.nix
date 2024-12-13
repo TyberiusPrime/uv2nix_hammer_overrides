@@ -4983,6 +4983,9 @@
   mplstereonet = {
     "0.6.3" = import ./overrides/mplstereonet/0.6.3;
   };
+  mpmath = {
+    "1.3.0" = import ./overrides/mpmath/1.3.0;
+  };
   mpyq = {
     "0.2.5" = import ./overrides/mpyq/0.2.5;
   };
