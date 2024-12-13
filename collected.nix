@@ -9552,6 +9552,9 @@
   unrardll = {
     "0.1.7" = import ./overrides/unrardll/0.1.7;
   };
+  unstructured-inference = {
+    "0.7.36" = import ./overrides/unstructured-inference/0.7.36;
+  };
   unsync = {
     "1.4.0" = import ./overrides/unsync/1.4.0;
   };
