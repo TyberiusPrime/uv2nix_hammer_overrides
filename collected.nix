@@ -6599,6 +6599,9 @@
   pyephem = {
     "9.99" = import ./overrides/pyephem/9.99;
   };
+  pyerfa = {
+    "2.0.1.4" = import ./overrides/pyerfa/2.0.1.4;
+  };
   pyes = {
     "0.99.6" = import ./overrides/pyes/0.99.6;
   };
