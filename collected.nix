@@ -6087,6 +6087,9 @@
   prayer-times-calculator = {
     "0.0.12" = import ./overrides/prayer-times-calculator/0.0.12;
   };
+  pre-commit-hooks = {
+    "4.6.0" = import ./overrides/pre-commit-hooks/4.6.0;
+  };
   precise-runner = {
     "0.3.1" = import ./overrides/precise-runner/0.3.1;
   };
