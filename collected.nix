@@ -1668,6 +1668,9 @@
   dash-colorscales = {
     "0.0.4" = import ./overrides/dash-colorscales/0.0.4;
   };
+  dash-cytoscape = {
+    "1.0.2" = import ./overrides/dash-cytoscape/1.0.2;
+  };
   dash-daq = {
     "0.5.0" = import ./overrides/dash-daq/0.5.0;
   };
