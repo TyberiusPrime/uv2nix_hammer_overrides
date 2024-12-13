@@ -8628,6 +8628,9 @@
   sphinxcontrib-fulltoc = {
     "1.2.0" = import ./overrides/sphinxcontrib-fulltoc/1.2.0;
   };
+  sphinxcontrib-httpdomain = {
+    "1.8.1" = import ./overrides/sphinxcontrib-httpdomain/1.8.1;
+  };
   sphinxcontrib-issuetracker = {
     "0.11" = import ./overrides/sphinxcontrib-issuetracker/0.11;
   };
