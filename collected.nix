@@ -200,6 +200,9 @@
     "0.12.0" = import ./overrides/amazon-ion/0.12.0;
     "0.9.3" = import ./overrides/amazon-ion/0.9.3;
   };
+  amcrest = {
+    "1.9.8" = import ./overrides/amcrest/1.9.8;
+  };
   amino = {
     "13.0.1" = import ./overrides/amino/13.0.1;
   };
