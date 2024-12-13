@@ -2204,6 +2204,9 @@
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
   };
+  django-tree-queries = {
+    "0.19.0" = import ./overrides/django-tree-queries/0.19.0;
+  };
   django-treebeard = {
     "4.2.0" = import ./overrides/django-treebeard/4.2.0;
   };
