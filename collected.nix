@@ -8242,6 +8242,9 @@
   scrapeasy = {
     "0.12" = import ./overrides/scrapeasy/0.12;
   };
+  scrapy-deltafetch = {
+    "2.0.1" = import ./overrides/scrapy-deltafetch/2.0.1;
+  };
   screed = {
     "1.1.3" = import ./overrides/screed/1.1.3;
   };
