@@ -6210,6 +6210,9 @@
   protorpc = {
     "0.12.0" = import ./overrides/protorpc/0.12.0;
   };
+  prov = {
+    "2.0.1" = import ./overrides/prov/2.0.1;
+  };
   proxy-tools = {
     "0.1.0" = import ./overrides/proxy-tools/0.1.0;
   };
