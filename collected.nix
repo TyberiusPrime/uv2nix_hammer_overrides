@@ -9826,6 +9826,9 @@
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
+  weaviate-client = {
+    "4.8.0" = import ./overrides/weaviate-client/4.8.0;
+  };
   webapp2 = {
     "2.5.2" = import ./overrides/webapp2/2.5.2;
   };
