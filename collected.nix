@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  get-mac = {
+    "0.9.2" = import ./overrides/get-mac/0.9.2;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
