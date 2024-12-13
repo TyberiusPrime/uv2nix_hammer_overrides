@@ -7003,6 +7003,9 @@
   pyprel = {
     "2018.9.14.1501" = import ./overrides/pyprel/2018.9.14.1501;
   };
+  pyprobables = {
+    "0.6.0" = import ./overrides/pyprobables/0.6.0;
+  };
   pyprof2calltree = {
     "1.4.5" = import ./overrides/pyprof2calltree/1.4.5;
   };
