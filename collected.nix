@@ -9425,6 +9425,9 @@
   txredis = {
     "2.4" = import ./overrides/txredis/2.4;
   };
+  txrequests = {
+    "0.9.6" = import ./overrides/txrequests/0.9.6;
+  };
   txsuds-py3 = {
     "0.5.10" = import ./overrides/txsuds-py3/0.5.10;
   };
