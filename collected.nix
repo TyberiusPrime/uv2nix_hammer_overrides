@@ -7883,6 +7883,9 @@
   repoze-xmliter = {
     "0.6.1" = import ./overrides/repoze-xmliter/0.6.1;
   };
+  reprit = {
+    "0.9.0" = import ./overrides/reprit/0.9.0;
+  };
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
