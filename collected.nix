@@ -8918,6 +8918,9 @@
   telegram = {
     "0.0.1" = import ./overrides/telegram/0.0.1;
   };
+  telegraph = {
+    "2.2.0" = import ./overrides/telegraph/2.2.0;
+  };
   telepath = {
     "0.3.1" = import ./overrides/telepath/0.3.1;
   };
