@@ -6414,6 +6414,9 @@
   pybedtools = {
     "0.10.0" = import ./overrides/pybedtools/0.10.0;
   };
+  pybitbucket = {
+    "0.12.0" = import ./overrides/pybitbucket/0.12.0;
+  };
   pybitcoin = {
     "0.9.9" = import ./overrides/pybitcoin/0.9.9;
   };
@@ -9572,6 +9575,9 @@
   };
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
+  };
+  uritemplate = {
+    "0.6" = import ./overrides/uritemplate/0.6;
   };
   urlnorm = {
     "1.1.4" = import ./overrides/urlnorm/1.1.4;
