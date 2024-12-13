@@ -2207,6 +2207,9 @@
   django-treebeard = {
     "4.2.0" = import ./overrides/django-treebeard/4.2.0;
   };
+  django-two-factor-auth = {
+    "1.17.0" = import ./overrides/django-two-factor-auth/1.17.0;
+  };
   django-ultracache = {
     "2.2" = import ./overrides/django-ultracache/2.2;
   };
