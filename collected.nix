@@ -2303,6 +2303,9 @@
   dnsq = {
     "1.1.6" = import ./overrides/dnsq/1.1.6;
   };
+  docker-py = {
+    "1.10.6" = import ./overrides/docker-py/1.10.6;
+  };
   dockerpty = {
     "0.4.1" = import ./overrides/dockerpty/0.4.1;
   };
