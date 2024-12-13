@@ -4425,6 +4425,9 @@
   linetable = {
     "0.0.3" = import ./overrides/linetable/0.0.3;
   };
+  linkeddeepdict = {
+    "1.1.0" = import ./overrides/linkeddeepdict/1.1.0;
+  };
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
