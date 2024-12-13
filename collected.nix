@@ -1467,6 +1467,9 @@
   cppyy-backend = {
     "1.15.2" = import ./overrides/cppyy-backend/1.15.2;
   };
+  cprinter = {
+    "0.12" = import ./overrides/cprinter/0.12;
+  };
   cpycppyy = {
     "1.12.16" = import ./overrides/cpycppyy/1.12.16;
   };
