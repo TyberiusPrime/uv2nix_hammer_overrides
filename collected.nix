@@ -1782,6 +1782,9 @@
   device-detector = {
     "5.0.1" = import ./overrides/device-detector/5.0.1;
   };
+  devpi-web = {
+    "4.2.2" = import ./overrides/devpi-web/4.2.2;
+  };
   dexy = {
     "2.0.9" = import ./overrides/dexy/2.0.9;
   };
@@ -7035,6 +7038,9 @@
   };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
+  };
+  pyramid-chameleon = {
+    "0.3" = import ./overrides/pyramid-chameleon/0.3;
   };
   pyramid-deform = {
     "0.2" = import ./overrides/pyramid-deform/0.2;
