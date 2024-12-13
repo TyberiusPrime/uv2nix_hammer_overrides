@@ -3243,6 +3243,9 @@
   google-apputils = {
     "0.4.2" = import ./overrides/google-apputils/0.4.2;
   };
+  google-cloud-bigquery-datatransfer = {
+    "3.15.7" = import ./overrides/google-cloud-bigquery-datatransfer/3.15.7;
+  };
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
