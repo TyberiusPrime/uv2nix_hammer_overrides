@@ -1488,6 +1488,9 @@
   crc16 = {
     "0.1.1" = import ./overrides/crc16/0.1.1;
   };
+  crccheck = {
+    "1.3.0" = import ./overrides/crccheck/1.3.0;
+  };
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
