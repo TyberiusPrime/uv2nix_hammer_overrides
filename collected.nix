@@ -7363,6 +7363,9 @@
   python-interface = {
     "1.6.1" = import ./overrides/python-interface/1.6.1;
   };
+  python-intervals = {
+    "1.10.0.post1" = import ./overrides/python-intervals/1.10.0.post1;
+  };
   python-ioc = {
     "1.13.0" = import ./overrides/python-ioc/1.13.0;
   };
