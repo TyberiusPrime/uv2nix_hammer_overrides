@@ -527,6 +527,9 @@
   aws-psycopg2 = {
     "1.3.8" = import ./overrides/aws-psycopg2/1.3.8;
   };
+  aws-requests-auth = {
+    "0.4.3" = import ./overrides/aws-requests-auth/0.4.3;
+  };
   awscli-cwlogs = {
     "1.4.6" = import ./overrides/awscli-cwlogs/1.4.6;
   };
