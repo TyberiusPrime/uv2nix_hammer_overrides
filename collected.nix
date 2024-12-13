@@ -761,6 +761,9 @@
   bkcharts = {
     "0.2" = import ./overrides/bkcharts/0.2;
   };
+  bl = {
+    "2.4.0" = import ./overrides/bl/2.4.0;
+  };
   blackboxauditing = {
     "0.1.54" = import ./overrides/blackboxauditing/0.1.54;
   };
