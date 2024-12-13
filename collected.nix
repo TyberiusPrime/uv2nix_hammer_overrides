@@ -9443,6 +9443,9 @@
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
+  types-emoji = {
+    "2.1.0.3" = import ./overrides/types-emoji/2.1.0.3;
+  };
   typing = {
     "3.5.2.2" = import ./overrides/typing/3.5.2.2;
   };
