@@ -2000,6 +2000,9 @@
   django-iconify = {
     "0.3" = import ./overrides/django-iconify/0.3;
   };
+  django-image-cropping = {
+    "1.7" = import ./overrides/django-image-cropping/1.7;
+  };
   django-impersonate = {
     "1.9.4" = import ./overrides/django-impersonate/1.9.4;
   };
