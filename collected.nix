@@ -6063,6 +6063,9 @@
   potaahto = {
     "0.1.2" = import ./overrides/potaahto/0.1.2;
   };
+  powerline-mem-segment = {
+    "2.4.1" = import ./overrides/powerline-mem-segment/2.4.1;
+  };
   powerline-status = {
     "2.7" = import ./overrides/powerline-status/2.7;
   };
