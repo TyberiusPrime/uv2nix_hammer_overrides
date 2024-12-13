@@ -4838,6 +4838,9 @@
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
+  ml-dtypes = {
+    "0.4.0" = import ./overrides/ml-dtypes/0.4.0;
+  };
   mmcif-utils = {
     "0.28" = import ./overrides/mmcif-utils/0.28;
   };
