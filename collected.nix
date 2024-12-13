@@ -548,6 +548,9 @@
   azureml-train-automl-client = {
     "1.57.0" = import ./overrides/azureml-train-automl-client/1.57.0;
   };
+  b2sdk = {
+    "2.5.1" = import ./overrides/b2sdk/2.5.1;
+  };
   backends = {
     "1.6.6" = import ./overrides/backends/1.6.6;
   };
