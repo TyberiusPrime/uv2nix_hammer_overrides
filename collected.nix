@@ -7799,6 +7799,9 @@
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
   };
+  readme-renderer = {
+    "44.0" = import ./overrides/readme-renderer/44.0;
+  };
   readtime = {
     "3.0.0" = import ./overrides/readtime/3.0.0;
   };
