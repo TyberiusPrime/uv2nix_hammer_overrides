@@ -1716,6 +1716,9 @@
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
   };
+  dbus-fast = {
+    "2.24.2" = import ./overrides/dbus-fast/2.24.2;
+  };
   dbutils = {
     "1.3" = import ./overrides/dbutils/1.3;
   };
