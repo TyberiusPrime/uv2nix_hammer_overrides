@@ -2947,6 +2947,9 @@
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
   };
+  forecast-solar = {
+    "3.1.0" = import ./overrides/forecast-solar/3.1.0;
+  };
   formatizer = {
     "0.1.1" = import ./overrides/formatizer/0.1.1;
   };
