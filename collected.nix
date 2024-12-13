@@ -9458,6 +9458,9 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  uc-micro-py = {
+    "1.0.3" = import ./overrides/uc-micro-py/1.0.3;
+  };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
   };
