@@ -1328,6 +1328,9 @@
   commentjson = {
     "0.9.0" = import ./overrides/commentjson/0.9.0;
   };
+  commoncode = {
+    "32.0.0" = import ./overrides/commoncode/32.0.0;
+  };
   commontools = {
     "0.1.0" = import ./overrides/commontools/0.1.0;
   };
