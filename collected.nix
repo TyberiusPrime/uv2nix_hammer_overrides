@@ -7079,6 +7079,7 @@
     "0.6.13" = import ./overrides/pyroute2-core/0.6.13;
   };
   pyrsistent = {
+    "0.16.1" = import ./overrides/pyrsistent/0.16.1;
     "0.17.4rc1" = import ./overrides/pyrsistent/0.17.4rc1;
   };
   pyrss2gen = {
@@ -8710,6 +8711,9 @@
   };
   sslyze = {
     "6.0.0" = import ./overrides/sslyze/6.0.0;
+  };
+  ssz = {
+    "0.5.0" = import ./overrides/ssz/0.5.0;
   };
   starkbank-ecdsa = {
     "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
