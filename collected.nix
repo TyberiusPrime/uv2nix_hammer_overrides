@@ -2496,6 +2496,9 @@
   elasticutils = {
     "0.10.3" = import ./overrides/elasticutils/0.10.3;
   };
+  elevate = {
+    "0.1.3" = import ./overrides/elevate/0.1.3;
+  };
   eli5 = {
     "0.13.0" = import ./overrides/eli5/0.13.0;
   };
