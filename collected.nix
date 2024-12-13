@@ -3805,6 +3805,9 @@
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
   };
+  invenio-accounts = {
+    "5.1.1" = import ./overrides/invenio-accounts/5.1.1;
+  };
   invenio-github = {
     "1.5.2" = import ./overrides/invenio-github/1.5.2;
   };
