@@ -7544,6 +7544,9 @@
   pytmpdir = {
     "1.1.0" = import ./overrides/pytmpdir/1.1.0;
   };
+  pytools = {
+    "2024.1.14" = import ./overrides/pytools/2024.1.14;
+  };
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
