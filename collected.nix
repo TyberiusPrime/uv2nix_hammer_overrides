@@ -3110,6 +3110,9 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  gemfileparser = {
+    "0.8.0" = import ./overrides/gemfileparser/0.8.0;
+  };
   genpy = {
     "2022.1" = import ./overrides/genpy/2022.1;
   };
