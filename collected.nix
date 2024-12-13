@@ -8266,6 +8266,9 @@
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
+  seed-services-client = {
+    "0.37.2" = import ./overrides/seed-services-client/0.37.2;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
