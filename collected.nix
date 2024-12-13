@@ -8738,6 +8738,9 @@
   steam = {
     "1.4.4" = import ./overrides/steam/1.4.4;
   };
+  stegano = {
+    "0.11.4" = import ./overrides/stegano/0.11.4;
+  };
   stellar-base-sseclient = {
     "0.0.21" = import ./overrides/stellar-base-sseclient/0.0.21;
   };
