@@ -1244,6 +1244,9 @@
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
+  collective-autopublishing = {
+    "1.0.3" = import ./overrides/collective-autopublishing/1.0.3;
+  };
   collective-compoundcriterion = {
     "0.7" = import ./overrides/collective-compoundcriterion/0.7;
   };
@@ -1288,6 +1291,9 @@
   };
   collective-recaptcha = {
     "2.1.2" = import ./overrides/collective-recaptcha/2.1.2;
+  };
+  collective-timedevents = {
+    "1.1" = import ./overrides/collective-timedevents/1.1;
   };
   color-operations = {
     "0.1.6" = import ./overrides/color-operations/0.1.6;
