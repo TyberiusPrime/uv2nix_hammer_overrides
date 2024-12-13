@@ -6471,6 +6471,9 @@
   pycli = {
     "2.0.3" = import ./overrides/pycli/2.0.3;
   };
+  pyclts = {
+    "3.2.0" = import ./overrides/pyclts/3.2.0;
+  };
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
   };
