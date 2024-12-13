@@ -3907,6 +3907,9 @@
   jcloud = {
     "0.3" = import ./overrides/jcloud/0.3;
   };
+  jellyfin-apiclient-python = {
+    "1.10.0" = import ./overrides/jellyfin-apiclient-python/1.10.0;
+  };
   jenkins = {
     "1.0.2" = import ./overrides/jenkins/1.0.2;
   };
