@@ -596,6 +596,9 @@
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
+  base32-crockford = {
+    "0.3.0" = import ./overrides/base32-crockford/0.3.0;
+  };
   base32hex = {
     "1.0.2" = import ./overrides/base32hex/1.0.2;
   };
