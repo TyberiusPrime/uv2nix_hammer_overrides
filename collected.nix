@@ -924,6 +924,9 @@
   carto = {
     "1.11.3" = import ./overrides/carto/1.11.3;
   };
+  casbin = {
+    "1.36.3" = import ./overrides/casbin/1.36.3;
+  };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
