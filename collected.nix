@@ -6949,6 +6949,9 @@
   pyorbital = {
     "1.8.3" = import ./overrides/pyorbital/1.8.3;
   };
+  pyparam = {
+    "0.5.4" = import ./overrides/pyparam/0.5.4;
+  };
   pyparser = {
     "1.0" = import ./overrides/pyparser/1.0;
   };
