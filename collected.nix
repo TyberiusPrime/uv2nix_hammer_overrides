@@ -8613,6 +8613,9 @@
   sphinx-fortran = {
     "1.1.1" = import ./overrides/sphinx-fortran/1.1.1;
   };
+  sphinx-jinja = {
+    "2.0.2" = import ./overrides/sphinx-jinja/2.0.2;
+  };
   sphinx-serve = {
     "1.0.1" = import ./overrides/sphinx-serve/1.0.1;
   };
