@@ -2962,6 +2962,9 @@
   foundationdb = {
     "7.3.49" = import ./overrides/foundationdb/7.3.49;
   };
+  fparser = {
+    "0.1.4" = import ./overrides/fparser/0.1.4;
+  };
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
