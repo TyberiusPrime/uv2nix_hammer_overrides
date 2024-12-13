@@ -4688,6 +4688,9 @@
   megrok-pagetemplate = {
     "0.7" = import ./overrides/megrok-pagetemplate/0.7;
   };
+  megrok-z3cform-base = {
+    "0.5" = import ./overrides/megrok-z3cform-base/0.5;
+  };
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
   };
