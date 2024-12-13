@@ -138,6 +138,9 @@
   aioserial = {
     "1.3.1" = import ./overrides/aioserial/1.3.1;
   };
+  aioshutil = {
+    "1.5" = import ./overrides/aioshutil/1.5;
+  };
   aiosocks = {
     "0.2.6" = import ./overrides/aiosocks/0.2.6;
   };
