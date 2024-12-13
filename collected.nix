@@ -9883,6 +9883,9 @@
   whisper = {
     "1.1.10" = import ./overrides/whisper/1.1.10;
   };
+  whois-api = {
+    "1.2.0" = import ./overrides/whois-api/1.2.0;
+  };
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
