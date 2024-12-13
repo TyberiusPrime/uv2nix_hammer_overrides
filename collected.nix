@@ -2532,6 +2532,9 @@
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
+  env-canada = {
+    "0.7.2" = import ./overrides/env-canada/0.7.2;
+  };
   environ = {
     "1.0" = import ./overrides/environ/1.0;
   };
