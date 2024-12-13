@@ -8266,6 +8266,9 @@
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
+  segmentation-models = {
+    "1.0.1" = import ./overrides/segmentation-models/1.0.1;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
