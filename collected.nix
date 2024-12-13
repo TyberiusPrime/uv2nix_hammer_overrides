@@ -9624,6 +9624,9 @@
   uuid = {
     "1.30" = import ./overrides/uuid/1.30;
   };
+  uun-iot = {
+    "0.12.2" = import ./overrides/uun-iot/0.12.2;
+  };
   uwsgi = {
     "2.0.26" = import ./overrides/uwsgi/2.0.26;
   };
