@@ -6054,6 +6054,9 @@
   polygon3 = {
     "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
   };
+  pooch = {
+    "1.8.2" = import ./overrides/pooch/1.8.2;
+  };
   portpicker = {
     "1.3.1" = import ./overrides/portpicker/1.3.1;
   };
