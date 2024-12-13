@@ -3865,6 +3865,9 @@
   isodatetimehandler = {
     "1.0.2" = import ./overrides/isodatetimehandler/1.0.2;
   };
+  isort = {
+    "5.13.2" = import ./overrides/isort/5.13.2;
+  };
   isospecpy = {
     "2.2.2" = import ./overrides/isospecpy/2.2.2;
   };
