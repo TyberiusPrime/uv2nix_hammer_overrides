@@ -7484,6 +7484,9 @@
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
+  python-twitter = {
+    "3.5" = import ./overrides/python-twitter/3.5;
+  };
   python-uinput = {
     "1.0.1" = import ./overrides/python-uinput/1.0.1;
   };
