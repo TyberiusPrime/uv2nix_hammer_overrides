@@ -4462,6 +4462,9 @@
     "0.36.0" = import ./overrides/llvmlite/0.36.0;
     "0.41.1" = import ./overrides/llvmlite/0.41.1;
   };
+  lmdb = {
+    "1.5.1" = import ./overrides/lmdb/1.5.1;
+  };
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
