@@ -2186,6 +2186,9 @@
   django-templated-email = {
     "3.0.1" = import ./overrides/django-templated-email/3.0.1;
   };
+  django-templatetag-sugar = {
+    "1.0" = import ./overrides/django-templatetag-sugar/1.0;
+  };
   django-tenants = {
     "3.7.0" = import ./overrides/django-tenants/3.7.0;
   };
