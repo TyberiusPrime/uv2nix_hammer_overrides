@@ -1089,6 +1089,9 @@
   circum = {
     "0.0.6" = import ./overrides/circum/0.0.6;
   };
+  ckanext-toolbelt = {
+    "0.4.25" = import ./overrides/ckanext-toolbelt/0.4.25;
+  };
   ckantoolkit = {
     "0.0.7" = import ./overrides/ckantoolkit/0.0.7;
   };
