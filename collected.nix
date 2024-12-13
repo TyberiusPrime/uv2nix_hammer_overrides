@@ -10097,6 +10097,9 @@
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
+  yt-dlp = {
+    "2024.8.6" = import ./overrides/yt-dlp/2024.8.6;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
