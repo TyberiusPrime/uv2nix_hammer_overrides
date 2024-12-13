@@ -3877,6 +3877,9 @@
   iwlib = {
     "1.7.0" = import ./overrides/iwlib/1.7.0;
   };
+  j01-jsonrpc = {
+    "2.2.5" = import ./overrides/j01-jsonrpc/2.2.5;
+  };
   jabberbot = {
     "0.16" = import ./overrides/jabberbot/0.16;
   };
@@ -10105,6 +10108,12 @@
   };
   z3 = {
     "0.2.0" = import ./overrides/z3/0.2.0;
+  };
+  z3c-json = {
+    "0.5.5" = import ./overrides/z3c-json/0.5.5;
+  };
+  z3c-jsonrpc = {
+    "0.7.2" = import ./overrides/z3c-jsonrpc/0.7.2;
   };
   z3c-language-switch = {
     "1.1.0" = import ./overrides/z3c-language-switch/1.1.0;
