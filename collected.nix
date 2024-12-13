@@ -3688,6 +3688,9 @@
   imgcat = {
     "0.5.0" = import ./overrides/imgcat/0.5.0;
   };
+  imgsize = {
+    "3.0.1" = import ./overrides/imgsize/3.0.1;
+  };
   imgviz = {
     "1.7.5" = import ./overrides/imgviz/1.7.5;
   };
