@@ -5061,6 +5061,9 @@
   mutmut = {
     "2.5.1" = import ./overrides/mutmut/2.5.1;
   };
+  mwxml = {
+    "0.3.4" = import ./overrides/mwxml/0.3.4;
+  };
   mybad = {
     "0.2.0" = import ./overrides/mybad/0.2.0;
   };
