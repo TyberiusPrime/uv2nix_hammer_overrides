@@ -5347,6 +5347,9 @@
     "0.53.1" = import ./overrides/numba/0.53.1;
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
+  numdifftools = {
+    "0.9.41" = import ./overrides/numdifftools/0.9.41;
+  };
   numpy = {
     "1.20.3" = import ./overrides/numpy/1.20.3;
     "1.21.6" = import ./overrides/numpy/1.21.6;
