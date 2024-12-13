@@ -8658,6 +8658,9 @@
   splunk-sdk = {
     "2.0.2" = import ./overrides/splunk-sdk/2.0.2;
   };
+  spotpy = {
+    "1.6.2" = import ./overrides/spotpy/1.6.2;
+  };
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
   };
