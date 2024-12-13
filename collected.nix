@@ -3456,6 +3456,9 @@
   hg-evolve = {
     "11.1.4" = import ./overrides/hg-evolve/11.1.4;
   };
+  hg-git = {
+    "1.1.3" = import ./overrides/hg-git/1.1.3;
+  };
   hgapi = {
     "1.7.4" = import ./overrides/hgapi/1.7.4;
   };
