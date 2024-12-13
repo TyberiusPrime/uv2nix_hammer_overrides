@@ -6743,6 +6743,9 @@
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
+  pyinstaller-versionfile = {
+    "2.1.1" = import ./overrides/pyinstaller-versionfile/2.1.1;
+  };
   pyinsteon = {
     "1.6.3" = import ./overrides/pyinsteon/1.6.3;
   };
