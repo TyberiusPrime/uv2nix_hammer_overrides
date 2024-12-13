@@ -8180,6 +8180,9 @@
   scapy-python3 = {
     "0.26" = import ./overrides/scapy-python3/0.26;
   };
+  scatterd = {
+    "1.3.7" = import ./overrides/scatterd/1.3.7;
+  };
   sceptre-cmd-resolver = {
     "2.0.0" = import ./overrides/sceptre-cmd-resolver/2.0.0;
   };
