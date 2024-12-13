@@ -4060,6 +4060,9 @@
   jujuclient = {
     "0.54.0" = import ./overrides/jujuclient/0.54.0;
   };
+  julia = {
+    "0.6.2" = import ./overrides/julia/0.6.2;
+  };
   julian = {
     "0.14" = import ./overrides/julian/0.14;
   };
