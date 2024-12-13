@@ -888,6 +888,9 @@
   cached-ipaddress = {
     "0.5.0" = import ./overrides/cached-ipaddress/0.5.0;
   };
+  cacheout = {
+    "0.16.0" = import ./overrides/cacheout/0.16.0;
+  };
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
   };
