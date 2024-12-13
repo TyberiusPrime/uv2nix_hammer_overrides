@@ -2388,6 +2388,9 @@
   drfdocs = {
     "0.0.11" = import ./overrides/drfdocs/0.0.11;
   };
+  dscribe = {
+    "2.1.1" = import ./overrides/dscribe/2.1.1;
+  };
   dsinternals = {
     "1.2.4" = import ./overrides/dsinternals/1.2.4;
   };
