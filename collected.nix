@@ -6237,6 +6237,9 @@
   psycopg2cffi = {
     "2.9.0" = import ./overrides/psycopg2cffi/2.9.0;
   };
+  psygnal = {
+    "0.11.1" = import ./overrides/psygnal/0.11.1;
+  };
   ptable = {
     "0.9.2" = import ./overrides/ptable/0.9.2;
   };
