@@ -1530,6 +1530,9 @@
   crystalpy = {
     "0.0.23" = import ./overrides/crystalpy/0.0.23;
   };
+  crystals = {
+    "1.6.2" = import ./overrides/crystals/1.6.2;
+  };
   cs-ansi-colour = {
     "20220227" = import ./overrides/cs-ansi-colour/20220227;
   };
