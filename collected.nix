@@ -2935,6 +2935,9 @@
   flexsolve = {
     "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
+  flower = {
+    "2.0.1" = import ./overrides/flower/2.0.1;
+  };
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
