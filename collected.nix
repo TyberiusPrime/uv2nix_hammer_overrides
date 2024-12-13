@@ -2772,6 +2772,9 @@
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
   };
+  finta = {
+    "1.3" = import ./overrides/finta/1.3;
+  };
   finviz = {
     "1.4.6" = import ./overrides/finviz/1.4.6;
   };
