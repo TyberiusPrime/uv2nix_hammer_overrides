@@ -713,6 +713,9 @@
   binwalk = {
     "2.1.0" = import ./overrides/binwalk/2.1.0;
   };
+  bioc = {
+    "2.1" = import ./overrides/bioc/2.1;
+  };
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
