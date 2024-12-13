@@ -3862,6 +3862,9 @@
   iso639 = {
     "0.1.4" = import ./overrides/iso639/0.1.4;
   };
+  isodate = {
+    "0.6.1" = import ./overrides/isodate/0.6.1;
+  };
   isodatetimehandler = {
     "1.0.2" = import ./overrides/isodatetimehandler/1.0.2;
   };
