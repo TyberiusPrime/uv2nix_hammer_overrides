@@ -10109,6 +10109,9 @@
   z3c-language-switch = {
     "1.1.0" = import ./overrides/z3c-language-switch/1.1.0;
   };
+  zarr = {
+    "2.18.3" = import ./overrides/zarr/2.18.3;
+  };
   zbxsend = {
     "0.1.6" = import ./overrides/zbxsend/0.1.6;
   };
