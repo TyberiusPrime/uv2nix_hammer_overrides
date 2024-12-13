@@ -2430,6 +2430,9 @@
   dynamic-pytables-where-condition = {
     "1.1.1" = import ./overrides/dynamic-pytables-where-condition/1.1.1;
   };
+  dyools = {
+    "0.21.3" = import ./overrides/dyools/0.21.3;
+  };
   easy-config = {
     "0.2.0" = import ./overrides/easy-config/0.2.0;
   };
