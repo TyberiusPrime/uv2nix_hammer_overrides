@@ -7676,6 +7676,9 @@
   pyxl3 = {
     "1.4" = import ./overrides/pyxl3/1.4;
   };
+  pyxnat = {
+    "1.6.2" = import ./overrides/pyxnat/1.6.2;
+  };
   pyyaml = {
     "5.1.2" = import ./overrides/pyyaml/5.1.2;
     "5.3" = import ./overrides/pyyaml/5.3;
