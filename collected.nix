@@ -1110,6 +1110,9 @@
   clf = {
     "0.5.7" = import ./overrides/clf/0.5.7;
   };
+  cli-print = {
+    "3.5.1" = import ./overrides/cli-print/3.5.1;
+  };
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
   };
