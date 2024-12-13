@@ -3304,6 +3304,9 @@
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
   };
+  graphene = {
+    "3.3" = import ./overrides/graphene/3.3;
+  };
   graphene-django-optimizer = {
     "0.8.0" = import ./overrides/graphene-django-optimizer/0.8.0;
   };
