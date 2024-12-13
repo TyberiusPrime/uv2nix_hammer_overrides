@@ -53,6 +53,9 @@
   adapter-transformers = {
     "4.0.0" = import ./overrides/adapter-transformers/4.0.0;
   };
+  adaptive = {
+    "1.3.0" = import ./overrides/adaptive/1.3.0;
+  };
   adb-shell = {
     "0.4.4" = import ./overrides/adb-shell/0.4.4;
   };
