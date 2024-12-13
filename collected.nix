@@ -6450,6 +6450,9 @@
   pycddlib = {
     "2.1.8.post1" = import ./overrides/pycddlib/2.1.8.post1;
   };
+  pycep-parser = {
+    "0.4.2" = import ./overrides/pycep-parser/0.4.2;
+  };
   pycflow2dot = {
     "0.2.3" = import ./overrides/pycflow2dot/0.2.3;
   };
