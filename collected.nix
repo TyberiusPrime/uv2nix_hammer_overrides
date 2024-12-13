@@ -3787,6 +3787,9 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  intensity-normalization = {
+    "2.2.4" = import ./overrides/intensity-normalization/2.2.4;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
