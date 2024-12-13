@@ -8375,6 +8375,9 @@
   signify = {
     "0.6.1" = import ./overrides/signify/0.6.1;
   };
+  sigpy = {
+    "0.1.26" = import ./overrides/sigpy/0.1.26;
+  };
   silpa-common = {
     "0.3" = import ./overrides/silpa-common/0.3;
   };
