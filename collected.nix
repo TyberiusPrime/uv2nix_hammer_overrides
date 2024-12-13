@@ -3234,6 +3234,9 @@
   golgi = {
     "2.0.1" = import ./overrides/golgi/2.0.1;
   };
+  goodconf = {
+    "5.0.0" = import ./overrides/goodconf/5.0.0;
+  };
   google-api-python-client = {
     "1.7.11" = import ./overrides/google-api-python-client/1.7.11;
   };
