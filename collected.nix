@@ -9180,6 +9180,9 @@
     "2.4.1" = import ./overrides/torch/2.4.1;
     "2.5.1" = import ./overrides/torch/2.5.1;
   };
+  torch-quant = {
+    "0.4.0" = import ./overrides/torch-quant/0.4.0;
+  };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
   };
