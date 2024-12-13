@@ -9687,6 +9687,9 @@
   versiontools = {
     "1.9.1" = import ./overrides/versiontools/1.9.1;
   };
+  verspec = {
+    "0.1.0" = import ./overrides/verspec/0.1.0;
+  };
   veryprettytable = {
     "0.8.1" = import ./overrides/veryprettytable/0.8.1;
   };
