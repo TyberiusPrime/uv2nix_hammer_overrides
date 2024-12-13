@@ -9726,6 +9726,9 @@
   visitor = {
     "0.1.3" = import ./overrides/visitor/0.1.3;
   };
+  vispy = {
+    "0.14.3" = import ./overrides/vispy/0.14.3;
+  };
   vital-tools = {
     "0.1.13" = import ./overrides/vital-tools/0.1.13;
   };
