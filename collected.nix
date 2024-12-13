@@ -2772,6 +2772,9 @@
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
   };
+  findpython = {
+    "0.6.1" = import ./overrides/findpython/0.6.1;
+  };
   finviz = {
     "1.4.6" = import ./overrides/finviz/1.4.6;
   };
