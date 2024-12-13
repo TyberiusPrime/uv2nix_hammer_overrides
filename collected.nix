@@ -8272,6 +8272,9 @@
   self = {
     "2020.12.3" = import ./overrides/self/2020.12.3;
   };
+  semaphore-bot = {
+    "0.17.0" = import ./overrides/semaphore-bot/0.17.0;
+  };
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
