@@ -9669,6 +9669,9 @@
   vdt-versionplugin-default = {
     "0.0.3" = import ./overrides/vdt-versionplugin-default/0.0.3;
   };
+  vector-quantize-pytorch = {
+    "1.17.3" = import ./overrides/vector-quantize-pytorch/1.17.3;
+  };
   vectormath = {
     "0.2.2" = import ./overrides/vectormath/0.2.2;
   };
