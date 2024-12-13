@@ -7027,6 +7027,9 @@
   pyqt5-qt5 = {
     "5.15.15" = import ./overrides/pyqt5-qt5/5.15.15;
   };
+  pyqtgraph-for-dubble-bubble = {
+    "2016.11.2" = import ./overrides/pyqtgraph-for-dubble-bubble/2016.11.2;
+  };
   pyquerystring = {
     "1.1" = import ./overrides/pyquerystring/1.1;
   };
