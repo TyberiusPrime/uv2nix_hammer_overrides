@@ -6180,6 +6180,9 @@
   projectq = {
     "0.8.0" = import ./overrides/projectq/0.8.0;
   };
+  prometheus-flask-exporter = {
+    "0.23.1" = import ./overrides/prometheus-flask-exporter/0.23.1;
+  };
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
