@@ -8275,6 +8275,9 @@
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
+  sensirion-shdlc-driver = {
+    "0.1.5" = import ./overrides/sensirion-shdlc-driver/0.1.5;
+  };
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
