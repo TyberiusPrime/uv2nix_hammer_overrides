@@ -92,6 +92,9 @@
   aiee = {
     "0.3.2" = import ./overrides/aiee/0.3.2;
   };
+  ailment = {
+    "9.2.117" = import ./overrides/ailment/9.2.117;
+  };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
