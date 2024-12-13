@@ -6006,6 +6006,9 @@
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
+  ploy = {
+    "2.0.1" = import ./overrides/ploy/2.0.1;
+  };
   pluggy = {
     "1.5.0" = import ./overrides/pluggy/1.5.0;
   };
