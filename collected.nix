@@ -8069,6 +8069,9 @@
   rstview = {
     "0.4.0" = import ./overrides/rstview/0.4.0;
   };
+  rtfunicode = {
+    "2.0" = import ./overrides/rtfunicode/2.0;
+  };
   rtoml = {
     "0.8.0" = import ./overrides/rtoml/0.8.0;
   };
