@@ -4715,6 +4715,9 @@
   merkletools = {
     "1.0.3" = import ./overrides/merkletools/1.0.3;
   };
+  messagebox = {
+    "0.1.0" = import ./overrides/messagebox/0.1.0;
+  };
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
