@@ -6647,6 +6647,9 @@
   pyfim = {
     "6.28" = import ./overrides/pyfim/6.28;
   };
+  pyfireservicerota = {
+    "0.0.44" = import ./overrides/pyfireservicerota/0.0.44;
+  };
   pyflexit = {
     "0.3" = import ./overrides/pyflexit/0.3;
   };
