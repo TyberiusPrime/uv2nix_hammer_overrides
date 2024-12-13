@@ -10088,6 +10088,9 @@
   yoda = {
     "0.1.5" = import ./overrides/yoda/0.1.5;
   };
+  yolink-api = {
+    "0.4.7" = import ./overrides/yolink-api/0.4.7;
+  };
   yolk3k = {
     "0.9" = import ./overrides/yolk3k/0.9;
   };
