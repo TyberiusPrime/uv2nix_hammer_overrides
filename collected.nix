@@ -5982,6 +5982,9 @@
   plone-app-ldap = {
     "1.4.4" = import ./overrides/plone-app-ldap/1.4.4;
   };
+  plone-app-stagingbehavior = {
+    "0.1" = import ./overrides/plone-app-stagingbehavior/0.1;
+  };
   plone-directives-dexterity = {
     "1.0.2" = import ./overrides/plone-directives-dexterity/1.0.2;
   };
