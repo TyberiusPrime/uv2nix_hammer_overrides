@@ -2051,6 +2051,9 @@
   django-mp-pagination = {
     "0.3.0" = import ./overrides/django-mp-pagination/0.3.0;
   };
+  django-multiupload = {
+    "0.6.1" = import ./overrides/django-multiupload/0.6.1;
+  };
   django-next-prev = {
     "1.1.0" = import ./overrides/django-next-prev/1.1.0;
   };
