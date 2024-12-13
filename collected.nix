@@ -5010,6 +5010,9 @@
   msgpack-rpc-python = {
     "0.4.1" = import ./overrides/msgpack-rpc-python/0.4.1;
   };
+  msgraph-core = {
+    "1.1.3" = import ./overrides/msgraph-core/1.1.3;
+  };
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
