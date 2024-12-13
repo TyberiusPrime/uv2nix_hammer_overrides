@@ -4574,6 +4574,9 @@
   m9s-trytond = {
     "7.0.7" = import ./overrides/m9s-trytond/7.0.7;
   };
+  macaroonbakery = {
+    "1.3.4" = import ./overrides/macaroonbakery/1.3.4;
+  };
   madmom = {
     "0.16.1" = import ./overrides/madmom/0.16.1;
   };
