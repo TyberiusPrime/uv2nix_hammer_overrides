@@ -3940,6 +3940,9 @@
   jmbo = {
     "3.0.5" = import ./overrides/jmbo/3.0.5;
   };
+  jmp = {
+    "0.0.4" = import ./overrides/jmp/0.0.4;
+  };
   johnny-cache = {
     "1.4" = import ./overrides/johnny-cache/1.4;
   };
