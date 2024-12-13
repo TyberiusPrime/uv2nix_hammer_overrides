@@ -6207,6 +6207,9 @@
   protocoin = {
     "0.2" = import ./overrides/protocoin/0.2;
   };
+  protonup-ng = {
+    "0.2.1" = import ./overrides/protonup-ng/0.2.1;
+  };
   protorpc = {
     "0.12.0" = import ./overrides/protorpc/0.12.0;
   };
