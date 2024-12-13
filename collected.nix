@@ -4520,6 +4520,9 @@
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
+  longling = {
+    "1.4.3" = import ./overrides/longling/1.4.3;
+  };
   looptools = {
     "1.2.4" = import ./overrides/looptools/1.2.4;
   };
