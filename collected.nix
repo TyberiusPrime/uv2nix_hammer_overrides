@@ -8456,6 +8456,9 @@
   singleton3 = {
     "1.0" = import ./overrides/singleton3/1.0;
   };
+  sip = {
+    "6.8.6" = import ./overrides/sip/6.8.6;
+  };
   siphash = {
     "0.0.1" = import ./overrides/siphash/0.0.1;
   };
