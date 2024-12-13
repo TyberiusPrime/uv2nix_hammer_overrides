@@ -4574,6 +4574,9 @@
   m9s-trytond = {
     "7.0.7" = import ./overrides/m9s-trytond/7.0.7;
   };
+  mac-vendor-lookup = {
+    "0.1.12" = import ./overrides/mac-vendor-lookup/0.1.12;
+  };
   madmom = {
     "0.16.1" = import ./overrides/madmom/0.16.1;
   };
