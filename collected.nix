@@ -5052,6 +5052,9 @@
   music-tag = {
     "0.4.3" = import ./overrides/music-tag/0.4.3;
   };
+  musicbrainzngs = {
+    "0.7.1" = import ./overrides/musicbrainzngs/0.7.1;
+  };
   mutesync = {
     "0.0.2" = import ./overrides/mutesync/0.0.2;
   };
