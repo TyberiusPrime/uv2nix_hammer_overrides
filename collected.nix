@@ -3583,6 +3583,9 @@
   hunspell = {
     "0.5.5" = import ./overrides/hunspell/0.5.5;
   };
+  hurry-workflow = {
+    "3.0.2" = import ./overrides/hurry-workflow/3.0.2;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
