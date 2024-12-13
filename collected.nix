@@ -3423,6 +3423,9 @@
   hdl21 = {
     "6.0.0" = import ./overrides/hdl21/6.0.0;
   };
+  headerparser = {
+    "0.5.1" = import ./overrides/headerparser/0.5.1;
+  };
   headless = {
     "1.12.4" = import ./overrides/headless/1.12.4;
   };
