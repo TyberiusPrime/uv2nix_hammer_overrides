@@ -599,6 +599,9 @@
   base32hex = {
     "1.0.2" = import ./overrides/base32hex/1.0.2;
   };
+  basemap-data-hires = {
+    "1.3.2" = import ./overrides/basemap-data-hires/1.3.2;
+  };
   bash = {
     "0.6" = import ./overrides/bash/0.6;
   };
