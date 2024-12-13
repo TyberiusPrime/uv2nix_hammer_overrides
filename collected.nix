@@ -7824,6 +7824,9 @@
     "1.20" = import ./overrides/red-black-tree-mod/1.20;
     "1.22" = import ./overrides/red-black-tree-mod/1.22;
   };
+  redis-py-cluster = {
+    "2.1.3" = import ./overrides/redis-py-cluster/2.1.3;
+  };
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
