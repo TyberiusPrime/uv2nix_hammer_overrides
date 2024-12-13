@@ -1599,6 +1599,9 @@
   cydets = {
     "1.1" = import ./overrides/cydets/1.1;
   };
+  cydra = {
+    "0.2" = import ./overrides/cydra/0.2;
+  };
   cykhash = {
     "2.0.1" = import ./overrides/cykhash/2.0.1;
   };
