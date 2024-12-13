@@ -6991,6 +6991,9 @@
   pypng = {
     "0.0.19" = import ./overrides/pypng/0.0.19;
   };
+  pypoolstation = {
+    "0.5.6" = import ./overrides/pypoolstation/0.5.6;
+  };
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
   };
