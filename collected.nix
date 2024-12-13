@@ -2391,6 +2391,9 @@
   dsinternals = {
     "1.2.4" = import ./overrides/dsinternals/1.2.4;
   };
+  dsnap = {
+    "1.0.0" = import ./overrides/dsnap/1.0.0;
+  };
   dsnparse = {
     "0.2.1" = import ./overrides/dsnparse/0.2.1;
   };
