@@ -2658,6 +2658,9 @@
   factor-analyzer = {
     "0.5.1" = import ./overrides/factor-analyzer/0.5.1;
   };
+  fair-research-login = {
+    "0.3.1" = import ./overrides/fair-research-login/0.3.1;
+  };
   fairscale = {
     "0.4.13" = import ./overrides/fairscale/0.4.13;
   };
