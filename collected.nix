@@ -7814,6 +7814,9 @@
   recordclass = {
     "0.22.1" = import ./overrides/recordclass/0.22.1;
   };
+  recordtype = {
+    "1.4" = import ./overrides/recordtype/1.4;
+  };
   rectpack = {
     "0.2.2" = import ./overrides/rectpack/0.2.2;
   };
