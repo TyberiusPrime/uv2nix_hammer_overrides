@@ -8550,6 +8550,9 @@
   soappy-py3 = {
     "0.52.30" = import ./overrides/soappy-py3/0.52.30;
   };
+  socid-extractor = {
+    "0.0.26" = import ./overrides/socid-extractor/0.0.26;
+  };
   socketio-client = {
     "0.7.2" = import ./overrides/socketio-client/0.7.2;
   };
