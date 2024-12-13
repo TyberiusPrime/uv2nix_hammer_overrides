@@ -4462,6 +4462,9 @@
     "0.36.0" = import ./overrides/llvmlite/0.36.0;
     "0.41.1" = import ./overrides/llvmlite/0.41.1;
   };
+  lmfit = {
+    "1.3.2" = import ./overrides/lmfit/1.3.2;
+  };
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
