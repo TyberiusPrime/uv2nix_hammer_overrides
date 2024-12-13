@@ -1208,6 +1208,9 @@
   cmsis-svd = {
     "0.4" = import ./overrides/cmsis-svd/0.4;
   };
+  cn2an = {
+    "0.5.22" = import ./overrides/cn2an/0.5.22;
+  };
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
