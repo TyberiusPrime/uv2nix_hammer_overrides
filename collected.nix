@@ -5286,6 +5286,9 @@
   nmslib = {
     "2.1.1" = import ./overrides/nmslib/2.1.1;
   };
+  nodeenv = {
+    "1.9.1" = import ./overrides/nodeenv/1.9.1;
+  };
   nodejs = {
     "0.1.1" = import ./overrides/nodejs/0.1.1;
   };
