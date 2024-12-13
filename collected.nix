@@ -6885,6 +6885,9 @@
   pymoo = {
     "0.6.1.3" = import ./overrides/pymoo/0.6.1.3;
   };
+  pymorphy2-dicts-ru = {
+    "2.4.417127.4579844" = import ./overrides/pymorphy2-dicts-ru/2.4.417127.4579844;
+  };
   pymsgbox = {
     "1.0.9" = import ./overrides/pymsgbox/1.0.9;
   };
