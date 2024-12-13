@@ -7251,6 +7251,9 @@
   pytest-watch = {
     "4.2.0" = import ./overrides/pytest-watch/4.2.0;
   };
+  pytextspan = {
+    "0.5.7" = import ./overrides/pytextspan/0.5.7;
+  };
   pytg = {
     "0.4.10" = import ./overrides/pytg/0.4.10;
   };
