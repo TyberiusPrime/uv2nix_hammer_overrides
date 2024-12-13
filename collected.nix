@@ -3286,6 +3286,9 @@
   gpt4all = {
     "2.8.2" = import ./overrides/gpt4all/2.8.2;
   };
+  gptcache = {
+    "0.1.44" = import ./overrides/gptcache/0.1.44;
+  };
   gpustat = {
     "1.1.1" = import ./overrides/gpustat/1.1.1;
   };
