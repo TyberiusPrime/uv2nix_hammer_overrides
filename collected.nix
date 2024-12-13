@@ -915,6 +915,9 @@
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
+  caproto = {
+    "1.1.1" = import ./overrides/caproto/1.1.1;
+  };
   captain = {
     "4.5.0" = import ./overrides/captain/4.5.0;
   };
