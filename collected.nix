@@ -2108,6 +2108,9 @@
   django-ranged-response = {
     "0.2.0" = import ./overrides/django-ranged-response/0.2.0;
   };
+  django-ratelimit = {
+    "4.1.0" = import ./overrides/django-ratelimit/4.1.0;
+  };
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
