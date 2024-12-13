@@ -4889,6 +4889,9 @@
   modelcif = {
     "1.0" = import ./overrides/modelcif/1.0;
   };
+  moderngl = {
+    "5.11.1" = import ./overrides/moderngl/5.11.1;
+  };
   modestmaps = {
     "1.4.7" = import ./overrides/modestmaps/1.4.7;
   };
