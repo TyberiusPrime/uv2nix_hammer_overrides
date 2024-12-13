@@ -2472,6 +2472,9 @@
   editorium = {
     "0.0.0.30" = import ./overrides/editorium/0.0.0.30;
   };
+  edk2-pytool-library = {
+    "0.21.10" = import ./overrides/edk2-pytool-library/0.21.10;
+  };
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
