@@ -7472,6 +7472,9 @@
   python-speech-features = {
     "0.6" = import ./overrides/python-speech-features/0.6;
   };
+  python-statsd = {
+    "2.1.0" = import ./overrides/python-statsd/2.1.0;
+  };
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
