@@ -8786,6 +8786,9 @@
   stratus-api-core = {
     "0.0.30" = import ./overrides/stratus-api-core/0.0.30;
   };
+  strct = {
+    "0.0.34" = import ./overrides/strct/0.0.34;
+  };
   stream2py = {
     "1.0.42" = import ./overrides/stream2py/1.0.42;
   };
