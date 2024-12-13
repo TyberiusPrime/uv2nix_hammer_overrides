@@ -7544,6 +7544,9 @@
   pytmpdir = {
     "1.1.0" = import ./overrides/pytmpdir/1.1.0;
   };
+  pytorch-pretrained-bert = {
+    "0.6.2" = import ./overrides/pytorch-pretrained-bert/0.6.2;
+  };
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
   };
