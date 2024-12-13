@@ -5328,6 +5328,9 @@
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
+  nosexcover = {
+    "1.0.11" = import ./overrides/nosexcover/1.0.11;
+  };
   notmuch2 = {
     "0.1" = import ./overrides/notmuch2/0.1;
   };
