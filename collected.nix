@@ -4724,6 +4724,9 @@
   metadir = {
     "0.0.2" = import ./overrides/metadir/0.0.2;
   };
+  metadsl = {
+    "0.4.0" = import ./overrides/metadsl/0.4.0;
+  };
   metaform = {
     "1.0.2.4" = import ./overrides/metaform/1.0.2.4;
   };
