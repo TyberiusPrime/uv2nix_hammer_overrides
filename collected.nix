@@ -2340,6 +2340,9 @@
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
+  dotty-dict = {
+    "1.3.0" = import ./overrides/dotty-dict/1.3.0;
+  };
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
   };
@@ -9271,6 +9274,9 @@
   };
   tpdcc-libs-resources = {
     "0.0.2" = import ./overrides/tpdcc-libs-resources/0.0.2;
+  };
+  tracardi-dot-notation = {
+    "0.6.7" = import ./overrides/tracardi-dot-notation/0.6.7;
   };
   tracing = {
     "0.1.3" = import ./overrides/tracing/0.1.3;
