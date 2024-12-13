@@ -1605,6 +1605,9 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  cytoolz = {
+    "0.12.3" = import ./overrides/cytoolz/0.12.3;
+  };
   d8s-dicts = {
     "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
   };
