@@ -1773,6 +1773,9 @@
   demjson3 = {
     "3.0.6" = import ./overrides/demjson3/3.0.6;
   };
+  dep-logic = {
+    "0.4.5" = import ./overrides/dep-logic/0.4.5;
+  };
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
