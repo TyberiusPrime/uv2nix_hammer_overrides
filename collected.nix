@@ -2436,6 +2436,9 @@
   easycli = {
     "1.9.3" = import ./overrides/easycli/1.9.3;
   };
+  easyenergy = {
+    "2.1.2" = import ./overrides/easyenergy/2.1.2;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
