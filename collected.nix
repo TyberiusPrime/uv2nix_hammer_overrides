@@ -4961,6 +4961,9 @@
   moznetwork = {
     "1.1.0" = import ./overrides/moznetwork/1.1.0;
   };
+  mozprocess = {
+    "1.4.0" = import ./overrides/mozprocess/1.4.0;
+  };
   mozprofile = {
     "3.0.0" = import ./overrides/mozprofile/3.0.0;
   };
