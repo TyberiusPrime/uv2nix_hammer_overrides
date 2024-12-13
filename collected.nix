@@ -5684,6 +5684,9 @@
   pandas-ml-common = {
     "0.2.7" = import ./overrides/pandas-ml-common/0.2.7;
   };
+  pandas-stubs = {
+    "2.2.2.240909" = import ./overrides/pandas-stubs/2.2.2.240909;
+  };
   pandasql = {
     "0.7.3" = import ./overrides/pandasql/0.7.3;
   };
