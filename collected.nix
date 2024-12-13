@@ -4229,6 +4229,9 @@
   lac = {
     "2.1.2" = import ./overrides/lac/2.1.2;
   };
+  ladybug-core = {
+    "0.43.4" = import ./overrides/ladybug-core/0.43.4;
+  };
   landez = {
     "2.5.0" = import ./overrides/landez/2.5.0;
   };
