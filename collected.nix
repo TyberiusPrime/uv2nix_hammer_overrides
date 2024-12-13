@@ -707,6 +707,9 @@
   binary2strings = {
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
+  binho-host-adapter = {
+    "0.1.6" = import ./overrides/binho-host-adapter/0.1.6;
+  };
   bintrees = {
     "2.2.0" = import ./overrides/bintrees/2.2.0;
   };
