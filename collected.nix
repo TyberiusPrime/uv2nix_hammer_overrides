@@ -2670,6 +2670,9 @@
   fancyimpute = {
     "0.7.0" = import ./overrides/fancyimpute/0.7.0;
   };
+  farm-haystack = {
+    "1.26.3" = import ./overrides/farm-haystack/1.26.3;
+  };
   fasta-reader = {
     "3.0.3" = import ./overrides/fasta-reader/3.0.3;
   };
