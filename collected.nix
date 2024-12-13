@@ -9488,6 +9488,9 @@
   undetected-chromedriver = {
     "3.5.5" = import ./overrides/undetected-chromedriver/3.5.5;
   };
+  unicode = {
+    "2.9" = import ./overrides/unicode/2.9;
+  };
   unicodecsv = {
     "0.14.1" = import ./overrides/unicodecsv/0.14.1;
   };
