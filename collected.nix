@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  georss-wa-dfes-client = {
+    "0.4" = import ./overrides/georss-wa-dfes-client/0.4;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
