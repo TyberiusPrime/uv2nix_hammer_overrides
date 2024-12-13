@@ -4505,6 +4505,9 @@
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
   };
+  logme = {
+    "1.3.2" = import ./overrides/logme/1.3.2;
+  };
   logstash-formatter = {
     "0.5.17" = import ./overrides/logstash-formatter/0.5.17;
   };
