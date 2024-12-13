@@ -9669,6 +9669,9 @@
   vdt-versionplugin-default = {
     "0.0.3" = import ./overrides/vdt-versionplugin-default/0.0.3;
   };
+  vecmaths = {
+    "0.1.6" = import ./overrides/vecmaths/0.1.6;
+  };
   vectormath = {
     "0.2.2" = import ./overrides/vectormath/0.2.2;
   };
