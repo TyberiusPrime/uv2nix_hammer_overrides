@@ -8477,6 +8477,9 @@
   sktime = {
     "0.26.0" = import ./overrides/sktime/0.26.0;
   };
+  skytemple-rust = {
+    "1.8.2" = import ./overrides/skytemple-rust/1.8.2;
+  };
   slackclient = {
     "0.16" = import ./overrides/slackclient/0.16;
   };
