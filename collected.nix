@@ -9169,6 +9169,9 @@
   toolkity = {
     "1.9.5" = import ./overrides/toolkity/1.9.5;
   };
+  toolrack = {
+    "4.0.0" = import ./overrides/toolrack/4.0.0;
+  };
   tools = {
     "0.1.9" = import ./overrides/tools/0.1.9;
   };
