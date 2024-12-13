@@ -4598,6 +4598,9 @@
   mandrill = {
     "1.0.60" = import ./overrides/mandrill/1.0.60;
   };
+  mangum = {
+    "0.17.0" = import ./overrides/mangum/0.17.0;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
