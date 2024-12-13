@@ -10148,6 +10148,9 @@
   zhconv = {
     "1.4.3" = import ./overrides/zhconv/1.4.3;
   };
+  zigpy-homeassistant = {
+    "0.19.0" = import ./overrides/zigpy-homeassistant/0.19.0;
+  };
   zipseeker = {
     "1.0.11" = import ./overrides/zipseeker/1.0.11;
   };
