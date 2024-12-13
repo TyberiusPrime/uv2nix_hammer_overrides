@@ -3332,6 +3332,9 @@
   grpcio = {
     "1.57.0" = import ./overrides/grpcio/1.57.0;
   };
+  grpcio-tools = {
+    "1.56.2" = import ./overrides/grpcio-tools/1.56.2;
+  };
   grpclib = {
     "0.4.7" = import ./overrides/grpclib/0.4.7;
   };
@@ -7774,6 +7777,9 @@
   };
   rapidtables = {
     "0.1.11" = import ./overrides/rapidtables/0.1.11;
+  };
+  rasa-sdk = {
+    "3.10.0" = import ./overrides/rasa-sdk/3.10.0;
   };
   rask = {
     "0.1.5" = import ./overrides/rask/0.1.5;
