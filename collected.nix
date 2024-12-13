@@ -8063,6 +8063,9 @@
   rsl-xsd = {
     "0.2.4" = import ./overrides/rsl-xsd/0.2.4;
   };
+  rst2ansi = {
+    "0.1.5" = import ./overrides/rst2ansi/0.1.5;
+  };
   rstgen = {
     "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
