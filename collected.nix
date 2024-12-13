@@ -795,6 +795,9 @@
   bluepy = {
     "1.3.0" = import ./overrides/bluepy/1.3.0;
   };
+  bluetooth-sensor-state-data = {
+    "1.7.1" = import ./overrides/bluetooth-sensor-state-data/1.7.1;
+  };
   bmipy = {
     "2.0.1" = import ./overrides/bmipy/2.0.1;
   };
