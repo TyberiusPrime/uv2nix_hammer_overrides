@@ -7520,6 +7520,9 @@
   python3-modargs = {
     "2.0.2" = import ./overrides/python3-modargs/2.0.2;
   };
+  python3-saml = {
+    "1.16.0" = import ./overrides/python3-saml/1.16.0;
+  };
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
   };
