@@ -8024,6 +8024,9 @@
   rova = {
     "0.4.1" = import ./overrides/rova/0.4.1;
   };
+  rowgenerators = {
+    "0.9.26" = import ./overrides/rowgenerators/0.9.26;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
