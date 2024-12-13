@@ -2328,6 +2328,9 @@
   document = {
     "1.0" = import ./overrides/document/1.0;
   };
+  documented = {
+    "0.1.4" = import ./overrides/documented/0.1.4;
+  };
   docx = {
     "0.2.4" = import ./overrides/docx/0.2.4;
   };
