@@ -1193,6 +1193,9 @@
   cmapy = {
     "0.6.6" = import ./overrides/cmapy/0.6.6;
   };
+  cmarkgfm = {
+    "2024.1.14" = import ./overrides/cmarkgfm/2024.1.14;
+  };
   cmdline = {
     "0.2.0" = import ./overrides/cmdline/0.2.0;
   };
