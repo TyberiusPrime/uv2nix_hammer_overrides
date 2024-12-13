@@ -1861,6 +1861,9 @@
   dj-static = {
     "0.0.6" = import ./overrides/dj-static/0.0.6;
   };
+  django-activity-stream = {
+    "2.0.0" = import ./overrides/django-activity-stream/2.0.0;
+  };
   django-admin-extra-buttons = {
     "1.5.8" = import ./overrides/django-admin-extra-buttons/1.5.8;
   };
