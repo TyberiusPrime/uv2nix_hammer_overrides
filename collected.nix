@@ -4347,6 +4347,9 @@
   libregf-python = {
     "20240421" = import ./overrides/libregf-python/20240421;
   };
+  librespot = {
+    "0.0.9" = import ./overrides/librespot/0.0.9;
+  };
   librouteros = {
     "3.2.1" = import ./overrides/librouteros/3.2.1;
   };
