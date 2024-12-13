@@ -2562,6 +2562,9 @@
   espeak-phonemizer = {
     "1.3.1" = import ./overrides/espeak-phonemizer/1.3.1;
   };
+  esper = {
+    "3.3" = import ./overrides/esper/3.3;
+  };
   esprima = {
     "4.0.1" = import ./overrides/esprima/4.0.1;
   };
