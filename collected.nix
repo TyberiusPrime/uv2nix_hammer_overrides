@@ -8831,6 +8831,9 @@
   suds-py3 = {
     "1.4.1.0" = import ./overrides/suds-py3/1.4.1.0;
   };
+  sumologic-sdk = {
+    "0.1.17" = import ./overrides/sumologic-sdk/0.1.17;
+  };
   sunburnt = {
     "0.6" = import ./overrides/sunburnt/0.6;
   };
