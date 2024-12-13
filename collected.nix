@@ -7254,6 +7254,9 @@
   pytg = {
     "0.4.10" = import ./overrides/pytg/0.4.10;
   };
+  python-aiml = {
+    "0.9.3" = import ./overrides/python-aiml/0.9.3;
+  };
   python-alipay-sdk = {
     "3.3.0" = import ./overrides/python-alipay-sdk/3.3.0;
   };
