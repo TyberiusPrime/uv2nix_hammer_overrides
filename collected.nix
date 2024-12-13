@@ -6587,6 +6587,9 @@
   pyeclib = {
     "1.6.1" = import ./overrides/pyeclib/1.6.1;
   };
+  pyecore = {
+    "0.15.1" = import ./overrides/pyecore/0.15.1;
+  };
   pyecowitt = {
     "0.21" = import ./overrides/pyecowitt/0.21;
   };
