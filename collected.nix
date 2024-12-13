@@ -3405,6 +3405,9 @@
   happybase = {
     "1.2.0" = import ./overrides/happybase/1.2.0;
   };
+  har2case = {
+    "0.3.1" = import ./overrides/har2case/0.3.1;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
