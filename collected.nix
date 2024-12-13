@@ -8192,6 +8192,9 @@
   schiene = {
     "0.26" = import ./overrides/schiene/0.26;
   };
+  scholarly = {
+    "1.7.11" = import ./overrides/scholarly/1.7.11;
+  };
   sciencedates = {
     "1.5.0" = import ./overrides/sciencedates/1.5.0;
   };
