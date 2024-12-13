@@ -3688,6 +3688,9 @@
   imgcat = {
     "0.5.0" = import ./overrides/imgcat/0.5.0;
   };
+  imgurpython = {
+    "1.1.7" = import ./overrides/imgurpython/1.1.7;
+  };
   imgviz = {
     "1.7.5" = import ./overrides/imgviz/1.7.5;
   };
