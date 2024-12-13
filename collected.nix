@@ -7224,6 +7224,9 @@
   pytest-expect = {
     "1.1.0" = import ./overrides/pytest-expect/1.1.0;
   };
+  pytest-freezegun = {
+    "0.4.2" = import ./overrides/pytest-freezegun/0.4.2;
+  };
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
   };
