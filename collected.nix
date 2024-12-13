@@ -4356,6 +4356,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  libsoundtouch = {
+    "0.8.0" = import ./overrides/libsoundtouch/0.8.0;
+  };
   libtools = {
     "0.4.2" = import ./overrides/libtools/0.4.2;
   };
