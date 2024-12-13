@@ -8550,6 +8550,9 @@
   soappy-py3 = {
     "0.52.30" = import ./overrides/soappy-py3/0.52.30;
   };
+  social-auth-core = {
+    "4.5.4" = import ./overrides/social-auth-core/4.5.4;
+  };
   socketio-client = {
     "0.7.2" = import ./overrides/socketio-client/0.7.2;
   };
