@@ -593,6 +593,9 @@
   bar = {
     "0.2.1" = import ./overrides/bar/0.2.1;
   };
+  bardapi = {
+    "1.0.0" = import ./overrides/bardapi/1.0.0;
+  };
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
