@@ -6560,6 +6560,9 @@
   pydevccu = {
     "0.1.8" = import ./overrides/pydevccu/0.1.8;
   };
+  pydevd-odoo = {
+    "1.2.2" = import ./overrides/pydevd-odoo/1.2.2;
+  };
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
