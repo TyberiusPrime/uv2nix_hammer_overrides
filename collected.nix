@@ -7245,6 +7245,9 @@
   pytest-services = {
     "2.2.1" = import ./overrides/pytest-services/2.2.1;
   };
+  pytest-skip-slow = {
+    "0.0.5" = import ./overrides/pytest-skip-slow/0.0.5;
+  };
   pytest-subtesthack = {
     "0.2.0" = import ./overrides/pytest-subtesthack/0.2.0;
   };
