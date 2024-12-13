@@ -683,6 +683,9 @@
   bernhard = {
     "0.2.6" = import ./overrides/bernhard/0.2.6;
   };
+  bert-tensorflow = {
+    "1.0.4" = import ./overrides/bert-tensorflow/1.0.4;
+  };
   bert4keras = {
     "0.11.5" = import ./overrides/bert4keras/0.11.5;
   };
