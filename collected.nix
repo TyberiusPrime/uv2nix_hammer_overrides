@@ -8024,6 +8024,9 @@
   rova = {
     "0.4.1" = import ./overrides/rova/0.4.1;
   };
+  rowan = {
+    "1.3.0.post1" = import ./overrides/rowan/1.3.0.post1;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
