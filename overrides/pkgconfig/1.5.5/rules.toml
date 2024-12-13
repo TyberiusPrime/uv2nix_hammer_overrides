@@ -1,0 +1,2 @@
+BuildSystems = [ "poetry-core",]
+NativeBuildInputs = [ "~literal:!:pkgs.pkg-config",]
