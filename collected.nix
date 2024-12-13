@@ -695,6 +695,9 @@
   betterproto = {
     "1.2.5" = import ./overrides/betterproto/1.2.5;
   };
+  beziers = {
+    "0.6.0" = import ./overrides/beziers/0.6.0;
+  };
   bgconfig = {
     "0.10" = import ./overrides/bgconfig/0.10;
   };
