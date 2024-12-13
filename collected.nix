@@ -3679,6 +3679,9 @@
   imageio = {
     "2.1.2" = import ./overrides/imageio/2.1.2;
   };
+  imagesize = {
+    "1.4.1" = import ./overrides/imagesize/1.4.1;
+  };
   imantics = {
     "0.1.12" = import ./overrides/imantics/0.1.12;
   };
