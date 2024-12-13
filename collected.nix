@@ -1503,6 +1503,9 @@
   crlibm = {
     "1.0.3" = import ./overrides/crlibm/1.0.3;
   };
+  crochet = {
+    "2.1.1" = import ./overrides/crochet/2.1.1;
+  };
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
