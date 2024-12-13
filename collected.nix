@@ -8263,6 +8263,9 @@
   sdnotify = {
     "0.3.2" = import ./overrides/sdnotify/0.3.2;
   };
+  sdss-clu = {
+    "2.2.7" = import ./overrides/sdss-clu/2.2.7;
+  };
   seantis-plonetools = {
     "0.18" = import ./overrides/seantis-plonetools/0.18;
   };
