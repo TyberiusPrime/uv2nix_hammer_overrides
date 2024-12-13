@@ -6746,6 +6746,9 @@
   pyinsteon = {
     "1.6.3" = import ./overrides/pyinsteon/1.6.3;
   };
+  pyinstrument = {
+    "4.7.3" = import ./overrides/pyinstrument/4.7.3;
+  };
   pyinterval = {
     "1.2.0" = import ./overrides/pyinterval/1.2.0;
   };
