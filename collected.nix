@@ -7724,6 +7724,9 @@
   quantile-python = {
     "1.1" = import ./overrides/quantile-python/1.1;
   };
+  quantiphy-eval = {
+    "0.5.0" = import ./overrides/quantiphy-eval/0.5.0;
+  };
   quantiphyse-fabber = {
     "0.9.2" = import ./overrides/quantiphyse-fabber/0.9.2;
   };
