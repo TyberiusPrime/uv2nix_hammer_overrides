@@ -6249,6 +6249,9 @@
   ptflops = {
     "0.6.9" = import ./overrides/ptflops/0.6.9;
   };
+  ptyprocess = {
+    "0.7.0" = import ./overrides/ptyprocess/0.7.0;
+  };
   pubchempy = {
     "1.0.4" = import ./overrides/pubchempy/1.0.4;
   };
