@@ -3616,6 +3616,9 @@
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
   };
+  i3ipc = {
+    "2.2.1" = import ./overrides/i3ipc/2.2.1;
+  };
   iapws = {
     "1.5.4" = import ./overrides/iapws/1.5.4;
   };
