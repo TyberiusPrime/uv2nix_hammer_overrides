@@ -6846,6 +6846,9 @@
   pymarktex = {
     "1.4.6" = import ./overrides/pymarktex/1.4.6;
   };
+  pymata-express = {
+    "1.21" = import ./overrides/pymata-express/1.21;
+  };
   pymatsolver = {
     "0.2.0" = import ./overrides/pymatsolver/0.2.0;
   };
