@@ -5666,6 +5666,9 @@
   pairtree = {
     "0.8.1" = import ./overrides/pairtree/0.8.1;
   };
+  panasonic-viera = {
+    "0.4.2" = import ./overrides/panasonic-viera/0.4.2;
+  };
   panda3d = {
     "1.10.15" = import ./overrides/panda3d/1.10.15;
   };
