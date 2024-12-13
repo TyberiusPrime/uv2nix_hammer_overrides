@@ -2787,6 +2787,9 @@
   fitsio = {
     "1.2.4" = import ./overrides/fitsio/1.2.4;
   };
+  fivem-api = {
+    "0.1.2" = import ./overrides/fivem-api/0.1.2;
+  };
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };
