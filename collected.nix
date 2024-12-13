@@ -5955,6 +5955,9 @@
   pkuseg = {
     "0.0.25" = import ./overrides/pkuseg/0.0.25;
   };
+  plac = {
+    "1.4.3" = import ./overrides/plac/1.4.3;
+  };
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
   };
