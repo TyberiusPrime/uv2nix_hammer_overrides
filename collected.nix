@@ -8211,6 +8211,9 @@
     "0.24.2" = import ./overrides/scikit-learn/0.24.2;
     "1.2.2" = import ./overrides/scikit-learn/1.2.2;
   };
+  scikit-lego = {
+    "0.9.1" = import ./overrides/scikit-lego/0.9.1;
+  };
   scikit-surgerycore = {
     "0.7.2" = import ./overrides/scikit-surgerycore/0.7.2;
   };
