@@ -7763,6 +7763,9 @@
   radiotherm = {
     "2.1.0" = import ./overrides/radiotherm/2.1.0;
   };
+  radish-bdd = {
+    "0.17.1" = import ./overrides/radish-bdd/0.17.1;
+  };
   rainbow-logging-handler = {
     "2.2.2" = import ./overrides/rainbow-logging-handler/2.2.2;
   };
