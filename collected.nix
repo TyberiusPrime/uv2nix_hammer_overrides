@@ -8604,6 +8604,9 @@
   sphfile = {
     "1.0.3" = import ./overrides/sphfile/1.0.3;
   };
+  sphinx-autoapi = {
+    "3.3.1" = import ./overrides/sphinx-autoapi/3.3.1;
+  };
   sphinx-autodoc-annotation = {
     "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
   };
