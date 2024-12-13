@@ -9311,6 +9311,9 @@
   tree-format = {
     "0.1.2" = import ./overrides/tree-format/0.1.2;
   };
+  treetaggerwrapper = {
+    "2.3" = import ./overrides/treetaggerwrapper/2.3;
+  };
   trello = {
     "0.9.7.3" = import ./overrides/trello/0.9.7.3;
   };
