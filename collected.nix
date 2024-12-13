@@ -3198,6 +3198,9 @@
   giturlparse-py = {
     "0.0.5" = import ./overrides/giturlparse-py/0.0.5;
   };
+  glad = {
+    "0.1.36" = import ./overrides/glad/0.1.36;
+  };
   glob2 = {
     "0.7" = import ./overrides/glob2/0.7;
   };
