@@ -4100,6 +4100,7 @@
     "0.3.3" = import ./overrides/kanilog/0.3.3;
   };
   kappa = {
+    "0.6.0" = import ./overrides/kappa/0.6.0;
     "0.7.0" = import ./overrides/kappa/0.7.0;
   };
   kavenegar = {
@@ -5957,6 +5958,7 @@
   };
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
+    "0.9.0" = import ./overrides/placebo/0.9.0;
   };
   plaid-python = {
     "25.0.0" = import ./overrides/plaid-python/25.0.0;
@@ -10108,6 +10110,9 @@
   };
   z3c-language-switch = {
     "1.1.0" = import ./overrides/z3c-language-switch/1.1.0;
+  };
+  zappa = {
+    "0.59.0" = import ./overrides/zappa/0.59.0;
   };
   zbxsend = {
     "0.1.6" = import ./overrides/zbxsend/0.1.6;
