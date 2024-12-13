@@ -6716,6 +6716,9 @@
   pygrok = {
     "1.0.0" = import ./overrides/pygrok/1.0.0;
   };
+  pygubu = {
+    "0.35.5" = import ./overrides/pygubu/0.35.5;
+  };
   pyhashxx = {
     "0.1.3" = import ./overrides/pyhashxx/0.1.3;
   };
