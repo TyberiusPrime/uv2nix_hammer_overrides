@@ -9943,6 +9943,9 @@
   wsgicors = {
     "0.7.0" = import ./overrides/wsgicors/0.7.0;
   };
+  wsgiprox = {
+    "1.5.2" = import ./overrides/wsgiprox/1.5.2;
+  };
   wsgitools = {
     "0.3.1" = import ./overrides/wsgitools/0.3.1;
   };
