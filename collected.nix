@@ -6740,6 +6740,9 @@
   pyimpfuzzy = {
     "0.5" = import ./overrides/pyimpfuzzy/0.5;
   };
+  pyinfra = {
+    "3.1" = import ./overrides/pyinfra/3.1;
+  };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
