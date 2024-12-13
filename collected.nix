@@ -2337,6 +2337,12 @@
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  dolmen-content = {
+    "0.7.1" = import ./overrides/dolmen-content/0.7.1;
+  };
+  dolmen-field = {
+    "0.3" = import ./overrides/dolmen-field/0.3;
+  };
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
