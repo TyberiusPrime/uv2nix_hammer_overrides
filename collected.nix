@@ -5208,6 +5208,9 @@
   nextcord = {
     "2.6.0" = import ./overrides/nextcord/2.6.0;
   };
+  nfcpy = {
+    "1.0.4" = import ./overrides/nfcpy/1.0.4;
+  };
   nflows = {
     "0.14" = import ./overrides/nflows/0.14;
   };
