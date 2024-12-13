@@ -4425,6 +4425,9 @@
   linetable = {
     "0.0.3" = import ./overrides/linetable/0.0.3;
   };
+  lingua = {
+    "4.15.0" = import ./overrides/lingua/4.15.0;
+  };
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
