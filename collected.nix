@@ -1367,6 +1367,9 @@
   confutil = {
     "0.1.4" = import ./overrides/confutil/0.1.4;
   };
+  conllu = {
+    "5.0.1" = import ./overrides/conllu/5.0.1;
+  };
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
   };
