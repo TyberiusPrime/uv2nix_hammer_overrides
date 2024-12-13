@@ -2938,6 +2938,9 @@
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
+  fnv-hash-fast = {
+    "1.0.2" = import ./overrides/fnv-hash-fast/1.0.2;
+  };
   fnvhash = {
     "0.1.0" = import ./overrides/fnvhash/0.1.0;
   };
