@@ -8217,6 +8217,9 @@
   scikit-surgeryimage = {
     "0.10.1" = import ./overrides/scikit-surgeryimage/0.10.1;
   };
+  scim2-filter-parser = {
+    "0.7.0" = import ./overrides/scim2-filter-parser/0.7.0;
+  };
   scipy = {
     "1.10.1" = import ./overrides/scipy/1.10.1;
     "1.6.1" = import ./overrides/scipy/1.6.1;
