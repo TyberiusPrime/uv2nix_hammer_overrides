@@ -4493,6 +4493,9 @@
   logger = {
     "1.4" = import ./overrides/logger/1.4;
   };
+  logger-local = {
+    "0.0.166" = import ./overrides/logger-local/0.0.166;
+  };
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
