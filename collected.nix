@@ -6315,6 +6315,9 @@
   py-getch = {
     "1.0.1" = import ./overrides/py-getch/1.0.1;
   };
+  py-gql-client = {
+    "1.0.1" = import ./overrides/py-gql-client/1.0.1;
+  };
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
