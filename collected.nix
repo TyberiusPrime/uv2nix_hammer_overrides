@@ -9615,6 +9615,9 @@
   utils = {
     "1.0.2" = import ./overrides/utils/1.0.2;
   };
+  utils-flask-sqlalchemy = {
+    "0.4.1" = import ./overrides/utils-flask-sqlalchemy/0.4.1;
+  };
   utilum = {
     "0.1.3" = import ./overrides/utilum/0.1.3;
   };
