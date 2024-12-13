@@ -3228,6 +3228,9 @@
   gnupg = {
     "2.3.1" = import ./overrides/gnupg/2.3.1;
   };
+  gnureadline = {
+    "8.2.10" = import ./overrides/gnureadline/8.2.10;
+  };
   go-http = {
     "0.3.2" = import ./overrides/go-http/0.3.2;
   };
