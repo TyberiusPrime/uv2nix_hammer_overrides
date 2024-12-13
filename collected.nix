@@ -9002,6 +9002,9 @@
   testit-api-client = {
     "4.0.0" = import ./overrides/testit-api-client/4.0.0;
   };
+  testrail-api = {
+    "1.13.2" = import ./overrides/testrail-api/1.13.2;
+  };
   text-to-image = {
     "0.0.5" = import ./overrides/text-to-image/0.0.5;
   };
