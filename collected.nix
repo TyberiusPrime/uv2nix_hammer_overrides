@@ -3408,6 +3408,9 @@
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
+  hashfs = {
+    "0.7.2" = import ./overrides/hashfs/0.7.2;
+  };
   hbmqtt = {
     "0.9.6" = import ./overrides/hbmqtt/0.9.6;
   };
