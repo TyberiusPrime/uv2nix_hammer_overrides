@@ -9892,6 +9892,9 @@
   wikipedia-api = {
     "0.7.1" = import ./overrides/wikipedia-api/0.7.1;
   };
+  win32-setctime = {
+    "1.1.0" = import ./overrides/win32-setctime/1.1.0;
+  };
   windpowerlib = {
     "0.0.4" = import ./overrides/windpowerlib/0.0.4;
   };
