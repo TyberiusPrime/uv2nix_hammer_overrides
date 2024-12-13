@@ -2754,6 +2754,9 @@
   fil3s = {
     "2.15.9" = import ./overrides/fil3s/2.15.9;
   };
+  file-magic = {
+    "0.4.1" = import ./overrides/file-magic/0.4.1;
+  };
   filebytes = {
     "0.10.2" = import ./overrides/filebytes/0.10.2;
   };
