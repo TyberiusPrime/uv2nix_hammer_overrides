@@ -2983,6 +2983,9 @@
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
+  fritzconnection = {
+    "1.14.0" = import ./overrides/fritzconnection/1.14.0;
+  };
   frontmatter = {
     "3.0.8" = import ./overrides/frontmatter/3.0.8;
   };
