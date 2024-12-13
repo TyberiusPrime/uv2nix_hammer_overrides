@@ -2385,6 +2385,9 @@
   drf-generators = {
     "0.5.0" = import ./overrides/drf-generators/0.5.0;
   };
+  drf-nested-routers = {
+    "0.94.1" = import ./overrides/drf-nested-routers/0.94.1;
+  };
   drfdocs = {
     "0.0.11" = import ./overrides/drfdocs/0.0.11;
   };
