@@ -3347,6 +3347,9 @@
   grvlms-openedx = {
     "1.0.6" = import ./overrides/grvlms-openedx/1.0.6;
   };
+  gsheets = {
+    "0.6.1" = import ./overrides/gsheets/0.6.1;
+  };
   gsignals = {
     "0.2.1" = import ./overrides/gsignals/0.2.1;
   };
