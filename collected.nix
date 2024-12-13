@@ -5441,6 +5441,9 @@
   odo = {
     "0.5.0" = import ./overrides/odo/0.5.0;
   };
+  oelint-parser = {
+    "4.0.1" = import ./overrides/oelint-parser/4.0.1;
+  };
   offsetbasedgraph = {
     "2.1.4" = import ./overrides/offsetbasedgraph/2.1.4;
   };
