@@ -4691,6 +4691,9 @@
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
   };
+  meld3 = {
+    "2.0.1" = import ./overrides/meld3/2.0.1;
+  };
   memoization = {
     "0.4.0" = import ./overrides/memoization/0.4.0;
   };
