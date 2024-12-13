@@ -5818,6 +5818,9 @@
   perdy = {
     "1.12" = import ./overrides/perdy/1.12;
   };
+  performer-pytorch = {
+    "1.1.4" = import ./overrides/performer-pytorch/1.1.4;
+  };
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
