@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  disjoint-set = {
+    "0.8.0" = import ./overrides/disjoint-set/0.8.0;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
