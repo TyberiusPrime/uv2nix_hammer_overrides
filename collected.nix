@@ -978,6 +978,9 @@
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
+  cexprtk = {
+    "0.4.1" = import ./overrides/cexprtk/0.4.1;
+  };
   cf-units = {
     "3.2.0" = import ./overrides/cf-units/3.2.0;
   };
