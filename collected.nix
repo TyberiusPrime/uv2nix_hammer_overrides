@@ -5907,6 +5907,7 @@
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
+    "6.2.2" = import ./overrides/pillow/6.2.2;
     "8.4.0" = import ./overrides/pillow/8.4.0;
     "9.4.0" = import ./overrides/pillow/9.4.0;
   };
