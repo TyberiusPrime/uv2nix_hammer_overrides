@@ -737,6 +737,9 @@
   bitcoin = {
     "1.1.39" = import ./overrides/bitcoin/1.1.39;
   };
+  bite-parser = {
+    "0.2.4" = import ./overrides/bite-parser/0.2.4;
+  };
   bitmath = {
     "1.3.3.1" = import ./overrides/bitmath/1.3.3.1;
   };
