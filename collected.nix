@@ -837,6 +837,9 @@
   brightway2 = {
     "2.4.6" = import ./overrides/brightway2/2.4.6;
   };
+  brother-ql = {
+    "0.9.4" = import ./overrides/brother-ql/0.9.4;
+  };
   brownie = {
     "0.5.1" = import ./overrides/brownie/0.5.1;
   };
