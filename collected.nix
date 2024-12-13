@@ -8855,6 +8855,9 @@
   sw-python-utils = {
     "0.0.18" = import ./overrides/sw-python-utils/0.0.18;
   };
+  sweetviz = {
+    "2.3.1" = import ./overrides/sweetviz/2.3.1;
+  };
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
   };
