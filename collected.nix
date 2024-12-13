@@ -6015,6 +6015,9 @@
   plugnplay = {
     "0.5.4" = import ./overrides/plugnplay/0.5.4;
   };
+  plum-py = {
+    "0.8.7" = import ./overrides/plum-py/0.8.7;
+  };
   plumbing = {
     "2.11.2" = import ./overrides/plumbing/2.11.2;
   };
