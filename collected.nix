@@ -4538,6 +4538,9 @@
   lovely-pytest-docker = {
     "1.0.0" = import ./overrides/lovely-pytest-docker/1.0.0;
   };
+  lpc-checksum = {
+    "3.0.0" = import ./overrides/lpc-checksum/3.0.0;
+  };
   lru-dict = {
     "1.2.0" = import ./overrides/lru-dict/1.2.0;
   };
