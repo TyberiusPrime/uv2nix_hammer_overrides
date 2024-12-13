@@ -578,6 +578,9 @@
   backports-zoneinfo = {
     "0.2.1" = import ./overrides/backports-zoneinfo/0.2.1;
   };
+  bagit = {
+    "1.8.1" = import ./overrides/bagit/1.8.1;
+  };
   bambu-mail = {
     "3.4" = import ./overrides/bambu-mail/3.4;
   };
