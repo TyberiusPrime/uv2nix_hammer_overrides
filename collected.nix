@@ -1232,6 +1232,9 @@
   coffeescript = {
     "2.0.3" = import ./overrides/coffeescript/2.0.3;
   };
+  cognite-sdk-experimental = {
+    "1.0.0" = import ./overrides/cognite-sdk-experimental/1.0.0;
+  };
   coincurve = {
     "15.0.0" = import ./overrides/coincurve/15.0.0;
   };
