@@ -5723,6 +5723,9 @@
   parse = {
     "1.6.5" = import ./overrides/parse/1.6.5;
   };
+  parse-type = {
+    "0.6.3" = import ./overrides/parse-type/0.6.3;
+  };
   parsimonious = {
     "0.9.0" = import ./overrides/parsimonious/0.9.0;
   };
