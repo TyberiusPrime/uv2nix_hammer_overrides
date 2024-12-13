@@ -5141,6 +5141,9 @@
   ncephes = {
     "1.1.0" = import ./overrides/ncephes/1.1.0;
   };
+  nd2 = {
+    "0.10.1" = import ./overrides/nd2/0.10.1;
+  };
   ndms2-client = {
     "0.1.3" = import ./overrides/ndms2-client/0.1.3;
   };
