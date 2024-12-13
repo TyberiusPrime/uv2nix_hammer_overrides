@@ -2688,6 +2688,9 @@
   fastecdsa = {
     "2.3.2" = import ./overrides/fastecdsa/2.3.2;
   };
+  faster-fifo = {
+    "1.4.7" = import ./overrides/faster-fifo/1.4.7;
+  };
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
