@@ -5961,6 +5961,9 @@
   plaid-python = {
     "25.0.0" = import ./overrides/plaid-python/25.0.0;
   };
+  plams = {
+    "1.5.1" = import ./overrides/plams/1.5.1;
+  };
   plant = {
     "0.1.3" = import ./overrides/plant/0.1.3;
   };
