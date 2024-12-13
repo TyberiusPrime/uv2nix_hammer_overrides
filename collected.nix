@@ -3556,6 +3556,9 @@
   httpexceptor = {
     "1.4.0" = import ./overrides/httpexceptor/1.4.0;
   };
+  httpie = {
+    "3.2.3" = import ./overrides/httpie/3.2.3;
+  };
   httplib2shim = {
     "0.0.3" = import ./overrides/httplib2shim/0.0.3;
   };
