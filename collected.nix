@@ -2995,6 +2995,9 @@
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
   };
+  fschat = {
+    "0.2.36" = import ./overrides/fschat/0.2.36;
+  };
   fsm-load-modal-composites = {
     "1.0.1" = import ./overrides/fsm-load-modal-composites/1.0.1;
   };
