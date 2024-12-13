@@ -7976,6 +7976,9 @@
   robobrowser = {
     "0.5.3" = import ./overrides/robobrowser/0.5.3;
   };
+  robotframework-databaselibrary = {
+    "1.4.4" = import ./overrides/robotframework-databaselibrary/1.4.4;
+  };
   robotframework-pabot = {
     "2.18.0" = import ./overrides/robotframework-pabot/2.18.0;
   };
