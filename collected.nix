@@ -4604,6 +4604,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  maphash = {
+    "0.1.2" = import ./overrides/maphash/0.1.2;
+  };
   mappy = {
     "2.28" = import ./overrides/mappy/2.28;
   };
