@@ -6066,6 +6066,9 @@
   powerline-status = {
     "2.7" = import ./overrides/powerline-status/2.7;
   };
+  pox = {
+    "0.3.4" = import ./overrides/pox/0.3.4;
+  };
   ppp-datamodel = {
     "0.6.12.1" = import ./overrides/ppp-datamodel/0.6.12.1;
   };
