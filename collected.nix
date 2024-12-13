@@ -7406,6 +7406,9 @@
   python-lzo = {
     "1.15" = import ./overrides/python-lzo/1.15;
   };
+  python-markdown-math = {
+    "0.8" = import ./overrides/python-markdown-math/0.8;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
