@@ -8081,6 +8081,9 @@
   runipy = {
     "0.1.5" = import ./overrides/runipy/0.1.5;
   };
+  rusenttokenize = {
+    "0.0.5" = import ./overrides/rusenttokenize/0.0.5;
+  };
   rwproperty = {
     "1.0" = import ./overrides/rwproperty/1.0;
   };
