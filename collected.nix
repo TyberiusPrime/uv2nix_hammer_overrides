@@ -2499,6 +2499,9 @@
   eli5 = {
     "0.13.0" = import ./overrides/eli5/0.13.0;
   };
+  elifetools = {
+    "0.40.0" = import ./overrides/elifetools/0.40.0;
+  };
   eliqonline = {
     "1.2.2" = import ./overrides/eliqonline/1.2.2;
   };
