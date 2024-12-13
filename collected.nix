@@ -587,6 +587,9 @@
   bamnostic = {
     "1.1.10" = import ./overrides/bamnostic/1.1.10;
   };
+  banal = {
+    "1.0.6" = import ./overrides/banal/1.0.6;
+  };
   bap = {
     "1.3.1" = import ./overrides/bap/1.3.1;
   };
