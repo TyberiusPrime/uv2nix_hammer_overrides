@@ -7436,6 +7436,9 @@
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
+  python-openid-teams = {
+    "1.1" = import ./overrides/python-openid-teams/1.1;
+  };
   python-openzwave = {
     "0.4.19" = import ./overrides/python-openzwave/0.4.19;
   };
