@@ -9986,6 +9986,9 @@
     "4.2.1" = import ./overrides/wxpython/4.2.1;
     "4.2.2" = import ./overrides/wxpython/4.2.2;
   };
+  x-transformers = {
+    "1.34.1" = import ./overrides/x-transformers/1.34.1;
+  };
   x256 = {
     "0.0.3" = import ./overrides/x256/0.0.3;
   };
