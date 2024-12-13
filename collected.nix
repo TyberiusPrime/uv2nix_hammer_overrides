@@ -4202,6 +4202,9 @@
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
+  korean-lunar-calendar = {
+    "0.3.1" = import ./overrides/korean-lunar-calendar/0.3.1;
+  };
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
   };
