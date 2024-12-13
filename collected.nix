@@ -4517,6 +4517,9 @@
   logutils = {
     "0.3.5" = import ./overrides/logutils/0.3.5;
   };
+  logzio-python-handler = {
+    "4.1.4" = import ./overrides/logzio-python-handler/4.1.4;
+  };
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
