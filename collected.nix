@@ -4712,6 +4712,9 @@
   mergedb = {
     "0.1.1" = import ./overrides/mergedb/0.1.1;
   };
+  mergedeep = {
+    "1.3.4" = import ./overrides/mergedeep/1.3.4;
+  };
   merkletools = {
     "1.0.3" = import ./overrides/merkletools/1.0.3;
   };
