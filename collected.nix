@@ -6018,6 +6018,9 @@
   plumbing = {
     "2.11.2" = import ./overrides/plumbing/2.11.2;
   };
+  pluthon = {
+    "1.0.0" = import ./overrides/pluthon/1.0.0;
+  };
   ply = {
     "3.8" = import ./overrides/ply/3.8;
   };
