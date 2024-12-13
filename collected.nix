@@ -4562,6 +4562,9 @@
   m-kafka-sdk-v2 = {
     "1.0.4" = import ./overrides/m-kafka-sdk-v2/1.0.4;
   };
+  m01-mongo = {
+    "3.3.5" = import ./overrides/m01-mongo/3.3.5;
+  };
   m2crypto = {
     "0.42.0" = import ./overrides/m2crypto/0.42.0;
   };
@@ -5634,6 +5637,9 @@
   };
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
+  };
+  p01-env = {
+    "0.5.1" = import ./overrides/p01-env/0.5.1;
   };
   p4a-z2utils = {
     "1.0.2" = import ./overrides/p4a-z2utils/1.0.2;
