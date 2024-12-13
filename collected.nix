@@ -4682,6 +4682,9 @@
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
   };
+  meggie = {
+    "1.8.0" = import ./overrides/meggie/1.8.0;
+  };
   megrok-layout = {
     "1.3" = import ./overrides/megrok-layout/1.3;
   };
