@@ -1979,6 +1979,9 @@
   django-fsm-admin = {
     "1.2.5" = import ./overrides/django-fsm-admin/1.2.5;
   };
+  django-generic-positions = {
+    "0.2.3" = import ./overrides/django-generic-positions/0.2.3;
+  };
   django-geostore = {
     "1.0.0" = import ./overrides/django-geostore/1.0.0;
   };
