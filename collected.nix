@@ -8405,6 +8405,9 @@
   similaritymeasures = {
     "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
   };
+  simpful = {
+    "2.12.0" = import ./overrides/simpful/2.12.0;
+  };
   simple-crypt = {
     "4.1.7" = import ./overrides/simple-crypt/4.1.7;
   };
