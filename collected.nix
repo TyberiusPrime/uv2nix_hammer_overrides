@@ -5821,6 +5821,9 @@
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
+  perlcompat = {
+    "1.1" = import ./overrides/perlcompat/1.1;
+  };
   pescea = {
     "1.0.12" = import ./overrides/pescea/1.0.12;
   };
