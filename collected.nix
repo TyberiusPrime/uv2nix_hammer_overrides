@@ -5301,6 +5301,9 @@
   nonstdlib = {
     "1.12.0" = import ./overrides/nonstdlib/1.12.0;
   };
+  norbert = {
+    "0.2.1" = import ./overrides/norbert/0.2.1;
+  };
   norecaptcha = {
     "1.0.0" = import ./overrides/norecaptcha/1.0.0;
   };
