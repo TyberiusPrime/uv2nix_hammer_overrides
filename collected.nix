@@ -9047,6 +9047,9 @@
   thespian = {
     "3.10.7" = import ./overrides/thespian/3.10.7;
   };
+  thonny = {
+    "4.1.4" = import ./overrides/thonny/4.1.4;
+  };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
