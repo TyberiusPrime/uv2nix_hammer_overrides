@@ -801,6 +801,9 @@
   bnnumerizer = {
     "0.0.2" = import ./overrides/bnnumerizer/0.0.2;
   };
+  boa-api = {
+    "0.1.14" = import ./overrides/boa-api/0.1.14;
+  };
   bolt-python = {
     "0.7.1" = import ./overrides/bolt-python/0.7.1;
   };
