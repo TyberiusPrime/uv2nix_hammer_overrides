@@ -485,6 +485,9 @@
   autocorrect = {
     "2.6.1" = import ./overrides/autocorrect/2.6.1;
   };
+  autodistill = {
+    "0.1.28" = import ./overrides/autodistill/0.1.28;
+  };
   autodoc = {
     "0.5.0" = import ./overrides/autodoc/0.5.0;
   };
