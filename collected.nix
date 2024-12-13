@@ -5745,6 +5745,9 @@
   pbkdf2 = {
     "1.3" = import ./overrides/pbkdf2/1.3;
   };
+  pbs-installer = {
+    "2024.8.14" = import ./overrides/pbs-installer/2024.8.14;
+  };
   pbs3 = {
     "3.0.2" = import ./overrides/pbs3/3.0.2;
   };
