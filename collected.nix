@@ -3465,6 +3465,9 @@
   hierplace = {
     "1.1.0" = import ./overrides/hierplace/1.1.0;
   };
+  highdicom = {
+    "0.22.0" = import ./overrides/highdicom/0.22.0;
+  };
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
