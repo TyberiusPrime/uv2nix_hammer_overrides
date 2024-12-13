@@ -7430,6 +7430,9 @@
   python-oembed = {
     "0.2.4" = import ./overrides/python-oembed/0.2.4;
   };
+  python-on-whales = {
+    "0.73.0" = import ./overrides/python-on-whales/0.73.0;
+  };
   python-opendata-transport = {
     "0.4.0" = import ./overrides/python-opendata-transport/0.4.0;
   };
