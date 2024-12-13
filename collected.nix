@@ -4787,6 +4787,9 @@
   micropython-redis-modular = {
     "0.0.57" = import ./overrides/micropython-redis-modular/0.0.57;
   };
+  midea-beautiful-air = {
+    "0.10.5" = import ./overrides/midea-beautiful-air/0.10.5;
+  };
   midiutil = {
     "1.2.1" = import ./overrides/midiutil/1.2.1;
   };
