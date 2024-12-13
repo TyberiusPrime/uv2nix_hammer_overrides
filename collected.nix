@@ -6656,6 +6656,9 @@
   pyfma = {
     "0.1.6" = import ./overrides/pyfma/0.1.6;
   };
+  pyfolio = {
+    "0.9.2" = import ./overrides/pyfolio/0.9.2;
+  };
   pyforest = {
     "1.1.2" = import ./overrides/pyforest/1.1.2;
   };
