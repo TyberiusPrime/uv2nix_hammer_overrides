@@ -8281,6 +8281,9 @@
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
   };
+  seqdiag = {
+    "3.0.0" = import ./overrides/seqdiag/3.0.0;
+  };
   seqeval = {
     "1.2.2" = import ./overrides/seqeval/1.2.2;
   };
