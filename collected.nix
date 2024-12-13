@@ -3760,6 +3760,9 @@
   injson = {
     "0.4.1" = import ./overrides/injson/0.4.1;
   };
+  inlinestyler = {
+    "0.2.5" = import ./overrides/inlinestyler/0.2.5;
+  };
   inotify = {
     "0.2.10" = import ./overrides/inotify/0.2.10;
   };
