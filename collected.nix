@@ -9844,6 +9844,9 @@
   webhelpers = {
     "1.3" = import ./overrides/webhelpers/1.3;
   };
+  weblogo = {
+    "3.7.12" = import ./overrides/weblogo/3.7.12;
+  };
   webrtcvad = {
     "2.0.10" = import ./overrides/webrtcvad/2.0.10;
   };
