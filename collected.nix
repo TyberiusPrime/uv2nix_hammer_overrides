@@ -6870,6 +6870,9 @@
   pymetar = {
     "1.4" = import ./overrides/pymetar/1.4;
   };
+  pymiele = {
+    "0.1.7" = import ./overrides/pymiele/0.1.7;
+  };
   pymilter = {
     "1.0.5" = import ./overrides/pymilter/1.0.5;
   };
