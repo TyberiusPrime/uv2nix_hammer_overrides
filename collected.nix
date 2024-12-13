@@ -3356,6 +3356,9 @@
   gsutil = {
     "5.30" = import ./overrides/gsutil/5.30;
   };
+  gtfs-realtime-bindings = {
+    "1.0.0" = import ./overrides/gtfs-realtime-bindings/1.0.0;
+  };
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
