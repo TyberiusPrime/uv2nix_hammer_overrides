@@ -6852,6 +6852,9 @@
   pymbolic = {
     "2022.2" = import ./overrides/pymbolic/2022.2;
   };
+  pymc3-ext = {
+    "0.1.1" = import ./overrides/pymc3-ext/0.1.1;
+  };
   pymediainfo = {
     "6.1.0" = import ./overrides/pymediainfo/6.1.0;
   };
