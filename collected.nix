@@ -6900,6 +6900,9 @@
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
+  pynamodb-dax = {
+    "0.0.6" = import ./overrides/pynamodb-dax/0.0.6;
+  };
   pynanoleaf = {
     "0.1.1" = import ./overrides/pynanoleaf/0.1.1;
   };
