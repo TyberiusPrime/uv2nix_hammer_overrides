@@ -5943,6 +5943,9 @@
   pipwin = {
     "0.5.2" = import ./overrides/pipwin/0.5.2;
   };
+  pipx = {
+    "1.7.1" = import ./overrides/pipx/1.7.1;
+  };
   pixiedust = {
     "1.1.19" = import ./overrides/pixiedust/1.1.19;
   };
