@@ -8750,6 +8750,9 @@
   stheno = {
     "1.4.1" = import ./overrides/stheno/1.4.1;
   };
+  stm32loader = {
+    "0.7.1" = import ./overrides/stm32loader/0.7.1;
+  };
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
