@@ -8589,6 +8589,9 @@
   sox = {
     "1.5.0" = import ./overrides/sox/1.5.0;
   };
+  spacy-transformers = {
+    "1.3.5" = import ./overrides/spacy-transformers/1.3.5;
+  };
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
