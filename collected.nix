@@ -2622,6 +2622,9 @@
   exdown = {
     "0.9.0" = import ./overrides/exdown/0.9.0;
   };
+  execnet = {
+    "2.1.1" = import ./overrides/execnet/2.1.1;
+  };
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
