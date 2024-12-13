@@ -8674,6 +8674,9 @@
     "1.4.15" = import ./overrides/sqlalchemy/1.4.15;
     "2.0.35" = import ./overrides/sqlalchemy/2.0.35;
   };
+  sqlalchemy-aio = {
+    "0.17.0" = import ./overrides/sqlalchemy-aio/0.17.0;
+  };
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
   };
