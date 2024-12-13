@@ -4054,6 +4054,9 @@
   jsonsir = {
     "0.0.2" = import ./overrides/jsonsir/0.0.2;
   };
+  jsontableschema = {
+    "0.10.1" = import ./overrides/jsontableschema/0.10.1;
+  };
   jstyleson = {
     "0.0.2" = import ./overrides/jstyleson/0.0.2;
   };
