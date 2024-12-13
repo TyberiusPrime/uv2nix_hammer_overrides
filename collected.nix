@@ -7843,6 +7843,7 @@
     "1.0.8" = import ./overrides/redlock-py/1.0.8;
   };
   reedsolo = {
+    "1.7.0" = import ./overrides/reedsolo/1.7.0;
     "2.0.13" = import ./overrides/reedsolo/2.0.13;
   };
   reflink = {
