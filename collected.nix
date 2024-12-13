@@ -2775,6 +2775,9 @@
   finviz = {
     "1.4.6" = import ./overrides/finviz/1.4.6;
   };
+  fiona = {
+    "1.10.0" = import ./overrides/fiona/1.10.0;
+  };
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
