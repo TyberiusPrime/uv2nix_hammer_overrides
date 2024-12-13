@@ -4232,6 +4232,9 @@
   landez = {
     "2.5.0" = import ./overrides/landez/2.5.0;
   };
+  langchain-text-splitters = {
+    "0.2.4" = import ./overrides/langchain-text-splitters/0.2.4;
+  };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
