@@ -1825,6 +1825,9 @@
   diplib = {
     "3.5.1" = import ./overrides/diplib/3.5.1;
   };
+  dirigera = {
+    "1.1.9" = import ./overrides/dirigera/1.1.9;
+  };
   dirlistproc = {
     "1.4.5" = import ./overrides/dirlistproc/1.4.5;
   };
