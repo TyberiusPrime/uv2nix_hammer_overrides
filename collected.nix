@@ -92,6 +92,9 @@
   aiee = {
     "0.3.2" = import ./overrides/aiee/0.3.2;
   };
+  aio-geojson-nsw-rfs-incidents = {
+    "0.7" = import ./overrides/aio-geojson-nsw-rfs-incidents/0.7;
+  };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
