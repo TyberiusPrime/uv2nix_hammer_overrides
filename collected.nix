@@ -10010,6 +10010,9 @@
   xformers = {
     "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
   };
+  xgboost = {
+    "2.1.1" = import ./overrides/xgboost/2.1.1;
+  };
   xinabox-core = {
     "0.0.11" = import ./overrides/xinabox-core/0.0.11;
   };
