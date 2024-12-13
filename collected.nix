@@ -8526,6 +8526,9 @@
   smokesignal = {
     "0.7.0" = import ./overrides/smokesignal/0.7.0;
   };
+  smqtk-dataprovider = {
+    "0.18.0" = import ./overrides/smqtk-dataprovider/0.18.0;
+  };
   smt = {
     "2.6.3" = import ./overrides/smt/2.6.3;
   };
