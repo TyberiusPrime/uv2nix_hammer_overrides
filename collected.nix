@@ -6006,6 +6006,9 @@
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
+  plotly-express = {
+    "0.4.1" = import ./overrides/plotly-express/0.4.1;
+  };
   pluggy = {
     "1.5.0" = import ./overrides/pluggy/1.5.0;
   };
