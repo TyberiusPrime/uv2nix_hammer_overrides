@@ -9329,6 +9329,9 @@
   truncnorm = {
     "0.0.2" = import ./overrides/truncnorm/0.0.2;
   };
+  trustme = {
+    "1.1.0" = import ./overrides/trustme/1.1.0;
+  };
   trx-utils = {
     "1.0.4" = import ./overrides/trx-utils/1.0.4;
   };
