@@ -6306,6 +6306,9 @@
   py-bcrypt = {
     "0.4" = import ./overrides/py-bcrypt/0.4;
   };
+  py-cui = {
+    "0.1.6" = import ./overrides/py-cui/0.1.6;
+  };
   py-dag = {
     "3.0.1" = import ./overrides/py-dag/3.0.1;
   };
