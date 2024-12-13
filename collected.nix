@@ -8275,6 +8275,9 @@
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
+  sentence-splitter = {
+    "1.4" = import ./overrides/sentence-splitter/1.4;
+  };
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
