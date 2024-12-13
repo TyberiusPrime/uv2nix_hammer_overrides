@@ -4526,6 +4526,9 @@
   loopy = {
     "2024.1" = import ./overrides/loopy/2024.1;
   };
+  looseversion = {
+    "1.3.0" = import ./overrides/looseversion/1.3.0;
+  };
   loremipsum = {
     "1.0.5" = import ./overrides/loremipsum/1.0.5;
   };
