@@ -32,6 +32,9 @@
   acoustics = {
     "0.2.6" = import ./overrides/acoustics/0.2.6;
   };
+  acquire = {
+    "3.16" = import ./overrides/acquire/3.16;
+  };
   active-alchemy = {
     "1.1.0" = import ./overrides/active-alchemy/1.1.0;
   };
