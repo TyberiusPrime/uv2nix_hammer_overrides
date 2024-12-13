@@ -200,6 +200,9 @@
     "0.12.0" = import ./overrides/amazon-ion/0.12.0;
     "0.9.3" = import ./overrides/amazon-ion/0.9.3;
   };
+  amazon-textract-response-parser = {
+    "1.0.3" = import ./overrides/amazon-textract-response-parser/1.0.3;
+  };
   amino = {
     "13.0.1" = import ./overrides/amino/13.0.1;
   };
