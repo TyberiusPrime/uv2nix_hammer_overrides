@@ -4356,6 +4356,9 @@
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
+  libthumbor = {
+    "2.0.2" = import ./overrides/libthumbor/2.0.2;
+  };
   libtools = {
     "0.4.2" = import ./overrides/libtools/0.4.2;
   };
