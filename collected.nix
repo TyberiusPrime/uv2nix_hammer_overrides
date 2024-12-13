@@ -2045,6 +2045,9 @@
   django-model-utils = {
     "3.0.0" = import ./overrides/django-model-utils/3.0.0;
   };
+  django-money = {
+    "3.5.3" = import ./overrides/django-money/3.5.3;
+  };
   django-mongoengine = {
     "0.5.6" = import ./overrides/django-mongoengine/0.5.6;
   };
