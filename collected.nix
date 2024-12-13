@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  discogs-client = {
+    "2.3.0" = import ./overrides/discogs-client/2.3.0;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
