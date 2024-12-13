@@ -4102,6 +4102,9 @@
   kappa = {
     "0.7.0" = import ./overrides/kappa/0.7.0;
   };
+  kaptan = {
+    "0.6.0" = import ./overrides/kaptan/0.6.0;
+  };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
