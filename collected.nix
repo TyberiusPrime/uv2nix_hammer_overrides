@@ -2905,6 +2905,9 @@
   flask-sslify = {
     "0.1.5" = import ./overrides/flask-sslify/0.1.5;
   };
+  flask-swagger-ui = {
+    "4.11.1" = import ./overrides/flask-swagger-ui/4.11.1;
+  };
   flask-testing = {
     "0.7.1" = import ./overrides/flask-testing/0.7.1;
   };
