@@ -3231,6 +3231,9 @@
   go-http = {
     "0.3.2" = import ./overrides/go-http/0.3.2;
   };
+  goalzero = {
+    "0.2.2" = import ./overrides/goalzero/0.2.2;
+  };
   golgi = {
     "2.0.1" = import ./overrides/golgi/2.0.1;
   };
