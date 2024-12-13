@@ -8069,6 +8069,9 @@
   rstview = {
     "0.4.0" = import ./overrides/rstview/0.4.0;
   };
+  rtmixer = {
+    "0.1.7" = import ./overrides/rtmixer/0.1.7;
+  };
   rtoml = {
     "0.8.0" = import ./overrides/rtoml/0.8.0;
   };
