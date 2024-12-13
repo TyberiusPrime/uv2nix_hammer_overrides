@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  just = {
+    "0.8.162" = import ./overrides/just/0.8.162;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
