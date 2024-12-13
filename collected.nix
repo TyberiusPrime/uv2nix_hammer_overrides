@@ -1497,6 +1497,9 @@
   creek = {
     "0.1.32" = import ./overrides/creek/0.1.32;
   };
+  crispy-bootstrap5 = {
+    "2024.2" = import ./overrides/crispy-bootstrap5/2024.2;
+  };
   crispy-forms-foundation = {
     "1.0.2" = import ./overrides/crispy-forms-foundation/1.0.2;
   };
