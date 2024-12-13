@@ -316,6 +316,9 @@
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
+  aracnid-logger = {
+    "1.0.2" = import ./overrides/aracnid-logger/1.0.2;
+  };
   aranet4 = {
     "2.4.0" = import ./overrides/aranet4/2.4.0;
   };
