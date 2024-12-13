@@ -5510,6 +5510,9 @@
   opcua = {
     "0.98.13" = import ./overrides/opcua/0.98.13;
   };
+  open-interpreter = {
+    "0.3.12" = import ./overrides/open-interpreter/0.3.12;
+  };
   openai-clip = {
     "1.0.1" = import ./overrides/openai-clip/1.0.1;
   };
