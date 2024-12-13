@@ -8050,6 +8050,7 @@
   };
   rq = {
     "1.0" = import ./overrides/rq/1.0;
+    "1.16.2" = import ./overrides/rq/1.16.2;
   };
   rrcf = {
     "0.4.4" = import ./overrides/rrcf/0.4.4;
