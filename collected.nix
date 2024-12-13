@@ -7209,6 +7209,9 @@
   pytelegraf = {
     "0.3.3" = import ./overrides/pytelegraf/0.3.3;
   };
+  pytest-asyncio = {
+    "0.24.0" = import ./overrides/pytest-asyncio/0.24.0;
+  };
   pytest-black = {
     "0.3.12" = import ./overrides/pytest-black/0.3.12;
   };
