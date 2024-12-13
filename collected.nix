@@ -4637,6 +4637,9 @@
   marrow-util = {
     "1.2.3" = import ./overrides/marrow-util/1.2.3;
   };
+  marshmallow-enum = {
+    "1.5.1" = import ./overrides/marshmallow-enum/1.5.1;
+  };
   marshmallow-polyfield = {
     "5.11" = import ./overrides/marshmallow-polyfield/5.11;
   };
