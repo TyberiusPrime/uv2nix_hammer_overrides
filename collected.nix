@@ -840,6 +840,9 @@
   brownie = {
     "0.5.1" = import ./overrides/brownie/0.5.1;
   };
+  browser-cookie3 = {
+    "0.19.1" = import ./overrides/browser-cookie3/0.19.1;
+  };
   browsermob-proxy = {
     "0.8.0" = import ./overrides/browsermob-proxy/0.8.0;
   };
