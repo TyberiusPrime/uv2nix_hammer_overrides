@@ -8063,6 +8063,9 @@
   rsl-xsd = {
     "0.2.4" = import ./overrides/rsl-xsd/0.2.4;
   };
+  rstcheck-core = {
+    "1.2.1" = import ./overrides/rstcheck-core/1.2.1;
+  };
   rstgen = {
     "24.4.0" = import ./overrides/rstgen/24.4.0;
   };
