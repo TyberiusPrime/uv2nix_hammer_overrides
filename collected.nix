@@ -5141,6 +5141,9 @@
   ncephes = {
     "1.1.0" = import ./overrides/ncephes/1.1.0;
   };
+  ncls = {
+    "0.0.68" = import ./overrides/ncls/0.0.68;
+  };
   ndms2-client = {
     "0.1.3" = import ./overrides/ndms2-client/0.1.3;
   };
@@ -7042,6 +7045,9 @@
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
   };
+  pyranges = {
+    "0.1.2" = import ./overrides/pyranges/0.1.2;
+  };
   pyreact = {
     "0.6.0" = import ./overrides/pyreact/0.6.0;
   };
@@ -8579,6 +8585,9 @@
   };
   sonopy = {
     "0.1.2" = import ./overrides/sonopy/0.1.2;
+  };
+  sorted-nearest = {
+    "0.0.39" = import ./overrides/sorted-nearest/0.0.39;
   };
   soundfile = {
     "0.12.1" = import ./overrides/soundfile/0.12.1;
