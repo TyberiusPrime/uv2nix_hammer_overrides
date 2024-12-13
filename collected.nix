@@ -7412,6 +7412,9 @@
   python-multipart = {
     "0.0.5" = import ./overrides/python-multipart/0.0.5;
   };
+  python-musicpd = {
+    "0.9.1" = import ./overrides/python-musicpd/0.9.1;
+  };
   python-nest = {
     "4.2.0" = import ./overrides/python-nest/4.2.0;
   };
