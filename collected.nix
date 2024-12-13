@@ -3898,6 +3898,9 @@
   javabridge = {
     "1.0.19" = import ./overrides/javabridge/1.0.19;
   };
+  javalang = {
+    "0.13.0" = import ./overrides/javalang/0.13.0;
+  };
   jax = {
     "0.3.25" = import ./overrides/jax/0.3.25;
   };
