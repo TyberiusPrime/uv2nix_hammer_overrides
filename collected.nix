@@ -7143,6 +7143,9 @@
   pysistence = {
     "0.4.1" = import ./overrides/pysistence/0.4.1;
   };
+  pysmartapp = {
+    "0.3.5" = import ./overrides/pysmartapp/0.3.5;
+  };
   pysmarthome = {
     "3.1.1" = import ./overrides/pysmarthome/3.1.1;
   };
