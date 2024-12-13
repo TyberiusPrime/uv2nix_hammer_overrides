@@ -1482,6 +1482,9 @@
   cracklib = {
     "2.9.6" = import ./overrides/cracklib/2.9.6;
   };
+  cramjam = {
+    "2.8.3" = import ./overrides/cramjam/2.8.3;
+  };
   crank = {
     "0.8.1" = import ./overrides/crank/0.8.1;
   };
