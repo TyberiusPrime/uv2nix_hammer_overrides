@@ -6937,6 +6937,9 @@
   pyogg = {
     "0.6.14a1" = import ./overrides/pyogg/0.6.14a1;
   };
+  pyontutils = {
+    "0.1.34" = import ./overrides/pyontutils/0.1.34;
+  };
   pyoo = {
     "1.4" = import ./overrides/pyoo/1.4;
   };
