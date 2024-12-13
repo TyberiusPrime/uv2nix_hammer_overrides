@@ -6991,6 +6991,9 @@
   pypng = {
     "0.0.19" = import ./overrides/pypng/0.0.19;
   };
+  pyportfolioopt = {
+    "1.5.5" = import ./overrides/pyportfolioopt/1.5.5;
+  };
   pyppeteer = {
     "0.0.25" = import ./overrides/pyppeteer/0.0.25;
   };
