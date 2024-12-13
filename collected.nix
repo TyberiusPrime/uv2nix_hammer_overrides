@@ -9470,6 +9470,9 @@
   ujson = {
     "1.35" = import ./overrides/ujson/1.35;
   };
+  ultralytics = {
+    "8.2.91" = import ./overrides/ultralytics/8.2.91;
+  };
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
   };
