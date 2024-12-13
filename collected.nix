@@ -7131,6 +7131,9 @@
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
   };
+  pysigma-pipeline-crowdstrike = {
+    "1.0.3" = import ./overrides/pysigma-pipeline-crowdstrike/1.0.3;
+  };
   pysignal = {
     "1.1.1" = import ./overrides/pysignal/1.1.1;
   };
