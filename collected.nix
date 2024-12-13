@@ -8230,6 +8230,9 @@
   sciviso = {
     "1.0.9" = import ./overrides/sciviso/1.0.9;
   };
+  scmdata = {
+    "0.17.0" = import ./overrides/scmdata/0.17.0;
+  };
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
   };
