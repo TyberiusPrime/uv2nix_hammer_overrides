@@ -722,6 +722,9 @@
   biplist = {
     "1.0.3" = import ./overrides/biplist/1.0.3;
   };
+  birch = {
+    "0.0.35" = import ./overrides/birch/0.0.35;
+  };
   birdy = {
     "0.3.2" = import ./overrides/birdy/0.3.2;
   };
