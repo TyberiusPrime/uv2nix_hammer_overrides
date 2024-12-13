@@ -8677,6 +8677,9 @@
   sqlalchemy-citext = {
     "1.8.0" = import ./overrides/sqlalchemy-citext/1.8.0;
   };
+  sqlalchemy-mixins = {
+    "2.0.5" = import ./overrides/sqlalchemy-mixins/2.0.5;
+  };
   sqlalchemy-mptt = {
     "0.2.5" = import ./overrides/sqlalchemy-mptt/0.2.5;
   };
