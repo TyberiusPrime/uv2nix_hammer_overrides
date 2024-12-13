@@ -6327,6 +6327,9 @@
   py-stringmatching = {
     "0.4.6" = import ./overrides/py-stringmatching/0.4.6;
   };
+  py-term = {
+    "0.7" = import ./overrides/py-term/0.7;
+  };
   py-tlsh = {
     "4.7.2" = import ./overrides/py-tlsh/4.7.2;
   };
