@@ -1319,6 +1319,9 @@
   cometblue-lite = {
     "0.7.0" = import ./overrides/cometblue-lite/0.7.0;
   };
+  comm = {
+    "0.2.2" = import ./overrides/comm/0.2.2;
+  };
   commandlib = {
     "0.3.5" = import ./overrides/commandlib/0.3.5;
   };
