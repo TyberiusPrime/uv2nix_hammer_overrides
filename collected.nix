@@ -9796,6 +9796,9 @@
   wai-common = {
     "0.0.44" = import ./overrides/wai-common/0.0.44;
   };
+  wallbox = {
+    "0.7.0" = import ./overrides/wallbox/0.7.0;
+  };
   wallet-py3k = {
     "0.0.4" = import ./overrides/wallet-py3k/0.0.4;
   };
