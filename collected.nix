@@ -4916,6 +4916,9 @@
   mongokit = {
     "0.9.1.1" = import ./overrides/mongokit/0.9.1.1;
   };
+  monitorcontrol = {
+    "3.1.0" = import ./overrides/monitorcontrol/3.1.0;
+  };
   monkeyhex = {
     "1.7.4" = import ./overrides/monkeyhex/1.7.4;
   };
