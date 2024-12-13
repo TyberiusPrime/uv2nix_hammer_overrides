@@ -8366,6 +8366,9 @@
   sievelib = {
     "1.4.1" = import ./overrides/sievelib/1.4.1;
   };
+  signalrcore = {
+    "0.9.5" = import ./overrides/signalrcore/0.9.5;
+  };
   signals-utils = {
     "1.14.0" = import ./overrides/signals-utils/1.14.0;
   };
