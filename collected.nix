@@ -644,6 +644,9 @@
   bayespy = {
     "0.6.2" = import ./overrides/bayespy/0.6.2;
   };
+  bc-jsonpath-ng = {
+    "1.6.1" = import ./overrides/bc-jsonpath-ng/1.6.1;
+  };
   bcf = {
     "1.9.0" = import ./overrides/bcf/1.9.0;
   };
