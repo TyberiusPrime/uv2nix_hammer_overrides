@@ -17,6 +17,9 @@
   abjad = {
     "3.19" = import ./overrides/abjad/3.19;
   };
+  about-time = {
+    "4.2.1" = import ./overrides/about-time/4.2.1;
+  };
   accessify = {
     "0.3.1" = import ./overrides/accessify/0.3.1;
   };
