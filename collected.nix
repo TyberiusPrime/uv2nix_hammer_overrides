@@ -7373,6 +7373,9 @@
     "4.0.3" = import ./overrides/python-javabridge/4.0.3;
     "4.0.4" = import ./overrides/python-javabridge/4.0.4;
   };
+  python-json-logger = {
+    "2.0.7" = import ./overrides/python-json-logger/2.0.7;
+  };
   python-jsonrpc = {
     "0.10.0" = import ./overrides/python-jsonrpc/0.10.0;
   };
