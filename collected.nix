@@ -9522,6 +9522,9 @@
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
   };
+  uniplot = {
+    "0.14.1" = import ./overrides/uniplot/0.14.1;
+  };
   unisos-icm = {
     "0.26" = import ./overrides/unisos-icm/0.26;
   };
