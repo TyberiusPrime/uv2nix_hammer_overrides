@@ -2649,6 +2649,9 @@
   face-recognition-models = {
     "0.3.0" = import ./overrides/face-recognition-models/0.3.0;
   };
+  facebook-scraper = {
+    "0.2.59" = import ./overrides/facebook-scraper/0.2.59;
+  };
   facebookads = {
     "2.11.4" = import ./overrides/facebookads/2.11.4;
   };
