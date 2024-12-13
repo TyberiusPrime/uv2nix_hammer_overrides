@@ -9934,6 +9934,9 @@
   workerpool = {
     "0.9.4" = import ./overrides/workerpool/0.9.4;
   };
+  wrds = {
+    "3.2.0" = import ./overrides/wrds/3.2.0;
+  };
   ws4py = {
     "0.5.1" = import ./overrides/ws4py/0.5.1;
   };
