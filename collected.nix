@@ -2472,6 +2472,9 @@
   editorium = {
     "0.0.0.30" = import ./overrides/editorium/0.0.0.30;
   };
+  edtf = {
+    "5.0.0" = import ./overrides/edtf/5.0.0;
+  };
   ee-extra = {
     "0.0.15" = import ./overrides/ee-extra/0.0.15;
   };
