@@ -6514,6 +6514,9 @@
   pycparserext = {
     "2021.1" = import ./overrides/pycparserext/2021.1;
   };
+  pycpfcnpj = {
+    "1.8" = import ./overrides/pycpfcnpj/1.8;
+  };
   pycron = {
     "3.0.0" = import ./overrides/pycron/3.0.0;
   };
