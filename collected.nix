@@ -6590,6 +6590,9 @@
   pyecowitt = {
     "0.21" = import ./overrides/pyecowitt/0.21;
   };
+  pyedimax = {
+    "0.2.1" = import ./overrides/pyedimax/0.2.1;
+  };
   pyelasticsearch = {
     "1.4.1" = import ./overrides/pyelasticsearch/1.4.1;
   };
