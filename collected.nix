@@ -7221,6 +7221,9 @@
   pytest-cram = {
     "0.2.2" = import ./overrides/pytest-cram/0.2.2;
   };
+  pytest-env = {
+    "1.1.4" = import ./overrides/pytest-env/1.1.4;
+  };
   pytest-expect = {
     "1.1.0" = import ./overrides/pytest-expect/1.1.0;
   };
