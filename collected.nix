@@ -3152,6 +3152,9 @@
   gfal2-python = {
     "1.12.2" = import ./overrides/gfal2-python/1.12.2;
   };
+  gffutils = {
+    "0.13" = import ./overrides/gffutils/0.13;
+  };
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
