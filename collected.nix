@@ -5925,6 +5925,9 @@
   pinyin = {
     "0.4.0" = import ./overrides/pinyin/0.4.0;
   };
+  pip-licenses = {
+    "5.0.0" = import ./overrides/pip-licenses/5.0.0;
+  };
   pip-services3-commons = {
     "3.3.14" = import ./overrides/pip-services3-commons/3.3.14;
   };
