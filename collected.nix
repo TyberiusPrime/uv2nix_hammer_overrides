@@ -9606,6 +9606,9 @@
   ushlex = {
     "0.99.1" = import ./overrides/ushlex/0.99.1;
   };
+  usort = {
+    "1.0.8.post1" = import ./overrides/usort/1.0.8.post1;
+  };
   utc = {
     "0.0.3" = import ./overrides/utc/0.0.3;
   };
