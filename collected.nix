@@ -5480,6 +5480,9 @@
   omnijson = {
     "0.1.2" = import ./overrides/omnijson/0.1.2;
   };
+  oncalendar = {
+    "1.1" = import ./overrides/oncalendar/1.1;
+  };
   onetimepad = {
     "1.4" = import ./overrides/onetimepad/1.4;
   };
