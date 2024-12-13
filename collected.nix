@@ -9693,6 +9693,9 @@
   vext = {
     "0.7.6" = import ./overrides/vext/0.7.6;
   };
+  vg = {
+    "2.0.0" = import ./overrides/vg/2.0.0;
+  };
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
