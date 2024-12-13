@@ -8141,6 +8141,9 @@
   sanic-jwt = {
     "1.4.0" = import ./overrides/sanic-jwt/1.4.0;
   };
+  sanic-plugin-toolkit = {
+    "1.2.1" = import ./overrides/sanic-plugin-toolkit/1.2.1;
+  };
   sansio-multipart = {
     "0.3" = import ./overrides/sansio-multipart/0.3;
   };
