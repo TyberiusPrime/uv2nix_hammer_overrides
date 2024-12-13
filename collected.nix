@@ -3003,6 +3003,7 @@
   };
   ftfy = {
     "4.4.3" = import ./overrides/ftfy/4.4.3;
+    "6.2.3" = import ./overrides/ftfy/6.2.3;
   };
   ftputil = {
     "5.1.0" = import ./overrides/ftputil/5.1.0;
