@@ -364,6 +364,9 @@
   arguments = {
     "76" = import ./overrides/arguments/76;
   };
+  aridity = {
+    "75" = import ./overrides/aridity/75;
+  };
   armstrong-utils-backends = {
     "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
   };
