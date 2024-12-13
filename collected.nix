@@ -2983,6 +2983,9 @@
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
+  friendly = {
+    "0.7.21" = import ./overrides/friendly/0.7.21;
+  };
   frontmatter = {
     "3.0.8" = import ./overrides/frontmatter/3.0.8;
   };
