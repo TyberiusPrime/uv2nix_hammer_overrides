@@ -5611,6 +5611,9 @@
   osc = {
     "1.8.2" = import ./overrides/osc/1.8.2;
   };
+  osc-sdk-python = {
+    "0.30.1" = import ./overrides/osc-sdk-python/0.30.1;
+  };
   osconf = {
     "0.1.3" = import ./overrides/osconf/0.1.3;
   };
