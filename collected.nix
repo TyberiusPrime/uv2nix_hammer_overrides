@@ -1530,6 +1530,9 @@
   crystalpy = {
     "0.0.23" = import ./overrides/crystalpy/0.0.23;
   };
+  crytic-compile = {
+    "0.3.7" = import ./overrides/crytic-compile/0.3.7;
+  };
   cs-ansi-colour = {
     "20220227" = import ./overrides/cs-ansi-colour/20220227;
   };
