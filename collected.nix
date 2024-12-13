@@ -8538,6 +8538,9 @@
   snakemake = {
     "7.32.4" = import ./overrides/snakemake/7.32.4;
   };
+  snakemake-storage-plugin-xrootd = {
+    "0.1.3" = import ./overrides/snakemake-storage-plugin-xrootd/0.1.3;
+  };
   snapcast = {
     "2.3.6" = import ./overrides/snapcast/2.3.6;
   };
