@@ -9844,6 +9844,9 @@
   webhelpers = {
     "1.3" = import ./overrides/webhelpers/1.3;
   };
+  webrequests = {
+    "1.0.8" = import ./overrides/webrequests/1.0.8;
+  };
   webrtcvad = {
     "2.0.10" = import ./overrides/webrtcvad/2.0.10;
   };
