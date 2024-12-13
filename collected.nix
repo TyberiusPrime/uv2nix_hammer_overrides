@@ -2667,6 +2667,9 @@
   falcon-cors = {
     "1.1.7" = import ./overrides/falcon-cors/1.1.7;
   };
+  falcon-multipart = {
+    "0.2.0" = import ./overrides/falcon-multipart/0.2.0;
+  };
   fancyimpute = {
     "0.7.0" = import ./overrides/fancyimpute/0.7.0;
   };
