@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  discretize = {
+    "0.10.0" = import ./overrides/discretize/0.10.0;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
