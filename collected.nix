@@ -4036,6 +4036,9 @@
   jsonpickle = {
     "0.9.3" = import ./overrides/jsonpickle/0.9.3;
   };
+  jsonresolver = {
+    "0.3.2" = import ./overrides/jsonresolver/0.3.2;
+  };
   jsonrpc-async = {
     "2.1.2" = import ./overrides/jsonrpc-async/2.1.2;
   };
