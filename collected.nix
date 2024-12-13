@@ -4838,6 +4838,9 @@
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
+  mmcif-pdbx = {
+    "2.0.1" = import ./overrides/mmcif-pdbx/2.0.1;
+  };
   mmcif-utils = {
     "0.28" = import ./overrides/mmcif-utils/0.28;
   };
