@@ -4598,6 +4598,9 @@
   mandrill = {
     "1.0.60" = import ./overrides/mandrill/1.0.60;
   };
+  manga-ocr = {
+    "0.1.12" = import ./overrides/manga-ocr/0.1.12;
+  };
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
