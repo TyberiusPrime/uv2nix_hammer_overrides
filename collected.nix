@@ -3727,8 +3727,14 @@
   imutils = {
     "0.5.4" = import ./overrides/imutils/0.5.4;
   };
+  infi-exceptools = {
+    "0.2.15" = import ./overrides/infi-exceptools/0.2.15;
+  };
   infi-execute = {
     "0.1.8" = import ./overrides/infi-execute/0.1.8;
+  };
+  infi-instruct = {
+    "0.6.33" = import ./overrides/infi-instruct/0.6.33;
   };
   infi-monotonic-time = {
     "0.1.9" = import ./overrides/infi-monotonic-time/0.1.9;
