@@ -2334,6 +2334,9 @@
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
+  dohq-artifactory = {
+    "0.10.0" = import ./overrides/dohq-artifactory/0.10.0;
+  };
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
