@@ -8568,6 +8568,9 @@
   socksipy-branch = {
     "1.1" = import ./overrides/socksipy-branch/1.1;
   };
+  soda-sql-core = {
+    "2.2.2" = import ./overrides/soda-sql-core/2.2.2;
+  };
   solidpython-ff = {
     "0.1.1" = import ./overrides/solidpython-ff/0.1.1;
   };
