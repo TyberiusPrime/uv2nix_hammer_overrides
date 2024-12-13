@@ -274,6 +274,9 @@
   apache-airflow-providers-google = {
     "10.22.0" = import ./overrides/apache-airflow-providers-google/10.22.0;
   };
+  apache-airflow-providers-http = {
+    "4.13.0" = import ./overrides/apache-airflow-providers-http/4.13.0;
+  };
   apache-beam = {
     "2.48.0" = import ./overrides/apache-beam/2.48.0;
   };
