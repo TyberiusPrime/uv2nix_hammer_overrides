@@ -951,6 +951,9 @@
   cbra = {
     "1.1.10" = import ./overrides/cbra/1.1.10;
   };
+  cchardet = {
+    "2.1.7" = import ./overrides/cchardet/2.1.7;
+  };
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
