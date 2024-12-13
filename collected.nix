@@ -4649,6 +4649,9 @@
   masonite-orm = {
     "2.23.1" = import ./overrides/masonite-orm/2.23.1;
   };
+  matchms = {
+    "0.27.0" = import ./overrides/matchms/0.27.0;
+  };
   matlab = {
     "0.1" = import ./overrides/matlab/0.1;
   };
@@ -5345,6 +5348,7 @@
   };
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
+    "0.59.1" = import ./overrides/numba/0.59.1;
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
