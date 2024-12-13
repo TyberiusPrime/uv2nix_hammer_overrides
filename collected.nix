@@ -7282,6 +7282,9 @@
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
   };
+  python-crfsuite = {
+    "0.9.10" = import ./overrides/python-crfsuite/0.9.10;
+  };
   python-ctags3 = {
     "1.6.0" = import ./overrides/python-ctags3/1.6.0;
   };
