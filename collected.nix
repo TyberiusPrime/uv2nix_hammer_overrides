@@ -2222,6 +2222,9 @@
   django-vkontakte-users = {
     "0.8.7" = import ./overrides/django-vkontakte-users/0.8.7;
   };
+  django-webpush = {
+    "0.3.6" = import ./overrides/django-webpush/0.3.6;
+  };
   djangoapidec = {
     "1.8" = import ./overrides/djangoapidec/1.8;
   };
