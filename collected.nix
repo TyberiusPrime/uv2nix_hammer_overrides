@@ -7538,6 +7538,9 @@
   pytils = {
     "0.4.1" = import ./overrides/pytils/0.4.1;
   };
+  pytimeparse = {
+    "1.1.8" = import ./overrides/pytimeparse/1.1.8;
+  };
   pytlv = {
     "0.71" = import ./overrides/pytlv/0.71;
   };
