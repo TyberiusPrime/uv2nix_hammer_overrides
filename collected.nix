@@ -7973,6 +7973,9 @@
   roadtools = {
     "0.0.1" = import ./overrides/roadtools/0.0.1;
   };
+  robin-stocks = {
+    "3.1.0" = import ./overrides/robin-stocks/3.1.0;
+  };
   robobrowser = {
     "0.5.3" = import ./overrides/robobrowser/0.5.3;
   };
