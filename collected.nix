@@ -5943,6 +5943,9 @@
   pipwin = {
     "0.5.2" = import ./overrides/pipwin/0.5.2;
   };
+  pixel-font-builder = {
+    "0.0.28" = import ./overrides/pixel-font-builder/0.0.28;
+  };
   pixiedust = {
     "1.1.19" = import ./overrides/pixiedust/1.1.19;
   };
