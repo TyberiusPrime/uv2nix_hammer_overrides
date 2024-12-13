@@ -5967,6 +5967,9 @@
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
+  platon-utils = {
+    "1.2.1" = import ./overrides/platon-utils/1.2.1;
+  };
   plone-app-form = {
     "2.3.3" = import ./overrides/plone-app-form/2.3.3;
   };
