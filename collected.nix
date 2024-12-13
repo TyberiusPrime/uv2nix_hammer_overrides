@@ -8607,6 +8607,9 @@
   sphinx-autodoc-annotation = {
     "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
   };
+  sphinx-autodoc-typehints = {
+    "2.4.0" = import ./overrides/sphinx-autodoc-typehints/2.4.0;
+  };
   sphinx-better-theme = {
     "0.1.5" = import ./overrides/sphinx-better-theme/0.1.5;
   };
