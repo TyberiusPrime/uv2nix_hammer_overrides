@@ -9955,6 +9955,9 @@
   wtf-peewee = {
     "3.0.5" = import ./overrides/wtf-peewee/3.0.5;
   };
+  wtforms-bootstrap5 = {
+    "0.3.0" = import ./overrides/wtforms-bootstrap5/0.3.0;
+  };
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
   };
