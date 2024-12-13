@@ -1758,6 +1758,9 @@
   defopt = {
     "6.4.0" = import ./overrides/defopt/6.4.0;
   };
+  dehinter = {
+    "4.0.0" = import ./overrides/dehinter/4.0.0;
+  };
   delfick-error = {
     "1.8" = import ./overrides/delfick-error/1.8;
   };
