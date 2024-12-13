@@ -9675,6 +9675,9 @@
   vedo = {
     "2024.5.2" = import ./overrides/vedo/2024.5.2;
   };
+  veho = {
+    "0.0.10" = import ./overrides/veho/0.0.10;
+  };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
