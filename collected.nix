@@ -1659,6 +1659,9 @@
   daff = {
     "1.3.46" = import ./overrides/daff/1.3.46;
   };
+  dalle-mini = {
+    "0.1.5" = import ./overrides/dalle-mini/0.1.5;
+  };
   dark-matter = {
     "4.0.89" = import ./overrides/dark-matter/4.0.89;
   };
