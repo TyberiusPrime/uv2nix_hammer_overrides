@@ -2778,6 +2778,9 @@
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
+  firebase-admin = {
+    "6.5.0" = import ./overrides/firebase-admin/6.5.0;
+  };
   fireworks = {
     "2.0.3" = import ./overrides/fireworks/2.0.3;
   };
