@@ -2337,6 +2337,9 @@
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  dom-toml = {
+    "2.0.0" = import ./overrides/dom-toml/2.0.0;
+  };
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
