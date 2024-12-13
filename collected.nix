@@ -3408,6 +3408,9 @@
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
+  hatch-fancy-pypi-readme = {
+    "24.1.0" = import ./overrides/hatch-fancy-pypi-readme/24.1.0;
+  };
   hbmqtt = {
     "0.9.6" = import ./overrides/hbmqtt/0.9.6;
   };
