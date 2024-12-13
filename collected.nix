@@ -3958,6 +3958,9 @@
   jpeg4py = {
     "0.1.4" = import ./overrides/jpeg4py/0.1.4;
   };
+  jqdatasdk = {
+    "1.9.6" = import ./overrides/jqdatasdk/1.9.6;
+  };
   jquery-layer = {
     "1.0.0" = import ./overrides/jquery-layer/1.0.0;
   };
@@ -9055,6 +9058,7 @@
     "0.20.0" = import ./overrides/thrift/0.20.0;
   };
   thriftpy2 = {
+    "0.4.20" = import ./overrides/thriftpy2/0.4.20;
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
   thunder-python = {
