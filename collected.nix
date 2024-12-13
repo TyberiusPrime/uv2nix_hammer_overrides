@@ -4404,6 +4404,9 @@
   lime = {
     "0.2.0.1" = import ./overrides/lime/0.2.0.1;
   };
+  limiter = {
+    "0.5.0" = import ./overrides/limiter/0.5.0;
+  };
   limitlessled = {
     "1.1.3" = import ./overrides/limitlessled/1.1.3;
   };
