@@ -1,0 +1,1 @@
+BuildSystems = [ "cmake", "pybind11", "scikit-build", "setuptools", "setuptools-scm",]
