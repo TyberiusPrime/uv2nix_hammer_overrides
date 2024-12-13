@@ -8680,6 +8680,9 @@
   sqlalchemy-mptt = {
     "0.2.5" = import ./overrides/sqlalchemy-mptt/0.2.5;
   };
+  sqlalchemy-redshift = {
+    "0.8.14" = import ./overrides/sqlalchemy-redshift/0.8.14;
+  };
   sqlalchemy-utils = {
     "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
