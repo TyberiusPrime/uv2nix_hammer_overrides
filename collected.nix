@@ -2553,6 +2553,9 @@
   epydoc = {
     "3.0.1" = import ./overrides/epydoc/3.0.1;
   };
+  equinox = {
+    "0.11.5" = import ./overrides/equinox/0.11.5;
+  };
   erlastic = {
     "2.0.0" = import ./overrides/erlastic/2.0.0;
   };
