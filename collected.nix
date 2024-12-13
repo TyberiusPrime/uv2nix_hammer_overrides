@@ -6891,6 +6891,9 @@
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
   };
+  pymultihash = {
+    "0.8.2" = import ./overrides/pymultihash/0.8.2;
+  };
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
