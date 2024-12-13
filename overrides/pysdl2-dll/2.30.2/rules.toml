@@ -1,1 +1,2 @@
 BuildInputs = [ "~literal:!:pkgs.SDL2",]
+BuildSystems = [ "setuptools",]
