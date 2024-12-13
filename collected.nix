@@ -3486,6 +3486,9 @@
   homura = {
     "0.1.5" = import ./overrides/homura/0.1.5;
   };
+  hop-client = {
+    "0.10.0" = import ./overrides/hop-client/0.10.0;
+  };
   hopcroftkarp = {
     "1.2.5" = import ./overrides/hopcroftkarp/1.2.5;
   };
