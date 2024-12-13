@@ -599,6 +599,9 @@
   base32hex = {
     "1.0.2" = import ./overrides/base32hex/1.0.2;
   };
+  baselines = {
+    "0.1.5" = import ./overrides/baselines/0.1.5;
+  };
   bash = {
     "0.6" = import ./overrides/bash/0.6;
   };
