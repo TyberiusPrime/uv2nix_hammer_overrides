@@ -10097,6 +10097,9 @@
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
+  youtubeaio = {
+    "1.1.5" = import ./overrides/youtubeaio/1.1.5;
+  };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
   };
