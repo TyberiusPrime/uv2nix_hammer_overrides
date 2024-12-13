@@ -4607,6 +4607,9 @@
   mappy = {
     "2.28" = import ./overrides/mappy/2.28;
   };
+  marcopolo = {
+    "0.1.7" = import ./overrides/marcopolo/0.1.7;
+  };
   mariadb = {
     "1.1.10" = import ./overrides/mariadb/1.1.10;
   };
