@@ -4931,6 +4931,9 @@
   mosestokenizer = {
     "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
   };
+  motionblinds = {
+    "0.6.24" = import ./overrides/motionblinds/0.6.24;
+  };
   motuclient = {
     "3.0.0" = import ./overrides/motuclient/3.0.0;
   };
