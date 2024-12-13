@@ -1427,6 +1427,9 @@
   coreschema = {
     "0.0.4" = import ./overrides/coreschema/0.0.4;
   };
+  cornice = {
+    "6.1.0" = import ./overrides/cornice/6.1.0;
+  };
   cos-python-sdk-v5 = {
     "1.9.31" = import ./overrides/cos-python-sdk-v5/1.9.31;
   };
