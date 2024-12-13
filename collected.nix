@@ -10037,6 +10037,9 @@
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
+  xtyping = {
+    "0.8.2" = import ./overrides/xtyping/0.8.2;
+  };
   xvfbwrapper = {
     "0.2.9" = import ./overrides/xvfbwrapper/0.2.9;
   };
