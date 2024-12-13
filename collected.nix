@@ -3571,6 +3571,9 @@
   huey = {
     "2.5.1" = import ./overrides/huey/2.5.1;
   };
+  hug = {
+    "2.6.1" = import ./overrides/hug/2.6.1;
+  };
   humanize = {
     "0.5.1" = import ./overrides/humanize/0.5.1;
   };
