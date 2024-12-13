@@ -6943,6 +6943,9 @@
   pyopengl = {
     "3.1.0" = import ./overrides/pyopengl/3.1.0;
   };
+  pyopnsense = {
+    "0.4.0" = import ./overrides/pyopnsense/0.4.0;
+  };
   pyoppleio = {
     "1.0.7" = import ./overrides/pyoppleio/1.0.7;
   };
