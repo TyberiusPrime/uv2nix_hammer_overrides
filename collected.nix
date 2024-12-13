@@ -9600,6 +9600,9 @@
   urwidtrees = {
     "1.0.3" = import ./overrides/urwidtrees/1.0.3;
   };
+  usb-devices = {
+    "0.4.5" = import ./overrides/usb-devices/0.4.5;
+  };
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
