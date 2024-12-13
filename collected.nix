@@ -4829,6 +4829,9 @@
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
   };
+  mkdocs-awesome-pages-plugin = {
+    "2.9.3" = import ./overrides/mkdocs-awesome-pages-plugin/2.9.3;
+  };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
