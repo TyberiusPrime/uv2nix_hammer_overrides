@@ -1596,6 +1596,9 @@
   cwlgen = {
     "0.4.2" = import ./overrides/cwlgen/0.4.2;
   };
+  cyclone = {
+    "1.3" = import ./overrides/cyclone/1.3;
+  };
   cydets = {
     "1.1" = import ./overrides/cydets/1.1;
   };
@@ -9370,6 +9373,9 @@
   };
   twint = {
     "2.1.20" = import ./overrides/twint/2.1.20;
+  };
+  twisted = {
+    "19.2.1" = import ./overrides/twisted/19.2.1;
   };
   twitter-common-collections = {
     "0.3.11" = import ./overrides/twitter-common-collections/0.3.11;
