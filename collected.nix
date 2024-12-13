@@ -9787,6 +9787,9 @@
   vsure = {
     "2.6.7" = import ./overrides/vsure/2.6.7;
   };
+  vt-py = {
+    "0.18.3" = import ./overrides/vt-py/0.18.3;
+  };
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
   };
