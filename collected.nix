@@ -8631,6 +8631,9 @@
   sphinxcontrib-issuetracker = {
     "0.11" = import ./overrides/sphinxcontrib-issuetracker/0.11;
   };
+  sphinxcontrib-mermaid = {
+    "0.9.2" = import ./overrides/sphinxcontrib-mermaid/0.9.2;
+  };
   sphinxcontrib-mscgen = {
     "0.6" = import ./overrides/sphinxcontrib-mscgen/0.6;
   };
