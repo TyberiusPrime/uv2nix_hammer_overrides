@@ -4514,6 +4514,9 @@
   logster = {
     "0.10.0" = import ./overrides/logster/0.10.0;
   };
+  loguru = {
+    "0.7.2" = import ./overrides/loguru/0.7.2;
+  };
   logutils = {
     "0.3.5" = import ./overrides/logutils/0.3.5;
   };
