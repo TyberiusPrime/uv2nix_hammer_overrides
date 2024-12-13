@@ -3721,6 +3721,9 @@
   importlib2 = {
     "3.5.0.2" = import ./overrides/importlib2/3.5.0.2;
   };
+  importmagic3 = {
+    "0.2.0" = import ./overrides/importmagic3/0.2.0;
+  };
   imread = {
     "0.7.6" = import ./overrides/imread/0.7.6;
   };
@@ -9822,6 +9825,9 @@
   };
   wcag-contrast-ratio = {
     "0.9" = import ./overrides/wcag-contrast-ratio/0.9;
+  };
+  wdb = {
+    "3.3.0" = import ./overrides/wdb/3.3.0;
   };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
