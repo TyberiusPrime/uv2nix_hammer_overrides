@@ -2733,6 +2733,9 @@
   feeluown = {
     "4.1.7" = import ./overrides/feeluown/4.1.7;
   };
+  fenics-ufl = {
+    "2024.1.0.post1" = import ./overrides/fenics-ufl/2024.1.0.post1;
+  };
   fernet = {
     "1.0.1" = import ./overrides/fernet/1.0.1;
   };
