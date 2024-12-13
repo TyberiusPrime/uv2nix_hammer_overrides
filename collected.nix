@@ -6408,6 +6408,9 @@
   pyautogui = {
     "0.9.54" = import ./overrides/pyautogui/0.9.54;
   };
+  pyaxmlparser = {
+    "0.3.31" = import ./overrides/pyaxmlparser/0.3.31;
+  };
   pybars3 = {
     "0.9.7" = import ./overrides/pybars3/0.9.7;
   };
