@@ -1861,6 +1861,9 @@
   dj-static = {
     "0.0.6" = import ./overrides/dj-static/0.0.6;
   };
+  django-ace = {
+    "1.32.4" = import ./overrides/django-ace/1.32.4;
+  };
   django-admin-extra-buttons = {
     "1.5.8" = import ./overrides/django-admin-extra-buttons/1.5.8;
   };
