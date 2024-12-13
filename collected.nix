@@ -8592,6 +8592,9 @@
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
+  spdx-lookup = {
+    "0.3.3" = import ./overrides/spdx-lookup/0.3.3;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
