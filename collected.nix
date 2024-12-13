@@ -2739,6 +2739,9 @@
   ffmpeg = {
     "1.4" = import ./overrides/ffmpeg/1.4;
   };
+  ffmpeg-progress-yield = {
+    "0.8.1" = import ./overrides/ffmpeg-progress-yield/0.8.1;
+  };
   fgame = {
     "0.6.5" = import ./overrides/fgame/0.6.5;
   };
