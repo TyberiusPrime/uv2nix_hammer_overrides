@@ -8861,6 +8861,9 @@
   sxsxml = {
     "0.0.0.5" = import ./overrides/sxsxml/0.0.0.5;
   };
+  sybil = {
+    "6.1.1" = import ./overrides/sybil/6.1.1;
+  };
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
   };
