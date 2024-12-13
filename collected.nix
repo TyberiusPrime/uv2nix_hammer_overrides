@@ -3301,6 +3301,9 @@
   gradient-statsd = {
     "1.0.1" = import ./overrides/gradient-statsd/1.0.1;
   };
+  graia-application-mirai = {
+    "0.20.1" = import ./overrides/graia-application-mirai/0.20.1;
+  };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
   };
