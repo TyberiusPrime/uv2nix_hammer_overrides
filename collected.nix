@@ -2628,6 +2628,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  eyja-internal = {
+    "0.5.3" = import ./overrides/eyja-internal/0.5.3;
+  };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
