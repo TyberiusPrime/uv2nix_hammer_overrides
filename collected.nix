@@ -1791,6 +1791,9 @@
   dhooks = {
     "1.1.4" = import ./overrides/dhooks/1.1.4;
   };
+  dicom-numpy = {
+    "0.6.5" = import ./overrides/dicom-numpy/0.6.5;
+  };
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
