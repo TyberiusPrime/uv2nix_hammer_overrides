@@ -1782,6 +1782,9 @@
   device-detector = {
     "5.0.1" = import ./overrides/device-detector/5.0.1;
   };
+  devtools = {
+    "0.12.2" = import ./overrides/devtools/0.12.2;
+  };
   dexy = {
     "2.0.9" = import ./overrides/dexy/2.0.9;
   };
