@@ -1840,6 +1840,9 @@
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
+  distinctipy = {
+    "1.3.4" = import ./overrides/distinctipy/1.3.4;
+  };
   distorm3 = {
     "3.5.2" = import ./overrides/distorm3/3.5.2;
   };
