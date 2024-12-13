@@ -6369,6 +6369,9 @@
   pyaltt2 = {
     "0.0.117" = import ./overrides/pyaltt2/0.0.117;
   };
+  pyamg = {
+    "5.2.1" = import ./overrides/pyamg/5.2.1;
+  };
   pyandoc = {
     "0.2.0" = import ./overrides/pyandoc/0.2.0;
   };
