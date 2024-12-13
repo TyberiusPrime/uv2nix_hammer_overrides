@@ -5298,6 +5298,9 @@
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
+  nonebot-plugin-apscheduler = {
+    "0.5.0" = import ./overrides/nonebot-plugin-apscheduler/0.5.0;
+  };
   nonstdlib = {
     "1.12.0" = import ./overrides/nonstdlib/1.12.0;
   };
