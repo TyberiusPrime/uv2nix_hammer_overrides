@@ -105,6 +105,9 @@
   aiohttp-devtools = {
     "1.1.2" = import ./overrides/aiohttp-devtools/1.1.2;
   };
+  aiohttp-fast-url-dispatcher = {
+    "0.3.1" = import ./overrides/aiohttp-fast-url-dispatcher/0.3.1;
+  };
   aiohttp-route-decorator = {
     "0.1.4" = import ./overrides/aiohttp-route-decorator/0.1.4;
   };
