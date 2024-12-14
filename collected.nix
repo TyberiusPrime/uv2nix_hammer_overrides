@@ -68,6 +68,9 @@
   advancedhtmlparser = {
     "9.0.2" = import ./overrides/advancedhtmlparser/9.0.2;
   };
+  aeppl = {
+    "0.1.5" = import ./overrides/aeppl/0.1.5;
+  };
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
