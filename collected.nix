@@ -2983,6 +2983,9 @@
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
+  friendly-traceback = {
+    "0.7.61" = import ./overrides/friendly-traceback/0.7.61;
+  };
   frontmatter = {
     "3.0.8" = import ./overrides/frontmatter/3.0.8;
   };
