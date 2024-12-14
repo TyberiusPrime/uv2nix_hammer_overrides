@@ -4589,6 +4589,9 @@
   mailsnake = {
     "1.6.4" = import ./overrides/mailsnake/1.6.4;
   };
+  mailsuite = {
+    "1.9.16" = import ./overrides/mailsuite/1.9.16;
+  };
   mailthon = {
     "0.1.1" = import ./overrides/mailthon/0.1.1;
   };
