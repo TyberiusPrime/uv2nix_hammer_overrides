@@ -1017,6 +1017,9 @@
   chameleon-zpt = {
     "1.1.3" = import ./overrides/chameleon-zpt/1.1.3;
   };
+  chaospy = {
+    "4.3.16" = import ./overrides/chaospy/4.3.16;
+  };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
@@ -5346,6 +5349,9 @@
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
     "0.60.0" = import ./overrides/numba/0.60.0;
+  };
+  numpoly = {
+    "1.3.6" = import ./overrides/numpoly/1.3.6;
   };
   numpy = {
     "1.20.3" = import ./overrides/numpy/1.20.3;
