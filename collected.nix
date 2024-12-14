@@ -1952,6 +1952,9 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-easy-select2 = {
+    "1.5.8" = import ./overrides/django-easy-select2/1.5.8;
+  };
   django-el-pagination = {
     "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
   };
