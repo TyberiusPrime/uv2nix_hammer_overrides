@@ -8583,6 +8583,9 @@
   soundfile = {
     "0.12.1" = import ./overrides/soundfile/0.12.1;
   };
+  soupsieve = {
+    "2.6" = import ./overrides/soupsieve/2.6;
+  };
   south = {
     "1.0.2" = import ./overrides/south/1.0.2;
   };
