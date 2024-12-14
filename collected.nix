@@ -5229,6 +5229,9 @@
   ng-utility = {
     "1.0.3" = import ./overrides/ng-utility/1.0.3;
   };
+  ngboost = {
+    "0.5.1" = import ./overrides/ngboost/0.5.1;
+  };
   nglview = {
     "3.1.2" = import ./overrides/nglview/3.1.2;
   };
