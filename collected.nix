@@ -3877,6 +3877,9 @@
   iwlib = {
     "1.7.0" = import ./overrides/iwlib/1.7.0;
   };
+  j2cli = {
+    "0.3.10" = import ./overrides/j2cli/0.3.10;
+  };
   jabberbot = {
     "0.16" = import ./overrides/jabberbot/0.16;
   };
