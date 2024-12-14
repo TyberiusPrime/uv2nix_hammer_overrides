@@ -3640,6 +3640,9 @@
   icoextract = {
     "0.1.5" = import ./overrides/icoextract/0.1.5;
   };
+  icrawler = {
+    "0.6.9" = import ./overrides/icrawler/0.6.9;
+  };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
   };
