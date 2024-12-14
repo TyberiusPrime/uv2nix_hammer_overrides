@@ -8471,6 +8471,9 @@
   skimpygimpy = {
     "1.4" = import ./overrides/skimpygimpy/1.4;
   };
+  skodaconnect = {
+    "1.3.11" = import ./overrides/skodaconnect/1.3.11;
+  };
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
   };
