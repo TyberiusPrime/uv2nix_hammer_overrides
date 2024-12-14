@@ -8308,6 +8308,9 @@
   setuptools-scm = {
     "8.1.0" = import ./overrides/setuptools-scm/8.1.0;
   };
+  sev-snp-measure = {
+    "0.0.11" = import ./overrides/sev-snp-measure/0.0.11;
+  };
   sewar = {
     "0.4.6" = import ./overrides/sewar/0.4.6;
   };
