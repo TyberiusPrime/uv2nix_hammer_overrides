@@ -9949,6 +9949,9 @@
   wsgiutils = {
     "0.7.2" = import ./overrides/wsgiutils/0.7.2;
   };
+  wslink = {
+    "2.1.3" = import ./overrides/wslink/2.1.3;
+  };
   wstools-py3 = {
     "0.54.5" = import ./overrides/wstools-py3/0.54.5;
   };
