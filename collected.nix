@@ -5099,6 +5099,9 @@
   nad-receiver = {
     "0.3.0" = import ./overrides/nad-receiver/0.3.0;
   };
+  nagisa = {
+    "0.2.11" = import ./overrides/nagisa/0.2.11;
+  };
   names = {
     "0.3.0" = import ./overrides/names/0.3.0;
   };
