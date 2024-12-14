@@ -4706,6 +4706,9 @@
   menpo = {
     "0.11.1" = import ./overrides/menpo/0.11.1;
   };
+  meraki = {
+    "1.50.0" = import ./overrides/meraki/1.50.0;
+  };
   mercurial-extension-utils = {
     "1.5.2" = import ./overrides/mercurial-extension-utils/1.5.2;
   };
