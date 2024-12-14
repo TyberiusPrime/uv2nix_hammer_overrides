@@ -7039,6 +7039,9 @@
   pyramid-deform = {
     "0.2" = import ./overrides/pyramid-deform/0.2;
   };
+  pyramid-jwt = {
+    "1.6.1" = import ./overrides/pyramid-jwt/1.6.1;
+  };
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
   };
