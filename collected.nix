@@ -4287,6 +4287,9 @@
   lbmessaging = {
     "1.2.4" = import ./overrides/lbmessaging/1.2.4;
   };
+  lcd-i2c = {
+    "0.2.3" = import ./overrides/lcd-i2c/0.2.3;
+  };
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
