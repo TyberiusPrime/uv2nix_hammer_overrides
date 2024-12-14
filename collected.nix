@@ -4883,6 +4883,9 @@
   mocket = {
     "3.12.9" = import ./overrides/mocket/3.12.9;
   };
+  modbus-tk = {
+    "1.1.3" = import ./overrides/modbus-tk/1.1.3;
+  };
   modelcatalog-api = {
     "8.0.0" = import ./overrides/modelcatalog-api/8.0.0;
   };
