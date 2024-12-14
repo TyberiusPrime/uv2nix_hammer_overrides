@@ -8701,6 +8701,9 @@
   srvlookup = {
     "3.0.0" = import ./overrides/srvlookup/3.0.0;
   };
+  ssdp = {
+    "1.3.0" = import ./overrides/ssdp/1.3.0;
+  };
   sseclient = {
     "0.0.11" = import ./overrides/sseclient/0.0.11;
     "0.0.27" = import ./overrides/sseclient/0.0.27;
