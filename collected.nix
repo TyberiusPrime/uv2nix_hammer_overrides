@@ -7721,6 +7721,9 @@
   qualname = {
     "0.1.0" = import ./overrides/qualname/0.1.0;
   };
+  qualysclient = {
+    "0.0.4.8.3" = import ./overrides/qualysclient/0.0.4.8.3;
+  };
   quantile-python = {
     "1.1" = import ./overrides/quantile-python/1.1;
   };
