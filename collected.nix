@@ -3486,6 +3486,9 @@
   homura = {
     "0.1.5" = import ./overrides/homura/0.1.5;
   };
+  honcho = {
+    "1.1.0" = import ./overrides/honcho/1.1.0;
+  };
   hopcroftkarp = {
     "1.2.5" = import ./overrides/hopcroftkarp/1.2.5;
   };
