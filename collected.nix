@@ -9793,6 +9793,9 @@
   wagon = {
     "1.0.1" = import ./overrides/wagon/1.0.1;
   };
+  wagtail-localize = {
+    "1.10" = import ./overrides/wagtail-localize/1.10;
+  };
   wai-common = {
     "0.0.44" = import ./overrides/wai-common/0.0.44;
   };
