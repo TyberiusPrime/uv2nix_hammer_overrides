@@ -8589,6 +8589,9 @@
   sox = {
     "1.5.0" = import ./overrides/sox/1.5.0;
   };
+  spacy-alignments = {
+    "0.9.1" = import ./overrides/spacy-alignments/0.9.1;
+  };
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
