@@ -4290,6 +4290,9 @@
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
+  ldapdomaindump = {
+    "0.9.4" = import ./overrides/ldapdomaindump/0.9.4;
+  };
   lepl = {
     "5.1.3" = import ./overrides/lepl/5.1.3;
   };
