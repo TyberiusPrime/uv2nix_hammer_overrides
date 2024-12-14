@@ -5519,6 +5519,9 @@
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
   };
+  opencensus-ext-azure = {
+    "1.1.13" = import ./overrides/opencensus-ext-azure/1.1.13;
+  };
   opencmiss-utils = {
     "0.4.2" = import ./overrides/opencmiss-utils/0.4.2;
   };
