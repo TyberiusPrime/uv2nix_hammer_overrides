@@ -5650,6 +5650,9 @@
   padaos = {
     "0.1.10" = import ./overrides/padaos/0.1.10;
   };
+  pagelabels = {
+    "1.2.1" = import ./overrides/pagelabels/1.2.1;
+  };
   pager = {
     "3.3" = import ./overrides/pager/3.3;
   };
