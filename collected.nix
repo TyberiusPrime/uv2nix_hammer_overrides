@@ -807,6 +807,9 @@
   bonsai = {
     "1.5.3" = import ./overrides/bonsai/1.5.3;
   };
+  boto-session-manager = {
+    "1.7.2" = import ./overrides/boto-session-manager/1.7.2;
+  };
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
