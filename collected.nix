@@ -313,6 +313,9 @@
   appy = {
     "1.0.18" = import ./overrides/appy/1.0.18;
   };
+  apted = {
+    "1.0.3" = import ./overrides/apted/1.0.3;
+  };
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
