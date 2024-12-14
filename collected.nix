@@ -8822,6 +8822,9 @@
   stylus = {
     "0.1.2" = import ./overrides/stylus/0.1.2;
   };
+  submitit = {
+    "1.5.1" = import ./overrides/submitit/1.5.1;
+  };
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
   };
