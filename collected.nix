@@ -1931,6 +1931,9 @@
   django-crontab = {
     "0.7.1" = import ./overrides/django-crontab/0.7.1;
   };
+  django-crum = {
+    "0.7.9" = import ./overrides/django-crum/0.7.9;
+  };
   django-dajaxice = {
     "0.7" = import ./overrides/django-dajaxice/0.7;
   };
