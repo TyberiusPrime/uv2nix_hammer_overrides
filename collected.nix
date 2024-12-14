@@ -9928,6 +9928,9 @@
   wordninja = {
     "2.0.0" = import ./overrides/wordninja/2.0.0;
   };
+  workalendar = {
+    "17.0.0" = import ./overrides/workalendar/17.0.0;
+  };
   workdays = {
     "1.4" = import ./overrides/workdays/1.4;
   };
