@@ -9802,6 +9802,9 @@
   walrus = {
     "0.9.4" = import ./overrides/walrus/0.9.4;
   };
+  warrant-lite = {
+    "1.0.4" = import ./overrides/warrant-lite/1.0.4;
+  };
   watchgod = {
     "0.6" = import ./overrides/watchgod/0.6;
   };
