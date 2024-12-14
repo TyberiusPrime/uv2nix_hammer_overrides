@@ -7718,6 +7718,9 @@
   qtsnbl = {
     "2018.6.8" = import ./overrides/qtsnbl/2018.6.8;
   };
+  quadprog = {
+    "0.1.12" = import ./overrides/quadprog/0.1.12;
+  };
   qualname = {
     "0.1.0" = import ./overrides/qualname/0.1.0;
   };
