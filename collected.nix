@@ -2090,6 +2090,9 @@
   django-piston = {
     "0.2.3" = import ./overrides/django-piston/0.2.3;
   };
+  django-positions = {
+    "0.6.0" = import ./overrides/django-positions/0.6.0;
+  };
   django-pragmatic = {
     "5.0.0" = import ./overrides/django-pragmatic/5.0.0;
   };
