@@ -4865,6 +4865,9 @@
   mo-logs = {
     "4.23.21108" = import ./overrides/mo-logs/4.23.21108;
   };
+  mo-times = {
+    "5.648.24172" = import ./overrides/mo-times/5.648.24172;
+  };
   mobi = {
     "0.3.3" = import ./overrides/mobi/0.3.3;
   };
