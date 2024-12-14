@@ -17,6 +17,9 @@
   abjad = {
     "3.19" = import ./overrides/abjad/3.19;
   };
+  absolufy-imports = {
+    "0.3.1" = import ./overrides/absolufy-imports/0.3.1;
+  };
   accessify = {
     "0.3.1" = import ./overrides/accessify/0.3.1;
   };
