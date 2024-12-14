@@ -337,6 +337,9 @@
   arelle = {
     "2.2" = import ./overrides/arelle/2.2;
   };
+  aresponses = {
+    "3.0.0" = import ./overrides/aresponses/3.0.0;
+  };
   argcomplete = {
     "3.5.0" = import ./overrides/argcomplete/3.5.0;
   };
