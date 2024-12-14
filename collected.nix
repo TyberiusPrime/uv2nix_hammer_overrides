@@ -4443,6 +4443,9 @@
   linuxfd = {
     "1.5" = import ./overrides/linuxfd/1.5;
   };
+  livereload = {
+    "2.7.0" = import ./overrides/livereload/2.7.0;
+  };
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
