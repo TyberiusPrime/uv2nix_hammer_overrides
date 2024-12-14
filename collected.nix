@@ -6135,6 +6135,9 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  products-addremovewidget = {
+    "1.5.2" = import ./overrides/products-addremovewidget/1.5.2;
+  };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
   };
