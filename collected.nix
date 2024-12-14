@@ -4604,6 +4604,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  mapbox-vector-tile = {
+    "2.1.0" = import ./overrides/mapbox-vector-tile/2.1.0;
+  };
   mappy = {
     "2.28" = import ./overrides/mappy/2.28;
   };
