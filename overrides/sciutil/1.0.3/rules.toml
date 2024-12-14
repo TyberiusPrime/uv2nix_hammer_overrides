@@ -1,1 +1,2 @@
+BuildSystems = [ "setuptools",]
 ManualOverrides = "__file__:sciutil/1.0.3/default.nix"
