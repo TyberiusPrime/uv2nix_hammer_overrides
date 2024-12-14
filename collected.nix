@@ -2628,6 +2628,9 @@
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  extinction = {
+    "0.4.6" = import ./overrides/extinction/0.4.6;
+  };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
@@ -8543,6 +8546,9 @@
   };
   snaptime = {
     "0.2.4" = import ./overrides/snaptime/0.2.4;
+  };
+  sncosmo = {
+    "2.11.1" = import ./overrides/sncosmo/2.11.1;
   };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
