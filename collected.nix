@@ -2376,6 +2376,9 @@
   drawille = {
     "0.1.0" = import ./overrides/drawille/0.1.0;
   };
+  drb = {
+    "2.2.1" = import ./overrides/drb/2.2.1;
+  };
   drf-access-policy = {
     "1.5.0" = import ./overrides/drf-access-policy/1.5.0;
   };
