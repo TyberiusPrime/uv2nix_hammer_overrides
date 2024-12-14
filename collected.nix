@@ -5599,6 +5599,9 @@
   ore-alchemist = {
     "0.6.0" = import ./overrides/ore-alchemist/0.6.0;
   };
+  ormar = {
+    "0.20.1" = import ./overrides/ormar/0.20.1;
+  };
   orvibo = {
     "1.1.2" = import ./overrides/orvibo/1.1.2;
   };
