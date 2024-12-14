@@ -3019,6 +3019,9 @@
   ftw-upgrade = {
     "3.3.1" = import ./overrides/ftw-upgrade/3.3.1;
   };
+  fullmetalalchemy = {
+    "1.2.0" = import ./overrides/fullmetalalchemy/1.2.0;
+  };
   funbelts = {
     "0.1.86" = import ./overrides/funbelts/0.1.86;
   };
