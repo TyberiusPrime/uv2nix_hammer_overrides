@@ -5138,6 +5138,9 @@
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
   };
+  nbmake = {
+    "1.5.4" = import ./overrides/nbmake/1.5.4;
+  };
   ncephes = {
     "1.1.0" = import ./overrides/ncephes/1.1.0;
   };
