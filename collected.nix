@@ -1919,6 +1919,9 @@
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
   };
+  django-colorfield = {
+    "0.11.0" = import ./overrides/django-colorfield/0.11.0;
+  };
   django-compat = {
     "1.0.15" = import ./overrides/django-compat/1.0.15;
   };
