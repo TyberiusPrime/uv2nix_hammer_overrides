@@ -4078,6 +4078,9 @@
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
+  k-diffusion = {
+    "0.1.1.post1" = import ./overrides/k-diffusion/0.1.1.post1;
+  };
   kabaret = {
     "2.3.0" = import ./overrides/kabaret/2.3.0;
   };
