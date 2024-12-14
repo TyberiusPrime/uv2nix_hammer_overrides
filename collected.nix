@@ -4601,6 +4601,9 @@
   manifestparser = {
     "2.1.0" = import ./overrides/manifestparser/2.1.0;
   };
+  manim-slides = {
+    "5.1.7" = import ./overrides/manim-slides/5.1.7;
+  };
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
