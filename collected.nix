@@ -978,6 +978,9 @@
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
+  certipy-ad = {
+    "4.8.2" = import ./overrides/certipy-ad/4.8.2;
+  };
   cf-units = {
     "3.2.0" = import ./overrides/cf-units/3.2.0;
   };
