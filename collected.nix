@@ -8816,6 +8816,9 @@
   stripogram = {
     "1.5" = import ./overrides/stripogram/1.5;
   };
+  structlog-overtime = {
+    "1.0.1" = import ./overrides/structlog-overtime/1.0.1;
+  };
   stubserver = {
     "1.1" = import ./overrides/stubserver/1.1;
   };
