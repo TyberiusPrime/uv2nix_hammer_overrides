@@ -7406,6 +7406,9 @@
   python-lzo = {
     "1.15" = import ./overrides/python-lzo/1.15;
   };
+  python-memcached = {
+    "1.62" = import ./overrides/python-memcached/1.62;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
