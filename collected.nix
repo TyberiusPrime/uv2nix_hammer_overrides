@@ -8686,6 +8686,9 @@
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
+  sqllineage = {
+    "1.5.3" = import ./overrides/sqllineage/1.5.3;
+  };
   sqlmap = {
     "1.8.9" = import ./overrides/sqlmap/1.8.9;
   };
