@@ -4595,6 +4595,9 @@
   manage-py = {
     "0.2.10" = import ./overrides/manage-py/0.2.10;
   };
+  mando = {
+    "0.7.1" = import ./overrides/mando/0.7.1;
+  };
   mandrill = {
     "1.0.60" = import ./overrides/mandrill/1.0.60;
   };
