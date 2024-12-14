@@ -3462,6 +3462,9 @@
   hic-straw = {
     "1.3.1" = import ./overrides/hic-straw/1.3.1;
   };
+  hieroglyph = {
+    "2.1.0" = import ./overrides/hieroglyph/2.1.0;
+  };
   hierplace = {
     "1.1.0" = import ./overrides/hierplace/1.1.0;
   };
