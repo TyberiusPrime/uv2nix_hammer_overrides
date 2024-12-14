@@ -32,6 +32,9 @@
   acoustics = {
     "0.2.6" = import ./overrides/acoustics/0.2.6;
   };
+  acryl-datahub = {
+    "0.14.0.4" = import ./overrides/acryl-datahub/0.14.0.4;
+  };
   active-alchemy = {
     "1.1.0" = import ./overrides/active-alchemy/1.1.0;
   };
