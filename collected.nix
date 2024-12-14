@@ -1364,6 +1364,9 @@
   confini = {
     "0.6.5" = import ./overrides/confini/0.6.5;
   };
+  confusable-homoglyphs = {
+    "3.3.1" = import ./overrides/confusable-homoglyphs/3.3.1;
+  };
   confutil = {
     "0.1.4" = import ./overrides/confutil/0.1.4;
   };
