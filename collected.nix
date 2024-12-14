@@ -6812,6 +6812,9 @@
   pyleri = {
     "1.4.3" = import ./overrides/pyleri/1.4.3;
   };
+  pylhe = {
+    "0.9.0" = import ./overrides/pylhe/0.9.0;
+  };
   pylibacl = {
     "0.7.0" = import ./overrides/pylibacl/0.7.0;
   };
