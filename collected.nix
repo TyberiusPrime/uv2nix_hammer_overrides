@@ -5120,6 +5120,9 @@
   nanotime = {
     "0.5.2" = import ./overrides/nanotime/0.5.2;
   };
+  napari-segment-blobs-and-things-with-membranes = {
+    "0.3.8" = import ./overrides/napari-segment-blobs-and-things-with-membranes/0.3.8;
+  };
   nats-py = {
     "2.9.0" = import ./overrides/nats-py/2.9.0;
   };
