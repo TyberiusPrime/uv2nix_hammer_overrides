@@ -1116,6 +1116,9 @@
   click-didyoumean = {
     "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
   };
+  click-pathlib = {
+    "2020.3.13.0" = import ./overrides/click-pathlib/2020.3.13.0;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
