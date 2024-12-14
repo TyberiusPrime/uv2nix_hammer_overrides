@@ -8879,6 +8879,9 @@
   ta = {
     "0.11.0" = import ./overrides/ta/0.11.0;
   };
+  ta-lib = {
+    "0.4.32" = import ./overrides/ta-lib/0.4.32;
+  };
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
