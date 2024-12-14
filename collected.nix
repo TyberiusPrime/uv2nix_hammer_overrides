@@ -5364,6 +5364,9 @@
   nutil = {
     "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
   };
+  nvchecker = {
+    "2.15.1" = import ./overrides/nvchecker/2.15.1;
+  };
   nvidia-cublas-cu12 = {
     "12.1.3.1" = import ./overrides/nvidia-cublas-cu12/12.1.3.1;
     "12.4.5.8" = import ./overrides/nvidia-cublas-cu12/12.4.5.8;
