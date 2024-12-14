@@ -2848,6 +2848,9 @@
   flask-graphql = {
     "2.0.1" = import ./overrides/flask-graphql/2.0.1;
   };
+  flask-htmx = {
+    "0.3.2" = import ./overrides/flask-htmx/0.3.2;
+  };
   flask-iiif = {
     "0.6.3" = import ./overrides/flask-iiif/0.6.3;
   };
