@@ -6372,6 +6372,9 @@
   pyandoc = {
     "0.2.0" = import ./overrides/pyandoc/0.2.0;
   };
+  pyannotate = {
+    "1.2.0" = import ./overrides/pyannotate/1.2.0;
+  };
   pyapi-gitlab = {
     "7.8.5" = import ./overrides/pyapi-gitlab/7.8.5;
   };
