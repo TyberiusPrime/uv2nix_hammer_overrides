@@ -4184,6 +4184,9 @@
     "1.2.1" = import ./overrides/kinparse/1.2.1;
     "1.2.2" = import ./overrides/kinparse/1.2.2;
   };
+  kiss-headers = {
+    "2.4.3" = import ./overrides/kiss-headers/2.4.3;
+  };
   kitchen = {
     "1.2.6" = import ./overrides/kitchen/1.2.6;
   };
