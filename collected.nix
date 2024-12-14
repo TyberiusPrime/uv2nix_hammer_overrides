@@ -954,6 +954,9 @@
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
+  cdktf = {
+    "0.20.8" = import ./overrides/cdktf/0.20.8;
+  };
   cdumay-error = {
     "0.2.0" = import ./overrides/cdumay-error/0.2.0;
   };
