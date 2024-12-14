@@ -9898,6 +9898,9 @@
   winshell = {
     "0.6" = import ./overrides/winshell/0.6;
   };
+  wipac-dev-tools = {
+    "1.12.0" = import ./overrides/wipac-dev-tools/1.12.0;
+  };
   wireless = {
     "0.3.3" = import ./overrides/wireless/0.3.3;
   };
