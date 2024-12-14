@@ -9802,6 +9802,9 @@
   walrus = {
     "0.9.4" = import ./overrides/walrus/0.9.4;
   };
+  wasabi = {
+    "1.1.3" = import ./overrides/wasabi/1.1.3;
+  };
   watchgod = {
     "0.6" = import ./overrides/watchgod/0.6;
   };
