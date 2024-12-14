@@ -9157,6 +9157,9 @@
   toil-lib = {
     "1.1.8" = import ./overrides/toil-lib/1.1.8;
   };
+  tokenize-rt = {
+    "6.0.0" = import ./overrides/tokenize-rt/6.0.0;
+  };
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
