@@ -6849,6 +6849,9 @@
   pymatsolver = {
     "0.2.0" = import ./overrides/pymatsolver/0.2.0;
   };
+  pymbar = {
+    "4.0.3" = import ./overrides/pymbar/4.0.3;
+  };
   pymbolic = {
     "2022.2" = import ./overrides/pymbolic/2022.2;
   };
