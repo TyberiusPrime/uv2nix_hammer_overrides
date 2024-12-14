@@ -8339,6 +8339,9 @@
   sharedmem = {
     "0.3.8" = import ./overrides/sharedmem/0.3.8;
   };
+  shijian = {
+    "2023.10.19.215" = import ./overrides/shijian/2023.10.19.215;
+  };
   shinkenplugins = {
     "0.4.2" = import ./overrides/shinkenplugins/0.4.2;
   };
