@@ -7997,6 +7997,9 @@
   rocketmq-client-python = {
     "2.0.0" = import ./overrides/rocketmq-client-python/2.0.0;
   };
+  rocrate = {
+    "0.10.0" = import ./overrides/rocrate/0.10.0;
+  };
   roku = {
     "4.1.0" = import ./overrides/roku/4.1.0;
   };
