@@ -3973,6 +3973,9 @@
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
   };
+  jschema-to-python = {
+    "1.2.3" = import ./overrides/jschema-to-python/1.2.3;
+  };
   jsl = {
     "0.2.4" = import ./overrides/jsl/0.2.4;
   };
