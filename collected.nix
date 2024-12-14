@@ -9865,6 +9865,9 @@
   webssh = {
     "1.6.2" = import ./overrides/webssh/1.6.2;
   };
+  webthing = {
+    "0.15.0" = import ./overrides/webthing/0.15.0;
+  };
   webthing-ws = {
     "0.2.0" = import ./overrides/webthing-ws/0.2.0;
   };
