@@ -129,6 +129,9 @@
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
+  aiopath = {
+    "0.7.7" = import ./overrides/aiopath/0.7.7;
+  };
   aiopubsub = {
     "2.1.5" = import ./overrides/aiopubsub/2.1.5;
   };
