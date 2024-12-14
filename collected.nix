@@ -3444,6 +3444,9 @@
   hetzner = {
     "0.8.3" = import ./overrides/hetzner/0.8.3;
   };
+  hexagonit-recipe-download = {
+    "1.7.1" = import ./overrides/hexagonit-recipe-download/1.7.1;
+  };
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
