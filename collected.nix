@@ -4490,6 +4490,9 @@
   logbook = {
     "1.5.3" = import ./overrides/logbook/1.5.3;
   };
+  loggable-jdv = {
+    "0.1.7" = import ./overrides/loggable-jdv/0.1.7;
+  };
   logger = {
     "1.4" = import ./overrides/logger/1.4;
   };
