@@ -5781,6 +5781,9 @@
   pecab = {
     "1.0.8" = import ./overrides/pecab/1.0.8;
   };
+  pecan = {
+    "1.5.1" = import ./overrides/pecan/1.5.1;
+  };
   peek-core-device = {
     "3.4.16" = import ./overrides/peek-core-device/3.4.16;
   };
