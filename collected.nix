@@ -5581,6 +5581,9 @@
   optional-django = {
     "0.3.0" = import ./overrides/optional-django/0.3.0;
   };
+  optionaldict = {
+    "0.1.2" = import ./overrides/optionaldict/0.1.2;
+  };
   optproblems = {
     "1.3" = import ./overrides/optproblems/1.3;
   };
