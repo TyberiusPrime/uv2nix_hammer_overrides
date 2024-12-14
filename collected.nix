@@ -861,6 +861,9 @@
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
+  bump2version = {
+    "1.0.1" = import ./overrides/bump2version/1.0.1;
+  };
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
   };
