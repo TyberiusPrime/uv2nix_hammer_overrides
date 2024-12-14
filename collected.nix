@@ -6922,6 +6922,9 @@
   pyo = {
     "1.0.5" = import ./overrides/pyo/1.0.5;
   };
+  pyobihai = {
+    "1.4.2" = import ./overrides/pyobihai/1.4.2;
+  };
   pyocclient = {
     "0.6" = import ./overrides/pyocclient/0.6;
   };
