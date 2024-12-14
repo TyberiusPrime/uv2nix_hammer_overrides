@@ -1776,6 +1776,9 @@
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
+  deserialize = {
+    "2.0.1" = import ./overrides/deserialize/2.0.1;
+  };
   dev0s = {
     "3.36.6" = import ./overrides/dev0s/3.36.6;
   };
