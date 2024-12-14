@@ -4465,6 +4465,9 @@
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
   };
+  loadcredential = {
+    "1.1" = import ./overrides/loadcredential/1.1;
+  };
   localstack = {
     "3.7.2" = import ./overrides/localstack/3.7.2;
   };
