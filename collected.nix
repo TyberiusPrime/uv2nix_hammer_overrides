@@ -4649,6 +4649,9 @@
   masonite-orm = {
     "2.23.1" = import ./overrides/masonite-orm/2.23.1;
   };
+  mat4py = {
+    "0.6.0" = import ./overrides/mat4py/0.6.0;
+  };
   matlab = {
     "0.1" = import ./overrides/matlab/0.1;
   };
