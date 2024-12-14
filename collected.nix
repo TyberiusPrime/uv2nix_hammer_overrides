@@ -3607,6 +3607,9 @@
   hyperloglog = {
     "0.0.14" = import ./overrides/hyperloglog/0.0.14;
   };
+  hypothesis-jsonschema = {
+    "0.23.1" = import ./overrides/hypothesis-jsonschema/0.23.1;
+  };
   hyrule = {
     "0.6.0" = import ./overrides/hyrule/0.6.0;
   };
