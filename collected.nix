@@ -5902,6 +5902,9 @@
   pika-pool = {
     "0.1.3" = import ./overrides/pika-pool/0.1.3;
   };
+  pike = {
+    "0.1.1" = import ./overrides/pike/0.1.1;
+  };
   pilasopencv = {
     "2.7" = import ./overrides/pilasopencv/2.7;
   };
