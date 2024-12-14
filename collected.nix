@@ -5441,6 +5441,9 @@
   odo = {
     "0.5.0" = import ./overrides/odo/0.5.0;
   };
+  odp-amsterdam = {
+    "6.0.2" = import ./overrides/odp-amsterdam/6.0.2;
+  };
   offsetbasedgraph = {
     "2.1.4" = import ./overrides/offsetbasedgraph/2.1.4;
   };
