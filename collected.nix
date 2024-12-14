@@ -305,6 +305,7 @@
     "0.1.0" = import ./overrides/app/0.1.0;
   };
   appium-python-client = {
+    "3.2.1" = import ./overrides/appium-python-client/3.2.1;
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
   applescript = {
@@ -7975,6 +7976,9 @@
   };
   robobrowser = {
     "0.5.3" = import ./overrides/robobrowser/0.5.3;
+  };
+  robotframework-appiumlibrary = {
+    "2.1.0" = import ./overrides/robotframework-appiumlibrary/2.1.0;
   };
   robotframework-pabot = {
     "2.18.0" = import ./overrides/robotframework-pabot/2.18.0;
