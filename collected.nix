@@ -816,6 +816,9 @@
   box2d-py = {
     "2.3.8" = import ./overrides/box2d-py/2.3.8;
   };
+  bpemb = {
+    "0.3.5" = import ./overrides/bpemb/0.3.5;
+  };
   bpycv = {
     "0.4.0" = import ./overrides/bpycv/0.4.0;
   };
