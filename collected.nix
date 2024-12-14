@@ -2421,6 +2421,9 @@
   durc = {
     "3.1.0" = import ./overrides/durc/3.1.0;
   };
+  dwave-neal = {
+    "0.6.0" = import ./overrides/dwave-neal/0.6.0;
+  };
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
