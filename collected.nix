@@ -6042,6 +6042,9 @@
   politico-civic-geography = {
     "0.5.1" = import ./overrides/politico-civic-geography/0.5.1;
   };
+  politico-civic-government = {
+    "0.1.5" = import ./overrides/politico-civic-government/0.1.5;
+  };
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
