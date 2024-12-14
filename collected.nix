@@ -8342,6 +8342,9 @@
   shinkenplugins = {
     "0.4.2" = import ./overrides/shinkenplugins/0.4.2;
   };
+  shippai = {
+    "0.3.2" = import ./overrides/shippai/0.3.2;
+  };
   shodan = {
     "1.31.0" = import ./overrides/shodan/1.31.0;
   };
