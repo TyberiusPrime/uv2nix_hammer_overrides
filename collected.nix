@@ -5739,6 +5739,9 @@
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
+  patool = {
+    "2.4.0" = import ./overrides/patool/2.4.0;
+  };
   pause = {
     "0.3" = import ./overrides/pause/0.3;
   };
