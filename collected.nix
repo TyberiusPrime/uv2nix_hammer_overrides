@@ -6734,6 +6734,9 @@
   pyiceberg = {
     "0.7.1" = import ./overrides/pyiceberg/0.7.1;
   };
+  pyicloud = {
+    "1.0.0" = import ./overrides/pyicloud/1.0.0;
+  };
   pyimgur = {
     "0.6.0" = import ./overrides/pyimgur/0.6.0;
   };
