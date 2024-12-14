@@ -7961,6 +7961,9 @@
   ripozo = {
     "1.3.0" = import ./overrides/ripozo/1.3.0;
   };
+  riprova = {
+    "0.3.1" = import ./overrides/riprova/0.3.1;
+  };
   ritassist = {
     "0.9.3" = import ./overrides/ritassist/0.9.3;
   };
