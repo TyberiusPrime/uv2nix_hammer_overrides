@@ -3059,6 +3059,9 @@
   fysom = {
     "2.1.6" = import ./overrides/fysom/2.1.6;
   };
+  g2pkk = {
+    "0.1.2" = import ./overrides/g2pkk/0.1.2;
+  };
   ga4gh-common = {
     "0.0.7" = import ./overrides/ga4gh-common/0.0.7;
   };
