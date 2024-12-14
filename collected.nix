@@ -9913,6 +9913,9 @@
   wkhtmltopdf = {
     "0.2" = import ./overrides/wkhtmltopdf/0.2;
   };
+  wmctrl = {
+    "0.5" = import ./overrides/wmctrl/0.5;
+  };
   wmd = {
     "1.3.2" = import ./overrides/wmd/1.3.2;
   };
