@@ -8414,6 +8414,9 @@
   simple-translation = {
     "0.8.6" = import ./overrides/simple-translation/0.8.6;
   };
+  simple-websocket-server = {
+    "0.4.4" = import ./overrides/simple-websocket-server/0.4.4;
+  };
   simpleaudio = {
     "1.0.4" = import ./overrides/simpleaudio/1.0.4;
   };
