@@ -9633,6 +9633,9 @@
   validate-email = {
     "1.3" = import ./overrides/validate-email/1.3;
   };
+  validator-collection = {
+    "1.5.0" = import ./overrides/validator-collection/1.5.0;
+  };
   validators = {
     "0.20.0" = import ./overrides/validators/0.20.0;
   };
