@@ -1955,6 +1955,9 @@
   django-el-pagination = {
     "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
   };
+  django-encrypted-model-fields = {
+    "0.6.5" = import ./overrides/django-encrypted-model-fields/0.6.5;
+  };
   django-endless-pagination = {
     "2.0" = import ./overrides/django-endless-pagination/2.0;
   };
