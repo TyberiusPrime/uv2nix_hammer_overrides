@@ -882,6 +882,9 @@
   bz2file = {
     "0.98" = import ./overrides/bz2file/0.98;
   };
+  c4m-flexcell = {
+    "0.4.4" = import ./overrides/c4m-flexcell/0.4.4;
+  };
   cachecontrol = {
     "0.12.3" = import ./overrides/cachecontrol/0.12.3;
   };
