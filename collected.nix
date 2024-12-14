@@ -2935,6 +2935,9 @@
   flexsolve = {
     "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
+  flowlogs-reader = {
+    "5.0.1" = import ./overrides/flowlogs-reader/5.0.1;
+  };
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
