@@ -6177,6 +6177,9 @@
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
+  progressist = {
+    "0.1.0" = import ./overrides/progressist/0.1.0;
+  };
   projectq = {
     "0.8.0" = import ./overrides/projectq/0.8.0;
   };
