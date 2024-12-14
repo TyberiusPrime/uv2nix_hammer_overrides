@@ -6837,6 +6837,9 @@
   pyls-isort = {
     "0.2.2" = import ./overrides/pyls-isort/0.2.2;
   };
+  pylsqpack = {
+    "0.3.18" = import ./overrides/pylsqpack/0.3.18;
+  };
   pylzma = {
     "0.5.0" = import ./overrides/pylzma/0.5.0;
   };
