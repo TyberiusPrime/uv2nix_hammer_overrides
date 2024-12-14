@@ -4254,6 +4254,9 @@
   latex = {
     "0.7.0" = import ./overrides/latex/0.7.0;
   };
+  latexify-py = {
+    "0.4.3.post1" = import ./overrides/latexify-py/0.4.3.post1;
+  };
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
   };
