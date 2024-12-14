@@ -8990,6 +8990,9 @@
   terminaltables = {
     "3.1.0" = import ./overrides/terminaltables/3.1.0;
   };
+  tess-point = {
+    "0.8.1" = import ./overrides/tess-point/0.8.1;
+  };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
