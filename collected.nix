@@ -8030,6 +8030,9 @@
   rpdb = {
     "0.1.6" = import ./overrides/rpdb/0.1.6;
   };
+  rpi-bad-power = {
+    "0.1.0" = import ./overrides/rpi-bad-power/0.1.0;
+  };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
