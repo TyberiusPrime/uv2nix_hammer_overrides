@@ -776,6 +776,9 @@
   blinker = {
     "1.4" = import ./overrides/blinker/1.4;
   };
+  blis = {
+    "1.0.0" = import ./overrides/blis/1.0.0;
+  };
   blist = {
     "1.3.6" = import ./overrides/blist/1.3.6;
   };
