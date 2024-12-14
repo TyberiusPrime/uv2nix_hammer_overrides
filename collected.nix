@@ -5064,6 +5064,9 @@
   mybad = {
     "0.2.0" = import ./overrides/mybad/0.2.0;
   };
+  myokit = {
+    "1.37.0" = import ./overrides/myokit/1.37.0;
+  };
   mypy-extensions = {
     "0.4.4" = import ./overrides/mypy-extensions/0.4.4;
   };
