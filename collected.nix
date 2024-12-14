@@ -5796,6 +5796,9 @@
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
+  peewee-async = {
+    "0.12.1" = import ./overrides/peewee-async/0.12.1;
+  };
   pefile = {
     "2019.4.18" = import ./overrides/pefile/2019.4.18;
   };
