@@ -2385,6 +2385,9 @@
   drf-generators = {
     "0.5.0" = import ./overrides/drf-generators/0.5.0;
   };
+  drf-ujson2 = {
+    "1.7.2" = import ./overrides/drf-ujson2/1.7.2;
+  };
   drfdocs = {
     "0.0.11" = import ./overrides/drfdocs/0.0.11;
   };
