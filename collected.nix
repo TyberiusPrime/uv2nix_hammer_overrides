@@ -10139,6 +10139,9 @@
   zeam-form-base = {
     "1.4.1" = import ./overrides/zeam-form-base/1.4.1;
   };
+  zenutils = {
+    "0.5.5" = import ./overrides/zenutils/0.5.5;
+  };
   zeroc-ice = {
     "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
   };
