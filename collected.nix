@@ -5964,6 +5964,9 @@
   plant = {
     "0.1.3" = import ./overrides/plant/0.1.3;
   };
+  plantuml-markdown = {
+    "3.10.3" = import ./overrides/plantuml-markdown/3.10.3;
+  };
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
