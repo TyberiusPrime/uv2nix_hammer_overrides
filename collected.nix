@@ -2784,6 +2784,9 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  fissix = {
+    "24.4.24" = import ./overrides/fissix/24.4.24;
+  };
   fitsio = {
     "1.2.4" = import ./overrides/fitsio/1.2.4;
   };
