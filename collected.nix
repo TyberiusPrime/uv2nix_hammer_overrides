@@ -4290,6 +4290,9 @@
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
+  leb128 = {
+    "1.0.8" = import ./overrides/leb128/1.0.8;
+  };
   lepl = {
     "5.1.3" = import ./overrides/lepl/5.1.3;
   };
