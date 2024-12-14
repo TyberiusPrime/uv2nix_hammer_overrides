@@ -1779,6 +1779,9 @@
   dev0s = {
     "3.36.6" = import ./overrides/dev0s/3.36.6;
   };
+  devgoldyutils = {
+    "3.0.0" = import ./overrides/devgoldyutils/3.0.0;
+  };
   device-detector = {
     "5.0.1" = import ./overrides/device-detector/5.0.1;
   };
