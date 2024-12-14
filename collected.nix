@@ -7366,6 +7366,9 @@
   python-ioc = {
     "1.13.0" = import ./overrides/python-ioc/1.13.0;
   };
+  python-ipmi = {
+    "0.5.5" = import ./overrides/python-ipmi/0.5.5;
+  };
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
