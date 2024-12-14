@@ -2511,6 +2511,9 @@
   embit = {
     "0.8.0" = import ./overrides/embit/0.8.0;
   };
+  emcee = {
+    "3.1.6" = import ./overrides/emcee/3.1.6;
+  };
   emoji = {
     "1.6.3" = import ./overrides/emoji/1.6.3;
   };
