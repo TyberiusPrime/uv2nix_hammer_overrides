@@ -6891,6 +6891,9 @@
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
   };
+  pymultinest = {
+    "2.12" = import ./overrides/pymultinest/2.12;
+  };
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
