@@ -4922,6 +4922,9 @@
   monthdelta = {
     "0.9.1" = import ./overrides/monthdelta/0.9.1;
   };
+  monty = {
+    "2024.7.30" = import ./overrides/monty/2024.7.30;
+  };
   mordred = {
     "1.2.0" = import ./overrides/mordred/1.2.0;
   };
