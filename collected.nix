@@ -912,6 +912,9 @@
   canonical = {
     "0.52.0" = import ./overrides/canonical/0.52.0;
   };
+  canonicaljson = {
+    "2.0.0" = import ./overrides/canonicaljson/2.0.0;
+  };
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
