@@ -861,6 +861,9 @@
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
+  bundlewrap-teamvault = {
+    "3.1.5" = import ./overrides/bundlewrap-teamvault/3.1.5;
+  };
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
   };
