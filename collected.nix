@@ -4793,6 +4793,9 @@
   migen = {
     "0.9.2" = import ./overrides/migen/0.9.2;
   };
+  migra = {
+    "3.0.1663481299" = import ./overrides/migra/3.0.1663481299;
+  };
   millify = {
     "0.1.1" = import ./overrides/millify/0.1.1;
   };
