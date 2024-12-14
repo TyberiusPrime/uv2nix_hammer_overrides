@@ -9458,6 +9458,9 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  tzwhere = {
+    "3.0.3" = import ./overrides/tzwhere/3.0.3;
+  };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
   };
