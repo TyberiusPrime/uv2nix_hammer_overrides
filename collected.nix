@@ -7856,6 +7856,9 @@
   regional = {
     "1.1.2" = import ./overrides/regional/1.1.2;
   };
+  regress = {
+    "2024.8.1" = import ./overrides/regress/2024.8.1;
+  };
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
