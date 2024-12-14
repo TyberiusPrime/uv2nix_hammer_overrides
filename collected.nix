@@ -4805,6 +4805,9 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  minari = {
+    "0.5.0" = import ./overrides/minari/0.5.0;
+  };
   minepy = {
     "1.2.6" = import ./overrides/minepy/1.2.6;
   };
