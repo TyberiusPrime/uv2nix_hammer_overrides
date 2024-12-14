@@ -4383,6 +4383,9 @@
   licorice = {
     "0.0.7" = import ./overrides/licorice/0.0.7;
   };
+  lifeguard = {
+    "1.5.2" = import ./overrides/lifeguard/1.5.2;
+  };
   lifxlan = {
     "1.2.7" = import ./overrides/lifxlan/1.2.7;
   };
