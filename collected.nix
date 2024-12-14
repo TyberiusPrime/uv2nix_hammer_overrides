@@ -3071,6 +3071,9 @@
   gaegraph = {
     "3.9" = import ./overrides/gaegraph/3.9;
   };
+  galaxy-fds-sdk = {
+    "1.4.41" = import ./overrides/galaxy-fds-sdk/1.4.41;
+  };
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
