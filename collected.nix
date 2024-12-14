@@ -8750,6 +8750,9 @@
   stheno = {
     "1.4.1" = import ./overrides/stheno/1.4.1;
   };
+  stix2-patterns = {
+    "2.0.0" = import ./overrides/stix2-patterns/2.0.0;
+  };
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
