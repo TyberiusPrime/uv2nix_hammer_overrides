@@ -1461,6 +1461,9 @@
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
+  cppy = {
+    "1.2.1" = import ./overrides/cppy/1.2.1;
+  };
   cppyy = {
     "3.1.2" = import ./overrides/cppyy/3.1.2;
   };
