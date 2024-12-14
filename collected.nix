@@ -3796,6 +3796,9 @@
   intermake = {
     "1.0.0.78" = import ./overrides/intermake/1.0.0.78;
   };
+  interpret-core = {
+    "0.6.3" = import ./overrides/interpret-core/0.6.3;
+  };
   interruptingcow = {
     "0.8" = import ./overrides/interruptingcow/0.8;
   };
