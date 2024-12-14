@@ -7526,6 +7526,9 @@
   pythonegardia = {
     "1.0.52" = import ./overrides/pythonegardia/1.0.52;
   };
+  pythonping = {
+    "1.1.4" = import ./overrides/pythonping/1.1.4;
+  };
   pythontoolskit = {
     "1.2.6" = import ./overrides/pythontoolskit/1.2.6;
   };
