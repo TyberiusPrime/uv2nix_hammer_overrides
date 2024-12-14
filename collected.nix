@@ -8885,6 +8885,9 @@
   tables = {
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
+  tag-expressions = {
+    "2.0.0" = import ./overrides/tag-expressions/2.0.0;
+  };
   tailer = {
     "0.4.1" = import ./overrides/tailer/0.4.1;
   };
