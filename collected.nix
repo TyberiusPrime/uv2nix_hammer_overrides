@@ -8595,6 +8595,9 @@
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
+  spec2nexus = {
+    "2021.2.6" = import ./overrides/spec2nexus/2021.2.6;
+  };
   spectra = {
     "0.0.11" = import ./overrides/spectra/0.0.11;
   };
