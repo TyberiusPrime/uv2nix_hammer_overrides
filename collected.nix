@@ -2944,6 +2944,9 @@
   fogbugz = {
     "1.0.6" = import ./overrides/fogbugz/1.0.6;
   };
+  fontmake = {
+    "3.9.0" = import ./overrides/fontmake/3.9.0;
+  };
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
   };
