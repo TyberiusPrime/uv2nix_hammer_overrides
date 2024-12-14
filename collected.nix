@@ -10145,6 +10145,9 @@
   zerotk-zops = {
     "0.5.3" = import ./overrides/zerotk-zops/0.5.3;
   };
+  zeversolarlocal = {
+    "1.1.0" = import ./overrides/zeversolarlocal/1.1.0;
+  };
   zhconv = {
     "1.4.3" = import ./overrides/zhconv/1.4.3;
   };
