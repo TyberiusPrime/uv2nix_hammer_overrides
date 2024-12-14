@@ -5298,6 +5298,9 @@
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
+  nonebot-plugin-send-anything-anywhere = {
+    "0.7.1" = import ./overrides/nonebot-plugin-send-anything-anywhere/0.7.1;
+  };
   nonstdlib = {
     "1.12.0" = import ./overrides/nonstdlib/1.12.0;
   };
