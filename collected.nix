@@ -17,6 +17,9 @@
   abjad = {
     "3.19" = import ./overrides/abjad/3.19;
   };
+  accessible-pygments = {
+    "0.0.5" = import ./overrides/accessible-pygments/0.0.5;
+  };
   accessify = {
     "0.3.1" = import ./overrides/accessify/0.3.1;
   };
