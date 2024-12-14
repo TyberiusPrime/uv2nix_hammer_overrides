@@ -6484,6 +6484,9 @@
   pycolorizer = {
     "1.1.0" = import ./overrides/pycolorizer/1.1.0;
   };
+  pycomfoconnect = {
+    "0.5.1" = import ./overrides/pycomfoconnect/0.5.1;
+  };
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
