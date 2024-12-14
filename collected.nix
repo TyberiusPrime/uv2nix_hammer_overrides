@@ -2640,6 +2640,9 @@
   f5-sdk = {
     "3.0.21" = import ./overrides/f5-sdk/3.0.21;
   };
+  fabric2 = {
+    "3.2.2" = import ./overrides/fabric2/3.2.2;
+  };
   fabtools = {
     "0.20.0" = import ./overrides/fabtools/0.20.0;
   };
