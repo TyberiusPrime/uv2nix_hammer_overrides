@@ -8544,6 +8544,9 @@
   snaptime = {
     "0.2.4" = import ./overrides/snaptime/0.2.4;
   };
+  snowflake-sqlalchemy = {
+    "1.6.1" = import ./overrides/snowflake-sqlalchemy/1.6.1;
+  };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
   };
