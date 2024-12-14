@@ -9805,6 +9805,9 @@
   watchgod = {
     "0.6" = import ./overrides/watchgod/0.6;
   };
+  watermark = {
+    "2.4.3" = import ./overrides/watermark/2.4.3;
+  };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
