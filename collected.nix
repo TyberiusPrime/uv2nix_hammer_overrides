@@ -470,6 +470,9 @@
   aurorapy = {
     "0.2.7" = import ./overrides/aurorapy/0.2.7;
   };
+  autarco = {
+    "2.0.0" = import ./overrides/autarco/2.0.0;
+  };
   authheaders = {
     "0.16.3" = import ./overrides/authheaders/0.16.3;
   };
