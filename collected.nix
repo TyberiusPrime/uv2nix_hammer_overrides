@@ -3811,6 +3811,9 @@
   invenio-rdm-records = {
     "12.1.0" = import ./overrides/invenio-rdm-records/12.1.0;
   };
+  investpy = {
+    "1.0.8" = import ./overrides/investpy/1.0.8;
+  };
   iocapture = {
     "0.1.2" = import ./overrides/iocapture/0.1.2;
   };
