@@ -737,6 +737,9 @@
   bitcoin = {
     "1.1.39" = import ./overrides/bitcoin/1.1.39;
   };
+  bitcoin-utils-fork-minimal = {
+    "0.4.11.6" = import ./overrides/bitcoin-utils-fork-minimal/0.4.11.6;
+  };
   bitmath = {
     "1.3.3.1" = import ./overrides/bitmath/1.3.3.1;
   };
