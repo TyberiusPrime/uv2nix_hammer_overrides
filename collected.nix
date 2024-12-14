@@ -1017,6 +1017,9 @@
   chameleon-zpt = {
     "1.1.3" = import ./overrides/chameleon-zpt/1.1.3;
   };
+  channels = {
+    "4.1.0" = import ./overrides/channels/4.1.0;
+  };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
   };
