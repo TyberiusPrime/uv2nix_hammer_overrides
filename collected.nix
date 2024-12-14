@@ -1098,6 +1098,9 @@
   cl1 = {
     "1.13.3" = import ./overrides/cl1/1.13.3;
   };
+  classify-imports = {
+    "4.2.0" = import ./overrides/classify-imports/4.2.0;
+  };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
