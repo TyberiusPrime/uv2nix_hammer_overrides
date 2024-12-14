@@ -9467,6 +9467,9 @@
   uflash = {
     "2.0.0" = import ./overrides/uflash/2.0.0;
   };
+  ufolint = {
+    "1.2.0" = import ./overrides/ufolint/1.2.0;
+  };
   ujson = {
     "1.35" = import ./overrides/ujson/1.35;
   };
