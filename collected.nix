@@ -190,6 +190,9 @@
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
   };
+  alpha-vantage = {
+    "3.0.0" = import ./overrides/alpha-vantage/3.0.0;
+  };
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
