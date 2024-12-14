@@ -3152,6 +3152,9 @@
   gfal2-python = {
     "1.12.2" = import ./overrides/gfal2-python/1.12.2;
   };
+  ghapi = {
+    "1.0.6" = import ./overrides/ghapi/1.0.6;
+  };
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
