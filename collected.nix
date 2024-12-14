@@ -4481,6 +4481,9 @@
   lock = {
     "2018.3.25.2110" = import ./overrides/lock/2018.3.25.2110;
   };
+  lofo-importance = {
+    "0.3.4" = import ./overrides/lofo-importance/0.3.4;
+  };
   log-colorizer = {
     "2.0.0" = import ./overrides/log-colorizer/2.0.0;
   };
