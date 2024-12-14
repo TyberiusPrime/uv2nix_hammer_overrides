@@ -6060,6 +6060,9 @@
   posix-ipc = {
     "1.1.1" = import ./overrides/posix-ipc/1.1.1;
   };
+  postgres = {
+    "4.0" = import ./overrides/postgres/4.0;
+  };
   potaahto = {
     "0.1.2" = import ./overrides/potaahto/0.1.2;
   };
