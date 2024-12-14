@@ -8195,6 +8195,9 @@
   sciencedates = {
     "1.5.0" = import ./overrides/sciencedates/1.5.0;
   };
+  scikit-allel = {
+    "1.3.11" = import ./overrides/scikit-allel/1.3.11;
+  };
   scikit-bio = {
     "0.6.2" = import ./overrides/scikit-bio/0.6.2;
   };
