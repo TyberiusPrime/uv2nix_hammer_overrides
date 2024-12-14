@@ -8517,6 +8517,9 @@
   smallvectors = {
     "0.7.0" = import ./overrides/smallvectors/0.7.0;
   };
+  smart-meter-texas = {
+    "0.5.5" = import ./overrides/smart-meter-texas/0.5.5;
+  };
   smbus = {
     "1.1.post2" = import ./overrides/smbus/1.1.post2;
   };
