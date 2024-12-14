@@ -2373,6 +2373,9 @@
   dpt-threading = {
     "2.0.2" = import ./overrides/dpt-threading/2.0.2;
   };
+  dpu-utils = {
+    "0.6.1" = import ./overrides/dpu-utils/0.6.1;
+  };
   drawille = {
     "0.1.0" = import ./overrides/drawille/0.1.0;
   };
