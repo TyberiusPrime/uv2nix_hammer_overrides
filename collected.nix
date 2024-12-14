@@ -1916,6 +1916,9 @@
   django-cleavejs = {
     "0.1.1" = import ./overrides/django-cleavejs/0.1.1;
   };
+  django-click = {
+    "2.4.0" = import ./overrides/django-click/2.4.0;
+  };
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
   };
