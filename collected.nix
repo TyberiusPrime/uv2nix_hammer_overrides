@@ -8804,6 +8804,9 @@
   strict-rfc3339 = {
     "0.7" = import ./overrides/strict-rfc3339/0.7;
   };
+  stringbrewer = {
+    "0.0.1" = import ./overrides/stringbrewer/0.0.1;
+  };
   stringcase = {
     "1.2.0" = import ./overrides/stringcase/1.2.0;
   };
