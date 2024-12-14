@@ -8906,6 +8906,9 @@
   tbb = {
     "2021.13.1" = import ./overrides/tbb/2021.13.1;
   };
+  tbm-utils = {
+    "2.6.0" = import ./overrides/tbm-utils/2.6.0;
+  };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
