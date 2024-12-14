@@ -1086,6 +1086,9 @@
   circuit-webhook = {
     "1.0.1" = import ./overrides/circuit-webhook/1.0.1;
   };
+  circuitbreaker = {
+    "2.0.0" = import ./overrides/circuitbreaker/2.0.0;
+  };
   circum = {
     "0.0.6" = import ./overrides/circum/0.0.6;
   };
