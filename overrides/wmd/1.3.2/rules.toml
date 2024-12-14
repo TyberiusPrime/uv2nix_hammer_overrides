@@ -1,1 +1,1 @@
-BuildSystems = [ "setuptools",]
+BuildSystems = [ "numpy", "setuptools",]
