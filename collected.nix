@@ -7808,6 +7808,9 @@
   recaptcha-client = {
     "1.0.6" = import ./overrides/recaptcha-client/1.0.6;
   };
+  reciprocalspaceship = {
+    "1.0.2" = import ./overrides/reciprocalspaceship/1.0.2;
+  };
   reconfigure = {
     "0.1.82" = import ./overrides/reconfigure/0.1.82;
   };
