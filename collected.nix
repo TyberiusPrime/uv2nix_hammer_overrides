@@ -9154,6 +9154,9 @@
   tlv8 = {
     "0.10.0" = import ./overrides/tlv8/0.10.0;
   };
+  todoist-api-python = {
+    "2.1.7" = import ./overrides/todoist-api-python/2.1.7;
+  };
   toil-lib = {
     "1.1.8" = import ./overrides/toil-lib/1.1.8;
   };
