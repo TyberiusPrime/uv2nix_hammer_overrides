@@ -9771,6 +9771,9 @@
   volvooncall = {
     "0.10.4" = import ./overrides/volvooncall/0.10.4;
   };
+  vonage = {
+    "3.17.1" = import ./overrides/vonage/3.17.1;
+  };
   vortexpy = {
     "3.0.0" = import ./overrides/vortexpy/3.0.0;
     "3.1.0" = import ./overrides/vortexpy/3.1.0;
