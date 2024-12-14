@@ -4742,6 +4742,9 @@
   meteocalc = {
     "1.1.0" = import ./overrides/meteocalc/1.1.0;
   };
+  meteofrance-api = {
+    "1.3.0" = import ./overrides/meteofrance-api/1.3.0;
+  };
   meteor-ejson = {
     "1.1.0" = import ./overrides/meteor-ejson/1.1.0;
   };
