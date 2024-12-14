@@ -1307,6 +1307,9 @@
   colortools = {
     "0.1.2" = import ./overrides/colortools/0.1.2;
   };
+  colour-runner = {
+    "0.1.1" = import ./overrides/colour-runner/0.1.1;
+  };
   colr = {
     "0.9.1" = import ./overrides/colr/0.9.1;
   };
