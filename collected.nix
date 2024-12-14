@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  jupyterhub-tmpauthenticator = {
+    "1.0.0" = import ./overrides/jupyterhub-tmpauthenticator/1.0.0;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
