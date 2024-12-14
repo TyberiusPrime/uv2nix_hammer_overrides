@@ -1596,6 +1596,9 @@
   cwlgen = {
     "0.4.2" = import ./overrides/cwlgen/0.4.2;
   };
+  cyclonedx-python-lib = {
+    "7.6.0" = import ./overrides/cyclonedx-python-lib/7.6.0;
+  };
   cydets = {
     "1.1" = import ./overrides/cydets/1.1;
   };
