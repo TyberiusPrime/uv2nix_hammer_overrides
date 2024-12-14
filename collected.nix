@@ -2664,6 +2664,9 @@
   fairseq = {
     "0.12.2" = import ./overrides/fairseq/0.12.2;
   };
+  fake-factory = {
+    "9999.9.9" = import ./overrides/fake-factory/9999.9.9;
+  };
   falcon-cors = {
     "1.1.7" = import ./overrides/falcon-cors/1.1.7;
   };
