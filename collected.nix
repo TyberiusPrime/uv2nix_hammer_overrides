@@ -4715,6 +4715,9 @@
   merkletools = {
     "1.0.3" = import ./overrides/merkletools/1.0.3;
   };
+  mesh-tensorflow = {
+    "0.1.21" = import ./overrides/mesh-tensorflow/0.1.21;
+  };
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
