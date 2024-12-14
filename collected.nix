@@ -4547,6 +4547,9 @@
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
+  luigi = {
+    "3.5.2" = import ./overrides/luigi/3.5.2;
+  };
   lyrebird = {
     "3.0.5" = import ./overrides/lyrebird/3.0.5;
   };
