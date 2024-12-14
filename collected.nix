@@ -9281,6 +9281,9 @@
   trading-calendars = {
     "2.1.1" = import ./overrides/trading-calendars/2.1.1;
   };
+  trafilatura = {
+    "1.12.2" = import ./overrides/trafilatura/1.12.2;
+  };
   traits = {
     "6.3.2" = import ./overrides/traits/6.3.2;
   };
