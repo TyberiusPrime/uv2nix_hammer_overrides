@@ -6270,6 +6270,9 @@
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
   };
+  pure-cdb = {
+    "4.0.0" = import ./overrides/pure-cdb/4.0.0;
+  };
   pure-sasl = {
     "0.6.2" = import ./overrides/pure-sasl/0.6.2;
   };
