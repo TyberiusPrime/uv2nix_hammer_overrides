@@ -4455,6 +4455,9 @@
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
+  llama-index-embeddings-google = {
+    "0.2.1" = import ./overrides/llama-index-embeddings-google/0.2.1;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
