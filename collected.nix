@@ -1695,6 +1695,9 @@
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
+  datasketch = {
+    "1.6.5" = import ./overrides/datasketch/1.6.5;
+  };
   datazilla = {
     "1.4" = import ./overrides/datazilla/1.4;
   };
