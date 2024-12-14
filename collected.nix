@@ -5361,6 +5361,9 @@
   numpy2gif = {
     "1.0" = import ./overrides/numpy2gif/1.0;
   };
+  numpyencoder = {
+    "0.3.0" = import ./overrides/numpyencoder/0.3.0;
+  };
   nutil = {
     "1.0.0.post137" = import ./overrides/nutil/1.0.0.post137;
   };
