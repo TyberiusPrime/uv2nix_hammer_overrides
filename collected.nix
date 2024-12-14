@@ -3769,6 +3769,9 @@
   input-algorithms = {
     "0.6.0" = import ./overrides/input-algorithms/0.6.0;
   };
+  inquirerpy = {
+    "0.3.4" = import ./overrides/inquirerpy/0.3.4;
+  };
   insightface = {
     "0.7.3" = import ./overrides/insightface/0.7.3;
   };
