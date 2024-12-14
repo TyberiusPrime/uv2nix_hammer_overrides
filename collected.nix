@@ -3213,6 +3213,9 @@
   gluonnlp = {
     "0.10.0" = import ./overrides/gluonnlp/0.10.0;
   };
+  glyphtools = {
+    "0.8.0" = import ./overrides/glyphtools/0.8.0;
+  };
   gmail = {
     "0.6.3" = import ./overrides/gmail/0.6.3;
   };
