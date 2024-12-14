@@ -394,6 +394,9 @@
   asciitree = {
     "0.3.3" = import ./overrides/asciitree/0.3.3;
   };
+  asgi-tools = {
+    "1.0.10" = import ./overrides/asgi-tools/1.0.10;
+  };
   asks = {
     "2.4.12" = import ./overrides/asks/2.4.12;
     "3.0.0" = import ./overrides/asks/3.0.0;
