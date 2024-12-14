@@ -26,6 +26,9 @@
   accupy = {
     "0.3.6" = import ./overrides/accupy/0.3.6;
   };
+  acme-tiny = {
+    "5.0.1" = import ./overrides/acme-tiny/5.0.1;
+  };
   acor = {
     "1.1.1" = import ./overrides/acor/1.1.1;
   };
