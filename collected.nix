@@ -3610,6 +3610,9 @@
   hyrule = {
     "0.6.0" = import ./overrides/hyrule/0.6.0;
   };
+  i18ndude = {
+    "6.2.1" = import ./overrides/i18ndude/6.2.1;
+  };
   i3-instant-layout = {
     "0.1.12" = import ./overrides/i3-instant-layout/0.1.12;
   };
