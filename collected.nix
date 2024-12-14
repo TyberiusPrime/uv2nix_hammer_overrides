@@ -4679,6 +4679,9 @@
   mdv = {
     "1.7.5" = import ./overrides/mdv/1.7.5;
   };
+  mdx-truly-sane-lists = {
+    "1.3" = import ./overrides/mdx-truly-sane-lists/1.3;
+  };
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
   };
