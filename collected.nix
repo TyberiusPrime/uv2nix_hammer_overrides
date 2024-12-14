@@ -7790,6 +7790,9 @@
   rcsb-utils-io = {
     "1.49" = import ./overrides/rcsb-utils-io/1.49;
   };
+  rdflib-sqlalchemy = {
+    "0.5.4" = import ./overrides/rdflib-sqlalchemy/0.5.4;
+  };
   rdp = {
     "0.8" = import ./overrides/rdp/0.8;
   };
