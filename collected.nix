@@ -1725,6 +1725,9 @@
   deap = {
     "1.4.1" = import ./overrides/deap/1.4.1;
   };
+  deb-pkg-tools = {
+    "8.4" = import ./overrides/deb-pkg-tools/8.4;
+  };
   debts = {
     "0.5" = import ./overrides/debts/0.5;
   };
