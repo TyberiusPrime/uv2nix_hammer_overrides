@@ -4829,6 +4829,9 @@
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
   };
+  missingbits = {
+    "0.0.16" = import ./overrides/missingbits/0.0.16;
+  };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
