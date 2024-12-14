@@ -7354,6 +7354,9 @@
   python-highcharts = {
     "0.4.2" = import ./overrides/python-highcharts/0.4.2;
   };
+  python-homewizard-energy = {
+    "6.3.0" = import ./overrides/python-homewizard-energy/6.3.0;
+  };
   python-hostlist = {
     "1.23.0" = import ./overrides/python-hostlist/1.23.0;
   };
