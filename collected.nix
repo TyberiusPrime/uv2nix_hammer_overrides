@@ -8822,6 +8822,9 @@
   stylus = {
     "0.1.2" = import ./overrides/stylus/0.1.2;
   };
+  subarulink = {
+    "0.7.12" = import ./overrides/subarulink/0.7.12;
+  };
   subprocess32 = {
     "3.5.4" = import ./overrides/subprocess32/3.5.4;
   };
