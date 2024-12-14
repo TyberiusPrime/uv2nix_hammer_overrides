@@ -2769,6 +2769,9 @@
   filterpy = {
     "1.4.5" = import ./overrides/filterpy/1.4.5;
   };
+  find-git-repos = {
+    "1.1.0" = import ./overrides/find-git-repos/1.1.0;
+  };
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
   };
