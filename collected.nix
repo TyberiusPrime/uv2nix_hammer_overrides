@@ -7904,6 +7904,9 @@
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
+  reretry = {
+    "0.11.8" = import ./overrides/reretry/0.11.8;
+  };
   reserved = {
     "0.1.1" = import ./overrides/reserved/0.1.1;
   };
