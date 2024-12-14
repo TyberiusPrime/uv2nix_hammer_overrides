@@ -2980,6 +2980,9 @@
   freesasa = {
     "2.2.1" = import ./overrides/freesasa/2.2.1;
   };
+  frictionless-ckan-mapper = {
+    "1.0.9" = import ./overrides/frictionless-ckan-mapper/1.0.9;
+  };
   frida-tools = {
     "12.5.1" = import ./overrides/frida-tools/12.5.1;
   };
