@@ -3465,6 +3465,9 @@
   hierplace = {
     "1.1.0" = import ./overrides/hierplace/1.1.0;
   };
+  hijri-converter = {
+    "2.3.1" = import ./overrides/hijri-converter/2.3.1;
+  };
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
