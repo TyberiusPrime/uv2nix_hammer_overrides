@@ -6683,6 +6683,9 @@
   pygeoif = {
     "0.7" = import ./overrides/pygeoif/0.7;
   };
+  pygerduty = {
+    "0.38.3" = import ./overrides/pygerduty/0.38.3;
+  };
   pygerrit2 = {
     "2.0.15" = import ./overrides/pygerrit2/2.0.15;
   };
