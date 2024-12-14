@@ -203,6 +203,9 @@
   amino = {
     "13.0.1" = import ./overrides/amino/13.0.1;
   };
+  amqp = {
+    "5.2.0" = import ./overrides/amqp/5.2.0;
+  };
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
   };
