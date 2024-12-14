@@ -7161,6 +7161,9 @@
   pysolr = {
     "3.9.0" = import ./overrides/pysolr/3.9.0;
   };
+  pysonos = {
+    "0.0.54" = import ./overrides/pysonos/0.0.54;
+  };
   pyspark = {
     "3.5.2" = import ./overrides/pyspark/3.5.2;
   };
