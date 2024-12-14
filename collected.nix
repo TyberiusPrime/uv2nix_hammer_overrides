@@ -2337,6 +2337,27 @@
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  dolmen-app-layout = {
+    "1.0" = import ./overrides/dolmen-app-layout/1.0;
+  };
+  dolmen-app-security = {
+    "0.1" = import ./overrides/dolmen-app-security/0.1;
+  };
+  dolmen-content = {
+    "0.7.1" = import ./overrides/dolmen-content/0.7.1;
+  };
+  dolmen-field = {
+    "0.3" = import ./overrides/dolmen-field/0.3;
+  };
+  dolmen-forms-base = {
+    "1.2.1" = import ./overrides/dolmen-forms-base/1.2.1;
+  };
+  dolmen-forms-crud = {
+    "1.0" = import ./overrides/dolmen-forms-crud/1.0;
+  };
+  dolmen-menu = {
+    "0.5" = import ./overrides/dolmen-menu/0.5;
+  };
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
@@ -4687,6 +4708,9 @@
   };
   megrok-pagetemplate = {
     "0.7" = import ./overrides/megrok-pagetemplate/0.7;
+  };
+  megrok-resourceviewlet = {
+    "0.2" = import ./overrides/megrok-resourceviewlet/0.2;
   };
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
@@ -10138,6 +10162,15 @@
   };
   zeam-form-base = {
     "1.4.1" = import ./overrides/zeam-form-base/1.4.1;
+  };
+  zeam-form-composed = {
+    "1.3.3" = import ./overrides/zeam-form-composed/1.3.3;
+  };
+  zeam-form-layout = {
+    "0.3.1" = import ./overrides/zeam-form-layout/0.3.1;
+  };
+  zeam-form-ztk = {
+    "1.4.0" = import ./overrides/zeam-form-ztk/1.4.0;
   };
   zeroc-ice = {
     "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
