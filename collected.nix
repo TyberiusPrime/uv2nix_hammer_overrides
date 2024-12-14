@@ -7973,6 +7973,9 @@
   roadtools = {
     "0.0.1" = import ./overrides/roadtools/0.0.1;
   };
+  roadtx = {
+    "1.9.0" = import ./overrides/roadtx/1.9.0;
+  };
   robobrowser = {
     "0.5.3" = import ./overrides/robobrowser/0.5.3;
   };
