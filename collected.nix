@@ -5690,6 +5690,9 @@
   pandastable = {
     "0.13.1" = import ./overrides/pandastable/0.13.1;
   };
+  pandera = {
+    "0.20.4" = import ./overrides/pandera/0.20.4;
+  };
   pandoc = {
     "2.4" = import ./overrides/pandoc/2.4;
   };
