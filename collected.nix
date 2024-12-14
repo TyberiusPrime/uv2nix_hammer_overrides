@@ -4604,6 +4604,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  mapbox-earcut = {
+    "1.0.2" = import ./overrides/mapbox-earcut/1.0.2;
+  };
   mappy = {
     "2.28" = import ./overrides/mappy/2.28;
   };
