@@ -2403,6 +2403,12 @@
   dtw = {
     "1.4.0" = import ./overrides/dtw/1.4.0;
   };
+  duckietown-build-utils-daffy = {
+    "6.2.78" = import ./overrides/duckietown-build-utils-daffy/6.2.78;
+  };
+  duckietown-challenges-daffy = {
+    "6.5.2" = import ./overrides/duckietown-challenges-daffy/6.5.2;
+  };
   duckietown-docker-utils-daffy = {
     "6.1.1" = import ./overrides/duckietown-docker-utils-daffy/6.1.1;
   };
