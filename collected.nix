@@ -1695,6 +1695,9 @@
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
+  datauri = {
+    "1.0.0" = import ./overrides/datauri/1.0.0;
+  };
   datazilla = {
     "1.4" = import ./overrides/datazilla/1.4;
   };
