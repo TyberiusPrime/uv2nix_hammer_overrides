@@ -3158,6 +3158,9 @@
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
+  gipc = {
+    "1.6.0" = import ./overrides/gipc/1.6.0;
+  };
   girder = {
     "3.2.3" = import ./overrides/girder/3.2.3;
   };
