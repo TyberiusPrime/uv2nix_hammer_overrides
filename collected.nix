@@ -9491,6 +9491,9 @@
   unicodecsv = {
     "0.14.1" = import ./overrides/unicodecsv/0.14.1;
   };
+  unicodedata2 = {
+    "15.1.0" = import ./overrides/unicodedata2/15.1.0;
+  };
   unidecode = {
     "0.4.16" = import ./overrides/unidecode/0.4.16;
   };
