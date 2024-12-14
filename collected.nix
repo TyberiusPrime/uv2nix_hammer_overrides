@@ -7670,6 +7670,9 @@
   pyxel = {
     "2.2.1" = import ./overrides/pyxel/2.2.1;
   };
+  pyxeoma = {
+    "1.4.2" = import ./overrides/pyxeoma/1.4.2;
+  };
   pyxis = {
     "0.2.1" = import ./overrides/pyxis/0.2.1;
   };
