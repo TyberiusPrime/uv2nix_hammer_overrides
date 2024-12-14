@@ -2225,6 +2225,9 @@
   djangoapidec = {
     "1.8" = import ./overrides/djangoapidec/1.8;
   };
+  djangocms-text-ckeditor = {
+    "5.1.5" = import ./overrides/djangocms-text-ckeditor/5.1.5;
+  };
   djangocodemirror = {
     "2.1.0" = import ./overrides/djangocodemirror/2.1.0;
   };
