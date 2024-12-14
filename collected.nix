@@ -8339,6 +8339,9 @@
   sharedmem = {
     "0.3.8" = import ./overrides/sharedmem/0.3.8;
   };
+  sharkiq = {
+    "1.0.2" = import ./overrides/sharkiq/1.0.2;
+  };
   shinkenplugins = {
     "0.4.2" = import ./overrides/shinkenplugins/0.4.2;
   };
