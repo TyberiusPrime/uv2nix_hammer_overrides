@@ -795,6 +795,9 @@
   bluepy = {
     "1.3.0" = import ./overrides/bluepy/1.3.0;
   };
+  bm3d = {
+    "4.0.3" = import ./overrides/bm3d/4.0.3;
+  };
   bmipy = {
     "2.0.1" = import ./overrides/bmipy/2.0.1;
   };
