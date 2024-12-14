@@ -2529,6 +2529,9 @@
   encryptedsocket = {
     "3.0.0" = import ./overrides/encryptedsocket/3.0.0;
   };
+  enum-compat = {
+    "0.0.3" = import ./overrides/enum-compat/0.0.3;
+  };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
   };
