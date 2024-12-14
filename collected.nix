@@ -7790,6 +7790,9 @@
   rcsb-utils-io = {
     "1.49" = import ./overrides/rcsb-utils-io/1.49;
   };
+  rdbms-subsetter = {
+    "0.2.6" = import ./overrides/rdbms-subsetter/0.2.6;
+  };
   rdp = {
     "0.8" = import ./overrides/rdp/0.8;
   };
