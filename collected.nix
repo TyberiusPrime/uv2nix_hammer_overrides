@@ -2938,6 +2938,9 @@
   fluent = {
     "0.10.0" = import ./overrides/fluent/0.10.0;
   };
+  flux-led = {
+    "1.0.4" = import ./overrides/flux-led/1.0.4;
+  };
   fnvhash = {
     "0.1.0" = import ./overrides/fnvhash/0.1.0;
   };
