@@ -7257,6 +7257,9 @@
   python-alipay-sdk = {
     "3.3.0" = import ./overrides/python-alipay-sdk/3.3.0;
   };
+  python-arango = {
+    "8.1.0" = import ./overrides/python-arango/8.1.0;
+  };
   python-augeas = {
     "1.1.0" = import ./overrides/python-augeas/1.1.0;
   };
