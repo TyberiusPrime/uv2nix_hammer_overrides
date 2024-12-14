@@ -981,6 +981,9 @@
   cf-units = {
     "3.2.0" = import ./overrides/cf-units/3.2.0;
   };
+  cf-xarray = {
+    "0.9.4" = import ./overrides/cf-xarray/0.9.4;
+  };
   cfgraph = {
     "0.2.1" = import ./overrides/cfgraph/0.2.1;
   };
