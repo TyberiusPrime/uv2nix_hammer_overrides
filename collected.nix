@@ -2998,6 +2998,9 @@
   fsm-load-modal-composites = {
     "1.0.1" = import ./overrides/fsm-load-modal-composites/1.0.1;
   };
+  fsspec-xrootd = {
+    "0.4.0" = import ./overrides/fsspec-xrootd/0.4.0;
+  };
   fst-pso = {
     "1.8.1" = import ./overrides/fst-pso/1.8.1;
   };
