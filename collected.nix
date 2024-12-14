@@ -4024,6 +4024,9 @@
   jsonobject = {
     "2.2.0" = import ./overrides/jsonobject/2.2.0;
   };
+  jsonpatch = {
+    "1.33" = import ./overrides/jsonpatch/1.33;
+  };
   jsonpath = {
     "0.82.2" = import ./overrides/jsonpath/0.82.2;
   };
