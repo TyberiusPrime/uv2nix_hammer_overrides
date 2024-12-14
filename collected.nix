@@ -770,6 +770,9 @@
   bleach-whitelist = {
     "0.0.11" = import ./overrides/bleach-whitelist/0.0.11;
   };
+  bleak = {
+    "0.22.2" = import ./overrides/bleak/0.22.2;
+  };
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
   };
