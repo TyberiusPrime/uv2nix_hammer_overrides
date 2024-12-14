@@ -4290,6 +4290,9 @@
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
+  ledgerblue = {
+    "0.1.54" = import ./overrides/ledgerblue/0.1.54;
+  };
   lepl = {
     "5.1.3" = import ./overrides/lepl/5.1.3;
   };
@@ -7483,6 +7486,9 @@
   };
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
+  };
+  python-u2flib-host = {
+    "3.0.3" = import ./overrides/python-u2flib-host/3.0.3;
   };
   python-uinput = {
     "1.0.1" = import ./overrides/python-uinput/1.0.1;
