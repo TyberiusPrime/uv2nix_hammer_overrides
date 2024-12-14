@@ -6979,6 +6979,9 @@
   pypi-publisher = {
     "0.0.4" = import ./overrides/pypi-publisher/0.0.4;
   };
+  pypickle = {
+    "1.1.0" = import ./overrides/pypickle/1.1.0;
+  };
   pypif = {
     "2.1.2" = import ./overrides/pypif/2.1.2;
   };
