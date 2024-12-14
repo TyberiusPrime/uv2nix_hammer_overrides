@@ -4341,6 +4341,9 @@
   libpurecool = {
     "0.6.4" = import ./overrides/libpurecool/0.6.4;
   };
+  libpysal = {
+    "4.12.1" = import ./overrides/libpysal/4.12.1;
+  };
   librato-metrics = {
     "3.1.0" = import ./overrides/librato-metrics/3.1.0;
   };
