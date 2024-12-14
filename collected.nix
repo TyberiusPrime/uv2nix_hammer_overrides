@@ -4247,6 +4247,9 @@
   lapjv = {
     "1.3.27" = import ./overrides/lapjv/1.3.27;
   };
+  large-image = {
+    "1.29.8" = import ./overrides/large-image/1.29.8;
+  };
   lark-parser = {
     "0.7.8" = import ./overrides/lark-parser/0.7.8;
     "0.9.0" = import ./overrides/lark-parser/0.9.0;
