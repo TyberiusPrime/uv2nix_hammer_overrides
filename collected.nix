@@ -1041,6 +1041,9 @@
   chroma-hnswlib = {
     "0.7.3" = import ./overrides/chroma-hnswlib/0.7.3;
   };
+  ci-info = {
+    "0.3.0" = import ./overrides/ci-info/0.3.0;
+  };
   cifar2png = {
     "0.0.4" = import ./overrides/cifar2png/0.0.4;
   };
