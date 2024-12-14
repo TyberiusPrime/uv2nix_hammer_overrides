@@ -1889,6 +1889,9 @@
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
   };
+  django-background-tasks = {
+    "1.2.8" = import ./overrides/django-background-tasks/1.2.8;
+  };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
