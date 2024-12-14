@@ -1400,6 +1400,9 @@
   contextvars = {
     "2.4" = import ./overrides/contextvars/2.4;
   };
+  contourpy = {
+    "1.3.0" = import ./overrides/contourpy/1.3.0;
+  };
   conversionkit = {
     "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
