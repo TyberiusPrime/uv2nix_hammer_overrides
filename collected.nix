@@ -2340,6 +2340,9 @@
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
+  dotty-dict = {
+    "1.3.1" = import ./overrides/dotty-dict/1.3.1;
+  };
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
   };
