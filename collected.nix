@@ -7251,6 +7251,9 @@
   pytest-watch = {
     "4.2.0" = import ./overrides/pytest-watch/4.2.0;
   };
+  pytest-xdist = {
+    "3.6.1" = import ./overrides/pytest-xdist/3.6.1;
+  };
   pytg = {
     "0.4.10" = import ./overrides/pytg/0.4.10;
   };
