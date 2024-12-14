@@ -8983,6 +8983,7 @@
   };
   termcolor = {
     "1.1.0" = import ./overrides/termcolor/1.1.0;
+    "2.4.0" = import ./overrides/termcolor/2.4.0;
   };
   terminal = {
     "0.4.0" = import ./overrides/terminal/0.4.0;
