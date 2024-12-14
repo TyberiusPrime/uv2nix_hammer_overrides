@@ -4850,6 +4850,9 @@
   mmhash3 = {
     "3.0.1" = import ./overrides/mmhash3/3.0.1;
   };
+  mne = {
+    "1.8.0" = import ./overrides/mne/1.8.0;
+  };
   mo-dots = {
     "4.22.21108" = import ./overrides/mo-dots/4.22.21108;
   };
