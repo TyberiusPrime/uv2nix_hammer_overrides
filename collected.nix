@@ -7104,6 +7104,9 @@
   pyscrypt = {
     "1.6.2" = import ./overrides/pyscrypt/1.6.2;
   };
+  pyscss = {
+    "1.4.0" = import ./overrides/pyscss/1.4.0;
+  };
   pysdl2 = {
     "0.9.16" = import ./overrides/pysdl2/0.9.16;
   };
