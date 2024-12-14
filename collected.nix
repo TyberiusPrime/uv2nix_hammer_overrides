@@ -6572,6 +6572,9 @@
   pydotplus = {
     "2.0.2" = import ./overrides/pydotplus/2.0.2;
   };
+  pydrawise = {
+    "2024.8.0" = import ./overrides/pydrawise/2024.8.0;
+  };
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
   };
