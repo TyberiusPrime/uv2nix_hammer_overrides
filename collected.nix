@@ -2421,6 +2421,9 @@
   durc = {
     "3.1.0" = import ./overrides/durc/3.1.0;
   };
+  dwave-networkx = {
+    "0.8.15" = import ./overrides/dwave-networkx/0.8.15;
+  };
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
