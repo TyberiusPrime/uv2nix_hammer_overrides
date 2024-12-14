@@ -8658,6 +8658,9 @@
   splunk-sdk = {
     "2.0.2" = import ./overrides/splunk-sdk/2.0.2;
   };
+  spreg = {
+    "1.6.1" = import ./overrides/spreg/1.6.1;
+  };
   sprockets = {
     "0.1.1" = import ./overrides/sprockets/0.1.1;
   };
