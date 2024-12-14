@@ -6003,6 +6003,9 @@
   plonetheme-intkbase = {
     "0.4" = import ./overrides/plonetheme-intkbase/0.4;
   };
+  ploomber-core = {
+    "0.2.25" = import ./overrides/ploomber-core/0.2.25;
+  };
   plotille = {
     "5.0.0" = import ./overrides/plotille/5.0.0;
   };
