@@ -4574,6 +4574,9 @@
   m9s-trytond = {
     "7.0.7" = import ./overrides/m9s-trytond/7.0.7;
   };
+  macholib = {
+    "1.16.3" = import ./overrides/macholib/1.16.3;
+  };
   madmom = {
     "0.16.1" = import ./overrides/madmom/0.16.1;
   };
