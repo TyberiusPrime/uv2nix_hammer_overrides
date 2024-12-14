@@ -3742,6 +3742,9 @@
   inflection = {
     "0.3.1" = import ./overrides/inflection/0.3.1;
   };
+  influxdb3-python = {
+    "0.8.0" = import ./overrides/influxdb3-python/0.8.0;
+  };
   infrae-cache = {
     "1.0.1" = import ./overrides/infrae-cache/1.0.1;
   };
