@@ -4709,6 +4709,9 @@
   mercurial-extension-utils = {
     "1.5.2" = import ./overrides/mercurial-extension-utils/1.5.2;
   };
+  merge3 = {
+    "0.0.15" = import ./overrides/merge3/0.0.15;
+  };
   mergedb = {
     "0.1.1" = import ./overrides/mergedb/0.1.1;
   };
