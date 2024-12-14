@@ -1758,6 +1758,9 @@
   defopt = {
     "6.4.0" = import ./overrides/defopt/6.4.0;
   };
+  defusedxml = {
+    "0.7.1" = import ./overrides/defusedxml/0.7.1;
+  };
   delfick-error = {
     "1.8" = import ./overrides/delfick-error/1.8;
   };
