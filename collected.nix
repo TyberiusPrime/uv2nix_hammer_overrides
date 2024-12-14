@@ -7862,6 +7862,9 @@
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
   };
+  renson-endura-delta = {
+    "1.7.1" = import ./overrides/renson-endura-delta/1.7.1;
+  };
   reolink = {
     "0.0.64" = import ./overrides/reolink/0.0.64;
   };
