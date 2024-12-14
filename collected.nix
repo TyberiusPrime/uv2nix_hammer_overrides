@@ -6843,6 +6843,9 @@
   pymailgunner = {
     "1.5" = import ./overrides/pymailgunner/1.5;
   };
+  pymannkendall = {
+    "1.4.3" = import ./overrides/pymannkendall/1.4.3;
+  };
   pymarktex = {
     "1.4.6" = import ./overrides/pymarktex/1.4.6;
   };
