@@ -4452,6 +4452,9 @@
   livestreamer-curses = {
     "1.5.2" = import ./overrides/livestreamer-curses/1.5.2;
   };
+  lk21 = {
+    "1.6.0" = import ./overrides/lk21/1.6.0;
+  };
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
