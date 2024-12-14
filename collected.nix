@@ -7137,6 +7137,9 @@
   pysigset = {
     "0.4.0" = import ./overrides/pysigset/0.4.0;
   };
+  pysilero-vad = {
+    "2.0.0" = import ./overrides/pysilero-vad/2.0.0;
+  };
   pysingleton = {
     "0.2.1" = import ./overrides/pysingleton/0.2.1;
   };
