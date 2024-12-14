@@ -452,6 +452,9 @@
   asyncpgsa = {
     "0.27.1" = import ./overrides/asyncpgsa/0.27.1;
   };
+  atlassian-python-api = {
+    "3.41.15" = import ./overrides/atlassian-python-api/3.41.15;
+  };
   atomic = {
     "0.7.3" = import ./overrides/atomic/0.7.3;
   };
