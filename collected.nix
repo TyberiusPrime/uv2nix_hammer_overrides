@@ -2490,6 +2490,9 @@
   eigenpy = {
     "3.5.1" = import ./overrides/eigenpy/3.5.1;
   };
+  eko = {
+    "0.14.6" = import ./overrides/eko/0.14.6;
+  };
   elasticsearch-async = {
     "6.2.0" = import ./overrides/elasticsearch-async/6.2.0;
   };
@@ -5345,6 +5348,7 @@
   };
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
+    "0.59.1" = import ./overrides/numba/0.59.1;
     "0.60.0" = import ./overrides/numba/0.60.0;
   };
   numpy = {
