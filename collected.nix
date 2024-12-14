@@ -4823,6 +4823,9 @@
   mir-eval = {
     "0.7" = import ./overrides/mir-eval/0.7;
   };
+  mirakuru = {
+    "2.5.2" = import ./overrides/mirakuru/2.5.2;
+  };
   mirte = {
     "0.1.8" = import ./overrides/mirte/0.1.8;
   };
