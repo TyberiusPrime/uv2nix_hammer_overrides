@@ -2087,6 +2087,9 @@
   django-phonenumber-field = {
     "1.3.0" = import ./overrides/django-phonenumber-field/1.3.0;
   };
+  django-photologue = {
+    "3.17" = import ./overrides/django-photologue/3.17;
+  };
   django-piston = {
     "0.2.3" = import ./overrides/django-piston/0.2.3;
   };
