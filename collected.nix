@@ -981,6 +981,9 @@
   cf-units = {
     "3.2.0" = import ./overrides/cf-units/3.2.0;
   };
+  cfel-pylint-checkers = {
+    "1.1.4" = import ./overrides/cfel-pylint-checkers/1.1.4;
+  };
   cfgraph = {
     "0.2.1" = import ./overrides/cfgraph/0.2.1;
   };
