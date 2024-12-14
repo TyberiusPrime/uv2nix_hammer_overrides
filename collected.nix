@@ -5793,6 +5793,9 @@
   peek-plugin-base = {
     "3.4.16" = import ./overrides/peek-plugin-base/3.4.16;
   };
+  peerplays = {
+    "0.5.3" = import ./overrides/peerplays/0.5.3;
+  };
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
