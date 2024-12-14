@@ -4955,6 +4955,9 @@
   mozhttpd = {
     "0.7.1" = import ./overrides/mozhttpd/0.7.1;
   };
+  mozinfo = {
+    "1.2.3" = import ./overrides/mozinfo/1.2.3;
+  };
   mozlog = {
     "8.0.0" = import ./overrides/mozlog/8.0.0;
   };
