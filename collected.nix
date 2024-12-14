@@ -3787,6 +3787,9 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  instructor = {
+    "1.4.1" = import ./overrides/instructor/1.4.1;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
