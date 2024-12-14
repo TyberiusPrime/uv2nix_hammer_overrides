@@ -6770,6 +6770,9 @@
   pykafka = {
     "2.8.0" = import ./overrides/pykafka/2.8.0;
   };
+  pykaleidescape = {
+    "2022.2.6" = import ./overrides/pykaleidescape/2022.2.6;
+  };
   pykcs11 = {
     "1.5.17" = import ./overrides/pykcs11/1.5.17;
   };
