@@ -7406,6 +7406,9 @@
   python-lzo = {
     "1.15" = import ./overrides/python-lzo/1.15;
   };
+  python-matter-server = {
+    "6.5.0" = import ./overrides/python-matter-server/6.5.0;
+  };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
