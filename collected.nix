@@ -7991,6 +7991,9 @@
   robotpy-hal-sim = {
     "2019.2.3" = import ./overrides/robotpy-hal-sim/2019.2.3;
   };
+  robotsuite = {
+    "2.3.2" = import ./overrides/robotsuite/2.3.2;
+  };
   rocket-errbot = {
     "1.2.5" = import ./overrides/rocket-errbot/1.2.5;
   };
