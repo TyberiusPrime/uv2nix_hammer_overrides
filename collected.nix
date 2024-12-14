@@ -5010,6 +5010,9 @@
   msgpack-rpc-python = {
     "0.4.1" = import ./overrides/msgpack-rpc-python/0.4.1;
   };
+  msoffcrypto-tool = {
+    "5.4.2" = import ./overrides/msoffcrypto-tool/5.4.2;
+  };
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
   };
