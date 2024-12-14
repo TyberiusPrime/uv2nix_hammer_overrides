@@ -9248,6 +9248,9 @@
   total-ordering = {
     "0.1.0" = import ./overrides/total-ordering/0.1.0;
   };
+  touchtouch = {
+    "0.11" = import ./overrides/touchtouch/0.11;
+  };
   toyplot = {
     "1.0.3" = import ./overrides/toyplot/1.0.3;
   };
