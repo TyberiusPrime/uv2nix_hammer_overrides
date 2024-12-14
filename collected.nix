@@ -5354,6 +5354,7 @@
     "1.24.3" = import ./overrides/numpy/1.24.3;
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
+    "2.1.1" = import ./overrides/numpy/2.1.1;
   };
   numpy-sugar = {
     "1.5.3" = import ./overrides/numpy-sugar/1.5.3;
