@@ -1,0 +1,2 @@
+BuildSystems = [ "meson-python", "ninja", "oldest-supported-numpy", "wheel",]
+NativeBuildInputs = [ "~literal:!:pkgs.gfortran", "~literal:!:pkgs.meson", "~literal:!:pkgs.pkg-config",]
