@@ -3462,6 +3462,9 @@
   hic-straw = {
     "1.3.1" = import ./overrides/hic-straw/1.3.1;
   };
+  hid = {
+    "1.0.6" = import ./overrides/hid/1.0.6;
+  };
   hierplace = {
     "1.1.0" = import ./overrides/hierplace/1.1.0;
   };
