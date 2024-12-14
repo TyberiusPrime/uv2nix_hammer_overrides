@@ -8411,6 +8411,9 @@
   simple-rlp = {
     "0.1.3" = import ./overrides/simple-rlp/0.1.3;
   };
+  simple-term-menu = {
+    "1.6.4" = import ./overrides/simple-term-menu/1.6.4;
+  };
   simple-translation = {
     "0.8.6" = import ./overrides/simple-translation/0.8.6;
   };
