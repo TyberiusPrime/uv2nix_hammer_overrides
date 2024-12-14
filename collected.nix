@@ -2505,6 +2505,9 @@
   elixir = {
     "0.7.1" = import ./overrides/elixir/0.7.1;
   };
+  elkm1-lib = {
+    "2.2.7" = import ./overrides/elkm1-lib/2.2.7;
+  };
   ellc = {
     "1.8.9" = import ./overrides/ellc/1.8.9;
   };
