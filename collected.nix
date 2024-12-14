@@ -65,6 +65,9 @@
   adict = {
     "0.1.7" = import ./overrides/adict/0.1.7;
   };
+  adjust-precision-for-schema = {
+    "0.3.4" = import ./overrides/adjust-precision-for-schema/0.3.4;
+  };
   advancedhtmlparser = {
     "9.0.2" = import ./overrides/advancedhtmlparser/9.0.2;
   };
