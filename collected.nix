@@ -7970,6 +7970,9 @@
   rmtest = {
     "0.7.0" = import ./overrides/rmtest/0.7.0;
   };
+  roadlib = {
+    "0.27.0" = import ./overrides/roadlib/0.27.0;
+  };
   roadtools = {
     "0.0.1" = import ./overrides/roadtools/0.0.1;
   };
