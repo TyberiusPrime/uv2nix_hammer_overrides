@@ -6363,6 +6363,9 @@
   pyaes = {
     "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
+  pyairvisual = {
+    "2023.12.0" = import ./overrides/pyairvisual/2023.12.0;
+  };
   pyalsaaudio = {
     "0.11.0" = import ./overrides/pyalsaaudio/0.11.0;
   };
