@@ -8308,6 +8308,9 @@
   setuptools-scm = {
     "8.1.0" = import ./overrides/setuptools-scm/8.1.0;
   };
+  seven-framework = {
+    "1.2.9" = import ./overrides/seven-framework/1.2.9;
+  };
   sewar = {
     "0.4.6" = import ./overrides/sewar/0.4.6;
   };
