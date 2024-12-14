@@ -3553,6 +3553,9 @@
   httpcache = {
     "0.1.3" = import ./overrides/httpcache/0.1.3;
   };
+  httpcore = {
+    "1.0.5" = import ./overrides/httpcore/1.0.5;
+  };
   httpexceptor = {
     "1.4.0" = import ./overrides/httpexceptor/1.4.0;
   };
