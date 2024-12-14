@@ -364,6 +364,9 @@
   arguments = {
     "76" = import ./overrides/arguments/76;
   };
+  arkivist = {
+    "1.3.4" = import ./overrides/arkivist/1.3.4;
+  };
   armstrong-utils-backends = {
     "1.1.1" = import ./overrides/armstrong-utils-backends/1.1.1;
   };
