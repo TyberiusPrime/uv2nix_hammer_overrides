@@ -4808,6 +4808,9 @@
   minepy = {
     "1.2.6" = import ./overrides/minepy/1.2.6;
   };
+  mingus = {
+    "0.6.1" = import ./overrides/mingus/0.6.1;
+  };
   minidb = {
     "2.0.8" = import ./overrides/minidb/2.0.8;
   };
