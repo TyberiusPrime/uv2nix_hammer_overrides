@@ -4257,6 +4257,9 @@
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
   };
+  laundrify-aio = {
+    "1.2.2" = import ./overrides/laundrify-aio/1.2.2;
+  };
   lava-tool = {
     "0.11.1" = import ./overrides/lava-tool/0.11.1;
   };
