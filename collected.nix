@@ -8492,6 +8492,9 @@
   slimurl = {
     "0.7.8" = import ./overrides/slimurl/0.7.8;
   };
+  slither-analyzer = {
+    "0.10.4" = import ./overrides/slither-analyzer/0.10.4;
+  };
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
