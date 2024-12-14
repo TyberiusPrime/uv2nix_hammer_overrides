@@ -5635,6 +5635,9 @@
   p-tqdm = {
     "1.4.2" = import ./overrides/p-tqdm/1.4.2;
   };
+  p4a-subtyper = {
+    "2.0" = import ./overrides/p4a-subtyper/2.0;
+  };
   p4a-z2utils = {
     "1.0.2" = import ./overrides/p4a-z2utils/1.0.2;
   };
