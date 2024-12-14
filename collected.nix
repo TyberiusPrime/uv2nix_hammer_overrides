@@ -2063,6 +2063,9 @@
   django-oauth-tokens = {
     "0.6.3" = import ./overrides/django-oauth-tokens/0.6.3;
   };
+  django-oauth-toolkit = {
+    "3.0.1" = import ./overrides/django-oauth-toolkit/3.0.1;
+  };
   django-oauth2-provider = {
     "0.2.6.1" = import ./overrides/django-oauth2-provider/0.2.6.1;
   };
