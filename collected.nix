@@ -4162,6 +4162,9 @@
   keylib = {
     "0.1.1" = import ./overrides/keylib/0.1.1;
   };
+  keyring = {
+    "25.3.0" = import ./overrides/keyring/25.3.0;
+  };
   keyrings-cryptfile = {
     "1.3.9" = import ./overrides/keyrings-cryptfile/1.3.9;
   };
