@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  gerrychain = {
+    "0.3.2" = import ./overrides/gerrychain/0.3.2;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
