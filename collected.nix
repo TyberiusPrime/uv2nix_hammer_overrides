@@ -6387,6 +6387,9 @@
   pyastronomy = {
     "0.22.0" = import ./overrides/pyastronomy/0.22.0;
   };
+  pyasyncore = {
+    "1.0.4" = import ./overrides/pyasyncore/1.0.4;
+  };
   pyatem = {
     "0.10.0" = import ./overrides/pyatem/0.10.0;
   };
