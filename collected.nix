@@ -903,6 +903,9 @@
   calver = {
     "2022.06.26" = import ./overrides/calver/2022.06.26;
   };
+  camel-converter = {
+    "3.1.2" = import ./overrides/camel-converter/3.1.2;
+  };
   can = {
     "0.0.0" = import ./overrides/can/0.0.0;
   };
