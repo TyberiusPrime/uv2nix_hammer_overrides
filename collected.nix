@@ -4658,6 +4658,9 @@
   matplotlib-venn = {
     "1.1.1" = import ./overrides/matplotlib-venn/1.1.1;
   };
+  matplotx = {
+    "0.3.10" = import ./overrides/matplotx/0.3.10;
+  };
   matrix-api-async = {
     "0.1.0" = import ./overrides/matrix-api-async/0.1.0;
   };
