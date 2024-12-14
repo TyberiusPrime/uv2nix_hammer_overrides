@@ -2373,6 +2373,9 @@
   dpt-threading = {
     "2.0.2" = import ./overrides/dpt-threading/2.0.2;
   };
+  draftjs-exporter = {
+    "5.0.0" = import ./overrides/draftjs-exporter/5.0.0;
+  };
   drawille = {
     "0.1.0" = import ./overrides/drawille/0.1.0;
   };
