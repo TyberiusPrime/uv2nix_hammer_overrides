@@ -7113,6 +7113,9 @@
   pysendfile = {
     "2.0.1" = import ./overrides/pysendfile/2.0.1;
   };
+  pyserde = {
+    "0.20.1" = import ./overrides/pyserde/0.20.1;
+  };
   pysftp = {
     "0.2.9" = import ./overrides/pysftp/0.2.9;
   };
