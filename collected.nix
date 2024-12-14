@@ -894,6 +894,9 @@
   cairo-lang = {
     "0.13.2" = import ./overrides/cairo-lang/0.13.2;
   };
+  calamus = {
+    "0.4.2" = import ./overrides/calamus/0.4.2;
+  };
   calendarweek = {
     "0.5.3" = import ./overrides/calendarweek/0.5.3;
   };
