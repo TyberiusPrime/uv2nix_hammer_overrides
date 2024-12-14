@@ -4232,6 +4232,9 @@
   landez = {
     "2.5.0" = import ./overrides/landez/2.5.0;
   };
+  langchain-core = {
+    "0.2.38" = import ./overrides/langchain-core/0.2.38;
+  };
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
