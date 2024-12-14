@@ -193,6 +193,9 @@
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
+  altgraph = {
+    "0.17.4" = import ./overrides/altgraph/0.17.4;
+  };
   amazon-dax-client = {
     "2.0.3" = import ./overrides/amazon-dax-client/2.0.3;
   };
