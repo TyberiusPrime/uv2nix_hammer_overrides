@@ -8592,6 +8592,9 @@
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
+  sparklines = {
+    "0.5.0" = import ./overrides/sparklines/0.5.0;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
