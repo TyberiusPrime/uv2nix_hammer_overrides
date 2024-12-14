@@ -1211,6 +1211,9 @@
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
+  cock = {
+    "0.11.0" = import ./overrides/cock/0.11.0;
+  };
   cocos2d = {
     "0.6.10" = import ./overrides/cocos2d/0.6.10;
   };
