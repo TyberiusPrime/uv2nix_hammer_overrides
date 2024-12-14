@@ -8153,6 +8153,9 @@
   sasl = {
     "0.3.1" = import ./overrides/sasl/0.3.1;
   };
+  sasmodels = {
+    "1.0.7" = import ./overrides/sasmodels/1.0.7;
+  };
   sass = {
     "2.3" = import ./overrides/sass/2.3;
   };
