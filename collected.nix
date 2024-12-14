@@ -7703,6 +7703,9 @@
   qiskit-nature = {
     "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
   };
+  qiskit-optimization = {
+    "0.6.1" = import ./overrides/qiskit-optimization/0.6.1;
+  };
   qnap-qsw = {
     "0.3.0" = import ./overrides/qnap-qsw/0.3.0;
   };
