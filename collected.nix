@@ -9880,6 +9880,9 @@
   wheezy-template = {
     "3.2.2" = import ./overrides/wheezy-template/3.2.2;
   };
+  whichcraft = {
+    "0.6.1" = import ./overrides/whichcraft/0.6.1;
+  };
   whisper = {
     "1.1.10" = import ./overrides/whisper/1.1.10;
   };
