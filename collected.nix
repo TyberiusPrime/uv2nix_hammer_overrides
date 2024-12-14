@@ -3994,6 +3994,9 @@
   json-schema-to-class = {
     "0.2.4" = import ./overrides/json-schema-to-class/0.2.4;
   };
+  json-stream = {
+    "2.3.2" = import ./overrides/json-stream/2.3.2;
+  };
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
