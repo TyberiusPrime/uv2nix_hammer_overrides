@@ -5964,6 +5964,9 @@
   plant = {
     "0.1.3" = import ./overrides/plant/0.1.3;
   };
+  plaster = {
+    "1.1.2" = import ./overrides/plaster/1.1.2;
+  };
   platformio = {
     "6.1.15" = import ./overrides/platformio/6.1.15;
   };
