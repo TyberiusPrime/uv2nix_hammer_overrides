@@ -10130,6 +10130,9 @@
   zc-zk = {
     "2.1.0" = import ./overrides/zc-zk/2.1.0;
   };
+  zcbor = {
+    "0.9.0" = import ./overrides/zcbor/0.9.0;
+  };
   zcs = {
     "0.1.25" = import ./overrides/zcs/0.1.25;
   };
