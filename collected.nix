@@ -8090,6 +8090,9 @@
   s-gd2 = {
     "1.8.1" = import ./overrides/s-gd2/1.8.1;
   };
+  s2sphere = {
+    "0.2.5" = import ./overrides/s2sphere/0.2.5;
+  };
   s3-pit-restore = {
     "0.9" = import ./overrides/s3-pit-restore/0.9;
   };
