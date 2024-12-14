@@ -2748,6 +2748,9 @@
   fido2 = {
     "0.9.3" = import ./overrides/fido2/0.9.3;
   };
+  fifolock = {
+    "0.0.20" = import ./overrides/fifolock/0.0.20;
+  };
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
   };
