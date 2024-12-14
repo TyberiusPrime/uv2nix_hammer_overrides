@@ -9675,6 +9675,9 @@
   vedo = {
     "2024.5.2" = import ./overrides/vedo/2024.5.2;
   };
+  vehicle = {
+    "2.2.2" = import ./overrides/vehicle/2.2.2;
+  };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
