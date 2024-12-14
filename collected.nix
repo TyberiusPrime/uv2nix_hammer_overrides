@@ -2258,6 +2258,9 @@
   djinn-workflow = {
     "1.0.0" = import ./overrides/djinn-workflow/1.0.0;
   };
+  djmail = {
+    "2.0.0" = import ./overrides/djmail/2.0.0;
+  };
   djongo = {
     "1.3.6" = import ./overrides/djongo/1.3.6;
   };
