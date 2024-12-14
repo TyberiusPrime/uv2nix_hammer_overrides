@@ -3904,6 +3904,9 @@
   jaxlinop = {
     "0.0.3" = import ./overrides/jaxlinop/0.0.3;
   };
+  jaxopt = {
+    "0.8.3" = import ./overrides/jaxopt/0.8.3;
+  };
   jcloud = {
     "0.3" = import ./overrides/jcloud/0.3;
   };
