@@ -3332,6 +3332,9 @@
   grpcio = {
     "1.57.0" = import ./overrides/grpcio/1.57.0;
   };
+  grpcio-gcp = {
+    "0.2.2" = import ./overrides/grpcio-gcp/0.2.2;
+  };
   grpclib = {
     "0.4.7" = import ./overrides/grpclib/0.4.7;
   };
