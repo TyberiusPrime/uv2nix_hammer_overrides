@@ -2120,6 +2120,9 @@
   django-rest-framework-mongoengine = {
     "3.4.1" = import ./overrides/django-rest-framework-mongoengine/3.4.1;
   };
+  django-rest-hooks = {
+    "1.5.0" = import ./overrides/django-rest-hooks/1.5.0;
+  };
   django-rest-knox = {
     "5.0.1" = import ./overrides/django-rest-knox/5.0.1;
   };
