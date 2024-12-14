@@ -2162,6 +2162,9 @@
   django-standard-form = {
     "1.1.1" = import ./overrides/django-standard-form/1.1.1;
   };
+  django-static-fontawesome = {
+    "6.5.2.0" = import ./overrides/django-static-fontawesome/6.5.2.0;
+  };
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
