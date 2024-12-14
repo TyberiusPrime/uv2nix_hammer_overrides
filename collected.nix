@@ -6474,6 +6474,9 @@
   pyclustering = {
     "0.10.1.2" = import ./overrides/pyclustering/0.10.1.2;
   };
+  pycognito = {
+    "2024.5.1" = import ./overrides/pycognito/2024.5.1;
+  };
   pycoin = {
     "0.92.20230326" = import ./overrides/pycoin/0.92.20230326;
   };
