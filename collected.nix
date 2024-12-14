@@ -6054,6 +6054,9 @@
   polygon3 = {
     "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
   };
+  poppy-core = {
+    "0.11.5" = import ./overrides/poppy-core/0.11.5;
+  };
   portpicker = {
     "1.3.1" = import ./overrides/portpicker/1.3.1;
   };
