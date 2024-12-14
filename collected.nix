@@ -8598,6 +8598,9 @@
   spectra = {
     "0.0.11" = import ./overrides/spectra/0.0.11;
   };
+  speechbrain = {
+    "1.0.1" = import ./overrides/speechbrain/1.0.1;
+  };
   speg = {
     "0.3" = import ./overrides/speg/0.3;
   };
