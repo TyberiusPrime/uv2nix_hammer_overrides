@@ -7218,6 +7218,9 @@
   pytest-clarity = {
     "1.0.1" = import ./overrides/pytest-clarity/1.0.1;
   };
+  pytest-console-scripts = {
+    "1.4.1" = import ./overrides/pytest-console-scripts/1.4.1;
+  };
   pytest-cram = {
     "0.2.2" = import ./overrides/pytest-cram/0.2.2;
   };
