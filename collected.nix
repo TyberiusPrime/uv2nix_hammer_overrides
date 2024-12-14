@@ -1364,6 +1364,9 @@
   confini = {
     "0.6.5" = import ./overrides/confini/0.6.5;
   };
+  confu = {
+    "1.9.0" = import ./overrides/confu/1.9.0;
+  };
   confutil = {
     "0.1.4" = import ./overrides/confutil/0.1.4;
   };
