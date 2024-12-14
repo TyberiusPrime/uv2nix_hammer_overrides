@@ -822,6 +822,9 @@
   brabbel = {
     "0.4.4" = import ./overrides/brabbel/0.4.4;
   };
+  braceexpand = {
+    "0.1.7" = import ./overrides/braceexpand/0.1.7;
+  };
   brainflow = {
     "5.13.3" = import ./overrides/brainflow/5.13.3;
   };
