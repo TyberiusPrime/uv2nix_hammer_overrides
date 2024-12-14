@@ -10034,6 +10034,9 @@
   xrootd = {
     "5.7.1" = import ./overrides/xrootd/5.7.1;
   };
+  xrpl-py = {
+    "3.0.0" = import ./overrides/xrpl-py/3.0.0;
+  };
   xtermcolor = {
     "1.3" = import ./overrides/xtermcolor/1.3;
   };
