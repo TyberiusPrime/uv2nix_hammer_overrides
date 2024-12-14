@@ -981,6 +981,9 @@
   cf-units = {
     "3.2.0" = import ./overrides/cf-units/3.2.0;
   };
+  cfg4py = {
+    "0.9.4" = import ./overrides/cfg4py/0.9.4;
+  };
   cfgraph = {
     "0.2.1" = import ./overrides/cfgraph/0.2.1;
   };
@@ -2776,6 +2779,7 @@
     "1.4.6" = import ./overrides/finviz/1.4.6;
   };
   fire = {
+    "0.4.0" = import ./overrides/fire/0.4.0;
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
   fireworks = {
