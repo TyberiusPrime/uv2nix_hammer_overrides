@@ -2944,6 +2944,9 @@
   fogbugz = {
     "1.0.6" = import ./overrides/fogbugz/1.0.6;
   };
+  foliant = {
+    "1.0.13" = import ./overrides/foliant/1.0.13;
+  };
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
   };
