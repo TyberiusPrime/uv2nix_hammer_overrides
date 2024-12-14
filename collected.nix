@@ -1385,6 +1385,9 @@
   consoleprinter = {
     "95" = import ./overrides/consoleprinter/95;
   };
+  consonance = {
+    "0.1.5" = import ./overrides/consonance/0.1.5;
+  };
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
