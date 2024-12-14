@@ -10109,6 +10109,9 @@
   z3c-language-switch = {
     "1.1.0" = import ./overrides/z3c-language-switch/1.1.0;
   };
+  zam-api = {
+    "0.7.0" = import ./overrides/zam-api/0.7.0;
+  };
   zbxsend = {
     "0.1.6" = import ./overrides/zbxsend/0.1.6;
   };
