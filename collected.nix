@@ -3298,6 +3298,9 @@
   gql = {
     "3.0.0a6" = import ./overrides/gql/3.0.0a6;
   };
+  grad-cam = {
+    "1.5.3" = import ./overrides/grad-cam/1.5.3;
+  };
   gradient-statsd = {
     "1.0.1" = import ./overrides/gradient-statsd/1.0.1;
   };
