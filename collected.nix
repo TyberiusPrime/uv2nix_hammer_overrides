@@ -4520,6 +4520,9 @@
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
+  loompy = {
+    "3.0.7" = import ./overrides/loompy/3.0.7;
+  };
   looptools = {
     "1.2.4" = import ./overrides/looptools/1.2.4;
   };
@@ -8256,6 +8259,9 @@
   };
   scrypt = {
     "0.8.13" = import ./overrides/scrypt/0.8.13;
+  };
+  scvelo = {
+    "0.3.2" = import ./overrides/scvelo/0.3.2;
   };
   sdkmanager = {
     "0.6.8" = import ./overrides/sdkmanager/0.6.8;
