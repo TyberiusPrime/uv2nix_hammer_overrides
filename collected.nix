@@ -4428,6 +4428,9 @@
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
   };
+  linkml-runtime = {
+    "1.8.2" = import ./overrides/linkml-runtime/1.8.2;
+  };
   links-from-link-header = {
     "0.1.0" = import ./overrides/links-from-link-header/0.1.0;
   };
