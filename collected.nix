@@ -5202,6 +5202,9 @@
   networkx = {
     "2.2" = import ./overrides/networkx/2.2;
   };
+  neurokit2 = {
+    "0.2.10" = import ./overrides/neurokit2/0.2.10;
+  };
   neuronpy = {
     "0.1.6" = import ./overrides/neuronpy/0.1.6;
   };
