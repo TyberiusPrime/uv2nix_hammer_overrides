@@ -4667,6 +4667,9 @@
   mayavi = {
     "4.8.2" = import ./overrides/mayavi/4.8.2;
   };
+  mbed-tools-lib = {
+    "1.2.1" = import ./overrides/mbed-tools-lib/1.2.1;
+  };
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };
