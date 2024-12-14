@@ -6090,6 +6090,9 @@
   precise-runner = {
     "0.3.1" = import ./overrides/precise-runner/0.3.1;
   };
+  prefixed = {
+    "0.9.0" = import ./overrides/prefixed/0.9.0;
+  };
   preggy = {
     "1.4.4" = import ./overrides/preggy/1.4.4;
   };
