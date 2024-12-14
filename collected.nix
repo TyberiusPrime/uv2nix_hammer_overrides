@@ -240,6 +240,9 @@
   ansible-base = {
     "2.10.17" = import ./overrides/ansible-base/2.10.17;
   };
+  ansicolor = {
+    "0.3.2" = import ./overrides/ansicolor/0.3.2;
+  };
   ansiconv = {
     "1.0.0" = import ./overrides/ansiconv/1.0.0;
   };
