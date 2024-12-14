@@ -9552,6 +9552,9 @@
   unrardll = {
     "0.1.7" = import ./overrides/unrardll/0.1.7;
   };
+  unrpa = {
+    "2.3.0" = import ./overrides/unrpa/2.3.0;
+  };
   unsync = {
     "1.4.0" = import ./overrides/unsync/1.4.0;
   };
