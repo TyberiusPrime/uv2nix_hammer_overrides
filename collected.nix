@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  geonamescache = {
+    "2.0.0" = import ./overrides/geonamescache/2.0.0;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
