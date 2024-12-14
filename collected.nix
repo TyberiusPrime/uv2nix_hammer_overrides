@@ -5328,6 +5328,9 @@
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
+  notebook-shim = {
+    "0.2.4" = import ./overrides/notebook-shim/0.2.4;
+  };
   notmuch2 = {
     "0.1" = import ./overrides/notmuch2/0.1;
   };
