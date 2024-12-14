@@ -3372,6 +3372,9 @@
   h5pyd = {
     "0.18.0" = import ./overrides/h5pyd/0.18.0;
   };
+  ha-mqtt-discoverable = {
+    "0.14.0" = import ./overrides/ha-mqtt-discoverable/0.14.0;
+  };
   ha-philipsjs = {
     "3.2.2" = import ./overrides/ha-philipsjs/3.2.2;
   };
