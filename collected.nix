@@ -4541,6 +4541,9 @@
   lru-dict = {
     "1.2.0" = import ./overrides/lru-dict/1.2.0;
   };
+  lsprotocol = {
+    "2023.0.1" = import ./overrides/lsprotocol/2023.0.1;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
