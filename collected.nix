@@ -1584,6 +1584,9 @@
   curve25519-donna = {
     "1.3" = import ./overrides/curve25519-donna/1.3;
   };
+  custodian = {
+    "2024.6.24" = import ./overrides/custodian/2024.6.24;
+  };
   customerio = {
     "2.1" = import ./overrides/customerio/2.1;
   };
