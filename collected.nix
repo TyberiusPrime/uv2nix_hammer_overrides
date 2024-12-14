@@ -8610,6 +8610,9 @@
   sphinx-better-theme = {
     "0.1.5" = import ./overrides/sphinx-better-theme/0.1.5;
   };
+  sphinx-comments = {
+    "0.0.3" = import ./overrides/sphinx-comments/0.0.3;
+  };
   sphinx-fortran = {
     "1.1.1" = import ./overrides/sphinx-fortran/1.1.1;
   };
