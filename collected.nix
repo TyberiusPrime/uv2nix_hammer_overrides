@@ -231,6 +231,9 @@
   annoy = {
     "1.17.3" = import ./overrides/annoy/1.17.3;
   };
+  ansi2html = {
+    "1.9.2" = import ./overrides/ansi2html/1.9.2;
+  };
   ansi2image = {
     "0.1.4" = import ./overrides/ansi2image/0.1.4;
   };
