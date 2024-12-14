@@ -4541,6 +4541,9 @@
   lru-dict = {
     "1.2.0" = import ./overrides/lru-dict/1.2.0;
   };
+  lscsoft-glue = {
+    "4.0.0" = import ./overrides/lscsoft-glue/4.0.0;
+  };
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
