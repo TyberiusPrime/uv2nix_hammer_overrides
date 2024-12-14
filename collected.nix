@@ -5049,6 +5049,9 @@
   muscima = {
     "0.10.0" = import ./overrides/muscima/0.10.0;
   };
+  museval = {
+    "0.4.1" = import ./overrides/museval/0.4.1;
+  };
   music-tag = {
     "0.4.3" = import ./overrides/music-tag/0.4.3;
   };
