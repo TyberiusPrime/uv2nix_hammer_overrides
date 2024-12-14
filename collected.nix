@@ -810,6 +810,9 @@
   boto3facade = {
     "0.5.9" = import ./overrides/boto3facade/0.5.9;
   };
+  botorch = {
+    "0.11.3" = import ./overrides/botorch/0.11.3;
+  };
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
