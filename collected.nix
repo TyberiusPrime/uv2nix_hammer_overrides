@@ -1238,6 +1238,9 @@
   coinmarketcap = {
     "5.0.3" = import ./overrides/coinmarketcap/5.0.3;
   };
+  colander = {
+    "2.0" = import ./overrides/colander/2.0;
+  };
   collection = {
     "0.1.6" = import ./overrides/collection/0.1.6;
   };
