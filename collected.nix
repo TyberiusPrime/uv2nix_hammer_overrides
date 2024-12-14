@@ -4778,6 +4778,9 @@
   microdata = {
     "0.8.0" = import ./overrides/microdata/0.8.0;
   };
+  microformats = {
+    "0.5.1" = import ./overrides/microformats/0.5.1;
+  };
   micropython-cpython-micropython = {
     "0.1.1" = import ./overrides/micropython-cpython-micropython/0.1.1;
   };
