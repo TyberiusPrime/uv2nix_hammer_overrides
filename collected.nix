@@ -5925,6 +5925,9 @@
   pinyin = {
     "0.4.0" = import ./overrides/pinyin/0.4.0;
   };
+  pip-requirements-parser = {
+    "32.0.1" = import ./overrides/pip-requirements-parser/32.0.1;
+  };
   pip-services3-commons = {
     "3.3.14" = import ./overrides/pip-services3-commons/3.3.14;
   };
