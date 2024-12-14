@@ -1,0 +1,1 @@
+BuildSystems = [ "pdm-pep517",]
