@@ -644,6 +644,9 @@
   bayespy = {
     "0.6.2" = import ./overrides/bayespy/0.6.2;
   };
+  bce-python-sdk = {
+    "0.9.21" = import ./overrides/bce-python-sdk/0.9.21;
+  };
   bcf = {
     "1.9.0" = import ./overrides/bcf/1.9.0;
   };
