@@ -9057,6 +9057,9 @@
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
+  thttp = {
+    "1.3.0" = import ./overrides/thttp/1.3.0;
+  };
   thunder-python = {
     "1.4.2" = import ./overrides/thunder-python/1.4.2;
   };
