@@ -7179,6 +7179,9 @@
   pyssim = {
     "0.7" = import ./overrides/pyssim/0.7;
   };
+  pystache = {
+    "0.6.5" = import ./overrides/pystache/0.6.5;
+  };
   pystemd = {
     "0.13.2" = import ./overrides/pystemd/0.13.2;
   };
