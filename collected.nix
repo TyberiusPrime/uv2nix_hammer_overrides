@@ -6922,6 +6922,9 @@
   pyo = {
     "1.0.5" = import ./overrides/pyo/1.0.5;
   };
+  pyobs-core = {
+    "1.17.1" = import ./overrides/pyobs-core/1.17.1;
+  };
   pyocclient = {
     "0.6" = import ./overrides/pyocclient/0.6;
   };
