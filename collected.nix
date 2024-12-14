@@ -2129,6 +2129,9 @@
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
+  django-selectable = {
+    "1.4.0" = import ./overrides/django-selectable/1.4.0;
+  };
   django-sendfile = {
     "0.3.11" = import ./overrides/django-sendfile/0.3.11;
   };
