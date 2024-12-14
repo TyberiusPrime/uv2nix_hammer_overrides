@@ -1292,6 +1292,9 @@
   color-operations = {
     "0.1.6" = import ./overrides/color-operations/0.1.6;
   };
+  colorama = {
+    "0.4.6" = import ./overrides/colorama/0.4.6;
+  };
   colorconsole = {
     "0.8.0" = import ./overrides/colorconsole/0.8.0;
   };
