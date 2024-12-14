@@ -2457,6 +2457,9 @@
   ecmwf-api-client = {
     "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
   };
+  econml = {
+    "0.15.1" = import ./overrides/econml/0.15.1;
+  };
   ecreall-helpers-upgrade = {
     "1.4" = import ./overrides/ecreall-helpers-upgrade/1.4;
   };
