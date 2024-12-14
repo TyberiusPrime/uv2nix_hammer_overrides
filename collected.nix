@@ -2872,6 +2872,9 @@
   flask-markdown = {
     "0.3" = import ./overrides/flask-markdown/0.3;
   };
+  flask-mongoengine = {
+    "1.0.0" = import ./overrides/flask-mongoengine/1.0.0;
+  };
   flask-nav = {
     "0.6" = import ./overrides/flask-nav/0.6;
   };
