@@ -1672,6 +1672,7 @@
     "0.5.0" = import ./overrides/dash-daq/0.5.0;
   };
   dash-renderer = {
+    "1.8.3" = import ./overrides/dash-renderer/1.8.3;
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
   dashing = {
@@ -8332,6 +8333,9 @@
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
     "0.44.0" = import ./overrides/shap/0.44.0;
+  };
+  shapash = {
+    "2.6.0" = import ./overrides/shapash/2.6.0;
   };
   sharedarray = {
     "3.2.4" = import ./overrides/sharedarray/3.2.4;
