@@ -3471,6 +3471,9 @@
   hkdf = {
     "0.0.3" = import ./overrides/hkdf/0.0.3;
   };
+  hledger-utils = {
+    "1.14.0" = import ./overrides/hledger-utils/1.14.0;
+  };
   hmmlearn = {
     "0.2.5" = import ./overrides/hmmlearn/0.2.5;
   };
