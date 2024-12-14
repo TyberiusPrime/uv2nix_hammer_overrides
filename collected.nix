@@ -1967,6 +1967,9 @@
   django-fields = {
     "0.3.0" = import ./overrides/django-fields/0.3.0;
   };
+  django-filebrowser = {
+    "4.0.3" = import ./overrides/django-filebrowser/4.0.3;
+  };
   django-fluent-dashboard = {
     "0.6.1" = import ./overrides/django-fluent-dashboard/0.6.1;
   };
