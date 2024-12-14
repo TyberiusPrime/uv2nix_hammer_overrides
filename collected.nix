@@ -1026,6 +1026,9 @@
   charmhelpers = {
     "1.2.1" = import ./overrides/charmhelpers/1.2.1;
   };
+  check-manifest = {
+    "0.49" = import ./overrides/check-manifest/0.49;
+  };
   chempy = {
     "0.9.0" = import ./overrides/chempy/0.9.0;
   };
