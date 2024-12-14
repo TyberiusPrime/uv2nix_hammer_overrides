@@ -6117,6 +6117,9 @@
   prettyprint = {
     "0.1.5" = import ./overrides/prettyprint/0.1.5;
   };
+  prettyprinter = {
+    "0.18.0" = import ./overrides/prettyprinter/0.18.0;
+  };
   prettytable = {
     "0.7.2" = import ./overrides/prettytable/0.7.2;
   };
