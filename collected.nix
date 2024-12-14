@@ -2514,6 +2514,9 @@
   emoji = {
     "1.6.3" = import ./overrides/emoji/1.6.3;
   };
+  emot = {
+    "3.1" = import ./overrides/emot/3.1;
+  };
   emport = {
     "1.3.1" = import ./overrides/emport/1.3.1;
   };
