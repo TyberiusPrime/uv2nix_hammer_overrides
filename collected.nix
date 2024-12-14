@@ -3513,6 +3513,9 @@
   hsaudiotag3k = {
     "1.1.3.post1" = import ./overrides/hsaudiotag3k/1.1.3.post1;
   };
+  htbuilder = {
+    "0.7.0" = import ./overrides/htbuilder/0.7.0;
+  };
   html2markdown = {
     "0.1.7" = import ./overrides/html2markdown/0.1.7;
   };
@@ -8710,6 +8713,9 @@
   };
   sslyze = {
     "6.0.0" = import ./overrides/sslyze/6.0.0;
+  };
+  st-annotated-text = {
+    "4.0.1" = import ./overrides/st-annotated-text/4.0.1;
   };
   starkbank-ecdsa = {
     "2.2.0" = import ./overrides/starkbank-ecdsa/2.2.0;
