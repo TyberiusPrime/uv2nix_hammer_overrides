@@ -8646,6 +8646,9 @@
   sphinxjp-themecore = {
     "0.2.0" = import ./overrides/sphinxjp-themecore/0.2.0;
   };
+  spiceypy = {
+    "6.0.0" = import ./overrides/spiceypy/6.0.0;
+  };
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
