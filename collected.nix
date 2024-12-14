@@ -1026,6 +1026,9 @@
   charmhelpers = {
     "1.2.1" = import ./overrides/charmhelpers/1.2.1;
   };
+  checksumdir = {
+    "1.2.0" = import ./overrides/checksumdir/1.2.0;
+  };
   chempy = {
     "0.9.0" = import ./overrides/chempy/0.9.0;
   };
