@@ -2108,6 +2108,9 @@
   django-ranged-response = {
     "0.2.0" = import ./overrides/django-ranged-response/0.2.0;
   };
+  django-recurrence = {
+    "1.11.1" = import ./overrides/django-recurrence/1.11.1;
+  };
   django-redis = {
     "4.2.0" = import ./overrides/django-redis/4.2.0;
   };
