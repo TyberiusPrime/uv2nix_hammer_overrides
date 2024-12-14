@@ -1680,6 +1680,9 @@
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
+  dataclasses-json-speakeasy = {
+    "0.5.11" = import ./overrides/dataclasses-json-speakeasy/0.5.11;
+  };
   datacleaner = {
     "0.1.5" = import ./overrides/datacleaner/0.1.5;
   };
