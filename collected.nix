@@ -825,6 +825,9 @@
   brainflow = {
     "5.13.3" = import ./overrides/brainflow/5.13.3;
   };
+  braintree = {
+    "4.29.0" = import ./overrides/braintree/4.29.0;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
