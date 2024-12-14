@@ -6408,6 +6408,9 @@
   pyautogui = {
     "0.9.54" = import ./overrides/pyautogui/0.9.54;
   };
+  pybadges = {
+    "3.0.1" = import ./overrides/pybadges/3.0.1;
+  };
   pybars3 = {
     "0.9.7" = import ./overrides/pybars3/0.9.7;
   };
