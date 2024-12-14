@@ -813,6 +813,9 @@
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
   };
+  bottle-websocket = {
+    "0.2.9" = import ./overrides/bottle-websocket/0.2.9;
+  };
   box2d-py = {
     "2.3.8" = import ./overrides/box2d-py/2.3.8;
   };
