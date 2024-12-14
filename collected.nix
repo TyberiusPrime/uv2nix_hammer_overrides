@@ -1238,6 +1238,9 @@
   coinmarketcap = {
     "5.0.3" = import ./overrides/coinmarketcap/5.0.3;
   };
+  coinmetrics-api-client = {
+    "2024.8.20.13" = import ./overrides/coinmetrics-api-client/2024.8.20.13;
+  };
   collection = {
     "0.1.6" = import ./overrides/collection/0.1.6;
   };
