@@ -7075,6 +7075,9 @@
   pyric = {
     "0.1.6.3" = import ./overrides/pyric/0.1.6.3;
   };
+  pyrisco = {
+    "0.6.4" = import ./overrides/pyrisco/0.6.4;
+  };
   pyroute2-core = {
     "0.6.13" = import ./overrides/pyroute2-core/0.6.13;
   };
