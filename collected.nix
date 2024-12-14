@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  jupyter-telemetry = {
+    "0.1.0" = import ./overrides/jupyter-telemetry/0.1.0;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
