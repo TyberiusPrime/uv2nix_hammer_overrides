@@ -8048,6 +8048,9 @@
   rpy2 = {
     "3.5.16" = import ./overrides/rpy2/3.5.16;
   };
+  rpyc = {
+    "6.0.0" = import ./overrides/rpyc/6.0.0;
+  };
   rq = {
     "1.0" = import ./overrides/rq/1.0;
   };
