@@ -3796,6 +3796,9 @@
   intermake = {
     "1.0.0.78" = import ./overrides/intermake/1.0.0.78;
   };
+  interrogate = {
+    "1.7.0" = import ./overrides/interrogate/1.7.0;
+  };
   interruptingcow = {
     "0.8" = import ./overrides/interruptingcow/0.8;
   };
