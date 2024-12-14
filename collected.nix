@@ -1119,6 +1119,9 @@
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
+  clickhouse-driver = {
+    "0.2.9" = import ./overrides/clickhouse-driver/0.2.9;
+  };
   clickhouse-sqlalchemy = {
     "0.3.2" = import ./overrides/clickhouse-sqlalchemy/0.3.2;
   };
