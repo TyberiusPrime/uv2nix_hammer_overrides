@@ -3787,6 +3787,9 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  intellifire4py = {
+    "4.1.9" = import ./overrides/intellifire4py/4.1.9;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
