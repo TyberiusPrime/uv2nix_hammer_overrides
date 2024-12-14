@@ -80,6 +80,9 @@
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
+  agate-sql = {
+    "0.7.2" = import ./overrides/agate-sql/0.7.2;
+  };
   agent-py = {
     "0.0.23" = import ./overrides/agent-py/0.0.23;
   };
