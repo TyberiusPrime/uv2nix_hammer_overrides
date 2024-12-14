@@ -1,4 +1,4 @@
 BuildInputs = [ "~literal:!:pkgs.cairo",]
-BuildSystems = [ "meson-python",]
+BuildSystems = [ "meson-python", "ninja",]
 NativeBuildInputs = [ "~literal:!:pkgs.meson", "~literal:!:pkgs.pkg-config",]
 RefindBuildDirectory = true
