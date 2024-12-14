@@ -8750,6 +8750,9 @@
   stheno = {
     "1.4.1" = import ./overrides/stheno/1.4.1;
   };
+  stockstats = {
+    "0.6.2" = import ./overrides/stockstats/0.6.2;
+  };
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
