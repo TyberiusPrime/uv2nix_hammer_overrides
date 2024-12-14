@@ -7373,6 +7373,9 @@
     "4.0.3" = import ./overrides/python-javabridge/4.0.3;
     "4.0.4" = import ./overrides/python-javabridge/4.0.4;
   };
+  python-jose = {
+    "3.3.0" = import ./overrides/python-jose/3.3.0;
+  };
   python-jsonrpc = {
     "0.10.0" = import ./overrides/python-jsonrpc/0.10.0;
   };
