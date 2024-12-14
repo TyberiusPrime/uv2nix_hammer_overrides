@@ -4443,6 +4443,9 @@
   linuxfd = {
     "1.5" = import ./overrides/linuxfd/1.5;
   };
+  livelossplot = {
+    "0.5.5" = import ./overrides/livelossplot/0.5.5;
+  };
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
