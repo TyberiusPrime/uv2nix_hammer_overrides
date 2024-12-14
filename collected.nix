@@ -8329,6 +8329,9 @@
   sha3 = {
     "0.2.1" = import ./overrides/sha3/0.2.1;
   };
+  shadow4 = {
+    "0.1.43" = import ./overrides/shadow4/0.1.43;
+  };
   shap = {
     "0.43.0" = import ./overrides/shap/0.43.0;
     "0.44.0" = import ./overrides/shap/0.44.0;
@@ -8701,6 +8704,9 @@
   srvlookup = {
     "3.0.0" = import ./overrides/srvlookup/3.0.0;
   };
+  srxraylib = {
+    "1.0.55" = import ./overrides/srxraylib/1.0.55;
+  };
   sseclient = {
     "0.0.11" = import ./overrides/sseclient/0.0.11;
     "0.0.27" = import ./overrides/sseclient/0.0.27;
@@ -8863,6 +8869,9 @@
   };
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
+  };
+  syned = {
+    "1.0.40" = import ./overrides/syned/1.0.40;
   };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
