@@ -4311,6 +4311,9 @@
   liac-arff = {
     "2.5.0" = import ./overrides/liac-arff/2.5.0;
   };
+  libagent = {
+    "0.15.0" = import ./overrides/libagent/0.15.0;
+  };
   libais = {
     "0.17" = import ./overrides/libais/0.17;
   };
