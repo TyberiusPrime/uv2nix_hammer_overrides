@@ -7727,6 +7727,9 @@
   quantiphyse-fabber = {
     "0.9.2" = import ./overrides/quantiphyse-fabber/0.9.2;
   };
+  quart-trio = {
+    "0.11.1" = import ./overrides/quart-trio/0.11.1;
+  };
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
   };
