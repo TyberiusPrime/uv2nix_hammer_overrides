@@ -4443,6 +4443,9 @@
   linuxfd = {
     "1.5" = import ./overrides/linuxfd/1.5;
   };
+  lion-pytorch = {
+    "0.2.2" = import ./overrides/lion-pytorch/0.2.2;
+  };
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
