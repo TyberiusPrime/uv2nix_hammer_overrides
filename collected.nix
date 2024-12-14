@@ -4577,6 +4577,9 @@
   madmom = {
     "0.16.1" = import ./overrides/madmom/0.16.1;
   };
+  magic-impute = {
+    "3.0.0" = import ./overrides/magic-impute/3.0.0;
+  };
   mailchecker = {
     "6.0.8" = import ./overrides/mailchecker/6.0.8;
   };
