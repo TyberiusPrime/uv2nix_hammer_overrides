@@ -9823,6 +9823,9 @@
   wcag-contrast-ratio = {
     "0.9" = import ./overrides/wcag-contrast-ratio/0.9;
   };
+  wcmatch = {
+    "9.0" = import ./overrides/wcmatch/9.0;
+  };
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
