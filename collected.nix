@@ -7787,6 +7787,9 @@
   rauth = {
     "0.7.3" = import ./overrides/rauth/0.7.3;
   };
+  raven = {
+    "6.10.0" = import ./overrides/raven/6.10.0;
+  };
   rcsb-utils-io = {
     "1.49" = import ./overrides/rcsb-utils-io/1.49;
   };
