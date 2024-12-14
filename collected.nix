@@ -470,6 +470,9 @@
   aurorapy = {
     "0.2.7" = import ./overrides/aurorapy/0.2.7;
   };
+  authcaptureproxy = {
+    "1.3.2" = import ./overrides/authcaptureproxy/1.3.2;
+  };
   authheaders = {
     "0.16.3" = import ./overrides/authheaders/0.16.3;
   };
