@@ -2297,6 +2297,9 @@
   dm-xmlsec-binding = {
     "3.0" = import ./overrides/dm-xmlsec-binding/3.0;
   };
+  dnspython = {
+    "2.6.1" = import ./overrides/dnspython/2.6.1;
+  };
   dnspython3 = {
     "1.15.0" = import ./overrides/dnspython3/1.15.0;
   };
