@@ -385,6 +385,9 @@
   artifactory = {
     "0.1.17" = import ./overrides/artifactory/0.1.17;
   };
+  arviz = {
+    "0.19.0" = import ./overrides/arviz/0.19.0;
+  };
   arxiv2bib = {
     "1.0.8" = import ./overrides/arxiv2bib/1.0.8;
   };
