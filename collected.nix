@@ -9826,6 +9826,9 @@
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
+  weave = {
+    "0.51.2" = import ./overrides/weave/0.51.2;
+  };
   webapp2 = {
     "2.5.2" = import ./overrides/webapp2/2.5.2;
   };
