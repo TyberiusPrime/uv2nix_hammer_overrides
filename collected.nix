@@ -984,6 +984,9 @@
   cfgraph = {
     "0.2.1" = import ./overrides/cfgraph/0.2.1;
   };
+  cfgv = {
+    "3.4.0" = import ./overrides/cfgv/3.4.0;
+  };
   cfunits = {
     "3.3.7" = import ./overrides/cfunits/3.3.7;
   };
