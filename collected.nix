@@ -379,6 +379,9 @@
   arrayterator = {
     "1.0.1" = import ./overrides/arrayterator/1.0.1;
   };
+  arrow = {
+    "1.3.0" = import ./overrides/arrow/1.3.0;
+  };
   artellapipe-config = {
     "0.0.32" = import ./overrides/artellapipe-config/0.0.32;
   };
