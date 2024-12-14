@@ -8296,6 +8296,9 @@
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
   };
+  serpy = {
+    "0.3.1" = import ./overrides/serpy/0.3.1;
+  };
   serverfiles = {
     "0.3.1" = import ./overrides/serverfiles/0.3.1;
   };
