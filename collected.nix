@@ -1400,6 +1400,9 @@
   contextvars = {
     "2.4" = import ./overrides/contextvars/2.4;
   };
+  control = {
+    "0.10.1" = import ./overrides/control/0.10.1;
+  };
   conversionkit = {
     "0.3.4" = import ./overrides/conversionkit/0.3.4;
   };
