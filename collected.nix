@@ -8477,6 +8477,9 @@
   sktime = {
     "0.26.0" = import ./overrides/sktime/0.26.0;
   };
+  skyfield = {
+    "1.49" = import ./overrides/skyfield/1.49;
+  };
   slackclient = {
     "0.16" = import ./overrides/slackclient/0.16;
   };
