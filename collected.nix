@@ -3486,6 +3486,9 @@
   homura = {
     "0.1.5" = import ./overrides/homura/0.1.5;
   };
+  honeybee-standards = {
+    "2.0.6" = import ./overrides/honeybee-standards/2.0.6;
+  };
   hopcroftkarp = {
     "1.2.5" = import ./overrides/hopcroftkarp/1.2.5;
   };
