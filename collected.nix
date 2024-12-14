@@ -6093,6 +6093,9 @@
   preggy = {
     "1.4.4" = import ./overrides/preggy/1.4.4;
   };
+  pretend = {
+    "1.0.9" = import ./overrides/pretend/1.0.9;
+  };
   pretrainedmodels = {
     "0.7.4" = import ./overrides/pretrainedmodels/0.7.4;
   };
