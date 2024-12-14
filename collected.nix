@@ -9057,6 +9057,9 @@
   thriftpy2 = {
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
+  thumbor = {
+    "7.7.4" = import ./overrides/thumbor/7.7.4;
+  };
   thunder-python = {
     "1.4.2" = import ./overrides/thunder-python/1.4.2;
   };
