@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  discordwebhook = {
+    "1.0.3" = import ./overrides/discordwebhook/1.0.3;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
