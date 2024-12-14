@@ -4051,6 +4051,9 @@
   jsonrpcserver = {
     "5.0.9" = import ./overrides/jsonrpcserver/5.0.9;
   };
+  jsonschema-spec = {
+    "0.2.4" = import ./overrides/jsonschema-spec/0.2.4;
+  };
   jsonsir = {
     "0.0.2" = import ./overrides/jsonsir/0.0.2;
   };
