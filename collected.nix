@@ -7345,6 +7345,9 @@
   python-google-places = {
     "1.4.2" = import ./overrides/python-google-places/1.4.2;
   };
+  python-gvm = {
+    "24.8.0" = import ./overrides/python-gvm/24.8.0;
+  };
   python-helper = {
     "0.3.74" = import ./overrides/python-helper/0.3.74;
   };
