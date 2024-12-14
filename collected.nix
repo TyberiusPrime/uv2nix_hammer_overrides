@@ -7239,6 +7239,9 @@
   pytest-raisesregexp = {
     "2.1" = import ./overrides/pytest-raisesregexp/2.1;
   };
+  pytest-randomly = {
+    "3.15.0" = import ./overrides/pytest-randomly/3.15.0;
+  };
   pytest-remfiles = {
     "0.0.2" = import ./overrides/pytest-remfiles/0.0.2;
   };
