@@ -1683,6 +1683,9 @@
   datacleaner = {
     "0.1.5" = import ./overrides/datacleaner/0.1.5;
   };
+  datacube = {
+    "1.8.19" = import ./overrides/datacube/1.8.19;
+  };
   datadbs = {
     "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
