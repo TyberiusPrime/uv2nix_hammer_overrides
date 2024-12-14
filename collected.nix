@@ -3928,6 +3928,9 @@
   jinja-macro-tags = {
     "0.2" = import ./overrides/jinja-macro-tags/0.2;
   };
+  jinja2-git = {
+    "1.4.0" = import ./overrides/jinja2-git/1.4.0;
+  };
   jinja2-highlight = {
     "0.6.1" = import ./overrides/jinja2-highlight/0.6.1;
   };
