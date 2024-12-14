@@ -4850,6 +4850,9 @@
   mmhash3 = {
     "3.0.1" = import ./overrides/mmhash3/3.0.1;
   };
+  mmtf-python = {
+    "1.1.3" = import ./overrides/mmtf-python/1.1.3;
+  };
   mo-dots = {
     "4.22.21108" = import ./overrides/mo-dots/4.22.21108;
   };
