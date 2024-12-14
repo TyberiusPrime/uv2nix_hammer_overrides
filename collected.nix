@@ -8580,6 +8580,9 @@
   sonopy = {
     "0.1.2" = import ./overrides/sonopy/0.1.2;
   };
+  sonos-websocket = {
+    "0.1.3" = import ./overrides/sonos-websocket/0.1.3;
+  };
   soundfile = {
     "0.12.1" = import ./overrides/soundfile/0.12.1;
   };
