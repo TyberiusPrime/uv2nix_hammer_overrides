@@ -5754,6 +5754,9 @@
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
+  pdbpp = {
+    "0.10.3" = import ./overrides/pdbpp/0.10.3;
+  };
   pdc-client = {
     "1.8.0" = import ./overrides/pdc-client/1.8.0;
   };
