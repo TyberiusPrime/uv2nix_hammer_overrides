@@ -9180,6 +9180,9 @@
     "2.4.1" = import ./overrides/torch/2.4.1;
     "2.5.1" = import ./overrides/torch/2.5.1;
   };
+  torch-optimizer = {
+    "0.3.0" = import ./overrides/torch-optimizer/0.3.0;
+  };
   torch-scatter = {
     "2.1.2" = import ./overrides/torch-scatter/2.1.2;
   };
