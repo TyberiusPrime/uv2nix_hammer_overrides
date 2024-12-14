@@ -92,6 +92,9 @@
   aiee = {
     "0.3.2" = import ./overrides/aiee/0.3.2;
   };
+  aiocontextvars = {
+    "0.2.2" = import ./overrides/aiocontextvars/0.2.2;
+  };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
