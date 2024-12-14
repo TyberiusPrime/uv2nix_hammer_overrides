@@ -8471,6 +8471,9 @@
   skimpygimpy = {
     "1.4" = import ./overrides/skimpygimpy/1.4;
   };
+  skip-django-chamber = {
+    "0.7.2" = import ./overrides/skip-django-chamber/0.7.2;
+  };
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
   };
