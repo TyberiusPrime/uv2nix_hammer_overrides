@@ -4604,6 +4604,9 @@
   manuf = {
     "1.1.5" = import ./overrides/manuf/1.1.5;
   };
+  mapclassify = {
+    "2.8.0" = import ./overrides/mapclassify/2.8.0;
+  };
   mappy = {
     "2.28" = import ./overrides/mappy/2.28;
   };
