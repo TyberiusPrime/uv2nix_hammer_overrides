@@ -3071,6 +3071,9 @@
   gaegraph = {
     "3.9" = import ./overrides/gaegraph/3.9;
   };
+  gamble = {
+    "0.14.0" = import ./overrides/gamble/0.14.0;
+  };
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
   };
