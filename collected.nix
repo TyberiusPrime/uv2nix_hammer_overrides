@@ -3534,6 +3534,9 @@
   htools = {
     "7.7.0" = import ./overrides/htools/7.7.0;
   };
+  htsql = {
+    "2.3.3" = import ./overrides/htsql/2.3.3;
+  };
   http-ece = {
     "1.1.0" = import ./overrides/http-ece/1.1.0;
     "1.2.1" = import ./overrides/http-ece/1.2.1;
