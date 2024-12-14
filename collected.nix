@@ -6378,6 +6378,9 @@
   pyarlo = {
     "0.2.4" = import ./overrides/pyarlo/0.2.4;
   };
+  pyarmor = {
+    "8.5.11" = import ./overrides/pyarmor/8.5.11;
+  };
   pyarrow = {
     "11.0.0" = import ./overrides/pyarrow/11.0.0;
   };
