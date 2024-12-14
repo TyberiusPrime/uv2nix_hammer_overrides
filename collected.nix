@@ -117,6 +117,9 @@
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
+  aioice = {
+    "0.9.0" = import ./overrides/aioice/0.9.0;
+  };
   aiolivisi = {
     "0.0.19" = import ./overrides/aiolivisi/0.0.19;
   };
