@@ -4226,6 +4226,9 @@
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
   };
+  labgrid = {
+    "24.0.1" = import ./overrides/labgrid/24.0.1;
+  };
   lac = {
     "2.1.2" = import ./overrides/lac/2.1.2;
   };
