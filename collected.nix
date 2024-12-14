@@ -8909,6 +8909,9 @@
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
   };
+  tdir = {
+    "1.8.2" = import ./overrides/tdir/1.8.2;
+  };
   tdqm = {
     "0.0.1" = import ./overrides/tdqm/0.0.1;
   };
