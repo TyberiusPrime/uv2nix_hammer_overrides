@@ -5426,6 +5426,9 @@
   object-clerk = {
     "0.1.1" = import ./overrides/object-clerk/0.1.1;
   };
+  ocean-secret-store-client = {
+    "0.0.2" = import ./overrides/ocean-secret-store-client/0.0.2;
+  };
   octobot-commons = {
     "1.9.58" = import ./overrides/octobot-commons/1.9.58;
   };
