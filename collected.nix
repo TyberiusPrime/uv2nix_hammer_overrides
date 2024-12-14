@@ -228,6 +228,9 @@
   anndata = {
     "0.10.9" = import ./overrides/anndata/0.10.9;
   };
+  annotated-types = {
+    "0.7.0" = import ./overrides/annotated-types/0.7.0;
+  };
   annoy = {
     "1.17.3" = import ./overrides/annoy/1.17.3;
   };
