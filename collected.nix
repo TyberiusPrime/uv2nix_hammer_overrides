@@ -26,6 +26,9 @@
   accupy = {
     "0.3.6" = import ./overrides/accupy/0.3.6;
   };
+  accuweather = {
+    "3.0.0" = import ./overrides/accuweather/3.0.0;
+  };
   acor = {
     "1.1.1" = import ./overrides/acor/1.1.1;
   };
