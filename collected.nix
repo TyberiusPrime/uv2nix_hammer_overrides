@@ -5799,6 +5799,9 @@
   pefile = {
     "2019.4.18" = import ./overrides/pefile/2019.4.18;
   };
+  pem = {
+    "23.1.0" = import ./overrides/pem/23.1.0;
+  };
   pemja = {
     "0.4.1" = import ./overrides/pemja/0.4.1;
   };
