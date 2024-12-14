@@ -2929,6 +2929,9 @@
   fleep = {
     "1.0.1" = import ./overrides/fleep/1.0.1;
   };
+  flet-core = {
+    "0.24.1" = import ./overrides/flet-core/0.24.1;
+  };
   flex = {
     "6.14.1" = import ./overrides/flex/6.14.1;
   };
