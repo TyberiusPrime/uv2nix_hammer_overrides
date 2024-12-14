@@ -683,6 +683,9 @@
   bernhard = {
     "0.2.6" = import ./overrides/bernhard/0.2.6;
   };
+  bert-serving-client = {
+    "1.10.0" = import ./overrides/bert-serving-client/1.10.0;
+  };
   bert4keras = {
     "0.11.5" = import ./overrides/bert4keras/0.11.5;
   };
