@@ -8834,6 +8834,9 @@
   sunburnt = {
     "0.6" = import ./overrides/sunburnt/0.6;
   };
+  sunpy = {
+    "6.0.1" = import ./overrides/sunpy/6.0.1;
+  };
   sunwatcher = {
     "0.2.1" = import ./overrides/sunwatcher/0.2.1;
   };
