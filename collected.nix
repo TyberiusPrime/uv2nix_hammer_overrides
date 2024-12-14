@@ -6303,6 +6303,9 @@
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
+  py-aosmith = {
+    "1.0.8" = import ./overrides/py-aosmith/1.0.8;
+  };
   py-bcrypt = {
     "0.4" = import ./overrides/py-bcrypt/0.4;
   };
