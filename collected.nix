@@ -4455,6 +4455,9 @@
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
+  llama-index-vector-stores-postgres = {
+    "0.2.2" = import ./overrides/llama-index-vector-stores-postgres/0.2.2;
+  };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
   };
