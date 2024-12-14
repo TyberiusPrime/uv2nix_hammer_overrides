@@ -2051,6 +2051,9 @@
   django-mp-pagination = {
     "0.3.0" = import ./overrides/django-mp-pagination/0.3.0;
   };
+  django-nested-admin = {
+    "4.1.1" = import ./overrides/django-nested-admin/4.1.1;
+  };
   django-next-prev = {
     "1.1.0" = import ./overrides/django-next-prev/1.1.0;
   };
