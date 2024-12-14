@@ -2730,6 +2730,9 @@
   feedinlib = {
     "0.0.12" = import ./overrides/feedinlib/0.0.12;
   };
+  feedparser = {
+    "6.0.11" = import ./overrides/feedparser/6.0.11;
+  };
   feeluown = {
     "4.1.7" = import ./overrides/feeluown/4.1.7;
   };
