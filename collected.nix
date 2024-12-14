@@ -972,6 +972,9 @@
   celery-redbeat = {
     "2.2.0" = import ./overrides/celery-redbeat/2.2.0;
   };
+  cellrank = {
+    "2.0.5" = import ./overrides/cellrank/2.0.5;
+  };
   cement = {
     "2.8.2" = import ./overrides/cement/2.8.2;
   };
@@ -4519,6 +4522,9 @@
   };
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
+  };
+  loompy = {
+    "3.0.7" = import ./overrides/loompy/3.0.7;
   };
   looptools = {
     "1.2.4" = import ./overrides/looptools/1.2.4;
