@@ -7772,6 +7772,9 @@
   randomwords = {
     "0.4.0" = import ./overrides/randomwords/0.4.0;
   };
+  rangehttpserver = {
+    "1.4.0" = import ./overrides/rangehttpserver/1.4.0;
+  };
   rapidtables = {
     "0.1.11" = import ./overrides/rapidtables/0.1.11;
   };
