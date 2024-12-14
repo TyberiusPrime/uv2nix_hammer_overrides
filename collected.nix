@@ -6456,6 +6456,9 @@
   pychalk = {
     "2.0.1" = import ./overrides/pychalk/2.0.1;
   };
+  pychannels = {
+    "1.2.3" = import ./overrides/pychannels/1.2.3;
+  };
   pychm = {
     "0.8.6" = import ./overrides/pychm/0.8.6;
   };
