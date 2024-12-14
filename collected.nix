@@ -1791,6 +1791,9 @@
   dhooks = {
     "1.1.4" = import ./overrides/dhooks/1.1.4;
   };
+  dicompyler-core = {
+    "0.5.6" = import ./overrides/dicompyler-core/0.5.6;
+  };
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
