@@ -978,6 +978,9 @@
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
+  certomancer = {
+    "0.12.0" = import ./overrides/certomancer/0.12.0;
+  };
   cf-units = {
     "3.2.0" = import ./overrides/cf-units/3.2.0;
   };
