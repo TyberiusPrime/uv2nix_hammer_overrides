@@ -3110,6 +3110,9 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  geckodriver-autoinstaller = {
+    "0.1.0" = import ./overrides/geckodriver-autoinstaller/0.1.0;
+  };
   genpy = {
     "2022.1" = import ./overrides/genpy/2022.1;
   };
