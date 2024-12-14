@@ -4075,6 +4075,9 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  jupytext = {
+    "1.16.4" = import ./overrides/jupytext/1.16.4;
+  };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
