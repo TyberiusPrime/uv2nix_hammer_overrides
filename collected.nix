@@ -4153,6 +4153,9 @@
   keras-transformer = {
     "0.40.0" = import ./overrides/keras-transformer/0.40.0;
   };
+  keras-tuner = {
+    "1.4.7" = import ./overrides/keras-tuner/1.4.7;
+  };
   kerberos = {
     "1.3.1" = import ./overrides/kerberos/1.3.1;
   };
