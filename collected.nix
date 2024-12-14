@@ -3231,6 +3231,9 @@
   go-http = {
     "0.3.2" = import ./overrides/go-http/0.3.2;
   };
+  goerr = {
+    "0.11.0" = import ./overrides/goerr/0.11.0;
+  };
   golgi = {
     "2.0.1" = import ./overrides/golgi/2.0.1;
   };
