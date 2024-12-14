@@ -683,6 +683,9 @@
   bernhard = {
     "0.2.6" = import ./overrides/bernhard/0.2.6;
   };
+  bert-extractive-summarizer = {
+    "0.10.1" = import ./overrides/bert-extractive-summarizer/0.10.1;
+  };
   bert4keras = {
     "0.11.5" = import ./overrides/bert4keras/0.11.5;
   };
