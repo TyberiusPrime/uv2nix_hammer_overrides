@@ -6514,6 +6514,9 @@
   pycparserext = {
     "2021.1" = import ./overrides/pycparserext/2021.1;
   };
+  pycrdt-websocket = {
+    "0.14.2" = import ./overrides/pycrdt-websocket/0.14.2;
+  };
   pycron = {
     "3.0.0" = import ./overrides/pycron/3.0.0;
   };
