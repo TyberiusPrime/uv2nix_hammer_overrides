@@ -6432,6 +6432,9 @@
   pybloomfiltermmap3 = {
     "0.6.0" = import ./overrides/pybloomfiltermmap3/0.6.0;
   };
+  pybravia = {
+    "0.3.4" = import ./overrides/pybravia/0.3.4;
+  };
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
