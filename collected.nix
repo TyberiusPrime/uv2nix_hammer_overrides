@@ -7739,6 +7739,12 @@
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
   };
+  quri-parts-core = {
+    "0.19.0" = import ./overrides/quri-parts-core/0.19.0;
+  };
+  quri-parts-rust = {
+    "0.20.3" = import ./overrides/quri-parts-rust/0.20.3;
+  };
   r2pipe = {
     "1.9.4" = import ./overrides/r2pipe/1.9.4;
   };
