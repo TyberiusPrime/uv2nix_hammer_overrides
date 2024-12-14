@@ -1446,6 +1446,9 @@
   coverage = {
     "6.5.0" = import ./overrides/coverage/6.5.0;
   };
+  coz-bytecode = {
+    "0.5.1" = import ./overrides/coz-bytecode/0.5.1;
+  };
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
   };
