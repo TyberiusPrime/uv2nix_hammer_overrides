@@ -2778,6 +2778,9 @@
   fire = {
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
+  fireflyalgorithm = {
+    "0.4.5" = import ./overrides/fireflyalgorithm/0.4.5;
+  };
   fireworks = {
     "2.0.3" = import ./overrides/fireworks/2.0.3;
   };
