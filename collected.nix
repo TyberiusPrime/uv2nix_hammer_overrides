@@ -500,6 +500,9 @@
   autopaths = {
     "1.6.0" = import ./overrides/autopaths/1.6.0;
   };
+  autorepr = {
+    "0.3.0" = import ./overrides/autorepr/0.3.0;
+  };
   autosemver = {
     "1.0.0" = import ./overrides/autosemver/1.0.0;
   };
