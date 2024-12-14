@@ -4715,6 +4715,9 @@
   merkletools = {
     "1.0.3" = import ./overrides/merkletools/1.0.3;
   };
+  meshio = {
+    "5.3.5" = import ./overrides/meshio/5.3.5;
+  };
   messytables = {
     "0.15.2" = import ./overrides/messytables/0.15.2;
   };
