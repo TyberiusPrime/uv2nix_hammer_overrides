@@ -3586,6 +3586,9 @@
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
   };
+  huum = {
+    "0.7.10" = import ./overrides/huum/0.7.10;
+  };
   hwdata = {
     "2.4.1" = import ./overrides/hwdata/2.4.1;
   };
