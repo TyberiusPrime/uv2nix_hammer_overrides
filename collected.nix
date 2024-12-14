@@ -5742,6 +5742,9 @@
   pause = {
     "0.3" = import ./overrides/pause/0.3;
   };
+  paux = {
+    "1.0.14" = import ./overrides/paux/1.0.14;
+  };
   pbkdf2 = {
     "1.3" = import ./overrides/pbkdf2/1.3;
   };
