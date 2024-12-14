@@ -6834,6 +6834,9 @@
   pylint-flask = {
     "0.6" = import ./overrides/pylint-flask/0.6;
   };
+  pyls-flake8 = {
+    "0.4.0" = import ./overrides/pyls-flake8/0.4.0;
+  };
   pyls-isort = {
     "0.2.2" = import ./overrides/pyls-isort/0.2.2;
   };
