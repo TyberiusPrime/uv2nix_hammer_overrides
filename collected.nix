@@ -3191,6 +3191,9 @@
   gitlab = {
     "1.0.2" = import ./overrides/gitlab/1.0.2;
   };
+  gitlint-core = {
+    "0.19.1" = import ./overrides/gitlint-core/0.19.1;
+  };
   gitpython = {
     "1.0.1" = import ./overrides/gitpython/1.0.1;
     "1.0.2" = import ./overrides/gitpython/1.0.2;
