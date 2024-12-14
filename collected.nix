@@ -5432,6 +5432,9 @@
   octobot-tentacles-manager = {
     "2.9.16" = import ./overrides/octobot-tentacles-manager/2.9.16;
   };
+  octodns = {
+    "1.9.1" = import ./overrides/octodns/1.9.1;
+  };
   odfpy = {
     "1.4.1" = import ./overrides/odfpy/1.4.1;
   };
