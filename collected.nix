@@ -7610,6 +7610,9 @@
   pyvips = {
     "2.2.3" = import ./overrides/pyvips/2.2.3;
   };
+  pyvista = {
+    "0.44.1" = import ./overrides/pyvista/0.44.1;
+  };
   pyvizio = {
     "0.1.61" = import ./overrides/pyvizio/0.1.61;
   };
