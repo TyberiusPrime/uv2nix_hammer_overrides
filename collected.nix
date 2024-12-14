@@ -3646,6 +3646,9 @@
   idds-workflow = {
     "2.1.40" = import ./overrides/idds-workflow/2.1.40;
   };
+  idna = {
+    "3.8" = import ./overrides/idna/3.8;
+  };
   idx2numpy = {
     "1.2.3" = import ./overrides/idx2numpy/1.2.3;
   };
