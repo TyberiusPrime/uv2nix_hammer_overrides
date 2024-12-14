@@ -5441,6 +5441,9 @@
   odo = {
     "0.5.0" = import ./overrides/odo/0.5.0;
   };
+  oead = {
+    "1.2.9.post4" = import ./overrides/oead/1.2.9.post4;
+  };
   offsetbasedgraph = {
     "2.1.4" = import ./overrides/offsetbasedgraph/2.1.4;
   };
