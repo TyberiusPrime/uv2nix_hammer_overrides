@@ -3317,6 +3317,9 @@
   greenlet = {
     "3.1.0" = import ./overrides/greenlet/3.1.0;
   };
+  grimoirelab-toolkit = {
+    "1.0.4" = import ./overrides/grimoirelab-toolkit/1.0.4;
+  };
   gripcontrol = {
     "4.2.0" = import ./overrides/gripcontrol/4.2.0;
   };
