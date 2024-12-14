@@ -1770,6 +1770,9 @@
   demands = {
     "3.0.0" = import ./overrides/demands/3.0.0;
   };
+  demes = {
+    "0.2.3" = import ./overrides/demes/0.2.3;
+  };
   demjson3 = {
     "3.0.6" = import ./overrides/demjson3/3.0.6;
   };
