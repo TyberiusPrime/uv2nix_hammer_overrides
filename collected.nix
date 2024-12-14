@@ -3715,6 +3715,9 @@
   implicit = {
     "0.7.2" = import ./overrides/implicit/0.7.2;
   };
+  importlab = {
+    "0.8.1" = import ./overrides/importlab/0.8.1;
+  };
   importlib = {
     "1.0.4" = import ./overrides/importlib/1.0.4;
   };
