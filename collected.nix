@@ -596,6 +596,9 @@
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
+  baron = {
+    "0.10.1" = import ./overrides/baron/0.10.1;
+  };
   base32hex = {
     "1.0.2" = import ./overrides/base32hex/1.0.2;
   };
