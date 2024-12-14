@@ -4670,6 +4670,9 @@
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };
+  mdformat-gfm = {
+    "0.3.6" = import ./overrides/mdformat-gfm/0.3.6;
+  };
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
   };
