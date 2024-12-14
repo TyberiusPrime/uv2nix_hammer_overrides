@@ -6384,6 +6384,9 @@
   pyasn = {
     "1.6.2" = import ./overrides/pyasn/1.6.2;
   };
+  pyasn1 = {
+    "0.6.0" = import ./overrides/pyasn1/0.6.0;
+  };
   pyastronomy = {
     "0.22.0" = import ./overrides/pyastronomy/0.22.0;
   };
