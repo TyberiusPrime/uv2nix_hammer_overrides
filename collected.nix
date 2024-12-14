@@ -2487,6 +2487,9 @@
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
   };
+  efficientnet = {
+    "1.1.1" = import ./overrides/efficientnet/1.1.1;
+  };
   eigenpy = {
     "3.5.1" = import ./overrides/eigenpy/3.5.1;
   };
