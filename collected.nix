@@ -1886,6 +1886,9 @@
   django-apptemplates = {
     "1.5" = import ./overrides/django-apptemplates/1.5;
   };
+  django-apscheduler = {
+    "0.6.2" = import ./overrides/django-apscheduler/0.6.2;
+  };
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
   };
