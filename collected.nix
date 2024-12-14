@@ -2406,6 +2406,9 @@
   duckietown-docker-utils-daffy = {
     "6.1.1" = import ./overrides/duckietown-docker-utils-daffy/6.1.1;
   };
+  duden = {
+    "0.19.1" = import ./overrides/duden/0.19.1;
+  };
   dugong = {
     "3.8.2" = import ./overrides/dugong/3.8.2;
   };
