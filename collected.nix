@@ -8108,6 +8108,9 @@
   safeio = {
     "1.2" = import ./overrides/safeio/1.2;
   };
+  salmon-mail = {
+    "3.3.0" = import ./overrides/salmon-mail/3.3.0;
+  };
   salsa20 = {
     "0.3.0" = import ./overrides/salsa20/0.3.0;
   };
