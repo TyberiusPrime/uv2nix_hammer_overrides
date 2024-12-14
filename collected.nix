@@ -2042,6 +2042,9 @@
   django-mdeditor = {
     "0.1.20" = import ./overrides/django-mdeditor/0.1.20;
   };
+  django-meta = {
+    "2.4.2" = import ./overrides/django-meta/2.4.2;
+  };
   django-model-utils = {
     "3.0.0" = import ./overrides/django-model-utils/3.0.0;
   };
