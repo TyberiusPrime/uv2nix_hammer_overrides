@@ -8075,6 +8075,9 @@
   rubymarshal = {
     "1.2.7" = import ./overrides/rubymarshal/1.2.7;
   };
+  ruia = {
+    "0.8.5" = import ./overrides/ruia/0.8.5;
+  };
   runcmd = {
     "2020.12.3" = import ./overrides/runcmd/2020.12.3;
   };
