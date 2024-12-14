@@ -6303,6 +6303,9 @@
   py-air-control-exporter = {
     "0.3.1" = import ./overrides/py-air-control-exporter/0.3.1;
   };
+  py-algorand-sdk = {
+    "2.6.1" = import ./overrides/py-algorand-sdk/2.6.1;
+  };
   py-bcrypt = {
     "0.4" = import ./overrides/py-bcrypt/0.4;
   };
