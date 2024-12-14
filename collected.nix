@@ -2129,6 +2129,9 @@
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
+  django-sekizai = {
+    "4.1.0" = import ./overrides/django-sekizai/4.1.0;
+  };
   django-sendfile = {
     "0.3.11" = import ./overrides/django-sendfile/0.3.11;
   };
