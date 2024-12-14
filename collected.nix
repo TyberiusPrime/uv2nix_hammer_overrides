@@ -240,6 +240,9 @@
   ansible-base = {
     "2.10.17" = import ./overrides/ansible-base/2.10.17;
   };
+  ansible-later = {
+    "4.0.7" = import ./overrides/ansible-later/4.0.7;
+  };
   ansiconv = {
     "1.0.0" = import ./overrides/ansiconv/1.0.0;
   };
