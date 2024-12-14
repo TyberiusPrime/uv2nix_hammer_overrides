@@ -56,6 +56,9 @@
   adb-shell = {
     "0.4.4" = import ./overrides/adb-shell/0.4.4;
   };
+  add-trailing-comma = {
+    "3.1.0" = import ./overrides/add-trailing-comma/3.1.0;
+  };
   addonfactory-splunk-conf-parser-lib = {
     "0.4.3" = import ./overrides/addonfactory-splunk-conf-parser-lib/0.4.3;
   };
