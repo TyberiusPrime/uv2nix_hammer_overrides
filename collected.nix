@@ -9076,6 +9076,9 @@
   tiddlywebplugins-utils = {
     "1.10" = import ./overrides/tiddlywebplugins-utils/1.10;
   };
+  tifftools = {
+    "1.5.2" = import ./overrides/tifftools/1.5.2;
+  };
   tiktoken = {
     "0.4.0" = import ./overrides/tiktoken/0.4.0;
   };
