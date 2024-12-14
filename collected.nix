@@ -3946,6 +3946,12 @@
   johnnycanencrypt = {
     "0.14.1" = import ./overrides/johnnycanencrypt/0.14.1;
   };
+  joker = {
+    "0.3.3" = import ./overrides/joker/0.3.3;
+  };
+  joker-interfaces = {
+    "0.1.5" = import ./overrides/joker-interfaces/0.1.5;
+  };
   jose = {
     "1.0.0" = import ./overrides/jose/1.0.0;
   };
