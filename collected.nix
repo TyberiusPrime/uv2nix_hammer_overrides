@@ -6468,6 +6468,9 @@
   pycld2 = {
     "0.41" = import ./overrides/pycld2/0.41;
   };
+  pyclesperanto-prototype = {
+    "0.24.4" = import ./overrides/pyclesperanto-prototype/0.24.4;
+  };
   pycli = {
     "2.0.3" = import ./overrides/pycli/2.0.3;
   };
