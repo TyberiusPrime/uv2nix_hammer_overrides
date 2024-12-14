@@ -8701,6 +8701,9 @@
   srvlookup = {
     "3.0.0" = import ./overrides/srvlookup/3.0.0;
   };
+  srxraylib = {
+    "1.0.55" = import ./overrides/srxraylib/1.0.55;
+  };
   sseclient = {
     "0.0.11" = import ./overrides/sseclient/0.0.11;
     "0.0.27" = import ./overrides/sseclient/0.0.27;
@@ -8863,6 +8866,9 @@
   };
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
+  };
+  syned = {
+    "1.0.40" = import ./overrides/syned/1.0.40;
   };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
@@ -9915,6 +9921,9 @@
   };
   wmd = {
     "1.3.2" = import ./overrides/wmd/1.3.2;
+  };
+  wofry = {
+    "1.0.33" = import ./overrides/wofry/1.0.33;
   };
   wolframclient = {
     "1.4.0" = import ./overrides/wolframclient/1.4.0;
