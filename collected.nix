@@ -6180,6 +6180,9 @@
   projectq = {
     "0.8.0" = import ./overrides/projectq/0.8.0;
   };
+  prometheus-api-client = {
+    "0.5.5" = import ./overrides/prometheus-api-client/0.5.5;
+  };
   promise = {
     "2.3" = import ./overrides/promise/2.3;
   };
