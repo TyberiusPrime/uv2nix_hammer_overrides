@@ -3465,6 +3465,9 @@
   hierplace = {
     "1.1.0" = import ./overrides/hierplace/1.1.0;
   };
+  hiplot = {
+    "0.1.33" = import ./overrides/hiplot/0.1.33;
+  };
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
   };
