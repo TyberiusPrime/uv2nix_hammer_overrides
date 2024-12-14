@@ -7586,6 +7586,9 @@
   pyupdate = {
     "1.4.0" = import ./overrides/pyupdate/1.4.0;
   };
+  pyusb = {
+    "1.2.1" = import ./overrides/pyusb/1.2.1;
+  };
   pyutil = {
     "3.3.6" = import ./overrides/pyutil/3.3.6;
   };
