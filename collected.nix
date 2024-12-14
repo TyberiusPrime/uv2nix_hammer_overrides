@@ -1590,6 +1590,9 @@
   cvargparse = {
     "0.5.4" = import ./overrides/cvargparse/0.5.4;
   };
+  cvss = {
+    "3.2" = import ./overrides/cvss/3.2;
+  };
   cvzone = {
     "1.6.1" = import ./overrides/cvzone/1.6.1;
   };
