@@ -9787,6 +9787,9 @@
   vsure = {
     "2.6.7" = import ./overrides/vsure/2.6.7;
   };
+  w3lib = {
+    "2.2.1" = import ./overrides/w3lib/2.2.1;
+  };
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
   };
