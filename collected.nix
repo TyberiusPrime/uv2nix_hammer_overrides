@@ -1104,6 +1104,9 @@
   cleandev-config-loader = {
     "0.3.5" = import ./overrides/cleandev-config-loader/0.3.5;
   };
+  cleo = {
+    "2.1.0" = import ./overrides/cleo/2.1.0;
+  };
   cleverdict = {
     "1.9.2" = import ./overrides/cleverdict/1.9.2;
   };
