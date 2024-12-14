@@ -2550,6 +2550,9 @@
   episcanpy = {
     "0.4.0" = import ./overrides/episcanpy/0.4.0;
   };
+  eppy = {
+    "0.5.63" = import ./overrides/eppy/0.5.63;
+  };
   epydoc = {
     "3.0.1" = import ./overrides/epydoc/3.0.1;
   };
@@ -6568,6 +6571,9 @@
   };
   pydoe2 = {
     "1.3.0" = import ./overrides/pydoe2/1.3.0;
+  };
+  pydot3k = {
+    "1.0.17" = import ./overrides/pydot3k/1.0.17;
   };
   pydotplus = {
     "2.0.2" = import ./overrides/pydotplus/2.0.2;
