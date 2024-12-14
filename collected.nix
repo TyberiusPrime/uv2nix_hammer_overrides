@@ -2388,6 +2388,9 @@
   drfdocs = {
     "0.0.11" = import ./overrides/drfdocs/0.0.11;
   };
+  dropmqttapi = {
+    "1.0.3" = import ./overrides/dropmqttapi/1.0.3;
+  };
   dsinternals = {
     "1.2.4" = import ./overrides/dsinternals/1.2.4;
   };
