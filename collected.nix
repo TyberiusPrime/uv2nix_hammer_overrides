@@ -8927,6 +8927,9 @@
   telethon = {
     "1.36.0" = import ./overrides/telethon/1.36.0;
   };
+  teletype = {
+    "1.3.4" = import ./overrides/teletype/1.3.4;
+  };
   tellduslive = {
     "0.10.12" = import ./overrides/tellduslive/0.10.12;
   };
