@@ -4898,6 +4898,9 @@
   modulemd = {
     "1.3.3" = import ./overrides/modulemd/1.3.3;
   };
+  mohawk = {
+    "1.1.0" = import ./overrides/mohawk/1.1.0;
+  };
   moksha-common = {
     "1.2.5" = import ./overrides/moksha-common/1.2.5;
   };
