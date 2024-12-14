@@ -1515,6 +1515,9 @@
   crossbar = {
     "22.6.1" = import ./overrides/crossbar/22.6.1;
   };
+  crownstone-core = {
+    "3.2.1" = import ./overrides/crownstone-core/3.2.1;
+  };
   cryio = {
     "2018.5.30" = import ./overrides/cryio/2018.5.30;
   };
