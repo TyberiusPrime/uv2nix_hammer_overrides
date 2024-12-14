@@ -2225,6 +2225,9 @@
   djangoapidec = {
     "1.8" = import ./overrides/djangoapidec/1.8;
   };
+  djangocms-snippet = {
+    "3.1.1" = import ./overrides/djangocms-snippet/3.1.1;
+  };
   djangocodemirror = {
     "2.1.0" = import ./overrides/djangocodemirror/2.1.0;
   };
