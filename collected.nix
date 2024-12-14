@@ -6870,6 +6870,9 @@
   pymetar = {
     "1.4" = import ./overrides/pymetar/1.4;
   };
+  pymeteoclimatic = {
+    "0.1.0" = import ./overrides/pymeteoclimatic/0.1.0;
+  };
   pymilter = {
     "1.0.5" = import ./overrides/pymilter/1.0.5;
   };
