@@ -132,6 +132,9 @@
   aiopubsub = {
     "2.1.5" = import ./overrides/aiopubsub/2.1.5;
   };
+  aiorun = {
+    "2024.8.1" = import ./overrides/aiorun/2024.8.1;
+  };
   aiosasl = {
     "0.5.0" = import ./overrides/aiosasl/0.5.0;
   };
