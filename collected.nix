@@ -3697,6 +3697,9 @@
   imio-dashboard = {
     "2.12" = import ./overrides/imio-dashboard/2.12;
   };
+  imio-helpers = {
+    "0.80" = import ./overrides/imio-helpers/0.80;
+  };
   imio-history = {
     "1.27" = import ./overrides/imio-history/1.27;
   };
