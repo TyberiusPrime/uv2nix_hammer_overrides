@@ -4820,6 +4820,9 @@
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
+  minos-microservice-common = {
+    "0.7.0" = import ./overrides/minos-microservice-common/0.7.0;
+  };
   mir-eval = {
     "0.7" = import ./overrides/mir-eval/0.7;
   };
