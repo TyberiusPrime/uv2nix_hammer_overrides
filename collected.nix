@@ -4341,6 +4341,9 @@
   libpurecool = {
     "0.6.4" = import ./overrides/libpurecool/0.6.4;
   };
+  libpyfoscam = {
+    "1.2.2" = import ./overrides/libpyfoscam/1.2.2;
+  };
   librato-metrics = {
     "3.1.0" = import ./overrides/librato-metrics/3.1.0;
   };
