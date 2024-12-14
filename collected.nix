@@ -3859,6 +3859,9 @@
   iso-639 = {
     "0.4.5" = import ./overrides/iso-639/0.4.5;
   };
+  iso4217 = {
+    "1.12.20240625" = import ./overrides/iso4217/1.12.20240625;
+  };
   iso639 = {
     "0.1.4" = import ./overrides/iso639/0.1.4;
   };
