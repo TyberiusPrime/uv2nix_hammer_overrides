@@ -8598,6 +8598,9 @@
   spectra = {
     "0.0.11" = import ./overrides/spectra/0.0.11;
   };
+  spectres = {
+    "2.2.2" = import ./overrides/spectres/2.2.2;
+  };
   speg = {
     "0.3" = import ./overrides/speg/0.3;
   };
