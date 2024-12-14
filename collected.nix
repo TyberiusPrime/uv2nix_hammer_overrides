@@ -7113,6 +7113,9 @@
   pysendfile = {
     "2.0.1" = import ./overrides/pysendfile/2.0.1;
   };
+  pyserial-asyncio = {
+    "0.6" = import ./overrides/pyserial-asyncio/0.6;
+  };
   pysftp = {
     "0.2.9" = import ./overrides/pysftp/0.2.9;
   };
