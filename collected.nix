@@ -7824,6 +7824,9 @@
     "1.20" = import ./overrides/red-black-tree-mod/1.20;
     "1.22" = import ./overrides/red-black-tree-mod/1.22;
   };
+  redfish = {
+    "3.2.4" = import ./overrides/redfish/3.2.4;
+  };
   redis2 = {
     "2.10.6.3" = import ./overrides/redis2/2.10.6.3;
   };
