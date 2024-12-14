@@ -7006,6 +7006,9 @@
   pyprof2calltree = {
     "1.4.5" = import ./overrides/pyprof2calltree/1.4.5;
   };
+  pyproject-flake8 = {
+    "7.0.0" = import ./overrides/pyproject-flake8/7.0.0;
+  };
   pyprosegur = {
     "0.0.12" = import ./overrides/pyprosegur/0.0.12;
   };
