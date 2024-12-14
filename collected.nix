@@ -9103,6 +9103,9 @@
   tinycss = {
     "0.4" = import ./overrides/tinycss/0.4;
   };
+  tinydb-serialization = {
+    "2.1.1" = import ./overrides/tinydb-serialization/2.1.1;
+  };
   tinyec = {
     "0.4.0" = import ./overrides/tinyec/0.4.0;
   };
