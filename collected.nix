@@ -2126,6 +2126,9 @@
   django-reversion = {
     "1.10.2" = import ./overrides/django-reversion/1.10.2;
   };
+  django-rq-scheduler = {
+    "2023.9.0" = import ./overrides/django-rq-scheduler/2023.9.0;
+  };
   django-rtk = {
     "0.6.0" = import ./overrides/django-rtk/0.6.0;
   };
