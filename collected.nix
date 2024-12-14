@@ -10064,6 +10064,9 @@
   yanc = {
     "0.3.3" = import ./overrides/yanc/0.3.3;
   };
+  yapf = {
+    "0.40.2" = import ./overrides/yapf/0.40.2;
+  };
   yapsy = {
     "1.12.2" = import ./overrides/yapsy/1.12.2;
   };
