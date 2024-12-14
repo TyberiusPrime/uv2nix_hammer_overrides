@@ -7188,6 +7188,9 @@
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
   };
+  pyswisseph = {
+    "2.10.3.2" = import ./overrides/pyswisseph/2.10.3.2;
+  };
   pysyncobj = {
     "0.3.12" = import ./overrides/pysyncobj/0.3.12;
   };
