@@ -8894,6 +8894,9 @@
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
+  tapioca-wrapper = {
+    "2.3.0" = import ./overrides/tapioca-wrapper/2.3.0;
+  };
   tarjan = {
     "0.2.4" = import ./overrides/tarjan/0.2.4;
   };
