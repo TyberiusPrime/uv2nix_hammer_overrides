@@ -71,6 +71,9 @@
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
+  aes-everywhere = {
+    "1.2.10" = import ./overrides/aes-everywhere/1.2.10;
+  };
   aescipher = {
     "6.0.0" = import ./overrides/aescipher/6.0.0;
   };
