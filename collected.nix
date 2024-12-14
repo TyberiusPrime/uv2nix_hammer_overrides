@@ -3622,6 +3622,9 @@
   ibapi = {
     "9.81.1.post1" = import ./overrides/ibapi/9.81.1.post1;
   };
+  ibllib = {
+    "2.38.0" = import ./overrides/ibllib/2.38.0;
+  };
   ibm-cos-sdk = {
     "2.13.6" = import ./overrides/ibm-cos-sdk/2.13.6;
   };
