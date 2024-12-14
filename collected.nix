@@ -7282,6 +7282,9 @@
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
   };
+  python-consul2 = {
+    "0.1.5" = import ./overrides/python-consul2/0.1.5;
+  };
   python-ctags3 = {
     "1.6.0" = import ./overrides/python-ctags3/1.6.0;
   };
