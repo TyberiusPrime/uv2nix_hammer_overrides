@@ -3604,6 +3604,9 @@
   hyperdash = {
     "0.15.3" = import ./overrides/hyperdash/0.15.3;
   };
+  hyperlink = {
+    "21.0.0" = import ./overrides/hyperlink/21.0.0;
+  };
   hyperloglog = {
     "0.0.14" = import ./overrides/hyperloglog/0.0.14;
   };
