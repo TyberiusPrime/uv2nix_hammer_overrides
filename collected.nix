@@ -8072,6 +8072,9 @@
   rtoml = {
     "0.8.0" = import ./overrides/rtoml/0.8.0;
   };
+  rtsp-to-webrtc = {
+    "0.6.1" = import ./overrides/rtsp-to-webrtc/0.6.1;
+  };
   rubymarshal = {
     "1.2.7" = import ./overrides/rubymarshal/1.2.7;
   };
