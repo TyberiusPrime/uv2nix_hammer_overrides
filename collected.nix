@@ -6195,6 +6195,9 @@
   propyte = {
     "2018.3.14.1447" = import ./overrides/propyte/2018.3.14.1447;
   };
+  prospector = {
+    "1.10.3" = import ./overrides/prospector/1.10.3;
+  };
   proto-google-cloud-datastore-v1 = {
     "0.90.4" = import ./overrides/proto-google-cloud-datastore-v1/0.90.4;
   };
