@@ -8342,6 +8342,9 @@
   shinkenplugins = {
     "0.4.2" = import ./overrides/shinkenplugins/0.4.2;
   };
+  shlib = {
+    "1.6" = import ./overrides/shlib/1.6;
+  };
   shodan = {
     "1.31.0" = import ./overrides/shodan/1.31.0;
   };
