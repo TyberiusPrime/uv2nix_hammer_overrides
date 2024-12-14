@@ -3667,6 +3667,9 @@
   ijson = {
     "2.6.1" = import ./overrides/ijson/2.6.1;
   };
+  ikpy = {
+    "3.4.2" = import ./overrides/ikpy/3.4.2;
+  };
   ilock = {
     "1.0.3" = import ./overrides/ilock/1.0.3;
   };
