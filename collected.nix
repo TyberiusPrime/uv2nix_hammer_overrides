@@ -3441,6 +3441,9 @@
   helputils = {
     "1.4.38" = import ./overrides/helputils/1.4.38;
   };
+  heroicons = {
+    "2.8.0" = import ./overrides/heroicons/2.8.0;
+  };
   hetzner = {
     "0.8.3" = import ./overrides/hetzner/0.8.3;
   };
