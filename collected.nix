@@ -3928,6 +3928,9 @@
   jinja-macro-tags = {
     "0.2" = import ./overrides/jinja-macro-tags/0.2;
   };
+  jinja2-ansible-filters = {
+    "1.3.2" = import ./overrides/jinja2-ansible-filters/1.3.2;
+  };
   jinja2-highlight = {
     "0.6.1" = import ./overrides/jinja2-highlight/0.6.1;
   };
