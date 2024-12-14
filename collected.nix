@@ -3146,6 +3146,9 @@
   getkey = {
     "0.6.5" = import ./overrides/getkey/0.6.5;
   };
+  gevent-websocket = {
+    "0.10.1" = import ./overrides/gevent-websocket/0.10.1;
+  };
   gexml = {
     "1.2.0" = import ./overrides/gexml/1.2.0;
   };
