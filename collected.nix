@@ -126,6 +126,9 @@
   aiomqtt = {
     "0.1.3" = import ./overrides/aiomqtt/0.1.3;
   };
+  aiooncue = {
+    "0.3.7" = import ./overrides/aiooncue/0.3.7;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
