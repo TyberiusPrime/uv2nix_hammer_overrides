@@ -1116,6 +1116,9 @@
   click-didyoumean = {
     "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
   };
+  clickgen = {
+    "2.2.5" = import ./overrides/clickgen/2.2.5;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
