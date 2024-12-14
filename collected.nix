@@ -5295,6 +5295,9 @@
   noise = {
     "1.2.2" = import ./overrides/noise/1.2.2;
   };
+  nomadnet = {
+    "0.5.1" = import ./overrides/nomadnet/0.5.1;
+  };
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
