@@ -3949,6 +3949,9 @@
   jose = {
     "1.0.0" = import ./overrides/jose/1.0.0;
   };
+  joserfc = {
+    "1.0.0" = import ./overrides/joserfc/1.0.0;
+  };
   journalwatch = {
     "1.1.0" = import ./overrides/journalwatch/1.1.0;
   };
