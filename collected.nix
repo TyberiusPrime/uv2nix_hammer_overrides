@@ -2706,6 +2706,9 @@
   fbpca = {
     "1.0" = import ./overrides/fbpca/1.0;
   };
+  fbs = {
+    "1.2.3" = import ./overrides/fbs/1.2.3;
+  };
   fcm-django = {
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
@@ -6742,6 +6745,9 @@
   };
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
+  };
+  pyinstaller = {
+    "3.4" = import ./overrides/pyinstaller/3.4;
   };
   pyinsteon = {
     "1.6.3" = import ./overrides/pyinsteon/1.6.3;
