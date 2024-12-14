@@ -7694,6 +7694,9 @@
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
   };
+  qgrid = {
+    "1.3.1" = import ./overrides/qgrid/1.3.1;
+  };
   qingcloud-sdk = {
     "1.2.15" = import ./overrides/qingcloud-sdk/1.2.15;
   };
