@@ -7805,6 +7805,9 @@
   reana-commons = {
     "0.9.8" = import ./overrides/reana-commons/0.9.8;
   };
+  rebound = {
+    "4.4.3" = import ./overrides/rebound/4.4.3;
+  };
   recaptcha-client = {
     "1.0.6" = import ./overrides/recaptcha-client/1.0.6;
   };
