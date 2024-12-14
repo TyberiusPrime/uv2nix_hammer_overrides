@@ -4544,6 +4544,9 @@
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
+  luddite = {
+    "1.0.4" = import ./overrides/luddite/1.0.4;
+  };
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
