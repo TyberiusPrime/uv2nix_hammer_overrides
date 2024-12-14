@@ -7442,6 +7442,9 @@
   python-packer = {
     "0.1.2" = import ./overrides/python-packer/0.1.2;
   };
+  python-pae = {
+    "0.1.0" = import ./overrides/python-pae/0.1.0;
+  };
   python-pipedrive = {
     "0.4.0" = import ./overrides/python-pipedrive/0.4.0;
   };
