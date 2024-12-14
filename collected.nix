@@ -1193,6 +1193,9 @@
   cmapy = {
     "0.6.6" = import ./overrides/cmapy/0.6.6;
   };
+  cmdkit = {
+    "2.7.5" = import ./overrides/cmdkit/2.7.5;
+  };
   cmdline = {
     "0.2.0" = import ./overrides/cmdline/0.2.0;
   };
