@@ -265,6 +265,9 @@
   antropy = {
     "0.1.6" = import ./overrides/antropy/0.1.6;
   };
+  anvil-uplink = {
+    "0.5.1" = import ./overrides/anvil-uplink/0.5.1;
+  };
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
