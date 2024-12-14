@@ -6099,6 +6099,9 @@
   pretty-bad-protocol = {
     "3.1.1" = import ./overrides/pretty-bad-protocol/3.1.1;
   };
+  pretty-html-table = {
+    "0.9.16" = import ./overrides/pretty-html-table/0.9.16;
+  };
   pretty-midi = {
     "0.2.10" = import ./overrides/pretty-midi/0.2.10;
   };
