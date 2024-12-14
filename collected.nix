@@ -8254,6 +8254,9 @@
   scripttest = {
     "1.3" = import ./overrides/scripttest/1.3;
   };
+  scrubadub = {
+    "2.0.1" = import ./overrides/scrubadub/2.0.1;
+  };
   scrypt = {
     "0.8.13" = import ./overrides/scrypt/0.8.13;
   };
