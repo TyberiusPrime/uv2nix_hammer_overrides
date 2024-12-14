@@ -1116,6 +1116,9 @@
   click-didyoumean = {
     "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
   };
+  click-help-colors = {
+    "0.9.4" = import ./overrides/click-help-colors/0.9.4;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
