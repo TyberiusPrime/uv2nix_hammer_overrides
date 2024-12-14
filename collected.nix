@@ -3152,6 +3152,9 @@
   gfal2-python = {
     "1.12.2" = import ./overrides/gfal2-python/1.12.2;
   };
+  ggplot = {
+    "0.11.5" = import ./overrides/ggplot/0.11.5;
+  };
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
