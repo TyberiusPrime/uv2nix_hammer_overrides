@@ -1,0 +1,1 @@
+BuildSystems = [ "pip", "setuptools", "setuptools-scm", "wheel",]
