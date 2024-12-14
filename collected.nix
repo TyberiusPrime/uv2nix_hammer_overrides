@@ -464,6 +464,9 @@
   atomman = {
     "1.4.11" = import ./overrides/atomman/1.4.11;
   };
+  attrify = {
+    "3.0" = import ./overrides/attrify/3.0;
+  };
   auroranoaa = {
     "0.0.3" = import ./overrides/auroranoaa/0.0.3;
   };
@@ -9271,6 +9274,9 @@
   };
   tpdcc-libs-resources = {
     "0.0.2" = import ./overrides/tpdcc-libs-resources/0.0.2;
+  };
+  tracemoepy = {
+    "4.1" = import ./overrides/tracemoepy/4.1;
   };
   tracing = {
     "0.1.3" = import ./overrides/tracing/0.1.3;
