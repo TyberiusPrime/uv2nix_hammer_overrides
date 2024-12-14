@@ -1843,6 +1843,9 @@
   distorm3 = {
     "3.5.2" = import ./overrides/distorm3/3.5.2;
   };
+  distrax = {
+    "0.1.5" = import ./overrides/distrax/0.1.5;
+  };
   distributedlock = {
     "1.2" = import ./overrides/distributedlock/1.2;
   };
