@@ -5587,6 +5587,9 @@
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
   };
+  orbax-checkpoint = {
+    "0.6.1" = import ./overrides/orbax-checkpoint/0.6.1;
+  };
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
   };
