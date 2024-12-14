@@ -3811,6 +3811,9 @@
   invenio-rdm-records = {
     "12.1.0" = import ./overrides/invenio-rdm-records/12.1.0;
   };
+  ioc-finder = {
+    "7.3.0" = import ./overrides/ioc-finder/7.3.0;
+  };
   iocapture = {
     "0.1.2" = import ./overrides/iocapture/0.1.2;
   };
