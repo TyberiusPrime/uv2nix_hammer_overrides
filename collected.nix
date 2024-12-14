@@ -512,6 +512,9 @@
   avro = {
     "1.11.3" = import ./overrides/avro/1.11.3;
   };
+  avro-gen3 = {
+    "0.7.16" = import ./overrides/avro-gen3/0.7.16;
+  };
   avro-python3 = {
     "1.10.2" = import ./overrides/avro-python3/1.10.2;
   };
