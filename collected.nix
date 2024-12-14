@@ -6581,6 +6581,9 @@
   pyeapi = {
     "1.0.4" = import ./overrides/pyeapi/1.0.4;
   };
+  pyebus = {
+    "1.4.0" = import ./overrides/pyebus/1.4.0;
+  };
   pyechonest = {
     "9.0.0" = import ./overrides/pyechonest/9.0.0;
   };
