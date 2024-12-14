@@ -9892,6 +9892,9 @@
   wikipedia-api = {
     "0.7.1" = import ./overrides/wikipedia-api/0.7.1;
   };
+  wikipedia2vec = {
+    "2.0.0" = import ./overrides/wikipedia2vec/2.0.0;
+  };
   windpowerlib = {
     "0.0.4" = import ./overrides/windpowerlib/0.0.4;
   };
