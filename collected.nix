@@ -9808,6 +9808,9 @@
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
   };
+  wavefile = {
+    "1.6.2" = import ./overrides/wavefile/1.6.2;
+  };
   wayround-org-http = {
     "0.7" = import ./overrides/wayround-org-http/0.7;
   };
