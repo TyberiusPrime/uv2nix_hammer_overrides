@@ -2523,6 +2523,9 @@
   empyrical = {
     "0.5.5" = import ./overrides/empyrical/0.5.5;
   };
+  emulated-roku = {
+    "0.3.0" = import ./overrides/emulated-roku/0.3.0;
+  };
   encodec = {
     "0.1.1" = import ./overrides/encodec/0.1.1;
   };
