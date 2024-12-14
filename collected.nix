@@ -2586,6 +2586,9 @@
   ethereum-input-decoder = {
     "0.2.2" = import ./overrides/ethereum-input-decoder/0.2.2;
   };
+  etils = {
+    "1.9.4" = import ./overrides/etils/1.9.4;
+  };
   etl-utils = {
     "0.1.11" = import ./overrides/etl-utils/0.1.11;
   };
