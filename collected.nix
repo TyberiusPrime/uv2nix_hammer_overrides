@@ -1349,6 +1349,9 @@
   conan = {
     "2.7.0" = import ./overrides/conan/2.7.0;
   };
+  concurrent-log-handler = {
+    "0.9.25" = import ./overrides/concurrent-log-handler/0.9.25;
+  };
   configobj = {
     "5.0.9" = import ./overrides/configobj/5.0.9;
   };
