@@ -9050,6 +9050,9 @@
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
+  threadpoolctl = {
+    "3.5.0" = import ./overrides/threadpoolctl/3.5.0;
+  };
   thrift = {
     "0.16.0" = import ./overrides/thrift/0.16.0;
     "0.20.0" = import ./overrides/thrift/0.20.0;
