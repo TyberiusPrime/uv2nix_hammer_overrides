@@ -7291,6 +7291,9 @@
   python-ddp = {
     "0.1.5" = import ./overrides/python-ddp/0.1.5;
   };
+  python-debian = {
+    "0.1.49" = import ./overrides/python-debian/0.1.49;
+  };
   python-deprecated = {
     "1.1.0" = import ./overrides/python-deprecated/1.1.0;
   };
