@@ -1837,6 +1837,9 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  disnake = {
+    "2.9.2" = import ./overrides/disnake/2.9.2;
+  };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
   };
