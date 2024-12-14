@@ -7904,6 +7904,9 @@
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
+  requirements-detector = {
+    "1.2.2" = import ./overrides/requirements-detector/1.2.2;
+  };
   reserved = {
     "0.1.1" = import ./overrides/reserved/0.1.1;
   };
