@@ -6321,6 +6321,9 @@
   py-postgresql = {
     "1.2.1" = import ./overrides/py-postgresql/1.2.1;
   };
+  py-solc-x = {
+    "2.0.3" = import ./overrides/py-solc-x/2.0.3;
+  };
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
   };
