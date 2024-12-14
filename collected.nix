@@ -8855,6 +8855,9 @@
   sw-python-utils = {
     "0.0.18" = import ./overrides/sw-python-utils/0.0.18;
   };
+  swagger-spec-validator = {
+    "3.0.4" = import ./overrides/swagger-spec-validator/3.0.4;
+  };
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
   };
