@@ -4353,6 +4353,9 @@
   libsaas = {
     "0.4" = import ./overrides/libsaas/0.4;
   };
+  libscrc = {
+    "1.8.1" = import ./overrides/libscrc/1.8.1;
+  };
   libsixel-python = {
     "0.5.0" = import ./overrides/libsixel-python/0.5.0;
   };
