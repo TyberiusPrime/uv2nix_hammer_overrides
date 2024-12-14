@@ -2619,6 +2619,9 @@
   ewoksutils = {
     "0.1.2" = import ./overrides/ewoksutils/0.1.2;
   };
+  exceptiongroup = {
+    "1.2.2" = import ./overrides/exceptiongroup/1.2.2;
+  };
   exdown = {
     "0.9.0" = import ./overrides/exdown/0.9.0;
   };
