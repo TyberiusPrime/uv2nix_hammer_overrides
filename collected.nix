@@ -2947,6 +2947,9 @@
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
   };
+  forex-python = {
+    "1.8" = import ./overrides/forex-python/1.8;
+  };
   formatizer = {
     "0.1.1" = import ./overrides/formatizer/0.1.1;
   };
