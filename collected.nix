@@ -228,6 +228,9 @@
   anndata = {
     "0.10.9" = import ./overrides/anndata/0.10.9;
   };
+  annotell-auth = {
+    "2.0.1" = import ./overrides/annotell-auth/2.0.1;
+  };
   annoy = {
     "1.17.3" = import ./overrides/annoy/1.17.3;
   };
