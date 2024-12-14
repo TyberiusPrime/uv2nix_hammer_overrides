@@ -2003,6 +2003,9 @@
   django-impersonate = {
     "1.9.4" = import ./overrides/django-impersonate/1.9.4;
   };
+  django-import-export = {
+    "4.1.1" = import ./overrides/django-import-export/4.1.1;
+  };
   django-jinja2 = {
     "0.1" = import ./overrides/django-jinja2/0.1;
   };
