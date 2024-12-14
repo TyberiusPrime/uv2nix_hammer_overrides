@@ -6891,6 +6891,9 @@
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
   };
+  pymultirole-plugins = {
+    "0.5.260" = import ./overrides/pymultirole-plugins/0.5.260;
+  };
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
