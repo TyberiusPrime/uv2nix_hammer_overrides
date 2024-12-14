@@ -1686,6 +1686,9 @@
   datadbs = {
     "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
+  datafiles = {
+    "2.2.3" = import ./overrides/datafiles/2.2.3;
+  };
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
