@@ -1322,6 +1322,9 @@
   commandlib = {
     "0.3.5" = import ./overrides/commandlib/0.3.5;
   };
+  commandlines = {
+    "0.4.1" = import ./overrides/commandlines/0.4.1;
+  };
   commandparse = {
     "1.1.2" = import ./overrides/commandparse/1.1.2;
   };
