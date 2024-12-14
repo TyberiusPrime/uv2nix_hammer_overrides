@@ -6988,6 +6988,9 @@
   pypillowfight = {
     "0.3.0" = import ./overrides/pypillowfight/0.3.0;
   };
+  pyplaato = {
+    "0.0.18" = import ./overrides/pyplaato/0.0.18;
+  };
   pypng = {
     "0.0.19" = import ./overrides/pypng/0.0.19;
   };
