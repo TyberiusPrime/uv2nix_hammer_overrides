@@ -7772,6 +7772,9 @@
   randomwords = {
     "0.4.0" = import ./overrides/randomwords/0.4.0;
   };
+  rapidfuzz-capi = {
+    "1.0.5" = import ./overrides/rapidfuzz-capi/1.0.5;
+  };
   rapidtables = {
     "0.1.11" = import ./overrides/rapidtables/0.1.11;
   };
