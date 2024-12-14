@@ -7700,6 +7700,9 @@
   qiskit-aqua = {
     "0.9.5" = import ./overrides/qiskit-aqua/0.9.5;
   };
+  qiskit-ibm-provider = {
+    "0.11.0" = import ./overrides/qiskit-ibm-provider/0.11.0;
+  };
   qiskit-nature = {
     "0.7.2" = import ./overrides/qiskit-nature/0.7.2;
   };
