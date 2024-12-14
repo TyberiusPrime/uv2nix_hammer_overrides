@@ -1,10 +1,3 @@
-{ final, helpers, ... }:
-old:
-if (helpers.isWheel old) then
-  {
-    postInstall = ''
-      rm $out/${final.python.sitePackages}/olefile/olefile2.py
-    '';
-  }
-else
-  { }
+{final, helpers, resolveBuildSystem, ...}
+        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});}
+        
