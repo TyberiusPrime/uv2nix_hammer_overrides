@@ -7790,6 +7790,9 @@
   rcsb-utils-io = {
     "1.49" = import ./overrides/rcsb-utils-io/1.49;
   };
+  rdflib = {
+    "7.0.0" = import ./overrides/rdflib/7.0.0;
+  };
   rdp = {
     "0.8" = import ./overrides/rdp/0.8;
   };
