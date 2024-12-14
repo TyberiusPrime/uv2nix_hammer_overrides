@@ -8843,6 +8843,9 @@
   surt = {
     "0.3.1" = import ./overrides/surt/0.3.1;
   };
+  svgelements = {
+    "1.9.6" = import ./overrides/svgelements/1.9.6;
+  };
   svglib = {
     "1.5.1" = import ./overrides/svglib/1.5.1;
   };
