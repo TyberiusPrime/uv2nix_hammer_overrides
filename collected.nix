@@ -9883,6 +9883,9 @@
   whisper = {
     "1.1.10" = import ./overrides/whisper/1.1.10;
   };
+  whitebox = {
+    "2.3.5" = import ./overrides/whitebox/2.3.5;
+  };
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
   };
