@@ -6539,6 +6539,9 @@
   pydaqmx = {
     "1.4.6" = import ./overrides/pydaqmx/1.4.6;
   };
+  pydata-google-auth = {
+    "1.8.2" = import ./overrides/pydata-google-auth/1.8.2;
+  };
   pydataset = {
     "0.2.0" = import ./overrides/pydataset/0.2.0;
   };
