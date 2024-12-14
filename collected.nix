@@ -2466,6 +2466,9 @@
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
+  edgedb = {
+    "2.0.1" = import ./overrides/edgedb/2.0.1;
+  };
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
