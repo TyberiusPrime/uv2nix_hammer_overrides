@@ -8891,6 +8891,9 @@
   tambo = {
     "0.4.0" = import ./overrides/tambo/0.4.0;
   };
+  tangled-up-in-unicode = {
+    "0.2.0" = import ./overrides/tangled-up-in-unicode/0.2.0;
+  };
   tap-framework = {
     "0.1.1" = import ./overrides/tap-framework/0.1.1;
   };
