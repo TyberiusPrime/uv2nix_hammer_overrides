@@ -3298,6 +3298,9 @@
   gql = {
     "3.0.0a6" = import ./overrides/gql/3.0.0a6;
   };
+  gqt = {
+    "0.125.5" = import ./overrides/gqt/0.125.5;
+  };
   gradient-statsd = {
     "1.0.1" = import ./overrides/gradient-statsd/1.0.1;
   };
