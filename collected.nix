@@ -770,6 +770,9 @@
   bleach-whitelist = {
     "0.0.11" = import ./overrides/bleach-whitelist/0.0.11;
   };
+  bleak-retry-connector = {
+    "3.5.0" = import ./overrides/bleak-retry-connector/3.5.0;
+  };
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
   };
