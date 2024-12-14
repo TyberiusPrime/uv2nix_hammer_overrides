@@ -680,6 +680,9 @@
   bencoder = {
     "0.2.0" = import ./overrides/bencoder/0.2.0;
   };
+  bentoml = {
+    "1.3.5" = import ./overrides/bentoml/1.3.5;
+  };
   bernhard = {
     "0.2.6" = import ./overrides/bernhard/0.2.6;
   };
