@@ -527,6 +527,9 @@
   aws-psycopg2 = {
     "1.3.8" = import ./overrides/aws-psycopg2/1.3.8;
   };
+  aws-sam-translator = {
+    "1.91.0" = import ./overrides/aws-sam-translator/1.91.0;
+  };
   awscli-cwlogs = {
     "1.4.6" = import ./overrides/awscli-cwlogs/1.4.6;
   };
