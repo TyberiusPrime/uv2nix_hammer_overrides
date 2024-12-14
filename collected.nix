@@ -3125,6 +3125,9 @@
   geobrickscommon = {
     "0.0.9" = import ./overrides/geobrickscommon/0.0.9;
   };
+  geocachingapi = {
+    "0.2.3" = import ./overrides/geocachingapi/0.2.3;
+  };
   geohash = {
     "1.0" = import ./overrides/geohash/1.0;
   };
