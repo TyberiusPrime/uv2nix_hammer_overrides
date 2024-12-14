@@ -9916,6 +9916,9 @@
   wmd = {
     "1.3.2" = import ./overrides/wmd/1.3.2;
   };
+  wolframalpha = {
+    "5.1.3" = import ./overrides/wolframalpha/5.1.3;
+  };
   wolframclient = {
     "1.4.0" = import ./overrides/wolframclient/1.4.0;
   };
