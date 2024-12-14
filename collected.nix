@@ -2291,6 +2291,9 @@
   dlx = {
     "1.0.4" = import ./overrides/dlx/1.0.4;
   };
+  dm-haiku = {
+    "0.0.12" = import ./overrides/dm-haiku/0.0.12;
+  };
   dm-reuse = {
     "2.2" = import ./overrides/dm-reuse/2.2;
   };
