@@ -1098,6 +1098,9 @@
   cl1 = {
     "1.13.3" = import ./overrides/cl1/1.13.3;
   };
+  class-resolver = {
+    "0.5.0" = import ./overrides/class-resolver/0.5.0;
+  };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
   };
