@@ -2421,6 +2421,9 @@
   durc = {
     "3.1.0" = import ./overrides/durc/3.1.0;
   };
+  dwave-samplers = {
+    "1.3.0" = import ./overrides/dwave-samplers/1.3.0;
+  };
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
   };
