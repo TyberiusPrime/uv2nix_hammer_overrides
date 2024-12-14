@@ -6487,6 +6487,9 @@
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
+  pycoolmasternet-async = {
+    "0.2.2" = import ./overrides/pycoolmasternet-async/0.2.2;
+  };
   pycopy-cpython-micropython = {
     "1.0" = import ./overrides/pycopy-cpython-micropython/1.0;
   };
