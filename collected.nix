@@ -8272,6 +8272,9 @@
   self = {
     "2020.12.3" = import ./overrides/self/2020.12.3;
   };
+  selfies = {
+    "2.1.2" = import ./overrides/selfies/2.1.2;
+  };
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
