@@ -65,6 +65,9 @@
   adict = {
     "0.1.7" = import ./overrides/adict/0.1.7;
   };
+  adlfs = {
+    "2024.7.0" = import ./overrides/adlfs/2024.7.0;
+  };
   advancedhtmlparser = {
     "9.0.2" = import ./overrides/advancedhtmlparser/9.0.2;
   };
