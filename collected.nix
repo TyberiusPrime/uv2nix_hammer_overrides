@@ -4269,6 +4269,9 @@
   lazy-import = {
     "0.2.2" = import ./overrides/lazy-import/0.2.2;
   };
+  lazy-imports = {
+    "0.3.1" = import ./overrides/lazy-imports/0.3.1;
+  };
   lazy-string = {
     "1.0.0" = import ./overrides/lazy-string/1.0.0;
   };
