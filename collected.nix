@@ -3856,6 +3856,9 @@
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
+  ismartgate = {
+    "5.0.1" = import ./overrides/ismartgate/5.0.1;
+  };
   iso-639 = {
     "0.4.5" = import ./overrides/iso-639/0.4.5;
   };
