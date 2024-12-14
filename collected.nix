@@ -8420,6 +8420,9 @@
   simpledbf = {
     "0.2.6" = import ./overrides/simpledbf/0.2.6;
   };
+  simplefix = {
+    "1.0.17" = import ./overrides/simplefix/1.0.17;
+  };
   simplegeneric = {
     "0.8.1" = import ./overrides/simplegeneric/0.8.1;
   };
