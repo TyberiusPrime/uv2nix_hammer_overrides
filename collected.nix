@@ -3673,6 +3673,9 @@
   image = {
     "1.5.33" = import ./overrides/image/1.5.33;
   };
+  image-go-nord = {
+    "1.1.0" = import ./overrides/image-go-nord/1.1.0;
+  };
   imagehash = {
     "3.4" = import ./overrides/imagehash/3.4;
   };
