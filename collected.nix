@@ -9139,6 +9139,9 @@
   tkitfile = {
     "0.0.1.2" = import ./overrides/tkitfile/0.0.1.2;
   };
+  tksheet = {
+    "7.2.15" = import ./overrides/tksheet/7.2.15;
+  };
   tls-client = {
     "1.0.1" = import ./overrides/tls-client/1.0.1;
   };
