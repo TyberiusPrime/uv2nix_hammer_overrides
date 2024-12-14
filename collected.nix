@@ -2607,6 +2607,9 @@
   events = {
     "0.3" = import ./overrides/events/0.3;
   };
+  eventsourcing = {
+    "9.3.2" = import ./overrides/eventsourcing/9.3.2;
+  };
   ewmh = {
     "0.1.6" = import ./overrides/ewmh/0.1.6;
   };
