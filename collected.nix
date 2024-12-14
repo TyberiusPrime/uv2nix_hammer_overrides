@@ -7848,6 +7848,9 @@
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
   };
+  regenmaschine = {
+    "2024.3.0" = import ./overrides/regenmaschine/2024.3.0;
+  };
   regex = {
     "2020.11.13" = import ./overrides/regex/2020.11.13;
     "2020.2.20" = import ./overrides/regex/2020.2.20;
