@@ -7457,6 +7457,9 @@
   python-rtmidi = {
     "1.5.8" = import ./overrides/python-rtmidi/1.5.8;
   };
+  python-schema-registry-client = {
+    "2.6.0" = import ./overrides/python-schema-registry-client/2.6.0;
+  };
   python-simple-hipchat = {
     "0.4.0" = import ./overrides/python-simple-hipchat/0.4.0;
   };
