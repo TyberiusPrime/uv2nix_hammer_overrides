@@ -9272,6 +9272,9 @@
   tpdcc-libs-resources = {
     "0.0.2" = import ./overrides/tpdcc-libs-resources/0.0.2;
   };
+  tplink-omada-client = {
+    "1.4.2" = import ./overrides/tplink-omada-client/1.4.2;
+  };
   tracing = {
     "0.1.3" = import ./overrides/tracing/0.1.3;
   };
