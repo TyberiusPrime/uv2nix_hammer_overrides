@@ -1244,6 +1244,9 @@
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
+  collective-big-bang = {
+    "1.0.3" = import ./overrides/collective-big-bang/1.0.3;
+  };
   collective-compoundcriterion = {
     "0.7" = import ./overrides/collective-compoundcriterion/0.7;
   };
