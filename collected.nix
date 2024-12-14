@@ -1725,6 +1725,9 @@
   deap = {
     "1.4.1" = import ./overrides/deap/1.4.1;
   };
+  debian-parser = {
+    "0.1.2" = import ./overrides/debian-parser/0.1.2;
+  };
   debts = {
     "0.5" = import ./overrides/debts/0.5;
   };
