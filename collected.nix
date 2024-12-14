@@ -9097,6 +9097,9 @@
   timestring = {
     "1.6.4" = import ./overrides/timestring/1.6.4;
   };
+  tiny-proxy = {
+    "0.2.1" = import ./overrides/tiny-proxy/0.2.1;
+  };
   tinyaes = {
     "1.1.0" = import ./overrides/tinyaes/1.1.0;
   };
