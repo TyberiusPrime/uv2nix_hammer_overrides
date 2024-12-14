@@ -7760,6 +7760,9 @@
   radical-utils = {
     "1.81.0" = import ./overrides/radical-utils/1.81.0;
   };
+  radio-beam = {
+    "0.3.7" = import ./overrides/radio-beam/0.3.7;
+  };
   radiotherm = {
     "2.1.0" = import ./overrides/radiotherm/2.1.0;
   };
