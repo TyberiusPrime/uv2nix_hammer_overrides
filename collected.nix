@@ -7787,6 +7787,9 @@
   rauth = {
     "0.7.3" = import ./overrides/rauth/0.7.3;
   };
+  razorpay = {
+    "1.4.2" = import ./overrides/razorpay/1.4.2;
+  };
   rcsb-utils-io = {
     "1.49" = import ./overrides/rcsb-utils-io/1.49;
   };
