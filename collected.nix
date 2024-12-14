@@ -190,6 +190,9 @@
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
   };
+  allure-combine = {
+    "1.0.11" = import ./overrides/allure-combine/1.0.11;
+  };
   alphatwirl = {
     "0.23.0" = import ./overrides/alphatwirl/0.23.0;
   };
