@@ -7324,6 +7324,9 @@
   python-freeipa = {
     "1.0.8" = import ./overrides/python-freeipa/1.0.8;
   };
+  python-fx = {
+    "0.3.2" = import ./overrides/python-fx/0.3.2;
+  };
   python-gammu = {
     "3.2.4" = import ./overrides/python-gammu/3.2.4;
   };
