@@ -3483,6 +3483,9 @@
   home-assistant-chip-core = {
     "2024.7.1" = import ./overrides/home-assistant-chip-core/2024.7.1;
   };
+  homebase = {
+    "1.0.1" = import ./overrides/homebase/1.0.1;
+  };
   homura = {
     "0.1.5" = import ./overrides/homura/0.1.5;
   };
