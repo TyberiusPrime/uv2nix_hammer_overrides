@@ -8207,6 +8207,9 @@
   scikit-fmm = {
     "2024.5.29" = import ./overrides/scikit-fmm/2024.5.29;
   };
+  scikit-hep-testdata = {
+    "0.4.47" = import ./overrides/scikit-hep-testdata/0.4.47;
+  };
   scikit-learn = {
     "0.24.2" = import ./overrides/scikit-learn/0.24.2;
     "1.2.2" = import ./overrides/scikit-learn/1.2.2;
