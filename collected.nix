@@ -2670,6 +2670,9 @@
   fancyimpute = {
     "0.7.0" = import ./overrides/fancyimpute/0.7.0;
   };
+  faraday-plugins = {
+    "1.19.0" = import ./overrides/faraday-plugins/1.19.0;
+  };
   fasta-reader = {
     "3.0.3" = import ./overrides/fasta-reader/3.0.3;
   };
