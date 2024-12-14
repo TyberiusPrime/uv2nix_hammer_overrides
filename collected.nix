@@ -7418,6 +7418,9 @@
   python-nmap = {
     "0.7.1" = import ./overrides/python-nmap/0.7.1;
   };
+  python-novaclient = {
+    "18.7.0" = import ./overrides/python-novaclient/18.7.0;
+  };
   python-ntlm = {
     "1.1.0" = import ./overrides/python-ntlm/1.1.0;
   };
