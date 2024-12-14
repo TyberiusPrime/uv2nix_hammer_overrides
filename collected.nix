@@ -6674,6 +6674,9 @@
   pygame = {
     "2.1.3" = import ./overrides/pygame/2.1.3;
   };
+  pygbif = {
+    "0.6.4" = import ./overrides/pygbif/0.6.4;
+  };
   pygeneric = {
     "0.5.7" = import ./overrides/pygeneric/0.5.7;
   };
