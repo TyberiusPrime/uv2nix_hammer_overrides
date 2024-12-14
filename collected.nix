@@ -8589,6 +8589,9 @@
   sox = {
     "1.5.0" = import ./overrides/sox/1.5.0;
   };
+  spake2 = {
+    "0.8" = import ./overrides/spake2/0.8;
+  };
   spanners = {
     "1.20" = import ./overrides/spanners/1.20;
   };
