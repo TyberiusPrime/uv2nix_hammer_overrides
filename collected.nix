@@ -2454,6 +2454,9 @@
   ebooklib = {
     "0.18" = import ./overrides/ebooklib/0.18;
   };
+  eciespy = {
+    "0.4.2" = import ./overrides/eciespy/0.4.2;
+  };
   ecmwf-api-client = {
     "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
   };
