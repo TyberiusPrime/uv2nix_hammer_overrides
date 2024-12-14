@@ -1038,6 +1038,9 @@
   chirptext = {
     "0.1.2" = import ./overrides/chirptext/0.1.2;
   };
+  chocs = {
+    "1.6.1" = import ./overrides/chocs/1.6.1;
+  };
   chroma-hnswlib = {
     "0.7.3" = import ./overrides/chroma-hnswlib/0.7.3;
   };
