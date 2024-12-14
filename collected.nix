@@ -5751,6 +5751,9 @@
   pcapy-ng = {
     "1.0.9" = import ./overrides/pcapy-ng/1.0.9;
   };
+  pcommerce-core = {
+    "0.4" = import ./overrides/pcommerce-core/0.4;
+  };
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
@@ -6135,6 +6138,9 @@
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
   };
+  products-attachmenttypes = {
+    "1.6" = import ./overrides/products-attachmenttypes/1.6;
+  };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
   };
@@ -6158,6 +6164,9 @@
   };
   products-silvametadata = {
     "3.0.1" = import ./overrides/products-silvametadata/3.0.1;
+  };
+  products-singlekeywordwidget = {
+    "0.1" = import ./overrides/products-singlekeywordwidget/0.1;
   };
   products-templatefields = {
     "1.2.5" = import ./overrides/products-templatefields/1.2.5;
