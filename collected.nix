@@ -3356,6 +3356,9 @@
   gsutil = {
     "5.30" = import ./overrides/gsutil/5.30;
   };
+  gsw = {
+    "3.6.19" = import ./overrides/gsw/3.6.19;
+  };
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };

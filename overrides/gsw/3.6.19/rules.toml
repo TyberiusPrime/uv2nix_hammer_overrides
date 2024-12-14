@@ -1,0 +1,1 @@
+BuildSystems = [ "build", "numpy", "oldest-supported-numpy", "pip", "setuptools", "setuptools-scm", "wheel",]
