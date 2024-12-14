@@ -2036,6 +2036,9 @@
   django-m2m-history = {
     "0.3.6" = import ./overrides/django-m2m-history/0.3.6;
   };
+  django-markdown = {
+    "0.8.4" = import ./overrides/django-markdown/0.8.4;
+  };
   django-markdown-deux = {
     "1.0.6" = import ./overrides/django-markdown-deux/1.0.6;
   };
