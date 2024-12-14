@@ -972,6 +972,9 @@
   celery-redbeat = {
     "2.2.0" = import ./overrides/celery-redbeat/2.2.0;
   };
+  celery-singleton = {
+    "0.3.1" = import ./overrides/celery-singleton/0.3.1;
+  };
   cement = {
     "2.8.2" = import ./overrides/cement/2.8.2;
   };
