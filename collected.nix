@@ -9160,6 +9160,9 @@
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
+  toml-cli = {
+    "0.7.0" = import ./overrides/toml-cli/0.7.0;
+  };
   toml-py = {
     "0.1.7" = import ./overrides/toml-py/0.1.7;
   };
