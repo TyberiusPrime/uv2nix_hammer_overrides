@@ -10175,6 +10175,9 @@
   zope-app-interface = {
     "3.6.0" = import ./overrides/zope-app-interface/3.6.0;
   };
+  zope-app-twisted = {
+    "3.5.0" = import ./overrides/zope-app-twisted/3.5.0;
+  };
   zope-app-zapi = {
     "3.5.0" = import ./overrides/zope-app-zapi/3.5.0;
   };
