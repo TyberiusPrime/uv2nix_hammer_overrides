@@ -1719,6 +1719,9 @@
   dbutils = {
     "1.3" = import ./overrides/dbutils/1.3;
   };
+  dcicutils = {
+    "8.14.3" = import ./overrides/dcicutils/8.14.3;
+  };
   dd-aliyun-python-sdk-core = {
     "2.8.2" = import ./overrides/dd-aliyun-python-sdk-core/2.8.2;
   };
