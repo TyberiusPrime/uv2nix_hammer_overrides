@@ -3682,6 +3682,9 @@
   imantics = {
     "0.1.12" = import ./overrides/imantics/0.1.12;
   };
+  imaplib2 = {
+    "3.6" = import ./overrides/imaplib2/3.6;
+  };
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
