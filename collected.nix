@@ -2607,6 +2607,9 @@
   events = {
     "0.3" = import ./overrides/events/0.3;
   };
+  evohome-async = {
+    "0.4.20" = import ./overrides/evohome-async/0.4.20;
+  };
   ewmh = {
     "0.1.6" = import ./overrides/ewmh/0.1.6;
   };
