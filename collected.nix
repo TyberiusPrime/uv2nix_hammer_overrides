@@ -707,6 +707,9 @@
   binary2strings = {
     "0.1.13" = import ./overrides/binary2strings/0.1.13;
   };
+  binaryornot = {
+    "0.4.4" = import ./overrides/binaryornot/0.4.4;
+  };
   bintrees = {
     "2.2.0" = import ./overrides/bintrees/2.2.0;
   };
