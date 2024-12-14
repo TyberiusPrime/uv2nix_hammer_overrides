@@ -1113,6 +1113,9 @@
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
   };
+  click-datetime = {
+    "0.4.0" = import ./overrides/click-datetime/0.4.0;
+  };
   click-didyoumean = {
     "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
   };
