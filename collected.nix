@@ -5778,6 +5778,9 @@
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
+  pdunehd = {
+    "1.3.3" = import ./overrides/pdunehd/1.3.3;
+  };
   pecab = {
     "1.0.8" = import ./overrides/pecab/1.0.8;
   };
