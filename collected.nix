@@ -379,6 +379,9 @@
   arrayterator = {
     "1.0.1" = import ./overrides/arrayterator/1.0.1;
   };
+  artella-plugins-core = {
+    "1.0.28" = import ./overrides/artella-plugins-core/1.0.28;
+  };
   artellapipe-config = {
     "0.0.32" = import ./overrides/artellapipe-config/0.0.32;
   };
