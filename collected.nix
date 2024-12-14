@@ -7643,6 +7643,9 @@
   pywfa = {
     "0.5.1" = import ./overrides/pywfa/0.5.1;
   };
+  pywin32-ctypes = {
+    "0.2.3" = import ./overrides/pywin32-ctypes/0.2.3;
+  };
   pywinpty = {
     "2.0.13" = import ./overrides/pywinpty/2.0.13;
   };
