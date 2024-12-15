@@ -6387,6 +6387,9 @@
   pyastronomy = {
     "0.22.0" = import ./overrides/pyastronomy/0.22.0;
   };
+  pyatag = {
+    "0.3.7.1" = import ./overrides/pyatag/0.3.7.1;
+  };
   pyatem = {
     "0.10.0" = import ./overrides/pyatem/0.10.0;
   };
