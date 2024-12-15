@@ -3323,6 +3323,9 @@
   groestlcoin-hash = {
     "1.0.3" = import ./overrides/groestlcoin-hash/1.0.3;
   };
+  grok = {
+    "5.0" = import ./overrides/grok/5.0;
+  };
   grpc-google-logging-v2 = {
     "0.11.1" = import ./overrides/grpc-google-logging-v2/0.11.1;
   };
