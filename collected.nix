@@ -8003,6 +8003,9 @@
   roman = {
     "3.1" = import ./overrides/roman/3.1;
   };
+  ronin = {
+    "1.1.1" = import ./overrides/ronin/1.1.1;
+  };
   ropper = {
     "1.13.8" = import ./overrides/ropper/1.13.8;
   };
