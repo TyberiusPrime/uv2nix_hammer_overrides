@@ -5623,6 +5623,9 @@
   otree = {
     "5.11.0" = import ./overrides/otree/5.11.0;
   };
+  outcome = {
+    "1.3.0.post0" = import ./overrides/outcome/1.3.0.post0;
+  };
   overly = {
     "0.1.85" = import ./overrides/overly/0.1.85;
   };
