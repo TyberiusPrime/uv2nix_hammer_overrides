@@ -9877,6 +9877,9 @@
   whaaaaat = {
     "0.5.2" = import ./overrides/whaaaaat/0.5.2;
   };
+  whatthepatch = {
+    "1.0.6" = import ./overrides/whatthepatch/1.0.6;
+  };
   wheezy-template = {
     "3.2.2" = import ./overrides/wheezy-template/3.2.2;
   };
