@@ -542,6 +542,9 @@
   azure-cognitiveservices-speech = {
     "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
   };
+  azure-common = {
+    "1.1.28" = import ./overrides/azure-common/1.1.28;
+  };
   azureml-automl-core = {
     "1.57.0" = import ./overrides/azureml-automl-core/1.57.0;
   };
