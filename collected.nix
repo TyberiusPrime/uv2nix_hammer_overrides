@@ -7787,6 +7787,9 @@
   rauth = {
     "0.7.3" = import ./overrides/rauth/0.7.3;
   };
+  raylib = {
+    "5.0.0.3" = import ./overrides/raylib/5.0.0.3;
+  };
   rcsb-utils-io = {
     "1.49" = import ./overrides/rcsb-utils-io/1.49;
   };
