@@ -4018,6 +4018,9 @@
   jsonify = {
     "0.5" = import ./overrides/jsonify/0.5;
   };
+  jsonmerge = {
+    "1.9.2" = import ./overrides/jsonmerge/1.9.2;
+  };
   jsonnet = {
     "0.20.0" = import ./overrides/jsonnet/0.20.0;
   };
