@@ -7279,6 +7279,9 @@
   python-card-me = {
     "0.9.3" = import ./overrides/python-card-me/0.9.3;
   };
+  python-cas = {
+    "1.6.0" = import ./overrides/python-cas/1.6.0;
+  };
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
   };
