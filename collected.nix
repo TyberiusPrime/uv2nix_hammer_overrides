@@ -4916,6 +4916,9 @@
   mongokit = {
     "0.9.1.1" = import ./overrides/mongokit/0.9.1.1;
   };
+  mongoquery = {
+    "1.4.2" = import ./overrides/mongoquery/1.4.2;
+  };
   monkeyhex = {
     "1.7.4" = import ./overrides/monkeyhex/1.7.4;
   };
