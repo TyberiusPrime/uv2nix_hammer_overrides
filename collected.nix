@@ -1758,6 +1758,9 @@
   defopt = {
     "6.4.0" = import ./overrides/defopt/6.4.0;
   };
+  deform-bootstrap = {
+    "0.2.9" = import ./overrides/deform-bootstrap/0.2.9;
+  };
   delfick-error = {
     "1.8" = import ./overrides/delfick-error/1.8;
   };
@@ -3961,14 +3964,53 @@
   jquery-layer = {
     "1.0.0" = import ./overrides/jquery-layer/1.0.0;
   };
+  js-angular = {
+    "1.1.4" = import ./overrides/js-angular/1.1.4;
+  };
+  js-bootstrap = {
+    "3.3.4" = import ./overrides/js-bootstrap/3.3.4;
+  };
+  js-fineuploader = {
+    "5.14.0" = import ./overrides/js-fineuploader/5.14.0;
+  };
+  js-html5shiv = {
+    "3.7.3" = import ./overrides/js-html5shiv/3.7.3;
+  };
+  js-jquery = {
+    "1.9.1" = import ./overrides/js-jquery/1.9.1;
+  };
   js-jquery-form = {
     "3.9" = import ./overrides/js-jquery-form/3.9;
+  };
+  js-jquery-maskedinput = {
+    "1.4.1" = import ./overrides/js-jquery-maskedinput/1.4.1;
+  };
+  js-jquery-maskmoney = {
+    "3.0.2" = import ./overrides/js-jquery-maskmoney/3.0.2;
+  };
+  js-jquery-sortable = {
+    "0.9.13" = import ./overrides/js-jquery-sortable/0.9.13;
+  };
+  js-jquery-tablednd = {
+    "0.4" = import ./overrides/js-jquery-tablednd/0.4;
   };
   js-jquery-timepicker-addon = {
     "1.5.3" = import ./overrides/js-jquery-timepicker-addon/1.5.3;
   };
   js-jqueryui = {
     "1.10.3" = import ./overrides/js-jqueryui/1.10.3;
+  };
+  js-jqueryui-tagit = {
+    "2.0.24.post2" = import ./overrides/js-jqueryui-tagit/2.0.24.post2;
+  };
+  js-modernizr = {
+    "2.5.3.1" = import ./overrides/js-modernizr/2.5.3.1;
+  };
+  js-select2 = {
+    "4.0.4.post1" = import ./overrides/js-select2/4.0.4.post1;
+  };
+  js-tinymce = {
+    "4.5.4" = import ./overrides/js-tinymce/4.5.4;
   };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
@@ -4204,6 +4246,9 @@
   };
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
+  };
+  kotti-settings = {
+    "0.3" = import ./overrides/kotti-settings/0.3;
   };
   kotti-tinymce = {
     "0.7.1" = import ./overrides/kotti-tinymce/0.7.1;
@@ -7035,6 +7080,9 @@
   };
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
+  };
+  pyramid-chameleon = {
+    "0.3" = import ./overrides/pyramid-chameleon/0.3;
   };
   pyramid-deform = {
     "0.2" = import ./overrides/pyramid-deform/0.2;
