@@ -1852,6 +1852,9 @@
   diversipy = {
     "0.9" = import ./overrides/diversipy/0.9;
   };
+  dj-inmemorystorage = {
+    "2.1.0" = import ./overrides/dj-inmemorystorage/2.1.0;
+  };
   dj-rest-auth = {
     "6.0.0" = import ./overrides/dj-rest-auth/6.0.0;
   };
