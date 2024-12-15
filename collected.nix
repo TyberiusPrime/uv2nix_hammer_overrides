@@ -4072,6 +4072,9 @@
   jupyter-contrib-nbextensions = {
     "0.7.0" = import ./overrides/jupyter-contrib-nbextensions/0.7.0;
   };
+  jupyter-dash = {
+    "0.4.2" = import ./overrides/jupyter-dash/0.4.2;
+  };
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
