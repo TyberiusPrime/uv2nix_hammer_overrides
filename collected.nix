@@ -5236,6 +5236,7 @@
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
   };
   nimporter = {
+    "1.1.0" = import ./overrides/nimporter/1.1.0;
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
   nix-prefetch-github = {
