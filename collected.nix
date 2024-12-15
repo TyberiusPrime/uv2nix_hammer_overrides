@@ -10016,6 +10016,9 @@
   xkbcommon = {
     "1.5.1" = import ./overrides/xkbcommon/1.5.1;
   };
+  xlrd3 = {
+    "1.1.0" = import ./overrides/xlrd3/1.1.0;
+  };
   xlwt-future = {
     "0.8.0" = import ./overrides/xlwt-future/0.8.0;
   };
