@@ -6030,6 +6030,9 @@
   pocket = {
     "0.3.6" = import ./overrides/pocket/0.3.6;
   };
+  poco = {
+    "0.99.1" = import ./overrides/poco/0.99.1;
+  };
   pod-base = {
     "1.0.3" = import ./overrides/pod-base/1.0.3;
   };
