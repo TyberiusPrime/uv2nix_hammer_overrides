@@ -3307,6 +3307,9 @@
   graphene-django-optimizer = {
     "0.8.0" = import ./overrides/graphene-django-optimizer/0.8.0;
   };
+  graphene-sqlalchemy = {
+    "2.3.0" = import ./overrides/graphene-sqlalchemy/2.3.0;
+  };
   graphenelib = {
     "1.6.1" = import ./overrides/graphenelib/1.6.1;
   };
