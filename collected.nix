@@ -8486,6 +8486,9 @@
   slackweb = {
     "1.0.5" = import ./overrides/slackweb/1.0.5;
   };
+  slicedimage = {
+    "4.1.1" = import ./overrides/slicedimage/4.1.1;
+  };
   slimit = {
     "0.8.1" = import ./overrides/slimit/0.8.1;
   };
