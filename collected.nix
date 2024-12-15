@@ -4727,6 +4727,9 @@
   metaform = {
     "1.0.2.4" = import ./overrides/metaform/1.0.2.4;
   };
+  metakernel = {
+    "0.30.2" = import ./overrides/metakernel/0.30.2;
+  };
   metatype = {
     "0.1.3.7" = import ./overrides/metatype/0.1.3.7;
   };
