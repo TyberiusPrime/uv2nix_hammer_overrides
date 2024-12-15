@@ -9522,6 +9522,9 @@
   unipath = {
     "1.1" = import ./overrides/unipath/1.1;
   };
+  unisos-common = {
+    "0.14" = import ./overrides/unisos-common/0.14;
+  };
   unisos-icm = {
     "0.26" = import ./overrides/unisos-icm/0.26;
   };
