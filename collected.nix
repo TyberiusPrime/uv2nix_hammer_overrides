@@ -8417,6 +8417,9 @@
   simpleaudio = {
     "1.0.4" = import ./overrides/simpleaudio/1.0.4;
   };
+  simplebot = {
+    "4.1.2" = import ./overrides/simplebot/4.1.2;
+  };
   simpledbf = {
     "0.2.6" = import ./overrides/simpledbf/0.2.6;
   };
