@@ -1,0 +1,2 @@
+MaturinBitRot = "Cargo.toml"
+Rust = [ "maturin", "None",]
