@@ -1026,6 +1026,9 @@
   charmhelpers = {
     "1.2.1" = import ./overrides/charmhelpers/1.2.1;
   };
+  chart-studio = {
+    "1.1.0" = import ./overrides/chart-studio/1.1.0;
+  };
   chempy = {
     "0.9.0" = import ./overrides/chempy/0.9.0;
   };
