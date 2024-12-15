@@ -9693,6 +9693,9 @@
   vext = {
     "0.7.6" = import ./overrides/vext/0.7.6;
   };
+  vharfbuzz = {
+    "0.3.1" = import ./overrides/vharfbuzz/0.3.1;
+  };
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
