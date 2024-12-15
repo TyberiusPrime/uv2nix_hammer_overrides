@@ -5120,6 +5120,9 @@
   nanotime = {
     "0.5.2" = import ./overrides/nanotime/0.5.2;
   };
+  napari-skimage-regionprops = {
+    "0.10.1" = import ./overrides/napari-skimage-regionprops/0.10.1;
+  };
   nats-py = {
     "2.9.0" = import ./overrides/nats-py/2.9.0;
   };
