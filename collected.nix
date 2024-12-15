@@ -5802,6 +5802,9 @@
   pemja = {
     "0.4.1" = import ./overrides/pemja/0.4.1;
   };
+  penaltymodel = {
+    "1.1.0" = import ./overrides/penaltymodel/1.1.0;
+  };
   pendulum = {
     "1.5.1" = import ./overrides/pendulum/1.5.1;
     "2.1.2" = import ./overrides/pendulum/2.1.2;
