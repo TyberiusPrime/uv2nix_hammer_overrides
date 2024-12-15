@@ -8664,6 +8664,9 @@
   sprox = {
     "0.11.2" = import ./overrides/sprox/0.11.2;
   };
+  spyder-kernels = {
+    "3.0.0" = import ./overrides/spyder-kernels/3.0.0;
+  };
   spyne = {
     "2.14.0" = import ./overrides/spyne/2.14.0;
   };
