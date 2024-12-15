@@ -5736,6 +5736,9 @@
   path-and-address = {
     "2.0.1" = import ./overrides/path-and-address/2.0.1;
   };
+  pathmagic = {
+    "0.3.14" = import ./overrides/pathmagic/0.3.14;
+  };
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
