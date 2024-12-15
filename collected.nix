@@ -2,6 +2,9 @@
   "-django-iconify" = {
     "0.3" = import ./overrides/-django-iconify/0.3;
   };
+  "2to3" = {
+    "1.0" = import ./overrides/2to3/1.0;
+  };
   "3to2" = {
     "1.1.1" = import ./overrides/3to2/1.1.1;
   };
