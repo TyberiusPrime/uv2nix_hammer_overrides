@@ -3829,6 +3829,9 @@
   iopath = {
     "0.1.10" = import ./overrides/iopath/0.1.10;
   };
+  iotawattpy = {
+    "0.1.0" = import ./overrides/iotawattpy/0.1.0;
+  };
   iotlabcli = {
     "3.3.0" = import ./overrides/iotlabcli/3.3.0;
   };
