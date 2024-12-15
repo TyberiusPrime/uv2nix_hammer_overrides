@@ -1503,6 +1503,9 @@
   crlibm = {
     "1.0.3" = import ./overrides/crlibm/1.0.3;
   };
+  cron-descriptor = {
+    "1.4.5" = import ./overrides/cron-descriptor/1.4.5;
+  };
   cronex = {
     "0.1.3.1" = import ./overrides/cronex/0.1.3.1;
   };
