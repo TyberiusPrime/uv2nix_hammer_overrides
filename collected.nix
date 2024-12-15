@@ -3856,6 +3856,9 @@
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
+  irc = {
+    "20.5.0" = import ./overrides/irc/20.5.0;
+  };
   iso-639 = {
     "0.4.5" = import ./overrides/iso-639/0.4.5;
   };
