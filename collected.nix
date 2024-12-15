@@ -7727,6 +7727,9 @@
   quantiphyse-fabber = {
     "0.9.2" = import ./overrides/quantiphyse-fabber/0.9.2;
   };
+  qudida = {
+    "0.0.4" = import ./overrides/qudida/0.0.4;
+  };
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
   };
