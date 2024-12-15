@@ -9552,6 +9552,9 @@
   unrardll = {
     "0.1.7" = import ./overrides/unrardll/0.1.7;
   };
+  unstructured-client = {
+    "0.25.7" = import ./overrides/unstructured-client/0.25.7;
+  };
   unsync = {
     "1.4.0" = import ./overrides/unsync/1.4.0;
   };
