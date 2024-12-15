@@ -4238,6 +4238,9 @@
   langid = {
     "1.1.6" = import ./overrides/langid/1.1.6;
   };
+  language-tool-python = {
+    "2.8.1" = import ./overrides/language-tool-python/2.8.1;
+  };
   lanms-neo = {
     "1.0.2" = import ./overrides/lanms-neo/1.0.2;
   };
