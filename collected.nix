@@ -1331,6 +1331,9 @@
   commontools = {
     "0.1.0" = import ./overrides/commontools/0.1.0;
   };
+  complycube = {
+    "1.1.6" = import ./overrides/complycube/1.1.6;
+  };
   compmake = {
     "4.0.2" = import ./overrides/compmake/4.0.2;
   };
