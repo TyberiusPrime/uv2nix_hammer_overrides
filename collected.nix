@@ -6925,6 +6925,9 @@
   pyocclient = {
     "0.6" = import ./overrides/pyocclient/0.6;
   };
+  pyocd-pemicro = {
+    "1.1.5" = import ./overrides/pyocd-pemicro/1.1.5;
+  };
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
   };
