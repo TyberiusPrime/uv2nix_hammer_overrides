@@ -665,6 +665,9 @@
   beeprint = {
     "2.4.11" = import ./overrides/beeprint/2.4.11;
   };
+  beet = {
+    "0.108.5" = import ./overrides/beet/0.108.5;
+  };
   begins = {
     "0.9" = import ./overrides/begins/0.9;
   };
