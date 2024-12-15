@@ -515,6 +515,9 @@
   avro-python3 = {
     "1.10.2" = import ./overrides/avro-python3/1.10.2;
   };
+  avwx-engine = {
+    "1.9.0" = import ./overrides/avwx-engine/1.9.0;
+  };
   awesome-slugify = {
     "1.6.5" = import ./overrides/awesome-slugify/1.6.5;
   };
