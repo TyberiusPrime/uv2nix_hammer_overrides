@@ -1680,6 +1680,9 @@
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
+  databricks-cli = {
+    "0.18.0" = import ./overrides/databricks-cli/0.18.0;
+  };
   datacleaner = {
     "0.1.5" = import ./overrides/datacleaner/0.1.5;
   };
