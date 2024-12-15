@@ -5501,6 +5501,9 @@
   onnxsim = {
     "0.4.36" = import ./overrides/onnxsim/0.4.36;
   };
+  ont-fast5-api = {
+    "4.1.3" = import ./overrides/ont-fast5-api/4.1.3;
+  };
   onvif-zeep = {
     "0.2.12" = import ./overrides/onvif-zeep/0.2.12;
   };
