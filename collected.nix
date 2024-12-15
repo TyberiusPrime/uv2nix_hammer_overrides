@@ -322,6 +322,9 @@
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
   };
+  arcane-requests = {
+    "0.4.2" = import ./overrides/arcane-requests/0.4.2;
+  };
   arcgis = {
     "2.3.1" = import ./overrides/arcgis/2.3.1;
   };
