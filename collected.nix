@@ -5135,6 +5135,9 @@
   naturalsort = {
     "1.5.1" = import ./overrides/naturalsort/1.5.1;
   };
+  naver-config = {
+    "0.0.2" = import ./overrides/naver-config/0.0.2;
+  };
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
   };
