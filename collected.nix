@@ -1883,6 +1883,9 @@
   django-any-js = {
     "1.2" = import ./overrides/django-any-js/1.2;
   };
+  django-app-settings = {
+    "0.7.2" = import ./overrides/django-app-settings/0.7.2;
+  };
   django-apptemplates = {
     "1.5" = import ./overrides/django-apptemplates/1.5;
   };
