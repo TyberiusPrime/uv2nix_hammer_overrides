@@ -9239,6 +9239,9 @@
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
   };
+  torrent-parser = {
+    "0.4.1" = import ./overrides/torrent-parser/0.4.1;
+  };
   torrequest = {
     "0.1.0" = import ./overrides/torrequest/0.1.0;
   };
