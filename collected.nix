@@ -8320,6 +8320,9 @@
   sfepy = {
     "2024.2" = import ./overrides/sfepy/2024.2;
   };
+  sfrbox-api = {
+    "0.0.10" = import ./overrides/sfrbox-api/0.0.10;
+  };
   sgmllib3k = {
     "1.0.0" = import ./overrides/sgmllib3k/1.0.0;
   };
