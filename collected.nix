@@ -3332,6 +3332,9 @@
   grpcio = {
     "1.57.0" = import ./overrides/grpcio/1.57.0;
   };
+  grpcio-tools = {
+    "1.56.0" = import ./overrides/grpcio-tools/1.56.0;
+  };
   grpclib = {
     "0.4.7" = import ./overrides/grpclib/0.4.7;
   };
@@ -9031,6 +9034,9 @@
   };
   tgext-datahelpers = {
     "0.2.1" = import ./overrides/tgext-datahelpers/0.2.1;
+  };
+  th2-grpc-common = {
+    "4.5.0" = import ./overrides/th2-grpc-common/4.5.0;
   };
   thealot = {
     "0.3.2" = import ./overrides/thealot/0.3.2;
