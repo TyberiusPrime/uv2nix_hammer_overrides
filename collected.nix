@@ -419,6 +419,9 @@
   astropy-helpers = {
     "4.0.1" = import ./overrides/astropy-helpers/4.0.1;
   };
+  astroscrappy = {
+    "1.2.0" = import ./overrides/astroscrappy/1.2.0;
+  };
   astutils = {
     "0.0.6" = import ./overrides/astutils/0.0.6;
   };
