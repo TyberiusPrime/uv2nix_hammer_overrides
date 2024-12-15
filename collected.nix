@@ -6919,6 +6919,9 @@
   pynut2 = {
     "2.1.2" = import ./overrides/pynut2/2.1.2;
   };
+  pynzb = {
+    "0.1.0" = import ./overrides/pynzb/0.1.0;
+  };
   pyo = {
     "1.0.5" = import ./overrides/pyo/1.0.5;
   };
