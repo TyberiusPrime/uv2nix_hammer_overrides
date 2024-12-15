@@ -4214,6 +4214,9 @@
   krb5 = {
     "0.6.0" = import ./overrides/krb5/0.6.0;
   };
+  krules-core = {
+    "0.12.0" = import ./overrides/krules-core/0.12.0;
+  };
   kser = {
     "0.8.25" = import ./overrides/kser/0.8.25;
   };
