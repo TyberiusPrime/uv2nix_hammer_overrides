@@ -2481,6 +2481,9 @@
   eea-facetednavigation = {
     "15.1" = import ./overrides/eea-facetednavigation/15.1;
   };
+  eea-icons = {
+    "3.3" = import ./overrides/eea-icons/3.3;
+  };
   eebrightbox = {
     "0.0.6" = import ./overrides/eebrightbox/0.0.6;
   };
