@@ -7523,6 +7523,9 @@
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
   };
+  pythondialog = {
+    "3.5.3" = import ./overrides/pythondialog/3.5.3;
+  };
   pythonegardia = {
     "1.0.52" = import ./overrides/pythonegardia/1.0.52;
   };
