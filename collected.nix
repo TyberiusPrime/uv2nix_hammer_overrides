@@ -8981,6 +8981,9 @@
   tensorflow-io-gcs-filesystem = {
     "0.37.1" = import ./overrides/tensorflow-io-gcs-filesystem/0.37.1;
   };
+  tentaclio = {
+    "1.3.0" = import ./overrides/tentaclio/1.3.0;
+  };
   termcolor = {
     "1.1.0" = import ./overrides/termcolor/1.1.0;
   };
