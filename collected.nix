@@ -4793,6 +4793,9 @@
   migen = {
     "0.9.2" = import ./overrides/migen/0.9.2;
   };
+  mill-local = {
+    "0.3.0" = import ./overrides/mill-local/0.3.0;
+  };
   millify = {
     "0.1.1" = import ./overrides/millify/0.1.1;
   };
