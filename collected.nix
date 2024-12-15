@@ -6973,6 +6973,9 @@
   pyperclip = {
     "1.9.0" = import ./overrides/pyperclip/1.9.0;
   };
+  pypeul = {
+    "0.3.2" = import ./overrides/pypeul/0.3.2;
+  };
   pyphases = {
     "1.2.8" = import ./overrides/pyphases/1.2.8;
   };
