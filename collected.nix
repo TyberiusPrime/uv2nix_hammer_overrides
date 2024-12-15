@@ -852,6 +852,9 @@
   bsuite = {
     "0.3.5" = import ./overrides/bsuite/0.3.5;
   };
+  bt-proximity = {
+    "0.2.1" = import ./overrides/bt-proximity/0.2.1;
+  };
   btest = {
     "1.1" = import ./overrides/btest/1.1;
   };
