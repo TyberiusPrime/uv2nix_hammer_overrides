@@ -7012,6 +7012,9 @@
   pyptlib = {
     "0.0.6" = import ./overrides/pyptlib/0.0.6;
   };
+  pypugjs = {
+    "5.11.0" = import ./overrides/pypugjs/5.11.0;
+  };
   pypytools = {
     "0.6.2" = import ./overrides/pypytools/0.6.2;
   };
