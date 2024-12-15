@@ -719,6 +719,9 @@
   bioservices = {
     "1.11.2" = import ./overrides/bioservices/1.11.2;
   };
+  bip-utils = {
+    "2.9.3" = import ./overrides/bip-utils/2.9.3;
+  };
   biplist = {
     "1.0.3" = import ./overrides/biplist/1.0.3;
   };
