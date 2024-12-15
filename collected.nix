@@ -9482,6 +9482,9 @@
   umi-tools = {
     "1.1.5" = import ./overrides/umi-tools/1.1.5;
   };
+  unasync = {
+    "0.6.0" = import ./overrides/unasync/0.6.0;
+  };
   uncleengineer = {
     "0.2" = import ./overrides/uncleengineer/0.2;
   };
