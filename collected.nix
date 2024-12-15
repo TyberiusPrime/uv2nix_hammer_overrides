@@ -7300,6 +7300,9 @@
   python-djvulibre = {
     "0.8.8" = import ./overrides/python-djvulibre/0.8.8;
   };
+  python-docs-theme = {
+    "2024.6" = import ./overrides/python-docs-theme/2024.6;
+  };
   python-doi = {
     "0.2.0" = import ./overrides/python-doi/0.2.0;
   };
