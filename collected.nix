@@ -2598,6 +2598,9 @@
   evaics = {
     "0.2.29" = import ./overrides/evaics/0.2.29;
   };
+  eval-type-backport = {
+    "0.2.0" = import ./overrides/eval-type-backport/0.2.0;
+  };
   evdev = {
     "1.7.1" = import ./overrides/evdev/1.7.1;
   };
