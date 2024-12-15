@@ -4443,6 +4443,9 @@
   linuxfd = {
     "1.5" = import ./overrides/linuxfd/1.5;
   };
+  liquidpy = {
+    "0.8.2" = import ./overrides/liquidpy/0.8.2;
+  };
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
