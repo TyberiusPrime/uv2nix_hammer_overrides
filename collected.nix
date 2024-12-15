@@ -9017,6 +9017,9 @@
   textnets = {
     "0.9.4" = import ./overrides/textnets/0.9.4;
   };
+  tf-crf-layer = {
+    "0.2.5" = import ./overrides/tf-crf-layer/0.2.5;
+  };
   tflearn = {
     "0.5.0" = import ./overrides/tflearn/0.5.0;
   };
