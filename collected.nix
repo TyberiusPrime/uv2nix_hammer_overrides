@@ -3787,6 +3787,9 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  intake-parquet = {
+    "0.3.0" = import ./overrides/intake-parquet/0.3.0;
+  };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
   };
