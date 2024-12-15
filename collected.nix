@@ -698,6 +698,9 @@
   bgconfig = {
     "0.10" = import ./overrides/bgconfig/0.10;
   };
+  bgdata = {
+    "2.0.4" = import ./overrides/bgdata/2.0.4;
+  };
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
