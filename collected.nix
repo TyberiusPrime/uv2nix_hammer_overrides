@@ -1922,6 +1922,9 @@
   django-compat = {
     "1.0.15" = import ./overrides/django-compat/1.0.15;
   };
+  django-compressor = {
+    "4.5.1" = import ./overrides/django-compressor/4.5.1;
+  };
   django-concurrency = {
     "2.5" = import ./overrides/django-concurrency/2.5;
   };
