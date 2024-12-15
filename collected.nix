@@ -407,6 +407,9 @@
   asset = {
     "0.6.13" = import ./overrides/asset/0.6.13;
   };
+  asteroid-filterbanks = {
+    "0.4.0" = import ./overrides/asteroid-filterbanks/0.4.0;
+  };
   astmonkey = {
     "0.3.6" = import ./overrides/astmonkey/0.3.6;
   };
