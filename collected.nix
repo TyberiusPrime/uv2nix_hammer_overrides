@@ -1596,6 +1596,9 @@
   cwlgen = {
     "0.4.2" = import ./overrides/cwlgen/0.4.2;
   };
+  cybox = {
+    "2.1.0.21" = import ./overrides/cybox/2.1.0.21;
+  };
   cydets = {
     "1.1" = import ./overrides/cydets/1.1;
   };
