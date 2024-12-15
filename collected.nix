@@ -4033,6 +4033,9 @@
   jsonpath-rw = {
     "1.4.0" = import ./overrides/jsonpath-rw/1.4.0;
   };
+  jsonpath-rw-ext = {
+    "1.2.2" = import ./overrides/jsonpath-rw-ext/1.2.2;
+  };
   jsonpickle = {
     "0.9.3" = import ./overrides/jsonpickle/0.9.3;
   };
