@@ -7048,6 +7048,9 @@
   pyreadline = {
     "2.1" = import ./overrides/pyreadline/2.1;
   };
+  pyreadstat = {
+    "1.2.7" = import ./overrides/pyreadstat/1.2.7;
+  };
   pyrect = {
     "0.2.0" = import ./overrides/pyrect/0.2.0;
   };
