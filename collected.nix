@@ -7845,6 +7845,9 @@
   reedsolo = {
     "2.0.13" = import ./overrides/reedsolo/2.0.13;
   };
+  referencing = {
+    "0.35.1" = import ./overrides/referencing/0.35.1;
+  };
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
   };
