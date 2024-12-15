@@ -6312,6 +6312,9 @@
   py-dateutil = {
     "2.2" = import ./overrides/py-dateutil/2.2;
   };
+  py-dormakaba-dkey = {
+    "1.0.5" = import ./overrides/py-dormakaba-dkey/1.0.5;
+  };
   py-getch = {
     "1.0.1" = import ./overrides/py-getch/1.0.1;
   };
