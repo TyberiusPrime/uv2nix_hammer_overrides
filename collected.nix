@@ -6435,6 +6435,9 @@
   pybrowserid = {
     "0.14.0" = import ./overrides/pybrowserid/0.14.0;
   };
+  pybtex-docutils = {
+    "1.0.3" = import ./overrides/pybtex-docutils/1.0.3;
+  };
   pybullet = {
     "3.2.6" = import ./overrides/pybullet/3.2.6;
   };
