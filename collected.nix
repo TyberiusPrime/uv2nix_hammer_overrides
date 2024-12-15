@@ -5748,6 +5748,9 @@
   pbs3 = {
     "3.0.2" = import ./overrides/pbs3/3.0.2;
   };
+  pbxproj = {
+    "4.2.1" = import ./overrides/pbxproj/4.2.1;
+  };
   pcapy-ng = {
     "1.0.9" = import ./overrides/pcapy-ng/1.0.9;
   };
