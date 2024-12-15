@@ -7484,6 +7484,9 @@
   python-tlsh = {
     "4.5.0" = import ./overrides/python-tlsh/4.5.0;
   };
+  python-u2flib-host = {
+    "3.0.3" = import ./overrides/python-u2flib-host/3.0.3;
+  };
   python-uinput = {
     "1.0.1" = import ./overrides/python-uinput/1.0.1;
   };
