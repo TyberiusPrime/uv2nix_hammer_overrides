@@ -8305,6 +8305,9 @@
   setuptools-lint = {
     "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
   };
+  setuptools-markdown = {
+    "0.4.1" = import ./overrides/setuptools-markdown/0.4.1;
+  };
   setuptools-scm = {
     "8.1.0" = import ./overrides/setuptools-scm/8.1.0;
   };
