@@ -8024,6 +8024,9 @@
   rova = {
     "0.4.1" = import ./overrides/rova/0.4.1;
   };
+  rpaframework-core = {
+    "11.3.3" = import ./overrides/rpaframework-core/11.3.3;
+  };
   rpcq = {
     "3.11.0" = import ./overrides/rpcq/3.11.0;
   };
