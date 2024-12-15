@@ -9540,6 +9540,9 @@
   unittest2py3k = {
     "0.5.1" = import ./overrides/unittest2py3k/0.5.1;
   };
+  unix-ar = {
+    "0.2.1" = import ./overrides/unix-ar/0.2.1;
+  };
   unixpackage = {
     "0.4.7" = import ./overrides/unixpackage/0.4.7;
   };
