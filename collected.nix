@@ -7727,6 +7727,9 @@
   quantiphyse-fabber = {
     "0.9.2" = import ./overrides/quantiphyse-fabber/0.9.2;
   };
+  quart-flask-patch = {
+    "0.3.0" = import ./overrides/quart-flask-patch/0.3.0;
+  };
   query = {
     "0.1.4" = import ./overrides/query/0.1.4;
   };
