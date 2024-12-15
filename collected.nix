@@ -1952,6 +1952,9 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-downloadview = {
+    "2.4.0" = import ./overrides/django-downloadview/2.4.0;
+  };
   django-el-pagination = {
     "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
   };
