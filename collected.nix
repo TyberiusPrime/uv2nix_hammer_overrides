@@ -3571,6 +3571,9 @@
   huey = {
     "2.5.1" = import ./overrides/huey/2.5.1;
   };
+  huisbaasje-client = {
+    "0.1.0" = import ./overrides/huisbaasje-client/0.1.0;
+  };
   humanize = {
     "0.5.1" = import ./overrides/humanize/0.5.1;
   };
