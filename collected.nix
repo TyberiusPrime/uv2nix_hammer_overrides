@@ -10106,6 +10106,9 @@
   z3 = {
     "0.2.0" = import ./overrides/z3/0.2.0;
   };
+  z3-solver = {
+    "4.13.0.0" = import ./overrides/z3-solver/4.13.0.0;
+  };
   z3c-language-switch = {
     "1.1.0" = import ./overrides/z3c-language-switch/1.1.0;
   };
