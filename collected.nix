@@ -5498,6 +5498,9 @@
   onnx-simplifier = {
     "0.4.36" = import ./overrides/onnx-simplifier/0.4.36;
   };
+  onnx-tf = {
+    "1.10.0" = import ./overrides/onnx-tf/1.10.0;
+  };
   onnxsim = {
     "0.4.36" = import ./overrides/onnxsim/0.4.36;
   };
