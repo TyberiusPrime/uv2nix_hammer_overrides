@@ -3673,6 +3673,9 @@
   image = {
     "1.5.33" = import ./overrides/image/1.5.33;
   };
+  image-diff = {
+    "0.2.2" = import ./overrides/image-diff/0.2.2;
+  };
   imagehash = {
     "3.4" = import ./overrides/imagehash/3.4;
   };
