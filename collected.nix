@@ -10154,6 +10154,9 @@
   zipstream = {
     "1.1.4" = import ./overrides/zipstream/1.1.4;
   };
+  zipstream-ng = {
+    "1.7.1" = import ./overrides/zipstream-ng/1.7.1;
+  };
   zk = {
     "0.8.5" = import ./overrides/zk/0.8.5;
   };
