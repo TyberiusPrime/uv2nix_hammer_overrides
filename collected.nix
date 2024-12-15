@@ -7775,6 +7775,9 @@
   rapidtables = {
     "0.1.11" = import ./overrides/rapidtables/0.1.11;
   };
+  rarfile = {
+    "4.2" = import ./overrides/rarfile/4.2;
+  };
   rask = {
     "0.1.5" = import ./overrides/rask/0.1.5;
   };
