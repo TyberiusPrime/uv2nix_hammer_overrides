@@ -2688,6 +2688,9 @@
   fastecdsa = {
     "2.3.2" = import ./overrides/fastecdsa/2.3.2;
   };
+  faster-whisper = {
+    "1.0.3" = import ./overrides/faster-whisper/1.0.3;
+  };
   fastimport = {
     "0.9.14" = import ./overrides/fastimport/0.9.14;
   };
