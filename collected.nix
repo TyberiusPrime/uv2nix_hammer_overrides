@@ -8882,6 +8882,9 @@
   tableaudocumentapi = {
     "0.11" = import ./overrides/tableaudocumentapi/0.11;
   };
+  tabledata = {
+    "1.3.3" = import ./overrides/tabledata/1.3.3;
+  };
   tables = {
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
