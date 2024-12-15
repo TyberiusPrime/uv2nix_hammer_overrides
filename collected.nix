@@ -924,6 +924,9 @@
   carto = {
     "1.11.3" = import ./overrides/carto/1.11.3;
   };
+  casa-formats-io = {
+    "0.3.0" = import ./overrides/casa-formats-io/0.3.0;
+  };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
