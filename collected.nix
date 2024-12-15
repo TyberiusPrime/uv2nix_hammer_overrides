@@ -6843,6 +6843,9 @@
   pymailgunner = {
     "1.5" = import ./overrides/pymailgunner/1.5;
   };
+  pymarkdown = {
+    "0.1.4" = import ./overrides/pymarkdown/0.1.4;
+  };
   pymarktex = {
     "1.4.6" = import ./overrides/pymarktex/1.4.6;
   };
