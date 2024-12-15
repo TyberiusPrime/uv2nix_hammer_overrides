@@ -1551,6 +1551,9 @@
   csrmesh = {
     "0.10.0" = import ./overrides/csrmesh/0.10.0;
   };
+  css-html-js-minify = {
+    "2.5.5" = import ./overrides/css-html-js-minify/2.5.5;
+  };
   cssbeautifier = {
     "1.15.1" = import ./overrides/cssbeautifier/1.15.1;
   };
