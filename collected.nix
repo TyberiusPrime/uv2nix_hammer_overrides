@@ -175,6 +175,9 @@
   algebra = {
     "1.2.1" = import ./overrides/algebra/1.2.1;
   };
+  algoliasearch = {
+    "4.4.0" = import ./overrides/algoliasearch/4.4.0;
+  };
   alibabacloud-tea-py2 = {
     "0.1.0" = import ./overrides/alibabacloud-tea-py2/0.1.0;
   };
