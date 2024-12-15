@@ -9919,6 +9919,9 @@
   wolframclient = {
     "1.4.0" = import ./overrides/wolframclient/1.4.0;
   };
+  woob = {
+    "3.6" = import ./overrides/woob/3.6;
+  };
   word2number = {
     "1.1" = import ./overrides/word2number/1.1;
   };
