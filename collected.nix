@@ -792,6 +792,9 @@
   bloscpack = {
     "0.16.0" = import ./overrides/bloscpack/0.16.0;
   };
+  bluecurrent-api = {
+    "1.2.3" = import ./overrides/bluecurrent-api/1.2.3;
+  };
   bluepy = {
     "1.3.0" = import ./overrides/bluepy/1.3.0;
   };
