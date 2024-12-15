@@ -9443,6 +9443,9 @@
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
+  types-termcolor = {
+    "1.1.6.2" = import ./overrides/types-termcolor/1.1.6.2;
+  };
   typing = {
     "3.5.2.2" = import ./overrides/typing/3.5.2.2;
   };
