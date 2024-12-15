@@ -9485,6 +9485,9 @@
   uncleengineer = {
     "0.2" = import ./overrides/uncleengineer/0.2;
   };
+  uncompyle6 = {
+    "3.9.2" = import ./overrides/uncompyle6/3.9.2;
+  };
   undetected-chromedriver = {
     "3.5.5" = import ./overrides/undetected-chromedriver/3.5.5;
   };
