@@ -2965,6 +2965,9 @@
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
   };
+  fqdn = {
+    "1.5.1" = import ./overrides/fqdn/1.5.1;
+  };
   frasco = {
     "3.5.1" = import ./overrides/frasco/3.5.1;
   };
