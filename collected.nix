@@ -4922,6 +4922,9 @@
   monthdelta = {
     "0.9.1" = import ./overrides/monthdelta/0.9.1;
   };
+  mopeka-iot-ble = {
+    "0.8.0" = import ./overrides/mopeka-iot-ble/0.8.0;
+  };
   mordred = {
     "1.2.0" = import ./overrides/mordred/1.2.0;
   };
