@@ -3137,6 +3137,9 @@
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
+  georss-client = {
+    "0.17" = import ./overrides/georss-client/0.17;
+  };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
