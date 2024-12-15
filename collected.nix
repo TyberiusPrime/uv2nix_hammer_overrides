@@ -3028,6 +3028,9 @@
   funcargparse = {
     "0.2.5" = import ./overrides/funcargparse/0.2.5;
   };
+  functiontrace = {
+    "0.3.7" = import ./overrides/functiontrace/0.3.7;
+  };
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
