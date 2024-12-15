@@ -2899,6 +2899,9 @@
   flask-script = {
     "2.0.6" = import ./overrides/flask-script/2.0.6;
   };
+  flask-shell-ipython = {
+    "0.5.3" = import ./overrides/flask-shell-ipython/0.5.3;
+  };
   flask-silk = {
     "0.2" = import ./overrides/flask-silk/0.2;
   };
