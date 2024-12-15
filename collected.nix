@@ -4452,6 +4452,9 @@
   livestreamer-curses = {
     "1.5.2" = import ./overrides/livestreamer-curses/1.5.2;
   };
+  lkml = {
+    "1.3.5" = import ./overrides/lkml/1.3.5;
+  };
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
