@@ -4105,6 +4105,9 @@
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
   };
+  kconfiglib = {
+    "14.1.0" = import ./overrides/kconfiglib/14.1.0;
+  };
   kedro = {
     "0.19.8" = import ./overrides/kedro/0.19.8;
   };
