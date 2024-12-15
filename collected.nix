@@ -8613,6 +8613,9 @@
   sphinx-fortran = {
     "1.1.1" = import ./overrides/sphinx-fortran/1.1.1;
   };
+  sphinx-notfound-page = {
+    "1.0.4" = import ./overrides/sphinx-notfound-page/1.0.4;
+  };
   sphinx-serve = {
     "1.0.1" = import ./overrides/sphinx-serve/1.0.1;
   };
