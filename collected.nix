@@ -3104,6 +3104,9 @@
   gcs-oauth2-boto-plugin = {
     "3.2" = import ./overrides/gcs-oauth2-boto-plugin/3.2;
   };
+  gcsfs = {
+    "2024.9.0.post1" = import ./overrides/gcsfs/2024.9.0.post1;
+  };
   gdata = {
     "2.0.18" = import ./overrides/gdata/2.0.18;
   };
