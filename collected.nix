@@ -10031,6 +10031,9 @@
   xobjects = {
     "0.4.4" = import ./overrides/xobjects/0.4.4;
   };
+  xpath-expressions = {
+    "1.0.2" = import ./overrides/xpath-expressions/1.0.2;
+  };
   xrootd = {
     "5.7.1" = import ./overrides/xrootd/5.7.1;
   };
