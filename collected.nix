@@ -3362,6 +3362,9 @@
   gym = {
     "0.26.2" = import ./overrides/gym/0.26.2;
   };
+  h11 = {
+    "0.14.0" = import ./overrides/h11/0.14.0;
+  };
   h2o = {
     "3.46.0.5" = import ./overrides/h2o/3.46.0.5;
   };
