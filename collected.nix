@@ -4820,6 +4820,9 @@
   minimal-snowplow-tracker = {
     "0.0.2" = import ./overrides/minimal-snowplow-tracker/0.0.2;
   };
+  minimalmodbus = {
+    "2.1.1" = import ./overrides/minimalmodbus/2.1.1;
+  };
   mir-eval = {
     "0.7" = import ./overrides/mir-eval/0.7;
   };
