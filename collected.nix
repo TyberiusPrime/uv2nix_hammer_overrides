@@ -9220,6 +9220,9 @@
   toredis = {
     "0.1.2" = import ./overrides/toredis/0.1.2;
   };
+  torf = {
+    "4.2.7" = import ./overrides/torf/4.2.7;
+  };
   tornadis = {
     "0.8.1" = import ./overrides/tornadis/0.8.1;
   };
