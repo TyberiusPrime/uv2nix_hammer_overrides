@@ -268,6 +268,9 @@
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
   };
+  anyio = {
+    "4.4.0" = import ./overrides/anyio/4.4.0;
+  };
   aorta = {
     "2.20.0" = import ./overrides/aorta/2.20.0;
   };
