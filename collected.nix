@@ -13325,6 +13325,9 @@
   pager = {
     "3.3" = import ./overrides/pager/3.3;
   };
+  paginate = {
+    "0.5.7" = import ./overrides/paginate/0.5.7;
+  };
   paginator = {
     "0.2.0" = import ./overrides/paginator/0.2.0;
     "0.5.1" = import ./overrides/paginator/0.5.1;
