@@ -23,8 +23,20 @@
   abjad = {
     "3.19" = import ./overrides/abjad/3.19;
   };
+  absl-py = {
+    "2.1.0" = import ./overrides/absl-py/2.1.0;
+  };
   absresgetter = {
     "0.0.12" = import ./overrides/absresgetter/0.0.12;
+  };
+  abstract = {
+    "2022.7.10" = import ./overrides/abstract/2022.7.10;
+  };
+  accept-types = {
+    "0.4.1" = import ./overrides/accept-types/0.4.1;
+  };
+  access-points = {
+    "0.4.73" = import ./overrides/access-points/0.4.73;
   };
   accessify = {
     "0.3.1" = import ./overrides/accessify/0.3.1;
@@ -44,8 +56,26 @@
   active-alchemy = {
     "1.1.0" = import ./overrides/active-alchemy/1.1.0;
   };
+  active-sqlalchemy = {
+    "0.4.0" = import ./overrides/active-sqlalchemy/0.4.0;
+  };
+  adafruit-circuitpython-bitmap-font = {
+    "2.1.2" = import ./overrides/adafruit-circuitpython-bitmap-font/2.1.2;
+  };
   adafruit-circuitpython-bme280 = {
     "2.6.25" = import ./overrides/adafruit-circuitpython-bme280/2.6.25;
+  };
+  adafruit-circuitpython-esp32spi = {
+    "8.4.0" = import ./overrides/adafruit-circuitpython-esp32spi/8.4.0;
+  };
+  adafruit-circuitpython-framebuf = {
+    "1.6.5" = import ./overrides/adafruit-circuitpython-framebuf/1.6.5;
+  };
+  adafruit-circuitpython-minimqtt = {
+    "7.10.2" = import ./overrides/adafruit-circuitpython-minimqtt/7.10.2;
+  };
+  adafruit-circuitpython-pca9685 = {
+    "3.4.15" = import ./overrides/adafruit-circuitpython-pca9685/3.4.15;
   };
   adafruit-extended-bus = {
     "1.0.2" = import ./overrides/adafruit-extended-bus/1.0.2;
@@ -83,6 +113,9 @@
   adext = {
     "0.4.3" = import ./overrides/adext/0.4.3;
   };
+  adguardhome = {
+    "0.7.0" = import ./overrides/adguardhome/0.7.0;
+  };
   adict = {
     "0.1.7" = import ./overrides/adict/0.1.7;
   };
@@ -91,6 +124,9 @@
   };
   advancedhtmlparser = {
     "9.0.2" = import ./overrides/advancedhtmlparser/9.0.2;
+  };
+  advocate = {
+    "1.0.0" = import ./overrides/advocate/1.0.0;
   };
   aenum = {
     "3.1.15" = import ./overrides/aenum/3.1.15;
@@ -113,6 +149,9 @@
   affinity = {
     "0.1.0" = import ./overrides/affinity/0.1.0;
   };
+  agate = {
+    "1.12.0" = import ./overrides/agate/1.12.0;
+  };
   agate-dbf = {
     "0.2.3" = import ./overrides/agate-dbf/0.2.3;
   };
@@ -128,20 +167,116 @@
   agutil = {
     "5.0.1" = import ./overrides/agutil/5.0.1;
   };
+  aicssegmentation = {
+    "0.5.3" = import ./overrides/aicssegmentation/0.5.3;
+  };
   aido-protocols-daffy = {
     "6.1.1" = import ./overrides/aido-protocols-daffy/6.1.1;
   };
   aiee = {
     "0.3.2" = import ./overrides/aiee/0.3.2;
   };
+  aigpy = {
+    "2022.7.8.1" = import ./overrides/aigpy/2022.7.8.1;
+  };
+  aiida-core = {
+    "2.6.2" = import ./overrides/aiida-core/2.6.2;
+  };
+  aiml = {
+    "0.9.2" = import ./overrides/aiml/0.9.2;
+  };
+  aio-geojson-client = {
+    "0.20" = import ./overrides/aio-geojson-client/0.20;
+  };
+  aio-geojson-generic-client = {
+    "0.4" = import ./overrides/aio-geojson-generic-client/0.4;
+  };
+  aio-geojson-geonetnz-volcano = {
+    "0.9" = import ./overrides/aio-geojson-geonetnz-volcano/0.9;
+  };
+  aio-georss-client = {
+    "0.13" = import ./overrides/aio-georss-client/0.13;
+  };
+  aioairq = {
+    "0.4.2" = import ./overrides/aioairq/0.4.2;
+  };
+  aioaseko = {
+    "0.2.0" = import ./overrides/aioaseko/0.2.0;
+  };
+  aioautomower = {
+    "2024.9.0" = import ./overrides/aioautomower/2024.9.0;
+  };
   aiobiketrax = {
     "1.3.1" = import ./overrides/aiobiketrax/1.3.1;
+  };
+  aioblescan = {
+    "0.2.14" = import ./overrides/aioblescan/0.2.14;
+  };
+  aioboto3 = {
+    "13.1.1" = import ./overrides/aioboto3/13.1.1;
+  };
+  aiobroadlink = {
+    "0.1.3" = import ./overrides/aiobroadlink/0.1.3;
+  };
+  aiocache = {
+    "0.12.2" = import ./overrides/aiocache/0.12.2;
+  };
+  aiochannel = {
+    "1.2.1" = import ./overrides/aiochannel/1.2.1;
+  };
+  aiocoap = {
+    "0.4.11" = import ./overrides/aiocoap/0.4.11;
+  };
+  aiocometd = {
+    "0.4.5" = import ./overrides/aiocometd/0.4.5;
   };
   aiocqhttp = {
     "1.4.4" = import ./overrides/aiocqhttp/1.4.4;
   };
+  aiodiscover = {
+    "2.2.0" = import ./overrides/aiodiscover/2.2.0;
+  };
+  aiodns = {
+    "3.2.0" = import ./overrides/aiodns/3.2.0;
+  };
+  aioeagle = {
+    "1.1.0" = import ./overrides/aioeagle/1.1.0;
+  };
+  aioemonitor = {
+    "1.0.5" = import ./overrides/aioemonitor/1.0.5;
+  };
+  aioesphomeapi = {
+    "25.4.0" = import ./overrides/aioesphomeapi/25.4.0;
+  };
   aioextensions = {
     "21.7.2261349" = import ./overrides/aioextensions/21.7.2261349;
+  };
+  aiofile = {
+    "3.8.8" = import ./overrides/aiofile/3.8.8;
+  };
+  aiofiles = {
+    "24.1.0" = import ./overrides/aiofiles/24.1.0;
+  };
+  aioflo = {
+    "2021.11.0" = import ./overrides/aioflo/2021.11.0;
+  };
+  aiogithubapi = {
+    "24.6.0" = import ./overrides/aiogithubapi/24.6.0;
+  };
+  aiogram = {
+    "3.13.0" = import ./overrides/aiogram/3.13.0;
+  };
+  aioguardian = {
+    "2023.12.0" = import ./overrides/aioguardian/2023.12.0;
+  };
+  aiohappyeyeballs = {
+    "2.4.0" = import ./overrides/aiohappyeyeballs/2.4.0;
+  };
+  aioharmony = {
+    "0.2.10" = import ./overrides/aioharmony/0.2.10;
+  };
+  aiohomekit = {
+    "3.2.3" = import ./overrides/aiohomekit/3.2.3;
   };
   aiohttp = {
     "3.8.3" = import ./overrides/aiohttp/3.8.3;
@@ -149,6 +284,9 @@
   };
   aiohttp-apispec = {
     "2.2.3" = import ./overrides/aiohttp-apispec/2.2.3;
+  };
+  aiohttp-basicauth = {
+    "1.0.0" = import ./overrides/aiohttp-basicauth/1.0.0;
   };
   aiohttp-client-cache = {
     "0.11.1" = import ./overrides/aiohttp-client-cache/0.11.1;
@@ -159,6 +297,15 @@
   aiohttp-isal = {
     "0.3.2" = import ./overrides/aiohttp-isal/0.3.2;
   };
+  aiohttp-jinja2 = {
+    "1.6" = import ./overrides/aiohttp-jinja2/1.6;
+  };
+  aiohttp-middlewares = {
+    "2.4.0" = import ./overrides/aiohttp-middlewares/2.4.0;
+  };
+  aiohttp-openmetrics = {
+    "0.0.12" = import ./overrides/aiohttp-openmetrics/0.0.12;
+  };
   aiohttp-route-decorator = {
     "0.1.4" = import ./overrides/aiohttp-route-decorator/0.1.4;
   };
@@ -168,14 +315,41 @@
   aiohttp-socks = {
     "0.9.0" = import ./overrides/aiohttp-socks/0.9.0;
   };
+  aiohttp-sse = {
+    "2.2.0" = import ./overrides/aiohttp-sse/2.2.0;
+  };
   aiohttp-swagger = {
     "1.0.15" = import ./overrides/aiohttp-swagger/1.0.15;
   };
   aiohttp-swagger3 = {
     "0.8.0" = import ./overrides/aiohttp-swagger3/0.8.0;
   };
+  aiohttp-xmlrpc = {
+    "1.5.0" = import ./overrides/aiohttp-xmlrpc/1.5.0;
+  };
+  aiohttp-zlib-ng = {
+    "0.3.2" = import ./overrides/aiohttp-zlib-ng/0.3.2;
+  };
+  aioinflux = {
+    "0.9.0" = import ./overrides/aioinflux/0.9.0;
+  };
+  aiojobs = {
+    "1.3.0" = import ./overrides/aiojobs/1.3.0;
+  };
+  aiokafka = {
+    "0.11.0" = import ./overrides/aiokafka/0.11.0;
+  };
+  aiolifx-connection = {
+    "1.0.0" = import ./overrides/aiolifx-connection/1.0.0;
+  };
   aiolifx-effects = {
     "0.3.2" = import ./overrides/aiolifx-effects/0.3.2;
+  };
+  aiolifx-themes = {
+    "0.5.5" = import ./overrides/aiolifx-themes/0.5.5;
+  };
+  aiolimiter = {
+    "1.1.0" = import ./overrides/aiolimiter/1.1.0;
   };
   aiolivisi = {
     "0.0.19" = import ./overrides/aiolivisi/0.0.19;
@@ -183,27 +357,39 @@
   aiologger = {
     "0.7.0" = import ./overrides/aiologger/0.7.0;
   };
+  aiolookin = {
+    "1.0.0" = import ./overrides/aiolookin/1.0.0;
+  };
+  aiomcache = {
+    "0.8.2" = import ./overrides/aiomcache/0.8.2;
+  };
+  aiometer = {
+    "0.5.0" = import ./overrides/aiometer/0.5.0;
+  };
   aiomisc-pytest = {
     "1.2.1" = import ./overrides/aiomisc-pytest/1.2.1;
+  };
+  aiomonitor = {
+    "0.7.0" = import ./overrides/aiomonitor/0.7.0;
   };
   aiomqtt = {
     "0.1.3" = import ./overrides/aiomqtt/0.1.3;
     "2.3.0" = import ./overrides/aiomqtt/2.3.0;
   };
-  aioopenexchangerates = {
-    "0.6.2" = import ./overrides/aioopenexchangerates/0.6.2;
+  aiomusiccast = {
+    "0.14.8" = import ./overrides/aiomusiccast/0.14.8;
   };
   aiomysql = {
     "0.2.0" = import ./overrides/aiomysql/0.2.0;
   };
-  aionut = {
-    "4.3.3" = import ./overrides/aionut/4.3.3;
-  };
   aionotion = {
     "2024.3.1" = import ./overrides/aionotion/2024.3.1;
   };
-  aiomusiccast = {
-    "0.14.8" = import ./overrides/aiomusiccast/0.14.8;
+  aionut = {
+    "4.3.3" = import ./overrides/aionut/4.3.3;
+  };
+  aioopenexchangerates = {
+    "0.6.2" = import ./overrides/aioopenexchangerates/0.6.2;
   };
   aiomysensors = {
     "0.3.19" = import ./overrides/aiomysensors/0.3.19;
@@ -217,11 +403,38 @@
   aiooss2 = {
     "0.2.11" = import ./overrides/aiooss2/0.2.11;
   };
+  aiopg = {
+    "1.4.0" = import ./overrides/aiopg/1.4.0;
+  };
+  aioprocessing = {
+    "2.0.1" = import ./overrides/aioprocessing/2.0.1;
+  };
   aiopubsub = {
     "2.1.5" = import ./overrides/aiopubsub/2.1.5;
   };
+  aiopvpc = {
+    "4.3.1" = import ./overrides/aiopvpc/4.3.1;
+  };
+  aiopyarr = {
+    "23.4.0" = import ./overrides/aiopyarr/23.4.0;
+  };
+  aioqsw = {
+    "0.4.1" = import ./overrides/aioqsw/0.4.1;
+  };
+  aioquic-mitmproxy = {
+    "0.9.21.1" = import ./overrides/aioquic-mitmproxy/0.9.21.1;
+  };
+  aioraven = {
+    "0.7.0" = import ./overrides/aioraven/0.7.0;
+  };
   aiorecollect = {
     "2023.12.0" = import ./overrides/aiorecollect/2023.12.0;
+  };
+  aiortm = {
+    "0.8.29" = import ./overrides/aiortm/0.8.29;
+  };
+  aioruuvigateway = {
+    "0.1.0" = import ./overrides/aioruuvigateway/0.1.0;
   };
   aiosasl = {
     "0.5.0" = import ./overrides/aiosasl/0.5.0;
@@ -229,17 +442,44 @@
   aiosenseme = {
     "0.6.1" = import ./overrides/aiosenseme/0.6.1;
   };
+  aiosenz = {
+    "1.0.0" = import ./overrides/aiosenz/1.0.0;
+  };
   aioserial = {
     "1.3.1" = import ./overrides/aioserial/1.3.1;
   };
   aioshelly = {
     "11.4.2" = import ./overrides/aioshelly/11.4.2;
   };
+  aiosignal = {
+    "1.3.1" = import ./overrides/aiosignal/1.3.1;
+  };
+  aiosmtpd = {
+    "1.4.6" = import ./overrides/aiosmtpd/1.4.6;
+  };
+  aiosmtplib = {
+    "3.0.2" = import ./overrides/aiosmtplib/3.0.2;
+  };
   aiosocks = {
     "0.2.6" = import ./overrides/aiosocks/0.2.6;
   };
   aiosonic = {
     "0.21.0" = import ./overrides/aiosonic/0.21.0;
+  };
+  aiosqlite = {
+    "0.20.0" = import ./overrides/aiosqlite/0.20.0;
+  };
+  aiostream = {
+    "0.6.2" = import ./overrides/aiostream/0.6.2;
+  };
+  aiosyncthing = {
+    "0.6.3" = import ./overrides/aiosyncthing/0.6.3;
+  };
+  aiounittest = {
+    "1.4.2" = import ./overrides/aiounittest/1.4.2;
+  };
+  aiovodafone = {
+    "0.6.1" = import ./overrides/aiovodafone/0.6.1;
   };
   aioxmpp = {
     "0.13.3" = import ./overrides/aioxmpp/0.13.3;
@@ -265,6 +505,24 @@
   airtouch4pyapi = {
     "1.0.8" = import ./overrides/airtouch4pyapi/1.0.8;
   };
+  airtouch5py = {
+    "0.2.10" = import ./overrides/airtouch5py/0.2.10;
+  };
+  ajsonrpc = {
+    "1.2.0" = import ./overrides/ajsonrpc/1.2.0;
+  };
+  akismet = {
+    "24.5.1" = import ./overrides/akismet/24.5.1;
+  };
+  alarmdecoder = {
+    "1.13.11" = import ./overrides/alarmdecoder/1.13.11;
+  };
+  aldjemy = {
+    "2.6" = import ./overrides/aldjemy/2.6;
+  };
+  aldryn-apphooks-config = {
+    "0.7.0" = import ./overrides/aldryn-apphooks-config/0.7.0;
+  };
   aldryn-boilerplates = {
     "0.8.0" = import ./overrides/aldryn-boilerplates/0.8.0;
   };
@@ -276,6 +534,12 @@
   };
   aldryn-search = {
     "1.1.0" = import ./overrides/aldryn-search/1.1.0;
+  };
+  aldryn-translation-tools = {
+    "0.3.0" = import ./overrides/aldryn-translation-tools/0.3.0;
+  };
+  alectryon = {
+    "1.4.0" = import ./overrides/alectryon/1.4.0;
   };
   aleksis = {
     "2023.6.1" = import ./overrides/aleksis/2023.6.1;
@@ -299,6 +563,9 @@
   alibabacloud-tea-py2 = {
     "0.1.0" = import ./overrides/alibabacloud-tea-py2/0.1.0;
   };
+  alibi = {
+    "0.9.6" = import ./overrides/alibi/0.9.6;
+  };
   aligo = {
     "6.2.4" = import ./overrides/aligo/6.2.4;
   };
@@ -308,14 +575,29 @@
   aliyun-python-sdk-alidns = {
     "3.0.7" = import ./overrides/aliyun-python-sdk-alidns/3.0.7;
   };
+  aliyun-python-sdk-cdn = {
+    "3.8.8" = import ./overrides/aliyun-python-sdk-cdn/3.8.8;
+  };
   aliyun-python-sdk-core = {
     "2.15.2" = import ./overrides/aliyun-python-sdk-core/2.15.2;
   };
   aliyun-python-sdk-core-v3 = {
     "2.13.33" = import ./overrides/aliyun-python-sdk-core-v3/2.13.33;
   };
+  aliyun-python-sdk-dbfs = {
+    "2.0.7" = import ./overrides/aliyun-python-sdk-dbfs/2.0.7;
+  };
+  aliyun-python-sdk-ecs = {
+    "4.24.74" = import ./overrides/aliyun-python-sdk-ecs/4.24.74;
+  };
+  aliyun-python-sdk-iot = {
+    "8.59.0" = import ./overrides/aliyun-python-sdk-iot/8.59.0;
+  };
   aliyun-python-sdk-r-kvstore = {
     "2.20.13" = import ./overrides/aliyun-python-sdk-r-kvstore/2.20.13;
+  };
+  aliyun-python-sdk-slb = {
+    "3.3.22" = import ./overrides/aliyun-python-sdk-slb/3.3.22;
   };
   allset = {
     "1.0.1" = import ./overrides/allset/1.0.1;
@@ -328,6 +610,15 @@
   };
   altair = {
     "5.4.1" = import ./overrides/altair/5.4.1;
+  };
+  altair-data-server = {
+    "0.4.1" = import ./overrides/altair-data-server/0.4.1;
+  };
+  amazon-braket-schemas = {
+    "1.22.0" = import ./overrides/amazon-braket-schemas/1.22.0;
+  };
+  amazon-braket-sdk = {
+    "1.87.0" = import ./overrides/amazon-braket-sdk/1.87.0;
   };
   amazon-dax-client = {
     "2.0.3" = import ./overrides/amazon-dax-client/2.0.3;
@@ -347,6 +638,9 @@
   };
   amqpstorm = {
     "2.10.8" = import ./overrides/amqpstorm/2.10.8;
+  };
+  amundsen-databuilder = {
+    "7.5.1" = import ./overrides/amundsen-databuilder/7.5.1;
   };
   amundsen-rds = {
     "0.0.8" = import ./overrides/amundsen-rds/0.0.8;
@@ -372,6 +666,9 @@
   angr = {
     "9.2.117" = import ./overrides/angr/9.2.117;
     "9.2.120" = import ./overrides/angr/9.2.120;
+  };
+  angrop = {
+    "9.2.10" = import ./overrides/angrop/9.2.10;
   };
   aniso8601 = {
     "9.0.1" = import ./overrides/aniso8601/9.0.1;
@@ -402,6 +699,15 @@
   };
   ansible-compat = {
     "24.9.0" = import ./overrides/ansible-compat/24.9.0;
+  };
+  ansible-core = {
+    "2.17.4" = import ./overrides/ansible-core/2.17.4;
+  };
+  ansible-doctor = {
+    "6.0.2" = import ./overrides/ansible-doctor/6.0.2;
+  };
+  ansicolors = {
+    "1.1.8" = import ./overrides/ansicolors/1.1.8;
   };
   ansiconv = {
     "1.0.0" = import ./overrides/ansiconv/1.0.0;
@@ -440,8 +746,14 @@
   anyascii = {
     "0.3.2" = import ./overrides/anyascii/0.3.2;
   };
+  anybadge = {
+    "1.14.0" = import ./overrides/anybadge/1.14.0;
+  };
   anyconfig = {
     "0.14.0" = import ./overrides/anyconfig/0.14.0;
+  };
+  anysqlite = {
+    "0.0.5" = import ./overrides/anysqlite/0.0.5;
   };
   aocd-example-parser = {
     "2023.12.17" = import ./overrides/aocd-example-parser/2023.12.17;
@@ -452,8 +764,14 @@
   apache-airflow-providers-common-sql = {
     "1.16.0" = import ./overrides/apache-airflow-providers-common-sql/1.16.0;
   };
+  apache-airflow-providers-ftp = {
+    "3.11.0" = import ./overrides/apache-airflow-providers-ftp/3.11.0;
+  };
   apache-airflow-providers-google = {
     "10.22.0" = import ./overrides/apache-airflow-providers-google/10.22.0;
+  };
+  apache-airflow-providers-sqlite = {
+    "3.9.0" = import ./overrides/apache-airflow-providers-sqlite/3.9.0;
   };
   apache-airflow-providers-ssh = {
     "3.13.1" = import ./overrides/apache-airflow-providers-ssh/3.13.1;
@@ -491,6 +809,18 @@
   apiclient = {
     "1.0.4" = import ./overrides/apiclient/1.0.4;
   };
+  apipkg = {
+    "3.0.2" = import ./overrides/apipkg/3.0.2;
+  };
+  apiron = {
+    "8.0.0" = import ./overrides/apiron/8.0.0;
+  };
+  apis-core = {
+    "0.18.14" = import ./overrides/apis-core/0.18.14;
+  };
+  apischema = {
+    "0.18.1" = import ./overrides/apischema/0.18.1;
+  };
   apispec = {
     "6.6.1" = import ./overrides/apispec/6.6.1;
   };
@@ -506,8 +836,20 @@
   aplpy = {
     "2.1.0" = import ./overrides/aplpy/2.1.0;
   };
+  apng = {
+    "0.3.4" = import ./overrides/apng/0.3.4;
+  };
+  apns2 = {
+    "0.7.2" = import ./overrides/apns2/0.7.2;
+  };
   app = {
     "0.1.0" = import ./overrides/app/0.1.0;
+  };
+  appdaemon = {
+    "4.4.2" = import ./overrides/appdaemon/4.4.2;
+  };
+  appdata = {
+    "2.2.1" = import ./overrides/appdata/2.2.1;
   };
   appier = {
     "1.34.4" = import ./overrides/appier/1.34.4;
@@ -518,12 +860,27 @@
   applescript = {
     "2021.2.9" = import ./overrides/applescript/2021.2.9;
   };
+  applicationinsights = {
+    "0.11.10" = import ./overrides/applicationinsights/0.11.10;
+  };
   appnope = {
     "0.1.4" = import ./overrides/appnope/0.1.4;
+  };
+  apprise = {
+    "1.9.0" = import ./overrides/apprise/1.9.0;
+  };
+  appthreat-vulnerability-db = {
+    "6.0.14" = import ./overrides/appthreat-vulnerability-db/6.0.14;
+  };
+  apptools = {
+    "5.3.0" = import ./overrides/apptools/5.3.0;
   };
   appy = {
     "1.0.17" = import ./overrides/appy/1.0.17;
     "1.0.18" = import ./overrides/appy/1.0.18;
+  };
+  apricot-select = {
+    "0.6.1" = import ./overrides/apricot-select/0.6.1;
   };
   aprslib = {
     "0.7.2" = import ./overrides/aprslib/0.7.2;
@@ -539,6 +896,9 @@
   };
   arc4 = {
     "0.4.0" = import ./overrides/arc4/0.4.0;
+  };
+  arcam-fmj = {
+    "1.5.2" = import ./overrides/arcam-fmj/1.5.2;
   };
   arcane-datastore = {
     "1.1.7" = import ./overrides/arcane-datastore/1.1.7;
@@ -558,11 +918,17 @@
   archinfo = {
     "9.2.117" = import ./overrides/archinfo/9.2.117;
   };
+  archspec = {
+    "0.2.4" = import ./overrides/archspec/0.2.4;
+  };
   arcor2 = {
     "1.4.0" = import ./overrides/arcor2/1.4.0;
   };
   arcp = {
     "0.2.1" = import ./overrides/arcp/0.2.1;
+  };
+  area = {
+    "1.1.1" = import ./overrides/area/1.1.1;
   };
   arelle = {
     "2.2" = import ./overrides/arelle/2.2;
@@ -582,6 +948,9 @@
   argh = {
     "0.31.3" = import ./overrides/argh/0.31.3;
   };
+  argo-workflows = {
+    "6.5.10" = import ./overrides/argo-workflows/6.5.10;
+  };
   argon2 = {
     "0.1.10" = import ./overrides/argon2/0.1.10;
   };
@@ -591,6 +960,15 @@
   };
   argon2-cffi-bindings = {
     "21.2.0" = import ./overrides/argon2-cffi-bindings/21.2.0;
+  };
+  argopt = {
+    "0.8.2" = import ./overrides/argopt/0.8.2;
+  };
+  argparse = {
+    "1.4.0" = import ./overrides/argparse/1.4.0;
+  };
+  argparse-dataclass = {
+    "2.0.0" = import ./overrides/argparse-dataclass/2.0.0;
   };
   argparse-manpage = {
     "4.6" = import ./overrides/argparse-manpage/4.6;
@@ -634,6 +1012,9 @@
   arrayterator = {
     "1.0.1" = import ./overrides/arrayterator/1.0.1;
   };
+  arsenic = {
+    "21.8" = import ./overrides/arsenic/21.8;
+  };
   art = {
     "6.2" = import ./overrides/art/6.2;
   };
@@ -655,6 +1036,9 @@
   ascii-graph = {
     "1.5.1" = import ./overrides/ascii-graph/1.5.1;
   };
+  ascii-magic = {
+    "2.3.0" = import ./overrides/ascii-magic/2.3.0;
+  };
   asciinema = {
     "2.4.0" = import ./overrides/asciinema/2.4.0;
   };
@@ -664,9 +1048,33 @@
   asdf = {
     "3.4.0" = import ./overrides/asdf/3.4.0;
   };
+  asgi-csrf = {
+    "0.10" = import ./overrides/asgi-csrf/0.10;
+  };
+  asgi-lifespan = {
+    "2.1.0" = import ./overrides/asgi-lifespan/2.1.0;
+  };
+  asgineer = {
+    "0.8.2" = import ./overrides/asgineer/0.8.2;
+  };
+  asgiref = {
+    "3.8.1" = import ./overrides/asgiref/3.8.1;
+  };
+  ashes = {
+    "24.0.0" = import ./overrides/ashes/24.0.0;
+  };
   asks = {
     "2.4.12" = import ./overrides/asks/2.4.12;
     "3.0.0" = import ./overrides/asks/3.0.0;
+  };
+  aslabs-dependencies = {
+    "0.0.3" = import ./overrides/aslabs-dependencies/0.0.3;
+  };
+  asmog = {
+    "0.0.6" = import ./overrides/asmog/0.0.6;
+  };
+  asn1 = {
+    "2.7.1" = import ./overrides/asn1/2.7.1;
   };
   asn1crypto = {
     "1.5.1" = import ./overrides/asn1crypto/1.5.1;
@@ -674,8 +1082,14 @@
   asn1tools = {
     "0.167.0" = import ./overrides/asn1tools/0.167.0;
   };
+  asposestoragecloud = {
+    "1.0.6" = import ./overrides/asposestoragecloud/1.0.6;
+  };
   asq = {
     "2.0.0" = import ./overrides/asq/2.0.0;
+  };
+  asreview = {
+    "1.6.3" = import ./overrides/asreview/1.6.3;
   };
   assertpy = {
     "1.1" = import ./overrides/assertpy/1.1;
@@ -722,6 +1136,21 @@
   async-cache = {
     "1.1.1" = import ./overrides/async-cache/1.1.1;
   };
+  async-exit-stack = {
+    "1.0.1" = import ./overrides/async-exit-stack/1.0.1;
+  };
+  async-interrupt = {
+    "1.2.0" = import ./overrides/async-interrupt/1.2.0;
+  };
+  async-lru = {
+    "2.0.4" = import ./overrides/async-lru/2.0.4;
+  };
+  async-property = {
+    "0.2.2" = import ./overrides/async-property/0.2.2;
+  };
+  async-retriever = {
+    "0.17.0" = import ./overrides/async-retriever/0.17.0;
+  };
   async-stagger = {
     "0.4.0.post1" = import ./overrides/async-stagger/0.4.0.post1;
   };
@@ -736,6 +1165,9 @@
   };
   asynccmd = {
     "0.2.4" = import ./overrides/asynccmd/0.2.4;
+  };
+  asyncinit = {
+    "0.2.4" = import ./overrides/asyncinit/0.2.4;
   };
   asyncinotify = {
     "4.0.9" = import ./overrides/asyncinotify/4.0.9;
@@ -755,14 +1187,44 @@
   asyncio-redis = {
     "0.16.0" = import ./overrides/asyncio-redis/0.16.0;
   };
+  asyncio-throttle = {
+    "1.0.2" = import ./overrides/asyncio-throttle/1.0.2;
+  };
   asyncmy = {
     "0.2.9" = import ./overrides/asyncmy/0.2.9;
   };
   asyncpgsa = {
     "0.27.1" = import ./overrides/asyncpgsa/0.27.1;
   };
+  asyncpraw = {
+    "7.7.1" = import ./overrides/asyncpraw/7.7.1;
+  };
+  asyncserial = {
+    "0.1.0" = import ./overrides/asyncserial/0.1.0;
+  };
+  asyncsleepiq = {
+    "1.5.3" = import ./overrides/asyncsleepiq/1.5.3;
+  };
+  asynctest = {
+    "0.13.0" = import ./overrides/asynctest/0.13.0;
+  };
+  asyncua = {
+    "1.1.5" = import ./overrides/asyncua/1.1.5;
+  };
+  asyncwebsockets = {
+    "0.9.4" = import ./overrides/asyncwebsockets/0.9.4;
+  };
+  asyncwhois = {
+    "1.1.4" = import ./overrides/asyncwhois/1.1.4;
+  };
   atari-py = {
     "0.2.9" = import ./overrides/atari-py/0.2.9;
+  };
+  atc-ble = {
+    "0.1.0" = import ./overrides/atc-ble/0.1.0;
+  };
+  atoma = {
+    "0.0.17" = import ./overrides/atoma/0.0.17;
   };
   atomic = {
     "0.7.3" = import ./overrides/atomic/0.7.3;
@@ -776,8 +1238,23 @@
   atomman = {
     "1.4.11" = import ./overrides/atomman/1.4.11;
   };
+  attr = {
+    "0.3.2" = import ./overrides/attr/0.3.2;
+  };
+  attrdict = {
+    "2.0.1" = import ./overrides/attrdict/2.0.1;
+  };
+  attrdict3 = {
+    "2.0.2" = import ./overrides/attrdict3/2.0.2;
+  };
   atyp = {
     "0.0.62" = import ./overrides/atyp/0.0.62;
+  };
+  audible = {
+    "0.9.1" = import ./overrides/audible/0.9.1;
+  };
+  auditwheel = {
+    "6.1.0" = import ./overrides/auditwheel/6.1.0;
   };
   auroranoaa = {
     "0.0.3" = import ./overrides/auroranoaa/0.0.3;
@@ -787,6 +1264,9 @@
   };
   auth0-python = {
     "4.7.1" = import ./overrides/auth0-python/4.7.1;
+  };
+  authc = {
+    "0.3.2" = import ./overrides/authc/0.3.2;
   };
   authheaders = {
     "0.16.3" = import ./overrides/authheaders/0.16.3;
@@ -815,6 +1295,9 @@
   autodoc = {
     "0.5.0" = import ./overrides/autodoc/0.5.0;
   };
+  autoflake = {
+    "2.3.1" = import ./overrides/autoflake/2.3.1;
+  };
   autograd = {
     "1.7.0" = import ./overrides/autograd/1.7.0;
   };
@@ -830,11 +1313,23 @@
   automat = {
     "22.10.0" = import ./overrides/automat/22.10.0;
   };
+  automata-lib = {
+    "8.4.0" = import ./overrides/automata-lib/8.4.0;
+  };
+  automate-home = {
+    "0.9.1" = import ./overrides/automate-home/0.9.1;
+  };
+  automx2 = {
+    "2024.2" = import ./overrides/automx2/2024.2;
+  };
   autopage = {
     "0.5.2" = import ./overrides/autopage/0.5.2;
   };
   autopaths = {
     "1.6.0" = import ./overrides/autopaths/1.6.0;
+  };
+  autoprop = {
+    "4.1.0" = import ./overrides/autoprop/4.1.0;
   };
   autoray = {
     "0.6.12" = import ./overrides/autoray/0.6.12;
@@ -877,14 +1372,17 @@
     "1.10.5" = import ./overrides/awkward/1.10.5;
     "2.6.7" = import ./overrides/awkward/2.6.7;
   };
-  aws-adfs = {
-    "2.11.2" = import ./overrides/aws-adfs/2.11.2;
-  };
   awkward0 = {
     "0.15.5" = import ./overrides/awkward0/0.15.5;
   };
+  aws-adfs = {
+    "2.11.2" = import ./overrides/aws-adfs/2.11.2;
+  };
   aws-cdk-constructs = {
     "2.32.0.post0" = import ./overrides/aws-cdk-constructs/2.32.0.post0;
+  };
+  aws-lambda-builders = {
+    "1.50.0" = import ./overrides/aws-lambda-builders/1.50.0;
   };
   aws-lambda-context = {
     "1.1.0" = import ./overrides/aws-lambda-context/1.1.0;
@@ -892,8 +1390,20 @@
   aws-psycopg2 = {
     "1.3.8" = import ./overrides/aws-psycopg2/1.3.8;
   };
+  aws-s3-resource = {
+    "0.0.15" = import ./overrides/aws-s3-resource/0.0.15;
+  };
+  aws-sam-cli = {
+    "1.123.0" = import ./overrides/aws-sam-cli/1.123.0;
+  };
   aws-secretsmanager-caching = {
     "1.1.3" = import ./overrides/aws-secretsmanager-caching/1.1.3;
+  };
+  aws-xray-sdk = {
+    "2.14.0" = import ./overrides/aws-xray-sdk/2.14.0;
+  };
+  awscli = {
+    "1.34.16" = import ./overrides/awscli/1.34.16;
   };
   awscli-cwlogs = {
     "1.4.6" = import ./overrides/awscli-cwlogs/1.4.6;
@@ -910,11 +1420,149 @@
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
   };
+  axisregistry = {
+    "0.4.11" = import ./overrides/axisregistry/0.4.11;
+  };
+  azure-appconfiguration = {
+    "1.7.1" = import ./overrides/azure-appconfiguration/1.7.1;
+  };
+  azure-applicationinsights = {
+    "0.1.1" = import ./overrides/azure-applicationinsights/0.1.1;
+  };
+  azure-cli-nspkg = {
+    "3.0.4" = import ./overrides/azure-cli-nspkg/3.0.4;
+  };
   azure-cli-telemetry = {
     "1.1.0" = import ./overrides/azure-cli-telemetry/1.1.0;
   };
   azure-cognitiveservices-speech = {
     "1.40.0" = import ./overrides/azure-cognitiveservices-speech/1.40.0;
+  };
+  azure-containerregistry = {
+    "1.2.0" = import ./overrides/azure-containerregistry/1.2.0;
+  };
+  azure-cosmos = {
+    "4.7.0" = import ./overrides/azure-cosmos/4.7.0;
+  };
+  azure-cosmosdb-nspkg = {
+    "2.0.2" = import ./overrides/azure-cosmosdb-nspkg/2.0.2;
+  };
+  azure-data-tables = {
+    "12.5.0" = import ./overrides/azure-data-tables/12.5.0;
+  };
+  azure-functions = {
+    "1.20.0" = import ./overrides/azure-functions/1.20.0;
+  };
+  azure-keyvault-administration = {
+    "4.4.0" = import ./overrides/azure-keyvault-administration/4.4.0;
+  };
+  azure-mgmt-appconfiguration = {
+    "3.0.0" = import ./overrides/azure-mgmt-appconfiguration/3.0.0;
+  };
+  azure-mgmt-appcontainers = {
+    "3.1.0" = import ./overrides/azure-mgmt-appcontainers/3.1.0;
+  };
+  azure-mgmt-batchai = {
+    "2.0.0" = import ./overrides/azure-mgmt-batchai/2.0.0;
+  };
+  azure-mgmt-billing = {
+    "7.0.0" = import ./overrides/azure-mgmt-billing/7.0.0;
+  };
+  azure-mgmt-cognitiveservices = {
+    "13.5.0" = import ./overrides/azure-mgmt-cognitiveservices/13.5.0;
+  };
+  azure-mgmt-consumption = {
+    "10.0.0" = import ./overrides/azure-mgmt-consumption/10.0.0;
+  };
+  azure-mgmt-containerregistry = {
+    "10.3.0" = import ./overrides/azure-mgmt-containerregistry/10.3.0;
+  };
+  azure-mgmt-datalake-store = {
+    "0.5.0" = import ./overrides/azure-mgmt-datalake-store/0.5.0;
+  };
+  azure-mgmt-devspaces = {
+    "0.2.0" = import ./overrides/azure-mgmt-devspaces/0.2.0;
+  };
+  azure-mgmt-dns = {
+    "8.1.0" = import ./overrides/azure-mgmt-dns/8.1.0;
+  };
+  azure-mgmt-extendedlocation = {
+    "1.1.0" = import ./overrides/azure-mgmt-extendedlocation/1.1.0;
+  };
+  azure-mgmt-hdinsight = {
+    "9.0.0" = import ./overrides/azure-mgmt-hdinsight/9.0.0;
+  };
+  azure-mgmt-iotcentral = {
+    "9.0.0" = import ./overrides/azure-mgmt-iotcentral/9.0.0;
+  };
+  azure-mgmt-keyvault = {
+    "10.3.1" = import ./overrides/azure-mgmt-keyvault/10.3.1;
+  };
+  azure-mgmt-managementpartner = {
+    "1.0.0" = import ./overrides/azure-mgmt-managementpartner/1.0.0;
+  };
+  azure-mgmt-monitor = {
+    "6.0.2" = import ./overrides/azure-mgmt-monitor/6.0.2;
+  };
+  azure-mgmt-network = {
+    "26.0.0" = import ./overrides/azure-mgmt-network/26.0.0;
+  };
+  azure-mgmt-notificationhubs = {
+    "8.0.0" = import ./overrides/azure-mgmt-notificationhubs/8.0.0;
+  };
+  azure-mgmt-powerbiembedded = {
+    "3.0.0" = import ./overrides/azure-mgmt-powerbiembedded/3.0.0;
+  };
+  azure-mgmt-privatedns = {
+    "1.1.0" = import ./overrides/azure-mgmt-privatedns/1.1.0;
+  };
+  azure-mgmt-rdbms = {
+    "10.1.0" = import ./overrides/azure-mgmt-rdbms/10.1.0;
+  };
+  azure-mgmt-recoveryservicesbackup = {
+    "9.1.0" = import ./overrides/azure-mgmt-recoveryservicesbackup/9.1.0;
+  };
+  azure-mgmt-redhatopenshift = {
+    "1.5.0" = import ./overrides/azure-mgmt-redhatopenshift/1.5.0;
+  };
+  azure-mgmt-reservations = {
+    "2.3.0" = import ./overrides/azure-mgmt-reservations/2.3.0;
+  };
+  azure-mgmt-servicefabric = {
+    "2.1.0" = import ./overrides/azure-mgmt-servicefabric/2.1.0;
+  };
+  azure-mgmt-servicefabricmanagedclusters = {
+    "2.0.0" = import ./overrides/azure-mgmt-servicefabricmanagedclusters/2.0.0;
+  };
+  azure-mgmt-storage = {
+    "21.2.1" = import ./overrides/azure-mgmt-storage/21.2.1;
+  };
+  azure-mgmt-synapse = {
+    "2.0.0" = import ./overrides/azure-mgmt-synapse/2.0.0;
+  };
+  azure-servicebus = {
+    "7.12.2" = import ./overrides/azure-servicebus/7.12.2;
+  };
+  azure-servicemanagement-legacy = {
+    "0.20.7" = import ./overrides/azure-servicemanagement-legacy/0.20.7;
+  };
+  azure-storage-blob = {
+    "12.22.0" = import ./overrides/azure-storage-blob/12.22.0;
+  };
+  azure-storage-common = {
+    "2.1.0" = import ./overrides/azure-storage-common/2.1.0;
+  };
+  azure-storage-file-datalake = {
+    "12.16.0" = import ./overrides/azure-storage-file-datalake/12.16.0;
+  };
+  azure-storage-file-share = {
+    "12.17.0" = import ./overrides/azure-storage-file-share/12.17.0;
+  };
+  azure-storage-nspkg = {
+    "3.1.0" = import ./overrides/azure-storage-nspkg/3.1.0;
+  };
+  azure-storage-queue = {
+    "12.11.0" = import ./overrides/azure-storage-queue/12.11.0;
   };
   azure-synapse-accesscontrol = {
     "0.7.0" = import ./overrides/azure-synapse-accesscontrol/0.7.0;
@@ -924,6 +1572,9 @@
   };
   azureml-train-automl-client = {
     "1.57.0" = import ./overrides/azureml-train-automl-client/1.57.0;
+  };
+  b-twilio-sdk-layer = {
+    "1.0.1" = import ./overrides/b-twilio-sdk-layer/1.0.1;
   };
   babelfish = {
     "0.6.1" = import ./overrides/babelfish/0.6.1;
@@ -958,6 +1609,9 @@
   backports-zoneinfo = {
     "0.2.1" = import ./overrides/backports-zoneinfo/0.2.1;
   };
+  backstage = {
+    "0.0.22" = import ./overrides/backstage/0.0.22;
+  };
   backwork = {
     "0.3.1" = import ./overrides/backwork/0.3.1;
   };
@@ -987,6 +1641,9 @@
   };
   base32hex = {
     "1.0.2" = import ./overrides/base32hex/1.0.2;
+  };
+  base58check = {
+    "1.0.2" = import ./overrides/base58check/1.0.2;
   };
   basepy = {
     "0.5" = import ./overrides/basepy/0.5;
@@ -1048,6 +1705,15 @@
   bbox = {
     "0.9.4" = import ./overrides/bbox/0.9.4;
   };
+  bc-detect-secrets = {
+    "1.5.16" = import ./overrides/bc-detect-secrets/1.5.16;
+  };
+  bc-python-hcl2 = {
+    "0.4.2" = import ./overrides/bc-python-hcl2/0.4.2;
+  };
+  bcbio-gff = {
+    "0.7.1" = import ./overrides/bcbio-gff/0.7.1;
+  };
   bcf = {
     "1.9.0" = import ./overrides/bcf/1.9.0;
   };
@@ -1056,6 +1722,12 @@
   };
   bch = {
     "1.2.1" = import ./overrides/bch/1.2.1;
+  };
+  bd2k-python-lib = {
+    "1.14a1.dev48" = import ./overrides/bd2k-python-lib/1.14a1.dev48;
+  };
+  bdbag = {
+    "1.7.3" = import ./overrides/bdbag/1.7.3;
   };
   bdffont = {
     "0.0.26" = import ./overrides/bdffont/0.0.26;
@@ -1066,8 +1738,20 @@
   beanbag = {
     "1.9.2" = import ./overrides/beanbag/1.9.2;
   };
+  beancount-docverif = {
+    "1.0.1" = import ./overrides/beancount-docverif/1.0.1;
+  };
+  beanhub-cli = {
+    "1.4.0" = import ./overrides/beanhub-cli/1.4.0;
+  };
+  beanhub-extract = {
+    "0.1.5" = import ./overrides/beanhub-extract/0.1.5;
+  };
   beanhub-import = {
     "1.0.1" = import ./overrides/beanhub-import/1.0.1;
+  };
+  beanie = {
+    "1.26.0" = import ./overrides/beanie/1.26.0;
   };
   beatbox = {
     "32.1" = import ./overrides/beatbox/32.1;
@@ -1105,6 +1789,9 @@
   bert4keras = {
     "0.11.5" = import ./overrides/bert4keras/0.11.5;
   };
+  bertopic = {
+    "0.16.3" = import ./overrides/bertopic/0.16.3;
+  };
   bespon = {
     "0.7.0" = import ./overrides/bespon/0.7.0;
   };
@@ -1131,6 +1818,18 @@
   };
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
+  };
+  bidict = {
+    "0.23.1" = import ./overrides/bidict/0.23.1;
+  };
+  bids-validator = {
+    "1.14.7.post0" = import ./overrides/bids-validator/1.14.7.post0;
+  };
+  bigchaindb-abci = {
+    "1.0.7" = import ./overrides/bigchaindb-abci/1.0.7;
+  };
+  bilby = {
+    "2.3.0" = import ./overrides/bilby/2.3.0;
   };
   biliass = {
     "1.3.13" = import ./overrides/biliass/1.3.13;
@@ -1160,14 +1859,29 @@
   biom-format = {
     "2.1.16" = import ./overrides/biom-format/2.1.16;
   };
+  biomart = {
+    "0.9.2" = import ./overrides/biomart/0.9.2;
+  };
+  bionumpy = {
+    "1.0.12" = import ./overrides/bionumpy/1.0.12;
+  };
   biopython = {
     "1.84" = import ./overrides/biopython/1.84;
+  };
+  bioregistry = {
+    "0.11.17" = import ./overrides/bioregistry/0.11.17;
   };
   bioservices = {
     "1.11.2" = import ./overrides/bioservices/1.11.2;
   };
+  biosteam = {
+    "2.45.0" = import ./overrides/biosteam/2.45.0;
+  };
   bip32 = {
     "4.0" = import ./overrides/bip32/4.0;
+  };
+  bip32utils = {
+    "0.3.post4" = import ./overrides/bip32utils/0.3.post4;
   };
   biplist = {
     "1.0.3" = import ./overrides/biplist/1.0.3;
@@ -1190,6 +1904,9 @@
   bit = {
     "0.8.0" = import ./overrides/bit/0.8.0;
   };
+  bitarray-hardbyte = {
+    "2.3.8" = import ./overrides/bitarray-hardbyte/2.3.8;
+  };
   bitbucket-api = {
     "0.5.0" = import ./overrides/bitbucket-api/0.5.0;
   };
@@ -1198,6 +1915,9 @@
   };
   bitcoinlib = {
     "0.6.15" = import ./overrides/bitcoinlib/0.6.15;
+  };
+  bitcoinrpc = {
+    "0.7.0" = import ./overrides/bitcoinrpc/0.7.0;
   };
   bitmath = {
     "1.3.3.1" = import ./overrides/bitmath/1.3.3.1;
@@ -1235,8 +1955,20 @@
   blackduck = {
     "1.1.3" = import ./overrides/blackduck/1.1.3;
   };
+  blacken-docs = {
+    "1.18.0" = import ./overrides/blacken-docs/1.18.0;
+  };
+  blackjax = {
+    "1.2.3" = import ./overrides/blackjax/1.2.3;
+  };
+  blacksheep = {
+    "2.0.7" = import ./overrides/blacksheep/2.0.7;
+  };
   blaze = {
     "0.10.1" = import ./overrides/blaze/0.10.1;
+  };
+  bleach = {
+    "6.1.0" = import ./overrides/bleach/6.1.0;
   };
   bleach-allowlist = {
     "1.0.3" = import ./overrides/bleach-allowlist/1.0.3;
@@ -1246,6 +1978,15 @@
   };
   bleak-esphome = {
     "1.0.0" = import ./overrides/bleak-esphome/1.0.0;
+  };
+  blee-icmplayer = {
+    "0.5" = import ./overrides/blee-icmplayer/0.5;
+  };
+  bless = {
+    "0.2.6" = import ./overrides/bless/0.2.6;
+  };
+  blessed = {
+    "1.20.0" = import ./overrides/blessed/1.20.0;
   };
   blindspin = {
     "2.0.1" = import ./overrides/blindspin/2.0.1;
@@ -1263,6 +2004,9 @@
   blist = {
     "1.3.6" = import ./overrides/blist/1.3.6;
   };
+  blobfile = {
+    "3.0.0" = import ./overrides/blobfile/3.0.0;
+  };
   block-io = {
     "2.0.6" = import ./overrides/block-io/2.0.6;
   };
@@ -1272,8 +2016,23 @@
   blockchain-etl-common = {
     "1.7.1" = import ./overrides/blockchain-etl-common/1.7.1;
   };
+  blockcypher = {
+    "1.0.93" = import ./overrides/blockcypher/1.0.93;
+  };
   blockdiag = {
     "3.0.0" = import ./overrides/blockdiag/3.0.0;
+  };
+  blockstack-client = {
+    "0.14.0.12" = import ./overrides/blockstack-client/0.14.0.12;
+  };
+  blockstack-profiles = {
+    "0.14.1" = import ./overrides/blockstack-profiles/0.14.1;
+  };
+  blockstack-zones = {
+    "0.19.0.0" = import ./overrides/blockstack-zones/0.19.0.0;
+  };
+  bloom-filter = {
+    "1.3.3" = import ./overrides/bloom-filter/1.3.3;
   };
   blosc2 = {
     "2.0.0" = import ./overrides/blosc2/2.0.0;
@@ -1288,6 +2047,18 @@
   bluepy = {
     "1.3.0" = import ./overrides/bluepy/1.3.0;
   };
+  bluepyopt = {
+    "1.14.15" = import ./overrides/bluepyopt/1.14.15;
+  };
+  blueqat = {
+    "2.0.4" = import ./overrides/blueqat/2.0.4;
+  };
+  bluetooth-adapters = {
+    "0.19.4" = import ./overrides/bluetooth-adapters/0.19.4;
+  };
+  bluetooth-auto-recovery = {
+    "1.4.2" = import ./overrides/bluetooth-auto-recovery/1.4.2;
+  };
   blurhash = {
     "1.1.4" = import ./overrides/blurhash/1.1.4;
   };
@@ -1300,14 +2071,47 @@
   bnunicodenormalizer = {
     "0.1.7" = import ./overrides/bnunicodenormalizer/0.1.7;
   };
+  bob = {
+    "12.1.1" = import ./overrides/bob/12.1.1;
+  };
+  boilerpy3 = {
+    "1.0.7" = import ./overrides/boilerpy3/1.0.7;
+  };
+  bokkichat = {
+    "0.4.5" = import ./overrides/bokkichat/0.4.5;
+  };
   bolt-python = {
     "0.7.1" = import ./overrides/bolt-python/0.7.1;
+  };
+  bolt11 = {
+    "2.1.0" = import ./overrides/bolt11/2.1.0;
   };
   bolton-clack = {
     "0.3.12" = import ./overrides/bolton-clack/0.3.12;
   };
+  bolton-typist = {
+    "0.2.0" = import ./overrides/bolton-typist/0.2.0;
+  };
+  boltons = {
+    "24.0.0" = import ./overrides/boltons/24.0.0;
+  };
+  bond-api = {
+    "0.1.18" = import ./overrides/bond-api/0.1.18;
+  };
+  bond-async = {
+    "0.2.1" = import ./overrides/bond-async/0.2.1;
+  };
   bonsai = {
     "1.5.3" = import ./overrides/bonsai/1.5.3;
+  };
+  borsh-construct = {
+    "0.1.0" = import ./overrides/borsh-construct/0.1.0;
+  };
+  boschshcpy = {
+    "0.2.92" = import ./overrides/boschshcpy/0.2.92;
+  };
+  botlib = {
+    "0.0.0" = import ./overrides/botlib/0.0.0;
   };
   boto = {
     "2.49.0" = import ./overrides/boto/2.49.0;
@@ -1317,6 +2121,12 @@
   };
   botocore = {
     "1.35.16" = import ./overrides/botocore/1.35.16;
+  };
+  botocore-stubs = {
+    "1.35.16" = import ./overrides/botocore-stubs/1.35.16;
+  };
+  botok = {
+    "0.8.12" = import ./overrides/botok/0.8.12;
   };
   bottle-utils-common = {
     "0.3.2" = import ./overrides/bottle-utils-common/0.3.2;
@@ -1357,14 +2167,26 @@
   breezy = {
     "3.3.8" = import ./overrides/breezy/3.3.8;
   };
+  brewer2mpl = {
+    "1.4.1" = import ./overrides/brewer2mpl/1.4.1;
+  };
   briefcase = {
     "0.3.19" = import ./overrides/briefcase/0.3.19;
   };
   brightway2 = {
     "2.4.6" = import ./overrides/brightway2/2.4.6;
   };
+  bring-api = {
+    "0.8.1" = import ./overrides/bring-api/0.8.1;
+  };
+  broadlink = {
+    "0.19.0" = import ./overrides/broadlink/0.19.0;
+  };
   brother = {
     "4.3.0" = import ./overrides/brother/4.3.0;
+  };
+  brotli-asgi = {
+    "1.4.0" = import ./overrides/brotli-asgi/1.4.0;
   };
   brownie = {
     "0.5.1" = import ./overrides/brownie/0.5.1;
@@ -1377,6 +2199,9 @@
   };
   brunns-row = {
     "2.1.0" = import ./overrides/brunns-row/2.1.0;
+  };
+  brython = {
+    "3.12.4" = import ./overrides/brython/3.12.4;
   };
   bs4 = {
     "0.0.1" = import ./overrides/bs4/0.0.1;
@@ -1408,8 +2233,44 @@
   btrfs = {
     "14.1" = import ./overrides/btrfs/14.1;
   };
+  btsmarthub-devicelist = {
+    "0.2.3" = import ./overrides/btsmarthub-devicelist/0.2.3;
+  };
+  btsocket = {
+    "0.3.0" = import ./overrides/btsocket/0.3.0;
+  };
+  bucketstore = {
+    "0.3.0" = import ./overrides/bucketstore/0.3.0;
+  };
+  bugout = {
+    "0.2.17" = import ./overrides/bugout/0.2.17;
+  };
+  bugwarrior = {
+    "1.8.0" = import ./overrides/bugwarrior/1.8.0;
+  };
+  buienradar = {
+    "1.0.6" = import ./overrides/buienradar/1.0.6;
+  };
+  buildbot = {
+    "4.0.2" = import ./overrides/buildbot/4.0.2;
+  };
   buildbot-pkg = {
     "4.0.2" = import ./overrides/buildbot-pkg/4.0.2;
+  };
+  builddsl = {
+    "1.0.1" = import ./overrides/builddsl/1.0.1;
+  };
+  buildpg = {
+    "0.4" = import ./overrides/buildpg/0.4;
+  };
+  bullet = {
+    "2.2.0" = import ./overrides/bullet/2.2.0;
+  };
+  bumpversion = {
+    "0.6.0" = import ./overrides/bumpversion/0.6.0;
+  };
+  bundlewrap-pass = {
+    "1.0.2" = import ./overrides/bundlewrap-pass/1.0.2;
   };
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
@@ -1444,8 +2305,17 @@
   cached-ipaddress = {
     "0.5.0" = import ./overrides/cached-ipaddress/0.5.0;
   };
+  cached-property = {
+    "1.5.2" = import ./overrides/cached-property/1.5.2;
+  };
+  cachelib = {
+    "0.13.0" = import ./overrides/cachelib/0.13.0;
+  };
   cachier = {
     "3.0.1" = import ./overrides/cachier/3.0.1;
+  };
+  cachy = {
+    "0.3.0" = import ./overrides/cachy/0.3.0;
   };
   caep = {
     "1.1.0" = import ./overrides/caep/1.1.0;
@@ -1487,6 +2357,9 @@
   canopen = {
     "2.3.0" = import ./overrides/canopen/2.3.0;
   };
+  canvasapi = {
+    "3.3.0" = import ./overrides/canvasapi/3.3.0;
+  };
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
@@ -1511,11 +2384,26 @@
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
+  case-converter = {
+    "1.1.0" = import ./overrides/case-converter/1.1.0;
+  };
+  case-insensitive-dictionary = {
+    "0.2.1" = import ./overrides/case-insensitive-dictionary/0.2.1;
+  };
   casefy = {
     "0.1.7" = import ./overrides/casefy/0.1.7;
   };
   cashaddress = {
     "1.0.6" = import ./overrides/cashaddress/1.0.6;
+  };
+  cassiopeia = {
+    "5.1.3" = import ./overrides/cassiopeia/5.1.3;
+  };
+  category-encoders = {
+    "2.6.3" = import ./overrides/category-encoders/2.6.3;
+  };
+  catkin-pkg = {
+    "1.0.0" = import ./overrides/catkin-pkg/1.0.0;
   };
   cattrs = {
     "24.1.0" = import ./overrides/cattrs/24.1.0;
@@ -1541,14 +2429,29 @@
   cbra = {
     "1.1.10" = import ./overrides/cbra/1.1.10;
   };
+  cc-connector-cli = {
+    "0.3" = import ./overrides/cc-connector-cli/0.3;
+  };
+  ccalogging = {
+    "0.5.3" = import ./overrides/ccalogging/0.5.3;
+  };
+  cdcs = {
+    "0.2.3" = import ./overrides/cdcs/0.2.3;
+  };
   cdflib = {
     "1.3.1" = import ./overrides/cdflib/1.3.1;
+  };
+  cdiserrors = {
+    "1.0.0" = import ./overrides/cdiserrors/1.0.0;
   };
   cdislogging = {
     "1.1.1" = import ./overrides/cdislogging/1.1.1;
   };
   cdktf-cdktf-provider-aws = {
     "19.33.0" = import ./overrides/cdktf-cdktf-provider-aws/19.33.0;
+  };
+  cdsapi = {
+    "0.7.3" = import ./overrides/cdsapi/0.7.3;
   };
   cdumay-error = {
     "0.2.0" = import ./overrides/cdumay-error/0.2.0;
@@ -1574,23 +2477,47 @@
   celery-types = {
     "0.22.0" = import ./overrides/celery-types/0.22.0;
   };
+  cellpose = {
+    "3.0.11" = import ./overrides/cellpose/3.0.11;
+  };
   cement = {
     "2.8.2" = import ./overrides/cement/2.8.2;
   };
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
+  census = {
+    "0.8.22" = import ./overrides/census/0.8.22;
+  };
   cert-schema = {
     "3.6.4" = import ./overrides/cert-schema/3.6.4;
   };
+  certbot-dns-inwx = {
+    "2.2.0" = import ./overrides/certbot-dns-inwx/2.2.0;
+  };
+  certbot-dns-ovh = {
+    "2.11.0" = import ./overrides/certbot-dns-ovh/2.11.0;
+  };
+  certbot-dns-rfc2136 = {
+    "2.11.0" = import ./overrides/certbot-dns-rfc2136/2.11.0;
+  };
+  certifi = {
+    "2024.8.30" = import ./overrides/certifi/2024.8.30;
+  };
   cf-units = {
     "3.2.0" = import ./overrides/cf-units/3.2.0;
+  };
+  cffconvert = {
+    "2.0.0" = import ./overrides/cffconvert/2.0.0;
   };
   cffi = {
     "1.17.1" = import ./overrides/cffi/1.17.1;
   };
   cfgraph = {
     "0.2.1" = import ./overrides/cfgraph/0.2.1;
+  };
+  cfn-flip = {
+    "1.3.0" = import ./overrides/cfn-flip/1.3.0;
   };
   cftime = {
     "1.6.4" = import ./overrides/cftime/1.6.4;
@@ -1631,6 +2558,9 @@
   chainmap = {
     "1.0.3" = import ./overrides/chainmap/1.0.3;
   };
+  chalice = {
+    "1.31.2" = import ./overrides/chalice/1.31.2;
+  };
   chameleon-core = {
     "1.0.4" = import ./overrides/chameleon-core/1.0.4;
   };
@@ -1639,6 +2569,15 @@
   };
   chaostoolkit-lib = {
     "1.44.0" = import ./overrides/chaostoolkit-lib/1.44.0;
+  };
+  char = {
+    "0.1.2" = import ./overrides/char/0.1.2;
+  };
+  character-encoding-utils = {
+    "0.0.8" = import ./overrides/character-encoding-utils/0.0.8;
+  };
+  characteristic = {
+    "14.3.0" = import ./overrides/characteristic/14.3.0;
   };
   charade = {
     "1.0.3" = import ./overrides/charade/1.0.3;
@@ -1652,6 +2591,12 @@
   charmhelpers = {
     "1.2.1" = import ./overrides/charmhelpers/1.2.1;
   };
+  charset-normalizer = {
+    "3.3.2" = import ./overrides/charset-normalizer/3.3.2;
+  };
+  chat-downloader = {
+    "0.2.8" = import ./overrides/chat-downloader/0.2.8;
+  };
   chemparse = {
     "0.3.1" = import ./overrides/chemparse/0.3.1;
   };
@@ -1660,6 +2605,9 @@
   };
   chess = {
     "1.11.1" = import ./overrides/chess/1.11.1;
+  };
+  chiabip158 = {
+    "1.5.1" = import ./overrides/chiabip158/1.5.1;
   };
   chiki-base = {
     "0.0.3" = import ./overrides/chiki-base/0.0.3;
@@ -1675,6 +2623,9 @@
   };
   chroma-hnswlib = {
     "0.7.3" = import ./overrides/chroma-hnswlib/0.7.3;
+  };
+  chromadb = {
+    "0.5.5" = import ./overrides/chromadb/0.5.5;
   };
   chronology = {
     "1.1" = import ./overrides/chronology/1.1;
@@ -1739,6 +2690,15 @@
   ciscomobilityexpress = {
     "1.0.2" = import ./overrides/ciscomobilityexpress/1.0.2;
   };
+  citeproc-py-styles = {
+    "0.1.3" = import ./overrides/citeproc-py-styles/0.1.3;
+  };
+  civis = {
+    "2.3.0" = import ./overrides/civis/2.3.0;
+  };
+  ckanapi = {
+    "4.8" = import ./overrides/ckanapi/4.8;
+  };
   ckantoolkit = {
     "0.0.7" = import ./overrides/ckantoolkit/0.0.7;
   };
@@ -1751,8 +2711,14 @@
   cl1 = {
     "1.13.3" = import ./overrides/cl1/1.13.3;
   };
+  clang = {
+    "17.0.6" = import ./overrides/clang/17.0.6;
+  };
   clarifai = {
     "10.8.1" = import ./overrides/clarifai/10.8.1;
+  };
+  clarifai-grpc = {
+    "10.8.4" = import ./overrides/clarifai-grpc/10.8.4;
   };
   classproperties = {
     "0.2.0" = import ./overrides/classproperties/0.2.0;
@@ -1760,8 +2726,17 @@
   cldfbench = {
     "1.14.0" = import ./overrides/cldfbench/1.14.0;
   };
+  cle = {
+    "9.2.117" = import ./overrides/cle/9.2.117;
+  };
+  clean-text = {
+    "0.6.0" = import ./overrides/clean-text/0.6.0;
+  };
   cleandev-config-loader = {
     "0.3.5" = import ./overrides/cleandev-config-loader/0.3.5;
+  };
+  cleantext = {
+    "1.1.4" = import ./overrides/cleantext/1.1.4;
   };
   clevercsv = {
     "0.8.2" = import ./overrides/clevercsv/0.8.2;
@@ -1775,6 +2750,21 @@
   cli-formatter = {
     "1.2.0" = import ./overrides/cli-formatter/1.2.0;
   };
+  cli-helpers = {
+    "2.3.1" = import ./overrides/cli-helpers/2.3.1;
+  };
+  cli-ui = {
+    "0.17.2" = import ./overrides/cli-ui/0.17.2;
+  };
+  cliar = {
+    "1.3.5" = import ./overrides/cliar/1.3.5;
+  };
+  cliche = {
+    "0.10.116" = import ./overrides/cliche/0.10.116;
+  };
+  click-aliases = {
+    "1.0.4" = import ./overrides/click-aliases/1.0.4;
+  };
   click-completion = {
     "0.5.2" = import ./overrides/click-completion/0.5.2;
   };
@@ -1784,6 +2774,12 @@
   click-didyoumean = {
     "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
     "0.3.1" = import ./overrides/click-didyoumean/0.3.1;
+  };
+  click-params = {
+    "0.5.0" = import ./overrides/click-params/0.5.0;
+  };
+  click-shell = {
+    "2.1" = import ./overrides/click-shell/2.1;
   };
   click-threading = {
     "0.5.0" = import ./overrides/click-threading/0.5.0;
@@ -1842,6 +2838,9 @@
   cloud-inquisitor = {
     "2.2.0" = import ./overrides/cloud-inquisitor/2.2.0;
   };
+  cloud-sql-python-connector = {
+    "1.12.0" = import ./overrides/cloud-sql-python-connector/1.12.0;
+  };
   cloud-volume = {
     "10.4.0" = import ./overrides/cloud-volume/10.4.0;
   };
@@ -1854,6 +2853,15 @@
   };
   cloudinary = {
     "1.41.0" = import ./overrides/cloudinary/1.41.0;
+  };
+  cloudmesh-cmd5 = {
+    "5.0.20" = import ./overrides/cloudmesh-cmd5/5.0.20;
+  };
+  cloudmesh-inventory = {
+    "5.0.2" = import ./overrides/cloudmesh-inventory/5.0.2;
+  };
+  cloudpickle = {
+    "3.0.0" = import ./overrides/cloudpickle/3.0.0;
   };
   cloudscraper = {
     "1.2.71" = import ./overrides/cloudscraper/1.2.71;
@@ -1892,8 +2900,14 @@
   cloudshell-snmp = {
     "3.3.0" = import ./overrides/cloudshell-snmp/3.3.0;
   };
+  clr = {
+    "1.0.3" = import ./overrides/clr/1.0.3;
+  };
   cls-client = {
     "1.4.0" = import ./overrides/cls-client/1.4.0;
+  };
+  clyngor = {
+    "0.4.3" = import ./overrides/clyngor/0.4.3;
   };
   cmapy = {
     "0.6.6" = import ./overrides/cmapy/0.6.6;
@@ -1951,6 +2965,9 @@
   };
   codernitydb = {
     "0.5.0" = import ./overrides/codernitydb/0.5.0;
+  };
+  codetiming = {
+    "1.4.0" = import ./overrides/codetiming/1.4.0;
   };
   coffea = {
     "2024.8.3" = import ./overrides/coffea/2024.8.3;
@@ -2033,8 +3050,14 @@
   collective-js-jqueryui = {
     "2.2.0" = import ./overrides/collective-js-jqueryui/2.2.0;
   };
+  collective-js-underscore = {
+    "1.5.2.1" = import ./overrides/collective-js-underscore/1.5.2.1;
+  };
   collective-messagesviewlet = {
     "0.23" = import ./overrides/collective-messagesviewlet/0.23;
+  };
+  collective-oembed = {
+    "2.0.1" = import ./overrides/collective-oembed/2.0.1;
   };
   collective-quickupload = {
     "1.11.1" = import ./overrides/collective-quickupload/1.11.1;
@@ -2044,6 +3067,12 @@
   };
   collective-testcaselayer = {
     "1.6.1" = import ./overrides/collective-testcaselayer/1.6.1;
+  };
+  collective-themefragments = {
+    "2.12" = import ./overrides/collective-themefragments/2.12;
+  };
+  collective-z3cform-select2 = {
+    "2.1.0" = import ./overrides/collective-z3cform-select2/2.1.0;
   };
   color-operations = {
     "0.1.5" = import ./overrides/color-operations/0.1.5;
@@ -2058,6 +3087,9 @@
   colored = {
     "1.4.4" = import ./overrides/colored/1.4.4;
     "2.2.4" = import ./overrides/colored/2.2.4;
+  };
+  coloredlogs = {
+    "15.0.1" = import ./overrides/coloredlogs/15.0.1;
   };
   colorednoise = {
     "2.2.0" = import ./overrides/colorednoise/2.2.0;
@@ -2079,6 +3111,9 @@
   };
   colortools = {
     "0.1.2" = import ./overrides/colortools/0.1.2;
+  };
+  colorzero = {
+    "2.0" = import ./overrides/colorzero/2.0;
   };
   colour-science = {
     "0.4.4" = import ./overrides/colour-science/0.4.4;
@@ -2107,6 +3142,12 @@
   commentjson = {
     "0.9.0" = import ./overrides/commentjson/0.9.0;
   };
+  commitizen = {
+    "3.29.0" = import ./overrides/commitizen/3.29.0;
+  };
+  commonmark = {
+    "0.9.1" = import ./overrides/commonmark/0.9.1;
+  };
   commonroad-io = {
     "2024.2" = import ./overrides/commonroad-io/2024.2;
   };
@@ -2115,6 +3156,9 @@
   };
   compas = {
     "2.4.1" = import ./overrides/compas/2.4.1;
+  };
+  compiledb = {
+    "0.10.1" = import ./overrides/compiledb/0.10.1;
   };
   compmake = {
     "4.0.2" = import ./overrides/compmake/4.0.2;
@@ -2139,6 +3183,12 @@
   };
   conan = {
     "2.7.0" = import ./overrides/conan/2.7.0;
+  };
+  conda-pack = {
+    "0.8.0" = import ./overrides/conda-pack/0.8.0;
+  };
+  conda-package-streaming = {
+    "0.10.0" = import ./overrides/conda-package-streaming/0.10.0;
   };
   confight = {
     "2.0" = import ./overrides/confight/2.0;
@@ -2165,6 +3215,9 @@
   confmodel = {
     "0.2.0" = import ./overrides/confmodel/0.2.0;
   };
+  confuse = {
+    "2.0.1" = import ./overrides/confuse/2.0.1;
+  };
   confutil = {
     "0.1.4" = import ./overrides/confutil/0.1.4;
   };
@@ -2173,6 +3226,9 @@
   };
   connect-box = {
     "0.4.0" = import ./overrides/connect-box/0.4.0;
+  };
+  connect-markdown-renderer = {
+    "3.0.0" = import ./overrides/connect-markdown-renderer/3.0.0;
   };
   connect-openapi-client = {
     "29.4" = import ./overrides/connect-openapi-client/29.4;
@@ -2189,8 +3245,14 @@
   cons = {
     "0.4.6" = import ./overrides/cons/0.4.6;
   };
+  console-menu = {
+    "0.8.0" = import ./overrides/console-menu/0.8.0;
+  };
   consolekit = {
     "1.7.1" = import ./overrides/consolekit/1.7.1;
+  };
+  consolemd = {
+    "0.5.1" = import ./overrides/consolemd/0.5.1;
   };
   consolemsg = {
     "0.3.3" = import ./overrides/consolemsg/0.3.3;
@@ -2204,6 +3266,9 @@
   construct = {
     "2.8.8" = import ./overrides/construct/2.8.8;
   };
+  construct-typing = {
+    "0.6.2" = import ./overrides/construct-typing/0.6.2;
+  };
   constructs = {
     "10.3.0" = import ./overrides/constructs/10.3.0;
   };
@@ -2212,6 +3277,12 @@
   };
   contextdecorator = {
     "0.10.0" = import ./overrides/contextdecorator/0.10.0;
+  };
+  contexter = {
+    "0.1.4" = import ./overrides/contexter/0.1.4;
+  };
+  contextily = {
+    "1.6.2" = import ./overrides/contextily/1.6.2;
   };
   contextlib2 = {
     "21.6.0" = import ./overrides/contextlib2/21.6.0;
@@ -2230,6 +3301,15 @@
   };
   conversionutil = {
     "1.4.6" = import ./overrides/conversionutil/1.4.6;
+  };
+  coordinates = {
+    "0.4.0" = import ./overrides/coordinates/0.4.0;
+  };
+  copier = {
+    "9.3.1" = import ./overrides/copier/9.3.1;
+  };
+  copulas = {
+    "0.11.1" = import ./overrides/copulas/0.11.1;
   };
   coqui-trainer = {
     "0.0.5" = import ./overrides/coqui-trainer/0.0.5;
@@ -2270,8 +3350,17 @@
   cosmpy = {
     "0.9.2" = import ./overrides/cosmpy/0.9.2;
   };
+  cot = {
+    "2.2.1" = import ./overrides/cot/2.2.1;
+  };
+  cothread = {
+    "2.20.0" = import ./overrides/cothread/2.20.0;
+  };
   couleur = {
     "0.7.4" = import ./overrides/couleur/0.7.4;
+  };
+  countrynames = {
+    "1.15.3" = import ./overrides/countrynames/1.15.3;
   };
   courlan = {
     "1.3.1" = import ./overrides/courlan/1.3.1;
@@ -2289,8 +3378,14 @@
   coverage = {
     "6.5.0" = import ./overrides/coverage/6.5.0;
   };
+  coverage-badge = {
+    "1.1.2" = import ./overrides/coverage-badge/1.1.2;
+  };
   coveralls = {
     "4.0.1" = import ./overrides/coveralls/4.0.1;
+  };
+  cowpy = {
+    "1.1.5" = import ./overrides/cowpy/1.1.5;
   };
   cpe = {
     "1.3.0" = import ./overrides/cpe/1.3.0;
@@ -2331,11 +3426,23 @@
   cracklib = {
     "2.9.6" = import ./overrides/cracklib/2.9.6;
   };
+  craft-cli = {
+    "2.7.0" = import ./overrides/craft-cli/2.7.0;
+  };
+  craft-grammar = {
+    "2.0.0" = import ./overrides/craft-grammar/2.0.0;
+  };
+  craft-parts = {
+    "2.1.0" = import ./overrides/craft-parts/2.1.0;
+  };
   craft-providers = {
     "2.0.1" = import ./overrides/craft-providers/2.0.1;
   };
   crank = {
     "0.8.1" = import ./overrides/crank/0.8.1;
+  };
+  crashtest = {
+    "0.4.1" = import ./overrides/crashtest/0.4.1;
   };
   crc = {
     "7.0.0" = import ./overrides/crc/7.0.0;
@@ -2385,6 +3492,18 @@
   crossbar = {
     "22.6.1" = import ./overrides/crossbar/22.6.1;
   };
+  crosscompute = {
+    "0.9.4.13" = import ./overrides/crosscompute/0.9.4.13;
+  };
+  crossref-commons = {
+    "0.0.7" = import ./overrides/crossref-commons/0.0.7;
+  };
+  crowdstrike-falconpy = {
+    "1.4.5" = import ./overrides/crowdstrike-falconpy/1.4.5;
+  };
+  crownstone-sse = {
+    "2.0.5" = import ./overrides/crownstone-sse/2.0.5;
+  };
   cruft = {
     "2.15.0" = import ./overrides/cruft/2.15.0;
   };
@@ -2430,6 +3549,15 @@
   cs-units = {
     "20220311" = import ./overrides/cs-units/20220311;
   };
+  csbdeep = {
+    "0.8.0" = import ./overrides/csbdeep/0.8.0;
+  };
+  csle-base = {
+    "0.7.0" = import ./overrides/csle-base/0.7.0;
+  };
+  csle-collector = {
+    "0.7.0" = import ./overrides/csle-collector/0.7.0;
+  };
   cson = {
     "0.8" = import ./overrides/cson/0.8;
   };
@@ -2448,8 +3576,17 @@
   cssselect2 = {
     "0.7.0" = import ./overrides/cssselect2/0.7.0;
   };
+  cssutils = {
+    "2.11.1" = import ./overrides/cssutils/2.11.1;
+  };
+  cstruct = {
+    "5.3" = import ./overrides/cstruct/5.3;
+  };
   csv342 = {
     "1.0.1" = import ./overrides/csv342/1.0.1;
+  };
+  csvw = {
+    "3.3.1" = import ./overrides/csvw/3.3.1;
   };
   ctapipe = {
     "0.21.2" = import ./overrides/ctapipe/0.21.2;
@@ -2457,8 +3594,29 @@
   ctaplot = {
     "0.6.4" = import ./overrides/ctaplot/0.6.4;
   };
+  ctgan = {
+    "0.10.1" = import ./overrides/ctgan/0.10.1;
+  };
   cu2qu = {
     "1.6.7.post2" = import ./overrides/cu2qu/1.6.7.post2;
+  };
+  cubicweb-addressbook = {
+    "2.0.2" = import ./overrides/cubicweb-addressbook/2.0.2;
+  };
+  cubicweb-bootstrap = {
+    "2.0.0" = import ./overrides/cubicweb-bootstrap/2.0.0;
+  };
+  cubicweb-leaflet = {
+    "1.0.0" = import ./overrides/cubicweb-leaflet/1.0.0;
+  };
+  cubicweb-nosylist = {
+    "1.0.0" = import ./overrides/cubicweb-nosylist/1.0.0;
+  };
+  cubicweb-vcsfile = {
+    "2.5.0" = import ./overrides/cubicweb-vcsfile/2.5.0;
+  };
+  cuckoo-common = {
+    "0.1.0" = import ./overrides/cuckoo-common/0.1.0;
   };
   cuid = {
     "0.4" = import ./overrides/cuid/0.4;
@@ -2487,6 +3645,12 @@
   customtkinter = {
     "5.2.2" = import ./overrides/customtkinter/5.2.2;
   };
+  cutadapt = {
+    "4.9" = import ./overrides/cutadapt/4.9;
+  };
+  cutie = {
+    "0.3.2" = import ./overrides/cutie/0.3.2;
+  };
   cvargparse = {
     "0.5.4" = import ./overrides/cvargparse/0.5.4;
   };
@@ -2499,8 +3663,14 @@
   cwcwidth = {
     "0.1.9" = import ./overrides/cwcwidth/0.1.9;
   };
+  cwl-upgrader = {
+    "1.2.11" = import ./overrides/cwl-upgrader/1.2.11;
+  };
   cwlgen = {
     "0.4.2" = import ./overrides/cwlgen/0.4.2;
+  };
+  cxxfilt = {
+    "0.3.0" = import ./overrides/cxxfilt/0.3.0;
   };
   cyclonedx-bom = {
     "4.5.0" = import ./overrides/cyclonedx-bom/4.5.0;
@@ -2520,8 +3690,23 @@
   cysystemd = {
     "1.6.2" = import ./overrides/cysystemd/1.6.2;
   };
+  cython-test-exception-raiser = {
+    "1.0.2" = import ./overrides/cython-test-exception-raiser/1.0.2;
+  };
+  d-snek = {
+    "1.2.8" = import ./overrides/d-snek/1.2.8;
+  };
+  d20 = {
+    "1.1.2" = import ./overrides/d20/1.1.2;
+  };
+  d2b = {
+    "1.4.2" = import ./overrides/d2b/1.4.2;
+  };
   d2to1 = {
     "0.2.12.post1" = import ./overrides/d2to1/0.2.12.post1;
+  };
+  d3m = {
+    "2022.5.5" = import ./overrides/d3m/2022.5.5;
   };
   d8s-dicts = {
     "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
@@ -2568,6 +3753,9 @@
   daemon = {
     "1.2" = import ./overrides/daemon/1.2;
   };
+  daemon-application = {
+    "2.0.0" = import ./overrides/daemon-application/2.0.0;
+  };
   daemonize = {
     "2.5.0" = import ./overrides/daemonize/2.5.0;
   };
@@ -2583,6 +3771,15 @@
   daff = {
     "1.3.46" = import ./overrides/daff/1.3.46;
   };
+  dagit = {
+    "1.8.7" = import ./overrides/dagit/1.8.7;
+  };
+  dalec = {
+    "0.2.8" = import ./overrides/dalec/0.2.8;
+  };
+  dapr = {
+    "1.14.0" = import ./overrides/dapr/1.14.0;
+  };
   daqp = {
     "0.5.1.post1" = import ./overrides/daqp/0.5.1.post1;
   };
@@ -2594,6 +3791,9 @@
   };
   dartsclone = {
     "0.10.2" = import ./overrides/dartsclone/0.10.2;
+  };
+  dash = {
+    "2.18.0" = import ./overrides/dash/2.18.0;
   };
   dash-bootstrap-components = {
     "1.6.0" = import ./overrides/dash-bootstrap-components/1.6.0;
@@ -2607,6 +3807,9 @@
   dash-daq = {
     "0.5.0" = import ./overrides/dash-daq/0.5.0;
   };
+  dash-extensions = {
+    "1.0.18" = import ./overrides/dash-extensions/1.0.18;
+  };
   dash-iconify = {
     "0.1.2" = import ./overrides/dash-iconify/0.1.2;
   };
@@ -2617,14 +3820,71 @@
   dashing = {
     "0.1.0" = import ./overrides/dashing/0.1.0;
   };
+  dask = {
+    "2024.8.2" = import ./overrides/dask/2024.8.2;
+  };
+  dask-awkward = {
+    "2024.7.0" = import ./overrides/dask-awkward/2024.7.0;
+  };
+  dask-gateway = {
+    "2024.1.0" = import ./overrides/dask-gateway/2024.1.0;
+  };
   dask-geopandas = {
     "0.4.1" = import ./overrides/dask-geopandas/0.4.1;
+  };
+  dask-glm = {
+    "0.3.2" = import ./overrides/dask-glm/0.3.2;
+  };
+  dask-histogram = {
+    "2024.3.0" = import ./overrides/dask-histogram/2024.3.0;
+  };
+  dask-ml = {
+    "2024.4.4" = import ./overrides/dask-ml/2024.4.4;
+  };
+  dask-ms = {
+    "0.2.21" = import ./overrides/dask-ms/0.2.21;
+  };
+  dask-yarn = {
+    "0.9" = import ./overrides/dask-yarn/0.9;
   };
   data = {
     "0.4" = import ./overrides/data/0.4;
   };
+  data-science-types = {
+    "0.2.23" = import ./overrides/data-science-types/0.2.23;
+  };
+  databases = {
+    "0.9.0" = import ./overrides/databases/0.9.0;
+  };
+  databind = {
+    "4.5.2" = import ./overrides/databind/4.5.2;
+  };
   databricks = {
     "0.2" = import ./overrides/databricks/0.2;
+  };
+  databricks-sql-connector = {
+    "3.4.0" = import ./overrides/databricks-sql-connector/3.4.0;
+  };
+  databroker = {
+    "1.2.5" = import ./overrides/databroker/1.2.5;
+  };
+  datacache = {
+    "1.4.1" = import ./overrides/datacache/1.4.1;
+  };
+  dataclasses = {
+    "0.8" = import ./overrides/dataclasses/0.8;
+  };
+  dataclasses-json = {
+    "0.6.7" = import ./overrides/dataclasses-json/0.6.7;
+  };
+  dataclasses-jsonschema = {
+    "2.16.0" = import ./overrides/dataclasses-jsonschema/2.16.0;
+  };
+  dataclasses-jsonschema-rereleased = {
+    "2.12.2" = import ./overrides/dataclasses-jsonschema-rereleased/2.12.2;
+  };
+  dataclassy = {
+    "1.0.1" = import ./overrides/dataclassy/1.0.1;
   };
   datacleaner = {
     "0.1.5" = import ./overrides/datacleaner/0.1.5;
@@ -2632,14 +3892,47 @@
   datadbs = {
     "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
+  datadog = {
+    "0.50.0" = import ./overrides/datadog/0.50.0;
+  };
+  datadog-api-client = {
+    "2.28.0" = import ./overrides/datadog-api-client/2.28.0;
+  };
+  datajoint = {
+    "0.14.2" = import ./overrides/datajoint/0.14.2;
+  };
+  datakit-core = {
+    "0.3.2" = import ./overrides/datakit-core/0.3.2;
+  };
+  datamart-profiler = {
+    "0.11" = import ./overrides/datamart-profiler/0.11;
+  };
   datamodel-code-generator = {
     "0.26.0" = import ./overrides/datamodel-code-generator/0.26.0;
+  };
+  datapane = {
+    "0.17.0" = import ./overrides/datapane/0.17.0;
   };
   datapipelines = {
     "1.0.7" = import ./overrides/datapipelines/1.0.7;
   };
+  dataprep-ml = {
+    "24.5.1.2" = import ./overrides/dataprep-ml/24.5.1.2;
+  };
+  datargs = {
+    "1.1.0" = import ./overrides/datargs/1.1.0;
+  };
   dataset = {
     "1.6.2" = import ./overrides/dataset/1.6.2;
+  };
+  datasette = {
+    "0.64.8" = import ./overrides/datasette/0.64.8;
+  };
+  datasette-leaflet = {
+    "0.2.2" = import ./overrides/datasette-leaflet/0.2.2;
+  };
+  datashader = {
+    "0.16.3" = import ./overrides/datashader/0.16.3;
   };
   datashape = {
     "0.5.2" = import ./overrides/datashape/0.5.2;
@@ -2655,6 +3948,15 @@
   };
   date-extractor = {
     "5.1.5" = import ./overrides/date-extractor/5.1.5;
+  };
+  dateable-kalends = {
+    "1.0" = import ./overrides/dateable-kalends/1.0;
+  };
+  datedelta = {
+    "1.4" = import ./overrides/datedelta/1.4;
+  };
+  dateparser = {
+    "1.2.0" = import ./overrides/dateparser/1.2.0;
   };
   dateutils = {
     "0.6.12" = import ./overrides/dateutils/0.6.12;
@@ -2674,11 +3976,20 @@
   db-sqlite3 = {
     "0.0.1" = import ./overrides/db-sqlite3/0.0.1;
   };
+  dbfread = {
+    "2.0.7" = import ./overrides/dbfread/2.0.7;
+  };
+  dbnd = {
+    "1.0.24.1" = import ./overrides/dbnd/1.0.24.1;
+  };
   dbnd-airflow = {
     "1.0.24.1" = import ./overrides/dbnd-airflow/1.0.24.1;
   };
   dbstream = {
     "0.1.25" = import ./overrides/dbstream/0.1.25;
+  };
+  dbus-client-gen = {
+    "0.5.1" = import ./overrides/dbus-client-gen/0.5.1;
   };
   dbus-deviation = {
     "0.6.1" = import ./overrides/dbus-deviation/0.6.1;
@@ -2686,14 +3997,23 @@
   dbutils = {
     "1.3" = import ./overrides/dbutils/1.3;
   };
+  dclab = {
+    "0.61.0" = import ./overrides/dclab/0.61.0;
+  };
   dcmstack = {
     "0.9.0" = import ./overrides/dcmstack/0.9.0;
   };
   dd-aliyun-python-sdk-core = {
     "2.8.2" = import ./overrides/dd-aliyun-python-sdk-core/2.8.2;
   };
+  ddddocr = {
+    "1.5.5" = import ./overrides/ddddocr/1.5.5;
+  };
   ddsketch = {
     "3.0.1" = import ./overrides/ddsketch/3.0.1;
+  };
+  ddtrace-graphql = {
+    "0.2.0" = import ./overrides/ddtrace-graphql/0.2.0;
   };
   deap = {
     "1.4.1" = import ./overrides/deap/1.4.1;
@@ -2703,6 +4023,9 @@
   };
   debts = {
     "0.5" = import ./overrides/debts/0.5;
+  };
+  debugpy = {
+    "1.8.10" = import ./overrides/debugpy/1.8.10;
   };
   decopatch = {
     "1.4.10" = import ./overrides/decopatch/1.4.10;
@@ -2718,6 +4041,24 @@
   };
   dedupe-levenshtein-search = {
     "1.4.5" = import ./overrides/dedupe-levenshtein-search/1.4.5;
+  };
+  deebot-client = {
+    "8.4.0" = import ./overrides/deebot-client/8.4.0;
+  };
+  deep-chainmap = {
+    "0.1.1" = import ./overrides/deep-chainmap/0.1.1;
+  };
+  deepcopyall = {
+    "0.10" = import ./overrides/deepcopyall/0.10;
+  };
+  deepdiff = {
+    "8.0.1" = import ./overrides/deepdiff/8.0.1;
+  };
+  deepdish = {
+    "0.3.7" = import ./overrides/deepdish/0.3.7;
+  };
+  deepgram-sdk = {
+    "3.5.2" = import ./overrides/deepgram-sdk/3.5.2;
   };
   deepl = {
     "1.18.0" = import ./overrides/deepl/1.18.0;
@@ -2752,6 +4093,12 @@
   deform = {
     "2.0.15" = import ./overrides/deform/2.0.15;
   };
+  deform-bootstrap = {
+    "0.2.9" = import ./overrides/deform-bootstrap/0.2.9;
+  };
+  degiro-connector = {
+    "3.0.22" = import ./overrides/degiro-connector/3.0.22;
+  };
   delfick-error = {
     "1.8" = import ./overrides/delfick-error/1.8;
   };
@@ -2773,14 +4120,35 @@
   demjson3 = {
     "3.0.6" = import ./overrides/demjson3/3.0.6;
   };
+  demoji = {
+    "1.1.0" = import ./overrides/demoji/1.1.0;
+  };
+  dependency-injector = {
+    "4.42.0" = import ./overrides/dependency-injector/4.42.0;
+  };
   depinfo = {
     "2.2.0" = import ./overrides/depinfo/2.2.0;
+  };
+  deprecation = {
+    "2.1.0" = import ./overrides/deprecation/2.1.0;
   };
   derpconf = {
     "0.8.4" = import ./overrides/derpconf/0.8.4;
   };
   descartes = {
     "1.1.0" = import ./overrides/descartes/1.1.0;
+  };
+  desert = {
+    "2022.9.22" = import ./overrides/desert/2022.9.22;
+  };
+  desktop-entry-lib = {
+    "5.0" = import ./overrides/desktop-entry-lib/5.0;
+  };
+  desktop-notifier = {
+    "6.0.0" = import ./overrides/desktop-notifier/6.0.0;
+  };
+  detect-secrets = {
+    "1.5.0" = import ./overrides/detect-secrets/1.5.0;
   };
   dev0s = {
     "3.36.6" = import ./overrides/dev0s/3.36.6;
@@ -2806,6 +4174,18 @@
   dhooks-lite = {
     "1.1.0" = import ./overrides/dhooks-lite/1.1.0;
   };
+  dialogflow = {
+    "2.0.0" = import ./overrides/dialogflow/2.0.0;
+  };
+  diapyr = {
+    "30" = import ./overrides/diapyr/30;
+  };
+  dicom2nifti = {
+    "2.4.11" = import ./overrides/dicom2nifti/2.4.11;
+  };
+  dict-deep = {
+    "4.1.2" = import ./overrides/dict-deep/4.1.2;
+  };
   dictionaryutils = {
     "3.4.10" = import ./overrides/dictionaryutils/3.4.10;
   };
@@ -2817,6 +4197,9 @@
   };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
+  };
+  dictpath = {
+    "0.1.3" = import ./overrides/dictpath/0.1.3;
   };
   dicttoxml = {
     "1.7.16" = import ./overrides/dicttoxml/1.7.16;
@@ -2849,17 +4232,32 @@
   dimod = {
     "0.12.17" = import ./overrides/dimod/0.12.17;
   };
+  dingz = {
+    "0.5.0" = import ./overrides/dingz/0.5.0;
+  };
+  diot = {
+    "0.2.3" = import ./overrides/diot/0.2.3;
+  };
   diplib = {
     "3.5.1" = import ./overrides/diplib/3.5.1;
   };
   dipy = {
     "1.9.0" = import ./overrides/dipy/1.9.0;
   };
+  directv = {
+    "0.4.0" = import ./overrides/directv/0.4.0;
+  };
+  dirhash = {
+    "0.5.0" = import ./overrides/dirhash/0.5.0;
+  };
   dirlistproc = {
     "1.4.5" = import ./overrides/dirlistproc/1.4.5;
   };
   dirsync = {
     "2.2.5" = import ./overrides/dirsync/2.2.5;
+  };
+  dirty-equals = {
+    "0.8.0" = import ./overrides/dirty-equals/0.8.0;
   };
   dirtyjson = {
     "1.0.8" = import ./overrides/dirtyjson/1.0.8;
@@ -2870,8 +4268,20 @@
   discid = {
     "1.2.0" = import ./overrides/discid/1.2.0;
   };
+  discord = {
+    "2.3.2" = import ./overrides/discord/2.3.2;
+  };
   discord-py-slash-command = {
     "4.2.1" = import ./overrides/discord-py-slash-command/4.2.1;
+  };
+  diskcache = {
+    "5.6.3" = import ./overrides/diskcache/5.6.3;
+  };
+  dissect = {
+    "3.16" = import ./overrides/dissect/3.16;
+  };
+  dissononce = {
+    "0.34.3" = import ./overrides/dissononce/0.34.3;
   };
   distance = {
     "0.1.3" = import ./overrides/distance/0.1.3;
@@ -2927,6 +4337,12 @@
   django-admin-sortable2 = {
     "2.2.3" = import ./overrides/django-admin-sortable2/2.2.3;
   };
+  django-admin-tools = {
+    "0.9.3" = import ./overrides/django-admin-tools/0.9.3;
+  };
+  django-adminplus = {
+    "0.6" = import ./overrides/django-adminplus/0.6;
+  };
   django-allauth = {
     "0.51.0" = import ./overrides/django-allauth/0.51.0;
     "0.54.0" = import ./overrides/django-allauth/0.54.0;
@@ -2947,8 +4363,17 @@
   django-anymail = {
     "12.0" = import ./overrides/django-anymail/12.0;
   };
+  django-appdata = {
+    "0.4.0" = import ./overrides/django-appdata/0.4.0;
+  };
   django-apptemplates = {
     "1.5" = import ./overrides/django-apptemplates/1.5;
+  };
+  django-assets = {
+    "2.0" = import ./overrides/django-assets/2.0;
+  };
+  django-auditlog = {
+    "3.0.0" = import ./overrides/django-auditlog/3.0.0;
   };
   django-authority = {
     "0.14" = import ./overrides/django-authority/0.14;
@@ -2956,9 +4381,6 @@
   django-autocomplete-light = {
     "3.11.0" = import ./overrides/django-autocomplete-light/3.11.0;
     "3.8.2" = import ./overrides/django-autocomplete-light/3.8.2;
-  };
-  django-axes = {
-    "6.5.1" = import ./overrides/django-axes/6.5.1;
   };
   django-autoconfig = {
     "0.8.0" = import ./overrides/django-autoconfig/0.8.0;
@@ -2968,6 +4390,9 @@
   };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
+  };
+  django-bleach = {
+    "3.1.0" = import ./overrides/django-bleach/3.1.0;
   };
   django-bootstrap-breadcrumbs = {
     "0.9.2" = import ./overrides/django-bootstrap-breadcrumbs/0.9.2;
@@ -2987,14 +4412,23 @@
   django-bootstrap4 = {
     "24.3" = import ./overrides/django-bootstrap4/24.3;
   };
+  django-bootstrap5 = {
+    "24.2" = import ./overrides/django-bootstrap5/24.2;
+  };
   django-bower = {
     "5.2.0" = import ./overrides/django-bower/5.2.0;
+  };
+  django-cachalot = {
+    "2.6.3" = import ./overrides/django-cachalot/2.6.3;
   };
   django-cache-memoize = {
     "0.2.0" = import ./overrides/django-cache-memoize/0.2.0;
   };
   django-cacheops = {
     "7.0.2" = import ./overrides/django-cacheops/7.0.2;
+  };
+  django-cas-ng = {
+    "5.0.1" = import ./overrides/django-cas-ng/5.0.1;
   };
   django-categories = {
     "2.0.0" = import ./overrides/django-categories/2.0.0;
@@ -3017,6 +4451,9 @@
   django-cms = {
     "4.1.2" = import ./overrides/django-cms/4.1.2;
   };
+  django-cockroachdb = {
+    "5.1" = import ./overrides/django-cockroachdb/5.1;
+  };
   django-codemirror2 = {
     "0.2" = import ./overrides/django-codemirror2/0.2;
   };
@@ -3032,14 +4469,29 @@
   django-concurrency = {
     "2.5" = import ./overrides/django-concurrency/2.5;
   };
+  django-constance = {
+    "4.1.1" = import ./overrides/django-constance/4.1.1;
+  };
+  django-contrib-comments = {
+    "2.2.0" = import ./overrides/django-contrib-comments/2.2.0;
+  };
   django-cors-headers = {
     "4.4.0" = import ./overrides/django-cors-headers/4.4.0;
+  };
+  django-countries = {
+    "7.6.1" = import ./overrides/django-countries/7.6.1;
+  };
+  django-coverage-plugin = {
+    "3.1.0" = import ./overrides/django-coverage-plugin/3.1.0;
   };
   django-cratis = {
     "0.9.1" = import ./overrides/django-cratis/0.9.1;
   };
   django-crispy-forms = {
     "2.3" = import ./overrides/django-crispy-forms/2.3;
+  };
+  django-cron = {
+    "0.6.0" = import ./overrides/django-cron/0.6.0;
   };
   django-crontab = {
     "0.7.1" = import ./overrides/django-crontab/0.7.1;
@@ -3071,8 +4523,14 @@
   django-devserver = {
     "0.8.0" = import ./overrides/django-devserver/0.8.0;
   };
+  django-discover-runner = {
+    "1.0" = import ./overrides/django-discover-runner/1.0;
+  };
   django-dotenv = {
     "1.4.2" = import ./overrides/django-dotenv/1.4.2;
+  };
+  django-drf-filepond = {
+    "0.5.0" = import ./overrides/django-drf-filepond/0.5.0;
   };
   django-el-pagination = {
     "3.1.0" = import ./overrides/django-el-pagination/3.1.0;
@@ -3083,8 +4541,17 @@
   django-endless-pagination = {
     "2.0" = import ./overrides/django-endless-pagination/2.0;
   };
+  django-enumfield = {
+    "3.1" = import ./overrides/django-enumfield/3.1;
+  };
+  django-enumfields = {
+    "2.1.1" = import ./overrides/django-enumfields/2.1.1;
+  };
   django-etc = {
     "1.4.0" = import ./overrides/django-etc/1.4.0;
+  };
+  django-extensions = {
+    "3.2.3" = import ./overrides/django-extensions/3.2.3;
   };
   django-extra-views = {
     "0.14.0" = import ./overrides/django-extra-views/0.14.0;
@@ -3095,14 +4562,26 @@
   django-fields = {
     "0.3.0" = import ./overrides/django-fields/0.3.0;
   };
+  django-filebrowser-no-grappelli = {
+    "4.0.2" = import ./overrides/django-filebrowser-no-grappelli/4.0.2;
+  };
   django-filter = {
     "24.3" = import ./overrides/django-filter/24.3;
+  };
+  django-fixture-magic = {
+    "0.1.5" = import ./overrides/django-fixture-magic/0.1.5;
+  };
+  django-fluent-contents = {
+    "3.1" = import ./overrides/django-fluent-contents/3.1;
   };
   django-fluent-dashboard = {
     "0.6.1" = import ./overrides/django-fluent-dashboard/0.6.1;
   };
   django-form-utils = {
     "1.0.3" = import ./overrides/django-form-utils/1.0.3;
+  };
+  django-forms-bootstrap = {
+    "3.1.0" = import ./overrides/django-forms-bootstrap/3.1.0;
   };
   django-formtools = {
     "2.5.1" = import ./overrides/django-formtools/2.5.1;
@@ -3119,6 +4598,9 @@
   django-geostore = {
     "1.0.0" = import ./overrides/django-geostore/1.0.0;
   };
+  django-getenv = {
+    "1.3.2" = import ./overrides/django-getenv/1.3.2;
+  };
   django-glitter = {
     "0.2.10" = import ./overrides/django-glitter/0.2.10;
   };
@@ -3127,6 +4609,18 @@
   };
   django-google-analytics-app = {
     "6.0.0" = import ./overrides/django-google-analytics-app/6.0.0;
+  };
+  django-graphql-jwt = {
+    "0.4.0" = import ./overrides/django-graphql-jwt/0.4.0;
+  };
+  django-grappelli = {
+    "4.0.1" = import ./overrides/django-grappelli/4.0.1;
+  };
+  django-gravatar2 = {
+    "1.4.5" = import ./overrides/django-gravatar2/1.4.5;
+  };
+  django-guardian = {
+    "2.4.0" = import ./overrides/django-guardian/2.4.0;
   };
   django-haystack = {
     "3.3.0" = import ./overrides/django-haystack/3.3.0;
@@ -3160,6 +4654,9 @@
   };
   django-jazzmin = {
     "3.0.0" = import ./overrides/django-jazzmin/3.0.0;
+  };
+  django-jenkins = {
+    "0.110.0" = import ./overrides/django-jenkins/0.110.0;
   };
   django-jinja2 = {
     "0.1" = import ./overrides/django-jinja2/0.1;
@@ -3218,8 +4715,17 @@
   django-markdown-deux = {
     "1.0.6" = import ./overrides/django-markdown-deux/1.0.6;
   };
+  django-markdownx = {
+    "4.0.7" = import ./overrides/django-markdownx/4.0.7;
+  };
   django-markwhat = {
     "1.6.2" = import ./overrides/django-markwhat/1.6.2;
+  };
+  django-material = {
+    "1.12.0" = import ./overrides/django-material/1.12.0;
+  };
+  django-mathfilters = {
+    "1.0.0" = import ./overrides/django-mathfilters/1.0.0;
   };
   django-mdeditor = {
     "0.1.20" = import ./overrides/django-mdeditor/0.1.20;
@@ -3233,14 +4739,29 @@
   django-modelcluster = {
     "6.3" = import ./overrides/django-modelcluster/6.3;
   };
+  django-modeltranslation = {
+    "0.19.9" = import ./overrides/django-modeltranslation/0.19.9;
+  };
   django-mongoengine = {
     "0.5.6" = import ./overrides/django-mongoengine/0.5.6;
   };
   django-mp-pagination = {
     "0.3.0" = import ./overrides/django-mp-pagination/0.3.0;
   };
+  django-mptt = {
+    "0.16.0" = import ./overrides/django-mptt/0.16.0;
+  };
+  django-multi-email-field = {
+    "0.7.0" = import ./overrides/django-multi-email-field/0.7.0;
+  };
+  django-multiselectfield = {
+    "0.1.13" = import ./overrides/django-multiselectfield/0.1.13;
+  };
   django-mysql = {
     "4.14.0" = import ./overrides/django-mysql/4.14.0;
+  };
+  django-navhelper = {
+    "1.0.0" = import ./overrides/django-navhelper/1.0.0;
   };
   django-next-prev = {
     "1.1.0" = import ./overrides/django-next-prev/1.1.0;
@@ -3272,8 +4793,14 @@
   django-ohm2-handlers-light = {
     "0.4.3" = import ./overrides/django-ohm2-handlers-light/0.4.3;
   };
+  django-orderable = {
+    "6.1.2" = import ./overrides/django-orderable/6.1.2;
+  };
   django-ordered-model = {
     "3.7.4" = import ./overrides/django-ordered-model/3.7.4;
+  };
+  django-oscar = {
+    "3.2.4" = import ./overrides/django-oscar/3.2.4;
   };
   django-pagination = {
     "1.0.7" = import ./overrides/django-pagination/1.0.7;
@@ -3284,8 +4811,17 @@
   django-paintstore = {
     "0.2" = import ./overrides/django-paintstore/0.2;
   };
+  django-pandas = {
+    "0.6.7" = import ./overrides/django-pandas/0.6.7;
+  };
   django-pattern-library = {
     "1.2.0" = import ./overrides/django-pattern-library/1.2.0;
+  };
+  django-permissionedforms = {
+    "0.1" = import ./overrides/django-permissionedforms/0.1;
+  };
+  django-pg-zero-downtime-migrations = {
+    "0.16" = import ./overrides/django-pg-zero-downtime-migrations/0.16;
   };
   django-pglocks = {
     "1.0.4" = import ./overrides/django-pglocks/1.0.4;
@@ -3302,6 +4838,9 @@
   django-polymorphic = {
     "3.1.0" = import ./overrides/django-polymorphic/3.1.0;
   };
+  django-post-office = {
+    "3.9.0" = import ./overrides/django-post-office/3.9.0;
+  };
   django-pragmatic = {
     "5.0.0" = import ./overrides/django-pragmatic/5.0.0;
   };
@@ -3311,11 +4850,17 @@
   django-prices = {
     "2.3.0" = import ./overrides/django-prices/2.3.0;
   };
+  django-private-storage = {
+    "3.1.1" = import ./overrides/django-private-storage/3.1.1;
+  };
   django-pure-pagination = {
     "0.3.0" = import ./overrides/django-pure-pagination/0.3.0;
   };
   django-push-notifications = {
     "3.1.0" = import ./overrides/django-push-notifications/3.1.0;
+  };
+  django-pwa = {
+    "2.0.0" = import ./overrides/django-pwa/2.0.0;
   };
   django-qr-code = {
     "4.1.0" = import ./overrides/django-qr-code/4.1.0;
@@ -3341,6 +4886,12 @@
   django-redis-sessions = {
     "0.6.2" = import ./overrides/django-redis-sessions/0.6.2;
   };
+  django-registration = {
+    "3.4" = import ./overrides/django-registration/3.4;
+  };
+  django-registration-redux = {
+    "2.13" = import ./overrides/django-registration-redux/2.13;
+  };
   django-rest-auth = {
     "0.9.5" = import ./overrides/django-rest-auth/0.9.5;
   };
@@ -3362,6 +4913,9 @@
   django-reversion = {
     "1.10.2" = import ./overrides/django-reversion/1.10.2;
   };
+  django-reversion-compare = {
+    "0.18.1" = import ./overrides/django-reversion-compare/0.18.1;
+  };
   django-rosetta = {
     "0.10.0" = import ./overrides/django-rosetta/0.10.0;
   };
@@ -3371,11 +4925,17 @@
   django-safe-fields = {
     "0.2.2" = import ./overrides/django-safe-fields/0.2.2;
   };
+  django-safedelete = {
+    "1.4.0" = import ./overrides/django-safedelete/1.4.0;
+  };
   django-sendfile = {
     "0.3.11" = import ./overrides/django-sendfile/0.3.11;
   };
   django-sendsms = {
     "0.5" = import ./overrides/django-sendsms/0.5;
+  };
+  django-ses = {
+    "4.1.1" = import ./overrides/django-ses/4.1.1;
   };
   django-sesame = {
     "3.2.2" = import ./overrides/django-sesame/3.2.2;
@@ -3385,6 +4945,12 @@
   };
   django-shortuuidfield = {
     "0.1.3" = import ./overrides/django-shortuuidfield/0.1.3;
+  };
+  django-simple-captcha = {
+    "0.6.0" = import ./overrides/django-simple-captcha/0.6.0;
+  };
+  django-simple-menu = {
+    "2.1.3" = import ./overrides/django-simple-menu/2.1.3;
   };
   django-simplemde = {
     "0.1.4" = import ./overrides/django-simplemde/0.1.4;
@@ -3397,6 +4963,9 @@
   };
   django-six = {
     "1.0.5" = import ./overrides/django-six/1.0.5;
+  };
+  django-smart-selects = {
+    "1.6.0" = import ./overrides/django-smart-selects/1.6.0;
   };
   django-snippetscream = {
     "0.0.7" = import ./overrides/django-snippetscream/0.0.7;
@@ -3422,6 +4991,21 @@
   django-staticfiles = {
     "1.2.1" = import ./overrides/django-staticfiles/1.2.1;
   };
+  django-statici18n = {
+    "2.5.0" = import ./overrides/django-statici18n/2.5.0;
+  };
+  django-stomp = {
+    "6.1.0" = import ./overrides/django-stomp/6.1.0;
+  };
+  django-storages = {
+    "1.14.4" = import ./overrides/django-storages/1.14.4;
+  };
+  django-storages-redux = {
+    "1.3.3" = import ./overrides/django-storages-redux/1.3.3;
+  };
+  django-stubs-ext = {
+    "5.0.4" = import ./overrides/django-stubs-ext/5.0.4;
+  };
   django-suit = {
     "0.2.28" = import ./overrides/django-suit/0.2.28;
   };
@@ -3439,6 +5023,9 @@
   };
   django-tag-parser = {
     "3.2" = import ./overrides/django-tag-parser/3.2;
+  };
+  django-tagging = {
+    "0.5.0" = import ./overrides/django-tagging/0.5.0;
   };
   django-taggit-serializer = {
     "0.1.7" = import ./overrides/django-taggit-serializer/0.1.7;
@@ -3488,8 +5075,20 @@
   django-ultracache = {
     "2.2" = import ./overrides/django-ultracache/2.2;
   };
+  django-user-accounts = {
+    "3.3.2" = import ./overrides/django-user-accounts/3.3.2;
+  };
   django-user-agents = {
     "0.4.0" = import ./overrides/django-user-agents/0.4.0;
+  };
+  django-utils-six = {
+    "2.0" = import ./overrides/django-utils-six/2.0;
+  };
+  django-vanilla-views = {
+    "3.0.0" = import ./overrides/django-vanilla-views/3.0.0;
+  };
+  django-vite = {
+    "3.0.4" = import ./overrides/django-vite/3.0.4;
   };
   django-vkontakte-api = {
     "0.8.7" = import ./overrides/django-vkontakte-api/0.8.7;
@@ -3503,14 +5102,35 @@
   django-vkontakte-users = {
     "0.8.7" = import ./overrides/django-vkontakte-users/0.8.7;
   };
+  django-waffle = {
+    "4.1.0" = import ./overrides/django-waffle/4.1.0;
+  };
   django-weasyprint = {
     "2.3.0" = import ./overrides/django-weasyprint/2.3.0;
+  };
+  django-websocket-redis = {
+    "0.6.0" = import ./overrides/django-websocket-redis/0.6.0;
+  };
+  django-wechat-base = {
+    "2.1.1" = import ./overrides/django-wechat-base/2.1.1;
+  };
+  django-xmlrpc = {
+    "0.1.8" = import ./overrides/django-xmlrpc/0.1.8;
+  };
+  djangoajax = {
+    "3.3" = import ./overrides/djangoajax/3.3;
   };
   djangoapidec = {
     "1.8" = import ./overrides/djangoapidec/1.8;
   };
+  djangocms-attributes-field = {
+    "3.0.0" = import ./overrides/djangocms-attributes-field/3.0.0;
+  };
   djangocms-column = {
     "2.1.0" = import ./overrides/djangocms-column/2.1.0;
+  };
+  djangocms-page-meta = {
+    "1.4.4" = import ./overrides/djangocms-page-meta/1.4.4;
   };
   djangocodemirror = {
     "2.1.0" = import ./overrides/djangocodemirror/2.1.0;
@@ -3538,6 +5158,15 @@
   };
   djangorestframework-recursive = {
     "0.1.2" = import ./overrides/djangorestframework-recursive/0.1.2;
+  };
+  djangorestframework-simplejwt = {
+    "5.3.1" = import ./overrides/djangorestframework-simplejwt/5.3.1;
+  };
+  djangorestframework-types = {
+    "0.8.0" = import ./overrides/djangorestframework-types/0.8.0;
+  };
+  djangosaml2 = {
+    "1.9.3" = import ./overrides/djangosaml2/1.9.3;
   };
   djangotoolbox = {
     "1.8.0" = import ./overrides/djangotoolbox/1.8.0;
@@ -3605,6 +5234,15 @@
   dm-xmlsec-binding = {
     "3.0" = import ./overrides/dm-xmlsec-binding/3.0;
   };
+  dmenu = {
+    "0.2.1" = import ./overrides/dmenu/0.2.1;
+  };
+  dnaio = {
+    "1.2.1" = import ./overrides/dnaio/1.2.1;
+  };
+  dnfile = {
+    "0.15.0" = import ./overrides/dnfile/0.15.0;
+  };
   dns-lexicon = {
     "3.18.0" = import ./overrides/dns-lexicon/3.18.0;
   };
@@ -3617,8 +5255,20 @@
   dnsq = {
     "1.1.6" = import ./overrides/dnsq/1.1.6;
   };
+  docker-compose = {
+    "1.29.2" = import ./overrides/docker-compose/1.29.2;
+  };
+  docker-image-py = {
+    "0.1.13" = import ./overrides/docker-image-py/0.1.13;
+  };
   docker-pycreds = {
     "0.4.0" = import ./overrides/docker-pycreds/0.4.0;
+  };
+  dockerfile-parse = {
+    "2.0.1" = import ./overrides/dockerfile-parse/2.0.1;
+  };
+  dockerflow = {
+    "2024.4.2" = import ./overrides/dockerflow/2024.4.2;
   };
   dockerpty = {
     "0.4.1" = import ./overrides/dockerpty/0.4.1;
@@ -3631,6 +5281,7 @@
   };
   docopt = {
     "0.4.0" = import ./overrides/docopt/0.4.0;
+    "0.6.1" = import ./overrides/docopt/0.6.1;
     "0.6.2" = import ./overrides/docopt/0.6.2;
   };
   docopt-subcommands = {
@@ -3649,6 +5300,9 @@
   docstr-coverage = {
     "2.3.2" = import ./overrides/docstr-coverage/2.3.2;
   };
+  docstring-to-markdown = {
+    "0.15" = import ./overrides/docstring-to-markdown/0.15;
+  };
   doctest-ignore-unicode = {
     "0.1.2" = import ./overrides/doctest-ignore-unicode/0.1.2;
   };
@@ -3657,6 +5311,9 @@
   };
   docums = {
     "1.3.1" = import ./overrides/docums/1.3.1;
+  };
+  docutils = {
+    "0.21.2" = import ./overrides/docutils/0.21.2;
   };
   docx = {
     "0.2.4" = import ./overrides/docx/0.2.4;
@@ -3667,20 +5324,59 @@
   docx2txt = {
     "0.8" = import ./overrides/docx2txt/0.8;
   };
+  docxcompose = {
+    "1.4.0" = import ./overrides/docxcompose/1.4.0;
+  };
+  docxtpl = {
+    "0.18.0" = import ./overrides/docxtpl/0.18.0;
+  };
   dodgy = {
     "0.2.1" = import ./overrides/dodgy/0.2.1;
+  };
+  doger = {
+    "0.0.4" = import ./overrides/doger/0.0.4;
+  };
+  dogtag-pki = {
+    "11.2.1" = import ./overrides/dogtag-pki/11.2.1;
   };
   doit-py = {
     "0.5.0" = import ./overrides/doit-py/0.5.0;
   };
+  dokuwiki = {
+    "1.3.3" = import ./overrides/dokuwiki/1.3.3;
+  };
+  dol = {
+    "0.2.71" = import ./overrides/dol/0.2.71;
+  };
+  dolmen-app-security = {
+    "0.1" = import ./overrides/dolmen-app-security/0.1;
+  };
+  dolmen-file = {
+    "0.6" = import ./overrides/dolmen-file/0.6;
+  };
   dolmen-menu = {
     "0.5" = import ./overrides/dolmen-menu/0.5;
+  };
+  domain2idna = {
+    "1.12.0" = import ./overrides/domain2idna/1.12.0;
+  };
+  domeneshop = {
+    "0.4.4" = import ./overrides/domeneshop/0.4.4;
+  };
+  dominate = {
+    "2.9.1" = import ./overrides/dominate/2.9.1;
   };
   dopy = {
     "0.3.7" = import ./overrides/dopy/0.3.7;
   };
+  dot2tex = {
+    "2.11.3" = import ./overrides/dot2tex/2.11.3;
+  };
   dotty-dict = {
     "1.3.0" = import ./overrides/dotty-dict/1.3.0;
+  };
+  dotwiz = {
+    "0.4.0" = import ./overrides/dotwiz/0.4.0;
   };
   doublemetaphone = {
     "1.1" = import ./overrides/doublemetaphone/1.1;
@@ -3691,11 +5387,17 @@
   downloadunzip = {
     "0.10" = import ./overrides/downloadunzip/0.10;
   };
+  dparse2 = {
+    "0.7.0" = import ./overrides/dparse2/0.7.0;
+  };
   dpcontracts = {
     "0.6.0" = import ./overrides/dpcontracts/0.6.0;
   };
   dpdata = {
     "0.2.20" = import ./overrides/dpdata/0.2.20;
+  };
+  dpkt = {
+    "1.9.8" = import ./overrides/dpkt/1.9.8;
   };
   dppd = {
     "0.27" = import ./overrides/dppd/0.27;
@@ -3721,6 +5423,9 @@
   dpt-threading = {
     "2.0.2" = import ./overrides/dpt-threading/2.0.2;
   };
+  dragonfly-core = {
+    "1.51.17" = import ./overrides/dragonfly-core/1.51.17;
+  };
   dramatiq = {
     "1.17.0" = import ./overrides/dramatiq/1.17.0;
   };
@@ -3745,11 +5450,17 @@
   drfdocs = {
     "0.0.11" = import ./overrides/drfdocs/0.0.11;
   };
+  dronecan = {
+    "1.0.26" = import ./overrides/dronecan/1.0.26;
+  };
   dropbox = {
     "12.0.2" = import ./overrides/dropbox/12.0.2;
   };
   dsinternals = {
     "1.2.4" = import ./overrides/dsinternals/1.2.4;
+  };
+  dsl2html = {
+    "0.1.5" = import ./overrides/dsl2html/0.1.5;
   };
   dsmr-parser = {
     "1.4.2" = import ./overrides/dsmr-parser/1.4.2;
@@ -3762,6 +5473,9 @@
   };
   dtfabric = {
     "20230520" = import ./overrides/dtfabric/20230520;
+  };
+  dtoolcore = {
+    "3.18.3" = import ./overrides/dtoolcore/3.18.3;
   };
   dtreeviz = {
     "2.2.2" = import ./overrides/dtreeviz/2.2.2;
@@ -3802,8 +5516,44 @@
   durc = {
     "3.1.0" = import ./overrides/durc/3.1.0;
   };
+  dvc-data = {
+    "3.16.5" = import ./overrides/dvc-data/3.16.5;
+  };
+  dvc-gdrive = {
+    "3.0.1" = import ./overrides/dvc-gdrive/3.0.1;
+  };
+  dvc-gs = {
+    "3.0.1" = import ./overrides/dvc-gs/3.0.1;
+  };
+  dvc-hdfs = {
+    "3.0.0" = import ./overrides/dvc-hdfs/3.0.0;
+  };
+  dvc-http = {
+    "2.32.0" = import ./overrides/dvc-http/2.32.0;
+  };
+  dvc-s3 = {
+    "3.2.0" = import ./overrides/dvc-s3/3.2.0;
+  };
   dvc-ssh = {
     "4.1.1" = import ./overrides/dvc-ssh/4.1.1;
+  };
+  dvc-studio-client = {
+    "0.21.0" = import ./overrides/dvc-studio-client/0.21.0;
+  };
+  dvc-task = {
+    "0.4.0" = import ./overrides/dvc-task/0.4.0;
+  };
+  dwave-cloud-client = {
+    "0.13.0" = import ./overrides/dwave-cloud-client/0.13.0;
+  };
+  dwave-greedy = {
+    "0.3.0" = import ./overrides/dwave-greedy/0.3.0;
+  };
+  dwdwfsapi = {
+    "1.1.0" = import ./overrides/dwdwfsapi/1.1.0;
+  };
+  dxfgrabber = {
+    "1.0.1" = import ./overrides/dxfgrabber/1.0.1;
   };
   dxpy = {
     "0.382.0" = import ./overrides/dxpy/0.382.0;
@@ -3811,8 +5561,14 @@
   dyn = {
     "1.8.6" = import ./overrides/dyn/1.8.6;
   };
+  dynaconf = {
+    "3.2.6" = import ./overrides/dynaconf/3.2.6;
+  };
   dynalite-devices = {
     "0.1.48" = import ./overrides/dynalite-devices/0.1.48;
+  };
+  dynalite-panel = {
+    "0.0.4" = import ./overrides/dynalite-panel/0.0.4;
   };
   dynamic-pytables-where-condition = {
     "1.1.1" = import ./overrides/dynamic-pytables-where-condition/1.1.1;
@@ -3820,11 +5576,20 @@
   e13tools = {
     "0.9.6" = import ./overrides/e13tools/0.9.6;
   };
+  earthpy = {
+    "0.9.4" = import ./overrides/earthpy/0.9.4;
+  };
   easy-config = {
     "0.2.0" = import ./overrides/easy-config/0.2.0;
   };
+  easy-events = {
+    "3.1.1" = import ./overrides/easy-events/3.1.1;
+  };
   easy-pil = {
     "0.3.4" = import ./overrides/easy-pil/0.3.4;
+  };
+  easy-thumbnails = {
+    "2.9" = import ./overrides/easy-thumbnails/2.9;
   };
   easycli = {
     "1.9.3" = import ./overrides/easycli/1.9.3;
@@ -3862,6 +5627,12 @@
   ebs-linuxnode-gui-kivy-core = {
     "3.3.2" = import ./overrides/ebs-linuxnode-gui-kivy-core/3.3.2;
   };
+  ec2-metadata = {
+    "2.13.0" = import ./overrides/ec2-metadata/2.13.0;
+  };
+  ec2instanceconnectcli = {
+    "1.0.3" = import ./overrides/ec2instanceconnectcli/1.0.3;
+  };
   ecmwf-api-client = {
     "1.6.3" = import ./overrides/ecmwf-api-client/1.6.3;
   };
@@ -3877,14 +5648,38 @@
   edalize = {
     "0.5.4" = import ./overrides/edalize/0.5.4;
   };
+  edfi-lms-extractor-lib = {
+    "1.1.2" = import ./overrides/edfi-lms-extractor-lib/1.1.2;
+  };
+  edgegrid-python = {
+    "1.3.1" = import ./overrides/edgegrid-python/1.3.1;
+  };
+  edit-distance = {
+    "1.0.6" = import ./overrides/edit-distance/1.0.6;
+  };
+  editables = {
+    "0.5" = import ./overrides/editables/0.5;
+  };
+  editdistance = {
+    "0.8.1" = import ./overrides/editdistance/0.8.1;
+  };
+  editdistance-s = {
+    "1.0.0" = import ./overrides/editdistance-s/1.0.0;
+  };
   editdistpy = {
     "0.1.5" = import ./overrides/editdistpy/0.1.5;
+  };
+  editor = {
+    "1.6.6" = import ./overrides/editor/1.6.6;
   };
   editorconfig = {
     "0.12.4" = import ./overrides/editorconfig/0.12.4;
   };
   editorium = {
     "0.0.0.30" = import ./overrides/editorium/0.0.0.30;
+  };
+  edx-opaque-keys = {
+    "2.11.0" = import ./overrides/edx-opaque-keys/2.11.0;
   };
   edx-rest-api-client = {
     "6.0.0" = import ./overrides/edx-rest-api-client/6.0.0;
@@ -3907,11 +5702,23 @@
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
   };
+  effdet = {
+    "0.4.1" = import ./overrides/effdet/0.4.1;
+  };
   efficientnet-pytorch = {
     "0.7.1" = import ./overrides/efficientnet-pytorch/0.7.1;
   };
   eigenpy = {
     "3.5.1" = import ./overrides/eigenpy/3.5.1;
+  };
+  einops = {
+    "0.8.0" = import ./overrides/einops/0.8.0;
+  };
+  elastic-apm = {
+    "6.23.0" = import ./overrides/elastic-apm/6.23.0;
+  };
+  elastic-git = {
+    "1.4.3" = import ./overrides/elastic-git/1.4.3;
   };
   elasticsearch = {
     "8.15.1" = import ./overrides/elasticsearch/8.15.1;
@@ -3921,6 +5728,9 @@
   };
   elasticsearch-dsl = {
     "8.15.2" = import ./overrides/elasticsearch-dsl/8.15.2;
+  };
+  elasticsearch8 = {
+    "8.15.1" = import ./overrides/elasticsearch8/8.15.1;
   };
   elasticutils = {
     "0.10.1" = import ./overrides/elasticutils/0.10.1;
@@ -3944,11 +5754,41 @@
   ellc = {
     "1.8.9" = import ./overrides/ellc/1.8.9;
   };
+  elm-framework-helpers = {
+    "0.3.1" = import ./overrides/elm-framework-helpers/0.3.1;
+  };
+  elmax = {
+    "0.1.3" = import ./overrides/elmax/0.1.3;
+  };
   elmax-api = {
     "0.0.5" = import ./overrides/elmax-api/0.0.5;
   };
+  ema-pytorch = {
+    "0.6.2" = import ./overrides/ema-pytorch/0.6.2;
+  };
+  email-reply-parser = {
+    "0.5.12" = import ./overrides/email-reply-parser/0.5.12;
+  };
+  email-validator = {
+    "2.2.0" = import ./overrides/email-validator/2.2.0;
+  };
+  emails = {
+    "0.6" = import ./overrides/emails/0.6;
+  };
+  embedding-reader = {
+    "1.7.0" = import ./overrides/embedding-reader/1.7.0;
+  };
   embit = {
     "0.8.0" = import ./overrides/embit/0.8.0;
+  };
+  emborg = {
+    "1.40" = import ./overrides/emborg/1.40;
+  };
+  embrace = {
+    "4.3.0" = import ./overrides/embrace/4.3.0;
+  };
+  emd = {
+    "0.7.0" = import ./overrides/emd/0.7.0;
   };
   emfile = {
     "0.3.0" = import ./overrides/emfile/0.3.0;
@@ -3980,8 +5820,32 @@
   encryptedsocket = {
     "3.0.0" = import ./overrides/encryptedsocket/3.0.0;
   };
+  energyflip-client = {
+    "0.2.2" = import ./overrides/energyflip-client/0.2.2;
+  };
+  energyzero = {
+    "2.1.1" = import ./overrides/energyzero/2.1.1;
+  };
+  enocean = {
+    "0.60.1" = import ./overrides/enocean/0.60.1;
+  };
+  enochecker-core = {
+    "0.10.0" = import ./overrides/enochecker-core/0.10.0;
+  };
+  enrich = {
+    "1.2.7" = import ./overrides/enrich/1.2.7;
+  };
   enterpriseattack = {
     "0.1.8" = import ./overrides/enterpriseattack/0.1.8;
+  };
+  entrypoints = {
+    "0.4" = import ./overrides/entrypoints/0.4;
+  };
+  enum34 = {
+    "1.1.10" = import ./overrides/enum34/1.1.10;
+  };
+  enumatch = {
+    "0.2.0" = import ./overrides/enumatch/0.2.0;
   };
   env = {
     "0.1.0" = import ./overrides/env/0.1.0;
@@ -3995,17 +5859,35 @@
   environmental-override = {
     "0.1.2" = import ./overrides/environmental-override/0.1.2;
   };
+  environments-utils = {
+    "1.0.15" = import ./overrides/environments-utils/1.0.15;
+  };
+  environs = {
+    "11.0.0" = import ./overrides/environs/11.0.0;
+  };
   envisage = {
     "7.0.3" = import ./overrides/envisage/7.0.3;
   };
+  envoy-utils = {
+    "0.0.1" = import ./overrides/envoy-utils/0.0.1;
+  };
   envparse = {
     "0.2.0" = import ./overrides/envparse/0.2.0;
+  };
+  envs = {
+    "1.4" = import ./overrides/envs/1.4;
+  };
+  envx = {
+    "1.0.2" = import ./overrides/envx/1.0.2;
   };
   enzyme = {
     "0.5.2" = import ./overrides/enzyme/0.5.2;
   };
   epc = {
     "0.0.5" = import ./overrides/epc/0.0.5;
+  };
+  ephem = {
+    "4.1.5" = import ./overrides/ephem/4.1.5;
   };
   ephemeral-port-reserve = {
     "1.1.4" = import ./overrides/ephemeral-port-reserve/1.1.4;
@@ -4015,6 +5897,9 @@
   };
   episcanpy = {
     "0.4.0" = import ./overrides/episcanpy/0.4.0;
+  };
+  epiweeks = {
+    "2.3.0" = import ./overrides/epiweeks/2.3.0;
   };
   epson-projector = {
     "0.5.1" = import ./overrides/epson-projector/0.5.1;
@@ -4027,6 +5912,12 @@
   };
   erlastic = {
     "2.0.0" = import ./overrides/erlastic/2.0.0;
+  };
+  errorhandler = {
+    "2.0.1" = import ./overrides/errorhandler/2.0.1;
+  };
+  es-client = {
+    "8.15.1" = import ./overrides/es-client/8.15.1;
   };
   escapism = {
     "1.0.1" = import ./overrides/escapism/1.0.1;
@@ -4049,6 +5940,9 @@
   esridump = {
     "1.13.0" = import ./overrides/esridump/1.13.0;
   };
+  essentials = {
+    "1.1.5" = import ./overrides/essentials/1.1.5;
+  };
   etcd3 = {
     "0.12.0" = import ./overrides/etcd3/0.12.0;
   };
@@ -4061,8 +5955,14 @@
   etgen = {
     "1.1.4" = import ./overrides/etgen/1.1.4;
   };
+  eth-bloom = {
+    "3.0.1" = import ./overrides/eth-bloom/3.0.1;
+  };
   eth-keys = {
     "0.5.1" = import ./overrides/eth-keys/0.5.1;
+  };
+  eth-utils = {
+    "5.0.0" = import ./overrides/eth-utils/5.0.0;
   };
   ethereum = {
     "2.3.2" = import ./overrides/ethereum/2.3.2;
@@ -4100,6 +6000,9 @@
   eventemitter = {
     "0.2.0" = import ./overrides/eventemitter/0.2.0;
   };
+  eventkit = {
+    "1.0.3" = import ./overrides/eventkit/1.0.3;
+  };
   evento = {
     "2.0.1" = import ./overrides/evento/2.0.1;
   };
@@ -4134,14 +6037,44 @@
   execo = {
     "2.8" = import ./overrides/execo/2.8;
   };
+  executing = {
+    "2.1.0" = import ./overrides/executing/2.1.0;
+  };
+  executor = {
+    "23.2" = import ./overrides/executor/23.2;
+  };
+  exitcode = {
+    "0.1.0" = import ./overrides/exitcode/0.1.0;
+  };
   exoplanet = {
     "0.6.0" = import ./overrides/exoplanet/0.6.0;
+  };
+  expandvars = {
+    "0.12.0" = import ./overrides/expandvars/0.12.0;
   };
   expects = {
     "0.9.0" = import ./overrides/expects/0.9.0;
   };
+  expiring-dict = {
+    "1.1.0" = import ./overrides/expiring-dict/1.1.0;
+  };
+  expiringdict = {
+    "1.2.2" = import ./overrides/expiringdict/1.2.2;
+  };
+  explainerdashboard = {
+    "0.4.7" = import ./overrides/explainerdashboard/0.4.7;
+  };
   extension-helpers = {
     "1.1.1" = import ./overrides/extension-helpers/1.1.1;
+  };
+  extinction = {
+    "0.4.6" = import ./overrides/extinction/0.4.6;
+  };
+  extra-streamlit-components = {
+    "0.1.71" = import ./overrides/extra-streamlit-components/0.1.71;
+  };
+  extract-msg = {
+    "0.49.0" = import ./overrides/extract-msg/0.49.0;
   };
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
@@ -4160,6 +6093,9 @@
   };
   f90nml = {
     "1.4.4" = import ./overrides/f90nml/1.4.4;
+  };
+  faadelays = {
+    "2023.9.1" = import ./overrides/faadelays/2023.9.1;
   };
   fabtools = {
     "0.20.0" = import ./overrides/fabtools/0.20.0;
@@ -4188,6 +6124,9 @@
   factor-analyzer = {
     "0.5.1" = import ./overrides/factor-analyzer/0.5.1;
   };
+  fair-esm = {
+    "2.0.0" = import ./overrides/fair-esm/2.0.0;
+  };
   fairlearn = {
     "0.10.0" = import ./overrides/fairlearn/0.10.0;
   };
@@ -4196,6 +6135,12 @@
   };
   fairseq = {
     "0.12.2" = import ./overrides/fairseq/0.12.2;
+  };
+  fake-useragent = {
+    "1.5.1" = import ./overrides/fake-useragent/1.5.1;
+  };
+  fakeredis = {
+    "2.24.1" = import ./overrides/fakeredis/2.24.1;
   };
   falcon = {
     "3.1.3" = import ./overrides/falcon/3.1.3;
@@ -4212,11 +6157,26 @@
   fancylog = {
     "0.4.2" = import ./overrides/fancylog/0.4.2;
   };
+  fanstatic = {
+    "1.4" = import ./overrides/fanstatic/1.4;
+  };
+  faraday-agent-parameters-types = {
+    "1.7.0" = import ./overrides/faraday-agent-parameters-types/1.7.0;
+  };
+  farasapy = {
+    "0.0.14" = import ./overrides/farasapy/0.0.14;
+  };
+  fast-histogram = {
+    "0.14" = import ./overrides/fast-histogram/0.14;
+  };
   fasta-reader = {
     "3.0.3" = import ./overrides/fasta-reader/3.0.3;
   };
   fastack = {
     "4.5.0" = import ./overrides/fastack/4.5.0;
+  };
+  fastai = {
+    "2.7.17" = import ./overrides/fastai/2.7.17;
   };
   fastapi-camelcase = {
     "2.0.0" = import ./overrides/fastapi-camelcase/2.0.0;
@@ -4224,14 +6184,35 @@
   fastapi-cli = {
     "0.0.5" = import ./overrides/fastapi-cli/0.0.5;
   };
+  fastapi-pagination = {
+    "0.12.27" = import ./overrides/fastapi-pagination/0.12.27;
+  };
+  fastapi-restful = {
+    "0.6.0" = import ./overrides/fastapi-restful/0.6.0;
+  };
+  fastapi-sessions = {
+    "0.3.2" = import ./overrides/fastapi-sessions/0.3.2;
+  };
+  fastapi-slim = {
+    "0.114.0" = import ./overrides/fastapi-slim/0.114.0;
+  };
+  fastapi-utils = {
+    "0.7.0" = import ./overrides/fastapi-utils/0.7.0;
+  };
   fastavro = {
     "1.9.7" = import ./overrides/fastavro/1.9.7;
   };
   fastcache = {
     "1.1.0" = import ./overrides/fastcache/1.1.0;
   };
+  fastcluster = {
+    "1.2.6" = import ./overrides/fastcluster/1.2.6;
+  };
   fastdiff = {
     "0.3.0" = import ./overrides/fastdiff/0.3.0;
+  };
+  fastdownload = {
+    "0.0.7" = import ./overrides/fastdownload/0.0.7;
   };
   fastdtw = {
     "0.3.4" = import ./overrides/fastdtw/0.3.4;
@@ -4248,8 +6229,17 @@
   fastjsonschema = {
     "2.20.0" = import ./overrides/fastjsonschema/2.20.0;
   };
+  fastlid = {
+    "0.1.12" = import ./overrides/fastlid/0.1.12;
+  };
+  fastobo = {
+    "0.12.3" = import ./overrides/fastobo/0.12.3;
+  };
   fastpbkdf2 = {
     "0.2" = import ./overrides/fastpbkdf2/0.2;
+  };
+  fastremap = {
+    "1.15.0" = import ./overrides/fastremap/1.15.0;
   };
   fastrlock = {
     "0.8.2" = import ./overrides/fastrlock/0.8.2;
@@ -4260,6 +6250,9 @@
   fasttext = {
     "0.9.3" = import ./overrides/fasttext/0.9.3;
   };
+  fastutils = {
+    "0.43.4" = import ./overrides/fastutils/0.43.4;
+  };
   fastuuid = {
     "0.8.0" = import ./overrides/fastuuid/0.8.0;
   };
@@ -4268,6 +6261,9 @@
   };
   faust-streaming = {
     "0.11.3" = import ./overrides/faust-streaming/0.11.3;
+  };
+  fava = {
+    "1.28" = import ./overrides/fava/1.28;
   };
   fbmessenger = {
     "6.0.0" = import ./overrides/fbmessenger/6.0.0;
@@ -4287,6 +6283,15 @@
   fcsparser = {
     "0.2.8" = import ./overrides/fcsparser/0.2.8;
   };
+  fcswrite = {
+    "0.6.2" = import ./overrides/fcswrite/0.6.2;
+  };
+  fdb = {
+    "2.0.2" = import ./overrides/fdb/2.0.2;
+  };
+  fdfgen = {
+    "0.16.1" = import ./overrides/fdfgen/0.16.1;
+  };
   fdint = {
     "2.0.2" = import ./overrides/fdint/2.0.2;
   };
@@ -4298,6 +6303,12 @@
   };
   feather-format = {
     "0.4.1" = import ./overrides/feather-format/0.4.1;
+  };
+  feature-engine = {
+    "1.8.1" = import ./overrides/feature-engine/1.8.1;
+  };
+  fedfind = {
+    "6.0.1" = import ./overrides/fedfind/6.0.1;
   };
   fedmsg = {
     "1.1.7" = import ./overrides/fedmsg/1.1.7;
@@ -4326,17 +6337,29 @@
   ffmpeg = {
     "1.4" = import ./overrides/ffmpeg/1.4;
   };
+  ffmpeg-python = {
+    "0.2.0" = import ./overrides/ffmpeg-python/0.2.0;
+  };
   ffprobe-python = {
     "1.0.3" = import ./overrides/ffprobe-python/1.0.3;
   };
   fgame = {
     "0.6.5" = import ./overrides/fgame/0.6.5;
   };
+  fhconfparser = {
+    "2024.1" = import ./overrides/fhconfparser/2024.1;
+  };
   fhirclient = {
     "4.2.1" = import ./overrides/fhirclient/4.2.1;
   };
+  fhirpy = {
+    "2.0.11" = import ./overrides/fhirpy/2.0.11;
+  };
   fibheap = {
     "0.2.1" = import ./overrides/fibheap/0.2.1;
+  };
+  fideslang = {
+    "3.0.4" = import ./overrides/fideslang/3.0.4;
   };
   fido = {
     "4.2.2" = import ./overrides/fido/4.2.2;
@@ -4384,11 +6407,26 @@
   filterpy = {
     "1.4.5" = import ./overrides/filterpy/1.4.5;
   };
+  financedatabase = {
+    "2.2.2" = import ./overrides/financedatabase/2.2.2;
+  };
+  finbourne-sdk-utilities = {
+    "0.0.10" = import ./overrides/finbourne-sdk-utilities/0.0.10;
+  };
+  find-libpython = {
+    "0.4.0" = import ./overrides/find-libpython/0.4.0;
+  };
   findiff = {
     "0.10.0" = import ./overrides/findiff/0.10.0;
   };
+  findimports = {
+    "2.5.0" = import ./overrides/findimports/2.5.0;
+  };
   findlibs = {
     "0.0.5" = import ./overrides/findlibs/0.0.5;
+  };
+  findspark = {
+    "2.0.1" = import ./overrides/findspark/2.0.1;
   };
   fingerprints = {
     "1.2.3" = import ./overrides/fingerprints/1.2.3;
@@ -4403,8 +6441,20 @@
     "0.5.0" = import ./overrides/fire/0.5.0;
     "0.6.0" = import ./overrides/fire/0.6.0;
   };
+  firebase-messaging = {
+    "0.4.1" = import ./overrides/firebase-messaging/0.4.1;
+  };
   firecloud = {
     "0.16.37" = import ./overrides/firecloud/0.16.37;
+  };
+  firefly-dependency-injection = {
+    "1.0.0" = import ./overrides/firefly-dependency-injection/1.0.0;
+  };
+  firefly-framework = {
+    "1.2.41" = import ./overrides/firefly-framework/1.2.41;
+  };
+  firetv = {
+    "1.0.9" = import ./overrides/firetv/1.0.9;
   };
   fireworks = {
     "2.0.3" = import ./overrides/fireworks/2.0.3;
@@ -4418,33 +6468,87 @@
   fitsio = {
     "1.2.4" = import ./overrides/fitsio/1.2.4;
   };
+  fitter = {
+    "1.7.1" = import ./overrides/fitter/1.7.1;
+  };
   fixerio = {
     "0.1.1" = import ./overrides/fixerio/0.1.1;
   };
   fixture = {
     "1.5.11" = import ./overrides/fixture/1.5.11;
   };
+  fixtures = {
+    "4.1.0" = import ./overrides/fixtures/4.1.0;
+  };
+  fjaraskupan = {
+    "2.3.0" = import ./overrides/fjaraskupan/2.3.0;
+  };
+  flair = {
+    "0.14.0" = import ./overrides/flair/0.14.0;
+  };
+  flake8 = {
+    "7.1.1" = import ./overrides/flake8/7.1.1;
+  };
+  flake8-annotations = {
+    "3.1.1" = import ./overrides/flake8-annotations/3.1.1;
+  };
   flake8-annotations-complexity = {
     "0.0.8" = import ./overrides/flake8-annotations-complexity/0.0.8;
+  };
+  flake8-assertive = {
+    "2.1.0" = import ./overrides/flake8-assertive/2.1.0;
   };
   flake8-blind-except = {
     "0.2.1" = import ./overrides/flake8-blind-except/0.2.1;
   };
+  flake8-coding = {
+    "1.3.2" = import ./overrides/flake8-coding/1.3.2;
+  };
   flake8-ensure-ascii = {
     "1.0.0" = import ./overrides/flake8-ensure-ascii/1.0.0;
+  };
+  flake8-expression-complexity = {
+    "0.0.11" = import ./overrides/flake8-expression-complexity/0.0.11;
+  };
+  flake8-future-import = {
+    "0.4.7" = import ./overrides/flake8-future-import/0.4.7;
+  };
+  flake8-length = {
+    "0.3.1" = import ./overrides/flake8-length/0.3.1;
+  };
+  flake8-mock = {
+    "0.4" = import ./overrides/flake8-mock/0.4;
   };
   flake8-mutable = {
     "1.2.0" = import ./overrides/flake8-mutable/1.2.0;
   };
+  flake8-noqa = {
+    "1.4.0" = import ./overrides/flake8-noqa/1.4.0;
+  };
   flake8-plone-hasattr = {
     "1.1.1" = import ./overrides/flake8-plone-hasattr/1.1.1;
+  };
+  flake8-plugin-utils = {
+    "1.3.3" = import ./overrides/flake8-plugin-utils/1.3.3;
+  };
+  flake8-polyfill = {
+    "1.0.2" = import ./overrides/flake8-polyfill/1.0.2;
   };
   flake8-quotes = {
     "0.14.1" = import ./overrides/flake8-quotes/0.14.1;
     "1.0.0" = import ./overrides/flake8-quotes/1.0.0;
   };
+  flake8-return = {
+    "1.2.0" = import ./overrides/flake8-return/1.2.0;
+  };
   flake8-rst-docstrings = {
     "0.3.0" = import ./overrides/flake8-rst-docstrings/0.3.0;
+  };
+  flake8-super-call = {
+    "1.0.0" = import ./overrides/flake8-super-call/1.0.0;
+  };
+  flake8-tidy-imports = {
+    "4.10.0" = import ./overrides/flake8-tidy-imports/4.10.0;
   };
   flake8-todo = {
     "0.7" = import ./overrides/flake8-todo/0.7;
@@ -4549,6 +6653,9 @@
   flask-oidc = {
     "2.2.0" = import ./overrides/flask-oidc/2.2.0;
   };
+  flask-paginate = {
+    "2024.4.12" = import ./overrides/flask-paginate/2024.4.12;
+  };
   flask-principal = {
     "0.4.0" = import ./overrides/flask-principal/0.4.0;
   };
@@ -4575,6 +6682,9 @@
   };
   flask-silk = {
     "0.2" = import ./overrides/flask-silk/0.2;
+  };
+  flask-smorest = {
+    "0.44.0" = import ./overrides/flask-smorest/0.44.0;
   };
   flask-sock = {
     "0.7.0" = import ./overrides/flask-sock/0.7.0;
@@ -4624,6 +6734,12 @@
   flexsolve = {
     "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
+  flit = {
+    "3.9.0" = import ./overrides/flit/3.9.0;
+  };
+  flit-scm = {
+    "1.7.0" = import ./overrides/flit-scm/1.7.0;
+  };
   flox-core = {
     "0.2.0" = import ./overrides/flox-core/0.2.0;
   };
@@ -4633,14 +6749,35 @@
   fluent-logger = {
     "0.11.1" = import ./overrides/fluent-logger/0.11.1;
   };
+  flufl-bounce = {
+    "2.3" = import ./overrides/flufl-bounce/2.3;
+  };
+  flwr = {
+    "1.11.0" = import ./overrides/flwr/1.11.0;
+  };
+  flynt = {
+    "1.0.1" = import ./overrides/flynt/1.0.1;
+  };
+  flyteidl = {
+    "1.13.3" = import ./overrides/flyteidl/1.13.3;
+  };
   fnvhash = {
     "0.1.0" = import ./overrides/fnvhash/0.1.0;
   };
   fogbugz = {
     "1.0.6" = import ./overrides/fogbugz/1.0.6;
   };
+  folium = {
+    "0.17.0" = import ./overrides/folium/0.17.0;
+  };
   followthemoney = {
     "3.7.1" = import ./overrides/followthemoney/3.7.1;
+  };
+  fontbakery = {
+    "0.12.10" = import ./overrides/fontbakery/0.12.10;
+  };
+  fonts = {
+    "0.0.3" = import ./overrides/fonts/0.0.3;
   };
   forbiddenfruit = {
     "0.1.4" = import ./overrides/forbiddenfruit/0.1.4;
@@ -4658,6 +6795,15 @@
   formulae = {
     "0.5.4" = import ./overrides/formulae/0.5.4;
   };
+  formulas = {
+    "1.2.8" = import ./overrides/formulas/1.2.8;
+  };
+  forte = {
+    "0.2.0" = import ./overrides/forte/0.2.0;
+  };
+  fortiosapi = {
+    "1.0.5" = import ./overrides/fortiosapi/1.0.5;
+  };
   fortnitepy = {
     "3.6.9" = import ./overrides/fortnitepy/3.6.9;
   };
@@ -4672,6 +6818,9 @@
   };
   fpdf = {
     "1.7.2" = import ./overrides/fpdf/1.7.2;
+  };
+  fps-auth = {
+    "0.6.2" = import ./overrides/fps-auth/0.6.2;
   };
   fpyutils = {
     "4.0.1" = import ./overrides/fpyutils/4.0.1;
@@ -4697,6 +6846,9 @@
   freesasa = {
     "2.2.1" = import ./overrides/freesasa/2.2.1;
   };
+  freetype-py = {
+    "2.5.1" = import ./overrides/freetype-py/2.5.1;
+  };
   frelatage = {
     "0.1.7" = import ./overrides/frelatage/0.1.7;
   };
@@ -4715,8 +6867,14 @@
   frozenlist = {
     "1.3.1" = import ./overrides/frozenlist/1.3.1;
   };
+  frozenlist2 = {
+    "1.0.0" = import ./overrides/frozenlist2/1.0.0;
+  };
   fs = {
     "2.4.16" = import ./overrides/fs/2.4.16;
+  };
+  fs-s3fs = {
+    "1.1.1" = import ./overrides/fs-s3fs/1.1.1;
   };
   fsc-export = {
     "1.2.0" = import ./overrides/fsc-export/1.2.0;
@@ -4775,6 +6933,9 @@
   };
   funcargparse = {
     "0.2.5" = import ./overrides/funcargparse/0.2.5;
+  };
+  funcparserlib = {
+    "1.0.1" = import ./overrides/funcparserlib/1.0.1;
   };
   funcsigs = {
     "1.0.2" = import ./overrides/funcsigs/1.0.2;
@@ -4840,11 +7001,20 @@
   gaegraph = {
     "3.9" = import ./overrides/gaegraph/3.9;
   };
+  galaxy-util = {
+    "24.1.1" = import ./overrides/galaxy-util/24.1.1;
+  };
   galpy = {
     "1.10.0" = import ./overrides/galpy/1.10.0;
   };
   gammapy = {
     "1.2" = import ./overrides/gammapy/1.2;
+  };
+  garages-amsterdam = {
+    "4.1.0" = import ./overrides/garages-amsterdam/4.1.0;
+  };
+  garth = {
+    "0.4.46" = import ./overrides/garth/0.4.46;
   };
   gassist-text = {
     "0.0.11" = import ./overrides/gassist-text/0.0.11;
@@ -4900,8 +7070,29 @@
   gdspy = {
     "1.6.13" = import ./overrides/gdspy/1.6.13;
   };
+  gdtoolkit = {
+    "4.3.1" = import ./overrides/gdtoolkit/4.3.1;
+  };
   gearbox = {
     "0.2.2" = import ./overrides/gearbox/0.2.2;
+  };
+  gehomesdk = {
+    "0.5.28" = import ./overrides/gehomesdk/0.5.28;
+  };
+  gekko = {
+    "1.2.1" = import ./overrides/gekko/1.2.1;
+  };
+  gemfileparser2 = {
+    "0.9.4" = import ./overrides/gemfileparser2/0.9.4;
+  };
+  genanki = {
+    "0.13.1" = import ./overrides/genanki/0.13.1;
+  };
+  gender-guesser = {
+    "0.4.0" = import ./overrides/gender-guesser/0.4.0;
+  };
+  generallibrary = {
+    "2.10.0" = import ./overrides/generallibrary/2.10.0;
   };
   genpy = {
     "2022.1" = import ./overrides/genpy/2022.1;
@@ -4942,11 +7133,29 @@
   geojson = {
     "3.1.0" = import ./overrides/geojson/3.1.0;
   };
+  geojson-pydantic = {
+    "1.1.1" = import ./overrides/geojson-pydantic/1.1.1;
+  };
+  geojson-rewind = {
+    "1.1.0" = import ./overrides/geojson-rewind/1.1.0;
+  };
+  geomeppy = {
+    "0.11.8" = import ./overrides/geomeppy/0.11.8;
+  };
   geometric = {
     "1.0.2" = import ./overrides/geometric/1.0.2;
   };
   geopy = {
     "2.4.1" = import ./overrides/geopy/2.4.1;
+  };
+  georss-ingv-centro-nazionale-terremoti-client = {
+    "0.7" = import ./overrides/georss-ingv-centro-nazionale-terremoti-client/0.7;
+  };
+  georss-nrcan-earthquakes-client = {
+    "0.4" = import ./overrides/georss-nrcan-earthquakes-client/0.4;
+  };
+  geos = {
+    "0.2.3" = import ./overrides/geos/0.2.3;
   };
   getch = {
     "1.0" = import ./overrides/getch/1.0;
@@ -4957,14 +7166,29 @@
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
+  getfilenuitkapython = {
+    "0.11" = import ./overrides/getfilenuitkapython/0.11;
+  };
+  getjson = {
+    "2.0.0" = import ./overrides/getjson/2.0.0;
+  };
   getjump = {
     "2.5.0" = import ./overrides/getjump/2.5.0;
   };
   getkey = {
     "0.6.5" = import ./overrides/getkey/0.6.5;
   };
+  getmac = {
+    "0.9.5" = import ./overrides/getmac/0.9.5;
+  };
+  getpaid-core = {
+    "0.9.2" = import ./overrides/getpaid-core/0.9.2;
+  };
   gevent = {
     "24.2.1" = import ./overrides/gevent/24.2.1;
+  };
+  geventhttpclient = {
+    "2.3.1" = import ./overrides/geventhttpclient/2.3.1;
   };
   gexml = {
     "1.2.0" = import ./overrides/gexml/1.2.0;
@@ -4978,14 +7202,29 @@
   ghdiff = {
     "0.4" = import ./overrides/ghdiff/0.4;
   };
+  giant-mixins = {
+    "0.3.8" = import ./overrides/giant-mixins/0.3.8;
+  };
   gibberish-detector = {
     "0.1.1" = import ./overrides/gibberish-detector/0.1.1;
+  };
+  gidgethub = {
+    "5.3.0" = import ./overrides/gidgethub/5.3.0;
   };
   gif2numpy = {
     "1.3" = import ./overrides/gif2numpy/1.3;
   };
+  gin-config = {
+    "0.5.0" = import ./overrides/gin-config/0.5.0;
+  };
+  gino = {
+    "1.0.1" = import ./overrides/gino/1.0.1;
+  };
   ginza = {
     "5.2.0" = import ./overrides/ginza/5.2.0;
+  };
+  gipc = {
+    "0.6.0" = import ./overrides/gipc/0.6.0;
   };
   girder = {
     "3.2.3" = import ./overrides/girder/3.2.3;
@@ -5002,8 +7241,17 @@
   gisdata = {
     "0.5.4" = import ./overrides/gisdata/0.5.4;
   };
+  gistools = {
+    "1.2.28" = import ./overrides/gistools/1.2.28;
+  };
   git-find-repos = {
     "2.1.0" = import ./overrides/git-find-repos/2.1.0;
+  };
+  git-py = {
+    "1.0.2" = import ./overrides/git-py/1.0.2;
+  };
+  git-revise = {
+    "0.7.0" = import ./overrides/git-revise/0.7.0;
   };
   git-sweep = {
     "0.1.1" = import ./overrides/git-sweep/0.1.1;
@@ -5018,8 +7266,14 @@
   gitdb = {
     "4.0.11" = import ./overrides/gitdb/4.0.11;
   };
+  github = {
+    "1.2.7" = import ./overrides/github/1.2.7;
+  };
   github-flask = {
     "3.2.0" = import ./overrides/github-flask/3.2.0;
+  };
+  github-webhook = {
+    "1.0.4" = import ./overrides/github-webhook/1.0.4;
   };
   githubpy = {
     "2.0.0" = import ./overrides/githubpy/2.0.0;
@@ -5046,6 +7300,9 @@
   };
   giturlparse-py = {
     "0.0.5" = import ./overrides/giturlparse-py/0.0.5;
+  };
+  glean-parser = {
+    "15.0.1" = import ./overrides/glean-parser/15.0.1;
   };
   glean-sdk = {
     "61.0.0" = import ./overrides/glean-sdk/61.0.0;
@@ -5104,8 +7361,20 @@
   golgi = {
     "2.0.1" = import ./overrides/golgi/2.0.1;
   };
+  goodwe = {
+    "0.4.8" = import ./overrides/goodwe/0.4.8;
+  };
+  google = {
+    "3.0.0" = import ./overrides/google/3.0.0;
+  };
+  google-ai-generativelanguage = {
+    "0.6.9" = import ./overrides/google-ai-generativelanguage/0.6.9;
+  };
   google-analytics-data = {
     "0.18.11" = import ./overrides/google-analytics-data/0.18.11;
+  };
+  google-api-core = {
+    "2.19.2" = import ./overrides/google-api-core/2.19.2;
   };
   google-api-python-client = {
     "1.7.11" = import ./overrides/google-api-python-client/1.7.11;
@@ -5119,8 +7388,83 @@
   google-apputils = {
     "0.4.2" = import ./overrides/google-apputils/0.4.2;
   };
+  google-auth-httplib2 = {
+    "0.2.0" = import ./overrides/google-auth-httplib2/0.2.0;
+  };
+  google-auth-oauthlib = {
+    "1.2.1" = import ./overrides/google-auth-oauthlib/1.2.1;
+  };
+  google-cloud-access-context-manager = {
+    "0.2.1" = import ./overrides/google-cloud-access-context-manager/0.2.1;
+  };
+  google-cloud-appengine-logging = {
+    "1.4.5" = import ./overrides/google-cloud-appengine-logging/1.4.5;
+  };
+  google-cloud-asset = {
+    "3.26.3" = import ./overrides/google-cloud-asset/3.26.3;
+  };
+  google-cloud-automl = {
+    "2.13.5" = import ./overrides/google-cloud-automl/2.13.5;
+  };
+  google-cloud-bigquery-storage = {
+    "2.26.0" = import ./overrides/google-cloud-bigquery-storage/2.26.0;
+  };
+  google-cloud-build = {
+    "3.24.2" = import ./overrides/google-cloud-build/3.24.2;
+  };
+  google-cloud-compute = {
+    "1.19.2" = import ./overrides/google-cloud-compute/1.19.2;
+  };
+  google-cloud-dlp = {
+    "3.22.0" = import ./overrides/google-cloud-dlp/3.22.0;
+  };
+  google-cloud-firestore = {
+    "2.18.0" = import ./overrides/google-cloud-firestore/2.18.0;
+  };
+  google-cloud-iam-logging = {
+    "1.3.5" = import ./overrides/google-cloud-iam-logging/1.3.5;
+  };
+  google-cloud-kms = {
+    "2.24.2" = import ./overrides/google-cloud-kms/2.24.2;
+  };
+  google-cloud-logging = {
+    "3.11.2" = import ./overrides/google-cloud-logging/3.11.2;
+  };
+  google-cloud-memcache = {
+    "1.9.5" = import ./overrides/google-cloud-memcache/1.9.5;
+  };
   google-cloud-monitoring = {
     "2.22.2" = import ./overrides/google-cloud-monitoring/2.22.2;
+  };
+  google-cloud-org-policy = {
+    "1.11.1" = import ./overrides/google-cloud-org-policy/1.11.1;
+  };
+  google-cloud-resource-manager = {
+    "1.12.5" = import ./overrides/google-cloud-resource-manager/1.12.5;
+  };
+  google-cloud-scheduler = {
+    "2.13.5" = import ./overrides/google-cloud-scheduler/2.13.5;
+  };
+  google-cloud-securitycenter = {
+    "1.34.0" = import ./overrides/google-cloud-securitycenter/1.34.0;
+  };
+  google-cloud-spanner = {
+    "3.49.1" = import ./overrides/google-cloud-spanner/3.49.1;
+  };
+  google-cloud-tasks = {
+    "2.16.5" = import ./overrides/google-cloud-tasks/2.16.5;
+  };
+  google-cloud-workstations = {
+    "0.5.8" = import ./overrides/google-cloud-workstations/0.5.8;
+  };
+  google-compute-engine = {
+    "2.8.13" = import ./overrides/google-compute-engine/2.8.13;
+  };
+  google-crc32c = {
+    "1.6.0" = import ./overrides/google-crc32c/1.6.0;
+  };
+  google-datacatalog-connectors-commons = {
+    "0.6.9" = import ./overrides/google-datacatalog-connectors-commons/0.6.9;
   };
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
@@ -5128,8 +7472,14 @@
   google-images-download = {
     "2.8.0" = import ./overrides/google-images-download/2.8.0;
   };
+  google-nest-sdm = {
+    "5.0.1" = import ./overrides/google-nest-sdm/5.0.1;
+  };
   google-pasta = {
     "0.2.0" = import ./overrides/google-pasta/0.2.0;
+  };
+  google-resumable-media = {
+    "2.7.2" = import ./overrides/google-resumable-media/2.7.2;
   };
   google-search-results = {
     "2.4.2" = import ./overrides/google-search-results/2.4.2;
@@ -5163,6 +7513,15 @@
   };
   googletransx = {
     "2.4.2" = import ./overrides/googletransx/2.4.2;
+  };
+  gorilla = {
+    "0.4.0" = import ./overrides/gorilla/0.4.0;
+  };
+  gotenberg-client = {
+    "0.6.0" = import ./overrides/gotenberg-client/0.6.0;
+  };
+  govee-ble = {
+    "0.40.0" = import ./overrides/govee-ble/0.40.0;
   };
   govee-led-wez = {
     "0.0.15" = import ./overrides/govee-led-wez/0.0.15;
@@ -5222,6 +7581,18 @@
   gradient-utils = {
     "0.5.0" = import ./overrides/gradient-utils/0.5.0;
   };
+  gradio-client = {
+    "1.3.0" = import ./overrides/gradio-client/1.3.0;
+  };
+  grafanalib = {
+    "0.7.1" = import ./overrides/grafanalib/0.7.1;
+  };
+  grai-client = {
+    "0.3.5" = import ./overrides/grai-client/0.3.5;
+  };
+  graia-broadcast = {
+    "0.23.5" = import ./overrides/graia-broadcast/0.23.5;
+  };
   grapheme = {
     "0.6.0" = import ./overrides/grapheme/0.6.0;
   };
@@ -5234,12 +7605,39 @@
   graphenelib = {
     "1.6.1" = import ./overrides/graphenelib/1.6.1;
   };
+  graphio = {
+    "0.9.3" = import ./overrides/graphio/0.9.3;
+  };
   graphlib-backport = {
     "1.1.0" = import ./overrides/graphlib-backport/1.1.0;
+  };
+  graphql-core = {
+    "3.2.4" = import ./overrides/graphql-core/3.2.4;
   };
   graphql-server-core = {
     "1.1.3" = import ./overrides/graphql-server-core/1.1.3;
     "2.0.0" = import ./overrides/graphql-server-core/2.0.0;
+  };
+  graphql-ws = {
+    "0.4.4" = import ./overrides/graphql-ws/0.4.4;
+  };
+  grappelli-safe = {
+    "1.1.1" = import ./overrides/grappelli-safe/1.1.1;
+  };
+  graspologic = {
+    "3.4.1" = import ./overrides/graspologic/3.4.1;
+  };
+  graypy = {
+    "2.1.0" = import ./overrides/graypy/2.1.0;
+  };
+  graze = {
+    "0.1.24" = import ./overrides/graze/0.1.24;
+  };
+  great-expectations = {
+    "1.0.2" = import ./overrides/great-expectations/1.0.2;
+  };
+  greeclimate = {
+    "2.1.0" = import ./overrides/greeclimate/2.1.0;
   };
   greenery = {
     "4.2.2" = import ./overrides/greenery/4.2.2;
@@ -5250,11 +7648,20 @@
   greynoise = {
     "2.3.0" = import ./overrides/greynoise/2.3.0;
   };
+  griffe = {
+    "1.3.1" = import ./overrides/griffe/1.3.1;
+  };
+  grip = {
+    "4.6.2" = import ./overrides/grip/4.6.2;
+  };
   gripcontrol = {
     "4.2.0" = import ./overrides/gripcontrol/4.2.0;
   };
   groestlcoin-hash = {
     "1.0.3" = import ./overrides/groestlcoin-hash/1.0.3;
+  };
+  grokui-base = {
+    "0.8.2" = import ./overrides/grokui-base/0.8.2;
   };
   grpc-gateway-protoc-gen-openapiv2 = {
     "0.1.0" = import ./overrides/grpc-gateway-protoc-gen-openapiv2/0.1.0;
@@ -5267,14 +7674,23 @@
     "0.11.1" = import ./overrides/grpc-google-pubsub-v1/0.11.1;
     "0.8.1" = import ./overrides/grpc-google-pubsub-v1/0.8.1;
   };
-  grpc-stubs = {
-    "1.53.0.5" = import ./overrides/grpc-stubs/1.53.0.5;
-  };
   grpc-interceptor = {
     "0.15.4" = import ./overrides/grpc-interceptor/0.15.4;
   };
+  grpc-stubs = {
+    "1.53.0.5" = import ./overrides/grpc-stubs/1.53.0.5;
+  };
   grpcio = {
     "1.57.0" = import ./overrides/grpcio/1.57.0;
+  };
+  grpcio-health-checking = {
+    "1.66.1" = import ./overrides/grpcio-health-checking/1.66.1;
+  };
+  grpcio-reflection = {
+    "1.66.1" = import ./overrides/grpcio-reflection/1.66.1;
+  };
+  grpcio-status = {
+    "1.66.1" = import ./overrides/grpcio-status/1.66.1;
   };
   grpcio-testing = {
     "1.66.1" = import ./overrides/grpcio-testing/1.66.1;
@@ -5315,8 +7731,32 @@
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
+  guidata = {
+    "3.6.3" = import ./overrides/guidata/3.6.3;
+  };
   gunicorn = {
     "23.0.0" = import ./overrides/gunicorn/23.0.0;
+  };
+  gviz-api = {
+    "1.10.0" = import ./overrides/gviz-api/1.10.0;
+  };
+  gvm-tools = {
+    "24.8.0" = import ./overrides/gvm-tools/24.8.0;
+  };
+  gwcs = {
+    "0.21.0" = import ./overrides/gwcs/0.21.0;
+  };
+  gwdatafind = {
+    "1.2.0" = import ./overrides/gwdatafind/1.2.0;
+  };
+  gwosc = {
+    "0.7.1" = import ./overrides/gwosc/0.7.1;
+  };
+  gwpy = {
+    "3.0.10" = import ./overrides/gwpy/3.0.10;
+  };
+  gwtrigfind = {
+    "0.8.2" = import ./overrides/gwtrigfind/0.8.2;
   };
   gym = {
     "0.26.2" = import ./overrides/gym/0.26.2;
@@ -5406,6 +7846,9 @@
   hdf5storage = {
     "0.1.19" = import ./overrides/hdf5storage/0.1.19;
   };
+  hdfdict = {
+    "0.3.1" = import ./overrides/hdfdict/0.3.1;
+  };
   hdfs = {
     "2.7.3" = import ./overrides/hdfs/2.7.3;
   };
@@ -5427,6 +7870,9 @@
   hearthstone = {
     "9.10.0" = import ./overrides/hearthstone/9.10.0;
   };
+  heaserver = {
+    "1.10.6" = import ./overrides/heaserver/1.10.6;
+  };
   heatshrink2 = {
     "0.13.0" = import ./overrides/heatshrink2/0.13.0;
   };
@@ -5445,8 +7891,14 @@
   helputils = {
     "1.4.38" = import ./overrides/helputils/1.4.38;
   };
+  hepunits = {
+    "2.3.4" = import ./overrides/hepunits/2.3.4;
+  };
   here-routing = {
     "1.0.1" = import ./overrides/here-routing/1.0.1;
+  };
+  here-transit = {
+    "1.2.1" = import ./overrides/here-transit/1.2.1;
   };
   hetzner = {
     "0.8.3" = import ./overrides/hetzner/0.8.3;
@@ -5478,6 +7930,9 @@
   hgtools = {
     "10.1.0" = import ./overrides/hgtools/10.1.0;
   };
+  hgvs = {
+    "1.5.4" = import ./overrides/hgvs/1.5.4;
+  };
   hic-straw = {
     "1.3.1" = import ./overrides/hic-straw/1.3.1;
   };
@@ -5487,11 +7942,29 @@
   hierplace = {
     "1.1.0" = import ./overrides/hierplace/1.1.0;
   };
+  hikari = {
+    "2.0.0" = import ./overrides/hikari/2.0.0;
+  };
+  hikvision = {
+    "2.0.4" = import ./overrides/hikvision/2.0.4;
+  };
+  hiredis = {
+    "3.0.0" = import ./overrides/hiredis/3.0.0;
+  };
   hishel = {
     "0.0.30" = import ./overrides/hishel/0.0.30;
   };
+  hist = {
+    "2.8.0" = import ./overrides/hist/2.8.0;
+  };
   hitchbuild = {
     "0.6.3" = import ./overrides/hitchbuild/0.6.3;
+  };
+  hitchtest = {
+    "0.9.12" = import ./overrides/hitchtest/0.9.12;
+  };
+  hjson = {
+    "3.1.0" = import ./overrides/hjson/3.1.0;
   };
   hkavr = {
     "0.0.5" = import ./overrides/hkavr/0.0.5;
@@ -5515,17 +7988,26 @@
   holidays = {
     "0.56" = import ./overrides/holidays/0.56;
   };
+  home-assistant-bluetooth = {
+    "1.12.2" = import ./overrides/home-assistant-bluetooth/1.12.2;
+  };
   home-assistant-chip-core = {
     "2024.7.1" = import ./overrides/home-assistant-chip-core/2024.7.1;
   };
   homeassistant = {
     "2024.9.1" = import ./overrides/homeassistant/2024.9.1;
   };
+  homematicip = {
+    "1.1.2" = import ./overrides/homematicip/1.1.2;
+  };
   homura = {
     "0.1.5" = import ./overrides/homura/0.1.5;
   };
   honeybee-core = {
     "1.58.46" = import ./overrides/honeybee-core/1.58.46;
+  };
+  honeycomb-beeline = {
+    "3.6.0" = import ./overrides/honeycomb-beeline/3.6.0;
   };
   hopcroftkarp = {
     "1.2.5" = import ./overrides/hopcroftkarp/1.2.5;
@@ -5560,6 +8042,15 @@
   hsluv = {
     "5.0.4" = import ./overrides/hsluv/5.0.4;
   };
+  html-json-forms = {
+    "1.1.1" = import ./overrides/html-json-forms/1.1.1;
+  };
+  html-sanitizer = {
+    "2.4.4" = import ./overrides/html-sanitizer/2.4.4;
+  };
+  html-tag-names = {
+    "0.1.2" = import ./overrides/html-tag-names/0.1.2;
+  };
   html2markdown = {
     "0.1.7" = import ./overrides/html2markdown/0.1.7;
   };
@@ -5571,6 +8062,12 @@
   };
   html5print = {
     "0.1.2" = import ./overrides/html5print/0.1.2;
+  };
+  html5tagger = {
+    "1.3.0" = import ./overrides/html5tagger/1.3.0;
+  };
+  htmldate = {
+    "1.9.0" = import ./overrides/htmldate/1.9.0;
   };
   htmllaundry = {
     "2.2" = import ./overrides/htmllaundry/2.2;
@@ -5624,8 +8121,17 @@
   httpretty = {
     "1.1.4" = import ./overrides/httpretty/1.1.4;
   };
+  httpserver = {
+    "1.1.0" = import ./overrides/httpserver/1.1.0;
+  };
   httpsig = {
     "1.3.0" = import ./overrides/httpsig/1.3.0;
+  };
+  httpx-socks = {
+    "0.9.1" = import ./overrides/httpx-socks/0.9.1;
+  };
+  httpx-sse = {
+    "0.4.0" = import ./overrides/httpx-sse/0.4.0;
   };
   huawei-lte-api = {
     "1.9.3" = import ./overrides/huawei-lte-api/1.9.3;
@@ -5641,6 +8147,9 @@
   };
   huggingface-hub = {
     "0.24.6" = import ./overrides/huggingface-hub/0.24.6;
+  };
+  human-readable = {
+    "1.3.4" = import ./overrides/human-readable/1.3.4;
   };
   humanize = {
     "0.5.1" = import ./overrides/humanize/0.5.1;
@@ -5660,11 +8169,20 @@
   hunspell = {
     "0.5.5" = import ./overrides/hunspell/0.5.5;
   };
+  hurry-jquery = {
+    "1.4.3.1" = import ./overrides/hurry-jquery/1.4.3.1;
+  };
   hurry-resource = {
     "0.10" = import ./overrides/hurry-resource/0.10;
   };
+  hurry-workflow = {
+    "3.0.2" = import ./overrides/hurry-workflow/3.0.2;
+  };
   husl = {
     "4.0.3" = import ./overrides/husl/4.0.3;
+  };
+  hvac = {
+    "2.3.0" = import ./overrides/hvac/2.3.0;
   };
   hvplot = {
     "0.10.0" = import ./overrides/hvplot/0.10.0;
@@ -5699,14 +8217,23 @@
   hyperloglog = {
     "0.0.14" = import ./overrides/hyperloglog/0.0.14;
   };
+  hyperspy = {
+    "2.1.1" = import ./overrides/hyperspy/2.1.1;
+  };
   hypothesis-graphql = {
     "0.11.1" = import ./overrides/hypothesis-graphql/0.11.1;
+  };
+  hypothesmith = {
+    "0.3.3" = import ./overrides/hypothesmith/0.3.3;
   };
   hyrule = {
     "0.6.0" = import ./overrides/hyrule/0.6.0;
   };
   i-mongodb = {
     "2.0.1" = import ./overrides/i-mongodb/2.0.1;
+  };
+  i2cdevice = {
+    "1.0.0" = import ./overrides/i2cdevice/1.0.0;
   };
   i3-instant-layout = {
     "0.1.12" = import ./overrides/i3-instant-layout/0.1.12;
@@ -5716,6 +8243,9 @@
   };
   iapws = {
     "1.5.4" = import ./overrides/iapws/1.5.4;
+  };
+  iaswn = {
+    "0.1.11" = import ./overrides/iaswn/0.1.11;
   };
   ib-insync = {
     "0.9.86" = import ./overrides/ib-insync/0.9.86;
@@ -5741,6 +8271,9 @@
   ibm-watson = {
     "8.1.0" = import ./overrides/ibm-watson/8.1.0;
   };
+  icalendar = {
+    "5.0.13" = import ./overrides/icalendar/5.0.13;
+  };
   icmplib = {
     "3.0.4" = import ./overrides/icmplib/3.0.4;
   };
@@ -5749,6 +8282,9 @@
   };
   icontract = {
     "2.6.6" = import ./overrides/icontract/2.6.6;
+  };
+  id = {
+    "1.4.0" = import ./overrides/id/1.4.0;
   };
   idds-common = {
     "2.1.40" = import ./overrides/idds-common/2.1.40;
@@ -5761,6 +8297,9 @@
   };
   idx2numpy = {
     "1.2.3" = import ./overrides/idx2numpy/1.2.3;
+  };
+  iexfinance = {
+    "0.5.0" = import ./overrides/iexfinance/0.5.0;
   };
   ifcfg = {
     "0.24" = import ./overrides/ifcfg/0.24;
@@ -5810,6 +8349,9 @@
   imantics = {
     "0.1.12" = import ./overrides/imantics/0.1.12;
   };
+  imbalanced-learn = {
+    "0.12.3" = import ./overrides/imbalanced-learn/0.12.3;
+  };
   imblearn = {
     "0.0" = import ./overrides/imblearn/0.0;
   };
@@ -5818,6 +8360,9 @@
   };
   imgcat = {
     "0.5.0" = import ./overrides/imgcat/0.5.0;
+  };
+  imgdiff = {
+    "1.7.1" = import ./overrides/imgdiff/1.7.1;
   };
   imgkit = {
     "1.2.3" = import ./overrides/imgkit/1.2.3;
@@ -5859,6 +8404,9 @@
   impaf = {
     "0.1.1" = import ./overrides/impaf/0.1.1;
   };
+  implements = {
+    "0.3.0" = import ./overrides/implements/0.3.0;
+  };
   implicit = {
     "0.7.2" = import ./overrides/implicit/0.7.2;
   };
@@ -5871,8 +8419,14 @@
   importlib2 = {
     "3.5.0.2" = import ./overrides/importlib2/3.5.0.2;
   };
+  importmagic = {
+    "0.1.7" = import ./overrides/importmagic/0.1.7;
+  };
   importnb = {
     "2023.11.1" = import ./overrides/importnb/2023.11.1;
+  };
+  impyla = {
+    "0.19.0" = import ./overrides/impyla/0.19.0;
   };
   imread = {
     "0.7.6" = import ./overrides/imread/0.7.6;
@@ -5883,8 +8437,23 @@
   imutils = {
     "0.5.4" = import ./overrides/imutils/0.5.4;
   };
+  in-place = {
+    "1.0.0" = import ./overrides/in-place/1.0.0;
+  };
   incomfort-client = {
     "0.6.3.post1" = import ./overrides/incomfort-client/0.6.3.post1;
+  };
+  incremental = {
+    "24.7.2" = import ./overrides/incremental/24.7.2;
+  };
+  indra = {
+    "1.23.0" = import ./overrides/indra/1.23.0;
+  };
+  infi-cwrap = {
+    "0.2.14" = import ./overrides/infi-cwrap/0.2.14;
+  };
+  infi-exceptools = {
+    "0.2.15" = import ./overrides/infi-exceptools/0.2.15;
   };
   infi-execute = {
     "0.1.8" = import ./overrides/infi-execute/0.1.8;
@@ -5934,6 +8503,9 @@
   injson = {
     "0.4.1" = import ./overrides/injson/0.4.1;
   };
+  inkbird-ble = {
+    "0.5.8" = import ./overrides/inkbird-ble/0.5.8;
+  };
   inmanta-core = {
     "13.0.1" = import ./overrides/inmanta-core/13.0.1;
   };
@@ -5952,6 +8524,12 @@
   inputs = {
     "0.5" = import ./overrides/inputs/0.5;
   };
+  inscriptis = {
+    "2.5.0" = import ./overrides/inscriptis/2.5.0;
+  };
+  insegel = {
+    "1.3.1" = import ./overrides/insegel/1.3.1;
+  };
   insightface = {
     "0.7.3" = import ./overrides/insightface/0.7.3;
   };
@@ -5960,6 +8538,9 @@
   };
   inspect-it = {
     "0.3.2" = import ./overrides/inspect-it/0.3.2;
+  };
+  inspecta = {
+    "0.1.3" = import ./overrides/inspecta/0.1.3;
   };
   inspire-utils = {
     "3.0.61" = import ./overrides/inspire-utils/3.0.61;
@@ -5979,8 +8560,20 @@
   instaloader = {
     "4.13.1" = import ./overrides/instaloader/4.13.1;
   };
+  instancelib = {
+    "0.5.0" = import ./overrides/instancelib/0.5.0;
+  };
+  instapy = {
+    "0.6.16" = import ./overrides/instapy/0.6.16;
+  };
   intake-esm = {
     "2024.2.6" = import ./overrides/intake-esm/2024.2.6;
+  };
+  intake-geopandas = {
+    "0.4.0" = import ./overrides/intake-geopandas/0.4.0;
+  };
+  intake-xarray = {
+    "0.7.0" = import ./overrides/intake-xarray/0.7.0;
   };
   interegular = {
     "0.3.3" = import ./overrides/interegular/0.3.3;
@@ -5997,6 +8590,9 @@
   intermake = {
     "1.0.0.78" = import ./overrides/intermake/1.0.0.78;
   };
+  interpolation = {
+    "2.2.7" = import ./overrides/interpolation/2.2.7;
+  };
   interpret-community = {
     "0.31.0" = import ./overrides/interpret-community/0.31.0;
   };
@@ -6009,23 +8605,92 @@
   intervaltree = {
     "3.1.0" = import ./overrides/intervaltree/3.1.0;
   };
+  invenio = {
+    "3.4.1" = import ./overrides/invenio/3.4.1;
+  };
   invenio-access = {
     "2.0.0" = import ./overrides/invenio-access/2.0.0;
+  };
+  invenio-admin = {
+    "1.5.0" = import ./overrides/invenio-admin/1.5.0;
+  };
+  invenio-administration = {
+    "2.5.0" = import ./overrides/invenio-administration/2.5.0;
+  };
+  invenio-app = {
+    "1.5.0" = import ./overrides/invenio-app/1.5.0;
+  };
+  invenio-communities = {
+    "15.0.0" = import ./overrides/invenio-communities/15.0.0;
+  };
+  invenio-config = {
+    "1.0.4" = import ./overrides/invenio-config/1.0.4;
+  };
+  invenio-db = {
+    "1.1.5" = import ./overrides/invenio-db/1.1.5;
   };
   invenio-github = {
     "1.5.2" = import ./overrides/invenio-github/1.5.2;
   };
+  invenio-i18n = {
+    "2.1.2" = import ./overrides/invenio-i18n/2.1.2;
+  };
+  invenio-jsonschemas = {
+    "1.1.4" = import ./overrides/invenio-jsonschemas/1.1.4;
+  };
+  invenio-logging = {
+    "2.1.1" = import ./overrides/invenio-logging/2.1.1;
+  };
+  invenio-mail = {
+    "2.1.1" = import ./overrides/invenio-mail/2.1.1;
+  };
   invenio-oaiserver = {
     "2.2.1" = import ./overrides/invenio-oaiserver/2.2.1;
+  };
+  invenio-oauth2server = {
+    "2.3.1" = import ./overrides/invenio-oauth2server/2.3.1;
+  };
+  invenio-pidstore = {
+    "1.3.1" = import ./overrides/invenio-pidstore/1.3.1;
   };
   invenio-rdm-records = {
     "12.1.0" = import ./overrides/invenio-rdm-records/12.1.0;
   };
+  invenio-records = {
+    "2.3.0" = import ./overrides/invenio-records/2.3.0;
+  };
+  invenio-records-files = {
+    "1.2.1" = import ./overrides/invenio-records-files/1.2.1;
+  };
+  invenio-records-rest = {
+    "2.4.1" = import ./overrides/invenio-records-rest/2.4.1;
+  };
   invenio-records-ui = {
     "1.2.1" = import ./overrides/invenio-records-ui/1.2.1;
   };
+  invenio-rest = {
+    "1.3.1" = import ./overrides/invenio-rest/1.3.1;
+  };
+  invenio-theme = {
+    "3.3.0" = import ./overrides/invenio-theme/3.3.0;
+  };
+  invenio-utils = {
+    "0.2.0" = import ./overrides/invenio-utils/0.2.0;
+  };
+  invenio-vocabularies = {
+    "5.0.3" = import ./overrides/invenio-vocabularies/5.0.3;
+  };
+  invisibleroads-macros = {
+    "0.9.5.1" = import ./overrides/invisibleroads-macros/0.9.5.1;
+  };
+  invoke = {
+    "2.2.0" = import ./overrides/invoke/2.2.0;
+  };
   iocapture = {
     "0.1.2" = import ./overrides/iocapture/0.1.2;
+  };
+  iocextract = {
+    "1.16.1" = import ./overrides/iocextract/1.16.1;
   };
   iocsearcher = {
     "2.4.1" = import ./overrides/iocsearcher/2.4.1;
@@ -6060,6 +8725,9 @@
   ip-associations-python-novaclient-ext = {
     "0.2" = import ./overrides/ip-associations-python-novaclient-ext/0.2;
   };
+  ipaddr = {
+    "2.2.0" = import ./overrides/ipaddr/2.2.0;
+  };
   ipadic = {
     "1.0.0" = import ./overrides/ipadic/1.0.0;
   };
@@ -6075,20 +8743,68 @@
   iperf3 = {
     "0.1.11" = import ./overrides/iperf3/0.1.11;
   };
+  ipfshttpclient = {
+    "0.7.0" = import ./overrides/ipfshttpclient/0.7.0;
+  };
   iptools = {
     "0.7.0" = import ./overrides/iptools/0.7.0;
+  };
+  ipwhois = {
+    "1.2.0" = import ./overrides/ipwhois/1.2.0;
   };
   ipy = {
     "1.1" = import ./overrides/ipy/1.1;
   };
+  ipydex = {
+    "0.16.2" = import ./overrides/ipydex/0.16.2;
+  };
+  ipyfilechooser = {
+    "0.6.0" = import ./overrides/ipyfilechooser/0.6.0;
+  };
+  ipykernel = {
+    "6.29.5" = import ./overrides/ipykernel/6.29.5;
+  };
+  ipylib = {
+    "0.3.1" = import ./overrides/ipylib/0.3.1;
+  };
   ipymarkup = {
     "0.9.0" = import ./overrides/ipymarkup/0.9.0;
+  };
+  ipyplot = {
+    "1.1.2" = import ./overrides/ipyplot/1.1.2;
+  };
+  ipython = {
+    "8.27.0" = import ./overrides/ipython/8.27.0;
+  };
+  ipython-autotime = {
+    "0.3.2" = import ./overrides/ipython-autotime/0.3.2;
+  };
+  ipython-cluster-helper = {
+    "0.6.4" = import ./overrides/ipython-cluster-helper/0.6.4;
+  };
+  ipythonblocks = {
+    "1.9.1" = import ./overrides/ipythonblocks/1.9.1;
+  };
+  ipyvue = {
+    "1.11.1" = import ./overrides/ipyvue/1.11.1;
+  };
+  ipywidgets = {
+    "8.1.5" = import ./overrides/ipywidgets/8.1.5;
   };
   ipyxact = {
     "0.3.2" = import ./overrides/ipyxact/0.3.2;
   };
+  irc3 = {
+    "1.1.10" = import ./overrides/irc3/1.1.10;
+  };
+  isbnlib = {
+    "3.10.14" = import ./overrides/isbnlib/3.10.14;
+  };
   isiter = {
     "0.10" = import ./overrides/isiter/0.10;
+  };
+  ismember = {
+    "1.0.5" = import ./overrides/ismember/1.0.5;
   };
   iso-639 = {
     "0.4.5" = import ./overrides/iso-639/0.4.5;
@@ -6117,8 +8833,26 @@
   isounidecode = {
     "0.3" = import ./overrides/isounidecode/0.3;
   };
+  itemadapter = {
+    "0.9.0" = import ./overrides/itemadapter/0.9.0;
+  };
   itemdb = {
     "1.2.0" = import ./overrides/itemdb/1.2.0;
+  };
+  itemloaders = {
+    "1.3.1" = import ./overrides/itemloaders/1.3.1;
+  };
+  iterm2 = {
+    "2.7" = import ./overrides/iterm2/2.7;
+  };
+  itkwidgets = {
+    "0.32.6" = import ./overrides/itkwidgets/0.32.6;
+  };
+  itsdangerous = {
+    "2.2.0" = import ./overrides/itsdangerous/2.2.0;
+  };
+  itunespy = {
+    "1.6.1" = import ./overrides/itunespy/1.6.1;
   };
   ivy = {
     "0.0.9.7" = import ./overrides/ivy/0.0.9.7;
@@ -6153,6 +8887,12 @@
   janus = {
     "1.0.0" = import ./overrides/janus/1.0.0;
   };
+  jarowinkler = {
+    "2.0.1" = import ./overrides/jarowinkler/2.0.1;
+  };
+  jaseci = {
+    "1.4.2.6" = import ./overrides/jaseci/1.4.2.6;
+  };
   javabridge = {
     "1.0.19" = import ./overrides/javabridge/1.0.19;
   };
@@ -6168,6 +8908,9 @@
   jaxlinop = {
     "0.0.3" = import ./overrides/jaxlinop/0.0.3;
   };
+  jaxtyping = {
+    "0.2.34" = import ./overrides/jaxtyping/0.2.34;
+  };
   jc = {
     "1.25.3" = import ./overrides/jc/1.25.3;
   };
@@ -6177,8 +8920,20 @@
   jdcal = {
     "1.4.1" = import ./overrides/jdcal/1.4.1;
   };
+  jedi = {
+    "0.19.1" = import ./overrides/jedi/0.19.1;
+  };
+  jedi-language-server = {
+    "0.41.4" = import ./overrides/jedi-language-server/0.41.4;
+  };
+  jello = {
+    "1.6.0" = import ./overrides/jello/1.6.0;
+  };
   jenkins = {
     "1.0.2" = import ./overrides/jenkins/1.0.2;
+  };
+  jenkinsapi = {
+    "0.3.13" = import ./overrides/jenkinsapi/0.3.13;
   };
   jenkspy = {
     "0.4.1" = import ./overrides/jenkspy/0.4.1;
@@ -6225,6 +8980,18 @@
   jinjasql = {
     "0.1.8" = import ./overrides/jinjasql/0.1.8;
   };
+  jira = {
+    "3.8.0" = import ./overrides/jira/3.8.0;
+  };
+  jira-python = {
+    "0.2.4" = import ./overrides/jira-python/0.2.4;
+  };
+  jishaku = {
+    "2.5.2" = import ./overrides/jishaku/2.5.2;
+  };
+  jiwer = {
+    "3.0.4" = import ./overrides/jiwer/3.0.4;
+  };
   jmbo = {
     "3.0.5" = import ./overrides/jmbo/3.0.5;
   };
@@ -6254,6 +9021,9 @@
   };
   jproperties = {
     "2.1.2" = import ./overrides/jproperties/2.1.2;
+  };
+  jpylyzer = {
+    "2.2.1" = import ./overrides/jpylyzer/2.2.1;
   };
   jquery-layer = {
     "1.0.0" = import ./overrides/jquery-layer/1.0.0;
@@ -6319,6 +9089,9 @@
   json-database = {
     "0.7.0" = import ./overrides/json-database/0.7.0;
   };
+  json-e = {
+    "4.7.1" = import ./overrides/json-e/4.7.1;
+  };
   json-lines = {
     "0.5.0" = import ./overrides/json-lines/0.5.0;
   };
@@ -6343,6 +9116,24 @@
   json2html = {
     "1.3.0" = import ./overrides/json2html/1.3.0;
   };
+  json2table = {
+    "1.1.5" = import ./overrides/json2table/1.1.5;
+  };
+  json2xml = {
+    "5.0.5" = import ./overrides/json2xml/5.0.5;
+  };
+  jsonable = {
+    "0.3.1" = import ./overrides/jsonable/0.3.1;
+  };
+  jsonargparse = {
+    "4.32.1" = import ./overrides/jsonargparse/4.32.1;
+  };
+  jsonasobj = {
+    "1.3.1" = import ./overrides/jsonasobj/1.3.1;
+  };
+  jsonconf = {
+    "0.1.4" = import ./overrides/jsonconf/0.1.4;
+  };
   jsonconversion = {
     "1.0.1" = import ./overrides/jsonconversion/1.0.1;
   };
@@ -6366,6 +9157,9 @@
   };
   jsonify = {
     "0.5" = import ./overrides/jsonify/0.5;
+  };
+  jsonlines = {
+    "4.0.0" = import ./overrides/jsonlines/4.0.0;
   };
   jsonmodels = {
     "2.7.0" = import ./overrides/jsonmodels/2.7.0;
@@ -6416,6 +9210,9 @@
   jsonrpclib = {
     "0.2.1" = import ./overrides/jsonrpclib/0.2.1;
   };
+  jsonrpclib-pelix = {
+    "0.4.3.3" = import ./overrides/jsonrpclib-pelix/0.4.3.3;
+  };
   jsonrpcserver = {
     "5.0.9" = import ./overrides/jsonrpcserver/5.0.9;
   };
@@ -6443,6 +9240,9 @@
   jupyter = {
     "1.1.1" = import ./overrides/jupyter/1.1.1;
   };
+  jupyter-console = {
+    "6.6.3" = import ./overrides/jupyter-console/6.6.3;
+  };
   jupyter-contrib-core = {
     "0.4.2" = import ./overrides/jupyter-contrib-core/0.4.2;
   };
@@ -6455,14 +9255,65 @@
   jupyter-existing-provisioner = {
     "0.1.3" = import ./overrides/jupyter-existing-provisioner/0.1.3;
   };
+  jupyter-repo2docker = {
+    "2024.7.0" = import ./overrides/jupyter-repo2docker/2024.7.0;
+  };
+  jupyter-server-fileid = {
+    "0.9.3" = import ./overrides/jupyter-server-fileid/0.9.3;
+  };
+  jupyter-server-mathjax = {
+    "0.2.6" = import ./overrides/jupyter-server-mathjax/0.2.6;
+  };
+  jupyter-ui-poll = {
+    "1.0.0" = import ./overrides/jupyter-ui-poll/1.0.0;
+  };
+  jupyterhub-systemdspawner = {
+    "1.0.1" = import ./overrides/jupyterhub-systemdspawner/1.0.1;
+  };
+  jupyterlab-lsp = {
+    "5.1.0" = import ./overrides/jupyterlab-lsp/5.1.0;
+  };
   justnimbus = {
     "0.7.4" = import ./overrides/justnimbus/0.7.4;
+  };
+  justpy = {
+    "0.14.0" = import ./overrides/justpy/0.14.0;
+  };
+  jutl = {
+    "0.5.3" = import ./overrides/jutl/0.5.3;
+  };
+  jw-util = {
+    "2.3" = import ./overrides/jw-util/2.3;
+  };
+  jwcrypto = {
+    "1.5.6" = import ./overrides/jwcrypto/1.5.6;
   };
   jws = {
     "0.1.3" = import ./overrides/jws/0.1.3;
   };
+  jxmlease = {
+    "1.0.3" = import ./overrides/jxmlease/1.0.3;
+  };
+  k-means-constrained = {
+    "0.7.3" = import ./overrides/k-means-constrained/0.7.3;
+  };
+  k3confloader = {
+    "0.1.1" = import ./overrides/k3confloader/0.1.1;
+  };
+  k3fs = {
+    "0.1.6" = import ./overrides/k3fs/0.1.6;
+  };
+  k3proc = {
+    "0.2.13" = import ./overrides/k3proc/0.2.13;
+  };
+  k3thread = {
+    "0.1.3" = import ./overrides/k3thread/0.1.3;
+  };
   k3utfjson = {
     "0.1.1" = import ./overrides/k3utfjson/0.1.1;
+  };
+  k5test = {
+    "0.10.4" = import ./overrides/k5test/0.10.4;
   };
   kabaret = {
     "2.3.0" = import ./overrides/kabaret/2.3.0;
@@ -6485,6 +9336,12 @@
   kaitaistruct = {
     "0.10" = import ./overrides/kaitaistruct/0.10;
   };
+  kajiki = {
+    "0.9.2" = import ./overrides/kajiki/0.9.2;
+  };
+  kalasiris = {
+    "1.11.0" = import ./overrides/kalasiris/1.11.0;
+  };
   kamene = {
     "0.32" = import ./overrides/kamene/0.32;
   };
@@ -6505,6 +9362,12 @@
   };
   kavenegar = {
     "1.1.2" = import ./overrides/kavenegar/1.1.2;
+  };
+  kazoo = {
+    "2.10.0" = import ./overrides/kazoo/2.10.0;
+  };
+  kcu = {
+    "0.0.73" = import ./overrides/kcu/0.0.73;
   };
   kdtree = {
     "0.16" = import ./overrides/kdtree/0.16;
@@ -6575,6 +9438,9 @@
   keybert = {
     "0.8.5" = import ./overrides/keybert/0.8.5;
   };
+  keyboard = {
+    "0.13.5" = import ./overrides/keyboard/0.13.5;
+  };
   keychain = {
     "0.14.2.0" = import ./overrides/keychain/0.14.2.0;
   };
@@ -6633,14 +9499,41 @@
   kiwi = {
     "10.1.8" = import ./overrides/kiwi/10.1.8;
   };
+  kiwiki-client = {
+    "0.1.2" = import ./overrides/kiwiki-client/0.1.2;
+  };
+  klepto = {
+    "0.2.5" = import ./overrides/klepto/0.2.5;
+  };
   kmapper = {
     "2.1.0" = import ./overrides/kmapper/2.1.0;
+  };
+  kml2geojson = {
+    "5.1.0" = import ./overrides/kml2geojson/5.1.0;
+  };
+  kmodes = {
+    "0.12.2" = import ./overrides/kmodes/0.12.2;
+  };
+  knack = {
+    "0.12.0" = import ./overrides/knack/0.12.0;
   };
   knnimpute = {
     "0.1.0" = import ./overrides/knnimpute/0.1.0;
   };
+  koil = {
+    "0.3.6" = import ./overrides/koil/0.3.6;
+  };
   koji = {
     "1.34.2" = import ./overrides/koji/1.34.2;
+  };
+  konnected = {
+    "1.2.0" = import ./overrides/konnected/1.2.0;
+  };
+  kopf = {
+    "1.37.2" = import ./overrides/kopf/1.37.2;
+  };
+  kotsu = {
+    "0.3.3" = import ./overrides/kotsu/0.3.3;
   };
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
@@ -6672,8 +9565,23 @@
   kss-core = {
     "1.6.5" = import ./overrides/kss-core/1.6.5;
   };
+  kthread = {
+    "0.2.3" = import ./overrides/kthread/0.2.3;
+  };
+  kubernetes = {
+    "30.1.0" = import ./overrides/kubernetes/30.1.0;
+  };
+  kubernetes-asyncio = {
+    "31.1.0" = import ./overrides/kubernetes-asyncio/31.1.0;
+  };
   kubernetes-stubs = {
     "22.6.0.post1" = import ./overrides/kubernetes-stubs/22.6.0.post1;
+  };
+  kucoin-python = {
+    "1.0.24" = import ./overrides/kucoin-python/1.0.24;
+  };
+  kurbopy = {
+    "0.11.0" = import ./overrides/kurbopy/0.11.0;
   };
   labelme = {
     "5.5.0" = import ./overrides/labelme/5.5.0;
@@ -6683,6 +9591,9 @@
   };
   lac = {
     "2.1.2" = import ./overrides/lac/2.1.2;
+  };
+  lagoon = {
+    "46" = import ./overrides/lagoon/46;
   };
   lambdasdk = {
     "0.1.4" = import ./overrides/lambdasdk/0.1.4;
@@ -6699,8 +9610,14 @@
   langid = {
     "1.1.6" = import ./overrides/langid/1.1.6;
   };
+  langsmith = {
+    "0.1.117" = import ./overrides/langsmith/0.1.117;
+  };
   language-data = {
     "1.2.0" = import ./overrides/language-data/1.2.0;
+  };
+  language-formatters-pre-commit-hooks = {
+    "2.14.0" = import ./overrides/language-formatters-pre-commit-hooks/2.14.0;
   };
   lanms-neo = {
     "1.0.2" = import ./overrides/lanms-neo/1.0.2;
@@ -6718,6 +9635,9 @@
     "0.7.8" = import ./overrides/lark-parser/0.7.8;
     "0.9.0" = import ./overrides/lark-parser/0.9.0;
   };
+  lasio = {
+    "0.31" = import ./overrides/lasio/0.31;
+  };
   lastversion = {
     "3.5.6" = import ./overrides/lastversion/3.5.6;
   };
@@ -6727,11 +9647,17 @@
   latex2mathml = {
     "3.77.0" = import ./overrides/latex2mathml/3.77.0;
   };
+  latexcodec = {
+    "3.0.0" = import ./overrides/latexcodec/3.0.0;
+  };
   latlon = {
     "1.0.2" = import ./overrides/latlon/1.0.2;
   };
   launchdarkly-server-sdk = {
     "9.7.1" = import ./overrides/launchdarkly-server-sdk/9.7.1;
+  };
+  launchpadlib = {
+    "2.0.0" = import ./overrides/launchpadlib/2.0.0;
   };
   lava-tool = {
     "0.11.1" = import ./overrides/lava-tool/0.11.1;
@@ -6747,6 +9673,9 @@
   };
   lazy-import = {
     "0.2.2" = import ./overrides/lazy-import/0.2.2;
+  };
+  lazy-loader = {
+    "0.4" = import ./overrides/lazy-loader/0.4;
   };
   lazy-property = {
     "0.0.1" = import ./overrides/lazy-property/0.0.1;
@@ -6778,14 +9707,32 @@
   lbmessaging = {
     "1.2.4" = import ./overrides/lbmessaging/1.2.4;
   };
+  lbt-honeybee = {
+    "0.8.383" = import ./overrides/lbt-honeybee/0.8.383;
+  };
   lbt-ladybug = {
     "0.27.104" = import ./overrides/lbt-ladybug/0.27.104;
+  };
+  lc7001 = {
+    "1.0.5" = import ./overrides/lc7001/1.0.5;
   };
   lcogt-logging = {
     "0.3.2" = import ./overrides/lcogt-logging/0.3.2;
   };
+  ld2410-ble = {
+    "0.2.0" = import ./overrides/ld2410-ble/0.2.0;
+  };
+  ldap3 = {
+    "2.9.1" = import ./overrides/ldap3/2.9.1;
+  };
+  led-ble = {
+    "1.0.2" = import ./overrides/led-ble/1.0.2;
+  };
   ledger-bitcoin = {
     "0.3.0" = import ./overrides/ledger-bitcoin/0.3.0;
+  };
+  legacy = {
+    "0.1.7" = import ./overrides/legacy/0.1.7;
   };
   lepl = {
     "5.1.3" = import ./overrides/lepl/5.1.3;
@@ -6811,6 +9758,9 @@
   liac-arff = {
     "2.5.0" = import ./overrides/liac-arff/2.5.0;
   };
+  lib50 = {
+    "3.0.11" = import ./overrides/lib50/3.0.11;
+  };
   libagent = {
     "0.15.0" = import ./overrides/libagent/0.15.0;
   };
@@ -6819,6 +9769,9 @@
   };
   libarchive-c = {
     "5.1" = import ./overrides/libarchive-c/5.1;
+  };
+  libclang = {
+    "18.1.1" = import ./overrides/libclang/18.1.1;
   };
   libclang-py3 = {
     "3.9.0" = import ./overrides/libclang-py3/3.9.0;
@@ -6837,6 +9790,9 @@
   };
   libfsntfs-python = {
     "20240501" = import ./overrides/libfsntfs-python/20240501;
+  };
+  libgravatar = {
+    "1.0.4" = import ./overrides/libgravatar/1.0.4;
   };
   libhoney = {
     "2.4.0" = import ./overrides/libhoney/2.4.0;
@@ -6867,6 +9823,9 @@
   };
   librelingo-types = {
     "3.3.0" = import ./overrides/librelingo-types/3.3.0;
+  };
+  librosa = {
+    "0.10.2.post1" = import ./overrides/librosa/0.10.2.post1;
   };
   librouteros = {
     "3.2.1" = import ./overrides/librouteros/3.2.1;
@@ -6907,8 +9866,14 @@
   libwapiti = {
     "0.2.1" = import ./overrides/libwapiti/0.2.1;
   };
+  liccheck = {
+    "0.9.2" = import ./overrides/liccheck/0.9.2;
+  };
   license-expression = {
     "30.3.1" = import ./overrides/license-expression/30.3.1;
+  };
+  licensecheck = {
+    "2024.3" = import ./overrides/licensecheck/2024.3;
   };
   licensing = {
     "0.49" = import ./overrides/licensing/0.49;
@@ -6961,8 +9926,17 @@
   line-bot-sdk = {
     "3.13.0" = import ./overrides/line-bot-sdk/3.13.0;
   };
+  linear-garage-door = {
+    "0.2.10" = import ./overrides/linear-garage-door/0.2.10;
+  };
+  linear-operator = {
+    "0.5.3" = import ./overrides/linear-operator/0.5.3;
+  };
   linear-tsv = {
     "1.1.0" = import ./overrides/linear-tsv/1.1.0;
+  };
+  linearmodels = {
+    "6.0" = import ./overrides/linearmodels/6.0;
   };
   linecache2 = {
     "1.0.0" = import ./overrides/linecache2/1.0.0;
@@ -6979,8 +9953,14 @@
   lingpy = {
     "2.6.13" = import ./overrides/lingpy/2.6.13;
   };
+  linien-client = {
+    "2.1.0" = import ./overrides/linien-client/2.1.0;
+  };
   linkheader = {
     "0.4.3" = import ./overrides/linkheader/0.4.3;
+  };
+  linkify-it-py = {
+    "2.0.3" = import ./overrides/linkify-it-py/2.0.3;
   };
   linkml = {
     "1.8.3" = import ./overrides/linkml/1.8.3;
@@ -7006,6 +9986,9 @@
   linz-logger = {
     "0.11.0" = import ./overrides/linz-logger/0.11.0;
   };
+  liquidctl = {
+    "1.13.0" = import ./overrides/liquidctl/1.13.0;
+  };
   livestats = {
     "1.0" = import ./overrides/livestats/1.0;
   };
@@ -7021,8 +10004,44 @@
   ll-xist = {
     "5.76" = import ./overrides/ll-xist/5.76;
   };
+  llama-index = {
+    "0.11.8" = import ./overrides/llama-index/0.11.8;
+  };
+  llama-index-cli = {
+    "0.3.1" = import ./overrides/llama-index-cli/0.3.1;
+  };
+  llama-index-embeddings-openai = {
+    "0.2.4" = import ./overrides/llama-index-embeddings-openai/0.2.4;
+  };
+  llama-index-graph-stores-nebula = {
+    "0.3.0" = import ./overrides/llama-index-graph-stores-nebula/0.3.0;
+  };
+  llama-index-llms-ollama = {
+    "0.3.1" = import ./overrides/llama-index-llms-ollama/0.3.1;
+  };
+  llama-index-program-openai = {
+    "0.2.0" = import ./overrides/llama-index-program-openai/0.2.0;
+  };
+  llama-index-question-gen-openai = {
+    "0.2.0" = import ./overrides/llama-index-question-gen-openai/0.2.0;
+  };
+  llama-index-readers-database = {
+    "0.2.0" = import ./overrides/llama-index-readers-database/0.2.0;
+  };
+  llama-index-readers-file = {
+    "0.2.1" = import ./overrides/llama-index-readers-file/0.2.1;
+  };
+  llama-index-readers-txtai = {
+    "0.2.0" = import ./overrides/llama-index-readers-txtai/0.2.0;
+  };
+  llama-index-vector-stores-google = {
+    "0.2.0" = import ./overrides/llama-index-vector-stores-google/0.2.0;
+  };
   llama-index-vector-stores-qdrant = {
     "0.3.0" = import ./overrides/llama-index-vector-stores-qdrant/0.3.0;
+  };
+  llamaindex-py-client = {
+    "0.1.19" = import ./overrides/llamaindex-py-client/0.1.19;
   };
   llist = {
     "0.8" = import ./overrides/llist/0.8;
@@ -7039,6 +10058,9 @@
   };
   lmtpd = {
     "6.2.0" = import ./overrides/lmtpd/6.2.0;
+  };
+  loca = {
+    "2.0.1" = import ./overrides/loca/2.0.1;
   };
   localconfig = {
     "1.1.4" = import ./overrides/localconfig/1.1.4;
@@ -7089,6 +10111,12 @@
   logging-exceptions = {
     "0.1.9" = import ./overrides/logging-exceptions/0.1.9;
   };
+  logging-helper = {
+    "1.9.0" = import ./overrides/logging-helper/1.9.0;
+  };
+  logging-journald = {
+    "0.6.9" = import ./overrides/logging-journald/0.6.9;
+  };
   logging-json = {
     "0.5.0" = import ./overrides/logging-json/0.5.0;
   };
@@ -7103,6 +10131,9 @@
   };
   logmatic-python = {
     "0.1.7" = import ./overrides/logmatic-python/0.1.7;
+  };
+  logmuse = {
+    "0.2.8" = import ./overrides/logmuse/0.2.8;
   };
   logomaker = {
     "0.8" = import ./overrides/logomaker/0.8;
@@ -7152,6 +10183,9 @@
   lru-dict = {
     "1.2.0" = import ./overrides/lru-dict/1.2.0;
   };
+  lsassy = {
+    "3.1.12" = import ./overrides/lsassy/3.1.12;
+  };
   lttl = {
     "2.0.12" = import ./overrides/lttl/2.0.12;
   };
@@ -7161,8 +10195,29 @@
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
+  luigi = {
+    "3.3.0" = import ./overrides/luigi/3.3.0;
+  };
+  lunardate = {
+    "0.2.2" = import ./overrides/lunardate/0.2.2;
+  };
+  lunr = {
+    "0.7.0.post1" = import ./overrides/lunr/0.7.0.post1;
+  };
+  lupa = {
+    "2.2" = import ./overrides/lupa/2.2;
+  };
   lvis = {
     "0.5.3" = import ./overrides/lvis/0.5.3;
+  };
+  lxmf = {
+    "0.5.0" = import ./overrides/lxmf/0.5.0;
+  };
+  lxml-html-clean = {
+    "0.2.2" = import ./overrides/lxml-html-clean/0.2.2;
+  };
+  lxml-stubs = {
+    "0.5.1" = import ./overrides/lxml-stubs/0.5.1;
   };
   lyrebird = {
     "3.0.5" = import ./overrides/lyrebird/3.0.5;
@@ -7203,14 +10258,41 @@
   madmom = {
     "0.16.1" = import ./overrides/madmom/0.16.1;
   };
+  maestral = {
+    "1.9.4" = import ./overrides/maestral/1.9.4;
+  };
+  maggma = {
+    "0.69.3" = import ./overrides/maggma/0.69.3;
+  };
+  magic-wormhole = {
+    "0.15.0" = import ./overrides/magic-wormhole/0.15.0;
+  };
   magic-wormhole-mailbox-server = {
     "0.4.1" = import ./overrides/magic-wormhole-mailbox-server/0.4.1;
+  };
+  magicdb = {
+    "0.2.189" = import ./overrides/magicdb/0.2.189;
+  };
+  magicgui = {
+    "0.9.1" = import ./overrides/magicgui/0.9.1;
+  };
+  magika = {
+    "0.5.1" = import ./overrides/magika/0.5.1;
+  };
+  mahotas = {
+    "1.4.18" = import ./overrides/mahotas/1.4.18;
+  };
+  mail-parser = {
+    "3.15.0" = import ./overrides/mail-parser/3.15.0;
   };
   mailchecker = {
     "6.0.8" = import ./overrides/mailchecker/6.0.8;
   };
   mailchimp = {
     "2.0.10" = import ./overrides/mailchimp/2.0.10;
+  };
+  mailchimp3 = {
+    "3.0.21" = import ./overrides/mailchimp3/3.0.21;
   };
   mailjet-rest = {
     "1.3.4" = import ./overrides/mailjet-rest/1.3.4;
@@ -7227,8 +10309,17 @@
   mailthon = {
     "0.1.1" = import ./overrides/mailthon/0.1.1;
   };
+  maison = {
+    "2.0.0" = import ./overrides/maison/2.0.0;
+  };
   makeblock = {
     "0.1.8" = import ./overrides/makeblock/0.1.8;
+  };
+  mammoth = {
+    "1.8.0" = import ./overrides/mammoth/1.8.0;
+  };
+  manage = {
+    "0.1.15" = import ./overrides/manage/0.1.15;
   };
   manage-py = {
     "0.2.10" = import ./overrides/manage-py/0.2.10;
@@ -7238,6 +10329,9 @@
   };
   mandrill = {
     "1.0.60" = import ./overrides/mandrill/1.0.60;
+  };
+  manhole = {
+    "1.8.1" = import ./overrides/manhole/1.8.1;
   };
   manifestoo-core = {
     "1.7" = import ./overrides/manifestoo-core/1.7;
@@ -7275,8 +10369,14 @@
   marionette-transport = {
     "1.2.0" = import ./overrides/marionette-transport/1.2.0;
   };
+  marisa-trie = {
+    "1.2.0" = import ./overrides/marisa-trie/1.2.0;
+  };
   markdown-include = {
     "0.8.1" = import ./overrides/markdown-include/0.8.1;
+  };
+  markdown-it-py = {
+    "3.0.0" = import ./overrides/markdown-it-py/3.0.0;
   };
   markerlib = {
     "0.6.0" = import ./overrides/markerlib/0.6.0;
@@ -7300,8 +10400,14 @@
   marrow-util = {
     "1.2.3" = import ./overrides/marrow-util/1.2.3;
   };
+  marshmallow = {
+    "3.22.0" = import ./overrides/marshmallow/3.22.0;
+  };
   marshmallow-annotations = {
     "2.4.0" = import ./overrides/marshmallow-annotations/2.4.0;
+  };
+  marshmallow-jsonschema = {
+    "0.13.0" = import ./overrides/marshmallow-jsonschema/0.13.0;
   };
   marshmallow-polyfield = {
     "5.11" = import ./overrides/marshmallow-polyfield/5.11;
@@ -7309,11 +10415,20 @@
   marshmallow-union = {
     "0.1.15.post1" = import ./overrides/marshmallow-union/0.1.15.post1;
   };
+  martian = {
+    "2.0.post1" = import ./overrides/martian/2.0.post1;
+  };
   martor = {
     "1.6.44" = import ./overrides/martor/1.6.44;
   };
+  mashumaro = {
+    "3.13.1" = import ./overrides/mashumaro/3.13.1;
+  };
   maskpass = {
     "0.3.7" = import ./overrides/maskpass/0.3.7;
+  };
+  masky = {
+    "0.2.0" = import ./overrides/masky/0.2.0;
   };
   masonite = {
     "4.20.0" = import ./overrides/masonite/4.20.0;
@@ -7333,6 +10448,9 @@
   matplotlib-label-lines = {
     "0.7.0" = import ./overrides/matplotlib-label-lines/0.7.0;
   };
+  matplotlib-scalebar = {
+    "0.8.1" = import ./overrides/matplotlib-scalebar/0.8.1;
+  };
   matplotlib-venn = {
     "1.1.1" = import ./overrides/matplotlib-venn/1.1.1;
   };
@@ -7342,8 +10460,23 @@
   matrix-api-async = {
     "0.1.0" = import ./overrides/matrix-api-async/0.1.0;
   };
+  matrix-client = {
+    "0.4.0" = import ./overrides/matrix-client/0.4.0;
+  };
+  matrix-nio = {
+    "0.25.1" = import ./overrides/matrix-nio/0.25.1;
+  };
+  mattermostdriver = {
+    "7.3.2" = import ./overrides/mattermostdriver/7.3.2;
+  };
+  mattermostwrapper = {
+    "2.2" = import ./overrides/mattermostwrapper/2.2;
+  };
   mautrix = {
     "0.20.6" = import ./overrides/mautrix/0.20.6;
+  };
+  maxminddb = {
+    "2.6.2" = import ./overrides/maxminddb/2.6.2;
   };
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
@@ -7354,14 +10487,41 @@
   mayavi = {
     "4.8.2" = import ./overrides/mayavi/4.8.2;
   };
+  maybe-else = {
+    "0.2.1" = import ./overrides/maybe-else/0.2.1;
+  };
+  mayim = {
+    "1.1.0" = import ./overrides/mayim/1.1.0;
+  };
+  mbddns = {
+    "0.1.2" = import ./overrides/mbddns/0.1.2;
+  };
+  mbf-gtf = {
+    "0.4.1" = import ./overrides/mbf-gtf/0.4.1;
+  };
   mbutil = {
     "0.3.0" = import ./overrides/mbutil/0.3.0;
+  };
+  mccabe = {
+    "0.7.0" = import ./overrides/mccabe/0.7.0;
   };
   mcfit = {
     "0.0.22" = import ./overrides/mcfit/0.0.22;
   };
+  mcstatus = {
+    "11.1.1" = import ./overrides/mcstatus/11.1.1;
+  };
+  mcuuid = {
+    "1.1.0" = import ./overrides/mcuuid/1.1.0;
+  };
+  mdformat = {
+    "0.7.17" = import ./overrides/mdformat/0.7.17;
+  };
   mdit-py-plugins = {
     "0.4.2" = import ./overrides/mdit-py-plugins/0.4.2;
+  };
+  mds-sqlextension = {
+    "0.1.11" = import ./overrides/mds-sqlextension/0.1.11;
   };
   mdstat = {
     "1.0.4" = import ./overrides/mdstat/1.0.4;
@@ -7375,14 +10535,32 @@
   mdv = {
     "1.7.5" = import ./overrides/mdv/1.7.5;
   };
+  meater-python = {
+    "0.0.8" = import ./overrides/meater-python/0.0.8;
+  };
+  mecha = {
+    "0.95.2" = import ./overrides/mecha/0.95.2;
+  };
   mechanize = {
     "0.4.10" = import ./overrides/mechanize/0.4.10;
+  };
+  mediapy = {
+    "1.2.2" = import ./overrides/mediapy/1.2.2;
   };
   mediawiki-utilities = {
     "0.4.18" = import ./overrides/mediawiki-utilities/0.4.18;
   };
+  meeko = {
+    "0.5.1" = import ./overrides/meeko/0.5.1;
+  };
   meep = {
     "1.0.6" = import ./overrides/meep/1.0.6;
+  };
+  megasdkrestclient = {
+    "0.1.1" = import ./overrides/megasdkrestclient/0.1.1;
+  };
+  megrok-chameleon = {
+    "0.5.2" = import ./overrides/megrok-chameleon/0.5.2;
   };
   megrok-layout = {
     "1.3" = import ./overrides/megrok-layout/1.3;
@@ -7414,6 +10592,9 @@
   memory-tempfile = {
     "2.2.3" = import ./overrides/memory-tempfile/2.2.3;
   };
+  mendeleev = {
+    "0.17.0" = import ./overrides/mendeleev/0.17.0;
+  };
   menpo = {
     "0.11.1" = import ./overrides/menpo/0.11.1;
   };
@@ -7434,6 +10615,12 @@
   };
   merkletools = {
     "1.0.3" = import ./overrides/merkletools/1.0.3;
+  };
+  meson = {
+    "1.5.1" = import ./overrides/meson/1.5.1;
+  };
+  meson-python = {
+    "0.16.0" = import ./overrides/meson-python/0.16.0;
   };
   messagebird = {
     "2.2.0" = import ./overrides/messagebird/2.2.0;
@@ -7519,6 +10706,9 @@
   micloud = {
     "0.6" = import ./overrides/micloud/0.6;
   };
+  microconventions = {
+    "1.0.0" = import ./overrides/microconventions/1.0.0;
+  };
   microcosm = {
     "4.1.0" = import ./overrides/microcosm/4.1.0;
   };
@@ -7540,6 +10730,15 @@
   microscope = {
     "0.7.0" = import ./overrides/microscope/0.7.0;
   };
+  microsoft-kiota-authentication-azure = {
+    "1.1.0" = import ./overrides/microsoft-kiota-authentication-azure/1.1.0;
+  };
+  midi2audio = {
+    "0.1.1" = import ./overrides/midi2audio/0.1.1;
+  };
+  miditoolkit = {
+    "1.0.1" = import ./overrides/miditoolkit/1.0.1;
+  };
   midiutil = {
     "1.2.1" = import ./overrides/midiutil/1.2.1;
   };
@@ -7551,6 +10750,9 @@
   };
   milc = {
     "1.8.0" = import ./overrides/milc/1.8.0;
+  };
+  miller = {
+    "0.1.8" = import ./overrides/miller/0.1.8;
   };
   millify = {
     "0.1.1" = import ./overrides/millify/0.1.1;
@@ -7564,11 +10766,20 @@
   mimerender = {
     "0.6.0" = import ./overrides/mimerender/0.6.0;
   };
+  mimesis = {
+    "17.0.0" = import ./overrides/mimesis/17.0.0;
+  };
   mindsdb-evaluator = {
     "0.0.15" = import ./overrides/mindsdb-evaluator/0.0.15;
   };
+  minecraft-launcher-lib = {
+    "6.5" = import ./overrides/minecraft-launcher-lib/6.5;
+  };
   minepy = {
     "1.2.6" = import ./overrides/minepy/1.2.6;
+  };
+  miniaudio = {
+    "1.61" = import ./overrides/miniaudio/1.61;
   };
   minichain = {
     "0.3.3" = import ./overrides/minichain/0.3.3;
@@ -7591,6 +10802,21 @@
   minio = {
     "7.2.8" = import ./overrides/minio/7.2.8;
   };
+  miniupnpc = {
+    "2.2.8" = import ./overrides/miniupnpc/2.2.8;
+  };
+  miniwdl = {
+    "1.12.1" = import ./overrides/miniwdl/1.12.1;
+  };
+  minizinc = {
+    "0.9.0" = import ./overrides/minizinc/0.9.0;
+  };
+  minumtium = {
+    "1.1.0" = import ./overrides/minumtium/1.1.0;
+  };
+  mip = {
+    "1.15.0" = import ./overrides/mip/1.15.0;
+  };
   mir-eval = {
     "0.7" = import ./overrides/mir-eval/0.7;
   };
@@ -7603,39 +10829,60 @@
   misaka = {
     "2.1.1" = import ./overrides/misaka/2.1.1;
   };
+  missingno = {
+    "0.5.2" = import ./overrides/missingno/0.5.2;
+  };
+  mistune = {
+    "3.0.2" = import ./overrides/mistune/3.0.2;
+  };
+  mitogen = {
+    "0.3.9" = import ./overrides/mitogen/0.3.9;
+  };
+  mixins = {
+    "0.1.4" = import ./overrides/mixins/0.1.4;
+  };
   mizani = {
     "0.12.2" = import ./overrides/mizani/0.12.2;
   };
   mkdocs-exclude = {
     "1.0.2" = import ./overrides/mkdocs-exclude/1.0.2;
   };
+  mkdocs-git-authors-plugin = {
+    "0.9.0" = import ./overrides/mkdocs-git-authors-plugin/0.9.0;
+  };
   mkdocs-gitlab-plugin = {
     "0.1.4" = import ./overrides/mkdocs-gitlab-plugin/0.1.4;
+  };
+  mkdocs-include-markdown-plugin = {
+    "6.2.2" = import ./overrides/mkdocs-include-markdown-plugin/6.2.2;
   };
   mkdocs-jupyter = {
     "0.12.0" = import ./overrides/mkdocs-jupyter/0.12.0;
     "0.25.0" = import ./overrides/mkdocs-jupyter/0.25.0;
   };
-  mkdocs-minify-plugin = {
-    "0.8.0" = import ./overrides/mkdocs-minify-plugin/0.8.0;
-  };
-  mkdocstrings-python = {
-    "1.11.1" = import ./overrides/mkdocstrings-python/1.11.1;
-  };
-  mkdocs-table-reader-plugin = {
-    "3.1.0" = import ./overrides/mkdocs-table-reader-plugin/3.1.0;
+  mkdocs-literate-nav = {
+    "0.6.1" = import ./overrides/mkdocs-literate-nav/0.6.1;
   };
   mkdocs-material = {
     "9.5.34" = import ./overrides/mkdocs-material/9.5.34;
   };
-  mkdocstrings = {
-    "0.26.1" = import ./overrides/mkdocstrings/0.26.1;
+  mkdocs-minify-plugin = {
+    "0.8.0" = import ./overrides/mkdocs-minify-plugin/0.8.0;
   };
   mkdocs-redirects = {
     "1.2.1" = import ./overrides/mkdocs-redirects/1.2.1;
   };
-  mkdocs-literate-nav = {
-    "0.6.1" = import ./overrides/mkdocs-literate-nav/0.6.1;
+  mkdocs-redoc-tag = {
+    "0.1.0" = import ./overrides/mkdocs-redoc-tag/0.1.0;
+  };
+  mkdocs-table-reader-plugin = {
+    "3.1.0" = import ./overrides/mkdocs-table-reader-plugin/3.1.0;
+  };
+  mkdocstrings = {
+    "0.26.1" = import ./overrides/mkdocstrings/0.26.1;
+  };
+  mkdocstrings-python = {
+    "1.11.1" = import ./overrides/mkdocstrings-python/1.11.1;
   };
   mkm = {
     "2.1.0" = import ./overrides/mkm/2.1.0;
@@ -7688,6 +10935,9 @@
   mo-logs = {
     "4.23.21108" = import ./overrides/mo-logs/4.23.21108;
   };
+  mo-math = {
+    "7.647.24166" = import ./overrides/mo-math/7.647.24166;
+  };
   moat-ble = {
     "0.1.1" = import ./overrides/moat-ble/0.1.1;
   };
@@ -7711,6 +10961,12 @@
   };
   mocket = {
     "3.12.9" = import ./overrides/mocket/3.12.9;
+  };
+  mockfs = {
+    "2.0.0" = import ./overrides/mockfs/2.0.0;
+  };
+  mockupdb = {
+    "1.8.1" = import ./overrides/mockupdb/1.8.1;
   };
   model-bakery = {
     "1.19.5" = import ./overrides/model-bakery/1.19.5;
@@ -7739,14 +10995,29 @@
   mojimoji = {
     "0.0.13" = import ./overrides/mojimoji/0.0.13;
   };
+  mojo-errors = {
+    "2.0.1" = import ./overrides/mojo-errors/2.0.1;
+  };
   moksha-common = {
     "1.2.5" = import ./overrides/moksha-common/1.2.5;
   };
   moksha-hub = {
     "1.5.17" = import ./overrides/moksha-hub/1.5.17;
   };
+  moku = {
+    "3.2.0" = import ./overrides/moku/3.2.0;
+  };
+  molecule = {
+    "24.8.0" = import ./overrides/molecule/24.8.0;
+  };
   molecule-plugins = {
     "23.5.3" = import ./overrides/molecule-plugins/23.5.3;
+  };
+  molsystem = {
+    "2024.8.17" = import ./overrides/molsystem/2024.8.17;
+  };
+  moment = {
+    "0.12.1" = import ./overrides/moment/0.12.1;
   };
   monero = {
     "0.99" = import ./overrides/monero/0.99;
@@ -7782,6 +11053,9 @@
   moonraker-api = {
     "2.0.6" = import ./overrides/moonraker-api/2.0.6;
   };
+  mooquant = {
+    "0.3.8" = import ./overrides/mooquant/0.3.8;
+  };
   mordred = {
     "1.2.0" = import ./overrides/mordred/1.2.0;
   };
@@ -7791,14 +11065,26 @@
   morph = {
     "0.1.5" = import ./overrides/morph/0.1.5;
   };
+  mortgage = {
+    "1.0.5" = import ./overrides/mortgage/1.0.5;
+  };
   mosaik = {
     "3.3.3" = import ./overrides/mosaik/3.3.3;
+  };
+  mosaik-api = {
+    "3.0.6" = import ./overrides/mosaik-api/3.0.6;
   };
   mosestokenizer = {
     "1.2.1" = import ./overrides/mosestokenizer/1.2.1;
   };
   motioneye-client = {
     "0.3.14" = import ./overrides/motioneye-client/0.3.14;
+  };
+  moto = {
+    "5.0.14" = import ./overrides/moto/5.0.14;
+  };
+  motor = {
+    "3.5.1" = import ./overrides/motor/3.5.1;
   };
   motuclient = {
     "3.0.0" = import ./overrides/motuclient/3.0.0;
@@ -7848,6 +11134,9 @@
   moztest = {
     "1.1.0" = import ./overrides/moztest/1.1.0;
   };
+  mpdaf = {
+    "3.6" = import ./overrides/mpdaf/3.6;
+  };
   mpegdash = {
     "0.4.0" = import ./overrides/mpegdash/0.4.0;
   };
@@ -7866,6 +11155,9 @@
   };
   mplstereonet = {
     "0.6.3" = import ./overrides/mplstereonet/0.6.3;
+  };
+  mpremote = {
+    "1.23.0" = import ./overrides/mpremote/1.23.0;
   };
   mpv = {
     "1.0.7" = import ./overrides/mpv/1.0.7;
@@ -7891,8 +11183,17 @@
   ms-cv = {
     "0.1.1" = import ./overrides/ms-cv/0.1.1;
   };
+  msal = {
+    "1.31.0" = import ./overrides/msal/1.31.0;
+  };
+  msal-extensions = {
+    "1.2.0" = import ./overrides/msal-extensions/1.2.0;
+  };
   msg-parser = {
     "1.2.0" = import ./overrides/msg-parser/1.2.0;
+  };
+  msgfy = {
+    "0.2.1" = import ./overrides/msgfy/0.2.1;
   };
   msgpack = {
     "1.0.2" = import ./overrides/msgpack/1.0.2;
@@ -7909,8 +11210,29 @@
   msgpack-types = {
     "0.4.0" = import ./overrides/msgpack-types/0.4.0;
   };
+  msrest = {
+    "0.7.1" = import ./overrides/msrest/0.7.1;
+  };
+  msrestazure = {
+    "0.6.4.post1" = import ./overrides/msrestazure/0.6.4.post1;
+  };
+  mss = {
+    "9.0.2" = import ./overrides/mss/9.0.2;
+  };
+  mt-940 = {
+    "4.30.0" = import ./overrides/mt-940/4.30.0;
+  };
   mtranslate = {
     "1.8" = import ./overrides/mtranslate/1.8;
+  };
+  mudata = {
+    "0.3.1" = import ./overrides/mudata/0.3.1;
+  };
+  muffin = {
+    "0.102.3" = import ./overrides/muffin/0.102.3;
+  };
+  mujson = {
+    "1.4" = import ./overrides/mujson/1.4;
   };
   mullvad-api = {
     "1.0.0" = import ./overrides/mullvad-api/1.0.0;
@@ -7930,8 +11252,14 @@
   multidict = {
     "4.7.6" = import ./overrides/multidict/4.7.6;
   };
+  multidimensional-urlencode = {
+    "0.0.4" = import ./overrides/multidimensional-urlencode/0.0.4;
+  };
   multiformats = {
     "0.3.1.post4" = import ./overrides/multiformats/0.3.1.post4;
+  };
+  multimethod = {
+    "1.12" = import ./overrides/multimethod/1.12;
   };
   multio = {
     "0.2.5" = import ./overrides/multio/0.2.5;
@@ -7944,6 +11272,9 @@
   };
   multiprocessing-on-dill = {
     "3.5.0a4" = import ./overrides/multiprocessing-on-dill/3.5.0a4;
+  };
+  multiqc = {
+    "1.24.1" = import ./overrides/multiqc/1.24.1;
   };
   multitasking = {
     "0.0.11" = import ./overrides/multitasking/0.0.11;
@@ -7959,6 +11290,9 @@
   };
   munge = {
     "1.3.0" = import ./overrides/munge/1.3.0;
+  };
+  muon = {
+    "0.1.6" = import ./overrides/muon/0.1.6;
   };
   murmuration = {
     "1.4" = import ./overrides/murmuration/1.4;
@@ -7987,11 +11321,491 @@
   mutwo = {
     "0.50.1" = import ./overrides/mutwo/0.50.1;
   };
+  mwclient = {
+    "0.11.0" = import ./overrides/mwclient/0.11.0;
+  };
+  mwlib = {
+    "0.17.0.post1" = import ./overrides/mwlib/0.17.0.post1;
+  };
+  mwparserfromhell = {
+    "0.6.6" = import ./overrides/mwparserfromhell/0.6.6;
+  };
   mybad = {
     "0.2.0" = import ./overrides/mybad/0.2.0;
   };
+  mygpoclient = {
+    "1.9" = import ./overrides/mygpoclient/1.9;
+  };
+  myhdl = {
+    "0.11.49" = import ./overrides/myhdl/0.11.49;
+  };
+  myloguru-deskent = {
+    "0.1.1" = import ./overrides/myloguru-deskent/0.1.1;
+  };
+  mypy = {
+    "1.11.2" = import ./overrides/mypy/1.11.2;
+  };
+  mypy-boto3 = {
+    "1.35.16" = import ./overrides/mypy-boto3/1.35.16;
+  };
+  mypy-boto3-acm = {
+    "1.35.0" = import ./overrides/mypy-boto3-acm/1.35.0;
+  };
+  mypy-boto3-acm-pca = {
+    "1.35.0" = import ./overrides/mypy-boto3-acm-pca/1.35.0;
+  };
+  mypy-boto3-amplify = {
+    "1.35.0" = import ./overrides/mypy-boto3-amplify/1.35.0;
+  };
+  mypy-boto3-amplifyuibuilder = {
+    "1.35.0" = import ./overrides/mypy-boto3-amplifyuibuilder/1.35.0;
+  };
+  mypy-boto3-appintegrations = {
+    "1.35.0" = import ./overrides/mypy-boto3-appintegrations/1.35.0;
+  };
+  mypy-boto3-application-autoscaling = {
+    "1.35.0" = import ./overrides/mypy-boto3-application-autoscaling/1.35.0;
+  };
+  mypy-boto3-applicationcostprofiler = {
+    "1.35.0" = import ./overrides/mypy-boto3-applicationcostprofiler/1.35.0;
+  };
+  mypy-boto3-appmesh = {
+    "1.35.0" = import ./overrides/mypy-boto3-appmesh/1.35.0;
+  };
+  mypy-boto3-appsync = {
+    "1.35.12" = import ./overrides/mypy-boto3-appsync/1.35.12;
+  };
+  mypy-boto3-auditmanager = {
+    "1.35.0" = import ./overrides/mypy-boto3-auditmanager/1.35.0;
+  };
+  mypy-boto3-budgets = {
+    "1.35.0" = import ./overrides/mypy-boto3-budgets/1.35.0;
+  };
+  mypy-boto3-chime = {
+    "1.35.0" = import ./overrides/mypy-boto3-chime/1.35.0;
+  };
+  mypy-boto3-chime-sdk-messaging = {
+    "1.35.0" = import ./overrides/mypy-boto3-chime-sdk-messaging/1.35.0;
+  };
+  mypy-boto3-cleanrooms = {
+    "1.35.0" = import ./overrides/mypy-boto3-cleanrooms/1.35.0;
+  };
+  mypy-boto3-cloudcontrol = {
+    "1.35.0" = import ./overrides/mypy-boto3-cloudcontrol/1.35.0;
+  };
+  mypy-boto3-cloudfront = {
+    "1.35.0" = import ./overrides/mypy-boto3-cloudfront/1.35.0;
+  };
+  mypy-boto3-cloudhsm = {
+    "1.35.0" = import ./overrides/mypy-boto3-cloudhsm/1.35.0;
+  };
+  mypy-boto3-cloudhsmv2 = {
+    "1.35.0" = import ./overrides/mypy-boto3-cloudhsmv2/1.35.0;
+  };
   mypy-boto3-cloudsearch = {
     "1.35.0" = import ./overrides/mypy-boto3-cloudsearch/1.35.0;
+  };
+  mypy-boto3-cloudtrail = {
+    "1.35.0" = import ./overrides/mypy-boto3-cloudtrail/1.35.0;
+  };
+  mypy-boto3-cloudwatch = {
+    "1.35.0" = import ./overrides/mypy-boto3-cloudwatch/1.35.0;
+  };
+  mypy-boto3-codecatalyst = {
+    "1.35.0" = import ./overrides/mypy-boto3-codecatalyst/1.35.0;
+  };
+  mypy-boto3-codedeploy = {
+    "1.35.0" = import ./overrides/mypy-boto3-codedeploy/1.35.0;
+  };
+  mypy-boto3-codestar-notifications = {
+    "1.35.0" = import ./overrides/mypy-boto3-codestar-notifications/1.35.0;
+  };
+  mypy-boto3-cognito-idp = {
+    "1.35.0" = import ./overrides/mypy-boto3-cognito-idp/1.35.0;
+  };
+  mypy-boto3-cognito-sync = {
+    "1.35.0" = import ./overrides/mypy-boto3-cognito-sync/1.35.0;
+  };
+  mypy-boto3-comprehend = {
+    "1.35.0" = import ./overrides/mypy-boto3-comprehend/1.35.0;
+  };
+  mypy-boto3-compute-optimizer = {
+    "1.35.0" = import ./overrides/mypy-boto3-compute-optimizer/1.35.0;
+  };
+  mypy-boto3-customer-profiles = {
+    "1.35.0" = import ./overrides/mypy-boto3-customer-profiles/1.35.0;
+  };
+  mypy-boto3-dataexchange = {
+    "1.35.0" = import ./overrides/mypy-boto3-dataexchange/1.35.0;
+  };
+  mypy-boto3-datasync = {
+    "1.35.0" = import ./overrides/mypy-boto3-datasync/1.35.0;
+  };
+  mypy-boto3-devicefarm = {
+    "1.35.8" = import ./overrides/mypy-boto3-devicefarm/1.35.8;
+  };
+  mypy-boto3-devops-guru = {
+    "1.35.0" = import ./overrides/mypy-boto3-devops-guru/1.35.0;
+  };
+  mypy-boto3-docdb = {
+    "1.35.0" = import ./overrides/mypy-boto3-docdb/1.35.0;
+  };
+  mypy-boto3-docdb-elastic = {
+    "1.35.0" = import ./overrides/mypy-boto3-docdb-elastic/1.35.0;
+  };
+  mypy-boto3-ds = {
+    "1.35.0" = import ./overrides/mypy-boto3-ds/1.35.0;
+  };
+  mypy-boto3-dynamodb = {
+    "1.35.15" = import ./overrides/mypy-boto3-dynamodb/1.35.15;
+  };
+  mypy-boto3-ebs = {
+    "1.35.0" = import ./overrides/mypy-boto3-ebs/1.35.0;
+  };
+  mypy-boto3-ec2 = {
+    "1.35.8" = import ./overrides/mypy-boto3-ec2/1.35.8;
+  };
+  mypy-boto3-ecr-public = {
+    "1.35.0" = import ./overrides/mypy-boto3-ecr-public/1.35.0;
+  };
+  mypy-boto3-efs = {
+    "1.35.0" = import ./overrides/mypy-boto3-efs/1.35.0;
+  };
+  mypy-boto3-eks = {
+    "1.35.0" = import ./overrides/mypy-boto3-eks/1.35.0;
+  };
+  mypy-boto3-elbv2 = {
+    "1.35.15" = import ./overrides/mypy-boto3-elbv2/1.35.15;
+  };
+  mypy-boto3-emr-containers = {
+    "1.35.4" = import ./overrides/mypy-boto3-emr-containers/1.35.4;
+  };
+  mypy-boto3-entityresolution = {
+    "1.35.3" = import ./overrides/mypy-boto3-entityresolution/1.35.3;
+  };
+  mypy-boto3-es = {
+    "1.35.0" = import ./overrides/mypy-boto3-es/1.35.0;
+  };
+  mypy-boto3-events = {
+    "1.35.0" = import ./overrides/mypy-boto3-events/1.35.0;
+  };
+  mypy-boto3-evidently = {
+    "1.35.0" = import ./overrides/mypy-boto3-evidently/1.35.0;
+  };
+  mypy-boto3-finspace = {
+    "1.35.12" = import ./overrides/mypy-boto3-finspace/1.35.12;
+  };
+  mypy-boto3-frauddetector = {
+    "1.35.0" = import ./overrides/mypy-boto3-frauddetector/1.35.0;
+  };
+  mypy-boto3-fsx = {
+    "1.35.0" = import ./overrides/mypy-boto3-fsx/1.35.0;
+  };
+  mypy-boto3-glacier = {
+    "1.35.0" = import ./overrides/mypy-boto3-glacier/1.35.0;
+  };
+  mypy-boto3-globalaccelerator = {
+    "1.35.0" = import ./overrides/mypy-boto3-globalaccelerator/1.35.0;
+  };
+  mypy-boto3-grafana = {
+    "1.35.0" = import ./overrides/mypy-boto3-grafana/1.35.0;
+  };
+  mypy-boto3-groundstation = {
+    "1.35.0" = import ./overrides/mypy-boto3-groundstation/1.35.0;
+  };
+  mypy-boto3-honeycode = {
+    "1.34.0" = import ./overrides/mypy-boto3-honeycode/1.34.0;
+  };
+  mypy-boto3-iam = {
+    "1.35.0" = import ./overrides/mypy-boto3-iam/1.35.0;
+  };
+  mypy-boto3-identitystore = {
+    "1.35.0" = import ./overrides/mypy-boto3-identitystore/1.35.0;
+  };
+  mypy-boto3-imagebuilder = {
+    "1.35.0" = import ./overrides/mypy-boto3-imagebuilder/1.35.0;
+  };
+  mypy-boto3-importexport = {
+    "1.35.0" = import ./overrides/mypy-boto3-importexport/1.35.0;
+  };
+  mypy-boto3-iot = {
+    "1.35.20" = import ./overrides/mypy-boto3-iot/1.35.20;
+  };
+  mypy-boto3-iot-jobs-data = {
+    "1.35.0" = import ./overrides/mypy-boto3-iot-jobs-data/1.35.0;
+  };
+  mypy-boto3-iot1click-devices = {
+    "1.35.0" = import ./overrides/mypy-boto3-iot1click-devices/1.35.0;
+  };
+  mypy-boto3-iotanalytics = {
+    "1.35.0" = import ./overrides/mypy-boto3-iotanalytics/1.35.0;
+  };
+  mypy-boto3-iotdeviceadvisor = {
+    "1.35.0" = import ./overrides/mypy-boto3-iotdeviceadvisor/1.35.0;
+  };
+  mypy-boto3-iotevents-data = {
+    "1.35.0" = import ./overrides/mypy-boto3-iotevents-data/1.35.0;
+  };
+  mypy-boto3-iotthingsgraph = {
+    "1.35.0" = import ./overrides/mypy-boto3-iotthingsgraph/1.35.0;
+  };
+  mypy-boto3-iotwireless = {
+    "1.35.0" = import ./overrides/mypy-boto3-iotwireless/1.35.0;
+  };
+  mypy-boto3-ivschat = {
+    "1.35.19" = import ./overrides/mypy-boto3-ivschat/1.35.19;
+  };
+  mypy-boto3-kafka = {
+    "1.35.15" = import ./overrides/mypy-boto3-kafka/1.35.15;
+  };
+  mypy-boto3-kendra = {
+    "1.35.0" = import ./overrides/mypy-boto3-kendra/1.35.0;
+  };
+  mypy-boto3-kinesisanalyticsv2 = {
+    "1.35.13" = import ./overrides/mypy-boto3-kinesisanalyticsv2/1.35.13;
+  };
+  mypy-boto3-kinesisvideo = {
+    "1.35.0" = import ./overrides/mypy-boto3-kinesisvideo/1.35.0;
+  };
+  mypy-boto3-lambda = {
+    "1.35.3" = import ./overrides/mypy-boto3-lambda/1.35.3;
+  };
+  mypy-boto3-lexv2-models = {
+    "1.35.0" = import ./overrides/mypy-boto3-lexv2-models/1.35.0;
+  };
+  mypy-boto3-license-manager = {
+    "1.35.0" = import ./overrides/mypy-boto3-license-manager/1.35.0;
+  };
+  mypy-boto3-license-manager-user-subscriptions = {
+    "1.35.0" = import ./overrides/mypy-boto3-license-manager-user-subscriptions/1.35.0;
+  };
+  mypy-boto3-lightsail = {
+    "1.35.0" = import ./overrides/mypy-boto3-lightsail/1.35.0;
+  };
+  mypy-boto3-lookoutequipment = {
+    "1.35.0" = import ./overrides/mypy-boto3-lookoutequipment/1.35.0;
+  };
+  mypy-boto3-lookoutmetrics = {
+    "1.35.0" = import ./overrides/mypy-boto3-lookoutmetrics/1.35.0;
+  };
+  mypy-boto3-managedblockchain = {
+    "1.35.0" = import ./overrides/mypy-boto3-managedblockchain/1.35.0;
+  };
+  mypy-boto3-managedblockchain-query = {
+    "1.35.0" = import ./overrides/mypy-boto3-managedblockchain-query/1.35.0;
+  };
+  mypy-boto3-marketplacecommerceanalytics = {
+    "1.35.0" = import ./overrides/mypy-boto3-marketplacecommerceanalytics/1.35.0;
+  };
+  mypy-boto3-mediapackage = {
+    "1.35.0" = import ./overrides/mypy-boto3-mediapackage/1.35.0;
+  };
+  mypy-boto3-mediapackage-vod = {
+    "1.35.0" = import ./overrides/mypy-boto3-mediapackage-vod/1.35.0;
+  };
+  mypy-boto3-mediapackagev2 = {
+    "1.35.0" = import ./overrides/mypy-boto3-mediapackagev2/1.35.0;
+  };
+  mypy-boto3-memorydb = {
+    "1.35.0" = import ./overrides/mypy-boto3-memorydb/1.35.0;
+  };
+  mypy-boto3-meteringmarketplace = {
+    "1.35.0" = import ./overrides/mypy-boto3-meteringmarketplace/1.35.0;
+  };
+  mypy-boto3-mgh = {
+    "1.35.0" = import ./overrides/mypy-boto3-mgh/1.35.0;
+  };
+  mypy-boto3-mgn = {
+    "1.35.0" = import ./overrides/mypy-boto3-mgn/1.35.0;
+  };
+  mypy-boto3-migration-hub-refactor-spaces = {
+    "1.35.0" = import ./overrides/mypy-boto3-migration-hub-refactor-spaces/1.35.0;
+  };
+  mypy-boto3-migrationhub-config = {
+    "1.35.0" = import ./overrides/mypy-boto3-migrationhub-config/1.35.0;
+  };
+  mypy-boto3-migrationhuborchestrator = {
+    "1.35.0" = import ./overrides/mypy-boto3-migrationhuborchestrator/1.35.0;
+  };
+  mypy-boto3-migrationhubstrategy = {
+    "1.35.0" = import ./overrides/mypy-boto3-migrationhubstrategy/1.35.0;
+  };
+  mypy-boto3-mq = {
+    "1.35.0" = import ./overrides/mypy-boto3-mq/1.35.0;
+  };
+  mypy-boto3-mwaa = {
+    "1.35.0" = import ./overrides/mypy-boto3-mwaa/1.35.0;
+  };
+  mypy-boto3-network-firewall = {
+    "1.35.0" = import ./overrides/mypy-boto3-network-firewall/1.35.0;
+  };
+  mypy-boto3-omics = {
+    "1.35.7" = import ./overrides/mypy-boto3-omics/1.35.7;
+  };
+  mypy-boto3-opensearch = {
+    "1.35.0" = import ./overrides/mypy-boto3-opensearch/1.35.0;
+  };
+  mypy-boto3-opensearchserverless = {
+    "1.35.2" = import ./overrides/mypy-boto3-opensearchserverless/1.35.2;
+  };
+  mypy-boto3-opsworks = {
+    "1.35.0" = import ./overrides/mypy-boto3-opsworks/1.35.0;
+  };
+  mypy-boto3-organizations = {
+    "1.35.5" = import ./overrides/mypy-boto3-organizations/1.35.5;
+  };
+  mypy-boto3-osis = {
+    "1.35.0" = import ./overrides/mypy-boto3-osis/1.35.0;
+  };
+  mypy-boto3-outposts = {
+    "1.35.0" = import ./overrides/mypy-boto3-outposts/1.35.0;
+  };
+  mypy-boto3-payment-cryptography = {
+    "1.35.0" = import ./overrides/mypy-boto3-payment-cryptography/1.35.0;
+  };
+  mypy-boto3-payment-cryptography-data = {
+    "1.35.0" = import ./overrides/mypy-boto3-payment-cryptography-data/1.35.0;
+  };
+  mypy-boto3-personalize = {
+    "1.35.9" = import ./overrides/mypy-boto3-personalize/1.35.9;
+  };
+  mypy-boto3-personalize-events = {
+    "1.35.0" = import ./overrides/mypy-boto3-personalize-events/1.35.0;
+  };
+  mypy-boto3-pi = {
+    "1.35.0" = import ./overrides/mypy-boto3-pi/1.35.0;
+  };
+  mypy-boto3-pinpoint = {
+    "1.35.0" = import ./overrides/mypy-boto3-pinpoint/1.35.0;
+  };
+  mypy-boto3-pinpoint-email = {
+    "1.35.0" = import ./overrides/mypy-boto3-pinpoint-email/1.35.0;
+  };
+  mypy-boto3-pinpoint-sms-voice = {
+    "1.35.0" = import ./overrides/mypy-boto3-pinpoint-sms-voice/1.35.0;
+  };
+  mypy-boto3-quicksight = {
+    "1.35.9" = import ./overrides/mypy-boto3-quicksight/1.35.9;
+  };
+  mypy-boto3-rds-data = {
+    "1.35.0" = import ./overrides/mypy-boto3-rds-data/1.35.0;
+  };
+  mypy-boto3-redshift-data = {
+    "1.35.10" = import ./overrides/mypy-boto3-redshift-data/1.35.10;
+  };
+  mypy-boto3-rekognition = {
+    "1.35.0" = import ./overrides/mypy-boto3-rekognition/1.35.0;
+  };
+  mypy-boto3-resiliencehub = {
+    "1.35.0" = import ./overrides/mypy-boto3-resiliencehub/1.35.0;
+  };
+  mypy-boto3-resource-explorer-2 = {
+    "1.35.0" = import ./overrides/mypy-boto3-resource-explorer-2/1.35.0;
+  };
+  mypy-boto3-resource-groups = {
+    "1.35.0" = import ./overrides/mypy-boto3-resource-groups/1.35.0;
+  };
+  mypy-boto3-resourcegroupstaggingapi = {
+    "1.35.0" = import ./overrides/mypy-boto3-resourcegroupstaggingapi/1.35.0;
+  };
+  mypy-boto3-route53 = {
+    "1.35.4" = import ./overrides/mypy-boto3-route53/1.35.4;
+  };
+  mypy-boto3-rum = {
+    "1.35.0" = import ./overrides/mypy-boto3-rum/1.35.0;
+  };
+  mypy-boto3-sagemaker = {
+    "1.35.15" = import ./overrides/mypy-boto3-sagemaker/1.35.15;
+  };
+  mypy-boto3-sagemaker-edge = {
+    "1.35.0" = import ./overrides/mypy-boto3-sagemaker-edge/1.35.0;
+  };
+  mypy-boto3-sagemaker-featurestore-runtime = {
+    "1.35.0" = import ./overrides/mypy-boto3-sagemaker-featurestore-runtime/1.35.0;
+  };
+  mypy-boto3-sagemaker-geospatial = {
+    "1.35.0" = import ./overrides/mypy-boto3-sagemaker-geospatial/1.35.0;
+  };
+  mypy-boto3-sagemaker-metrics = {
+    "1.35.0" = import ./overrides/mypy-boto3-sagemaker-metrics/1.35.0;
+  };
+  mypy-boto3-sagemaker-runtime = {
+    "1.35.15" = import ./overrides/mypy-boto3-sagemaker-runtime/1.35.15;
+  };
+  mypy-boto3-scheduler = {
+    "1.35.0" = import ./overrides/mypy-boto3-scheduler/1.35.0;
+  };
+  mypy-boto3-schemas = {
+    "1.35.0" = import ./overrides/mypy-boto3-schemas/1.35.0;
+  };
+  mypy-boto3-securityhub = {
+    "1.35.16" = import ./overrides/mypy-boto3-securityhub/1.35.16;
+  };
+  mypy-boto3-securitylake = {
+    "1.35.0" = import ./overrides/mypy-boto3-securitylake/1.35.0;
+  };
+  mypy-boto3-serverlessrepo = {
+    "1.35.0" = import ./overrides/mypy-boto3-serverlessrepo/1.35.0;
+  };
+  mypy-boto3-servicecatalog-appregistry = {
+    "1.35.0" = import ./overrides/mypy-boto3-servicecatalog-appregistry/1.35.0;
+  };
+  mypy-boto3-servicediscovery = {
+    "1.35.0" = import ./overrides/mypy-boto3-servicediscovery/1.35.0;
+  };
+  mypy-boto3-sesv2 = {
+    "1.35.0" = import ./overrides/mypy-boto3-sesv2/1.35.0;
+  };
+  mypy-boto3-sms = {
+    "1.35.0" = import ./overrides/mypy-boto3-sms/1.35.0;
+  };
+  mypy-boto3-snow-device-management = {
+    "1.35.0" = import ./overrides/mypy-boto3-snow-device-management/1.35.0;
+  };
+  mypy-boto3-snowball = {
+    "1.35.0" = import ./overrides/mypy-boto3-snowball/1.35.0;
+  };
+  mypy-boto3-sqs = {
+    "1.35.0" = import ./overrides/mypy-boto3-sqs/1.35.0;
+  };
+  mypy-boto3-ssm-contacts = {
+    "1.35.0" = import ./overrides/mypy-boto3-ssm-contacts/1.35.0;
+  };
+  mypy-boto3-sso-oidc = {
+    "1.35.0" = import ./overrides/mypy-boto3-sso-oidc/1.35.0;
+  };
+  mypy-boto3-storagegateway = {
+    "1.35.18" = import ./overrides/mypy-boto3-storagegateway/1.35.18;
+  };
+  mypy-boto3-sts = {
+    "1.35.0" = import ./overrides/mypy-boto3-sts/1.35.0;
+  };
+  mypy-boto3-support-app = {
+    "1.35.0" = import ./overrides/mypy-boto3-support-app/1.35.0;
+  };
+  mypy-boto3-swf = {
+    "1.35.0" = import ./overrides/mypy-boto3-swf/1.35.0;
+  };
+  mypy-boto3-timestream-query = {
+    "1.35.0" = import ./overrides/mypy-boto3-timestream-query/1.35.0;
+  };
+  mypy-boto3-transfer = {
+    "1.35.0" = import ./overrides/mypy-boto3-transfer/1.35.0;
+  };
+  mypy-boto3-voice-id = {
+    "1.35.0" = import ./overrides/mypy-boto3-voice-id/1.35.0;
+  };
+  mypy-boto3-waf-regional = {
+    "1.35.0" = import ./overrides/mypy-boto3-waf-regional/1.35.0;
+  };
+  mypy-boto3-wellarchitected = {
+    "1.35.0" = import ./overrides/mypy-boto3-wellarchitected/1.35.0;
+  };
+  mypy-boto3-workmailmessageflow = {
+    "1.35.0" = import ./overrides/mypy-boto3-workmailmessageflow/1.35.0;
+  };
+  mypy-boto3-workspaces = {
+    "1.35.8" = import ./overrides/mypy-boto3-workspaces/1.35.8;
   };
   mypy-extensions = {
     "0.4.4" = import ./overrides/mypy-extensions/0.4.4;
@@ -8025,11 +11839,17 @@
     "1.4.6" = import ./overrides/mysqlclient/1.4.6;
     "2.2.4" = import ./overrides/mysqlclient/2.2.4;
   };
+  myst-nb = {
+    "1.1.1" = import ./overrides/myst-nb/1.1.1;
+  };
   myst-parser = {
     "4.0.0" = import ./overrides/myst-parser/4.0.0;
   };
   mythril = {
     "0.24.8" = import ./overrides/mythril/0.24.8;
+  };
+  myuplink = {
+    "0.6.0" = import ./overrides/myuplink/0.6.0;
   };
   nacos-sdk-python = {
     "1.0.0" = import ./overrides/nacos-sdk-python/1.0.0;
@@ -8039,6 +11859,15 @@
   };
   nagiosplugin = {
     "1.3.3" = import ./overrides/nagiosplugin/1.3.3;
+  };
+  name-that-hash = {
+    "1.11.0" = import ./overrides/name-that-hash/1.11.0;
+  };
+  namedlist = {
+    "1.8" = import ./overrides/namedlist/1.8;
+  };
+  nameko = {
+    "2.14.1" = import ./overrides/nameko/2.14.1;
   };
   names = {
     "0.3.0" = import ./overrides/names/0.3.0;
@@ -8070,6 +11899,9 @@
   napari-console = {
     "0.0.9" = import ./overrides/napari-console/0.0.9;
   };
+  napari-tools-menu = {
+    "0.1.19" = import ./overrides/napari-tools-menu/0.1.19;
+  };
   nats-py = {
     "2.9.0" = import ./overrides/nats-py/2.9.0;
   };
@@ -8091,17 +11923,65 @@
   navec = {
     "0.10.0" = import ./overrides/navec/0.10.0;
   };
+  nb-cli = {
+    "1.4.2" = import ./overrides/nb-cli/1.4.2;
+  };
+  nbclient = {
+    "0.10.0" = import ./overrides/nbclient/0.10.0;
+  };
+  nbconvert = {
+    "7.16.4" = import ./overrides/nbconvert/7.16.4;
+  };
+  nbdev = {
+    "2.3.30" = import ./overrides/nbdev/2.3.30;
+  };
   nbexec = {
     "0.2.0" = import ./overrides/nbexec/0.2.0;
+  };
+  nbsphinx = {
+    "0.9.5" = import ./overrides/nbsphinx/0.9.5;
+  };
+  nbsphinx-link = {
+    "1.3.0" = import ./overrides/nbsphinx-link/1.3.0;
+  };
+  nbstripout = {
+    "0.7.1" = import ./overrides/nbstripout/0.7.1;
+  };
+  nbtlib = {
+    "2.0.4" = import ./overrides/nbtlib/2.0.4;
+  };
+  nbval = {
+    "0.11.0" = import ./overrides/nbval/0.11.0;
+  };
+  nc-dnsapi = {
+    "0.1.5" = import ./overrides/nc-dnsapi/0.1.5;
   };
   ncbi-genome-download = {
     "0.3.3" = import ./overrides/ncbi-genome-download/0.3.3;
   };
+  ncclient = {
+    "0.6.15" = import ./overrides/ncclient/0.6.15;
+  };
   ncephes = {
     "1.1.0" = import ./overrides/ncephes/1.1.0;
   };
+  nclib = {
+    "1.0.5" = import ./overrides/nclib/1.0.5;
+  };
+  ncls = {
+    "0.0.68" = import ./overrides/ncls/0.0.68;
+  };
+  ndex2 = {
+    "3.9.0" = import ./overrides/ndex2/3.9.0;
+  };
   ndg-httpsclient = {
     "0.5.1" = import ./overrides/ndg-httpsclient/0.5.1;
+  };
+  ndh = {
+    "6.9.1" = import ./overrides/ndh/6.9.1;
+  };
+  ndjson = {
+    "0.3.1" = import ./overrides/ndjson/0.3.1;
   };
   ndms2-client = {
     "0.1.3" = import ./overrides/ndms2-client/0.1.3;
@@ -8170,6 +12050,21 @@
   nestle = {
     "0.2.0" = import ./overrides/nestle/0.2.0;
   };
+  netapp-lib = {
+    "2021.6.25" = import ./overrides/netapp-lib/2021.6.25;
+  };
+  netapp-ontap = {
+    "9.15.1.1" = import ./overrides/netapp-ontap/9.15.1.1;
+  };
+  netdata = {
+    "1.2.0" = import ./overrides/netdata/1.2.0;
+  };
+  netdisco = {
+    "3.0.0" = import ./overrides/netdisco/3.0.0;
+  };
+  netgraph = {
+    "4.13.2" = import ./overrides/netgraph/4.13.2;
+  };
   nethsm = {
     "1.2.1" = import ./overrides/nethsm/1.2.1;
   };
@@ -8200,11 +12095,35 @@
   neuronpy = {
     "0.1.6" = import ./overrides/neuronpy/0.1.6;
   };
+  nevermined-metadata-driver-interface = {
+    "0.4.1" = import ./overrides/nevermined-metadata-driver-interface/0.4.1;
+  };
   nevow = {
     "0.14.5" = import ./overrides/nevow/0.14.5;
   };
+  newick = {
+    "1.9.0" = import ./overrides/newick/1.9.0;
+  };
+  newrelic = {
+    "9.13.0" = import ./overrides/newrelic/9.13.0;
+  };
+  newspaper3k = {
+    "0.2.8" = import ./overrides/newspaper3k/0.2.8;
+  };
+  newversion = {
+    "2.0.0" = import ./overrides/newversion/2.0.0;
+  };
+  nextcloudmonitor = {
+    "1.5.1" = import ./overrides/nextcloudmonitor/1.5.1;
+  };
   nextcord = {
     "2.6.0" = import ./overrides/nextcord/2.6.0;
+  };
+  nextdns = {
+    "3.3.0" = import ./overrides/nextdns/3.3.0;
+  };
+  nexus = {
+    "0.3.1" = import ./overrides/nexus/0.3.1;
   };
   nexusformat = {
     "1.0.6" = import ./overrides/nexusformat/1.0.6;
@@ -8224,6 +12143,9 @@
   ng-content-article = {
     "1.0.9" = import ./overrides/ng-content-article/1.0.9;
   };
+  ng-content-comment = {
+    "0.0.1" = import ./overrides/ng-content-comment/0.0.1;
+  };
   ng-lib = {
     "0.0.6" = import ./overrides/ng-lib/0.0.6;
   };
@@ -8242,8 +12164,26 @@
   nh3 = {
     "0.2.18" = import ./overrides/nh3/0.2.18;
   };
+  niaclass = {
+    "0.2.0" = import ./overrides/niaclass/0.2.0;
+  };
+  niapy = {
+    "2.3.1" = import ./overrides/niapy/2.3.1;
+  };
+  nibabel = {
+    "5.2.1" = import ./overrides/nibabel/5.2.1;
+  };
+  nicegui = {
+    "2.1.0" = import ./overrides/nicegui/2.1.0;
+  };
+  nicegui-highcharts = {
+    "2.0.2" = import ./overrides/nicegui-highcharts/2.0.2;
+  };
   nilsimsa = {
     "0.3.8" = import ./overrides/nilsimsa/0.3.8;
+  };
+  nilspodlib = {
+    "3.6.0" = import ./overrides/nilspodlib/3.6.0;
   };
   niluclient = {
     "0.1.2" = import ./overrides/niluclient/0.1.2;
@@ -8255,11 +12195,32 @@
   nine = {
     "1.1.0" = import ./overrides/nine/1.1.0;
   };
+  ninebot-ble = {
+    "0.0.6" = import ./overrides/ninebot-ble/0.0.6;
+  };
+  nipreps-versions = {
+    "1.0.4" = import ./overrides/nipreps-versions/1.0.4;
+  };
+  nipype = {
+    "1.8.6" = import ./overrides/nipype/1.8.6;
+  };
+  niworkflows = {
+    "1.11.0" = import ./overrides/niworkflows/1.11.0;
+  };
   nix-prefetch-github = {
     "7.1.0" = import ./overrides/nix-prefetch-github/7.1.0;
   };
   nixio = {
     "1.5.3" = import ./overrides/nixio/1.5.3;
+  };
+  nkdfu = {
+    "0.2" = import ./overrides/nkdfu/0.2;
+  };
+  nlp-primitives = {
+    "2.13.0" = import ./overrides/nlp-primitives/2.13.0;
+  };
+  nlpcloud = {
+    "1.1.46" = import ./overrides/nlpcloud/1.1.46;
   };
   nlptoolkit-annotatedsentence = {
     "1.0.38" = import ./overrides/nlptoolkit-annotatedsentence/1.0.38;
@@ -8309,6 +12270,12 @@
   nmslib = {
     "2.1.1" = import ./overrides/nmslib/2.1.1;
   };
+  nocaselist = {
+    "2.0.3" = import ./overrides/nocaselist/2.0.3;
+  };
+  node = {
+    "1.2.2" = import ./overrides/node/1.2.2;
+  };
   node-semver = {
     "0.9.0" = import ./overrides/node-semver/0.9.0;
   };
@@ -8327,17 +12294,38 @@
   nonebot = {
     "1.9.1" = import ./overrides/nonebot/1.9.1;
   };
+  nonebot-adapter-onebot = {
+    "2.4.4" = import ./overrides/nonebot-adapter-onebot/2.4.4;
+  };
+  nonebot-plugin-datastore = {
+    "1.3.0" = import ./overrides/nonebot-plugin-datastore/1.3.0;
+  };
+  nonebot-plugin-guild-patch = {
+    "0.2.3" = import ./overrides/nonebot-plugin-guild-patch/0.2.3;
+  };
   nonebot-plugin-imageutils = {
     "0.1.17" = import ./overrides/nonebot-plugin-imageutils/0.1.17;
   };
   nonstdlib = {
     "1.12.0" = import ./overrides/nonstdlib/1.12.0;
   };
+  noraise = {
+    "0.0.16" = import ./overrides/noraise/0.0.16;
+  };
   nordigen = {
     "1.4.0" = import ./overrides/nordigen/1.4.0;
   };
   norecaptcha = {
     "1.0.0" = import ./overrides/norecaptcha/1.0.0;
+  };
+  normality = {
+    "2.5.0" = import ./overrides/normality/2.5.0;
+  };
+  nornir-netmiko = {
+    "1.0.1" = import ./overrides/nornir-netmiko/1.0.1;
+  };
+  nornir-utils = {
+    "0.2.0" = import ./overrides/nornir-utils/0.2.0;
   };
   nose = {
     "1.3.7" = import ./overrides/nose/1.3.7;
@@ -8372,6 +12360,15 @@
   noseapp = {
     "2.2.2" = import ./overrides/noseapp/2.2.2;
   };
+  notifications-android-tv = {
+    "1.2.2" = import ./overrides/notifications-android-tv/1.2.2;
+  };
+  notify-events = {
+    "1.1.3" = import ./overrides/notify-events/1.1.3;
+  };
+  notify2 = {
+    "0.3.1" = import ./overrides/notify2/0.3.1;
+  };
   notion = {
     "0.0.28" = import ./overrides/notion/0.0.28;
   };
@@ -8380,6 +12377,9 @@
   };
   nox = {
     "2024.4.15" = import ./overrides/nox/2024.4.15;
+  };
+  npe2 = {
+    "0.7.7" = import ./overrides/npe2/0.7.7;
   };
   npm = {
     "0.1.1" = import ./overrides/npm/0.1.1;
@@ -8402,10 +12402,19 @@
   nsz = {
     "4.6.1" = import ./overrides/nsz/4.6.1;
   };
+  ntlm-auth = {
+    "1.5.0" = import ./overrides/ntlm-auth/1.5.0;
+  };
+  num2words = {
+    "0.5.13" = import ./overrides/num2words/0.5.13;
+  };
   numba = {
     "0.53.1" = import ./overrides/numba/0.53.1;
     "0.58.0" = import ./overrides/numba/0.58.0;
     "0.60.0" = import ./overrides/numba/0.60.0;
+  };
+  numpngw = {
+    "0.1.4" = import ./overrides/numpngw/0.1.4;
   };
   numpoly = {
     "1.3.4" = import ./overrides/numpoly/1.3.4;
@@ -8418,6 +12427,9 @@
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
     "2.1.1" = import ./overrides/numpy/2.1.1;
+  };
+  numpy-groupies = {
+    "0.11.2" = import ./overrides/numpy-groupies/0.11.2;
   };
   numpy-stl = {
     "3.1.2" = import ./overrides/numpy-stl/3.1.2;
@@ -8482,6 +12494,15 @@
   nvidia-nvtx-cu12 = {
     "12.1.105" = import ./overrides/nvidia-nvtx-cu12/12.1.105;
   };
+  nvitop = {
+    "1.3.2" = import ./overrides/nvitop/1.3.2;
+  };
+  nvsmi = {
+    "0.4.2" = import ./overrides/nvsmi/0.4.2;
+  };
+  nwdiag = {
+    "3.0.0" = import ./overrides/nwdiag/3.0.0;
+  };
   nxt-python = {
     "3.3.0" = import ./overrides/nxt-python/3.3.0;
   };
@@ -8497,6 +12518,9 @@
   oarepo-model-builder = {
     "4.0.90" = import ./overrides/oarepo-model-builder/4.0.90;
   };
+  oasys-srwpy = {
+    "1.0.5" = import ./overrides/oasys-srwpy/1.0.5;
+  };
   oauth = {
     "1.0.1" = import ./overrides/oauth/1.0.1;
   };
@@ -8509,6 +12533,9 @@
   oauthenticator = {
     "17.0.0" = import ./overrides/oauthenticator/17.0.0;
   };
+  ob = {
+    "0.1.0" = import ./overrides/ob/0.1.0;
+  };
   obd = {
     "0.7.2" = import ./overrides/obd/0.7.2;
   };
@@ -8518,8 +12545,26 @@
   object-clerk = {
     "0.1.1" = import ./overrides/object-clerk/0.1.1;
   };
+  object-colors = {
+    "2.3.1" = import ./overrides/object-colors/2.3.1;
+  };
   objectpath = {
     "0.6.1" = import ./overrides/objectpath/0.6.1;
+  };
+  objprint = {
+    "0.2.3" = import ./overrides/objprint/0.2.3;
+  };
+  observable = {
+    "1.0.3" = import ./overrides/observable/1.0.3;
+  };
+  obspy = {
+    "1.4.1" = import ./overrides/obspy/1.4.1;
+  };
+  oca-port = {
+    "0.15" = import ./overrides/oca-port/0.15;
+  };
+  ocrd = {
+    "2.68.0" = import ./overrides/ocrd/2.68.0;
   };
   octobot-commons = {
     "1.9.58" = import ./overrides/octobot-commons/1.9.58;
@@ -8529,6 +12574,12 @@
   };
   od = {
     "2.0.2" = import ./overrides/od/2.0.2;
+  };
+  oda-knowledge-base = {
+    "0.7.28" = import ./overrides/oda-knowledge-base/0.7.28;
+  };
+  oddrn-generator = {
+    "0.1.103" = import ./overrides/oddrn-generator/0.1.103;
   };
   odfpy = {
     "1.4.1" = import ./overrides/odfpy/1.4.1;
@@ -8544,6 +12595,9 @@
   };
   oedialect = {
     "0.1.1" = import ./overrides/oedialect/0.1.1;
+  };
+  oemthermostat = {
+    "1.1.1" = import ./overrides/oemthermostat/1.1.1;
   };
   offsetbasedgraph = {
     "2.1.4" = import ./overrides/offsetbasedgraph/2.1.4;
@@ -8563,11 +12617,20 @@
   ofxtools = {
     "0.9.5" = import ./overrides/ofxtools/0.9.5;
   };
+  ogdf-python = {
+    "0.3.3" = import ./overrides/ogdf-python/0.3.3;
+  };
   oic = {
     "1.7.0" = import ./overrides/oic/1.7.0;
   };
+  oidcmsg = {
+    "1.6.0" = import ./overrides/oidcmsg/1.6.0;
+  };
   oidcservice = {
     "1.1.0" = import ./overrides/oidcservice/1.1.0;
+  };
+  okonomiyaki = {
+    "2.0.0" = import ./overrides/okonomiyaki/2.0.0;
   };
   okta = {
     "2.9.8" = import ./overrides/okta/2.9.8;
@@ -8585,8 +12648,17 @@
     "0.43" = import ./overrides/olefile/0.43;
     "0.47" = import ./overrides/olefile/0.47;
   };
+  ollama = {
+    "0.3.3" = import ./overrides/ollama/0.3.3;
+  };
   omc = {
     "0.2.5" = import ./overrides/omc/0.2.5;
+  };
+  omdb = {
+    "0.10.1" = import ./overrides/omdb/0.10.1;
+  };
+  ome-zarr = {
+    "0.9.0" = import ./overrides/ome-zarr/0.9.0;
   };
   omemo-dr = {
     "1.0.1" = import ./overrides/omemo-dr/1.0.1;
@@ -8602,6 +12674,21 @@
   };
   omnikinverter = {
     "1.0.0" = import ./overrides/omnikinverter/1.0.0;
+  };
+  omnilogic = {
+    "0.5.0" = import ./overrides/omnilogic/0.5.0;
+  };
+  omorfi = {
+    "0.9.10" = import ./overrides/omorfi/0.9.10;
+  };
+  ondilo = {
+    "0.5.0" = import ./overrides/ondilo/0.5.0;
+  };
+  onelogin = {
+    "3.1.6" = import ./overrides/onelogin/3.1.6;
+  };
+  onesignal-sdk = {
+    "2.0.0" = import ./overrides/onesignal-sdk/2.0.0;
   };
   onetimepad = {
     "1.4" = import ./overrides/onetimepad/1.4;
@@ -8648,8 +12735,14 @@
   opcua = {
     "0.98.13" = import ./overrides/opcua/0.98.13;
   };
+  open-aea = {
+    "1.55.0" = import ./overrides/open-aea/1.55.0;
+  };
   open-clip-torch = {
     "2.26.1" = import ./overrides/open-clip-torch/2.26.1;
+  };
+  open-garage = {
+    "0.2.0" = import ./overrides/open-garage/0.2.0;
   };
   openai-clip = {
     "1.0.1" = import ./overrides/openai-clip/1.0.1;
@@ -8662,6 +12755,15 @@
   };
   openapi-codec = {
     "1.3.2" = import ./overrides/openapi-codec/1.3.2;
+  };
+  openapi-python-client = {
+    "0.21.5" = import ./overrides/openapi-python-client/0.21.5;
+  };
+  opencc-python-reimplemented = {
+    "0.1.7" = import ./overrides/opencc-python-reimplemented/0.1.7;
+  };
+  opencensus-context = {
+    "0.1.3" = import ./overrides/opencensus-context/0.1.3;
   };
   opencivicdata = {
     "3.3.1" = import ./overrides/opencivicdata/3.3.1;
@@ -8693,8 +12795,23 @@
   openidc-client = {
     "0.6.0" = import ./overrides/openidc-client/0.6.0;
   };
+  openimis-be-insuree = {
+    "1.7.0" = import ./overrides/openimis-be-insuree/1.7.0;
+  };
+  openimis-be-product = {
+    "1.6.1" = import ./overrides/openimis-be-product/1.6.1;
+  };
   openlineage-airflow = {
     "1.22.0" = import ./overrides/openlineage-airflow/1.22.0;
+  };
+  openlineage-integration-common = {
+    "1.22.0" = import ./overrides/openlineage-integration-common/1.22.0;
+  };
+  openllm-client = {
+    "0.5.7" = import ./overrides/openllm-client/0.5.7;
+  };
+  openllm-core = {
+    "0.5.7" = import ./overrides/openllm-core/0.5.7;
   };
   openmdao = {
     "3.34.2" = import ./overrides/openmdao/3.34.2;
@@ -8712,11 +12829,53 @@
   openrgb-python = {
     "0.3.0" = import ./overrides/openrgb-python/0.3.0;
   };
+  openrouteservice = {
+    "2.3.3" = import ./overrides/openrouteservice/2.3.3;
+  };
+  openscm-units = {
+    "0.6.1" = import ./overrides/openscm-units/0.6.1;
+  };
+  opensearch-dsl = {
+    "2.1.0" = import ./overrides/opensearch-dsl/2.1.0;
+  };
+  opensearch-py = {
+    "2.7.1" = import ./overrides/opensearch-py/2.7.1;
+  };
   opensensemap-api = {
     "0.3.2" = import ./overrides/opensensemap-api/0.3.2;
   };
+  opensesame-core = {
+    "4.0.29" = import ./overrides/opensesame-core/4.0.29;
+  };
   openshift = {
     "0.11.0" = import ./overrides/openshift/0.11.0;
+  };
+  openslide-python = {
+    "1.3.1" = import ./overrides/openslide-python/1.3.1;
+  };
+  openstep-plist = {
+    "0.3.1" = import ./overrides/openstep-plist/0.3.1;
+  };
+  opentelemetry-exporter-gcp-trace = {
+    "1.7.0" = import ./overrides/opentelemetry-exporter-gcp-trace/1.7.0;
+  };
+  opentelemetry-exporter-otlp = {
+    "1.27.0" = import ./overrides/opentelemetry-exporter-otlp/1.27.0;
+  };
+  opentelemetry-exporter-otlp-proto-grpc = {
+    "1.27.0" = import ./overrides/opentelemetry-exporter-otlp-proto-grpc/1.27.0;
+  };
+  opentelemetry-exporter-zipkin = {
+    "1.27.0" = import ./overrides/opentelemetry-exporter-zipkin/1.27.0;
+  };
+  opentelemetry-propagator-aws-xray = {
+    "1.0.2" = import ./overrides/opentelemetry-propagator-aws-xray/1.0.2;
+  };
+  opentelemetry-propagator-b3 = {
+    "1.27.0" = import ./overrides/opentelemetry-propagator-b3/1.27.0;
+  };
+  opentelemetry-proto = {
+    "1.27.0" = import ./overrides/opentelemetry-proto/1.27.0;
   };
   opentracing = {
     "1.3.0" = import ./overrides/opentracing/1.3.0;
@@ -8734,11 +12893,23 @@
   openwebifpy = {
     "4.2.7" = import ./overrides/openwebifpy/4.2.7;
   };
+  openwisp-users = {
+    "1.0.2" = import ./overrides/openwisp-users/1.0.2;
+  };
+  openwisp-utils = {
+    "1.1" = import ./overrides/openwisp-utils/1.1;
+  };
+  openwrt-luci-rpc = {
+    "1.1.17" = import ./overrides/openwrt-luci-rpc/1.1.17;
+  };
   openwrt-ubus-rpc = {
     "0.0.3" = import ./overrides/openwrt-ubus-rpc/0.0.3;
   };
   ophyd = {
     "1.9.0" = import ./overrides/ophyd/1.9.0;
+  };
+  opower = {
+    "0.7.0" = import ./overrides/opower/0.7.0;
   };
   opster = {
     "5.0" = import ./overrides/opster/5.0;
@@ -8762,14 +12933,29 @@
   optree = {
     "0.12.1" = import ./overrides/optree/0.12.1;
   };
+  optuna = {
+    "4.0.0" = import ./overrides/optuna/4.0.0;
+  };
   opuslib = {
     "3.0.1" = import ./overrides/opuslib/3.0.1;
+  };
+  oralb-ble = {
+    "0.18.0" = import ./overrides/oralb-ble/0.18.0;
+  };
+  orange-canvas-core = {
+    "0.2.2" = import ./overrides/orange-canvas-core/0.2.2;
   };
   orange-widget-base = {
     "4.24.0" = import ./overrides/orange-widget-base/4.24.0;
   };
+  orator = {
+    "0.9.9" = import ./overrides/orator/0.9.9;
+  };
   orcid = {
     "1.0.3" = import ./overrides/orcid/1.0.3;
+  };
+  ordered-set = {
+    "4.1.0" = import ./overrides/ordered-set/4.1.0;
   };
   orderedattrdict = {
     "1.6.0" = import ./overrides/orderedattrdict/1.6.0;
@@ -8786,6 +12972,9 @@
   ore-alchemist = {
     "0.6.0" = import ./overrides/ore-alchemist/0.6.0;
   };
+  orgparse = {
+    "0.4.20231004" = import ./overrides/orgparse/0.4.20231004;
+  };
   orix = {
     "0.13.0" = import ./overrides/orix/0.13.0;
   };
@@ -8797,6 +12986,12 @@
   };
   os-networksv2-python-novaclient-ext = {
     "0.26" = import ./overrides/os-networksv2-python-novaclient-ext/0.26;
+  };
+  os-scrapy = {
+    "0.0.8" = import ./overrides/os-scrapy/0.0.8;
+  };
+  os-scrapy-cookiecutter = {
+    "0.0.13" = import ./overrides/os-scrapy-cookiecutter/0.0.13;
   };
   os-tools = {
     "4.56" = import ./overrides/os-tools/4.56;
@@ -8825,9 +13020,25 @@
   osmnx = {
     "1.9.4" = import ./overrides/osmnx/1.9.4;
   };
+  osmosis-driver-interface = {
+    "0.1.0" = import ./overrides/osmosis-driver-interface/0.1.0;
+  };
+  ospd = {
+    "21.4.4" = import ./overrides/ospd/21.4.4;
+  };
+  osqp = {
+    "0.6.7.post1" = import ./overrides/osqp/0.6.7.post1;
+  };
+  osrparse = {
+    "7.0.0" = import ./overrides/osrparse/7.0.0;
+  };
   oss2 = {
+    "2.18.1" = import ./overrides/oss2/2.18.1;
     "2.18.4" = import ./overrides/oss2/2.18.4;
     "2.19.0" = import ./overrides/oss2/2.19.0;
+  };
+  ossfs = {
+    "2023.12.0" = import ./overrides/ossfs/2023.12.0;
   };
   ossindex-lib = {
     "1.1.1" = import ./overrides/ossindex-lib/1.1.1;
@@ -8835,11 +13046,17 @@
   otree = {
     "5.11.0" = import ./overrides/otree/5.11.0;
   };
+  outdated = {
+    "0.2.2" = import ./overrides/outdated/0.2.2;
+  };
   outlines = {
     "0.0.46" = import ./overrides/outlines/0.0.46;
   };
   overly = {
     "0.1.85" = import ./overrides/overly/0.1.85;
+  };
+  overpass = {
+    "0.7.2" = import ./overrides/overpass/0.7.2;
   };
   overrides = {
     "7.7.0" = import ./overrides/overrides/7.7.0;
@@ -8850,6 +13067,9 @@
   owlready2 = {
     "0.46" = import ./overrides/owlready2/0.46;
   };
+  oxasl = {
+    "0.2.2" = import ./overrides/oxasl/0.2.2;
+  };
   oyaml = {
     "1.0" = import ./overrides/oyaml/1.0;
   };
@@ -8859,11 +13079,20 @@
   p1monitor = {
     "3.0.1" = import ./overrides/p1monitor/3.0.1;
   };
+  p4a-common = {
+    "1.1" = import ./overrides/p4a-common/1.1;
+  };
   p4a-z2utils = {
     "1.0.2" = import ./overrides/p4a-z2utils/1.0.2;
   };
+  pacifica-namespace = {
+    "0.0.2" = import ./overrides/pacifica-namespace/0.0.2;
+  };
   packageurl-python = {
     "0.15.6" = import ./overrides/packageurl-python/0.15.6;
+  };
+  packaging = {
+    "24.1" = import ./overrides/packaging/24.1;
   };
   packbits = {
     "0.6" = import ./overrides/packbits/0.6;
@@ -8901,8 +13130,17 @@
   pairtree = {
     "0.8.1" = import ./overrides/pairtree/0.8.1;
   };
+  pami = {
+    "2024.8.28" = import ./overrides/pami/2024.8.28;
+  };
   pampy = {
     "0.3.0" = import ./overrides/pampy/0.3.0;
+  };
+  pamqp = {
+    "3.3.0" = import ./overrides/pamqp/3.3.0;
+  };
+  panacotta = {
+    "0.2" = import ./overrides/panacotta/0.2;
   };
   panda3d = {
     "1.10.15" = import ./overrides/panda3d/1.10.15;
@@ -8926,6 +13164,9 @@
   pandas-datareader = {
     "0.10.0" = import ./overrides/pandas-datareader/0.10.0;
   };
+  pandas-gbq = {
+    "0.23.1" = import ./overrides/pandas-gbq/0.23.1;
+  };
   pandas-ml-common = {
     "0.2.7" = import ./overrides/pandas-ml-common/0.2.7;
   };
@@ -8947,8 +13188,20 @@
   pandoc-xnos = {
     "2.5.0" = import ./overrides/pandoc-xnos/2.5.0;
   };
+  pandora = {
+    "1.6.1" = import ./overrides/pandora/1.6.1;
+  };
+  panflute = {
+    "2.3.1" = import ./overrides/panflute/2.3.1;
+  };
   pangocffi = {
     "0.13.0" = import ./overrides/pangocffi/0.13.0;
+  };
+  panoramisk = {
+    "1.4" = import ./overrides/panoramisk/1.4;
+  };
+  panphon = {
+    "0.21.2" = import ./overrides/panphon/0.21.2;
   };
   pantalaimon = {
     "0.10.5" = import ./overrides/pantalaimon/0.10.5;
@@ -8971,6 +13224,12 @@
   papis-python-rofi = {
     "1.0.3" = import ./overrides/papis-python-rofi/1.0.3;
   };
+  para = {
+    "0.0.8" = import ./overrides/para/0.0.8;
+  };
+  param = {
+    "2.1.1" = import ./overrides/param/2.1.1;
+  };
   parametrize-from-file = {
     "0.20.0" = import ./overrides/parametrize-from-file/0.20.0;
   };
@@ -8989,14 +13248,38 @@
   parse = {
     "1.6.5" = import ./overrides/parse/1.6.5;
   };
+  parse-accept-language = {
+    "0.1.2" = import ./overrides/parse-accept-language/0.1.2;
+  };
   parsec = {
     "3.17" = import ./overrides/parsec/3.17;
+  };
+  parsel = {
+    "1.9.1" = import ./overrides/parsel/1.9.1;
   };
   parsimonious = {
     "0.9.0" = import ./overrides/parsimonious/0.9.0;
   };
+  parsivar = {
+    "0.2.3.1" = import ./overrides/parsivar/0.2.3.1;
+  };
   parsl = {
     "2024.9.9" = import ./overrides/parsl/2024.9.9;
+  };
+  partd = {
+    "1.4.2" = import ./overrides/partd/1.4.2;
+  };
+  parts = {
+    "2.0.0" = import ./overrides/parts/2.0.0;
+  };
+  parver = {
+    "0.5" = import ./overrides/parver/0.5;
+  };
+  pasimple = {
+    "0.0.3" = import ./overrides/pasimple/0.0.3;
+  };
+  password-strength = {
+    "0.0.3.post2" = import ./overrides/password-strength/0.0.3.post2;
   };
   patch = {
     "1.16" = import ./overrides/patch/1.16;
@@ -9014,6 +13297,12 @@
   pathable = {
     "0.4.3" = import ./overrides/pathable/0.4.3;
   };
+  pathlib = {
+    "1.0.1" = import ./overrides/pathlib/1.0.1;
+  };
+  pathlib3x = {
+    "2.0.3" = import ./overrides/pathlib3x/2.0.3;
+  };
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
@@ -9022,6 +13311,9 @@
   };
   pause = {
     "0.3" = import ./overrides/pause/0.3;
+  };
+  paypalhttp = {
+    "1.0.1" = import ./overrides/paypalhttp/1.0.1;
   };
   paypalrestsdk = {
     "1.13.3" = import ./overrides/paypalrestsdk/1.13.3;
@@ -9047,17 +13339,26 @@
   pd-lib = {
     "0.0.9" = import ./overrides/pd-lib/0.0.9;
   };
+  pdb2pqr = {
+    "3.6.2" = import ./overrides/pdb2pqr/3.6.2;
+  };
   pdb2sql = {
     "0.5.3" = import ./overrides/pdb2sql/0.5.3;
   };
   pdc-client = {
     "1.8.0" = import ./overrides/pdc-client/1.8.0;
   };
+  pdf2docx = {
+    "0.5.8" = import ./overrides/pdf2docx/0.5.8;
+  };
   pdf2image = {
     "1.17.0" = import ./overrides/pdf2image/1.17.0;
   };
   pdfconduit-utils = {
     "1.1.2" = import ./overrides/pdfconduit-utils/1.1.2;
+  };
+  pdfdocument = {
+    "4.0.0" = import ./overrides/pdfdocument/4.0.0;
   };
   pdfkit = {
     "1.0.0" = import ./overrides/pdfkit/1.0.0;
@@ -9077,11 +13378,20 @@
   pdfquery = {
     "0.4.3" = import ./overrides/pdfquery/0.4.3;
   };
+  pdfreader = {
+    "0.1.15" = import ./overrides/pdfreader/0.1.15;
+  };
   pdfrw = {
     "0.4" = import ./overrides/pdfrw/0.4;
   };
+  pdfrw2 = {
+    "0.5.0" = import ./overrides/pdfrw2/0.5.0;
+  };
   pdftotext = {
     "2.2.2" = import ./overrides/pdftotext/2.2.2;
+  };
+  pdoc = {
+    "14.6.1" = import ./overrides/pdoc/14.6.1;
   };
   pdoc-pyo3-sample-library = {
     "1.0.11" = import ./overrides/pdoc-pyo3-sample-library/1.0.11;
@@ -9092,8 +13402,14 @@
   pdpyras = {
     "5.2.0" = import ./overrides/pdpyras/5.2.0;
   };
+  pdsystem = {
+    "1.0.4" = import ./overrides/pdsystem/1.0.4;
+  };
   peachapisec-api = {
     "1.5.41" = import ./overrides/peachapisec-api/1.5.41;
+  };
+  peaqevcore = {
+    "19.11.2" = import ./overrides/peaqevcore/19.11.2;
   };
   pecab = {
     "1.0.8" = import ./overrides/pecab/1.0.8;
@@ -9144,8 +13460,17 @@
   pep362 = {
     "0.6.2" = import ./overrides/pep362/0.6.2;
   };
+  pep440 = {
+    "0.1.2" = import ./overrides/pep440/0.1.2;
+  };
+  pep517 = {
+    "0.13.1" = import ./overrides/pep517/0.13.1;
+  };
   peppy = {
     "0.40.6" = import ./overrides/peppy/0.40.6;
+  };
+  perceval = {
+    "1.0.6" = import ./overrides/perceval/1.0.6;
   };
   percol = {
     "0.2.1" = import ./overrides/percol/0.2.1;
@@ -9159,8 +13484,17 @@
   periodictable = {
     "1.7.1" = import ./overrides/periodictable/1.7.1;
   };
+  perseus-core-library = {
+    "1.20.5" = import ./overrides/perseus-core-library/1.20.5;
+  };
+  persim = {
+    "0.3.7" = import ./overrides/persim/0.3.7;
+  };
   persistent = {
     "6.0" = import ./overrides/persistent/6.0;
+  };
+  persisting-theory = {
+    "1.0" = import ./overrides/persisting-theory/1.0;
   };
   pescea = {
     "1.0.12" = import ./overrides/pescea/1.0.12;
@@ -9179,6 +13513,9 @@
   };
   petname = {
     "2.6" = import ./overrides/petname/2.6;
+  };
+  pettingzoo = {
+    "1.24.3" = import ./overrides/pettingzoo/1.24.3;
   };
   pex = {
     "2.19.0" = import ./overrides/pex/2.19.0;
@@ -9201,8 +13538,14 @@
   pfurl = {
     "2.3.0.1" = import ./overrides/pfurl/2.3.0.1;
   };
+  pfzy = {
+    "0.3.4" = import ./overrides/pfzy/0.3.4;
+  };
   pgeocode = {
     "0.5.0" = import ./overrides/pgeocode/0.5.0;
+  };
+  pglast = {
+    "6.3" = import ./overrides/pglast/6.3;
   };
   pgpdump = {
     "1.5" = import ./overrides/pgpdump/1.5;
@@ -9222,6 +13565,12 @@
   pgzero = {
     "1.2.1" = import ./overrides/pgzero/1.2.1;
   };
+  phe = {
+    "1.5.0" = import ./overrides/phe/1.5.0;
+  };
+  phonenumbers = {
+    "8.13.45" = import ./overrides/phonenumbers/8.13.45;
+  };
   phonetics = {
     "1.0.5" = import ./overrides/phonetics/1.0.5;
   };
@@ -9236,6 +13585,9 @@
   };
   phunspell = {
     "0.1.6" = import ./overrides/phunspell/0.1.6;
+  };
+  pi-rc522 = {
+    "2.3.0" = import ./overrides/pi-rc522/2.3.0;
   };
   piccata = {
     "2.0.3" = import ./overrides/piccata/2.0.3;
@@ -9267,6 +13619,15 @@
   piep = {
     "0.10.0" = import ./overrides/piep/0.10.0;
   };
+  pies = {
+    "2.6.7" = import ./overrides/pies/2.6.7;
+  };
+  piexif = {
+    "1.1.3" = import ./overrides/piexif/1.1.3;
+  };
+  pigar = {
+    "2.1.6" = import ./overrides/pigar/2.1.6;
+  };
   pigpio = {
     "1.78" = import ./overrides/pigpio/1.78;
   };
@@ -9287,6 +13648,7 @@
   };
   pillow = {
     "10.4.0" = import ./overrides/pillow/10.4.0;
+    "3.2.0" = import ./overrides/pillow/3.2.0;
     "7.2.0" = import ./overrides/pillow/7.2.0;
     "8.4.0" = import ./overrides/pillow/8.4.0;
     "9.4.0" = import ./overrides/pillow/9.4.0;
@@ -9312,6 +13674,9 @@
   pinyin = {
     "0.4.0" = import ./overrides/pinyin/0.4.0;
   };
+  pip = {
+    "24.2" = import ./overrides/pip/24.2;
+  };
   pip-autoremove = {
     "0.10.0" = import ./overrides/pip-autoremove/0.10.0;
   };
@@ -9330,6 +13695,21 @@
   pip-shims = {
     "0.7.3" = import ./overrides/pip-shims/0.7.3;
   };
+  pip-tools = {
+    "7.4.1" = import ./overrides/pip-tools/7.4.1;
+  };
+  pipdeptree = {
+    "2.23.3" = import ./overrides/pipdeptree/2.23.3;
+  };
+  piped = {
+    "0.7.0" = import ./overrides/piped/0.7.0;
+  };
+  pipelinewise-singer-python = {
+    "2.0.1" = import ./overrides/pipelinewise-singer-python/2.0.1;
+  };
+  pipetools = {
+    "1.1.0" = import ./overrides/pipetools/1.1.0;
+  };
   pipfile = {
     "0.0.2" = import ./overrides/pipfile/0.0.2;
   };
@@ -9338,6 +13718,9 @@
   };
   pipwin = {
     "0.5.2" = import ./overrides/pipwin/0.5.2;
+  };
+  pixel-ring = {
+    "0.1.0" = import ./overrides/pixel-ring/0.1.0;
   };
   pixelmatch = {
     "0.3.0" = import ./overrides/pixelmatch/0.3.0;
@@ -9350,6 +13733,12 @@
   };
   pkg-about = {
     "1.1.8" = import ./overrides/pkg-about/1.1.8;
+  };
+  pkginfo = {
+    "1.11.1" = import ./overrides/pkginfo/1.11.1;
+  };
+  pkgsettings = {
+    "1.1.1" = import ./overrides/pkgsettings/1.1.1;
   };
   pkgtools = {
     "0.7.3" = import ./overrides/pkgtools/0.7.3;
@@ -9372,6 +13761,9 @@
   plant = {
     "0.1.3" = import ./overrides/plant/0.1.3;
   };
+  plaster-pastedeploy = {
+    "1.0.1" = import ./overrides/plaster-pastedeploy/1.0.1;
+  };
   platformdirs = {
     "4.3.2" = import ./overrides/platformdirs/4.3.2;
   };
@@ -9380,6 +13772,18 @@
   };
   playwright-stealth = {
     "1.0.6" = import ./overrides/playwright-stealth/1.0.6;
+  };
+  plexauth = {
+    "0.0.6" = import ./overrides/plexauth/0.0.6;
+  };
+  plexwebsocket = {
+    "0.0.14" = import ./overrides/plexwebsocket/0.0.14;
+  };
+  plico = {
+    "0.30.1" = import ./overrides/plico/0.30.1;
+  };
+  plogger = {
+    "1.0.8" = import ./overrides/plogger/1.0.8;
   };
   plone-app-form = {
     "2.3.3" = import ./overrides/plone-app-form/2.3.3;
@@ -9417,11 +13821,17 @@
   plone-formwidget-recaptcha = {
     "2.3.0" = import ./overrides/plone-formwidget-recaptcha/2.3.0;
   };
+  plone-mocktestcase = {
+    "1.0" = import ./overrides/plone-mocktestcase/1.0;
+  };
   plone-multilingual = {
     "1.2.1" = import ./overrides/plone-multilingual/1.2.1;
   };
   plone-multilingualbehavior = {
     "1.2.3" = import ./overrides/plone-multilingualbehavior/1.2.3;
+  };
+  plone-principalsource = {
+    "1.0" = import ./overrides/plone-principalsource/1.0;
   };
   plonetheme-classic = {
     "1.5.1" = import ./overrides/plonetheme-classic/1.5.1;
@@ -9438,11 +13848,17 @@
   plotnine = {
     "0.13.6" = import ./overrides/plotnine/0.13.6;
   };
+  plpygis = {
+    "0.5.5" = import ./overrides/plpygis/0.5.5;
+  };
   pluggy = {
     "1.5.0" = import ./overrides/pluggy/1.5.0;
   };
   pluginbase = {
     "1.0.1" = import ./overrides/pluginbase/1.0.1;
+  };
+  plugincode = {
+    "32.0.0" = import ./overrides/plugincode/32.0.0;
   };
   pluginmanager = {
     "0.4.1" = import ./overrides/pluginmanager/0.4.1;
@@ -9453,18 +13869,33 @@
   plugwise = {
     "1.2.0" = import ./overrides/plugwise/1.2.0;
   };
+  plum-dispatch = {
+    "2.5.2" = import ./overrides/plum-dispatch/2.5.2;
+  };
+  plumber = {
+    "1.7" = import ./overrides/plumber/1.7;
+  };
   plumbing = {
     "2.11.2" = import ./overrides/plumbing/2.11.2;
   };
   plumbum = {
     "1.8.3" = import ./overrides/plumbum/1.8.3;
   };
+  plux = {
+    "1.11.1" = import ./overrides/plux/1.11.1;
+  };
   ply = {
     "3.4" = import ./overrides/ply/3.4;
     "3.8" = import ./overrides/ply/3.8;
   };
+  plyara = {
+    "2.1.1" = import ./overrides/plyara/2.1.1;
+  };
   plyfile = {
     "1.1" = import ./overrides/plyfile/1.1;
+  };
+  pmdarima = {
+    "2.0.4" = import ./overrides/pmdarima/2.0.4;
   };
   pmsensor = {
     "0.4" = import ./overrides/pmsensor/0.4;
@@ -9490,11 +13921,29 @@
   podman = {
     "5.0.0" = import ./overrides/podman/5.0.0;
   };
+  poetry-dynamic-versioning = {
+    "1.4.1" = import ./overrides/poetry-dynamic-versioning/1.4.1;
+  };
+  poetry-semver = {
+    "0.1.0" = import ./overrides/poetry-semver/0.1.0;
+  };
+  poetry2conda = {
+    "0.3.0" = import ./overrides/poetry2conda/0.3.0;
+  };
   poezio = {
     "0.14" = import ./overrides/poezio/0.14;
   };
+  poliastro = {
+    "0.17.0" = import ./overrides/poliastro/0.17.0;
+  };
+  polib = {
+    "1.2.0" = import ./overrides/polib/1.2.0;
+  };
   politico-civic-election = {
     "0.3.3" = import ./overrides/politico-civic-election/0.3.3;
+  };
+  politico-civic-entity = {
+    "0.3.1" = import ./overrides/politico-civic-entity/0.3.1;
   };
   politico-civic-geography = {
     "0.5.1" = import ./overrides/politico-civic-geography/0.5.1;
@@ -9505,8 +13954,14 @@
   politico-civic-utils = {
     "0.0.8" = import ./overrides/politico-civic-utils/0.0.8;
   };
+  pollination-honeybee-radiance = {
+    "0.22.63" = import ./overrides/pollination-honeybee-radiance/0.22.63;
+  };
   pollination-ladybug = {
     "0.2.4" = import ./overrides/pollination-ladybug/0.2.4;
+  };
+  pollination-path = {
+    "0.3.2" = import ./overrides/pollination-path/0.3.2;
   };
   polling = {
     "0.3.2" = import ./overrides/polling/0.3.2;
@@ -9523,8 +13978,38 @@
   polygon3 = {
     "3.0.9.1" = import ./overrides/polygon3/3.0.9.1;
   };
+  polyleven = {
+    "0.8" = import ./overrides/polyleven/0.8;
+  };
+  polyswarm-api = {
+    "3.9.0" = import ./overrides/polyswarm-api/3.9.0;
+  };
+  polywrap-manifest = {
+    "0.1.2" = import ./overrides/polywrap-manifest/0.1.2;
+  };
+  pontos = {
+    "24.9.0" = import ./overrides/pontos/24.9.0;
+  };
   pony = {
     "0.7.19" = import ./overrides/pony/0.7.19;
+  };
+  pook = {
+    "2.0.0" = import ./overrides/pook/2.0.0;
+  };
+  pop = {
+    "27.1.0" = import ./overrides/pop/27.1.0;
+  };
+  poppy = {
+    "1.1.1" = import ./overrides/poppy/1.1.1;
+  };
+  port-for = {
+    "0.7.3" = import ./overrides/port-for/0.7.3;
+  };
+  portablemc = {
+    "4.4.0" = import ./overrides/portablemc/4.4.0;
+  };
+  portalocker = {
+    "2.10.1" = import ./overrides/portalocker/2.10.1;
   };
   portpicker = {
     "1.3.1" = import ./overrides/portpicker/1.3.1;
@@ -9546,6 +14031,9 @@
   };
   powerline-status = {
     "2.7" = import ./overrides/powerline-status/2.7;
+  };
+  poyo = {
+    "0.5.0" = import ./overrides/poyo/0.5.0;
   };
   pp-ez = {
     "0.2.0" = import ./overrides/pp-ez/0.2.0;
@@ -9583,6 +14071,9 @@
   praatio = {
     "6.2.0" = import ./overrides/praatio/6.2.0;
   };
+  prance = {
+    "23.6.21.0" = import ./overrides/prance/23.6.21.0;
+  };
   prayer-times-calculator = {
     "0.0.12" = import ./overrides/prayer-times-calculator/0.0.12;
   };
@@ -9600,6 +14091,9 @@
   };
   preshed = {
     "3.0.9" = import ./overrides/preshed/3.0.9;
+  };
+  presto-python-client = {
+    "0.8.4" = import ./overrides/presto-python-client/0.8.4;
   };
   pretrainedmodels = {
     "0.7.4" = import ./overrides/pretrainedmodels/0.7.4;
@@ -9641,6 +14135,12 @@
   primesieve = {
     "2.3.3" = import ./overrides/primesieve/2.3.3;
   };
+  priority = {
+    "2.0.0" = import ./overrides/priority/2.0.0;
+  };
+  prison = {
+    "0.2.1" = import ./overrides/prison/0.2.1;
+  };
   probableparsing = {
     "0.0.1" = import ./overrides/probableparsing/0.0.1;
   };
@@ -9656,18 +14156,24 @@
   proc = {
     "1.0" = import ./overrides/proc/1.0;
   };
+  procrastinate = {
+    "2.13.2" = import ./overrides/procrastinate/2.13.2;
+  };
+  procrunner = {
+    "2.3.3" = import ./overrides/procrunner/2.3.3;
+  };
   prodict = {
     "0.8.18" = import ./overrides/prodict/0.8.18;
     "0.8.20" = import ./overrides/prodict/0.8.20;
   };
-  products-basesyndication = {
-    "1.0.0" = import ./overrides/products-basesyndication/1.0.0;
+  products-advancedquery = {
+    "4.2.1" = import ./overrides/products-advancedquery/4.2.1;
   };
   products-atreferencebrowserwidget = {
     "3.0" = import ./overrides/products-atreferencebrowserwidget/3.0;
   };
-  products-advancedquery = {
-    "4.2.1" = import ./overrides/products-advancedquery/4.2.1;
+  products-basesyndication = {
+    "1.0.0" = import ./overrides/products-basesyndication/1.0.0;
   };
   products-atextensions = {
     "1.1" = import ./overrides/products-atextensions/1.1;
@@ -9683,6 +14189,9 @@
   };
   products-cron4plone = {
     "1.1.11" = import ./overrides/products-cron4plone/1.1.11;
+  };
+  products-datagridfield = {
+    "1.9.6" = import ./overrides/products-datagridfield/1.9.6;
   };
   products-fatsyndication = {
     "1.0.1" = import ./overrides/products-fatsyndication/1.0.1;
@@ -9723,6 +14232,9 @@
   profilehooks = {
     "1.12.0" = import ./overrides/profilehooks/1.12.0;
   };
+  proglog = {
+    "0.1.10" = import ./overrides/proglog/0.1.10;
+  };
   progress = {
     "1.6" = import ./overrides/progress/1.6;
   };
@@ -9744,11 +14256,23 @@
   projectq = {
     "0.8.0" = import ./overrides/projectq/0.8.0;
   };
+  prometheus-async = {
+    "22.2.0" = import ./overrides/prometheus-async/22.2.0;
+  };
+  prometheus-client = {
+    "0.20.0" = import ./overrides/prometheus-client/0.20.0;
+  };
   prometheus-fastapi-instrumentator = {
     "7.0.0" = import ./overrides/prometheus-fastapi-instrumentator/7.0.0;
   };
   promise = {
     "2.3" = import ./overrides/promise/2.3;
+  };
+  prompt = {
+    "0.4.1" = import ./overrides/prompt/0.4.1;
+  };
+  prompt-toolkit = {
+    "3.0.47" = import ./overrides/prompt-toolkit/3.0.47;
   };
   prompter = {
     "0.3.10" = import ./overrides/prompter/0.3.10;
@@ -9800,6 +14324,12 @@
   };
   psautohint = {
     "2.4.0" = import ./overrides/psautohint/2.4.0;
+  };
+  psd-tools = {
+    "1.9.34" = import ./overrides/psd-tools/1.9.34;
+  };
+  psims = {
+    "1.3.4" = import ./overrides/psims/1.3.4;
   };
   psqlparse = {
     "1.0rc7" = import ./overrides/psqlparse/1.0rc7;
@@ -9869,14 +14399,35 @@
   pubnub = {
     "8.1.0" = import ./overrides/pubnub/8.1.0;
   };
+  pubtools = {
+    "1.4.1" = import ./overrides/pubtools/1.4.1;
+  };
   puffotter = {
     "0.17.2" = import ./overrides/puffotter/0.17.2;
+  };
+  pulsectl-asyncio = {
+    "1.2.1" = import ./overrides/pulsectl-asyncio/1.2.1;
+  };
+  pulumi-aws-native = {
+    "0.121.0" = import ./overrides/pulumi-aws-native/0.121.0;
+  };
+  pulumi-azure-native = {
+    "2.60.0" = import ./overrides/pulumi-azure-native/2.60.0;
+  };
+  pulumi-kubernetes = {
+    "4.17.1" = import ./overrides/pulumi-kubernetes/4.17.1;
+  };
+  pumpkin-supmcu = {
+    "1.2.2" = import ./overrides/pumpkin-supmcu/1.2.2;
   };
   pupynere = {
     "1.0.15" = import ./overrides/pupynere/1.0.15;
   };
   pur = {
     "7.3.2" = import ./overrides/pur/7.3.2;
+  };
+  pure-pcapy3 = {
+    "1.0.1" = import ./overrides/pure-pcapy3/1.0.1;
   };
   pure-protobuf = {
     "3.1.2" = import ./overrides/pure-protobuf/3.1.2;
@@ -9895,6 +14446,9 @@
   };
   pusherclient = {
     "0.3.0" = import ./overrides/pusherclient/0.3.0;
+  };
+  pvl = {
+    "1.3.2" = import ./overrides/pvl/1.3.2;
   };
   pvlib = {
     "0.11.0" = import ./overrides/pvlib/0.11.0;
@@ -9932,11 +14486,26 @@
   py-cid = {
     "0.3.0" = import ./overrides/py-cid/0.3.0;
   };
+  py-cord = {
+    "2.6.0" = import ./overrides/py-cord/2.6.0;
+  };
   py-dag = {
     "3.0.1" = import ./overrides/py-dag/3.0.1;
   };
   py-dateutil = {
     "2.2" = import ./overrides/py-dateutil/2.2;
+  };
+  py-deprecate = {
+    "0.0.4" = import ./overrides/py-deprecate/0.0.4;
+  };
+  py-ecg-detectors = {
+    "1.3.5" = import ./overrides/py-ecg-detectors/1.3.5;
+  };
+  py-eth-sig-utils = {
+    "0.4.0" = import ./overrides/py-eth-sig-utils/0.4.0;
+  };
+  py-executable-checklist = {
+    "1.4.0" = import ./overrides/py-executable-checklist/1.4.0;
   };
   py-flags = {
     "1.1.4" = import ./overrides/py-flags/1.1.4;
@@ -9944,20 +14513,32 @@
   py-getch = {
     "1.0.1" = import ./overrides/py-getch/1.0.1;
   };
+  py-healthcheck = {
+    "1.10.1" = import ./overrides/py-healthcheck/1.10.1;
+  };
   py-helper-mod = {
     "0.0.55" = import ./overrides/py-helper-mod/0.0.55;
   };
   py-lets-be-rational = {
     "1.0.1" = import ./overrides/py-lets-be-rational/1.0.1;
   };
+  py-multicodec = {
+    "0.2.1" = import ./overrides/py-multicodec/0.2.1;
+  };
   py-nightscout = {
     "1.3.3" = import ./overrides/py-nightscout/1.3.3;
+  };
+  py-partiql-parser = {
+    "0.5.6" = import ./overrides/py-partiql-parser/0.5.6;
   };
   py-postgresql = {
     "1.2.1" = import ./overrides/py-postgresql/1.2.1;
   };
   py-serializable = {
     "1.1.0" = import ./overrides/py-serializable/1.1.0;
+  };
+  py-solc = {
+    "3.2.0" = import ./overrides/py-solc/3.2.0;
   };
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
@@ -9983,6 +14564,9 @@
   py-youtube = {
     "1.1.7" = import ./overrides/py-youtube/1.1.7;
   };
+  py-zipkin = {
+    "1.2.8" = import ./overrides/py-zipkin/1.2.8;
+  };
   py2bit = {
     "0.3.0" = import ./overrides/py2bit/0.3.0;
   };
@@ -10004,6 +14588,12 @@
   py65 = {
     "1.2.0" = import ./overrides/py65/1.2.0;
   };
+  pyabf = {
+    "2.3.8" = import ./overrides/pyabf/2.3.8;
+  };
+  pyacaia-async = {
+    "0.0.10" = import ./overrides/pyacaia-async/0.0.10;
+  };
   pyacoustid = {
     "1.3.0" = import ./overrides/pyacoustid/1.3.0;
   };
@@ -10019,8 +14609,17 @@
   pyaes = {
     "1.6.1" = import ./overrides/pyaes/1.6.1;
   };
+  pyaftership = {
+    "23.1.0" = import ./overrides/pyaftership/23.1.0;
+  };
   pyairnow = {
     "1.2.2" = import ./overrides/pyairnow/1.2.2;
+  };
+  pyairtable = {
+    "2.3.3" = import ./overrides/pyairtable/2.3.3;
+  };
+  pyais = {
+    "2.7.2" = import ./overrides/pyais/2.7.2;
   };
   pyalsaaudio = {
     "0.11.0" = import ./overrides/pyalsaaudio/0.11.0;
@@ -10070,6 +14669,9 @@
   pyatem = {
     "0.10.0" = import ./overrides/pyatem/0.10.0;
   };
+  pyatmo = {
+    "8.1.0" = import ./overrides/pyatmo/8.1.0;
+  };
   pyatv = {
     "0.15.1" = import ./overrides/pyatv/0.15.1;
   };
@@ -10107,8 +14709,14 @@
   pybedtools = {
     "0.10.0" = import ./overrides/pybedtools/0.10.0;
   };
+  pybel = {
+    "0.15.5" = import ./overrides/pybel/0.15.5;
+  };
   pybigquery = {
     "0.10.2" = import ./overrides/pybigquery/0.10.2;
+  };
+  pybind11 = {
+    "2.13.5" = import ./overrides/pybind11/2.13.5;
   };
   pybitcoin = {
     "0.9.9" = import ./overrides/pybitcoin/0.9.9;
@@ -10146,11 +14754,23 @@
   pycairo = {
     "1.27.0" = import ./overrides/pycairo/1.27.0;
   };
+  pycangjie = {
+    "0.0.10" = import ./overrides/pycangjie/0.0.10;
+  };
+  pycardano = {
+    "0.11.1" = import ./overrides/pycardano/0.11.1;
+  };
+  pycares = {
+    "4.4.0" = import ./overrides/pycares/4.4.0;
+  };
   pycarwings2 = {
     "2.14" = import ./overrides/pycarwings2/2.14;
   };
   pycatch22 = {
     "0.4.5" = import ./overrides/pycatch22/0.4.5;
+  };
+  pycaw = {
+    "20240210" = import ./overrides/pycaw/20240210;
   };
   pycddl = {
     "0.6.3" = import ./overrides/pycddl/0.6.3;
@@ -10160,6 +14780,9 @@
   };
   pycdlib = {
     "1.14.0" = import ./overrides/pycdlib/1.14.0;
+  };
+  pycfdns = {
+    "3.0.0" = import ./overrides/pycfdns/3.0.0;
   };
   pycflow2dot = {
     "0.2.3" = import ./overrides/pycflow2dot/0.2.3;
@@ -10290,6 +14913,27 @@
   pycurl = {
     "7.45.3" = import ./overrides/pycurl/7.45.3;
   };
+  pycyphal = {
+    "1.20.0" = import ./overrides/pycyphal/1.20.0;
+  };
+  pydaikin = {
+    "2.13.6" = import ./overrides/pydaikin/2.13.6;
+  };
+  pydantic = {
+    "2.9.1" = import ./overrides/pydantic/2.9.1;
+  };
+  pydantic-openapi-helper = {
+    "0.2.11" = import ./overrides/pydantic-openapi-helper/0.2.11;
+  };
+  pydantic-scim = {
+    "0.0.8" = import ./overrides/pydantic-scim/0.0.8;
+  };
+  pydantic-sqlalchemy = {
+    "0.0.9" = import ./overrides/pydantic-sqlalchemy/0.0.9;
+  };
+  pydantic-yaml = {
+    "1.3.0" = import ./overrides/pydantic-yaml/1.3.0;
+  };
   pydaqmx = {
     "1.4.6" = import ./overrides/pydaqmx/1.4.6;
   };
@@ -10332,6 +14976,24 @@
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
+  pydflow = {
+    "1.8.90" = import ./overrides/pydflow/1.8.90;
+  };
+  pydicom = {
+    "3.0.0" = import ./overrides/pydicom/3.0.0;
+  };
+  pydiscourse = {
+    "1.7.0" = import ./overrides/pydiscourse/1.7.0;
+  };
+  pydiscovergy = {
+    "3.0.1" = import ./overrides/pydiscovergy/3.0.1;
+  };
+  pydl = {
+    "1.0.1" = import ./overrides/pydl/1.0.1;
+  };
+  pydload = {
+    "1.0.9" = import ./overrides/pydload/1.0.9;
+  };
   pydmd = {
     "1.0.0" = import ./overrides/pydmd/1.0.0;
   };
@@ -10340,6 +15002,9 @@
   };
   pydoe2 = {
     "1.3.0" = import ./overrides/pydoe2/1.3.0;
+  };
+  pydoods = {
+    "1.0.2" = import ./overrides/pydoods/1.0.2;
   };
   pydot3k = {
     "1.0.17" = import ./overrides/pydot3k/1.0.17;
@@ -10359,6 +15024,12 @@
   pyds9 = {
     "1.8.1" = import ./overrides/pyds9/1.8.1;
   };
+  pydsdl = {
+    "1.22.0" = import ./overrides/pydsdl/1.22.0;
+  };
+  pydy = {
+    "0.7.1" = import ./overrides/pydy/0.7.1;
+  };
   pydyf = {
     "0.11.0" = import ./overrides/pydyf/0.11.0;
   };
@@ -10367,6 +15038,9 @@
   };
   pyecharts = {
     "2.0.6" = import ./overrides/pyecharts/2.0.6;
+  };
+  pyecharts-snapshot = {
+    "0.2.0" = import ./overrides/pyecharts-snapshot/0.2.0;
   };
   pyechonest = {
     "9.0.0" = import ./overrides/pyechonest/9.0.0;
@@ -10383,6 +15057,9 @@
   pyee = {
     "12.0.0" = import ./overrides/pyee/12.0.0;
   };
+  pyefergy = {
+    "22.5.0" = import ./overrides/pyefergy/22.5.0;
+  };
   pyelasticsearch = {
     "1.4.1" = import ./overrides/pyelasticsearch/1.4.1;
   };
@@ -10391,6 +15068,9 @@
   };
   pyelliptic = {
     "1.5.8" = import ./overrides/pyelliptic/1.5.8;
+  };
+  pyemvue = {
+    "0.18.6" = import ./overrides/pyemvue/0.18.6;
   };
   pyenvisalink = {
     "4.7" = import ./overrides/pyenvisalink/4.7;
@@ -10401,6 +15081,12 @@
   pyephember = {
     "0.4.0" = import ./overrides/pyephember/0.4.0;
   };
+  pyepsg = {
+    "0.4.0" = import ./overrides/pyepsg/0.4.0;
+  };
+  pyepsilla = {
+    "0.3.9" = import ./overrides/pyepsilla/0.3.9;
+  };
   pyes = {
     "0.99.6" = import ./overrides/pyes/0.99.6;
   };
@@ -10410,11 +15096,23 @@
   pyeverlights = {
     "0.1.0" = import ./overrides/pyeverlights/0.1.0;
   };
+  pyexasol = {
+    "0.27.0" = import ./overrides/pyexasol/0.27.0;
+  };
   pyexcel = {
     "0.4.5" = import ./overrides/pyexcel/0.4.5;
   };
+  pyexcel-io = {
+    "0.6.6" = import ./overrides/pyexcel-io/0.6.6;
+  };
+  pyexcel-ods = {
+    "0.6.0" = import ./overrides/pyexcel-ods/0.6.0;
+  };
   pyexcel-ods3 = {
     "0.6.1" = import ./overrides/pyexcel-ods3/0.6.1;
+  };
+  pyexcel-xls = {
+    "0.7.0" = import ./overrides/pyexcel-xls/0.7.0;
   };
   pyexcel-xlsx = {
     "0.3.0" = import ./overrides/pyexcel-xlsx/0.3.0;
@@ -10448,6 +15146,9 @@
   };
   pyfaidx = {
     "0.8.1.2" = import ./overrides/pyfaidx/0.8.1.2;
+  };
+  pyfakefs = {
+    "5.6.0" = import ./overrides/pyfakefs/5.6.0;
   };
   pyfakewebcam = {
     "0.1.0" = import ./overrides/pyfakewebcam/0.1.0;
@@ -10509,17 +15210,29 @@
   pyftpdlib = {
     "2.0.0" = import ./overrides/pyftpdlib/2.0.0;
   };
+  pyfunctional = {
+    "1.5.0" = import ./overrides/pyfunctional/1.5.0;
+  };
+  pygal = {
+    "3.0.5" = import ./overrides/pygal/3.0.5;
+  };
   pygam = {
     "0.9.1" = import ./overrides/pygam/0.9.1;
   };
   pygame = {
     "2.1.3" = import ./overrides/pygame/2.1.3;
   };
+  pygccxml = {
+    "2.5.0" = import ./overrides/pygccxml/2.5.0;
+  };
   pygdbmi = {
     "0.11.0.0" = import ./overrides/pygdbmi/0.11.0.0;
   };
   pygeneric = {
     "0.5.7" = import ./overrides/pygeneric/0.5.7;
+  };
+  pygeobase = {
+    "0.6.3" = import ./overrides/pygeobase/0.6.3;
   };
   pygeogrids = {
     "0.5.2" = import ./overrides/pygeogrids/0.5.2;
@@ -10547,6 +15260,9 @@
   };
   pyglottolog = {
     "3.13.0" = import ./overrides/pyglottolog/3.13.0;
+  };
+  pygls = {
+    "1.3.1" = import ./overrides/pygls/1.3.1;
   };
   pygltflib = {
     "1.16.2" = import ./overrides/pygltflib/1.16.2;
@@ -10581,11 +15297,26 @@
   pygrok = {
     "1.0.0" = import ./overrides/pygrok/1.0.0;
   };
+  pygtail = {
+    "0.14.0" = import ./overrides/pygtail/0.14.0;
+  };
+  pygtfs = {
+    "0.1.9" = import ./overrides/pygtfs/0.1.9;
+  };
   pygti = {
     "0.9.4" = import ./overrides/pygti/0.9.4;
   };
+  pyhanko-certvalidator = {
+    "0.26.3" = import ./overrides/pyhanko-certvalidator/0.26.3;
+  };
   pyhashxx = {
     "0.1.3" = import ./overrides/pyhashxx/0.1.3;
+  };
+  pyhaversion = {
+    "24.6.1" = import ./overrides/pyhaversion/24.6.1;
+  };
+  pyhcl = {
+    "0.4.5" = import ./overrides/pyhcl/0.4.5;
   };
   pyhg19 = {
     "1.0.3" = import ./overrides/pyhg19/1.0.3;
@@ -10629,6 +15360,9 @@
   pyinotify = {
     "0.9.6" = import ./overrides/pyinotify/0.9.6;
   };
+  pyinspect = {
+    "0.1.0" = import ./overrides/pyinspect/0.1.0;
+  };
   pyinstaller-hooks-contrib = {
     "2024.8" = import ./overrides/pyinstaller-hooks-contrib/2024.8;
   };
@@ -10644,11 +15378,17 @@
   pyipma = {
     "3.0.7" = import ./overrides/pyipma/3.0.7;
   };
+  pyipv8 = {
+    "2.13.0" = import ./overrides/pyipv8/2.13.0;
+  };
   pyixapi = {
     "0.2.3" = import ./overrides/pyixapi/0.2.3;
   };
   pyjade = {
     "4.0.0" = import ./overrides/pyjade/4.0.0;
+  };
+  pyjet = {
+    "1.9.0" = import ./overrides/pyjet/1.9.0;
   };
   pyjks = {
     "20.0.0" = import ./overrides/pyjks/20.0.0;
@@ -10677,6 +15417,9 @@
   pykcs11 = {
     "1.5.17" = import ./overrides/pykcs11/1.5.17;
   };
+  pykdtree = {
+    "1.3.13" = import ./overrides/pykdtree/1.3.13;
+  };
   pykeepass = {
     "4.1.0.post1" = import ./overrides/pykeepass/4.1.0.post1;
   };
@@ -10685,6 +15428,12 @@
   };
   pykerberos = {
     "1.2.4" = import ./overrides/pykerberos/1.2.4;
+  };
+  pykeyatome = {
+    "2.1.2" = import ./overrides/pykeyatome/2.1.2;
+  };
+  pykka = {
+    "4.0.2" = import ./overrides/pykka/4.0.2;
   };
   pykml = {
     "0.2.0" = import ./overrides/pykml/0.2.0;
@@ -10755,12 +15504,21 @@
   pylibftdi = {
     "0.22.0" = import ./overrides/pylibftdi/0.22.0;
   };
+  pylibjpeg = {
+    "2.0.1" = import ./overrides/pylibjpeg/2.0.1;
+  };
+  pylibjpeg-libjpeg = {
+    "2.2.0" = import ./overrides/pylibjpeg-libjpeg/2.2.0;
+  };
   pylibscrypt = {
     "1.8.0" = import ./overrides/pylibscrypt/1.8.0;
     "2.0.0" = import ./overrides/pylibscrypt/2.0.0;
   };
   pylibyaml = {
     "0.1.0" = import ./overrides/pylibyaml/0.1.0;
+  };
+  pyliftover = {
+    "0.4.1" = import ./overrides/pyliftover/0.4.1;
   };
   pylink-square = {
     "1.3.0" = import ./overrides/pylink-square/1.3.0;
@@ -10771,11 +15529,23 @@
   pylint-flask = {
     "0.6" = import ./overrides/pylint-flask/0.6;
   };
+  pylint-plugin-utils = {
+    "0.8.2" = import ./overrides/pylint-plugin-utils/0.8.2;
+  };
   pylitterbot = {
     "2023.5.1" = import ./overrides/pylitterbot/2023.5.1;
   };
+  pylogz = {
+    "0.0.4" = import ./overrides/pylogz/0.0.4;
+  };
+  pylru = {
+    "1.2.1" = import ./overrides/pylru/1.2.1;
+  };
   pyls-isort = {
     "0.2.2" = import ./overrides/pyls-isort/0.2.2;
+  };
+  pyls-spyder = {
+    "0.4.0" = import ./overrides/pyls-spyder/0.4.0;
   };
   pylutron-caseta = {
     "0.21.1" = import ./overrides/pylutron-caseta/0.21.1;
@@ -10815,6 +15585,9 @@
   };
   pymeeus = {
     "0.5.12" = import ./overrides/pymeeus/0.5.12;
+  };
+  pymelcloud = {
+    "2.11.0" = import ./overrides/pymelcloud/2.11.0;
   };
   pymemcache = {
     "4.0.0" = import ./overrides/pymemcache/4.0.0;
@@ -10879,6 +15652,9 @@
   pymyq = {
     "3.1.6" = import ./overrides/pymyq/3.1.6;
   };
+  pymysensors = {
+    "0.24.1" = import ./overrides/pymysensors/0.24.1;
+  };
   pynagios = {
     "0.1.1" = import ./overrides/pynagios/0.1.1;
   };
@@ -10894,15 +15670,42 @@
   pyneqsys = {
     "0.5.7" = import ./overrides/pyneqsys/0.5.7;
   };
+  pynetbox = {
+    "7.4.0" = import ./overrides/pynetbox/7.4.0;
+  };
   pyngo = {
     "2.2.0" = import ./overrides/pyngo/2.2.0;
+  };
+  pyngrok = {
+    "7.2.0" = import ./overrides/pyngrok/7.2.0;
+  };
+  pynhd = {
+    "0.17.0" = import ./overrides/pynhd/0.17.0;
   };
   pynisher = {
     "0.6.4" = import ./overrides/pynisher/0.6.4;
     "1.0.10" = import ./overrides/pynisher/1.0.10;
   };
+  pynitrokey = {
+    "0.4.50" = import ./overrides/pynitrokey/0.4.50;
+  };
+  pynixutil = {
+    "0.5.0" = import ./overrides/pynixutil/0.5.0;
+  };
+  pynmea2 = {
+    "1.19.0" = import ./overrides/pynmea2/1.19.0;
+  };
+  pynndescent = {
+    "0.5.13" = import ./overrides/pynndescent/0.5.13;
+  };
+  pynng = {
+    "0.8.0" = import ./overrides/pynng/0.8.0;
+  };
   pynobo = {
     "1.8.1" = import ./overrides/pynobo/1.8.1;
+  };
+  pynose = {
+    "1.5.2" = import ./overrides/pynose/1.5.2;
   };
   pynsq = {
     "0.9.1" = import ./overrides/pynsq/0.9.1;
@@ -10924,6 +15727,9 @@
   };
   pyocd = {
     "0.36.0" = import ./overrides/pyocd/0.36.0;
+  };
+  pyocr = {
+    "0.8.5" = import ./overrides/pyocr/0.8.5;
   };
   pyod = {
     "2.0.2" = import ./overrides/pyod/2.0.2;
@@ -10958,6 +15764,21 @@
   pyorthanc = {
     "1.18.0" = import ./overrides/pyorthanc/1.18.0;
   };
+  pyotgw = {
+    "2.2.0" = import ./overrides/pyotgw/2.2.0;
+  };
+  pyotp = {
+    "2.9.0" = import ./overrides/pyotp/2.9.0;
+  };
+  pyoverkiz = {
+    "1.14.1" = import ./overrides/pyoverkiz/1.14.1;
+  };
+  pyp = {
+    "3.0.9" = import ./overrides/pyp/3.0.9;
+  };
+  pypandoc = {
+    "1.13" = import ./overrides/pypandoc/1.13;
+  };
   pyparser = {
     "1.0" = import ./overrides/pyparser/1.0;
   };
@@ -10966,6 +15787,9 @@
   };
   pypblib = {
     "0.0.4" = import ./overrides/pypblib/0.0.4;
+  };
+  pypdf = {
+    "4.3.1" = import ./overrides/pypdf/4.3.1;
   };
   pypdf2 = {
     "1.26.0" = import ./overrides/pypdf2/1.26.0;
@@ -11018,6 +15842,9 @@
   pypillowfight = {
     "0.3.0" = import ./overrides/pypillowfight/0.3.0;
   };
+  pypipegraph = {
+    "0.197" = import ./overrides/pypipegraph/0.197;
+  };
   pypitoken = {
     "7.0.1" = import ./overrides/pypitoken/7.0.1;
   };
@@ -11055,6 +15882,9 @@
   pyprosegur = {
     "0.0.12" = import ./overrides/pyprosegur/0.0.12;
   };
+  pyprusalink = {
+    "2.1.1" = import ./overrides/pyprusalink/2.1.1;
+  };
   pypsrp = {
     "0.8.1" = import ./overrides/pypsrp/0.8.1;
   };
@@ -11063,6 +15893,9 @@
   };
   pypykatz = {
     "0.6.10" = import ./overrides/pypykatz/0.6.10;
+  };
+  pypyodbc = {
+    "1.3.6" = import ./overrides/pypyodbc/1.3.6;
   };
   pypytools = {
     "0.6.2" = import ./overrides/pypytools/0.6.2;
@@ -11076,6 +15909,9 @@
   pyqt-resource-helper = {
     "0.0.14" = import ./overrides/pyqt-resource-helper/0.0.14;
   };
+  pyqt-svg-icon-pushbutton = {
+    "0.0.15" = import ./overrides/pyqt-svg-icon-pushbutton/0.0.15;
+  };
   pyqt5 = {
     "5.15.11" = import ./overrides/pyqt5/5.15.11;
   };
@@ -11084,6 +15920,15 @@
   };
   pyqtconsole = {
     "1.2.3" = import ./overrides/pyqtconsole/1.2.3;
+  };
+  pyqtdarktheme = {
+    "2.1.0" = import ./overrides/pyqtdarktheme/2.1.0;
+  };
+  pyqtgraph = {
+    "0.13.7" = import ./overrides/pyqtgraph/0.13.7;
+  };
+  pyquery = {
+    "2.0.1" = import ./overrides/pyquery/2.0.1;
   };
   pyquerystring = {
     "1.1" = import ./overrides/pyquerystring/1.1;
@@ -11097,17 +15942,38 @@
   pyrabbit = {
     "1.1.0" = import ./overrides/pyrabbit/1.1.0;
   };
+  pyrainbird = {
+    "6.0.2" = import ./overrides/pyrainbird/6.0.2;
+  };
   pyramid = {
     "2.0.2" = import ./overrides/pyramid/2.0.2;
   };
+  pyramid-celery = {
+    "4.0.0" = import ./overrides/pyramid-celery/4.0.0;
+  };
+  pyramid-chameleon = {
+    "0.3" = import ./overrides/pyramid-chameleon/0.3;
+  };
   pyramid-deform = {
     "0.2" = import ./overrides/pyramid-deform/0.2;
+  };
+  pyramid-layout = {
+    "1.0" = import ./overrides/pyramid-layout/1.0;
   };
   pyramid-multiauth = {
     "1.0.2" = import ./overrides/pyramid-multiauth/1.0.2;
   };
   pyramid-redis-sessions = {
     "1.0.1" = import ./overrides/pyramid-redis-sessions/1.0.1;
+  };
+  pyramid-tm = {
+    "2.5" = import ./overrides/pyramid-tm/2.5;
+  };
+  pyraml-parser = {
+    "0.1.9" = import ./overrides/pyraml-parser/0.1.9;
+  };
+  pyrate-limiter = {
+    "3.7.0" = import ./overrides/pyrate-limiter/3.7.0;
   };
   pyrax = {
     "1.10.0" = import ./overrides/pyrax/1.10.0;
@@ -11154,6 +16020,15 @@
   pyro-api = {
     "0.1.2" = import ./overrides/pyro-api/0.1.2;
   };
+  pyrodigal = {
+    "3.5.2" = import ./overrides/pyrodigal/3.5.2;
+  };
+  pyroll-core = {
+    "2.1.8" = import ./overrides/pyroll-core/2.1.8;
+  };
+  pyroma = {
+    "4.2" = import ./overrides/pyroma/4.2;
+  };
   pyroute2-core = {
     "0.6.13" = import ./overrides/pyroute2-core/0.6.13;
   };
@@ -11167,14 +16042,26 @@
   pyrss2gen = {
     "1.1" = import ./overrides/pyrss2gen/1.1;
   };
+  pyrundeck = {
+    "0.10.0" = import ./overrides/pyrundeck/0.10.0;
+  };
   pyrustic = {
     "0.1.15" = import ./overrides/pyrustic/0.1.15;
+  };
+  pysaml2 = {
+    "7.5.0" = import ./overrides/pysaml2/7.5.0;
   };
   pysat = {
     "3.2.0" = import ./overrides/pysat/3.2.0;
   };
   pysb = {
     "1.16.0" = import ./overrides/pysb/1.16.0;
+  };
+  pyscaffoldext-dsproject = {
+    "0.7.2" = import ./overrides/pyscaffoldext-dsproject/0.7.2;
+  };
+  pyscaffoldext-travis = {
+    "0.3" = import ./overrides/pyscaffoldext-travis/0.3;
   };
   pyscard = {
     "2.0.0" = import ./overrides/pyscard/2.0.0;
@@ -11214,6 +16101,9 @@
   pysensibo = {
     "1.1.0" = import ./overrides/pysensibo/1.1.0;
   };
+  pyseto = {
+    "1.7.9" = import ./overrides/pyseto/1.7.9;
+  };
   pysftp = {
     "0.2.9" = import ./overrides/pysftp/0.2.9;
   };
@@ -11231,6 +16121,9 @@
   };
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
+  };
+  pyshuttlis = {
+    "0.1.56" = import ./overrides/pyshuttlis/0.1.56;
   };
   pysiaf = {
     "0.22.0" = import ./overrides/pysiaf/0.22.0;
@@ -11262,6 +16155,9 @@
   pyskyqhub = {
     "0.1.9" = import ./overrides/pyskyqhub/0.1.9;
   };
+  pyslim = {
+    "1.0.4" = import ./overrides/pyslim/1.0.4;
+  };
   pysmarthome = {
     "3.1.1" = import ./overrides/pysmarthome/3.1.1;
   };
@@ -11273,6 +16169,27 @@
   };
   pysmi = {
     "1.5.0" = import ./overrides/pysmi/1.5.0;
+  };
+  pysmi-lextudio = {
+    "1.4.3" = import ./overrides/pysmi-lextudio/1.4.3;
+  };
+  pysmiles = {
+    "1.1.2" = import ./overrides/pysmiles/1.1.2;
+  };
+  pysnmp = {
+    "7.0.3" = import ./overrides/pysnmp/7.0.3;
+  };
+  pysnmp-pysmi = {
+    "1.1.12" = import ./overrides/pysnmp-pysmi/1.1.12;
+  };
+  pysnmpcrypto = {
+    "0.1.0" = import ./overrides/pysnmpcrypto/0.1.0;
+  };
+  pysnooz = {
+    "0.10.0" = import ./overrides/pysnooz/0.10.0;
+  };
+  pysnow = {
+    "0.7.17" = import ./overrides/pysnow/0.7.17;
   };
   pysocks = {
     "1.6.8" = import ./overrides/pysocks/1.6.8;
@@ -11301,14 +16218,29 @@
   pyspf = {
     "2.0.14" = import ./overrides/pyspf/2.0.14;
   };
+  pyspiflash = {
+    "0.6.3" = import ./overrides/pyspiflash/0.6.3;
+  };
+  pyspinel = {
+    "1.0.3" = import ./overrides/pyspinel/1.0.3;
+  };
   pyspnego = {
     "0.11.1" = import ./overrides/pyspnego/0.11.1;
+  };
+  pyspotlight = {
+    "0.7.2" = import ./overrides/pyspotlight/0.7.2;
   };
   pysptk = {
     "1.0.1" = import ./overrides/pysptk/1.0.1;
   };
   pysqlite3 = {
     "0.5.3" = import ./overrides/pysqlite3/0.5.3;
+  };
+  pysqlitecipher = {
+    "0.22" = import ./overrides/pysqlitecipher/0.22;
+  };
+  pysqueezebox = {
+    "0.8.1" = import ./overrides/pysqueezebox/0.8.1;
   };
   pysradb = {
     "2.2.1" = import ./overrides/pysradb/2.2.1;
@@ -11322,6 +16254,9 @@
   pyssim = {
     "0.7" = import ./overrides/pyssim/0.7;
   };
+  pystac = {
+    "1.10.1" = import ./overrides/pystac/1.10.1;
+  };
   pystac-client = {
     "0.8.3" = import ./overrides/pystac-client/0.8.3;
   };
@@ -11331,11 +16266,23 @@
   pystemmer = {
     "2.2.0.1" = import ./overrides/pystemmer/2.2.0.1;
   };
+  pystow = {
+    "0.5.5" = import ./overrides/pystow/0.5.5;
+  };
+  pystrict = {
+    "1.3" = import ./overrides/pystrict/1.3;
+  };
+  pystyle = {
+    "2.9" = import ./overrides/pystyle/2.9;
+  };
   pysuez = {
     "0.2.0" = import ./overrides/pysuez/0.2.0;
   };
   pyswarm = {
     "0.6" = import ./overrides/pyswarm/0.6;
+  };
+  pyswarms = {
+    "1.3.0" = import ./overrides/pyswarms/1.3.0;
   };
   pyswitchbee = {
     "1.8.3" = import ./overrides/pyswitchbee/1.8.3;
@@ -11361,11 +16308,17 @@
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
+  pytap2 = {
+    "2.3.0" = import ./overrides/pytap2/2.3.0;
+  };
   pytconf = {
     "0.1.14" = import ./overrides/pytconf/0.1.14;
   };
   pytdx = {
     "1.72" = import ./overrides/pytdx/1.72;
+  };
+  pyte = {
+    "0.8.2" = import ./overrides/pyte/0.8.2;
   };
   pyteal = {
     "0.26.1" = import ./overrides/pyteal/0.26.1;
@@ -11376,6 +16329,42 @@
   pytensor = {
     "2.25.4" = import ./overrides/pytensor/2.25.4;
   };
+  pyteomics = {
+    "4.7.3" = import ./overrides/pyteomics/4.7.3;
+  };
+  pytesseract = {
+    "0.3.13" = import ./overrides/pytesseract/0.3.13;
+  };
+  pytest-aio = {
+    "1.9.0" = import ./overrides/pytest-aio/1.9.0;
+  };
+  pytest-aioresponses = {
+    "0.2.0" = import ./overrides/pytest-aioresponses/0.2.0;
+  };
+  pytest-alembic = {
+    "0.11.1" = import ./overrides/pytest-alembic/0.11.1;
+  };
+  pytest-allure-adaptor = {
+    "1.7.10" = import ./overrides/pytest-allure-adaptor/1.7.10;
+  };
+  pytest-arraydiff = {
+    "0.6.1" = import ./overrides/pytest-arraydiff/0.6.1;
+  };
+  pytest-astropy = {
+    "0.11.0" = import ./overrides/pytest-astropy/0.11.0;
+  };
+  pytest-astropy-header = {
+    "0.2.2" = import ./overrides/pytest-astropy-header/0.2.2;
+  };
+  pytest-base-url = {
+    "2.1.0" = import ./overrides/pytest-base-url/2.1.0;
+  };
+  pytest-bdd = {
+    "7.2.0" = import ./overrides/pytest-bdd/7.2.0;
+  };
+  pytest-benchmark = {
+    "4.0.0" = import ./overrides/pytest-benchmark/4.0.0;
+  };
   pytest-black = {
     "0.3.12" = import ./overrides/pytest-black/0.3.12;
   };
@@ -11385,35 +16374,101 @@
   pytest-celery = {
     "1.1.1" = import ./overrides/pytest-celery/1.1.1;
   };
+  pytest-check = {
+    "2.4.1" = import ./overrides/pytest-check/2.4.1;
+  };
   pytest-clarity = {
     "1.0.1" = import ./overrides/pytest-clarity/1.0.1;
   };
   pytest-cram = {
     "0.2.2" = import ./overrides/pytest-cram/0.2.2;
   };
+  pytest-datafiles = {
+    "3.0.0" = import ./overrides/pytest-datafiles/3.0.0;
+  };
+  pytest-dependency = {
+    "0.6.0" = import ./overrides/pytest-dependency/0.6.0;
+  };
+  pytest-describe = {
+    "2.2.0" = import ./overrides/pytest-describe/2.2.0;
+  };
+  pytest-django = {
+    "4.9.0" = import ./overrides/pytest-django/4.9.0;
+  };
+  pytest-docker = {
+    "3.1.1" = import ./overrides/pytest-docker/3.1.1;
+  };
   pytest-dotenv = {
     "0.5.2" = import ./overrides/pytest-dotenv/0.5.2;
+  };
+  pytest-examples = {
+    "0.0.13" = import ./overrides/pytest-examples/0.0.13;
   };
   pytest-expect = {
     "1.1.0" = import ./overrides/pytest-expect/1.1.0;
   };
+  pytest-factoryboy = {
+    "2.7.0" = import ./overrides/pytest-factoryboy/2.7.0;
+  };
+  pytest-filter-subpackage = {
+    "0.2.0" = import ./overrides/pytest-filter-subpackage/0.2.0;
+  };
+  pytest-forked = {
+    "1.6.0" = import ./overrides/pytest-forked/1.6.0;
+  };
   pytest-freezer = {
     "0.4.8" = import ./overrides/pytest-freezer/0.4.8;
+  };
+  pytest-grpc = {
+    "0.8.0" = import ./overrides/pytest-grpc/0.8.0;
+  };
+  pytest-httpbin = {
+    "2.0.0" = import ./overrides/pytest-httpbin/2.0.0;
+  };
+  pytest-httpx = {
+    "0.30.0" = import ./overrides/pytest-httpx/0.30.0;
+  };
+  pytest-image-diff = {
+    "0.0.11" = import ./overrides/pytest-image-diff/0.0.11;
+  };
+  pytest-instafail = {
+    "0.5.0" = import ./overrides/pytest-instafail/0.5.0;
   };
   pytest-json = {
     "0.4.0" = import ./overrides/pytest-json/0.4.0;
   };
+  pytest-json-report = {
+    "1.5.0" = import ./overrides/pytest-json-report/1.5.0;
+  };
   pytest-lazy-fixture = {
     "0.6.3" = import ./overrides/pytest-lazy-fixture/0.6.3;
   };
+  pytest-localserver = {
+    "0.9.0" = import ./overrides/pytest-localserver/0.9.0;
+  };
   pytest-logging = {
     "2015.11.4" = import ./overrides/pytest-logging/2015.11.4;
+  };
+  pytest-markdown-docs = {
+    "0.5.1" = import ./overrides/pytest-markdown-docs/0.5.1;
+  };
+  pytest-md-report = {
+    "0.6.2" = import ./overrides/pytest-md-report/0.6.2;
+  };
+  pytest-metadata = {
+    "3.1.1" = import ./overrides/pytest-metadata/3.1.1;
   };
   pytest-mock = {
     "3.14.0" = import ./overrides/pytest-mock/3.14.0;
   };
   pytest-mockito = {
     "0.0.4" = import ./overrides/pytest-mockito/0.0.4;
+  };
+  pytest-mypy-plugins = {
+    "3.1.2" = import ./overrides/pytest-mypy-plugins/3.1.2;
+  };
+  pytest-ordering = {
+    "0.6" = import ./overrides/pytest-ordering/0.6;
   };
   pytest-parallel = {
     "0.1.1" = import ./overrides/pytest-parallel/0.1.1;
@@ -11424,14 +16479,35 @@
   pytest-play = {
     "2.3.1" = import ./overrides/pytest-play/2.3.1;
   };
+  pytest-plt = {
+    "1.1.1" = import ./overrides/pytest-plt/1.1.1;
+  };
+  pytest-postgresql = {
+    "6.1.1" = import ./overrides/pytest-postgresql/6.1.1;
+  };
   pytest-raisesregexp = {
     "2.1" = import ./overrides/pytest-raisesregexp/2.1;
   };
   pytest-random-order = {
     "1.1.1" = import ./overrides/pytest-random-order/1.1.1;
   };
+  pytest-redis = {
+    "3.1.2" = import ./overrides/pytest-redis/3.1.2;
+  };
   pytest-remfiles = {
     "0.0.2" = import ./overrides/pytest-remfiles/0.0.2;
+  };
+  pytest-remotedata = {
+    "0.4.1" = import ./overrides/pytest-remotedata/0.4.1;
+  };
+  pytest-resource-path = {
+    "1.3.0" = import ./overrides/pytest-resource-path/1.3.0;
+  };
+  pytest-retry = {
+    "1.6.3" = import ./overrides/pytest-retry/1.6.3;
+  };
+  pytest-runner = {
+    "6.0.1" = import ./overrides/pytest-runner/6.0.1;
   };
   pytest-select = {
     "0.1.2" = import ./overrides/pytest-select/0.1.2;
@@ -11439,14 +16515,41 @@
   pytest-services = {
     "2.2.1" = import ./overrides/pytest-services/2.2.1;
   };
+  pytest-splinter = {
+    "3.3.2" = import ./overrides/pytest-splinter/3.3.2;
+  };
   pytest-splinter4 = {
     "0.4.0" = import ./overrides/pytest-splinter4/0.4.0;
+  };
+  pytest-subprocess = {
+    "1.5.2" = import ./overrides/pytest-subprocess/1.5.2;
   };
   pytest-subtesthack = {
     "0.2.0" = import ./overrides/pytest-subtesthack/0.2.0;
   };
   pytest-subtests = {
     "0.13.1" = import ./overrides/pytest-subtests/0.13.1;
+  };
+  pytest-sugar = {
+    "1.0.0" = import ./overrides/pytest-sugar/1.0.0;
+  };
+  pytest-testconfig = {
+    "0.2.0" = import ./overrides/pytest-testconfig/0.2.0;
+  };
+  pytest-tornasync = {
+    "0.6.0.post2" = import ./overrides/pytest-tornasync/0.6.0.post2;
+  };
+  pytest-travis-fold = {
+    "1.3.0" = import ./overrides/pytest-travis-fold/1.3.0;
+  };
+  pytest-twisted = {
+    "1.14.3" = import ./overrides/pytest-twisted/1.14.3;
+  };
+  pytest-unordered = {
+    "0.6.1" = import ./overrides/pytest-unordered/0.6.1;
+  };
+  pytest-vcr = {
+    "1.0.2" = import ./overrides/pytest-vcr/1.0.2;
   };
   pytest-watch = {
     "4.2.0" = import ./overrides/pytest-watch/4.2.0;
@@ -11481,6 +16584,9 @@
   python-binance = {
     "1.0.19" = import ./overrides/python-binance/1.0.19;
   };
+  python-bitcoinlib = {
+    "0.12.2" = import ./overrides/python-bitcoinlib/0.12.2;
+  };
   python-bitcoinrpc = {
     "0.1" = import ./overrides/python-bitcoinrpc/0.1;
     "1.0" = import ./overrides/python-bitcoinrpc/1.0;
@@ -11503,8 +16609,17 @@
   python-chess = {
     "1.999" = import ./overrides/python-chess/1.999;
   };
+  python-clap = {
+    "0.5.0" = import ./overrides/python-clap/0.5.0;
+  };
+  python-configuration = {
+    "0.12.1" = import ./overrides/python-configuration/0.12.1;
+  };
   python-constraint = {
     "1.4.0" = import ./overrides/python-constraint/1.4.0;
+  };
+  python-coveralls = {
+    "2.9.3" = import ./overrides/python-coveralls/2.9.3;
   };
   python-creole = {
     "1.4.10" = import ./overrides/python-creole/1.4.10;
@@ -11514,6 +16629,12 @@
   };
   python-daemon-3k = {
     "1.5.8" = import ./overrides/python-daemon-3k/1.5.8;
+  };
+  python-datauri = {
+    "2.2.0" = import ./overrides/python-datauri/2.2.0;
+  };
+  python-datemath = {
+    "3.0.1" = import ./overrides/python-datemath/3.0.1;
   };
   python-dateutil = {
     "1.5" = import ./overrides/python-dateutil/1.5;
@@ -11536,6 +16657,9 @@
   };
   python-doi = {
     "0.2.0" = import ./overrides/python-doi/0.2.0;
+  };
+  python-dotenv = {
+    "1.0.1" = import ./overrides/python-dotenv/1.0.1;
   };
   python-ecobee-api = {
     "0.2.19" = import ./overrides/python-ecobee-api/0.2.19;
@@ -11606,6 +16730,12 @@
   python-hostlist = {
     "1.23.0" = import ./overrides/python-hostlist/1.23.0;
   };
+  python-hosts = {
+    "1.0.7" = import ./overrides/python-hosts/1.0.7;
+  };
+  python-i18n = {
+    "0.3.9" = import ./overrides/python-i18n/0.3.9;
+  };
   python-igraph = {
     "0.11.6" = import ./overrides/python-igraph/0.11.6;
   };
@@ -11627,8 +16757,14 @@
   python-iptables = {
     "1.0.1" = import ./overrides/python-iptables/1.0.1;
   };
+  python-ipware = {
+    "3.0.0" = import ./overrides/python-ipware/3.0.0;
+  };
   python-ironicclient = {
     "5.8.0" = import ./overrides/python-ironicclient/5.8.0;
+  };
+  python-iso639 = {
+    "2024.4.27" = import ./overrides/python-iso639/2024.4.27;
   };
   python-javabridge = {
     "4.0.3" = import ./overrides/python-javabridge/4.0.3;
@@ -11670,6 +16806,9 @@
   python-lsp-black = {
     "2.0.0" = import ./overrides/python-lsp-black/2.0.0;
   };
+  python-lsp-server = {
+    "1.12.0" = import ./overrides/python-lsp-server/1.12.0;
+  };
   python-ly = {
     "0.9.7" = import ./overrides/python-ly/0.9.7;
   };
@@ -11679,14 +16818,26 @@
   python-lzo = {
     "1.15" = import ./overrides/python-lzo/1.15;
   };
+  python-magic = {
+    "0.4.12" = import ./overrides/python-magic/0.4.12;
+  };
   python-minifier = {
     "2.9.0" = import ./overrides/python-minifier/2.9.0;
   };
   python-modargs = {
     "1.7" = import ./overrides/python-modargs/1.7;
   };
+  python-monkey-business = {
+    "1.1.0" = import ./overrides/python-monkey-business/1.1.0;
+  };
+  python-mpd2 = {
+    "3.1.1" = import ./overrides/python-mpd2/3.1.1;
+  };
   python-mpv = {
     "1.0.7" = import ./overrides/python-mpv/1.0.7;
+  };
+  python-mpv-jsonipc = {
+    "1.2.0" = import ./overrides/python-mpv-jsonipc/1.2.0;
   };
   python-multipart = {
     "0.0.5" = import ./overrides/python-multipart/0.0.5;
@@ -11740,6 +16891,9 @@
   python-osc = {
     "1.9.0" = import ./overrides/python-osc/1.9.0;
   };
+  python-otbr-api = {
+    "2.6.0" = import ./overrides/python-otbr-api/2.6.0;
+  };
   python-packer = {
     "0.1.2" = import ./overrides/python-packer/0.1.2;
   };
@@ -11763,6 +16917,12 @@
   };
   python-rapidjson = {
     "1.20" = import ./overrides/python-rapidjson/1.20;
+  };
+  python-redmine = {
+    "2.5.0" = import ./overrides/python-redmine/2.5.0;
+  };
+  python-resize-image = {
+    "1.1.20" = import ./overrides/python-resize-image/1.1.20;
   };
   python-rtmidi = {
     "1.5.8" = import ./overrides/python-rtmidi/1.5.8;
@@ -11791,23 +16951,41 @@
   python-snappy = {
     "0.7.3" = import ./overrides/python-snappy/0.7.3;
   };
+  python-socks = {
+    "2.5.1" = import ./overrides/python-socks/2.5.1;
+  };
   python-speech-features = {
     "0.6" = import ./overrides/python-speech-features/0.6;
   };
   python-sql = {
     "1.5.1" = import ./overrides/python-sql/1.5.1;
   };
+  python-statemachine = {
+    "2.3.5" = import ./overrides/python-statemachine/2.3.5;
+  };
   python-status = {
     "1.0.1" = import ./overrides/python-status/1.0.1;
   };
+  python-stdnum = {
+    "1.20" = import ./overrides/python-stdnum/1.20;
+  };
   python-swiftclient = {
     "4.6.0" = import ./overrides/python-swiftclient/4.6.0;
+  };
+  python-tado = {
+    "0.17.6" = import ./overrides/python-tado/0.17.6;
   };
   python-tds = {
     "1.15.0" = import ./overrides/python-tds/1.15.0;
   };
   python-technove = {
     "1.3.1" = import ./overrides/python-technove/1.3.1;
+  };
+  python-telegram = {
+    "0.19.0" = import ./overrides/python-telegram/0.19.0;
+  };
+  python-termstyle = {
+    "0.1.10" = import ./overrides/python-termstyle/0.1.10;
   };
   python-terraform = {
     "0.10.1" = import ./overrides/python-terraform/0.10.1;
@@ -11830,8 +17008,14 @@
   python-usbtmc = {
     "0.8" = import ./overrides/python-usbtmc/0.8;
   };
+  python-vagrant = {
+    "1.0.0" = import ./overrides/python-vagrant/1.0.0;
+  };
   python-velbus = {
     "2.1.14" = import ./overrides/python-velbus/2.1.14;
+  };
+  python-vlc = {
+    "3.0.20123" = import ./overrides/python-vlc/3.0.20123;
   };
   python-vxi11 = {
     "0.9" = import ./overrides/python-vxi11/0.9;
@@ -11851,8 +17035,17 @@
   python-xbrl = {
     "1.1.1" = import ./overrides/python-xbrl/1.1.1;
   };
+  python-xmp-toolkit = {
+    "2.0.2" = import ./overrides/python-xmp-toolkit/2.0.2;
+  };
   python-xz = {
     "0.5.0" = import ./overrides/python-xz/0.5.0;
+  };
+  python-yate = {
+    "0.4.1" = import ./overrides/python-yate/0.4.1;
+  };
+  python-youtube = {
+    "0.9.6" = import ./overrides/python-youtube/0.9.6;
   };
   python-yubico = {
     "1.3.3" = import ./overrides/python-yubico/1.3.3;
@@ -11878,6 +17071,9 @@
   python3-xlib = {
     "0.15" = import ./overrides/python3-xlib/0.15;
   };
+  pythonaes = {
+    "1.0" = import ./overrides/pythonaes/1.0;
+  };
   pythonds = {
     "1.2.1" = import ./overrides/pythonds/1.2.1;
   };
@@ -11899,6 +17095,9 @@
   pytidylib = {
     "0.3.2" = import ./overrides/pytidylib/0.3.2;
   };
+  pytile = {
+    "2023.12.0" = import ./overrides/pytile/2023.12.0;
+  };
   pytility = {
     "0.3.0" = import ./overrides/pytility/0.3.0;
   };
@@ -11907,6 +17106,9 @@
   };
   pytimeparse2 = {
     "1.7.1" = import ./overrides/pytimeparse2/1.7.1;
+  };
+  pytkdocs = {
+    "0.16.2" = import ./overrides/pytkdocs/0.16.2;
   };
   pytlv = {
     "0.71" = import ./overrides/pytlv/0.71;
@@ -11917,11 +17119,41 @@
   pytmpdir = {
     "1.1.0" = import ./overrides/pytmpdir/1.1.0;
   };
+  pytomlpp = {
+    "1.0.13" = import ./overrides/pytomlpp/1.0.13;
+  };
+  pytoolconfig = {
+    "1.3.1" = import ./overrides/pytoolconfig/1.3.1;
+  };
+  pytorch-crf = {
+    "0.7.2" = import ./overrides/pytorch-crf/0.7.2;
+  };
   pytorch-fid = {
     "0.3.0" = import ./overrides/pytorch-fid/0.3.0;
   };
+  pytorch-ignite = {
+    "0.5.1" = import ./overrides/pytorch-ignite/0.5.1;
+  };
+  pytorch-lightning = {
+    "2.4.0" = import ./overrides/pytorch-lightning/2.4.0;
+  };
+  pytorch-lightning-bolts = {
+    "0.3.2.post1" = import ./overrides/pytorch-lightning-bolts/0.3.2.post1;
+  };
+  pytorch-nlp = {
+    "0.5.0" = import ./overrides/pytorch-nlp/0.5.0;
+  };
+  pytorch-pfn-extras = {
+    "0.7.7" = import ./overrides/pytorch-pfn-extras/0.7.7;
+  };
+  pytorch-tabnet = {
+    "4.1.0" = import ./overrides/pytorch-tabnet/4.1.0;
+  };
   pytorchvideo = {
     "0.1.5" = import ./overrides/pytorchvideo/0.1.5;
+  };
+  pytraccar = {
+    "2.1.1" = import ./overrides/pytraccar/2.1.1;
   };
   pytrafikverket = {
     "1.0.0" = import ./overrides/pytrafikverket/1.0.0;
@@ -11947,8 +17179,14 @@
   pyttsx = {
     "1.1" = import ./overrides/pyttsx/1.1;
   };
+  pyttsx3 = {
+    "2.91" = import ./overrides/pyttsx3/2.91;
+  };
   pytube = {
     "15.0.0" = import ./overrides/pytube/15.0.0;
+  };
+  pytube3 = {
+    "9.6.4" = import ./overrides/pytube3/9.6.4;
   };
   pyturbojpeg = {
     "1.7.6" = import ./overrides/pyturbojpeg/1.7.6;
@@ -11964,6 +17202,9 @@
   };
   pytz-deprecation-shim = {
     "0.1.0.post0" = import ./overrides/pytz-deprecation-shim/0.1.0.post0;
+  };
+  pytzdata = {
+    "2020.1" = import ./overrides/pytzdata/2020.1;
   };
   pyu2f = {
     "0.1.5" = import ./overrides/pyu2f/0.1.5;
@@ -11997,6 +17238,9 @@
   };
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
+  };
+  pyuvdata = {
+    "3.0.0" = import ./overrides/pyuvdata/3.0.0;
   };
   pyvalem = {
     "2.7.1" = import ./overrides/pyvalem/2.7.1;
@@ -12134,8 +17378,23 @@
   pyzerproc = {
     "0.4.12" = import ./overrides/pyzerproc/0.4.12;
   };
+  pyzipper = {
+    "0.3.6" = import ./overrides/pyzipper/0.3.6;
+  };
   pyzmail36 = {
     "1.0.5" = import ./overrides/pyzmail36/1.0.5;
+  };
+  pyzstd = {
+    "0.16.1" = import ./overrides/pyzstd/0.16.1;
+  };
+  qasync = {
+    "0.27.1" = import ./overrides/qasync/0.27.1;
+  };
+  qbittorrent-api = {
+    "2024.8.65" = import ./overrides/qbittorrent-api/2024.8.65;
+  };
+  qcengine = {
+    "0.30.0" = import ./overrides/qcengine/0.30.0;
   };
   qcloud-image = {
     "1.0.0" = import ./overrides/qcloud-image/1.0.0;
@@ -12143,8 +17402,17 @@
   qcodes-loop = {
     "0.1.3" = import ./overrides/qcodes-loop/0.1.3;
   };
+  qctrl-commons = {
+    "23.1.0" = import ./overrides/qctrl-commons/23.1.0;
+  };
+  qdldl = {
+    "0.1.7.post4" = import ./overrides/qdldl/0.1.7.post4;
+  };
   qds-sdk = {
     "1.16.1" = import ./overrides/qds-sdk/1.16.1;
+  };
+  qdx = {
+    "0.10.0" = import ./overrides/qdx/0.10.0;
   };
   qimage2ndarray = {
     "1.10.0" = import ./overrides/qimage2ndarray/1.10.0;
@@ -12185,6 +17453,15 @@
   qrcode-terminal = {
     "0.8" = import ./overrides/qrcode-terminal/0.8;
   };
+  qth = {
+    "0.7.1" = import ./overrides/qth/0.7.1;
+  };
+  qtile-extras = {
+    "0.28.1" = import ./overrides/qtile-extras/0.28.1;
+  };
+  qtoml = {
+    "0.3.1" = import ./overrides/qtoml/0.3.1;
+  };
   qtsass = {
     "0.4.0" = import ./overrides/qtsass/0.4.0;
   };
@@ -12221,11 +17498,29 @@
   querystring = {
     "0.1.0" = import ./overrides/querystring/0.1.0;
   };
+  questionary = {
+    "2.0.1" = import ./overrides/questionary/2.0.1;
+  };
+  queuelib = {
+    "1.7.0" = import ./overrides/queuelib/1.7.0;
+  };
+  quick-csv = {
+    "0.0.5" = import ./overrides/quick-csv/0.0.5;
+  };
+  quickbelog = {
+    "1.1.0" = import ./overrides/quickbelog/1.1.0;
+  };
   quicktions = {
     "1.18" = import ./overrides/quicktions/1.18;
   };
   quik = {
     "0.2.2" = import ./overrides/quik/0.2.2;
+  };
+  quilt3 = {
+    "6.0.0" = import ./overrides/quilt3/6.0.0;
+  };
+  quri-parts-circuit = {
+    "0.19.0" = import ./overrides/quri-parts-circuit/0.19.0;
   };
   qutip = {
     "5.0.4" = import ./overrides/qutip/5.0.4;
@@ -12272,8 +17567,20 @@
   rainbow-logging-handler = {
     "2.2.2" = import ./overrides/rainbow-logging-handler/2.2.2;
   };
+  raincloudy = {
+    "1.2.0" = import ./overrides/raincloudy/1.2.0;
+  };
   raiutils = {
     "0.4.2" = import ./overrides/raiutils/0.4.2;
+  };
+  random-username = {
+    "1.0.2" = import ./overrides/random-username/1.0.2;
+  };
+  random2 = {
+    "1.0.2" = import ./overrides/random2/1.0.2;
+  };
+  randomgen = {
+    "1.26.1" = import ./overrides/randomgen/1.26.1;
   };
   randomname = {
     "0.2.1" = import ./overrides/randomname/0.2.1;
@@ -12293,11 +17600,20 @@
   rask = {
     "0.1.5" = import ./overrides/rask/0.1.5;
   };
+  raspi-system = {
+    "0.2.1" = import ./overrides/raspi-system/0.2.1;
+  };
   rasterstats = {
     "0.19.0" = import ./overrides/rasterstats/0.19.0;
   };
+  ratelim = {
+    "0.1.6" = import ./overrides/ratelim/0.1.6;
+  };
   ratelimit = {
     "2.2.1" = import ./overrides/ratelimit/2.2.1;
+  };
+  ratelimiter = {
+    "1.2.0.post0" = import ./overrides/ratelimiter/1.2.0.post0;
   };
   rath = {
     "0.5.0" = import ./overrides/rath/0.5.0;
@@ -12308,6 +17624,15 @@
   rauth = {
     "0.7.3" = import ./overrides/rauth/0.7.3;
   };
+  raven-aiohttp = {
+    "0.7.0" = import ./overrides/raven-aiohttp/0.7.0;
+  };
+  rax-default-network-flags-python-novaclient-ext = {
+    "0.4.0" = import ./overrides/rax-default-network-flags-python-novaclient-ext/0.4.0;
+  };
+  rax-scheduled-images-python-novaclient-ext = {
+    "0.3.1" = import ./overrides/rax-scheduled-images-python-novaclient-ext/0.3.1;
+  };
   razdel = {
     "0.5.0" = import ./overrides/razdel/0.5.0;
   };
@@ -12316,6 +17641,9 @@
   };
   rcssmin = {
     "1.1.2" = import ./overrides/rcssmin/1.1.2;
+  };
+  rdflib-jsonld = {
+    "0.6.2" = import ./overrides/rdflib-jsonld/0.6.2;
   };
   rdp = {
     "0.8" = import ./overrides/rdp/0.8;
@@ -12326,8 +17654,14 @@
   read-roi = {
     "1.6.0" = import ./overrides/read-roi/1.6.0;
   };
+  readability-lxml = {
+    "0.8.1" = import ./overrides/readability-lxml/0.8.1;
+  };
   readee = {
     "0.0.136" = import ./overrides/readee/0.0.136;
+  };
+  readerwriterlock = {
+    "1.0.9" = import ./overrides/readerwriterlock/1.0.9;
   };
   readline = {
     "6.2.4.2" = import ./overrides/readline/6.2.4.2;
@@ -12346,6 +17680,12 @@
   };
   recaptcha-client = {
     "1.0.6" = import ./overrides/recaptcha-client/1.0.6;
+  };
+  recipe-scrapers = {
+    "15.1.0" = import ./overrides/recipe-scrapers/15.1.0;
+  };
+  recline = {
+    "2024.7.1" = import ./overrides/recline/2024.7.1;
   };
   recommonmark = {
     "0.7.1" = import ./overrides/recommonmark/0.7.1;
@@ -12381,6 +17721,9 @@
   redisbloom = {
     "0.4.0" = import ./overrides/redisbloom/0.4.0;
   };
+  redisgraph = {
+    "2.4.4" = import ./overrides/redisgraph/2.4.4;
+  };
   redislite = {
     "6.2.912183" = import ./overrides/redislite/6.2.912183;
   };
@@ -12392,6 +17735,9 @@
   };
   redlock-py = {
     "1.0.8" = import ./overrides/redlock-py/1.0.8;
+  };
+  redmail = {
+    "0.6.0" = import ./overrides/redmail/0.6.0;
   };
   redo = {
     "3.0.0" = import ./overrides/redo/3.0.0;
@@ -12405,6 +17751,9 @@
   };
   reframed = {
     "1.5.3" = import ./overrides/reframed/1.5.3;
+  };
+  reg = {
+    "0.12" = import ./overrides/reg/0.12;
   };
   regex = {
     "2020.11.13" = import ./overrides/regex/2020.11.13;
@@ -12420,11 +17769,32 @@
   regionmask = {
     "0.12.1" = import ./overrides/regionmask/0.12.1;
   };
+  regions = {
+    "0.9" = import ./overrides/regions/0.9;
+  };
   reikna = {
     "0.9.0" = import ./overrides/reikna/0.9.0;
   };
   relations-dil = {
     "0.6.13" = import ./overrides/relations-dil/0.6.13;
+  };
+  relatorio = {
+    "0.10.2" = import ./overrides/relatorio/0.10.2;
+  };
+  remarshal = {
+    "0.18.0" = import ./overrides/remarshal/0.18.0;
+  };
+  remi = {
+    "2022.7.27" = import ./overrides/remi/2022.7.27;
+  };
+  remote-pdb = {
+    "2.1.0" = import ./overrides/remote-pdb/2.1.0;
+  };
+  remotezip = {
+    "0.12.3" = import ./overrides/remotezip/0.12.3;
+  };
+  renault-api = {
+    "0.2.7" = import ./overrides/renault-api/0.2.7;
   };
   rencode = {
     "1.0.6" = import ./overrides/rencode/1.0.6;
@@ -12446,6 +17816,9 @@
   };
   replit = {
     "4.1.0" = import ./overrides/replit/4.1.0;
+  };
+  reportlab = {
+    "4.2.2" = import ./overrides/reportlab/4.2.2;
   };
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
@@ -12480,11 +17853,26 @@
   requests-aws = {
     "0.1.8" = import ./overrides/requests-aws/0.1.8;
   };
+  requests-aws4auth = {
+    "1.3.1" = import ./overrides/requests-aws4auth/1.3.1;
+  };
+  requests-cache = {
+    "1.2.1" = import ./overrides/requests-cache/1.2.1;
+  };
   requests-credssp = {
     "2.0.0" = import ./overrides/requests-credssp/2.0.0;
   };
   requests-ftp = {
     "0.3.1" = import ./overrides/requests-ftp/0.3.1;
+  };
+  requests-futures = {
+    "1.0.1" = import ./overrides/requests-futures/1.0.1;
+  };
+  requests-hawk = {
+    "1.2.1" = import ./overrides/requests-hawk/1.2.1;
+  };
+  requests-html = {
+    "0.10.0" = import ./overrides/requests-html/0.10.0;
   };
   requests-ntlm = {
     "1.3.0" = import ./overrides/requests-ntlm/1.3.0;
@@ -12492,14 +17880,32 @@
   requests-oauth = {
     "0.4.1" = import ./overrides/requests-oauth/0.4.1;
   };
+  requests-oauthlib = {
+    "2.0.0" = import ./overrides/requests-oauthlib/2.0.0;
+  };
+  requests-pkcs12 = {
+    "1.25" = import ./overrides/requests-pkcs12/1.25;
+  };
   requests-toolbelt = {
     "1.0.0" = import ./overrides/requests-toolbelt/1.0.0;
+  };
+  requests-unixsocket = {
+    "0.3.0" = import ./overrides/requests-unixsocket/0.3.0;
   };
   requests-wsgi-adapter = {
     "0.4.1" = import ./overrides/requests-wsgi-adapter/0.4.1;
   };
+  requestsexceptions = {
+    "1.4.0" = import ./overrides/requestsexceptions/1.4.0;
+  };
+  requires = {
+    "0.10.5" = import ./overrides/requires/0.10.5;
+  };
   resampy = {
     "0.4.3" = import ./overrides/resampy/0.4.3;
+  };
+  resend = {
+    "2.4.0" = import ./overrides/resend/2.4.0;
   };
   reserved = {
     "0.1.1" = import ./overrides/reserved/0.1.1;
@@ -12516,6 +17922,9 @@
   resoto-plugin-aws = {
     "3.9.0" = import ./overrides/resoto-plugin-aws/3.9.0;
   };
+  respx = {
+    "0.21.1" = import ./overrides/respx/0.21.1;
+  };
   restible = {
     "0.12.1" = import ./overrides/restible/0.12.1;
   };
@@ -12527,6 +17936,9 @@
   };
   restview = {
     "3.0.1" = import ./overrides/restview/3.0.1;
+  };
+  rethinkdb = {
+    "2.4.10.post1" = import ./overrides/rethinkdb/2.4.10.post1;
   };
   retranslator = {
     "0.2.2" = import ./overrides/retranslator/0.2.2;
@@ -12552,6 +17964,9 @@
   rfc3986 = {
     "2.0.0" = import ./overrides/rfc3986/2.0.0;
   };
+  rfc3986-validator = {
+    "0.1.1" = import ./overrides/rfc3986-validator/0.1.1;
+  };
   rfc7464 = {
     "17.7.0" = import ./overrides/rfc7464/17.7.0;
   };
@@ -12563,6 +17978,15 @@
   };
   rhasspy-silence = {
     "0.4.0" = import ./overrides/rhasspy-silence/0.4.0;
+  };
+  rhino3dm = {
+    "8.9.0" = import ./overrides/rhino3dm/8.9.0;
+  };
+  riak = {
+    "2.7.0" = import ./overrides/riak/2.7.0;
+  };
+  rich-rst = {
+    "1.3.1" = import ./overrides/rich-rst/1.3.1;
   };
   riemann-tx = {
     "2.1.0" = import ./overrides/riemann-tx/2.1.0;
@@ -12576,11 +18000,17 @@
   ringo = {
     "1.14.0" = import ./overrides/ringo/1.14.0;
   };
+  rio-mucho = {
+    "1.0.0" = import ./overrides/rio-mucho/1.0.0;
+  };
   rioxarray = {
     "0.17.0" = import ./overrides/rioxarray/0.17.0;
   };
   ripozo = {
     "1.3.0" = import ./overrides/ripozo/1.3.0;
+  };
+  riscv-config = {
+    "3.18.3" = import ./overrides/riscv-config/3.18.3;
   };
   riscv-isac = {
     "0.18.0" = import ./overrides/riscv-isac/0.18.0;
@@ -12588,20 +18018,41 @@
   ritassist = {
     "0.9.3" = import ./overrides/ritassist/0.9.3;
   };
+  rjsmin = {
+    "1.2.2" = import ./overrides/rjsmin/1.2.2;
+  };
   rlbot = {
     "1.68.0" = import ./overrides/rlbot/1.68.0;
   };
   rlcard = {
     "1.2.0" = import ./overrides/rlcard/1.2.0;
   };
+  rmcl = {
+    "0.4.2" = import ./overrides/rmcl/0.4.2;
+  };
   rmfuse = {
     "0.2.3" = import ./overrides/rmfuse/0.2.3;
+  };
+  rmscene = {
+    "0.5.0" = import ./overrides/rmscene/0.5.0;
+  };
+  rmsd = {
+    "1.5.1" = import ./overrides/rmsd/1.5.1;
   };
   rmtest = {
     "0.7.0" = import ./overrides/rmtest/0.7.0;
   };
+  rnc2rng = {
+    "2.7.0" = import ./overrides/rnc2rng/2.7.0;
+  };
   rns = {
     "0.7.7" = import ./overrides/rns/0.7.7;
+  };
+  road-collisions-base = {
+    "0.0.22" = import ./overrides/road-collisions-base/0.0.22;
+  };
+  roadrecon = {
+    "1.5.0" = import ./overrides/roadrecon/1.5.0;
   };
   roadtools = {
     "0.0.1" = import ./overrides/roadtools/0.0.1;
@@ -12620,6 +18071,9 @@
   };
   robotframework-python3 = {
     "2.9" = import ./overrides/robotframework-python3/2.9;
+  };
+  robotframework-requests = {
+    "0.9.7" = import ./overrides/robotframework-requests/0.9.7;
   };
   robotframework-ride = {
     "2.0.8.1" = import ./overrides/robotframework-ride/2.0.8.1;
@@ -12651,8 +18105,17 @@
   rokuecp = {
     "0.19.4" = import ./overrides/rokuecp/0.19.4;
   };
+  rollbar = {
+    "1.0.0" = import ./overrides/rollbar/1.0.0;
+  };
   roman = {
     "3.1" = import ./overrides/roman/3.1;
+  };
+  roombapy = {
+    "1.8.1" = import ./overrides/roombapy/1.8.1;
+  };
+  roonapi = {
+    "0.1.6" = import ./overrides/roonapi/0.1.6;
   };
   rootpath = {
     "0.1.1" = import ./overrides/rootpath/0.1.1;
@@ -12671,6 +18134,12 @@
   };
   rosdep = {
     "0.25.1" = import ./overrides/rosdep/0.25.1;
+  };
+  rosdistro = {
+    "0.9.1" = import ./overrides/rosdistro/0.9.1;
+  };
+  rotest = {
+    "8.3.1" = import ./overrides/rotest/8.3.1;
   };
   rouge-score = {
     "0.1.2" = import ./overrides/rouge-score/0.1.2;
@@ -12742,6 +18211,9 @@
   rsl-xsd = {
     "0.2.4" = import ./overrides/rsl-xsd/0.2.4;
   };
+  rsskey = {
+    "0.2.0" = import ./overrides/rsskey/0.2.0;
+  };
   rst2pdf = {
     "0.102" = import ./overrides/rst2pdf/0.102;
   };
@@ -12764,7 +18236,14 @@
     "1.2.7" = import ./overrides/rubymarshal/1.2.7;
   };
   rucio-clients = {
+    "35.2.1" = import ./overrides/rucio-clients/35.2.1;
     "35.6.0" = import ./overrides/rucio-clients/35.6.0;
+  };
+  ruffus = {
+    "2.8.4" = import ./overrides/ruffus/2.8.4;
+  };
+  rule-engine = {
+    "4.5.0" = import ./overrides/rule-engine/4.5.0;
   };
   runcmd = {
     "2020.12.3" = import ./overrides/runcmd/2020.12.3;
@@ -12774,6 +18253,12 @@
   };
   runstats = {
     "2.0.0" = import ./overrides/runstats/2.0.0;
+  };
+  ruptures = {
+    "1.1.9" = import ./overrides/ruptures/1.1.9;
+  };
+  ruuvitag-ble = {
+    "0.1.2" = import ./overrides/ruuvitag-ble/0.1.2;
   };
   rwproperty = {
     "1.0" = import ./overrides/rwproperty/1.0;
@@ -12802,6 +18287,9 @@
   s3transfer = {
     "0.10.2" = import ./overrides/s3transfer/0.10.2;
   };
+  sabctools = {
+    "8.2.5" = import ./overrides/sabctools/8.2.5;
+  };
   sabyenc = {
     "3.3.6" = import ./overrides/sabyenc/3.3.6;
   };
@@ -12814,14 +18302,32 @@
   sadisplay = {
     "0.4.9" = import ./overrides/sadisplay/0.4.9;
   };
+  safe-cast = {
+    "0.3.4" = import ./overrides/safe-cast/0.3.4;
+  };
+  safe-eth-py = {
+    "5.8.0" = import ./overrides/safe-eth-py/5.8.0;
+  };
   safe-pysha3 = {
     "1.0.4" = import ./overrides/safe-pysha3/1.0.4;
   };
   safeio = {
     "1.2" = import ./overrides/safeio/1.2;
   };
+  safety = {
+    "3.2.7" = import ./overrides/safety/3.2.7;
+  };
+  safety-schemas = {
+    "0.0.5" = import ./overrides/safety-schemas/0.0.5;
+  };
+  sage-package = {
+    "0.0.7" = import ./overrides/sage-package/0.0.7;
+  };
   sahi = {
     "0.11.18" = import ./overrides/sahi/0.11.18;
+  };
+  sailthru-client = {
+    "2.3.5" = import ./overrides/sailthru-client/2.3.5;
   };
   salsa20 = {
     "0.3.0" = import ./overrides/salsa20/0.3.0;
@@ -12853,6 +18359,9 @@
   saneyaml = {
     "0.6.1" = import ./overrides/saneyaml/0.6.1;
   };
+  sanic = {
+    "24.6.0" = import ./overrides/sanic/24.6.0;
+  };
   sanic-compress = {
     "0.1.1" = import ./overrides/sanic-compress/0.1.1;
   };
@@ -12880,6 +18389,9 @@
   sarge = {
     "0.1.7.post1" = import ./overrides/sarge/0.1.7.post1;
   };
+  sarif-tools = {
+    "3.0.0" = import ./overrides/sarif-tools/3.0.0;
+  };
   sas7bdat = {
     "2.2.3" = import ./overrides/sas7bdat/2.2.3;
   };
@@ -12901,8 +18413,17 @@
   satpy = {
     "0.51.0" = import ./overrides/satpy/0.51.0;
   };
+  savepagenow = {
+    "1.3.0" = import ./overrides/savepagenow/1.3.0;
+  };
+  savreaderwriter = {
+    "3.4.2" = import ./overrides/savreaderwriter/3.4.2;
+  };
   sbol2 = {
     "1.4.1" = import ./overrides/sbol2/1.4.1;
+  };
+  sbol3 = {
+    "1.1" = import ./overrides/sbol3/1.1;
   };
   sbtab = {
     "1.0.8" = import ./overrides/sbtab/1.0.8;
@@ -12910,11 +18431,17 @@
   scaleapi = {
     "2.15.14" = import ./overrides/scaleapi/2.15.14;
   };
+  scalene = {
+    "1.5.44.1" = import ./overrides/scalene/1.5.44.1;
+  };
   scales = {
     "1.0.9" = import ./overrides/scales/1.0.9;
   };
   scandir = {
     "1.10.0" = import ./overrides/scandir/1.10.0;
+  };
+  scanorama = {
+    "1.7.4" = import ./overrides/scanorama/1.7.4;
   };
   scanpy = {
     "1.10.2" = import ./overrides/scanpy/1.10.2;
@@ -12940,8 +18467,14 @@
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
   };
+  schema = {
+    "0.7.7" = import ./overrides/schema/0.7.7;
+  };
   schemainspect = {
     "3.1.1663587362" = import ./overrides/schemainspect/3.1.1663587362;
+  };
+  schemathesis = {
+    "3.35.5" = import ./overrides/schemathesis/3.35.5;
   };
   schiene = {
     "0.26" = import ./overrides/schiene/0.26;
@@ -12978,6 +18511,12 @@
   scikit-posthocs = {
     "0.9.0" = import ./overrides/scikit-posthocs/0.9.0;
   };
+  scikit-rf = {
+    "1.3.0" = import ./overrides/scikit-rf/1.3.0;
+  };
+  scikit-surgeryarucotracker = {
+    "1.0.3" = import ./overrides/scikit-surgeryarucotracker/1.0.3;
+  };
   scikit-surgerycore = {
     "0.7.2" = import ./overrides/scikit-surgerycore/0.7.2;
   };
@@ -12990,6 +18529,9 @@
   scipy = {
     "1.10.1" = import ./overrides/scipy/1.10.1;
     "1.6.1" = import ./overrides/scipy/1.6.1;
+  };
+  scispacy = {
+    "0.5.4" = import ./overrides/scispacy/0.5.4;
   };
   scitools-iris = {
     "3.10.0" = import ./overrides/scitools-iris/3.10.0;
@@ -13008,6 +18550,9 @@
   };
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
+  };
+  scour = {
+    "0.38.2" = import ./overrides/scour/0.38.2;
   };
   scp = {
     "0.15.0" = import ./overrides/scp/0.15.0;
@@ -13030,6 +18575,12 @@
   scrapli = {
     "2024.7.30" = import ./overrides/scrapli/2024.7.30;
   };
+  scrapy-redis = {
+    "0.9.1" = import ./overrides/scrapy-redis/0.9.1;
+  };
+  scrapy-splash = {
+    "0.9.0" = import ./overrides/scrapy-splash/0.9.0;
+  };
   screed = {
     "1.1.3" = import ./overrides/screed/1.1.3;
   };
@@ -13051,6 +18602,9 @@
   scrypt = {
     "0.8.13" = import ./overrides/scrypt/0.8.13;
   };
+  scvi-tools = {
+    "1.1.6" = import ./overrides/scvi-tools/1.1.6;
+  };
   sdds = {
     "0.4.2" = import ./overrides/sdds/0.4.2;
   };
@@ -13069,11 +18623,50 @@
   seawater = {
     "3.3.5" = import ./overrides/seawater/3.3.5;
   };
+  secp256k1 = {
+    "0.14.0" = import ./overrides/secp256k1/0.14.0;
+  };
+  secure = {
+    "0.3.0" = import ./overrides/secure/0.3.0;
+  };
+  securesystemslib = {
+    "1.1.0" = import ./overrides/securesystemslib/1.1.0;
+  };
+  securetar = {
+    "2024.2.1" = import ./overrides/securetar/2024.2.1;
+  };
+  sedate = {
+    "1.1.1" = import ./overrides/sedate/1.1.1;
+  };
+  seedir = {
+    "0.5.0" = import ./overrides/seedir/0.5.0;
+  };
+  seekpath = {
+    "2.1.0" = import ./overrides/seekpath/2.1.0;
+  };
+  segmentation-models-pytorch = {
+    "0.3.4" = import ./overrides/segmentation-models-pytorch/0.3.4;
+  };
+  segments = {
+    "2.2.1" = import ./overrides/segments/2.2.1;
+  };
+  segtok = {
+    "1.5.11" = import ./overrides/segtok/1.5.11;
+  };
   selector = {
     "0.10.1" = import ./overrides/selector/0.10.1;
   };
+  selectors2 = {
+    "2.0.2" = import ./overrides/selectors2/2.0.2;
+  };
+  selenium-requests = {
+    "2.0.4" = import ./overrides/selenium-requests/2.0.4;
+  };
   selenium-wire = {
     "5.1.0" = import ./overrides/selenium-wire/5.1.0;
+  };
+  seleniumbase = {
+    "4.30.3" = import ./overrides/seleniumbase/4.30.3;
   };
   self = {
     "2020.12.3" = import ./overrides/self/2020.12.3;
@@ -13084,14 +18677,38 @@
   semgrep = {
     "1.68.0" = import ./overrides/semgrep/1.68.0;
   };
+  semi-ate-common = {
+    "1.0.15" = import ./overrides/semi-ate-common/1.0.15;
+  };
   semidbm = {
     "0.5.1" = import ./overrides/semidbm/0.5.1;
+  };
+  semver = {
+    "3.0.2" = import ./overrides/semver/3.0.2;
+  };
+  sensirion-i2c-driver = {
+    "1.0.0" = import ./overrides/sensirion-i2c-driver/1.0.0;
+  };
+  sensorpush-ble = {
+    "1.6.2" = import ./overrides/sensorpush-ble/1.6.2;
+  };
+  sentencepiece = {
+    "0.2.0" = import ./overrides/sentencepiece/0.2.0;
+  };
+  sentinel = {
+    "1.0.0" = import ./overrides/sentinel/1.0.0;
+  };
+  sentinelhub = {
+    "3.10.3" = import ./overrides/sentinelhub/3.10.3;
   };
   sentinels = {
     "1.0.0" = import ./overrides/sentinels/1.0.0;
   };
   sentinelsat = {
     "1.2.1" = import ./overrides/sentinelsat/1.2.1;
+  };
+  sentry-sdk = {
+    "2.14.0" = import ./overrides/sentry-sdk/2.14.0;
   };
   sep = {
     "1.2.1" = import ./overrides/sep/1.2.1;
@@ -13107,6 +18724,9 @@
   };
   serde = {
     "0.9.0" = import ./overrides/serde/0.9.0;
+  };
+  serial = {
+    "0.0.97" = import ./overrides/serial/0.0.97;
   };
   serial-device2 = {
     "2.0.2" = import ./overrides/serial-device2/2.0.2;
@@ -13129,11 +18749,29 @@
   serverlessrepo = {
     "0.1.10" = import ./overrides/serverlessrepo/0.1.10;
   };
+  servicex = {
+    "2.8.0" = import ./overrides/servicex/2.8.0;
+  };
   session-info = {
     "1.0.0" = import ./overrides/session-info/1.0.0;
   };
+  set-loglevel = {
+    "0.1.2" = import ./overrides/set-loglevel/0.1.2;
+  };
+  setproctitle = {
+    "1.3.3" = import ./overrides/setproctitle/1.3.3;
+  };
+  setuptools-declarative-requirements = {
+    "1.3.0" = import ./overrides/setuptools-declarative-requirements/1.3.0;
+  };
   setuptools-generate = {
     "0.0.6" = import ./overrides/setuptools-generate/0.0.6;
+  };
+  setuptools-git = {
+    "1.2" = import ./overrides/setuptools-git/1.2;
+  };
+  setuptools-git-version = {
+    "1.0.3" = import ./overrides/setuptools-git-version/1.0.3;
   };
   setuptools-lint = {
     "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
@@ -13188,8 +18826,23 @@
   sharedmem = {
     "0.3.8" = import ./overrides/sharedmem/0.3.8;
   };
+  shazamio = {
+    "0.6.0" = import ./overrides/shazamio/0.6.0;
+  };
+  shell = {
+    "1.0.1" = import ./overrides/shell/1.0.1;
+  };
+  shellcheck-py = {
+    "0.10.0.1" = import ./overrides/shellcheck-py/0.10.0.1;
+  };
+  shellescape = {
+    "3.8.1" = import ./overrides/shellescape/3.8.1;
+  };
   shellingham = {
     "1.5.4" = import ./overrides/shellingham/1.5.4;
+  };
+  shillelagh = {
+    "1.2.27" = import ./overrides/shillelagh/1.2.27;
   };
   shinkenplugins = {
     "0.4.2" = import ./overrides/shinkenplugins/0.4.2;
@@ -13242,6 +18895,12 @@
   signxml = {
     "4.0.2" = import ./overrides/signxml/4.0.2;
   };
+  sigopt = {
+    "8.8.3" = import ./overrides/sigopt/8.8.3;
+  };
+  sigtools = {
+    "4.0.1" = import ./overrides/sigtools/4.0.1;
+  };
   silpa-common = {
     "0.3" = import ./overrides/silpa-common/0.3;
   };
@@ -13275,14 +18934,23 @@
   silx = {
     "2.1.1" = import ./overrides/silx/2.1.1;
   };
+  simber = {
+    "0.2.6" = import ./overrides/simber/0.2.6;
+  };
   similaritymeasures = {
     "1.1.0" = import ./overrides/similaritymeasures/1.1.0;
+  };
+  simpel-numerators = {
+    "0.1" = import ./overrides/simpel-numerators/0.1;
   };
   simpervisor = {
     "1.0.0" = import ./overrides/simpervisor/1.0.0;
   };
   simple-crypt = {
     "4.1.7" = import ./overrides/simple-crypt/4.1.7;
+  };
+  simple-loggers = {
+    "1.0.5" = import ./overrides/simple-loggers/1.0.5;
   };
   simple-parsing = {
     "0.1.6" = import ./overrides/simple-parsing/0.1.6;
@@ -13317,6 +18985,12 @@
   simplekml = {
     "1.3.6" = import ./overrides/simplekml/1.3.6;
   };
+  simplelayout-types-common = {
+    "3.1.0" = import ./overrides/simplelayout-types-common/3.1.0;
+  };
+  simplelogging = {
+    "0.12.0" = import ./overrides/simplelogging/0.12.0;
+  };
   simplematch = {
     "1.4" = import ./overrides/simplematch/1.4;
   };
@@ -13341,6 +19015,9 @@
   simplesbml = {
     "2.3.0" = import ./overrides/simplesbml/2.3.0;
   };
+  simplisafe-python = {
+    "2024.1.0" = import ./overrides/simplisafe-python/2024.1.0;
+  };
   sinethesizer = {
     "0.6.2" = import ./overrides/sinethesizer/0.6.2;
   };
@@ -13353,6 +19030,9 @@
   singer-sdk = {
     "0.40.0" = import ./overrides/singer-sdk/0.40.0;
   };
+  single-source = {
+    "0.4.0" = import ./overrides/single-source/0.4.0;
+  };
   singleton-decorator = {
     "1.0.0" = import ./overrides/singleton-decorator/1.0.0;
   };
@@ -13361,6 +19041,9 @@
   };
   siobrultech-protocols = {
     "0.14.0" = import ./overrides/siobrultech-protocols/0.14.0;
+  };
+  siosocks = {
+    "0.3.0" = import ./overrides/siosocks/0.3.0;
   };
   siphash = {
     "0.0.1" = import ./overrides/siphash/0.0.1;
@@ -13380,11 +19063,17 @@
   sklearn-pandas = {
     "2.2.0" = import ./overrides/sklearn-pandas/2.2.0;
   };
+  skorch = {
+    "1.0.0" = import ./overrides/skorch/1.0.0;
+  };
   skosprovider = {
     "1.2.0" = import ./overrides/skosprovider/1.2.0;
   };
   skrebate = {
     "0.62" = import ./overrides/skrebate/0.62;
+  };
+  skrl = {
+    "1.2.0" = import ./overrides/skrl/1.2.0;
   };
   sktime = {
     "0.26.0" = import ./overrides/sktime/0.26.0;
@@ -13415,6 +19104,9 @@
   };
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
+  };
+  slovnet = {
+    "0.6.0" = import ./overrides/slovnet/0.6.0;
   };
   slowapi = {
     "0.1.9" = import ./overrides/slowapi/0.1.9;
@@ -13456,8 +19148,14 @@
   smhi-pkg = {
     "1.0.17" = import ./overrides/smhi-pkg/1.0.17;
   };
+  smmap = {
+    "5.0.1" = import ./overrides/smmap/5.0.1;
+  };
   smokesignal = {
     "0.7.0" = import ./overrides/smokesignal/0.7.0;
+  };
+  smqtk-descriptors = {
+    "0.19.0" = import ./overrides/smqtk-descriptors/0.19.0;
   };
   smsframework = {
     "0.0.9.post3" = import ./overrides/smsframework/0.0.9.post3;
@@ -13477,8 +19175,17 @@
   snakemake = {
     "7.32.4" = import ./overrides/snakemake/7.32.4;
   };
+  snakemake-interface-executor-plugins = {
+    "9.2.0" = import ./overrides/snakemake-interface-executor-plugins/9.2.0;
+  };
   snakemake-interface-report-plugins = {
     "1.0.0" = import ./overrides/snakemake-interface-report-plugins/1.0.0;
+  };
+  snakemake-interface-storage-plugins = {
+    "3.3.0" = import ./overrides/snakemake-interface-storage-plugins/3.3.0;
+  };
+  snap-helpers = {
+    "0.4.2" = import ./overrides/snap-helpers/0.4.2;
   };
   snapcast = {
     "2.3.6" = import ./overrides/snapcast/2.3.6;
@@ -13486,14 +19193,23 @@
   snapflow = {
     "0.7.1" = import ./overrides/snapflow/0.7.1;
   };
+  snapshottest = {
+    "0.6.0" = import ./overrides/snapshottest/0.6.0;
+  };
   snaptime = {
     "0.2.4" = import ./overrides/snaptime/0.2.4;
+  };
+  sniffio = {
+    "1.3.1" = import ./overrides/sniffio/1.3.1;
   };
   snoop = {
     "0.4.3" = import ./overrides/snoop/0.4.3;
   };
   snownlp = {
     "0.12.3" = import ./overrides/snownlp/0.12.3;
+  };
+  snscrape = {
+    "0.7.0.20230622" = import ./overrides/snscrape/0.7.0.20230622;
   };
   soappy = {
     "0.12.22" = import ./overrides/soappy/0.12.22;
@@ -13503,6 +19219,12 @@
   };
   social-auth-app-django = {
     "5.4.2" = import ./overrides/social-auth-app-django/5.4.2;
+  };
+  social-auth-storage-sqlalchemy = {
+    "1.1.0" = import ./overrides/social-auth-storage-sqlalchemy/1.1.0;
+  };
+  socialscan = {
+    "2.0.1" = import ./overrides/socialscan/2.0.1;
   };
   socketio-client = {
     "0.7.2" = import ./overrides/socketio-client/0.7.2;
@@ -13528,8 +19250,20 @@
   socksipy-branch = {
     "1.1" = import ./overrides/socksipy-branch/1.1;
   };
+  soco = {
+    "0.30.4" = import ./overrides/soco/0.30.4;
+  };
   soda-core = {
     "3.3.22" = import ./overrides/soda-core/3.3.22;
+  };
+  sodapy = {
+    "2.2.0" = import ./overrides/sodapy/2.2.0;
+  };
+  softfire-sdk = {
+    "1.2.0" = import ./overrides/softfire-sdk/1.2.0;
+  };
+  solana = {
+    "0.34.3" = import ./overrides/solana/0.34.3;
   };
   solidpython-ff = {
     "0.1.1" = import ./overrides/solidpython-ff/0.1.1;
@@ -13552,8 +19286,23 @@
   sonopy = {
     "0.1.2" = import ./overrides/sonopy/0.1.2;
   };
+  sorcery = {
+    "0.2.2" = import ./overrides/sorcery/0.2.2;
+  };
+  sorl-thumbnail = {
+    "12.10.0" = import ./overrides/sorl-thumbnail/12.10.0;
+  };
+  sortedcontainers = {
+    "2.4.0" = import ./overrides/sortedcontainers/2.4.0;
+  };
   sos-notebook = {
     "0.24.4" = import ./overrides/sos-notebook/0.24.4;
+  };
+  soundcloud-v2 = {
+    "1.6.0" = import ./overrides/soundcloud-v2/1.6.0;
+  };
+  sounddevice = {
+    "0.5.0" = import ./overrides/sounddevice/0.5.0;
   };
   soundfile = {
     "0.12.1" = import ./overrides/soundfile/0.12.1;
@@ -13567,6 +19316,12 @@
   sox = {
     "1.5.0" = import ./overrides/sox/1.5.0;
   };
+  spacy-legacy = {
+    "3.0.12" = import ./overrides/spacy-legacy/3.0.12;
+  };
+  spacy-loggers = {
+    "1.0.5" = import ./overrides/spacy-loggers/1.0.5;
+  };
   spacy-pkuseg = {
     "1.0.0" = import ./overrides/spacy-pkuseg/1.0.0;
   };
@@ -13576,6 +19331,18 @@
   spark-nlp = {
     "5.4.2" = import ./overrides/spark-nlp/5.4.2;
   };
+  spark-parser = {
+    "1.8.9" = import ./overrides/spark-parser/1.8.9;
+  };
+  spatial-image = {
+    "1.1.0" = import ./overrides/spatial-image/1.1.0;
+  };
+  spatialmath-python = {
+    "1.1.11" = import ./overrides/spatialmath-python/1.1.11;
+  };
+  spdx-tools = {
+    "0.8.2" = import ./overrides/spdx-tools/0.8.2;
+  };
   speaklater = {
     "1.3" = import ./overrides/speaklater/1.3;
   };
@@ -13584,6 +19351,9 @@
   };
   spectra = {
     "0.0.11" = import ./overrides/spectra/0.0.11;
+  };
+  specutils = {
+    "1.16.0" = import ./overrides/specutils/1.16.0;
   };
   speedtest-cli = {
     "2.1.3" = import ./overrides/speedtest-cli/2.1.3;
@@ -13609,20 +19379,62 @@
   sphinx-codeautolink = {
     "0.15.2" = import ./overrides/sphinx-codeautolink/0.15.2;
   };
+  sphinx-copybutton = {
+    "0.5.2" = import ./overrides/sphinx-copybutton/0.5.2;
+  };
   sphinx-fortran = {
     "1.1.1" = import ./overrides/sphinx-fortran/1.1.1;
   };
   sphinx-inline-tabs = {
     "2023.4.21" = import ./overrides/sphinx-inline-tabs/2023.4.21;
   };
+  sphinx-intl = {
+    "2.2.0" = import ./overrides/sphinx-intl/2.2.0;
+  };
+  sphinx-markdown-builder = {
+    "0.6.7" = import ./overrides/sphinx-markdown-builder/0.6.7;
+  };
+  sphinx-markdown-tables = {
+    "0.0.17" = import ./overrides/sphinx-markdown-tables/0.0.17;
+  };
+  sphinx-material = {
+    "0.0.36" = import ./overrides/sphinx-material/0.0.36;
+  };
+  sphinx-rtd-theme = {
+    "2.0.0" = import ./overrides/sphinx-rtd-theme/2.0.0;
+  };
   sphinx-serve = {
     "1.0.1" = import ./overrides/sphinx-serve/1.0.1;
+  };
+  sphinx-sitemap = {
+    "2.6.0" = import ./overrides/sphinx-sitemap/2.6.0;
+  };
+  sphinx-tabs = {
+    "3.4.5" = import ./overrides/sphinx-tabs/3.4.5;
+  };
+  sphinx-testing = {
+    "1.0.1" = import ./overrides/sphinx-testing/1.0.1;
+  };
+  sphinx-togglebutton = {
+    "0.3.2" = import ./overrides/sphinx-togglebutton/0.3.2;
+  };
+  sphinxcontrib-actdiag = {
+    "3.0.0" = import ./overrides/sphinxcontrib-actdiag/3.0.0;
+  };
+  sphinxcontrib-apidoc = {
+    "0.5.0" = import ./overrides/sphinxcontrib-apidoc/0.5.0;
   };
   sphinxcontrib-applehelp = {
     "2.0.0" = import ./overrides/sphinxcontrib-applehelp/2.0.0;
   };
   sphinxcontrib-bayesnet = {
     "0.4" = import ./overrides/sphinxcontrib-bayesnet/0.4;
+  };
+  sphinxcontrib-bibtex = {
+    "2.6.2" = import ./overrides/sphinxcontrib-bibtex/2.6.2;
+  };
+  sphinxcontrib-blockdiag = {
+    "3.0.0" = import ./overrides/sphinxcontrib-blockdiag/3.0.0;
   };
   sphinxcontrib-devhelp = {
     "2.0.0" = import ./overrides/sphinxcontrib-devhelp/2.0.0;
@@ -13642,6 +19454,9 @@
   sphinxcontrib-issuetracker = {
     "0.11" = import ./overrides/sphinxcontrib-issuetracker/0.11;
   };
+  sphinxcontrib-jsmath = {
+    "1.0.1" = import ./overrides/sphinxcontrib-jsmath/1.0.1;
+  };
   sphinxcontrib-katex = {
     "0.9.10" = import ./overrides/sphinxcontrib-katex/0.9.10;
   };
@@ -13660,11 +19475,26 @@
   sphinxcontrib-plantuml = {
     "0.30" = import ./overrides/sphinxcontrib-plantuml/0.30;
   };
+  sphinxcontrib-programoutput = {
+    "0.17" = import ./overrides/sphinxcontrib-programoutput/0.17;
+  };
+  sphinxcontrib-qthelp = {
+    "2.0.0" = import ./overrides/sphinxcontrib-qthelp/2.0.0;
+  };
+  sphinxcontrib-seqdiag = {
+    "3.0.0" = import ./overrides/sphinxcontrib-seqdiag/3.0.0;
+  };
   sphinxcontrib-spelling = {
     "8.0.0" = import ./overrides/sphinxcontrib-spelling/8.0.0;
   };
   sphinxcontrib-tikz = {
     "0.4.20" = import ./overrides/sphinxcontrib-tikz/0.4.20;
+  };
+  sphinxcontrib-trio = {
+    "1.1.2" = import ./overrides/sphinxcontrib-trio/1.1.2;
+  };
+  sphinxcontrib-youtube = {
+    "1.4.1" = import ./overrides/sphinxcontrib-youtube/1.4.1;
   };
   sphinxext-opengraph = {
     "0.9.1" = import ./overrides/sphinxext-opengraph/0.9.1;
@@ -13702,6 +19532,9 @@
   spur = {
     "0.3.23" = import ./overrides/spur/0.3.23;
   };
+  spylls = {
+    "0.1.7" = import ./overrides/spylls/0.1.7;
+  };
   spyne = {
     "2.14.0" = import ./overrides/spyne/2.14.0;
   };
@@ -13731,11 +19564,17 @@
   sqlalchemy-serializer = {
     "1.4.22" = import ./overrides/sqlalchemy-serializer/1.4.22;
   };
+  sqlalchemy-stubs = {
+    "0.4" = import ./overrides/sqlalchemy-stubs/0.4;
+  };
   sqlalchemy-utils = {
     "0.36.1" = import ./overrides/sqlalchemy-utils/0.36.1;
   };
   sqlalchemy-views = {
     "0.3.2" = import ./overrides/sqlalchemy-views/0.3.2;
+  };
+  sqlite-fts4 = {
+    "1.0.3" = import ./overrides/sqlite-fts4/1.0.3;
   };
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
@@ -13749,6 +19588,9 @@
   sqlmodel = {
     "0.0.22" = import ./overrides/sqlmodel/0.0.22;
   };
+  sqloxide = {
+    "0.1.48" = import ./overrides/sqloxide/0.1.48;
+  };
   sqlsoup = {
     "0.9.1" = import ./overrides/sqlsoup/0.9.1;
   };
@@ -13758,8 +19600,20 @@
   sqre-apikit = {
     "0.1.3" = import ./overrides/sqre-apikit/0.1.3;
   };
+  squarify = {
+    "0.4.4" = import ./overrides/squarify/0.4.4;
+  };
   squidpy = {
     "1.6.1" = import ./overrides/squidpy/1.6.1;
+  };
+  sre-yield = {
+    "1.2" = import ./overrides/sre-yield/1.2;
+  };
+  srp = {
+    "1.0.21" = import ./overrides/srp/1.0.21;
+  };
+  srptools = {
+    "1.0.1" = import ./overrides/srptools/1.0.1;
   };
   srt = {
     "3.5.3" = import ./overrides/srt/3.5.3;
@@ -13769,6 +19623,9 @@
   };
   srxraylib = {
     "1.0.55" = import ./overrides/srxraylib/1.0.55;
+  };
+  sse-starlette = {
+    "2.1.3" = import ./overrides/sse-starlette/2.1.3;
   };
   sseclient = {
     "0.0.11" = import ./overrides/sseclient/0.0.11;
@@ -13786,6 +19643,12 @@
   sslyze = {
     "6.0.0" = import ./overrides/sslyze/6.0.0;
   };
+  stackstac = {
+    "0.5.1" = import ./overrides/stackstac/0.5.1;
+  };
+  stanfordnlp = {
+    "0.2.0" = import ./overrides/stanfordnlp/0.2.0;
+  };
   starfile = {
     "0.5.8" = import ./overrides/starfile/0.5.8;
   };
@@ -13794,6 +19657,9 @@
   };
   starlette = {
     "0.38.5" = import ./overrides/starlette/0.38.5;
+  };
+  starlette-testclient = {
+    "0.4.1" = import ./overrides/starlette-testclient/0.4.1;
   };
   starlette-wtf = {
     "0.4.5" = import ./overrides/starlette-wtf/0.4.5;
@@ -13829,6 +19695,15 @@
   statsd = {
     "4.0.1" = import ./overrides/statsd/4.0.1;
   };
+  statsforecast = {
+    "1.7.6" = import ./overrides/statsforecast/1.7.6;
+  };
+  statuscake = {
+    "1.4.5" = import ./overrides/statuscake/1.4.5;
+  };
+  statute-matcher = {
+    "0.0.3" = import ./overrides/statute-matcher/0.0.3;
+  };
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
   };
@@ -13855,6 +19730,15 @@
   };
   stheno = {
     "1.4.1" = import ./overrides/stheno/1.4.1;
+  };
+  stickytape = {
+    "0.2.1" = import ./overrides/stickytape/0.2.1;
+  };
+  stim = {
+    "1.13.0" = import ./overrides/stim/1.13.0;
+  };
+  stitchstream-python = {
+    "5.0.9" = import ./overrides/stitchstream-python/5.0.9;
   };
   stomper = {
     "0.4.3" = import ./overrides/stomper/0.4.3;
@@ -13895,6 +19779,9 @@
   strangeworks = {
     "0.5.12" = import ./overrides/strangeworks/0.5.12;
   };
+  stransi = {
+    "0.3.0" = import ./overrides/stransi/0.3.0;
+  };
   strategies = {
     "0.2.3" = import ./overrides/strategies/0.2.3;
   };
@@ -13903,6 +19790,9 @@
   };
   strawberry-graphql = {
     "0.240.0" = import ./overrides/strawberry-graphql/0.240.0;
+  };
+  strawberry-graphql-django = {
+    "0.47.2" = import ./overrides/strawberry-graphql-django/0.47.2;
   };
   stream2py = {
     "1.0.42" = import ./overrides/stream2py/1.0.42;
@@ -13916,8 +19806,14 @@
   streamlabswater = {
     "1.0.1" = import ./overrides/streamlabswater/1.0.1;
   };
+  streamlit = {
+    "1.38.0" = import ./overrides/streamlit/1.38.0;
+  };
   streamlit-aggrid = {
     "1.0.5" = import ./overrides/streamlit-aggrid/1.0.5;
+  };
+  streamz = {
+    "0.6.4" = import ./overrides/streamz/0.6.4;
   };
   streql = {
     "3.0.2" = import ./overrides/streql/3.0.2;
@@ -13940,20 +19836,53 @@
   stringconvert = {
     "0.3.2" = import ./overrides/stringconvert/0.3.2;
   };
+  stringlike = {
+    "0.3.3" = import ./overrides/stringlike/0.3.3;
+  };
+  stringparser = {
+    "0.7" = import ./overrides/stringparser/0.7;
+  };
+  strip-ansi = {
+    "0.1.1" = import ./overrides/strip-ansi/0.1.1;
+  };
   stripe = {
     "10.10.0" = import ./overrides/stripe/10.10.0;
   };
   stripogram = {
     "1.5" = import ./overrides/stripogram/1.5;
   };
+  striprtf = {
+    "0.0.26" = import ./overrides/striprtf/0.0.26;
+  };
+  stripy = {
+    "2.3.3" = import ./overrides/stripy/2.3.3;
+  };
   strsimpy = {
     "0.2.1" = import ./overrides/strsimpy/0.2.1;
+  };
+  structlog-sentry = {
+    "2.1.0" = import ./overrides/structlog-sentry/2.1.0;
   };
   stubserver = {
     "1.1" = import ./overrides/stubserver/1.1;
   };
+  stuf = {
+    "0.9.16" = import ./overrides/stuf/0.9.16;
+  };
+  stumpy = {
+    "1.13.0" = import ./overrides/stumpy/1.13.0;
+  };
   stups-pierone = {
     "1.1.56" = import ./overrides/stups-pierone/1.1.56;
+  };
+  stups-zign = {
+    "1.2" = import ./overrides/stups-zign/1.2;
+  };
+  sty = {
+    "1.0.6" = import ./overrides/sty/1.0.6;
+  };
+  style = {
+    "1.1.6" = import ./overrides/style/1.1.6;
   };
   stylus = {
     "0.1.2" = import ./overrides/stylus/0.1.2;
@@ -13987,6 +19916,21 @@
   };
   sunwatcher = {
     "0.2.1" = import ./overrides/sunwatcher/0.2.1;
+  };
+  sunweg = {
+    "3.0.2" = import ./overrides/sunweg/3.0.2;
+  };
+  supar = {
+    "1.1.4" = import ./overrides/supar/1.1.4;
+  };
+  superjson = {
+    "1.0.2" = import ./overrides/superjson/1.0.2;
+  };
+  supermercado = {
+    "0.2.0" = import ./overrides/supermercado/0.2.0;
+  };
+  supervision = {
+    "0.23.0" = import ./overrides/supervision/0.23.0;
   };
   supervisor = {
     "4.2.5" = import ./overrides/supervisor/4.2.5;
@@ -14025,6 +19969,9 @@
   swifter = {
     "1.4.0" = import ./overrides/swifter/1.4.0;
   };
+  swisshydrodata = {
+    "0.1.0" = import ./overrides/swisshydrodata/0.1.0;
+  };
   switchbot-api = {
     "2.2.1" = import ./overrides/switchbot-api/2.2.1;
   };
@@ -14037,8 +19984,38 @@
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
   };
+  symspellpy = {
+    "6.7.8" = import ./overrides/symspellpy/6.7.8;
+  };
+  syn = {
+    "0.0.14" = import ./overrides/syn/0.0.14;
+  };
+  synapseclient = {
+    "4.5.0" = import ./overrides/synapseclient/4.5.0;
+  };
+  syncer = {
+    "2.0.3" = import ./overrides/syncer/2.0.3;
+  };
+  syned = {
+    "1.0.40" = import ./overrides/syned/1.0.40;
+  };
+  synergy = {
+    "1.0.0" = import ./overrides/synergy/1.0.0;
+  };
+  synologydsm-api = {
+    "1.0.2" = import ./overrides/synologydsm-api/1.0.2;
+  };
   synphot = {
     "1.4.0" = import ./overrides/synphot/1.4.0;
+  };
+  synthimpute = {
+    "0.1" = import ./overrides/synthimpute/0.1;
+  };
+  syslog-rfc5424-formatter = {
+    "1.2.3" = import ./overrides/syslog-rfc5424-formatter/1.2.3;
+  };
+  systembridgemodels = {
+    "4.2.4" = import ./overrides/systembridgemodels/4.2.4;
   };
   systemcmd = {
     "3.0.1" = import ./overrides/systemcmd/3.0.1;
@@ -14068,6 +20045,18 @@
     "3.10.1" = import ./overrides/tables/3.10.1;
     "3.8.0" = import ./overrides/tables/3.8.0;
   };
+  tableschema = {
+    "1.20.11" = import ./overrides/tableschema/1.20.11;
+  };
+  tabulator = {
+    "1.53.5" = import ./overrides/tabulator/1.53.5;
+  };
+  tago = {
+    "3.1.1" = import ./overrides/tago/3.1.1;
+  };
+  tahoma-api = {
+    "0.0.17" = import ./overrides/tahoma-api/0.0.17;
+  };
   tailbone = {
     "0.21.9" = import ./overrides/tailbone/0.21.9;
   };
@@ -14092,11 +20081,23 @@
   tarjan = {
     "0.2.4" = import ./overrides/tarjan/0.2.4;
   };
+  tartiflette = {
+    "1.4.1" = import ./overrides/tartiflette/1.4.1;
+  };
+  taskcluster = {
+    "68.0.4" = import ./overrides/taskcluster/68.0.4;
+  };
   taskipy = {
     "1.13.0" = import ./overrides/taskipy/1.13.0;
   };
   tasklib = {
     "2.5.1" = import ./overrides/tasklib/2.5.1;
+  };
+  taskw = {
+    "2.0.0" = import ./overrides/taskw/2.0.0;
+  };
+  taxi = {
+    "6.3.1" = import ./overrides/taxi/6.3.1;
   };
   taxii2-client = {
     "2.3.0" = import ./overrides/taxii2-client/2.3.0;
@@ -14113,8 +20114,17 @@
   tbdump = {
     "1.4" = import ./overrides/tbdump/1.4;
   };
+  tbtrim = {
+    "0.3.1" = import ./overrides/tbtrim/0.3.1;
+  };
   tbx = {
     "1.9.4" = import ./overrides/tbx/1.9.4;
+  };
+  tcms-api = {
+    "13.3" = import ./overrides/tcms-api/13.3;
+  };
+  tcxreader = {
+    "0.4.10" = import ./overrides/tcxreader/0.4.10;
   };
   tdigest = {
     "0.5.2.2" = import ./overrides/tdigest/0.5.2.2;
@@ -14179,6 +20189,9 @@
   tenacity = {
     "9.0.0" = import ./overrides/tenacity/9.0.0;
   };
+  tencentcloud-sdk-python = {
+    "3.0.1228" = import ./overrides/tencentcloud-sdk-python/3.0.1228;
+  };
   tendril-auth = {
     "0.5.0" = import ./overrides/tendril-auth/0.5.0;
   };
@@ -14221,6 +20234,9 @@
   tensorpack = {
     "0.11" = import ./overrides/tensorpack/0.11;
   };
+  teradata = {
+    "15.10.0.21" = import ./overrides/teradata/15.10.0.21;
+  };
   termcolor = {
     "1.1.0" = import ./overrides/termcolor/1.1.0;
     "2.4.0" = import ./overrides/termcolor/2.4.0;
@@ -14234,6 +20250,12 @@
   terminaltables = {
     "3.1.0" = import ./overrides/terminaltables/3.1.0;
     "3.1.10" = import ./overrides/terminaltables/3.1.10;
+  };
+  termplotlib = {
+    "0.3.9" = import ./overrides/termplotlib/0.3.9;
+  };
+  termstyle = {
+    "0.1.11" = import ./overrides/termstyle/0.1.11;
   };
   tesla-fleet-api = {
     "0.7.4" = import ./overrides/tesla-fleet-api/0.7.4;
@@ -14265,6 +20287,9 @@
   testpath = {
     "0.6.0" = import ./overrides/testpath/0.6.0;
   };
+  testtools = {
+    "2.7.2" = import ./overrides/testtools/2.7.2;
+  };
   text-to-image = {
     "0.0.5" = import ./overrides/text-to-image/0.0.5;
   };
@@ -14283,14 +20308,35 @@
   textbisect = {
     "0.1.0" = import ./overrides/textbisect/0.1.0;
   };
+  textblob = {
+    "0.18.0.post0" = import ./overrides/textblob/0.18.0.post0;
+  };
   textdistance = {
     "4.6.3" = import ./overrides/textdistance/4.6.3;
+  };
+  textile = {
+    "4.0.2" = import ./overrides/textile/4.0.2;
   };
   textnets = {
     "0.9.4" = import ./overrides/textnets/0.9.4;
   };
+  textparser = {
+    "0.24.0" = import ./overrides/textparser/0.24.0;
+  };
   textsearch = {
     "0.0.24" = import ./overrides/textsearch/0.0.24;
+  };
+  texttable = {
+    "1.7.0" = import ./overrides/texttable/1.7.0;
+  };
+  textual-universal-directorytree = {
+    "1.5.0" = import ./overrides/textual-universal-directorytree/1.5.0;
+  };
+  textwrap3 = {
+    "0.9.2" = import ./overrides/textwrap3/0.9.2;
+  };
+  tf-attention-layer = {
+    "0.1.2" = import ./overrides/tf-attention-layer/0.1.2;
   };
   tflearn = {
     "0.5.0" = import ./overrides/tflearn/0.5.0;
@@ -14322,6 +20368,9 @@
   thepiratebay = {
     "1.3.5" = import ./overrides/thepiratebay/1.3.5;
   };
+  thermo = {
+    "0.3.0" = import ./overrides/thermo/0.3.0;
+  };
   thermobeacon-ble = {
     "0.7.0" = import ./overrides/thermobeacon-ble/0.7.0;
   };
@@ -14331,14 +20380,26 @@
   thespian = {
     "3.10.7" = import ./overrides/thespian/3.10.7;
   };
+  thewalrus = {
+    "0.21.0" = import ./overrides/thewalrus/0.21.0;
+  };
+  thoth-analyzer = {
+    "0.1.8" = import ./overrides/thoth-analyzer/0.1.8;
+  };
   thoth-common = {
     "0.36.6" = import ./overrides/thoth-common/0.36.6;
+  };
+  thread6 = {
+    "0.2.0" = import ./overrides/thread6/0.2.0;
   };
   threadloop = {
     "1.0.2" = import ./overrides/threadloop/1.0.2;
   };
   threatbus = {
     "2022.5.16" = import ./overrides/threatbus/2022.5.16;
+  };
+  three-merge = {
+    "0.1.1" = import ./overrides/three-merge/0.1.1;
   };
   thrift = {
     "0.16.0" = import ./overrides/thrift/0.16.0;
@@ -14381,6 +20442,9 @@
   tiddlywebplugins-pkgstore = {
     "0.3" = import ./overrides/tiddlywebplugins-pkgstore/0.3;
   };
+  tiddlywebplugins-status = {
+    "0.9" = import ./overrides/tiddlywebplugins-status/0.9;
+  };
   tiddlywebplugins-templates = {
     "0.9.7" = import ./overrides/tiddlywebplugins-templates/0.9.7;
   };
@@ -14389,6 +20453,9 @@
   };
   tiddlywebplugins-utils = {
     "1.10" = import ./overrides/tiddlywebplugins-utils/1.10;
+  };
+  tiddlywebwiki = {
+    "0.69.0" = import ./overrides/tiddlywebwiki/0.69.0;
   };
   tika-client = {
     "0.6.0" = import ./overrides/tika-client/0.6.0;
@@ -14402,6 +20469,9 @@
   tiler = {
     "0.5.7" = import ./overrides/tiler/0.5.7;
   };
+  tilt-ble = {
+    "0.2.4" = import ./overrides/tilt-ble/0.2.4;
+  };
   timecode = {
     "1.4.1" = import ./overrides/timecode/1.4.1;
   };
@@ -14414,14 +20484,23 @@
   timeout-decorator = {
     "0.5.0" = import ./overrides/timeout-decorator/0.5.0;
   };
+  times = {
+    "0.7" = import ./overrides/times/0.7;
+  };
   timeslot = {
     "0.1.2" = import ./overrides/timeslot/0.1.2;
   };
   timestring = {
     "1.6.4" = import ./overrides/timestring/1.6.4;
   };
+  timezonefinder = {
+    "6.5.2" = import ./overrides/timezonefinder/6.5.2;
+  };
   timingsutil = {
     "1.7.1" = import ./overrides/timingsutil/1.7.1;
+  };
+  timm = {
+    "1.0.9" = import ./overrides/timm/1.0.9;
   };
   tinyaes = {
     "1.1.0" = import ./overrides/tinyaes/1.1.0;
@@ -14431,6 +20510,9 @@
   };
   tinycss2 = {
     "1.3.0" = import ./overrides/tinycss2/1.3.0;
+  };
+  tinydb = {
+    "4.8.0" = import ./overrides/tinydb/4.8.0;
   };
   tinyec = {
     "0.4.0" = import ./overrides/tinyec/0.4.0;
@@ -14450,12 +20532,18 @@
   tinyrecord = {
     "0.2.0" = import ./overrides/tinyrecord/0.2.0;
   };
+  tinyrpc = {
+    "1.1.7" = import ./overrides/tinyrpc/1.1.7;
+  };
   tinyscript = {
     "1.30.16" = import ./overrides/tinyscript/1.30.16;
   };
   tinysegmenter = {
     "0.3" = import ./overrides/tinysegmenter/0.3;
     "0.4" = import ./overrides/tinysegmenter/0.4;
+  };
+  tinytag = {
+    "1.10.1" = import ./overrides/tinytag/1.10.1;
   };
   tinytim = {
     "1.11.0" = import ./overrides/tinytim/1.11.0;
@@ -14481,6 +20569,12 @@
   tkcolorpicker = {
     "2.1.3" = import ./overrides/tkcolorpicker/2.1.3;
   };
+  tkfilebrowser = {
+    "2.3.2" = import ./overrides/tkfilebrowser/2.3.2;
+  };
+  tkhtmlview = {
+    "0.3.1" = import ./overrides/tkhtmlview/0.3.1;
+  };
   tkinterhtml = {
     "0.7" = import ./overrides/tkinterhtml/0.7;
   };
@@ -14492,6 +20586,12 @@
   };
   tkstyle = {
     "0.0.6" = import ./overrides/tkstyle/0.0.6;
+  };
+  tld = {
+    "0.13" = import ./overrides/tld/0.13;
+  };
+  tldextract = {
+    "5.1.2" = import ./overrides/tldextract/5.1.2;
   };
   tls-client = {
     "1.0.1" = import ./overrides/tls-client/1.0.1;
@@ -14511,6 +20611,12 @@
   tmdbsimple = {
     "2.9.1" = import ./overrides/tmdbsimple/2.9.1;
   };
+  todoist = {
+    "0.0.1" = import ./overrides/todoist/0.0.1;
+  };
+  todoist-python = {
+    "8.1.4" = import ./overrides/todoist-python/8.1.4;
+  };
   toil-lib = {
     "1.1.8" = import ./overrides/toil-lib/1.1.8;
   };
@@ -14520,14 +20626,26 @@
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
+  toma = {
+    "1.1.0" = import ./overrides/toma/1.1.0;
+  };
+  toml = {
+    "0.10.2" = import ./overrides/toml/0.10.2;
+  };
   toml-adapt = {
     "0.3.3" = import ./overrides/toml-adapt/0.3.3;
   };
   toml-py = {
     "0.1.7" = import ./overrides/toml-py/0.1.7;
   };
+  tomlcheck = {
+    "0.2.3" = import ./overrides/tomlcheck/0.2.3;
+  };
   tomli = {
     "2.0.1" = import ./overrides/tomli/2.0.1;
+  };
+  tomli-w = {
+    "1.0.0" = import ./overrides/tomli-w/1.0.0;
   };
   tonyg-rfc3339 = {
     "0.1" = import ./overrides/tonyg-rfc3339/0.1;
@@ -14546,6 +20664,9 @@
   };
   toposort = {
     "1.10" = import ./overrides/toposort/1.10;
+  };
+  topp-utils = {
+    "0.5.1" = import ./overrides/topp-utils/0.5.1;
   };
   torch = {
     "2.4.0" = import ./overrides/torch/2.4.0;
@@ -14590,6 +20711,9 @@
   };
   torchrl = {
     "0.5.0" = import ./overrides/torchrl/0.5.0;
+  };
+  torchsde = {
+    "0.2.6" = import ./overrides/torchsde/0.2.6;
   };
   torchsummary = {
     "1.5.1" = import ./overrides/torchsummary/1.5.1;
@@ -14653,6 +20777,9 @@
   toytree = {
     "3.0.5" = import ./overrides/toytree/3.0.5;
   };
+  tpcp = {
+    "1.0.0" = import ./overrides/tpcp/1.0.0;
+  };
   tpdcc-config = {
     "0.0.9" = import ./overrides/tpdcc-config/0.0.9;
   };
@@ -14677,6 +20804,12 @@
   tracardi = {
     "0.6.26" = import ./overrides/tracardi/0.6.26;
   };
+  traceback2 = {
+    "1.4.0" = import ./overrides/traceback2/1.4.0;
+  };
+  tracerite = {
+    "1.1.1" = import ./overrides/tracerite/1.1.1;
+  };
   tracing = {
     "0.1.3" = import ./overrides/tracing/0.1.3;
   };
@@ -14692,8 +20825,20 @@
   trafaret = {
     "2.1.1" = import ./overrides/trafaret/2.1.1;
   };
+  trailrunner = {
+    "1.4.0" = import ./overrides/trailrunner/1.4.0;
+  };
   traits = {
     "6.3.2" = import ./overrides/traits/6.3.2;
+  };
+  traitsui = {
+    "8.0.0" = import ./overrides/traitsui/8.0.0;
+  };
+  trame = {
+    "3.6.5" = import ./overrides/trame/3.6.5;
+  };
+  trame-client = {
+    "3.2.5" = import ./overrides/trame-client/3.2.5;
   };
   trame-vuetify = {
     "2.7.1" = import ./overrides/trame-vuetify/2.7.1;
@@ -14709,6 +20854,12 @@
   };
   transifex-client = {
     "0.14.4" = import ./overrides/transifex-client/0.14.4;
+  };
+  transitions = {
+    "0.9.2" = import ./overrides/transitions/0.9.2;
+  };
+  transitleastsquares = {
+    "1.32" = import ./overrides/transitleastsquares/1.32;
   };
   translate = {
     "3.6.1" = import ./overrides/translate/3.6.1;
@@ -14740,6 +20891,9 @@
   tree-format = {
     "0.1.2" = import ./overrides/tree-format/0.1.2;
   };
+  treelog = {
+    "1.0" = import ./overrides/treelog/1.0;
+  };
   treeo = {
     "0.2.2" = import ./overrides/treeo/0.2.2;
   };
@@ -14752,8 +20906,14 @@
   tri-struct = {
     "4.1.0" = import ./overrides/tri-struct/4.1.0;
   };
+  trie = {
+    "3.0.1" = import ./overrides/trie/3.0.1;
+  };
   trimesh = {
     "4.4.9" = import ./overrides/trimesh/4.4.9;
+  };
+  trio-asyncio = {
+    "0.15.0" = import ./overrides/trio-asyncio/0.15.0;
   };
   trollsift = {
     "0.5.1" = import ./overrides/trollsift/0.5.1;
@@ -14785,11 +20945,23 @@
   tsam = {
     "2.3.3" = import ./overrides/tsam/2.3.3;
   };
+  tslearn = {
+    "0.6.3" = import ./overrides/tslearn/0.6.3;
+  };
+  tsplib95 = {
+    "0.7.1" = import ./overrides/tsplib95/0.7.1;
+  };
+  tstoolbox = {
+    "108.2.0" = import ./overrides/tstoolbox/108.2.0;
+  };
   ttkbootstrap = {
     "1.10.1" = import ./overrides/ttkbootstrap/1.10.1;
   };
   ttkwidgets = {
     "0.13.0" = import ./overrides/ttkwidgets/0.13.0;
+  };
+  ttls = {
+    "1.8.3" = import ./overrides/ttls/1.8.3;
   };
   ttstokenizer = {
     "1.0.0" = import ./overrides/ttstokenizer/1.0.0;
@@ -14835,8 +21007,20 @@
   tw2-jquery = {
     "2.2.0.2" = import ./overrides/tw2-jquery/2.2.0.2;
   };
+  tw2-sqla = {
+    "2.1.0" = import ./overrides/tw2-sqla/2.1.0;
+  };
+  twarc = {
+    "2.14.0" = import ./overrides/twarc/2.14.0;
+  };
   tweepy = {
     "4.14.0" = import ./overrides/tweepy/4.14.0;
+  };
+  twentemilieu = {
+    "2.0.1" = import ./overrides/twentemilieu/2.0.1;
+  };
+  twill = {
+    "3.2.5" = import ./overrides/twill/3.2.5;
   };
   twint = {
     "2.1.20" = import ./overrides/twint/2.1.20;
@@ -14892,8 +21076,14 @@
   twx-botapi = {
     "3.6.2" = import ./overrides/twx-botapi/3.6.2;
   };
+  txamqp = {
+    "0.8.2" = import ./overrides/txamqp/0.8.2;
+  };
   txcelery-py3 = {
     "1.6.4" = import ./overrides/txcelery-py3/1.6.4;
+  };
+  txdbus = {
+    "1.1.2" = import ./overrides/txdbus/1.1.2;
   };
   txgithub = {
     "15.0.0" = import ./overrides/txgithub/15.0.0;
@@ -14916,6 +21106,9 @@
   txtorcon = {
     "24.8.0" = import ./overrides/txtorcon/24.8.0;
   };
+  txtwitter = {
+    "0.1.6" = import ./overrides/txtwitter/0.1.6;
+  };
   txwebsocket = {
     "1.1.1" = import ./overrides/txwebsocket/1.1.1;
   };
@@ -14928,8 +21121,20 @@
   typechecks = {
     "0.1.0" = import ./overrides/typechecks/0.1.0;
   };
+  typecode = {
+    "30.0.2" = import ./overrides/typecode/30.0.2;
+  };
   typecov = {
     "0.2.1" = import ./overrides/typecov/0.2.1;
+  };
+  typed-argument-parser = {
+    "1.10.1" = import ./overrides/typed-argument-parser/1.10.1;
+  };
+  typed-ast = {
+    "1.5.5" = import ./overrides/typed-ast/1.5.5;
+  };
+  typed-settings = {
+    "24.5.0" = import ./overrides/typed-settings/24.5.0;
   };
   typedecorator = {
     "0.0.5" = import ./overrides/typedecorator/0.0.5;
@@ -14937,14 +21142,590 @@
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
+  typepigeon = {
+    "2.0.3" = import ./overrides/typepigeon/2.0.3;
+  };
+  typer = {
+    "0.12.5" = import ./overrides/typer/0.12.5;
+  };
+  types-aioboto3 = {
+    "13.1.1" = import ./overrides/types-aioboto3/13.1.1;
+  };
+  types-aiobotocore = {
+    "2.14.0" = import ./overrides/types-aiobotocore/2.14.0;
+  };
+  types-aiobotocore-accessanalyzer = {
+    "2.14.0" = import ./overrides/types-aiobotocore-accessanalyzer/2.14.0;
+  };
+  types-aiobotocore-account = {
+    "2.14.0" = import ./overrides/types-aiobotocore-account/2.14.0;
+  };
+  types-aiobotocore-acm = {
+    "2.14.0" = import ./overrides/types-aiobotocore-acm/2.14.0;
+  };
+  types-aiobotocore-alexaforbusiness = {
+    "2.13.0" = import ./overrides/types-aiobotocore-alexaforbusiness/2.13.0;
+  };
+  types-aiobotocore-amp = {
+    "2.14.0" = import ./overrides/types-aiobotocore-amp/2.14.0;
+  };
+  types-aiobotocore-appconfig = {
+    "2.14.0" = import ./overrides/types-aiobotocore-appconfig/2.14.0;
+  };
+  types-aiobotocore-appfabric = {
+    "2.14.0" = import ./overrides/types-aiobotocore-appfabric/2.14.0;
+  };
+  types-aiobotocore-appflow = {
+    "2.14.0" = import ./overrides/types-aiobotocore-appflow/2.14.0;
+  };
+  types-aiobotocore-appintegrations = {
+    "2.14.0" = import ./overrides/types-aiobotocore-appintegrations/2.14.0;
+  };
+  types-aiobotocore-appstream = {
+    "2.15.0" = import ./overrides/types-aiobotocore-appstream/2.15.0;
+  };
+  types-aiobotocore-appsync = {
+    "2.14.0" = import ./overrides/types-aiobotocore-appsync/2.14.0;
+  };
+  types-aiobotocore-arc-zonal-shift = {
+    "2.14.0" = import ./overrides/types-aiobotocore-arc-zonal-shift/2.14.0;
+  };
+  types-aiobotocore-autoscaling = {
+    "2.14.0" = import ./overrides/types-aiobotocore-autoscaling/2.14.0;
+  };
+  types-aiobotocore-autoscaling-plans = {
+    "2.14.0" = import ./overrides/types-aiobotocore-autoscaling-plans/2.14.0;
+  };
+  types-aiobotocore-backup = {
+    "2.14.0" = import ./overrides/types-aiobotocore-backup/2.14.0;
+  };
+  types-aiobotocore-backup-gateway = {
+    "2.15.0" = import ./overrides/types-aiobotocore-backup-gateway/2.15.0;
+  };
+  types-aiobotocore-batch = {
+    "2.14.0" = import ./overrides/types-aiobotocore-batch/2.14.0;
+  };
+  types-aiobotocore-billingconductor = {
+    "2.14.0" = import ./overrides/types-aiobotocore-billingconductor/2.14.0;
+  };
+  types-aiobotocore-chime-sdk-media-pipelines = {
+    "2.14.0" = import ./overrides/types-aiobotocore-chime-sdk-media-pipelines/2.14.0;
+  };
+  types-aiobotocore-chime-sdk-messaging = {
+    "2.14.0" = import ./overrides/types-aiobotocore-chime-sdk-messaging/2.14.0;
+  };
+  types-aiobotocore-chime-sdk-voice = {
+    "2.14.0" = import ./overrides/types-aiobotocore-chime-sdk-voice/2.14.0;
+  };
+  types-aiobotocore-cloud9 = {
+    "2.15.0" = import ./overrides/types-aiobotocore-cloud9/2.15.0;
+  };
+  types-aiobotocore-cloudfront = {
+    "2.14.0" = import ./overrides/types-aiobotocore-cloudfront/2.14.0;
+  };
+  types-aiobotocore-cloudhsm = {
+    "2.15.0" = import ./overrides/types-aiobotocore-cloudhsm/2.15.0;
+  };
+  types-aiobotocore-cloudsearch = {
+    "2.14.0" = import ./overrides/types-aiobotocore-cloudsearch/2.14.0;
+  };
+  types-aiobotocore-cloudwatch = {
+    "2.14.0" = import ./overrides/types-aiobotocore-cloudwatch/2.14.0;
+  };
+  types-aiobotocore-codebuild = {
+    "2.15.0" = import ./overrides/types-aiobotocore-codebuild/2.15.0;
+  };
+  types-aiobotocore-codecatalyst = {
+    "2.14.0" = import ./overrides/types-aiobotocore-codecatalyst/2.14.0;
+  };
+  types-aiobotocore-codeguru-security = {
+    "2.14.0" = import ./overrides/types-aiobotocore-codeguru-security/2.14.0;
+  };
+  types-aiobotocore-codepipeline = {
+    "2.15.0" = import ./overrides/types-aiobotocore-codepipeline/2.15.0;
+  };
+  types-aiobotocore-codestar = {
+    "2.13.3" = import ./overrides/types-aiobotocore-codestar/2.13.3;
+  };
+  types-aiobotocore-codestar-connections = {
+    "2.14.0" = import ./overrides/types-aiobotocore-codestar-connections/2.14.0;
+  };
+  types-aiobotocore-cognito-identity = {
+    "2.14.0" = import ./overrides/types-aiobotocore-cognito-identity/2.14.0;
+  };
+  types-aiobotocore-comprehend = {
+    "2.14.0" = import ./overrides/types-aiobotocore-comprehend/2.14.0;
+  };
+  types-aiobotocore-connect = {
+    "2.14.0" = import ./overrides/types-aiobotocore-connect/2.14.0;
+  };
+  types-aiobotocore-connectcases = {
+    "2.14.0" = import ./overrides/types-aiobotocore-connectcases/2.14.0;
+  };
+  types-aiobotocore-cur = {
+    "2.14.0" = import ./overrides/types-aiobotocore-cur/2.14.0;
+  };
+  types-aiobotocore-customer-profiles = {
+    "2.14.0" = import ./overrides/types-aiobotocore-customer-profiles/2.14.0;
+  };
+  types-aiobotocore-dataexchange = {
+    "2.14.0" = import ./overrides/types-aiobotocore-dataexchange/2.14.0;
+  };
+  types-aiobotocore-datapipeline = {
+    "2.14.0" = import ./overrides/types-aiobotocore-datapipeline/2.14.0;
+  };
+  types-aiobotocore-dax = {
+    "2.14.0" = import ./overrides/types-aiobotocore-dax/2.14.0;
+  };
+  types-aiobotocore-directconnect = {
+    "2.15.0" = import ./overrides/types-aiobotocore-directconnect/2.15.0;
+  };
+  types-aiobotocore-discovery = {
+    "2.15.0" = import ./overrides/types-aiobotocore-discovery/2.15.0;
+  };
+  types-aiobotocore-dms = {
+    "2.14.0" = import ./overrides/types-aiobotocore-dms/2.14.0;
+  };
+  types-aiobotocore-docdb = {
+    "2.14.0" = import ./overrides/types-aiobotocore-docdb/2.14.0;
+  };
+  types-aiobotocore-docdb-elastic = {
+    "2.14.0" = import ./overrides/types-aiobotocore-docdb-elastic/2.14.0;
+  };
+  types-aiobotocore-drs = {
+    "2.14.0" = import ./overrides/types-aiobotocore-drs/2.14.0;
+  };
+  types-aiobotocore-dynamodbstreams = {
+    "2.14.0" = import ./overrides/types-aiobotocore-dynamodbstreams/2.14.0;
+  };
+  types-aiobotocore-ebs = {
+    "2.15.0" = import ./overrides/types-aiobotocore-ebs/2.15.0;
+  };
+  types-aiobotocore-ecr-public = {
+    "2.14.0" = import ./overrides/types-aiobotocore-ecr-public/2.14.0;
+  };
+  types-aiobotocore-ecs = {
+    "2.14.0" = import ./overrides/types-aiobotocore-ecs/2.14.0;
+  };
+  types-aiobotocore-elbv2 = {
+    "2.14.0" = import ./overrides/types-aiobotocore-elbv2/2.14.0;
+  };
+  types-aiobotocore-emr-containers = {
+    "2.14.0" = import ./overrides/types-aiobotocore-emr-containers/2.14.0;
+  };
+  types-aiobotocore-emr-serverless = {
+    "2.14.0" = import ./overrides/types-aiobotocore-emr-serverless/2.14.0;
+  };
+  types-aiobotocore-entityresolution = {
+    "2.15.0" = import ./overrides/types-aiobotocore-entityresolution/2.15.0;
+  };
+  types-aiobotocore-es = {
+    "2.14.0" = import ./overrides/types-aiobotocore-es/2.14.0;
+  };
+  types-aiobotocore-finspace = {
+    "2.14.0" = import ./overrides/types-aiobotocore-finspace/2.14.0;
+  };
+  types-aiobotocore-fis = {
+    "2.14.0" = import ./overrides/types-aiobotocore-fis/2.14.0;
+  };
+  types-aiobotocore-forecast = {
+    "2.14.0" = import ./overrides/types-aiobotocore-forecast/2.14.0;
+  };
+  types-aiobotocore-forecastquery = {
+    "2.14.0" = import ./overrides/types-aiobotocore-forecastquery/2.14.0;
+  };
+  types-aiobotocore-frauddetector = {
+    "2.15.0" = import ./overrides/types-aiobotocore-frauddetector/2.15.0;
+  };
+  types-aiobotocore-fsx = {
+    "2.14.0" = import ./overrides/types-aiobotocore-fsx/2.14.0;
+  };
+  types-aiobotocore-glue = {
+    "2.14.0" = import ./overrides/types-aiobotocore-glue/2.14.0;
+  };
+  types-aiobotocore-grafana = {
+    "2.15.0" = import ./overrides/types-aiobotocore-grafana/2.15.0;
+  };
+  types-aiobotocore-greengrassv2 = {
+    "2.14.0" = import ./overrides/types-aiobotocore-greengrassv2/2.14.0;
+  };
+  types-aiobotocore-groundstation = {
+    "2.15.0" = import ./overrides/types-aiobotocore-groundstation/2.15.0;
+  };
   types-aiobotocore-imagebuilder = {
     "2.14.0" = import ./overrides/types-aiobotocore-imagebuilder/2.14.0;
+  };
+  types-aiobotocore-inspector = {
+    "2.14.0" = import ./overrides/types-aiobotocore-inspector/2.14.0;
+  };
+  types-aiobotocore-internetmonitor = {
+    "2.14.0" = import ./overrides/types-aiobotocore-internetmonitor/2.14.0;
+  };
+  types-aiobotocore-iot-data = {
+    "2.14.0" = import ./overrides/types-aiobotocore-iot-data/2.14.0;
+  };
+  types-aiobotocore-iot-jobs-data = {
+    "2.14.0" = import ./overrides/types-aiobotocore-iot-jobs-data/2.14.0;
+  };
+  types-aiobotocore-iotanalytics = {
+    "2.14.0" = import ./overrides/types-aiobotocore-iotanalytics/2.14.0;
+  };
+  types-aiobotocore-iotfleethub = {
+    "2.15.0" = import ./overrides/types-aiobotocore-iotfleethub/2.15.0;
+  };
+  types-aiobotocore-iotfleetwise = {
+    "2.15.0" = import ./overrides/types-aiobotocore-iotfleetwise/2.15.0;
+  };
+  types-aiobotocore-ivs-realtime = {
+    "2.14.0" = import ./overrides/types-aiobotocore-ivs-realtime/2.14.0;
+  };
+  types-aiobotocore-kafka = {
+    "2.14.0" = import ./overrides/types-aiobotocore-kafka/2.14.0;
+  };
+  types-aiobotocore-kendra = {
+    "2.15.0" = import ./overrides/types-aiobotocore-kendra/2.15.0;
+  };
+  types-aiobotocore-kinesis-video-signaling = {
+    "2.14.0" = import ./overrides/types-aiobotocore-kinesis-video-signaling/2.14.0;
+  };
+  types-aiobotocore-kinesisanalyticsv2 = {
+    "2.15.0" = import ./overrides/types-aiobotocore-kinesisanalyticsv2/2.15.0;
+  };
+  types-aiobotocore-kinesisvideo = {
+    "2.14.0" = import ./overrides/types-aiobotocore-kinesisvideo/2.14.0;
+  };
+  types-aiobotocore-kms = {
+    "2.14.0" = import ./overrides/types-aiobotocore-kms/2.14.0;
+  };
+  types-aiobotocore-lambda = {
+    "2.14.0" = import ./overrides/types-aiobotocore-lambda/2.14.0;
+  };
+  types-aiobotocore-lex-models = {
+    "2.14.0" = import ./overrides/types-aiobotocore-lex-models/2.14.0;
+  };
+  types-aiobotocore-lex-runtime = {
+    "2.14.0" = import ./overrides/types-aiobotocore-lex-runtime/2.14.0;
+  };
+  types-aiobotocore-lexv2-models = {
+    "2.15.0" = import ./overrides/types-aiobotocore-lexv2-models/2.15.0;
+  };
+  types-aiobotocore-lexv2-runtime = {
+    "2.14.0" = import ./overrides/types-aiobotocore-lexv2-runtime/2.14.0;
+  };
+  types-aiobotocore-license-manager = {
+    "2.14.0" = import ./overrides/types-aiobotocore-license-manager/2.14.0;
+  };
+  types-aiobotocore-license-manager-linux-subscriptions = {
+    "2.14.0" = import ./overrides/types-aiobotocore-license-manager-linux-subscriptions/2.14.0;
+  };
+  types-aiobotocore-license-manager-user-subscriptions = {
+    "2.14.0" = import ./overrides/types-aiobotocore-license-manager-user-subscriptions/2.14.0;
+  };
+  types-aiobotocore-location = {
+    "2.14.0" = import ./overrides/types-aiobotocore-location/2.14.0;
+  };
+  types-aiobotocore-lookoutequipment = {
+    "2.14.0" = import ./overrides/types-aiobotocore-lookoutequipment/2.14.0;
+  };
+  types-aiobotocore-lookoutmetrics = {
+    "2.15.0" = import ./overrides/types-aiobotocore-lookoutmetrics/2.15.0;
+  };
+  types-aiobotocore-managedblockchain = {
+    "2.14.0" = import ./overrides/types-aiobotocore-managedblockchain/2.14.0;
+  };
+  types-aiobotocore-marketplace-catalog = {
+    "2.14.0" = import ./overrides/types-aiobotocore-marketplace-catalog/2.14.0;
+  };
+  types-aiobotocore-marketplacecommerceanalytics = {
+    "2.14.0" = import ./overrides/types-aiobotocore-marketplacecommerceanalytics/2.14.0;
+  };
+  types-aiobotocore-mediaconvert = {
+    "2.14.0" = import ./overrides/types-aiobotocore-mediaconvert/2.14.0;
+  };
+  types-aiobotocore-medialive = {
+    "2.14.0" = import ./overrides/types-aiobotocore-medialive/2.14.0;
+  };
+  types-aiobotocore-mediapackage = {
+    "2.14.0" = import ./overrides/types-aiobotocore-mediapackage/2.14.0;
+  };
+  types-aiobotocore-mediapackage-vod = {
+    "2.14.0" = import ./overrides/types-aiobotocore-mediapackage-vod/2.14.0;
+  };
+  types-aiobotocore-medical-imaging = {
+    "2.14.0" = import ./overrides/types-aiobotocore-medical-imaging/2.14.0;
+  };
+  types-aiobotocore-memorydb = {
+    "2.14.0" = import ./overrides/types-aiobotocore-memorydb/2.14.0;
+  };
+  types-aiobotocore-meteringmarketplace = {
+    "2.14.0" = import ./overrides/types-aiobotocore-meteringmarketplace/2.14.0;
+  };
+  types-aiobotocore-mgh = {
+    "2.14.0" = import ./overrides/types-aiobotocore-mgh/2.14.0;
+  };
+  types-aiobotocore-migration-hub-refactor-spaces = {
+    "2.14.0" = import ./overrides/types-aiobotocore-migration-hub-refactor-spaces/2.14.0;
+  };
+  types-aiobotocore-migrationhuborchestrator = {
+    "2.14.0" = import ./overrides/types-aiobotocore-migrationhuborchestrator/2.14.0;
+  };
+  types-aiobotocore-migrationhubstrategy = {
+    "2.14.0" = import ./overrides/types-aiobotocore-migrationhubstrategy/2.14.0;
+  };
+  types-aiobotocore-mwaa = {
+    "2.14.0" = import ./overrides/types-aiobotocore-mwaa/2.14.0;
+  };
+  types-aiobotocore-neptune = {
+    "2.14.0" = import ./overrides/types-aiobotocore-neptune/2.14.0;
+  };
+  types-aiobotocore-nimble = {
+    "2.14.0" = import ./overrides/types-aiobotocore-nimble/2.14.0;
+  };
+  types-aiobotocore-opensearch = {
+    "2.15.0" = import ./overrides/types-aiobotocore-opensearch/2.15.0;
+  };
+  types-aiobotocore-opsworks = {
+    "2.15.0" = import ./overrides/types-aiobotocore-opsworks/2.15.0;
+  };
+  types-aiobotocore-opsworkscm = {
+    "2.14.0" = import ./overrides/types-aiobotocore-opsworkscm/2.14.0;
+  };
+  types-aiobotocore-outposts = {
+    "2.14.0" = import ./overrides/types-aiobotocore-outposts/2.14.0;
+  };
+  types-aiobotocore-payment-cryptography = {
+    "2.15.0" = import ./overrides/types-aiobotocore-payment-cryptography/2.15.0;
+  };
+  types-aiobotocore-payment-cryptography-data = {
+    "2.14.0" = import ./overrides/types-aiobotocore-payment-cryptography-data/2.14.0;
+  };
+  types-aiobotocore-personalize = {
+    "2.14.0" = import ./overrides/types-aiobotocore-personalize/2.14.0;
+  };
+  types-aiobotocore-personalize-runtime = {
+    "2.15.0" = import ./overrides/types-aiobotocore-personalize-runtime/2.15.0;
+  };
+  types-aiobotocore-pi = {
+    "2.14.0" = import ./overrides/types-aiobotocore-pi/2.14.0;
+  };
+  types-aiobotocore-pinpoint = {
+    "2.15.0" = import ./overrides/types-aiobotocore-pinpoint/2.15.0;
+  };
+  types-aiobotocore-pinpoint-email = {
+    "2.15.0" = import ./overrides/types-aiobotocore-pinpoint-email/2.15.0;
+  };
+  types-aiobotocore-pinpoint-sms-voice-v2 = {
+    "2.14.0" = import ./overrides/types-aiobotocore-pinpoint-sms-voice-v2/2.14.0;
+  };
+  types-aiobotocore-polly = {
+    "2.14.0" = import ./overrides/types-aiobotocore-polly/2.14.0;
+  };
+  types-aiobotocore-privatenetworks = {
+    "2.14.0" = import ./overrides/types-aiobotocore-privatenetworks/2.14.0;
+  };
+  types-aiobotocore-proton = {
+    "2.14.0" = import ./overrides/types-aiobotocore-proton/2.14.0;
+  };
+  types-aiobotocore-qldb = {
+    "2.14.0" = import ./overrides/types-aiobotocore-qldb/2.14.0;
+  };
+  types-aiobotocore-ram = {
+    "2.14.0" = import ./overrides/types-aiobotocore-ram/2.14.0;
+  };
+  types-aiobotocore-rbin = {
+    "2.14.0" = import ./overrides/types-aiobotocore-rbin/2.14.0;
+  };
+  types-aiobotocore-rds-data = {
+    "2.14.0" = import ./overrides/types-aiobotocore-rds-data/2.14.0;
+  };
+  types-aiobotocore-resiliencehub = {
+    "2.15.0" = import ./overrides/types-aiobotocore-resiliencehub/2.15.0;
+  };
+  types-aiobotocore-resource-explorer-2 = {
+    "2.15.0" = import ./overrides/types-aiobotocore-resource-explorer-2/2.15.0;
+  };
+  types-aiobotocore-resource-groups = {
+    "2.15.0" = import ./overrides/types-aiobotocore-resource-groups/2.15.0;
+  };
+  types-aiobotocore-route53 = {
+    "2.14.0" = import ./overrides/types-aiobotocore-route53/2.14.0;
+  };
+  types-aiobotocore-s3 = {
+    "2.15.0" = import ./overrides/types-aiobotocore-s3/2.15.0;
+  };
+  types-aiobotocore-s3outposts = {
+    "2.15.0" = import ./overrides/types-aiobotocore-s3outposts/2.15.0;
+  };
+  types-aiobotocore-sagemaker-a2i-runtime = {
+    "2.14.0" = import ./overrides/types-aiobotocore-sagemaker-a2i-runtime/2.14.0;
+  };
+  types-aiobotocore-sagemaker-edge = {
+    "2.14.0" = import ./overrides/types-aiobotocore-sagemaker-edge/2.14.0;
+  };
+  types-aiobotocore-sagemaker-featurestore-runtime = {
+    "2.15.0" = import ./overrides/types-aiobotocore-sagemaker-featurestore-runtime/2.15.0;
+  };
+  types-aiobotocore-savingsplans = {
+    "2.15.0" = import ./overrides/types-aiobotocore-savingsplans/2.15.0;
+  };
+  types-aiobotocore-sdb = {
+    "2.15.0" = import ./overrides/types-aiobotocore-sdb/2.15.0;
+  };
+  types-aiobotocore-securityhub = {
+    "2.15.0" = import ./overrides/types-aiobotocore-securityhub/2.15.0;
+  };
+  types-aiobotocore-securitylake = {
+    "2.14.0" = import ./overrides/types-aiobotocore-securitylake/2.14.0;
+  };
+  types-aiobotocore-serverlessrepo = {
+    "2.14.0" = import ./overrides/types-aiobotocore-serverlessrepo/2.14.0;
+  };
+  types-aiobotocore-service-quotas = {
+    "2.14.0" = import ./overrides/types-aiobotocore-service-quotas/2.14.0;
+  };
+  types-aiobotocore-servicecatalog = {
+    "2.14.0" = import ./overrides/types-aiobotocore-servicecatalog/2.14.0;
+  };
+  types-aiobotocore-servicecatalog-appregistry = {
+    "2.14.0" = import ./overrides/types-aiobotocore-servicecatalog-appregistry/2.14.0;
+  };
+  types-aiobotocore-servicediscovery = {
+    "2.14.0" = import ./overrides/types-aiobotocore-servicediscovery/2.14.0;
+  };
+  types-aiobotocore-shield = {
+    "2.14.0" = import ./overrides/types-aiobotocore-shield/2.14.0;
+  };
+  types-aiobotocore-simspaceweaver = {
+    "2.14.0" = import ./overrides/types-aiobotocore-simspaceweaver/2.14.0;
+  };
+  types-aiobotocore-sms-voice = {
+    "2.15.0" = import ./overrides/types-aiobotocore-sms-voice/2.15.0;
+  };
+  types-aiobotocore-snow-device-management = {
+    "2.14.0" = import ./overrides/types-aiobotocore-snow-device-management/2.14.0;
+  };
+  types-aiobotocore-sqs = {
+    "2.15.0" = import ./overrides/types-aiobotocore-sqs/2.15.0;
+  };
+  types-aiobotocore-ssm = {
+    "2.14.0" = import ./overrides/types-aiobotocore-ssm/2.14.0;
+  };
+  types-aiobotocore-ssm-incidents = {
+    "2.14.0" = import ./overrides/types-aiobotocore-ssm-incidents/2.14.0;
+  };
+  types-aiobotocore-storagegateway = {
+    "2.14.0" = import ./overrides/types-aiobotocore-storagegateway/2.14.0;
+  };
+  types-aiobotocore-transcribe = {
+    "2.14.0" = import ./overrides/types-aiobotocore-transcribe/2.14.0;
+  };
+  types-aiobotocore-verifiedpermissions = {
+    "2.15.0" = import ./overrides/types-aiobotocore-verifiedpermissions/2.15.0;
+  };
+  types-aiobotocore-waf = {
+    "2.15.0" = import ./overrides/types-aiobotocore-waf/2.15.0;
+  };
+  types-aiobotocore-wafv2 = {
+    "2.14.0" = import ./overrides/types-aiobotocore-wafv2/2.14.0;
+  };
+  types-aiobotocore-wisdom = {
+    "2.15.0" = import ./overrides/types-aiobotocore-wisdom/2.15.0;
+  };
+  types-aiobotocore-worklink = {
+    "2.15.0" = import ./overrides/types-aiobotocore-worklink/2.15.0;
+  };
+  types-aiobotocore-workmail = {
+    "2.14.0" = import ./overrides/types-aiobotocore-workmail/2.14.0;
+  };
+  types-aiobotocore-workspaces-web = {
+    "2.14.0" = import ./overrides/types-aiobotocore-workspaces-web/2.14.0;
+  };
+  types-awscrt = {
+    "0.21.5" = import ./overrides/types-awscrt/0.21.5;
+  };
+  types-backports = {
+    "0.1.3" = import ./overrides/types-backports/0.1.3;
+  };
+  types-dataclasses = {
+    "0.6.6" = import ./overrides/types-dataclasses/0.6.6;
+  };
+  types-decorator = {
+    "5.1.8.20240310" = import ./overrides/types-decorator/5.1.8.20240310;
+  };
+  types-docutils = {
+    "0.21.0.20240907" = import ./overrides/types-docutils/0.21.0.20240907;
+  };
+  types-enum34 = {
+    "1.1.8" = import ./overrides/types-enum34/1.1.8;
+  };
+  types-freezegun = {
+    "1.1.10" = import ./overrides/types-freezegun/1.1.10;
+  };
+  types-lxml = {
+    "2024.8.7" = import ./overrides/types-lxml/2024.8.7;
+  };
+  types-orjson = {
+    "3.6.2" = import ./overrides/types-orjson/3.6.2;
+  };
+  types-passlib = {
+    "1.7.7.20240819" = import ./overrides/types-passlib/1.7.7.20240819;
+  };
+  types-protobuf = {
+    "5.27.0.20240907" = import ./overrides/types-protobuf/5.27.0.20240907;
+  };
+  types-psycopg2 = {
+    "2.9.21.20240819" = import ./overrides/types-psycopg2/2.9.21.20240819;
+  };
+  types-redis = {
+    "4.6.0.20240903" = import ./overrides/types-redis/4.6.0.20240903;
+  };
+  types-requests = {
+    "2.32.0.20240907" = import ./overrides/types-requests/2.32.0.20240907;
+  };
+  types-s3transfer = {
+    "0.10.2" = import ./overrides/types-s3transfer/0.10.2;
+  };
+  types-simplejson = {
+    "3.19.0.20240801" = import ./overrides/types-simplejson/3.19.0.20240801;
+  };
+  types-six = {
+    "1.16.21.20240513" = import ./overrides/types-six/1.16.21.20240513;
+  };
+  types-toml = {
+    "0.10.8.20240310" = import ./overrides/types-toml/0.10.8.20240310;
+  };
+  types-typed-ast = {
+    "1.5.8.7" = import ./overrides/types-typed-ast/1.5.8.7;
+  };
+  types-ujson = {
+    "5.10.0.20240515" = import ./overrides/types-ujson/5.10.0.20240515;
+  };
+  types-xmltodict = {
+    "0.13.0.3" = import ./overrides/types-xmltodict/0.13.0.3;
+  };
+  typesense = {
+    "0.21.0" = import ./overrides/typesense/0.21.0;
+  };
+  typesystem = {
+    "0.4.1" = import ./overrides/typesystem/0.4.1;
+  };
+  typical = {
+    "2.9.0" = import ./overrides/typical/2.9.0;
   };
   typing = {
     "3.5.2.2" = import ./overrides/typing/3.5.2.2;
   };
   typing-extensions = {
     "4.12.2" = import ./overrides/typing-extensions/4.12.2;
+  };
+  typing-inspect = {
+    "0.9.0" = import ./overrides/typing-inspect/0.9.0;
+  };
+  typing-utils = {
+    "0.1.0" = import ./overrides/typing-utils/0.1.0;
+  };
+  typing-validation = {
+    "1.2.11.post4" = import ./overrides/typing-validation/1.2.11.post4;
   };
   typogrify = {
     "2.0.7" = import ./overrides/typogrify/2.0.7;
@@ -14961,8 +21742,23 @@
   tzlocal = {
     "1.5.1" = import ./overrides/tzlocal/1.5.1;
   };
+  u-msgpack-python = {
+    "2.8.0" = import ./overrides/u-msgpack-python/2.8.0;
+  };
   uart-devices = {
     "0.1.0" = import ./overrides/uart-devices/0.1.0;
+  };
+  uasiren = {
+    "0.0.1" = import ./overrides/uasiren/0.0.1;
+  };
+  ubelt = {
+    "1.3.6" = import ./overrides/ubelt/1.3.6;
+  };
+  ubersmith = {
+    "0.4.0" = import ./overrides/ubersmith/0.4.0;
+  };
+  ucsmsdk = {
+    "0.9.19" = import ./overrides/ucsmsdk/0.9.19;
   };
   uctools = {
     "1.3.0" = import ./overrides/uctools/1.3.0;
@@ -14973,14 +21769,35 @@
   uflash = {
     "2.0.0" = import ./overrides/uflash/2.0.0;
   };
+  ufmt = {
+    "2.7.2" = import ./overrides/ufmt/2.7.2;
+  };
+  ufonormalizer = {
+    "0.6.2" = import ./overrides/ufonormalizer/0.6.2;
+  };
   uhashring = {
     "2.3" = import ./overrides/uhashring/2.3;
+  };
+  uhi = {
+    "0.4.0" = import ./overrides/uhi/0.4.0;
+  };
+  uiautomator = {
+    "1.0.2" = import ./overrides/uiautomator/1.0.2;
+  };
+  uiautomator2 = {
+    "3.2.3" = import ./overrides/uiautomator2/3.2.3;
   };
   ujson = {
     "1.35" = import ./overrides/ujson/1.35;
   };
+  ukrainealarm = {
+    "0.0.1" = import ./overrides/ukrainealarm/0.0.1;
+  };
   ulid-py = {
     "1.1.0" = import ./overrides/ulid-py/1.1.0;
+  };
+  ultraheat-api = {
+    "0.5.7" = import ./overrides/ultraheat-api/0.5.7;
   };
   ultranest = {
     "4.3.2" = import ./overrides/ultranest/4.3.2;
@@ -15008,6 +21825,9 @@
   };
   unicode-rbnf = {
     "1.2.0" = import ./overrides/unicode-rbnf/1.2.0;
+  };
+  unicode-slugify = {
+    "0.1.5" = import ./overrides/unicode-slugify/0.1.5;
   };
   unicodecsv = {
     "0.14.1" = import ./overrides/unicodecsv/0.14.1;
@@ -15054,6 +21874,9 @@
   };
   unique-log-filter = {
     "0.1.0" = import ./overrides/unique-log-filter/0.1.0;
+  };
+  uniseg = {
+    "0.8.1" = import ./overrides/uniseg/0.8.1;
   };
   unisos-icm = {
     "0.26" = import ./overrides/unisos-icm/0.26;
@@ -15106,14 +21929,32 @@
   untokenize = {
     "0.1.1" = import ./overrides/untokenize/0.1.1;
   };
+  uonet-request-signer-hebe = {
+    "0.1.1" = import ./overrides/uonet-request-signer-hebe/0.1.1;
+  };
   upass = {
     "0.3.0" = import ./overrides/upass/0.3.0;
+  };
+  upb-lib = {
+    "0.5.8" = import ./overrides/upb-lib/0.5.8;
+  };
+  update-checker = {
+    "0.18.0" = import ./overrides/update-checker/0.18.0;
   };
   update-copyright = {
     "0.6.2" = import ./overrides/update-copyright/0.6.2;
   };
   uplc = {
     "1.0.6" = import ./overrides/uplc/1.0.6;
+  };
+  uplink = {
+    "0.9.7" = import ./overrides/uplink/0.9.7;
+  };
+  uproot-methods = {
+    "0.9.2" = import ./overrides/uproot-methods/0.9.2;
+  };
+  uproot3-methods = {
+    "0.10.1" = import ./overrides/uproot3-methods/0.10.1;
   };
   upsetplot = {
     "0.9.0" = import ./overrides/upsetplot/0.9.0;
@@ -15130,8 +21971,35 @@
   upyun = {
     "2.5.5" = import ./overrides/upyun/2.5.5;
   };
+  uqbar = {
+    "0.7.4" = import ./overrides/uqbar/0.7.4;
+  };
+  uranium = {
+    "2.1.2" = import ./overrides/uranium/2.1.2;
+  };
+  urdfpy = {
+    "0.0.22" = import ./overrides/urdfpy/0.0.22;
+  };
+  uri-template = {
+    "1.3.0" = import ./overrides/uri-template/1.3.0;
+  };
+  uritools = {
+    "4.0.3" = import ./overrides/uritools/4.0.3;
+  };
+  url-normalize = {
+    "1.4.3" = import ./overrides/url-normalize/1.4.3;
+  };
   url64 = {
     "0.1.0" = import ./overrides/url64/0.1.0;
+  };
+  urlextract = {
+    "1.9.0" = import ./overrides/urlextract/1.9.0;
+  };
+  urlgrabber = {
+    "4.1.0" = import ./overrides/urlgrabber/4.1.0;
+  };
+  urlman = {
+    "2.0.2" = import ./overrides/urlman/2.0.2;
   };
   urlnorm = {
     "1.1.4" = import ./overrides/urlnorm/1.1.4;
@@ -15178,6 +22046,12 @@
   user-agent = {
     "0.1.10" = import ./overrides/user-agent/0.1.10;
   };
+  userinput = {
+    "1.0.22" = import ./overrides/userinput/1.0.22;
+  };
+  usersettings = {
+    "1.1.5" = import ./overrides/usersettings/1.1.5;
+  };
   ush = {
     "4.1.0" = import ./overrides/ush/4.1.0;
   };
@@ -15220,6 +22094,15 @@
   uwsgidecorators = {
     "1.1.0" = import ./overrides/uwsgidecorators/1.1.0;
   };
+  uxsim = {
+    "1.5.0" = import ./overrides/uxsim/1.5.0;
+  };
+  v20 = {
+    "3.0.25.0" = import ./overrides/v20/3.0.25.0;
+  };
+  vaa = {
+    "0.2.1" = import ./overrides/vaa/0.2.1;
+  };
   vacuum-map-parser-base = {
     "0.1.3" = import ./overrides/vacuum-map-parser-base/0.1.3;
   };
@@ -15240,6 +22123,9 @@
   };
   validr = {
     "1.2.2" = import ./overrides/validr/1.2.2;
+  };
+  valley = {
+    "1.7" = import ./overrides/valley/1.7;
   };
   vallox-websocket-api = {
     "5.3.0" = import ./overrides/vallox-websocket-api/5.3.0;
@@ -15271,8 +22157,14 @@
   vcstool = {
     "0.3.0" = import ./overrides/vcstool/0.3.0;
   };
+  vcver = {
+    "0.2.12" = import ./overrides/vcver/0.2.12;
+  };
   vcversioner = {
     "2.16.0.0" = import ./overrides/vcversioner/2.16.0.0;
+  };
+  vdf = {
+    "3.4" = import ./overrides/vdf/3.4;
   };
   vdirsyncer = {
     "0.19.2" = import ./overrides/vdirsyncer/0.19.2;
@@ -15295,6 +22187,12 @@
   vega = {
     "4.0.0" = import ./overrides/vega/4.0.0;
   };
+  vega-datasets = {
+    "0.9.0" = import ./overrides/vega-datasets/0.9.0;
+  };
+  velbus-aio = {
+    "2024.7.6" = import ./overrides/velbus-aio/2024.7.6;
+  };
   venn = {
     "0.1.3" = import ./overrides/venn/0.1.3;
   };
@@ -15311,8 +22209,14 @@
   verlib = {
     "0.1" = import ./overrides/verlib/0.1;
   };
+  versionfinder = {
+    "1.1.1" = import ./overrides/versionfinder/1.1.1;
+  };
   versioningit = {
     "3.1.2" = import ./overrides/versioningit/3.1.2;
+  };
+  versiontag = {
+    "1.2.0" = import ./overrides/versiontag/1.2.0;
   };
   versiontools = {
     "1.9.1" = import ./overrides/versiontools/1.9.1;
@@ -15332,6 +22236,9 @@
   videocr = {
     "0.1.6" = import ./overrides/videocr/0.1.6;
   };
+  vidstab = {
+    "1.7.4" = import ./overrides/vidstab/1.7.4;
+  };
   vilfo-api-client = {
     "0.5.0" = import ./overrides/vilfo-api-client/0.5.0;
   };
@@ -15341,8 +22248,14 @@
   vincenty = {
     "0.1.4" = import ./overrides/vincenty/0.1.4;
   };
+  vine = {
+    "5.1.0" = import ./overrides/vine/5.1.0;
+  };
   vinplots = {
     "0.0.75" = import ./overrides/vinplots/0.0.75;
+  };
+  virt-firmware = {
+    "24.7" = import ./overrides/virt-firmware/24.7;
   };
   virtstrap-core = {
     "0.3.16" = import ./overrides/virtstrap-core/0.3.16;
@@ -15354,8 +22267,17 @@
     "0.18.0.2" = import ./overrides/virtualchain/0.18.0.2;
     "20.0.1.0" = import ./overrides/virtualchain/20.0.1.0;
   };
+  virtualenv = {
+    "20.26.4" = import ./overrides/virtualenv/20.26.4;
+  };
+  virtualenv-clone = {
+    "0.5.7" = import ./overrides/virtualenv-clone/0.5.7;
+  };
   virtualenvwrapper = {
     "6.1.0" = import ./overrides/virtualenvwrapper/6.1.0;
+  };
+  visaplan-plone-base = {
+    "1.1" = import ./overrides/visaplan-plone-base/1.1;
   };
   visaplan-plone-tools = {
     "1.5.3" = import ./overrides/visaplan-plone-tools/1.5.3;
@@ -15371,6 +22293,9 @@
   };
   visidata = {
     "3.0.2" = import ./overrides/visidata/3.0.2;
+  };
+  visions = {
+    "0.7.6" = import ./overrides/visions/0.7.6;
   };
   visitor = {
     "0.1.3" = import ./overrides/visitor/0.1.3;
@@ -15389,6 +22314,9 @@
   };
   vivisect-vstruct-wb = {
     "1.0.3" = import ./overrides/vivisect-vstruct-wb/1.0.3;
+  };
+  vk = {
+    "3.0" = import ./overrides/vk/3.0;
   };
   vk-api = {
     "11.9.9" = import ./overrides/vk-api/11.9.9;
@@ -15432,8 +22360,14 @@
   volkszaehler = {
     "0.4.0" = import ./overrides/volkszaehler/0.4.0;
   };
+  voluptuous = {
+    "0.15.2" = import ./overrides/voluptuous/0.15.2;
+  };
   voluptuous-serialize = {
     "2.6.0" = import ./overrides/voluptuous-serialize/2.6.0;
+  };
+  voluptuous-stubs = {
+    "0.1.1" = import ./overrides/voluptuous-stubs/0.1.1;
   };
   volvooncall = {
     "0.10.4" = import ./overrides/volvooncall/0.10.4;
@@ -15454,6 +22388,15 @@
   vpk = {
     "1.4.0" = import ./overrides/vpk/1.4.0;
   };
+  vprof = {
+    "0.38" = import ./overrides/vprof/0.38;
+  };
+  vpype = {
+    "1.14.0" = import ./overrides/vpype/1.14.0;
+  };
+  vsts = {
+    "0.1.25" = import ./overrides/vsts/0.1.25;
+  };
   vsts-cd-manager = {
     "1.0.2" = import ./overrides/vsts-cd-manager/1.0.2;
   };
@@ -15463,6 +22406,15 @@
   vsure = {
     "2.6.7" = import ./overrides/vsure/2.6.7;
   };
+  vsutil = {
+    "0.8.0" = import ./overrides/vsutil/0.8.0;
+  };
+  vulture = {
+    "2.11" = import ./overrides/vulture/2.11;
+  };
+  vumi = {
+    "0.6.19" = import ./overrides/vumi/0.6.19;
+  };
   w1thermsensor = {
     "2.3.0" = import ./overrides/w1thermsensor/2.3.0;
   };
@@ -15471,6 +22423,21 @@
   };
   wagon = {
     "1.0.1" = import ./overrides/wagon/1.0.1;
+  };
+  wagtail = {
+    "6.2.1" = import ./overrides/wagtail/6.2.1;
+  };
+  wagtail-autocomplete = {
+    "0.11.0" = import ./overrides/wagtail-autocomplete/0.11.0;
+  };
+  wagtail-cache = {
+    "2.5.1" = import ./overrides/wagtail-cache/2.5.1;
+  };
+  wagtail-factories = {
+    "4.2.1" = import ./overrides/wagtail-factories/4.2.1;
+  };
+  wagtail-generic-chooser = {
+    "0.6.1" = import ./overrides/wagtail-generic-chooser/0.6.1;
   };
   wagtail-modeladmin = {
     "2.0.0" = import ./overrides/wagtail-modeladmin/2.0.0;
@@ -15487,17 +22454,26 @@
   walrus = {
     "0.9.4" = import ./overrides/walrus/0.9.4;
   };
+  warble = {
+    "1.2.9" = import ./overrides/warble/1.2.9;
+  };
   warcio = {
     "1.7.4" = import ./overrides/warcio/1.7.4;
   };
   watchgod = {
     "0.6" = import ./overrides/watchgod/0.6;
   };
+  watchmen-rest = {
+    "17.0.3" = import ./overrides/watchmen-rest/17.0.3;
+  };
   watson-common = {
     "1.6.3" = import ./overrides/watson-common/1.6.3;
   };
   wavedrom = {
     "2.0.3.post3" = import ./overrides/wavedrom/2.0.3.post3;
+  };
+  wavelink = {
+    "3.4.1" = import ./overrides/wavelink/3.4.1;
   };
   wavio = {
     "0.0.9" = import ./overrides/wavio/0.0.9;
@@ -15523,14 +22499,32 @@
   weakrefmethod = {
     "1.0.3" = import ./overrides/weakrefmethod/1.0.3;
   };
+  weasel = {
+    "0.4.1" = import ./overrides/weasel/0.4.1;
+  };
+  weasyprint = {
+    "62.3" = import ./overrides/weasyprint/62.3;
+  };
+  web-fragments = {
+    "2.2.0" = import ./overrides/web-fragments/2.2.0;
+  };
+  web-py = {
+    "0.62" = import ./overrides/web-py/0.62;
+  };
   web3 = {
     "7.2.0" = import ./overrides/web3/7.2.0;
+  };
+  webagt = {
+    "0.2.3" = import ./overrides/webagt/0.2.3;
   };
   webapp2 = {
     "2.5.2" = import ./overrides/webapp2/2.5.2;
   };
   webargs = {
     "8.4.0" = import ./overrides/webargs/8.4.0;
+  };
+  webauthn = {
+    "2.2.0" = import ./overrides/webauthn/2.2.0;
   };
   webbot = {
     "0.34" = import ./overrides/webbot/0.34;
@@ -15541,6 +22535,9 @@
   webcouturier-dropdownmenu = {
     "3.0.2" = import ./overrides/webcouturier-dropdownmenu/3.0.2;
   };
+  webdataset = {
+    "0.2.100" = import ./overrides/webdataset/0.2.100;
+  };
   webdav4 = {
     "0.10.0" = import ./overrides/webdav4/0.10.0;
   };
@@ -15549,6 +22546,12 @@
   };
   webdriver-manager = {
     "4.0.2" = import ./overrides/webdriver-manager/4.0.2;
+  };
+  webdriverdownloader = {
+    "1.1.0.4" = import ./overrides/webdriverdownloader/1.1.0.4;
+  };
+  weberror = {
+    "0.13.1" = import ./overrides/weberror/0.13.1;
   };
   webexteamssdk = {
     "1.7" = import ./overrides/webexteamssdk/1.7;
@@ -15596,6 +22599,18 @@
   webthing-ws = {
     "0.2.0" = import ./overrides/webthing-ws/0.2.0;
   };
+  webull-python-sdk-core = {
+    "0.1.8" = import ./overrides/webull-python-sdk-core/0.1.8;
+  };
+  webvtt-py = {
+    "0.5.1" = import ./overrides/webvtt-py/0.5.1;
+  };
+  wechatpy = {
+    "1.8.18" = import ./overrides/wechatpy/1.8.18;
+  };
+  wf-core-data-python = {
+    "1.6.0" = import ./overrides/wf-core-data-python/1.6.0;
+  };
   wf-cv-utils = {
     "3.6.3" = import ./overrides/wf-cv-utils/3.6.3;
   };
@@ -15605,11 +22620,20 @@
   wf-video-io = {
     "3.4.3" = import ./overrides/wf-video-io/3.4.3;
   };
+  wfdb = {
+    "4.1.2" = import ./overrides/wfdb/4.1.2;
+  };
+  wgconfig = {
+    "1.0.4" = import ./overrides/wgconfig/1.0.4;
+  };
   wget = {
     "3.2" = import ./overrides/wget/3.2;
   };
   whaaaaat = {
     "0.5.2" = import ./overrides/whaaaaat/0.5.2;
+  };
+  wheel = {
+    "0.44.0" = import ./overrides/wheel/0.44.0;
   };
   wheel-filename = {
     "1.4.1" = import ./overrides/wheel-filename/1.4.1;
@@ -15623,11 +22647,23 @@
   whisper = {
     "1.1.10" = import ./overrides/whisper/1.1.10;
   };
+  whiteboxgui = {
+    "2.3.0" = import ./overrides/whiteboxgui/2.3.0;
+  };
+  whitenoise = {
+    "6.7.0" = import ./overrides/whitenoise/6.7.0;
+  };
   whois = {
     "1.20240129.2" = import ./overrides/whois/1.20240129.2;
   };
   whylogs-sketching = {
     "3.4.1.dev3" = import ./overrides/whylogs-sketching/3.4.1.dev3;
+  };
+  wicked = {
+    "1.1.12" = import ./overrides/wicked/1.1.12;
+  };
+  widgetsnbextension = {
+    "4.0.13" = import ./overrides/widgetsnbextension/4.0.13;
   };
   widlparser = {
     "1.1.5" = import ./overrides/widlparser/1.1.5;
@@ -15637,6 +22673,9 @@
   };
   wikipedia-api = {
     "0.7.1" = import ./overrides/wikipedia-api/0.7.1;
+  };
+  wikitextparser = {
+    "0.56.2" = import ./overrides/wikitextparser/0.56.2;
   };
   winacl = {
     "0.1.9" = import ./overrides/winacl/0.1.9;
@@ -15652,6 +22691,9 @@
   };
   winsspi = {
     "0.0.11" = import ./overrides/winsspi/0.0.11;
+  };
+  wipac-mqclient = {
+    "1.0.1" = import ./overrides/wipac-mqclient/1.0.1;
   };
   wireless = {
     "0.3.3" = import ./overrides/wireless/0.3.3;
@@ -15695,6 +22737,9 @@
   wordcloud = {
     "1.9.3" = import ./overrides/wordcloud/1.9.3;
   };
+  wordfreq = {
+    "3.1.1" = import ./overrides/wordfreq/3.1.1;
+  };
   wordninja = {
     "2.0.0" = import ./overrides/wordninja/2.0.0;
   };
@@ -15706,6 +22751,9 @@
   };
   workerpool = {
     "0.9.4" = import ./overrides/workerpool/0.9.4;
+  };
+  wptools = {
+    "0.4.17" = import ./overrides/wptools/0.4.17;
   };
   wrapt-timeout-decorator = {
     "1.5.1" = import ./overrides/wrapt-timeout-decorator/1.5.1;
@@ -15739,6 +22787,15 @@
   };
   wunsen = {
     "0.0.3" = import ./overrides/wunsen/0.0.3;
+  };
+  wurlitzer = {
+    "3.1.1" = import ./overrides/wurlitzer/3.1.1;
+  };
+  wurst = {
+    "0.4" = import ./overrides/wurst/0.4;
+  };
+  wuttaweb = {
+    "0.16.1" = import ./overrides/wuttaweb/0.16.1;
   };
   wuttjamaican = {
     "0.13.3" = import ./overrides/wuttjamaican/0.13.3;
@@ -15786,6 +22843,15 @@
   xarray = {
     "2024.7.0" = import ./overrides/xarray/2024.7.0;
   };
+  xattr = {
+    "1.1.0" = import ./overrides/xattr/1.1.0;
+  };
+  xblock-utils = {
+    "4.0.0" = import ./overrides/xblock-utils/4.0.0;
+  };
+  xbob-db-verification-filelist = {
+    "1.3.5" = import ./overrides/xbob-db-verification-filelist/1.3.5;
+  };
   xbob-db-verification-utils = {
     "1.0.1" = import ./overrides/xbob-db-verification-utils/1.0.1;
   };
@@ -15797,6 +22863,12 @@
   };
   xclim = {
     "0.52.0" = import ./overrides/xclim/0.52.0;
+  };
+  xdg = {
+    "6.0.0" = import ./overrides/xdg/6.0.0;
+  };
+  xdg-base-dirs = {
+    "6.0.1" = import ./overrides/xdg-base-dirs/6.0.1;
   };
   xdis = {
     "6.1.1" = import ./overrides/xdis/6.1.1;
@@ -15813,6 +22885,12 @@
   xformers = {
     "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
   };
+  xgcm = {
+    "0.8.1" = import ./overrides/xgcm/0.8.1;
+  };
+  xhtml2pdf = {
+    "0.2.16" = import ./overrides/xhtml2pdf/0.2.16;
+  };
   xiaomi-ble = {
     "0.32.0" = import ./overrides/xiaomi-ble/0.32.0;
   };
@@ -15822,8 +22900,20 @@
   xkbcommon = {
     "1.5.1" = import ./overrides/xkbcommon/1.5.1;
   };
+  xknxproject = {
+    "3.7.1" = import ./overrides/xknxproject/3.7.1;
+  };
+  xlib = {
+    "0.21" = import ./overrides/xlib/0.21;
+  };
   xlsx2csv = {
     "0.8.3" = import ./overrides/xlsx2csv/0.8.3;
+  };
+  xlutils = {
+    "2.0.0" = import ./overrides/xlutils/2.0.0;
+  };
+  xlwt = {
+    "1.3.0" = import ./overrides/xlwt/1.3.0;
   };
   xlwt-future = {
     "0.8.0" = import ./overrides/xlwt-future/0.8.0;
@@ -15840,6 +22930,9 @@
   xmlbuilder = {
     "1.0" = import ./overrides/xmlbuilder/1.0;
   };
+  xmltodict = {
+    "0.13.0" = import ./overrides/xmltodict/0.13.0;
+  };
   xmodem = {
     "0.4.7" = import ./overrides/xmodem/0.4.7;
   };
@@ -15854,6 +22947,9 @@
   };
   xonsh = {
     "0.18.3" = import ./overrides/xonsh/0.18.3;
+  };
+  xpinyin = {
+    "0.7.6" = import ./overrides/xpinyin/0.7.6;
   };
   xrootd = {
     "5.7.1" = import ./overrides/xrootd/5.7.1;
@@ -15873,6 +22969,27 @@
   xxhash = {
     "2.0.2" = import ./overrides/xxhash/2.0.2;
   };
+  y-py = {
+    "0.6.2" = import ./overrides/y-py/0.6.2;
+  };
+  yabadaba = {
+    "0.2.2" = import ./overrides/yabadaba/0.2.2;
+  };
+  yacl = {
+    "0.5.0" = import ./overrides/yacl/0.5.0;
+  };
+  yacman = {
+    "0.9.3" = import ./overrides/yacman/0.9.3;
+  };
+  yacs = {
+    "0.1.8" = import ./overrides/yacs/0.1.8;
+  };
+  yafowil-plone = {
+    "3.0.0" = import ./overrides/yafowil-plone/3.0.0;
+  };
+  yafowil-widget-dict = {
+    "1.8" = import ./overrides/yafowil-widget-dict/1.8;
+  };
   yagmail = {
     "0.15.293" = import ./overrides/yagmail/0.15.293;
   };
@@ -15888,6 +23005,9 @@
   yahooweather = {
     "0.10" = import ./overrides/yahooweather/0.10;
   };
+  yamale = {
+    "5.2.1" = import ./overrides/yamale/5.2.1;
+  };
   yaml-config-builder = {
     "8.3.0" = import ./overrides/yaml-config-builder/8.3.0;
   };
@@ -15896,6 +23016,15 @@
   };
   yamlconf = {
     "0.2.6" = import ./overrides/yamlconf/0.2.6;
+  };
+  yamlfix = {
+    "1.17.0" = import ./overrides/yamlfix/1.17.0;
+  };
+  yamlish = {
+    "0.18.1" = import ./overrides/yamlish/0.18.1;
+  };
+  yamlns = {
+    "0.11.0" = import ./overrides/yamlns/0.11.0;
   };
   yamlreader = {
     "3.0.4" = import ./overrides/yamlreader/3.0.4;
@@ -15911,6 +23040,18 @@
   };
   yaqc = {
     "2023.6.0" = import ./overrides/yaqc/2023.6.0;
+  };
+  yara-python = {
+    "4.5.1" = import ./overrides/yara-python/4.5.1;
+  };
+  yaramod = {
+    "3.23.0" = import ./overrides/yaramod/3.23.0;
+  };
+  yargy = {
+    "0.16.0" = import ./overrides/yargy/0.16.0;
+  };
+  yark = {
+    "1.2.10" = import ./overrides/yark/1.2.10;
   };
   yarl = {
     "1.8.1" = import ./overrides/yarl/1.8.1;
@@ -15936,6 +23077,9 @@
   yeelight = {
     "0.7.14" = import ./overrides/yeelight/0.7.14;
   };
+  yfinance = {
+    "0.2.43" = import ./overrides/yfinance/0.2.43;
+  };
   yoctopuce = {
     "2.0.62554" = import ./overrides/yoctopuce/2.0.62554;
   };
@@ -15954,11 +23098,38 @@
   you-get = {
     "0.4.1730" = import ./overrides/you-get/0.4.1730;
   };
+  youless-api = {
+    "2.1.2" = import ./overrides/youless-api/2.1.2;
+  };
+  your = {
+    "0.6.7" = import ./overrides/your/0.6.7;
+  };
+  youseedee = {
+    "0.5.3" = import ./overrides/youseedee/0.5.3;
+  };
   youtokentome = {
     "1.0.6" = import ./overrides/youtokentome/1.0.6;
   };
+  youtube-search = {
+    "2.1.2" = import ./overrides/youtube-search/2.1.2;
+  };
+  youtube-search-python = {
+    "1.6.6" = import ./overrides/youtube-search-python/1.6.6;
+  };
+  youtube-transcript-api = {
+    "0.6.2" = import ./overrides/youtube-transcript-api/0.6.2;
+  };
   yowsup2 = {
     "3.2.3" = import ./overrides/yowsup2/3.2.3;
+  };
+  ytmusicapi = {
+    "1.8.1" = import ./overrides/ytmusicapi/1.8.1;
+  };
+  yubico-client = {
+    "1.13.0" = import ./overrides/yubico-client/1.13.0;
+  };
+  yubikey-manager = {
+    "5.5.1" = import ./overrides/yubikey-manager/5.5.1;
   };
   yurl = {
     "1.0.0" = import ./overrides/yurl/1.0.0;
@@ -15972,8 +23143,14 @@
   z3c-i18n = {
     "0.1.2" = import ./overrides/z3c-i18n/0.1.2;
   };
+  z3c-json = {
+    "0.5.5" = import ./overrides/z3c-json/0.5.5;
+  };
   z3c-language-switch = {
     "1.1.0" = import ./overrides/z3c-language-switch/1.1.0;
+  };
+  z3c-recipe-scripts = {
+    "1.0.1" = import ./overrides/z3c-recipe-scripts/1.0.1;
   };
   zbox = {
     "1.2.0" = import ./overrides/zbox/1.2.0;
@@ -16017,20 +23194,35 @@
   zdesk = {
     "2.8.1" = import ./overrides/zdesk/2.8.1;
   };
+  zdppy-log = {
+    "0.2.1" = import ./overrides/zdppy-log/0.2.1;
+  };
   zeam-component = {
     "1.0" = import ./overrides/zeam-component/1.0;
   };
   zeam-form-base = {
     "1.4.1" = import ./overrides/zeam-form-base/1.4.1;
   };
+  zeam-form-ztk = {
+    "1.4.0" = import ./overrides/zeam-form-ztk/1.4.0;
+  };
+  zenlog = {
+    "1.1" = import ./overrides/zenlog/1.1;
+  };
   zenpy = {
     "2.0.52" = import ./overrides/zenpy/2.0.52;
+  };
+  zephyr-python-api = {
+    "0.1.0" = import ./overrides/zephyr-python-api/0.1.0;
   };
   zeroc-ice = {
     "3.6.5" = import ./overrides/zeroc-ice/3.6.5;
   };
   zeroconf = {
     "0.134.0" = import ./overrides/zeroconf/0.134.0;
+  };
+  zerorpc = {
+    "0.6.3" = import ./overrides/zerorpc/0.6.3;
   };
   zerotk-zops = {
     "0.5.3" = import ./overrides/zerotk-zops/0.5.3;
@@ -16040,6 +23232,15 @@
   };
   zhconv = {
     "1.4.3" = import ./overrides/zhconv/1.4.3;
+  };
+  zhinst = {
+    "24.7.2" = import ./overrides/zhinst/24.7.2;
+  };
+  zhon = {
+    "2.0.2" = import ./overrides/zhon/2.0.2;
+  };
+  ziamath = {
+    "0.11" = import ./overrides/ziamath/0.11;
   };
   zipfile2 = {
     "0.0.12" = import ./overrides/zipfile2/0.0.12;
@@ -16059,6 +23260,9 @@
   zm-py = {
     "0.5.4" = import ./overrides/zm-py/0.5.4;
   };
+  zmail = {
+    "0.2.8" = import ./overrides/zmail/0.2.8;
+  };
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
   };
@@ -16068,6 +23272,12 @@
   zodbcode = {
     "3.4.0" = import ./overrides/zodbcode/3.4.0;
   };
+  zodbupdate = {
+    "2.0" = import ./overrides/zodbupdate/2.0;
+  };
+  zodburi = {
+    "2.6.0" = import ./overrides/zodburi/2.6.0;
+  };
   zope-app-annotation = {
     "3.4.0" = import ./overrides/zope-app-annotation/3.4.0;
   };
@@ -16076,6 +23286,9 @@
   };
   zope-app-interface = {
     "3.6.0" = import ./overrides/zope-app-interface/3.6.0;
+  };
+  zope-app-keyreference = {
+    "3.6.1" = import ./overrides/zope-app-keyreference/3.6.1;
   };
   zope-app-securitypolicy = {
     "3.6.1" = import ./overrides/zope-app-securitypolicy/3.6.1;
@@ -16092,11 +23305,23 @@
   zope-fanstatic = {
     "3.0.0" = import ./overrides/zope-fanstatic/3.0.0;
   };
+  zope-rdb = {
+    "3.5.0" = import ./overrides/zope-rdb/3.5.0;
+  };
+  zope-thread = {
+    "3.4" = import ./overrides/zope-thread/3.4;
+  };
   zope-xmlpickle = {
     "3.4.0" = import ./overrides/zope-xmlpickle/3.4.0;
   };
   zope2 = {
     "4.0" = import ./overrides/zope2/4.0;
+  };
+  zopflipy = {
+    "1.10" = import ./overrides/zopflipy/1.10;
+  };
+  zopyx-txng3-ext = {
+    "4.0.0" = import ./overrides/zopyx-txng3-ext/4.0.0;
   };
   zstandard = {
     "0.23.0" = import ./overrides/zstandard/0.23.0;
@@ -16124,6 +23349,9 @@
   };
   zwave-js-server-python = {
     "0.58.0" = import ./overrides/zwave-js-server-python/0.58.0;
+  };
+  zwave-me-ws = {
+    "0.4.3" = import ./overrides/zwave-me-ws/0.4.3;
   };
   zxcvbn = {
     "4.4.28" = import ./overrides/zxcvbn/4.4.28;

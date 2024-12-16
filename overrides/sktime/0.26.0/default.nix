@@ -1,6 +1,8 @@
-{ final, ... }:
-_old: {
+{final, pkgs, ...}
+        : old: {
   postInstall = ''
     rm $out/lib/python${final.python.pythonVersion}/site-packages/docs/source/conf.py
   '';
 }
+
+        

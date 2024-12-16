@@ -1,6 +1,5 @@
-{ final, pkgs, ... }:
-old:
-let
+{final, pkgs, ...}
+        : old: let
   localPython = final.python.withPackages (
     ps: with ps; [
       setuptools
@@ -59,3 +58,5 @@ in
 
   '';
 }
+
+        
