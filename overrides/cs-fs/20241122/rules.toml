@@ -1,0 +1,1 @@
+BuildSystems = [ "setuptools", "trove-classifiers", "wheel",]

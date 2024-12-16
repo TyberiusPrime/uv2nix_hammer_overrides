@@ -3697,6 +3697,9 @@
   cs-filestate = {
     "20181107" = import ./overrides/cs-filestate/20181107;
   };
+  cs-fs = {
+    "20241122" = import ./overrides/cs-fs/20241122;
+  };
   cs-sh = {
     "20210316" = import ./overrides/cs-sh/20210316;
   };
