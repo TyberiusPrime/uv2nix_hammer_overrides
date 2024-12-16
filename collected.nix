@@ -9672,6 +9672,9 @@
   kser = {
     "0.8.25" = import ./overrides/kser/0.8.25;
   };
+  ksimpleapi = {
+    "0.0.41" = import ./overrides/ksimpleapi/0.0.41;
+  };
   kss = {
     "6.0.4" = import ./overrides/kss/6.0.4;
   };
