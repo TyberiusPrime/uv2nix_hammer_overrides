@@ -1647,6 +1647,7 @@
   };
   click-didyoumean = {
     "0.0.3" = import ./overrides/click-didyoumean/0.0.3;
+    "0.3.1" = import ./overrides/click-didyoumean/0.3.1;
   };
   click-threading = {
     "0.5.0" = import ./overrides/click-threading/0.5.0;
