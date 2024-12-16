@@ -3344,6 +3344,9 @@
   dlx = {
     "1.0.4" = import ./overrides/dlx/1.0.4;
   };
+  dm-env = {
+    "1.6" = import ./overrides/dm-env/1.6;
+  };
   dm-reuse = {
     "2.2" = import ./overrides/dm-reuse/2.2;
   };
