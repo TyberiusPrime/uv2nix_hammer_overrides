@@ -16584,6 +16584,9 @@
   pyregion = {
     "2.2.0" = import ./overrides/pyregion/2.2.0;
   };
+  pyrender = {
+    "0.1.45" = import ./overrides/pyrender/0.1.45;
+  };
   pyrepl = {
     "0.9.0" = import ./overrides/pyrepl/0.9.0;
   };
