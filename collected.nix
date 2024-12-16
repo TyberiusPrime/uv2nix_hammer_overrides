@@ -4271,6 +4271,9 @@
   digextractor = {
     "0.4.0" = import ./overrides/digextractor/0.4.0;
   };
+  digi-xbee = {
+    "1.5.0" = import ./overrides/digi-xbee/1.5.0;
+  };
   digsparkutil = {
     "1.0.23" = import ./overrides/digsparkutil/1.0.23;
   };
