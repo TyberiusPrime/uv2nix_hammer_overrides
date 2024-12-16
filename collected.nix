@@ -9992,6 +9992,9 @@
   langdetect = {
     "1.0.9" = import ./overrides/langdetect/1.0.9;
   };
+  lange = {
+    "1.230203.2" = import ./overrides/lange/1.230203.2;
+  };
   langid = {
     "1.1.6" = import ./overrides/langid/1.1.6;
   };
