@@ -6480,6 +6480,9 @@
   lapjv = {
     "1.3.27" = import ./overrides/lapjv/1.3.27;
   };
+  lark = {
+    "1.2.2" = import ./overrides/lark/1.2.2;
+  };
   lark-parser = {
     "0.7.8" = import ./overrides/lark-parser/0.7.8;
     "0.9.0" = import ./overrides/lark-parser/0.9.0;
