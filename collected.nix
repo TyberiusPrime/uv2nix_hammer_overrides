@@ -4021,6 +4021,9 @@
   facepy = {
     "1.0.12" = import ./overrides/facepy/1.0.12;
   };
+  facexlib = {
+    "0.3.0" = import ./overrides/facexlib/0.3.0;
+  };
   factor-analyzer = {
     "0.5.1" = import ./overrides/factor-analyzer/0.5.1;
   };
