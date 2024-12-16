@@ -14716,6 +14716,9 @@
   ptemcee = {
     "1.0.0" = import ./overrides/ptemcee/1.0.0;
   };
+  ptera = {
+    "1.4.1" = import ./overrides/ptera/1.4.1;
+  };
   ptest = {
     "2.0.3" = import ./overrides/ptest/2.0.3;
   };
