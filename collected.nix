@@ -9342,6 +9342,9 @@
   products-templatefields = {
     "1.2.5" = import ./overrides/products-templatefields/1.2.5;
   };
+  prody = {
+    "2.4.1" = import ./overrides/prody/2.4.1;
+  };
   profig = {
     "0.5.1" = import ./overrides/profig/0.5.1;
   };
