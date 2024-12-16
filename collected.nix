@@ -6371,6 +6371,9 @@
   keras-self-attention = {
     "0.51.0" = import ./overrides/keras-self-attention/0.51.0;
   };
+  keras-tcn = {
+    "3.5.0" = import ./overrides/keras-tcn/3.5.0;
+  };
   keras-transformer = {
     "0.40.0" = import ./overrides/keras-transformer/0.40.0;
   };
