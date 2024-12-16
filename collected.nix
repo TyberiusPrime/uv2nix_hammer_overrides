@@ -5429,6 +5429,9 @@
   humblewx = {
     "0.2.2" = import ./overrides/humblewx/0.2.2;
   };
+  humbug = {
+    "0.3.2" = import ./overrides/humbug/0.3.2;
+  };
   humilis = {
     "1.7.1" = import ./overrides/humilis/1.7.1;
   };
