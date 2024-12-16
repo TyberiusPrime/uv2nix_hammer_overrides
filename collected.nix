@@ -22880,6 +22880,9 @@
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
+  varname = {
+    "0.13.3" = import ./overrides/varname/0.13.3;
+  };
   varz = {
     "0.8.1" = import ./overrides/varz/0.8.1;
   };
