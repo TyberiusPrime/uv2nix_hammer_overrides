@@ -10765,6 +10765,9 @@
   pyreadline = {
     "2.1" = import ./overrides/pyreadline/2.1;
   };
+  pyrecord = {
+    "1.0.1" = import ./overrides/pyrecord/1.0.1;
+  };
   pyrect = {
     "0.2.0" = import ./overrides/pyrect/0.2.0;
   };
