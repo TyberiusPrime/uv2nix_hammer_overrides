@@ -14318,6 +14318,9 @@
   total-ordering = {
     "0.1.0" = import ./overrides/total-ordering/0.1.0;
   };
+  tox = {
+    "4.18.1" = import ./overrides/tox/4.18.1;
+  };
   toyplot = {
     "1.0.3" = import ./overrides/toyplot/1.0.3;
   };
