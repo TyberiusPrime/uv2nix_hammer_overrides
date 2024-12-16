@@ -2454,6 +2454,9 @@
   caveclient = {
     "5.29.1" = import ./overrides/caveclient/5.29.1;
   };
+  cbeams = {
+    "1.0.3" = import ./overrides/cbeams/1.0.3;
+  };
   cbor = {
     "1.0.0" = import ./overrides/cbor/1.0.0;
   };
