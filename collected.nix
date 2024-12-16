@@ -12154,6 +12154,9 @@
   mysmallutils = {
     "2.0.20" = import ./overrides/mysmallutils/2.0.20;
   };
+  mysql = {
+    "0.0.3" = import ./overrides/mysql/0.0.3;
+  };
   mysql-connector = {
     "2.2.9" = import ./overrides/mysql-connector/2.2.9;
   };
