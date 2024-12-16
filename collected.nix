@@ -13443,6 +13443,9 @@
   pandas-ml-common = {
     "0.2.7" = import ./overrides/pandas-ml-common/0.2.7;
   };
+  pandas-plink = {
+    "2.3.1" = import ./overrides/pandas-plink/2.3.1;
+  };
   pandasql = {
     "0.7.3" = import ./overrides/pandasql/0.7.3;
   };
