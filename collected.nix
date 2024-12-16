@@ -21078,6 +21078,9 @@
   terminado = {
     "0.18.1" = import ./overrides/terminado/0.18.1;
   };
+  termgraph = {
+    "0.5.3" = import ./overrides/termgraph/0.5.3;
+  };
   terminal = {
     "0.4.0" = import ./overrides/terminal/0.4.0;
   };
