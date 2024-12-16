@@ -9240,6 +9240,9 @@
   products-silvametadata = {
     "3.0.1" = import ./overrides/products-silvametadata/3.0.1;
   };
+  products-talesfield = {
+    "1.1.3" = import ./overrides/products-talesfield/1.1.3;
+  };
   products-templatefields = {
     "1.2.5" = import ./overrides/products-templatefields/1.2.5;
   };
