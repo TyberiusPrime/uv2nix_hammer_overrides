@@ -8,6 +8,9 @@
   "3to2" = {
     "1.1.1" = import ./overrides/3to2/1.1.1;
   };
+  a2wsgi = {
+    "1.10.7" = import ./overrides/a2wsgi/1.10.7;
+  };
   aaargh = {
     "0.7.1" = import ./overrides/aaargh/0.7.1;
   };
