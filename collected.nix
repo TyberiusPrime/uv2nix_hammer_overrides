@@ -16519,6 +16519,9 @@
   pytest-clarity = {
     "1.0.1" = import ./overrides/pytest-clarity/1.0.1;
   };
+  pytest-cov = {
+    "5.0.0" = import ./overrides/pytest-cov/5.0.0;
+  };
   pytest-cram = {
     "0.2.2" = import ./overrides/pytest-cram/0.2.2;
   };
