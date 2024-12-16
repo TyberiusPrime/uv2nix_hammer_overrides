@@ -13025,6 +13025,9 @@
   odictliteral = {
     "1.0.0" = import ./overrides/odictliteral/1.0.0;
   };
+  odin = {
+    "2.10" = import ./overrides/odin/2.10;
+  };
   odo = {
     "0.5.0" = import ./overrides/odo/0.5.0;
   };
