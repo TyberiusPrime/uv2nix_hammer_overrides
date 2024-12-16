@@ -3737,6 +3737,9 @@
   easycli = {
     "1.9.3" = import ./overrides/easycli/1.9.3;
   };
+  easygui = {
+    "0.98.3" = import ./overrides/easygui/0.98.3;
+  };
   easyhid = {
     "0.0.10" = import ./overrides/easyhid/0.0.10;
   };
