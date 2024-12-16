@@ -8405,6 +8405,9 @@
   img2pdf = {
     "0.5.1" = import ./overrides/img2pdf/0.5.1;
   };
+  imgaug = {
+    "0.4.0" = import ./overrides/imgaug/0.4.0;
+  };
   imgcat = {
     "0.5.0" = import ./overrides/imgcat/0.5.0;
   };
