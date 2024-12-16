@@ -11577,6 +11577,9 @@
   murmuration = {
     "1.4" = import ./overrides/murmuration/1.4;
   };
+  murmurhash = {
+    "1.0.10" = import ./overrides/murmurhash/1.0.10;
+  };
   muscima = {
     "0.10.0" = import ./overrides/muscima/0.10.0;
   };
