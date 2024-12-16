@@ -9170,6 +9170,9 @@
   jose = {
     "1.0.0" = import ./overrides/jose/1.0.0;
   };
+  josepy = {
+    "1.14.0" = import ./overrides/josepy/1.14.0;
+  };
   journalwatch = {
     "1.1.0" = import ./overrides/journalwatch/1.1.0;
   };
