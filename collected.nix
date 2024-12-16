@@ -2158,6 +2158,9 @@
   connection-pool = {
     "0.0.3" = import ./overrides/connection-pool/0.0.3;
   };
+  connexion = {
+    "3.1.0" = import ./overrides/connexion/3.1.0;
+  };
   connio = {
     "0.2.0" = import ./overrides/connio/0.2.0;
   };
