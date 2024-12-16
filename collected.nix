@@ -17417,6 +17417,9 @@
   pywfa = {
     "0.5.1" = import ./overrides/pywfa/0.5.1;
   };
+  pywifi = {
+    "1.1.12" = import ./overrides/pywifi/1.1.12;
+  };
   pywinpty = {
     "2.0.13" = import ./overrides/pywinpty/2.0.13;
   };
