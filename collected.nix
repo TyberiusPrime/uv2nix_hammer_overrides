@@ -24213,6 +24213,9 @@
   ztfy-jqueryui = {
     "0.7.12" = import ./overrides/ztfy-jqueryui/0.7.12;
   };
+  zulip = {
+    "0.9.0" = import ./overrides/zulip/0.9.0;
+  };
   zuper-commons-z5 = {
     "5.0.11" = import ./overrides/zuper-commons-z5/5.0.11;
   };
