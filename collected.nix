@@ -736,6 +736,9 @@
   anthemav = {
     "1.4.2" = import ./overrides/anthemav/1.4.2;
   };
+  anthropic = {
+    "0.34.2" = import ./overrides/anthropic/0.34.2;
+  };
   antiorm = {
     "1.2.1" = import ./overrides/antiorm/1.2.1;
   };
