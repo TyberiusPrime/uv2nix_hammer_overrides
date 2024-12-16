@@ -14660,6 +14660,9 @@
   py2store = {
     "0.1.20" = import ./overrides/py2store/0.1.20;
   };
+  py3dns = {
+    "4.0.2" = import ./overrides/py3dns/4.0.2;
+  };
   py3exiv2 = {
     "0.12.0" = import ./overrides/py3exiv2/0.12.0;
   };
