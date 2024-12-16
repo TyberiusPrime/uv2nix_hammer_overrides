@@ -412,6 +412,9 @@
   aionotify = {
     "0.3.1" = import ./overrides/aionotify/0.3.1;
   };
+  aionanoleaf = {
+    "0.2.1" = import ./overrides/aionanoleaf/0.2.1;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
