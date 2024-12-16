@@ -10494,6 +10494,9 @@
   pynut2 = {
     "2.1.2" = import ./overrides/pynut2/2.1.2;
   };
+  pynvim = {
+    "0.5.0" = import ./overrides/pynvim/0.5.0;
+  };
   pyo = {
     "1.0.5" = import ./overrides/pyo/1.0.5;
   };
