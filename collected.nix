@@ -2851,6 +2851,9 @@
   django-admin-extra-buttons = {
     "1.5.8" = import ./overrides/django-admin-extra-buttons/1.5.8;
   };
+  django-admin-list-filter-dropdown = {
+    "1.0.3" = import ./overrides/django-admin-list-filter-dropdown/1.0.3;
+  };
   django-admin-multiple-choice-list-filter = {
     "0.1.1" = import ./overrides/django-admin-multiple-choice-list-filter/0.1.1;
   };
