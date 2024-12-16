@@ -1,1 +1,2 @@
 BuildInputs = [ "~literal:!:pkgs.glib", "~literal:!:pkgs.nspr", "~literal:!:pkgs.nss", "~literal:!:pkgs.xorg.libX11",]
+BuildSystems = [ "setuptools",]
