@@ -18889,6 +18889,9 @@
   rql = {
     "0.43.2" = import ./overrides/rql/0.43.2;
   };
+  rq-dashboard = {
+    "0.8.0.2" = import ./overrides/rq-dashboard/0.8.0.2;
+  };
   rrcf = {
     "0.4.4" = import ./overrides/rrcf/0.4.4;
   };
