@@ -4229,6 +4229,9 @@
   fields = {
     "5.0.0" = import ./overrides/fields/5.0.0;
   };
+  fifolock = {
+    "0.0.20" = import ./overrides/fifolock/0.0.20;
+  };
   figurl = {
     "0.2.22" = import ./overrides/figurl/0.2.22;
   };
