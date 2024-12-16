@@ -19625,6 +19625,9 @@
   spidev = {
     "3.6" = import ./overrides/spidev/3.6;
   };
+  spikeextractors = {
+    "0.9.11" = import ./overrides/spikeextractors/0.9.11;
+  };
   spikefeatures = {
     "0.1.2" = import ./overrides/spikefeatures/0.1.2;
   };
