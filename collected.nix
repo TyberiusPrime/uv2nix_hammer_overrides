@@ -11015,6 +11015,9 @@
   python-bugzilla = {
     "3.2.0" = import ./overrides/python-bugzilla/3.2.0;
   };
+  python-can = {
+    "4.4.2" = import ./overrides/python-can/4.4.2;
+  };
   python-cantrips = {
     "1.0.0" = import ./overrides/python-cantrips/1.0.0;
   };
