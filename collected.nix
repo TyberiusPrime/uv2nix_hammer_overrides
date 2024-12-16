@@ -3118,6 +3118,9 @@
   colored-traceback = {
     "0.4.2" = import ./overrides/colored-traceback/0.4.2;
   };
+  colorful = {
+    "0.5.6" = import ./overrides/colorful/0.5.6;
+  };
   colormath = {
     "3.0.0" = import ./overrides/colormath/3.0.0;
   };
