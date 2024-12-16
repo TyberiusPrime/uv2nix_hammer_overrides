@@ -5244,6 +5244,9 @@
   helium = {
     "5.1.0" = import ./overrides/helium/5.1.0;
   };
+  helpdev = {
+    "0.7.1" = import ./overrides/helpdev/0.7.1;
+  };
   helper = {
     "2.5.0" = import ./overrides/helper/2.5.0;
   };
