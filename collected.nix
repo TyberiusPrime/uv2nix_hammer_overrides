@@ -1236,6 +1236,9 @@
   bloscpack = {
     "0.16.0" = import ./overrides/bloscpack/0.16.0;
   };
+  bluemaestro-ble = {
+    "0.2.3" = import ./overrides/bluemaestro-ble/0.2.3;
+  };
   bluepy = {
     "1.3.0" = import ./overrides/bluepy/1.3.0;
   };
