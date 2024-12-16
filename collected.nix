@@ -22809,6 +22809,9 @@
   veryprettytable = {
     "0.8.1" = import ./overrides/veryprettytable/0.8.1;
   };
+  vexmessage = {
+    "0.4.0" = import ./overrides/vexmessage/0.4.0;
+  };
   vext = {
     "0.7.6" = import ./overrides/vext/0.7.6;
   };
