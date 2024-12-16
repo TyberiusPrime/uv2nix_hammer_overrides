@@ -12152,6 +12152,9 @@
   reqif = {
     "0.0.42" = import ./overrides/reqif/0.0.42;
   };
+  requests = {
+    "2.32.3" = import ./overrides/requests/2.32.3;
+  };
   requests-async = {
     "0.6.2" = import ./overrides/requests-async/0.6.2;
   };
