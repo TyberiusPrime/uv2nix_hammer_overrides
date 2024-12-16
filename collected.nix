@@ -19755,6 +19755,9 @@
   sockjs-tornado = {
     "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
   };
+  socksio = {
+    "1.0.0" = import ./overrides/socksio/1.0.0;
+  };
   socksipy-branch = {
     "1.1" = import ./overrides/socksipy-branch/1.1;
   };
