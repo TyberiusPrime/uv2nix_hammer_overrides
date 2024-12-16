@@ -8249,6 +8249,7 @@
     "0.1.2" = import ./overrides/niluclient/0.1.2;
   };
   nimporter = {
+    "1.1.0" = import ./overrides/nimporter/1.1.0;
     "2.0.0" = import ./overrides/nimporter/2.0.0;
   };
   nine = {
