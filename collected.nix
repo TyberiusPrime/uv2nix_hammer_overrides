@@ -2905,6 +2905,9 @@
   clickhouse-cityhash = {
     "1.0.2.4" = import ./overrides/clickhouse-cityhash/1.0.2.4;
   };
+  click-help-colors = {
+    "0.9.4" = import ./overrides/click-help-colors/0.9.4;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
