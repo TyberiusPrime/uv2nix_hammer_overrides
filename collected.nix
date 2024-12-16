@@ -1190,6 +1190,9 @@
     "1.4" = import ./overrides/blinker/1.4;
     "1.8.2" = import ./overrides/blinker/1.8.2;
   };
+  blinkpy = {
+    "0.23.0" = import ./overrides/blinkpy/0.23.0;
+  };
   blist = {
     "1.3.6" = import ./overrides/blist/1.3.6;
   };
