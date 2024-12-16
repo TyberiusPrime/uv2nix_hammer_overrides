@@ -7836,6 +7836,9 @@
   ndms2-client = {
     "0.1.3" = import ./overrides/ndms2-client/0.1.3;
   };
+  ndspy = {
+    "4.1.0" = import ./overrides/ndspy/4.1.0;
+  };
   negspacy = {
     "1.0.4" = import ./overrides/negspacy/1.0.4;
   };
