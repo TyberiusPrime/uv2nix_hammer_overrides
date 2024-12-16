@@ -10171,6 +10171,9 @@
   pyiceberg = {
     "0.7.1" = import ./overrides/pyiceberg/0.7.1;
   };
+  pyimagej = {
+    "1.5.0" = import ./overrides/pyimagej/1.5.0;
+  };
   pyimgur = {
     "0.6.0" = import ./overrides/pyimgur/0.6.0;
   };
