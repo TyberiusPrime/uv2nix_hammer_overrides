@@ -9799,6 +9799,9 @@
   pycflow2dot = {
     "0.2.3" = import ./overrides/pycflow2dot/0.2.3;
   };
+  pycfmodel = {
+    "1.0.0" = import ./overrides/pycfmodel/1.0.0;
+  };
   pychalk = {
     "2.0.1" = import ./overrides/pychalk/2.0.1;
   };
