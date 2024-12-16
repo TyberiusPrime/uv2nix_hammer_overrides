@@ -9761,6 +9761,9 @@
   properties = {
     "0.6.1" = import ./overrides/properties/0.6.1;
   };
+  property-manager = {
+    "3.0" = import ./overrides/property-manager/3.0;
+  };
   propobject = {
     "0.1.3" = import ./overrides/propobject/0.1.3;
   };
