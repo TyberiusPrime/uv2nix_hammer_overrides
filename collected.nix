@@ -15928,6 +15928,9 @@
   pylint-celery = {
     "0.3" = import ./overrides/pylint-celery/0.3;
   };
+  pylint-django = {
+    "2.5.5" = import ./overrides/pylint-django/2.5.5;
+  };
   pylint-flask = {
     "0.6" = import ./overrides/pylint-flask/0.6;
   };
