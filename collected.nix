@@ -20777,6 +20777,9 @@
   tesla-powerwall = {
     "0.5.2" = import ./overrides/tesla-powerwall/0.5.2;
   };
+  termstyle = {
+    "0.1.11" = import ./overrides/termstyle/0.1.11;
+  };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
