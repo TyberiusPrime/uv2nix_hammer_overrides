@@ -10259,6 +10259,9 @@
   pyformance = {
     "0.4" = import ./overrides/pyformance/0.4;
   };
+  pyformlang = {
+    "1.0.10" = import ./overrides/pyformlang/1.0.10;
+  };
   pyfribidi = {
     "0.12.0" = import ./overrides/pyfribidi/0.12.0;
   };
