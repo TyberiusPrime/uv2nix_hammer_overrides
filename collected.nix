@@ -8625,6 +8625,9 @@
   importlib = {
     "1.0.4" = import ./overrides/importlib/1.0.4;
   };
+  importlib-metadata = {
+    "8.4.0" = import ./overrides/importlib-metadata/8.4.0;
+  };
   importlib2 = {
     "3.5.0.2" = import ./overrides/importlib2/3.5.0.2;
   };
