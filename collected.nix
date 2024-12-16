@@ -10063,6 +10063,9 @@
   pygments-style-github = {
     "0.4" = import ./overrides/pygments-style-github/0.4;
   };
+  pygmt = {
+    "0.13.0" = import ./overrides/pygmt/0.13.0;
+  };
   pygnmi = {
     "0.8.14" = import ./overrides/pygnmi/0.8.14;
   };
