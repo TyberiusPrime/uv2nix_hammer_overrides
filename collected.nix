@@ -12223,6 +12223,7 @@
   };
   rq = {
     "1.0" = import ./overrides/rq/1.0;
+    "1.16.2" = import ./overrides/rq/1.16.2;
   };
   rql = {
     "0.43.2" = import ./overrides/rql/0.43.2;
