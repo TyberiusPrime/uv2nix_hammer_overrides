@@ -3277,6 +3277,9 @@
   django-rest-auth = {
     "0.9.5" = import ./overrides/django-rest-auth/0.9.5;
   };
+  django-rest-framework-condition = {
+    "0.1.1" = import ./overrides/django-rest-framework-condition/0.1.1;
+  };
   django-rest-framework-mongoengine = {
     "3.4.1" = import ./overrides/django-rest-framework-mongoengine/3.4.1;
   };
