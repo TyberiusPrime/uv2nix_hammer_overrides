@@ -7150,6 +7150,9 @@
   fusepy = {
     "3.0.1" = import ./overrides/fusepy/3.0.1;
   };
+  fusesoc = {
+    "2.3" = import ./overrides/fusesoc/2.3;
+  };
   future = {
     "0.16.0" = import ./overrides/future/0.16.0;
     "0.18.3" = import ./overrides/future/0.18.3;
