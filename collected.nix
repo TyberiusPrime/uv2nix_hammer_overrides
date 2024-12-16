@@ -18430,6 +18430,9 @@
   rpm-vercmp = {
     "0.1.2" = import ./overrides/rpm-vercmp/0.1.2;
   };
+  rpmfile = {
+    "2.1.0" = import ./overrides/rpmfile/2.1.0;
+  };
   rpmfluff = {
     "0.6.5" = import ./overrides/rpmfluff/0.6.5;
   };
