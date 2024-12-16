@@ -7319,6 +7319,9 @@
   gbdxtools = {
     "0.0.0.1" = import ./overrides/gbdxtools/0.0.0.1;
   };
+  gcal-sync = {
+    "6.1.4" = import ./overrides/gcal-sync/6.1.4;
+  };
   gcloud = {
     "0.18.3" = import ./overrides/gcloud/0.18.3;
   };
