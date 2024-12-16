@@ -5837,6 +5837,9 @@
   imread = {
     "0.7.6" = import ./overrides/imread/0.7.6;
   };
+  imreg-dft = {
+    "2.0.0" = import ./overrides/imreg-dft/2.0.0;
+  };
   imutils = {
     "0.5.4" = import ./overrides/imutils/0.5.4;
   };
