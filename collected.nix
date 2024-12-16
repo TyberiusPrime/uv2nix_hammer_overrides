@@ -3161,6 +3161,9 @@
   collective-js-iframeresizer = {
     "0.4" = import ./overrides/collective-js-iframeresizer/0.4;
   };
+  collective-js-jquery = {
+    "1.3.2.1" = import ./overrides/collective-js-jquery/1.3.2.1;
+  };
   collective-js-jqueryui = {
     "2.2.0" = import ./overrides/collective-js-jqueryui/2.2.0;
   };
