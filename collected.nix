@@ -5722,6 +5722,9 @@
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
+  igraph = {
+    "0.11.6" = import ./overrides/igraph/0.11.6;
+  };
   ihatemoney = {
     "6.1.5" = import ./overrides/ihatemoney/6.1.5;
   };
