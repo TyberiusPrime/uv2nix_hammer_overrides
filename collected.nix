@@ -7845,6 +7845,9 @@
   nptdms = {
     "1.9.0" = import ./overrides/nptdms/1.9.0;
   };
+  nptyping = {
+    "2.5.0" = import ./overrides/nptyping/2.5.0;
+  };
   npyscreen = {
     "4.10.5" = import ./overrides/npyscreen/4.10.5;
   };
