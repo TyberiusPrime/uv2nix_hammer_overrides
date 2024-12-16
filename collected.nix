@@ -14853,6 +14853,9 @@
   py-tlsh = {
     "4.7.2" = import ./overrides/py-tlsh/4.7.2;
   };
+  py-trello = {
+    "0.20.1" = import ./overrides/py-trello/0.20.1;
+  };
   py-ubjson = {
     "0.16.1" = import ./overrides/py-ubjson/0.16.1;
   };
