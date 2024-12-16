@@ -10819,6 +10819,9 @@
   pysrt = {
     "1.1.2" = import ./overrides/pysrt/1.1.2;
   };
+  pyssdb = {
+    "0.4.2" = import ./overrides/pyssdb/0.4.2;
+  };
   pyssim = {
     "0.7" = import ./overrides/pyssim/0.7;
   };
