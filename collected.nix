@@ -15413,6 +15413,9 @@
   yasi = {
     "2.1.2" = import ./overrides/yasi/2.1.2;
   };
+  yaspin = {
+    "3.0.2" = import ./overrides/yaspin/3.0.2;
+  };
   yaswfp = {
     "0.9.3" = import ./overrides/yaswfp/0.9.3;
   };
