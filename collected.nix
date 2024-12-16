@@ -8128,6 +8128,9 @@
   neovim = {
     "0.3.1" = import ./overrides/neovim/0.3.1;
   };
+  nep = {
+    "0.5.4.8" = import ./overrides/nep/0.5.4.8;
+  };
   nepalicalendar = {
     "0.4" = import ./overrides/nepalicalendar/0.4;
   };
