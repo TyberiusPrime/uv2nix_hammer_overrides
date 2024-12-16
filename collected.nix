@@ -15274,6 +15274,9 @@
   pyblake2 = {
     "1.1.2" = import ./overrides/pyblake2/1.1.2;
   };
+  pyblish-base = {
+    "1.8.12" = import ./overrides/pyblish-base/1.8.12;
+  };
   pybloom-live = {
     "4.0.0" = import ./overrides/pybloom-live/4.0.0;
   };
