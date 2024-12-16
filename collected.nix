@@ -6884,6 +6884,9 @@
   flask-sslify = {
     "0.1.5" = import ./overrides/flask-sslify/0.1.5;
   };
+  flask-talisman = {
+    "1.1.0" = import ./overrides/flask-talisman/1.1.0;
+  };
   flask-testing = {
     "0.7.1" = import ./overrides/flask-testing/0.7.1;
   };
