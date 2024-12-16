@@ -20829,6 +20829,9 @@
   termstyle = {
     "0.1.11" = import ./overrides/termstyle/0.1.11;
   };
+  tesla-wall-connector = {
+    "1.0.2" = import ./overrides/tesla-wall-connector/1.0.2;
+  };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
