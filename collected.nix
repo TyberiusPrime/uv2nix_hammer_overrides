@@ -10352,6 +10352,9 @@
   pymsteams = {
     "0.2.3" = import ./overrides/pymsteams/0.2.3;
   };
+  pymumble = {
+    "1.6.1" = import ./overrides/pymumble/1.6.1;
+  };
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
