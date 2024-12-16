@@ -23579,6 +23579,9 @@
   wireless = {
     "0.3.3" = import ./overrides/wireless/0.3.3;
   };
+  wirerope = {
+    "0.4.7" = import ./overrides/wirerope/0.4.7;
+  };
   wiringpi = {
     "2.60.1" = import ./overrides/wiringpi/2.60.1;
   };
