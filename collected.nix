@@ -9354,6 +9354,9 @@
   py-stringmatching = {
     "0.4.6" = import ./overrides/py-stringmatching/0.4.6;
   };
+  py-tes = {
+    "0.4.2" = import ./overrides/py-tes/0.4.2;
+  };
   py-tlsh = {
     "4.7.2" = import ./overrides/py-tlsh/4.7.2;
   };
