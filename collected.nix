@@ -10308,6 +10308,9 @@
   limitlessled = {
     "1.1.3" = import ./overrides/limitlessled/1.1.3;
   };
+  limits = {
+    "3.13.0" = import ./overrides/limits/3.13.0;
+  };
   limix = {
     "3.0.4" = import ./overrides/limix/3.0.4;
   };
