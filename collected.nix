@@ -20381,6 +20381,9 @@
   stompest = {
     "2.3.0" = import ./overrides/stompest/2.3.0;
   };
+  stone = {
+    "3.3.8" = import ./overrides/stone/3.3.8;
+  };
   stookalert = {
     "0.1.4" = import ./overrides/stookalert/0.1.4;
   };
