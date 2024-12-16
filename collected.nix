@@ -3410,6 +3410,9 @@
   consulate = {
     "0.6.0" = import ./overrides/consulate/0.6.0;
   };
+  container-inspector = {
+    "33.0.0" = import ./overrides/container-inspector/33.0.0;
+  };
   contextdecorator = {
     "0.10.0" = import ./overrides/contextdecorator/0.10.0;
   };
