@@ -6752,6 +6752,9 @@
   flask = {
     "0.10.1" = import ./overrides/flask/0.10.1;
   };
+  flask-apispec = {
+    "0.11.4" = import ./overrides/flask-apispec/0.11.4;
+  };
   flask-apscheduler = {
     "1.13.1" = import ./overrides/flask-apscheduler/1.13.1;
   };
