@@ -12618,6 +12618,9 @@
   rplidar-roboticia = {
     "0.9.5" = import ./overrides/rplidar-roboticia/0.9.5;
   };
+  rply = {
+    "0.7.8" = import ./overrides/rply/0.7.8;
+  };
   rpm-vercmp = {
     "0.1.2" = import ./overrides/rpm-vercmp/0.1.2;
   };
