@@ -21046,6 +21046,9 @@
   torpy = {
     "1.1.6" = import ./overrides/torpy/1.1.6;
   };
+  torrentool = {
+    "1.2.0" = import ./overrides/torrentool/1.2.0;
+  };
   torrequest = {
     "0.1.0" = import ./overrides/torrequest/0.1.0;
   };
