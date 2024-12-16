@@ -11202,6 +11202,9 @@
   mozhttpd = {
     "0.7.1" = import ./overrides/mozhttpd/0.7.1;
   };
+  mozilla-version = {
+    "3.1.0" = import ./overrides/mozilla-version/3.1.0;
+  };
   mozlog = {
     "8.0.0" = import ./overrides/mozlog/8.0.0;
   };
