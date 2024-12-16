@@ -10411,6 +10411,9 @@
   logutils = {
     "0.3.5" = import ./overrides/logutils/0.3.5;
   };
+  loky = {
+    "3.4.1" = import ./overrides/loky/3.4.1;
+  };
   lolcat = {
     "1.4" = import ./overrides/lolcat/1.4;
   };
