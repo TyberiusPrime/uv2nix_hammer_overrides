@@ -9131,6 +9131,9 @@
   johnnycanencrypt = {
     "0.14.1" = import ./overrides/johnnycanencrypt/0.14.1;
   };
+  joker-cast = {
+    "0.5.2" = import ./overrides/joker-cast/0.5.2;
+  };
   jose = {
     "1.0.0" = import ./overrides/jose/1.0.0;
   };
