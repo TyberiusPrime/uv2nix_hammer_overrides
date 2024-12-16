@@ -3253,6 +3253,9 @@
   django-qsstats-magic = {
     "1.1.0" = import ./overrides/django-qsstats-magic/1.1.0;
   };
+  django-quicky = {
+    "0.7.3" = import ./overrides/django-quicky/0.7.3;
+  };
   django-ranged-response = {
     "0.2.0" = import ./overrides/django-ranged-response/0.2.0;
   };
