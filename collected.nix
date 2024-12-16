@@ -1413,6 +1413,9 @@
   callee = {
     "0.3.1" = import ./overrides/callee/0.3.1;
   };
+  calmjs = {
+    "3.4.4" = import ./overrides/calmjs/3.4.4;
+  };
   calver = {
     "2022.06.26" = import ./overrides/calver/2022.06.26;
   };
