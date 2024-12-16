@@ -13528,6 +13528,9 @@
   parametrizer = {
     "0.0.3" = import ./overrides/parametrizer/0.0.3;
   };
+  paramiko = {
+    "3.4.1" = import ./overrides/paramiko/3.4.1;
+  };
   paramtools = {
     "0.18.3" = import ./overrides/paramtools/0.18.3;
   };
