@@ -17066,6 +17066,9 @@
   python-ev3dev2 = {
     "2.1.0.post1" = import ./overrides/python-ev3dev2/2.1.0.post1;
   };
+  python-evtx = {
+    "0.7.4" = import ./overrides/python-evtx/0.7.4;
+  };
   python-family-hub-local = {
     "0.0.2" = import ./overrides/python-family-hub-local/0.0.2;
   };
