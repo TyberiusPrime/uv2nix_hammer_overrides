@@ -3815,6 +3815,9 @@
   evdev = {
     "1.7.1" = import ./overrides/evdev/1.7.1;
   };
+  event-model = {
+    "1.21.0" = import ./overrides/event-model/1.21.0;
+  };
   eventemitter = {
     "0.2.0" = import ./overrides/eventemitter/0.2.0;
   };
