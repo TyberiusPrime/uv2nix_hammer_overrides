@@ -17904,6 +17904,9 @@
   pyxel = {
     "2.2.1" = import ./overrides/pyxel/2.2.1;
   };
+  pyxero = {
+    "0.9.4" = import ./overrides/pyxero/0.9.4;
+  };
   pyxis = {
     "0.2.1" = import ./overrides/pyxis/0.2.1;
   };
