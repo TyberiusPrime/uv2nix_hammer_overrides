@@ -1,0 +1,1 @@
+BuildSystems = [ "cython", "meson-python", "ninja", "poetry-core",]
