@@ -7474,6 +7474,9 @@
   gmpy = {
     "1.17" = import ./overrides/gmpy/1.17;
   };
+  gmqtt = {
+    "0.6.16" = import ./overrides/gmqtt/0.6.16;
+  };
   gmsh = {
     "4.13.1" = import ./overrides/gmsh/4.13.1;
   };
