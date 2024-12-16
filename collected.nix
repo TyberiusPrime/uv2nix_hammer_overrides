@@ -5584,6 +5584,9 @@
   humilis = {
     "1.7.1" = import ./overrides/humilis/1.7.1;
   };
+  humps = {
+    "0.2.2" = import ./overrides/humps/0.2.2;
+  };
   hunspell = {
     "0.5.5" = import ./overrides/hunspell/0.5.5;
   };
