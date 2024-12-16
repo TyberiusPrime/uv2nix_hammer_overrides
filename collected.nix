@@ -16715,6 +16715,9 @@
   python-geoip-geolite2 = {
     "2015.303" = import ./overrides/python-geoip-geolite2/2015.303;
   };
+  python-gettext = {
+    "5.0" = import ./overrides/python-gettext/5.0;
+  };
   python-gflags = {
     "3.1.2" = import ./overrides/python-gflags/3.1.2;
   };
