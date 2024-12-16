@@ -3375,6 +3375,9 @@
   djangorestframework-csv = {
     "2.1.1" = import ./overrides/djangorestframework-csv/2.1.1;
   };
+  djangorestframework-dataclasses = {
+    "1.3.1" = import ./overrides/djangorestframework-dataclasses/1.3.1;
+  };
   djangorestframework-extras = {
     "0.3.0" = import ./overrides/djangorestframework-extras/0.3.0;
   };
