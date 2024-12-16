@@ -10670,6 +10670,9 @@
   matlab = {
     "0.1" = import ./overrides/matlab/0.1;
   };
+  matminer = {
+    "0.9.2" = import ./overrides/matminer/0.9.2;
+  };
   matplotlib = {
     "3.4.2" = import ./overrides/matplotlib/3.4.2;
   };
