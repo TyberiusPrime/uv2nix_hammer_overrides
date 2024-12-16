@@ -8413,6 +8413,9 @@
   htmllaundry = {
     "2.2" = import ./overrides/htmllaundry/2.2;
   };
+  htmllistparse = {
+    "0.6.1" = import ./overrides/htmllistparse/0.6.1;
+  };
   htmlmin = {
     "0.1.12" = import ./overrides/htmlmin/0.1.12;
   };
