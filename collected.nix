@@ -12963,6 +12963,9 @@
   opencv-contrib-python = {
     "4.9.0.80" = import ./overrides/opencv-contrib-python/4.9.0.80;
   };
+  openedx-events = {
+    "9.14.0" = import ./overrides/openedx-events/9.14.0;
+  };
   openerp-process = {
     "7.0.406" = import ./overrides/openerp-process/7.0.406;
   };
