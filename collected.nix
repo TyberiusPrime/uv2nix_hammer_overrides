@@ -1010,6 +1010,9 @@
   argparse-ext = {
     "1.4.2" = import ./overrides/argparse-ext/1.4.2;
   };
+  argparse-addons = {
+    "0.12.0" = import ./overrides/argparse-addons/0.12.0;
+  };
   argparse-manpage = {
     "4.6" = import ./overrides/argparse-manpage/4.6;
   };
