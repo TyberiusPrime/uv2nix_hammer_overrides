@@ -13786,6 +13786,9 @@
   steam = {
     "1.4.4" = import ./overrides/steam/1.4.4;
   };
+  steem = {
+    "1.0.1" = import ./overrides/steem/1.0.1;
+  };
   stellar-base-sseclient = {
     "0.0.21" = import ./overrides/stellar-base-sseclient/0.0.21;
   };
