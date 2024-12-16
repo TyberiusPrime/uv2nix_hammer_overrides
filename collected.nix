@@ -12236,6 +12236,9 @@
   rtoml = {
     "0.8.0" = import ./overrides/rtoml/0.8.0;
   };
+  rubicon-objc = {
+    "0.4.9" = import ./overrides/rubicon-objc/0.4.9;
+  };
   rubymarshal = {
     "1.2.7" = import ./overrides/rubymarshal/1.2.7;
   };
