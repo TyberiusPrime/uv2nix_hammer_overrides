@@ -7818,6 +7818,9 @@
   msgpack = {
     "1.0.2" = import ./overrides/msgpack/1.0.2;
   };
+  msgpack-numpy = {
+    "0.4.8" = import ./overrides/msgpack-numpy/0.4.8;
+  };
   msgpack-python = {
     "0.5.6" = import ./overrides/msgpack-python/0.5.6;
   };
