@@ -15862,6 +15862,7 @@
   };
   pymongo = {
     "3.5.1" = import ./overrides/pymongo/3.5.1;
+    "4.8.0" = import ./overrides/pymongo/4.8.0;
   };
   pymoo = {
     "0.6.1.3" = import ./overrides/pymoo/0.6.1.3;
