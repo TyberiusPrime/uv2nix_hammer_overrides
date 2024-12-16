@@ -9337,6 +9337,9 @@
   json-schema-to-class = {
     "0.2.4" = import ./overrides/json-schema-to-class/0.2.4;
   };
+  json-spec = {
+    "0.12.0" = import ./overrides/json-spec/0.12.0;
+  };
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
