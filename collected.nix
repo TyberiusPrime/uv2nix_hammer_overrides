@@ -6812,6 +6812,9 @@
   lightparam = {
     "0.4.6" = import ./overrides/lightparam/0.4.6;
   };
+  lightwave = {
+    "0.24" = import ./overrides/lightwave/0.24;
+  };
   lightwave2 = {
     "0.8.23" = import ./overrides/lightwave2/0.8.23;
   };
