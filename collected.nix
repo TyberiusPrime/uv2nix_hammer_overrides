@@ -954,6 +954,9 @@
   bash = {
     "0.6" = import ./overrides/bash/0.6;
   };
+  bashlex = {
+    "0.18" = import ./overrides/bashlex/0.18;
+  };
   basho-erlastic = {
     "2.1.1" = import ./overrides/basho-erlastic/2.1.1;
   };
