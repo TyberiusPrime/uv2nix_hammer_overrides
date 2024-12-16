@@ -5270,6 +5270,9 @@
   httpexceptor = {
     "1.4.0" = import ./overrides/httpexceptor/1.4.0;
   };
+  httpie-ntlm = {
+    "1.0.2" = import ./overrides/httpie-ntlm/1.0.2;
+  };
   httplib2shim = {
     "0.0.3" = import ./overrides/httplib2shim/0.0.3;
   };
