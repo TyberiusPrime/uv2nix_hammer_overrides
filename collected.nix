@@ -8353,6 +8353,9 @@
   howdoi = {
     "2.0.20" = import ./overrides/howdoi/2.0.20;
   };
+  hpack = {
+    "4.0.0" = import ./overrides/hpack/4.0.0;
+  };
   hpbandster = {
     "0.7.4" = import ./overrides/hpbandster/0.7.4;
   };
