@@ -1465,6 +1465,9 @@
   carto = {
     "1.11.3" = import ./overrides/carto/1.11.3;
   };
+  casadi = {
+    "3.6.6" = import ./overrides/casadi/3.6.6;
+  };
   case-conversion = {
     "2.1.0" = import ./overrides/case-conversion/2.1.0;
   };
