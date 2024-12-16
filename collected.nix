@@ -9499,6 +9499,9 @@
   products-advancedquery = {
     "4.2.1" = import ./overrides/products-advancedquery/4.2.1;
   };
+  products-atextensions = {
+    "1.1" = import ./overrides/products-atextensions/1.1;
+  };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
   };
