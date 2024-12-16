@@ -21000,6 +21000,9 @@
   transformers-stream-generator = {
     "0.0.5" = import ./overrides/transformers-stream-generator/0.0.5;
   };
+  transforms3d = {
+    "0.4.2" = import ./overrides/transforms3d/0.4.2;
+  };
   transifex-client = {
     "0.14.4" = import ./overrides/transifex-client/0.14.4;
   };
