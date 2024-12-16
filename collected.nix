@@ -3840,6 +3840,9 @@
   eli5 = {
     "0.13.0" = import ./overrides/eli5/0.13.0;
   };
+  eliot-tree = {
+    "21.0.0" = import ./overrides/eliot-tree/21.0.0;
+  };
   eliqonline = {
     "1.2.2" = import ./overrides/eliqonline/1.2.2;
   };
