@@ -8317,6 +8317,9 @@
   osconf = {
     "0.1.3" = import ./overrides/osconf/0.1.3;
   };
+  oscpy = {
+    "0.6.0" = import ./overrides/oscpy/0.6.0;
+  };
   osm2geojson = {
     "0.2.5" = import ./overrides/osm2geojson/0.2.5;
   };
