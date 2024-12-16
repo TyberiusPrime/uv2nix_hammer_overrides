@@ -23129,6 +23129,9 @@
   waddle = {
     "1.8" = import ./overrides/waddle/1.8;
   };
+  wadllib = {
+    "1.3.6" = import ./overrides/wadllib/1.3.6;
+  };
   wagon = {
     "1.0.1" = import ./overrides/wagon/1.0.1;
   };
