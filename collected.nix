@@ -1733,6 +1733,9 @@
   click-odoo-contrib = {
     "1.19" = import ./overrides/click-odoo-contrib/1.19;
   };
+  click-spinner = {
+    "0.1.10" = import ./overrides/click-spinner/0.1.10;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
