@@ -8331,6 +8331,9 @@
   olctools = {
     "1.3.5" = import ./overrides/olctools/1.3.5;
   };
+  oldest-supported-numpy = {
+    "2023.12.21" = import ./overrides/oldest-supported-numpy/2023.12.21;
+  };
   olefile = {
     "0.43" = import ./overrides/olefile/0.43;
     "0.47" = import ./overrides/olefile/0.47;
