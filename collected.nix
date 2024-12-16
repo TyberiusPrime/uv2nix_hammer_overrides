@@ -827,6 +827,9 @@
   avro-python3 = {
     "1.10.2" = import ./overrides/avro-python3/1.10.2;
   };
+  aw-core = {
+    "0.5.16" = import ./overrides/aw-core/0.5.16;
+  };
   awesome-slugify = {
     "1.6.5" = import ./overrides/awesome-slugify/1.6.5;
   };
