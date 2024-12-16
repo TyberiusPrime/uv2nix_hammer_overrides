@@ -4934,6 +4934,9 @@
   gql = {
     "3.0.0a6" = import ./overrides/gql/3.0.0a6;
   };
+  gracedb-sdk = {
+    "0.2.0" = import ./overrides/gracedb-sdk/0.2.0;
+  };
   gradient-statsd = {
     "1.0.1" = import ./overrides/gradient-statsd/1.0.1;
   };
