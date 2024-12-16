@@ -1599,6 +1599,7 @@
   };
   backoff = {
     "1.3.2" = import ./overrides/backoff/1.3.2;
+    "2.2.1" = import ./overrides/backoff/2.2.1;
   };
   backpack = {
     "0.1" = import ./overrides/backpack/0.1;
