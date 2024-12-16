@@ -1806,6 +1806,9 @@
   clip = {
     "0.2.0" = import ./overrides/clip/0.2.0;
   };
+  clip-anytorch = {
+    "2.6.0" = import ./overrides/clip-anytorch/2.6.0;
+  };
   clipboard = {
     "0.0.4" = import ./overrides/clipboard/0.0.4;
   };

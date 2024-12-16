@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+MissingEmptyFiles = [ "/build/clip-anytorch-2.6.0/requirements.txt",]
