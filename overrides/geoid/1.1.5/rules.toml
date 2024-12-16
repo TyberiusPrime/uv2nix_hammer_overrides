@@ -1,1 +1,2 @@
 BuildSystems = [ "setuptools",]
+DowngradePython = "3.11"
