@@ -15036,6 +15036,9 @@
   urwid-readline = {
     "0.14" = import ./overrides/urwid-readline/0.14;
   };
+  urwidgets = {
+    "0.2.1" = import ./overrides/urwidgets/0.2.1;
+  };
   urwidtrees = {
     "1.0.3" = import ./overrides/urwidtrees/1.0.3;
   };
