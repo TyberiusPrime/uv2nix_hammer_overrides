@@ -199,6 +199,9 @@
   aiomusiccast = {
     "0.14.8" = import ./overrides/aiomusiccast/0.14.8;
   };
+  aiomysensors = {
+    "0.3.19" = import ./overrides/aiomysensors/0.3.19;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
