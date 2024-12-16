@@ -20602,6 +20602,7 @@
     "0.4.3" = import ./overrides/thrift-sasl/0.4.3;
   };
   thriftpy2 = {
+    "0.4.20" = import ./overrides/thriftpy2/0.4.20;
     "0.5.2" = import ./overrides/thriftpy2/0.5.2;
   };
   throttler = {
