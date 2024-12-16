@@ -14293,6 +14293,9 @@
     "0.19.1" = import ./overrides/torchvision/0.19.1;
     "0.20.1" = import ./overrides/torchvision/0.20.1;
   };
+  torchviz = {
+    "0.0.2" = import ./overrides/torchviz/0.0.2;
+  };
   toredis = {
     "0.1.2" = import ./overrides/toredis/0.1.2;
   };
