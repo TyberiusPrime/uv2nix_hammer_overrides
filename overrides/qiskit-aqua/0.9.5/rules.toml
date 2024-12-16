@@ -1,1 +1,2 @@
 BuildInputs = [ "~literal:!:pkgs.gfortran13.cc", "~literal:!:pkgs.gfortran13.out",]
+BuildSystems = [ "setuptools",]
