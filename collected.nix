@@ -20443,6 +20443,9 @@
   tflite-support = {
     "0.4.4" = import ./overrides/tflite-support/0.4.4;
   };
+  tfs-pandas = {
+    "3.8.2" = import ./overrides/tfs-pandas/3.8.2;
+  };
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
   };
