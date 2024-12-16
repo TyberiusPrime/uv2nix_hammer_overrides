@@ -15743,6 +15743,9 @@
   pyo = {
     "1.0.5" = import ./overrides/pyo/1.0.5;
   };
+  pyobo = {
+    "0.10.11" = import ./overrides/pyobo/0.10.11;
+  };
   pyocclient = {
     "0.6" = import ./overrides/pyocclient/0.6;
   };
