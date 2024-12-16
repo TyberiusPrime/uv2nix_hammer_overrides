@@ -13274,6 +13274,9 @@
   ovirt-engine-sdk-python = {
     "4.6.1" = import ./overrides/ovirt-engine-sdk-python/4.6.1;
   };
+  ovos-utils = {
+    "0.1.0" = import ./overrides/ovos-utils/0.1.0;
+  };
   owlready2 = {
     "0.46" = import ./overrides/owlready2/0.46;
   };
