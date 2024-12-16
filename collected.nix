@@ -19292,6 +19292,9 @@
   smallvectors = {
     "0.7.0" = import ./overrides/smallvectors/0.7.0;
   };
+  smart-open = {
+    "7.0.4" = import ./overrides/smart-open/7.0.4;
+  };
   smbus = {
     "1.1.post2" = import ./overrides/smbus/1.1.post2;
   };
