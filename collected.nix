@@ -13677,6 +13677,9 @@
   text-to-image = {
     "0.0.5" = import ./overrides/text-to-image/0.0.5;
   };
+  text-unidecode = {
+    "1.3" = import ./overrides/text-unidecode/1.3;
+  };
   text2vec = {
     "1.3.0" = import ./overrides/text2vec/1.3.0;
   };
