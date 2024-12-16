@@ -4780,6 +4780,9 @@
   gmail = {
     "0.6.3" = import ./overrides/gmail/0.6.3;
   };
+  gmplot = {
+    "1.4.1" = import ./overrides/gmplot/1.4.1;
+  };
   gmpy = {
     "1.17" = import ./overrides/gmpy/1.17;
   };
