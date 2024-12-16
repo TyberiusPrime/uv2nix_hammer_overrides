@@ -10636,6 +10636,9 @@
   pymetar = {
     "1.4" = import ./overrides/pymetar/1.4;
   };
+  pymfy = {
+    "0.11.0" = import ./overrides/pymfy/0.11.0;
+  };
   pymilter = {
     "1.0.5" = import ./overrides/pymilter/1.0.5;
   };
