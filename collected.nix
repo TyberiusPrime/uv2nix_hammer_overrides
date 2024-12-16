@@ -12916,6 +12916,9 @@
     "0.1.5" = import ./overrides/starline/0.1.5;
     "0.2.0" = import ./overrides/starline/0.2.0;
   };
+  starsessions = {
+    "2.1.3" = import ./overrides/starsessions/2.1.3;
+  };
   stashy = {
     "0.7" = import ./overrides/stashy/0.7;
   };
