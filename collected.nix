@@ -14133,6 +14133,9 @@
   tossi = {
     "0.3.1" = import ./overrides/tossi/0.3.1;
   };
+  total-connect-client = {
+    "2024.5" = import ./overrides/total-connect-client/2024.5;
+  };
   total-ordering = {
     "0.1.0" = import ./overrides/total-ordering/0.1.0;
   };
