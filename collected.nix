@@ -1217,6 +1217,9 @@
   blinkpy = {
     "0.23.0" = import ./overrides/blinkpy/0.23.0;
   };
+  blis = {
+    "1.0.0" = import ./overrides/blis/1.0.0;
+  };
   blist = {
     "1.3.6" = import ./overrides/blist/1.3.6;
   };
