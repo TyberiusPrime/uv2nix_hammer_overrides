@@ -400,6 +400,9 @@
   antiorm = {
     "1.2.1" = import ./overrides/antiorm/1.2.1;
   };
+  antispoofing-utils = {
+    "1.1.3" = import ./overrides/antispoofing-utils/1.1.3;
+  };
   antlr-ast = {
     "0.7.0" = import ./overrides/antlr-ast/0.7.0;
   };
