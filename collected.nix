@@ -14471,6 +14471,9 @@
   public = {
     "2020.12.3" = import ./overrides/public/2020.12.3;
   };
+  publication = {
+    "0.0.3" = import ./overrides/publication/0.0.3;
+  };
   publicsuffix = {
     "1.1.1" = import ./overrides/publicsuffix/1.1.1;
   };
