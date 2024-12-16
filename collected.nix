@@ -5673,6 +5673,9 @@
   dtaidistance = {
     "2.3.12" = import ./overrides/dtaidistance/2.3.12;
   };
+  dtale = {
+    "3.14.1" = import ./overrides/dtale/3.14.1;
+  };
   dtfabric = {
     "20230520" = import ./overrides/dtfabric/20230520;
   };
