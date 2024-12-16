@@ -19107,6 +19107,9 @@
   siphash = {
     "0.0.1" = import ./overrides/siphash/0.0.1;
   };
+  siuba = {
+    "0.4.4" = import ./overrides/siuba/0.4.4;
+  };
   six = {
     "1.16.0" = import ./overrides/six/1.16.0;
   };
