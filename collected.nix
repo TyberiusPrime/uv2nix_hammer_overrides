@@ -16788,6 +16788,9 @@
   python-didl-lite = {
     "1.4.0" = import ./overrides/python-didl-lite/1.4.0;
   };
+  python-digitalocean = {
+    "1.17.0" = import ./overrides/python-digitalocean/1.17.0;
+  };
   python-djvulibre = {
     "0.8.8" = import ./overrides/python-djvulibre/0.8.8;
   };
