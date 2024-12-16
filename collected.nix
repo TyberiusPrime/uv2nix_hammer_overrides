@@ -14463,6 +14463,9 @@
   pmw = {
     "2.1.1" = import ./overrides/pmw/2.1.1;
   };
+  pnglatex = {
+    "1.1" = import ./overrides/pnglatex/1.1;
+  };
   pocket = {
     "0.3.6" = import ./overrides/pocket/0.3.6;
   };
