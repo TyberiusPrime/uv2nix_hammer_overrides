@@ -8304,6 +8304,9 @@
   i3-py = {
     "0.6.4" = import ./overrides/i3-py/0.6.4;
   };
+  iammeter = {
+    "0.2.1" = import ./overrides/iammeter/0.2.1;
+  };
   iapws = {
     "1.5.4" = import ./overrides/iapws/1.5.4;
   };
