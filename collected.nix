@@ -8571,6 +8571,9 @@
   hypchat = {
     "0.21" = import ./overrides/hypchat/0.21;
   };
+  hyper = {
+    "0.7.0" = import ./overrides/hyper/0.7.0;
+  };
   hyperdash = {
     "0.15.3" = import ./overrides/hyperdash/0.15.3;
   };
