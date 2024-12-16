@@ -17770,6 +17770,9 @@
   recurrent = {
     "0.4.1" = import ./overrides/recurrent/0.4.1;
   };
+  recurring-ical-events = {
+    "3.3.0" = import ./overrides/recurring-ical-events/3.3.0;
+  };
   red-black-tree-mod = {
     "1.20" = import ./overrides/red-black-tree-mod/1.20;
     "1.22" = import ./overrides/red-black-tree-mod/1.22;
