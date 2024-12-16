@@ -11155,6 +11155,9 @@
   mkdocs-macros-plugin = {
     "1.0.5" = import ./overrides/mkdocs-macros-plugin/1.0.5;
   };
+  mkdocs-simple-hooks = {
+    "0.1.5" = import ./overrides/mkdocs-simple-hooks/0.1.5;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
