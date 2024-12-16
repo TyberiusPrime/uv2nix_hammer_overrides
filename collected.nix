@@ -5908,6 +5908,9 @@
   json-log-formatter = {
     "0.5.2" = import ./overrides/json-log-formatter/0.5.2;
   };
+  json-logging = {
+    "1.3.0" = import ./overrides/json-logging/1.3.0;
+  };
   json-merge-patch = {
     "0.2" = import ./overrides/json-merge-patch/0.2;
   };
