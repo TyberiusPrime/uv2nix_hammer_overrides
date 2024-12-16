@@ -13892,6 +13892,9 @@
   pii-data = {
     "0.5.0" = import ./overrides/pii-data/0.5.0;
   };
+  pika = {
+    "1.3.2" = import ./overrides/pika/1.3.2;
+  };
   pika-pool = {
     "0.1.3" = import ./overrides/pika-pool/0.1.3;
   };
