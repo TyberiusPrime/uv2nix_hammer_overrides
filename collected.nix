@@ -9791,6 +9791,9 @@
   pycolorizer = {
     "1.1.0" = import ./overrides/pycolorizer/1.1.0;
   };
+  pycomposefile = {
+    "0.0.31" = import ./overrides/pycomposefile/0.0.31;
+  };
   pycontracts = {
     "1.8.12" = import ./overrides/pycontracts/1.8.12;
   };
