@@ -2232,6 +2232,9 @@
   breadability = {
     "0.1.20" = import ./overrides/breadability/0.1.20;
   };
+  breathe = {
+    "4.35.0" = import ./overrides/breathe/4.35.0;
+  };
   breezy = {
     "3.3.8" = import ./overrides/breezy/3.3.8;
   };
