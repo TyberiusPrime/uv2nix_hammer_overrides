@@ -13863,6 +13863,9 @@
   toil-lib = {
     "1.1.8" = import ./overrides/toil-lib/1.1.8;
   };
+  token-bucket = {
+    "0.3.0" = import ./overrides/token-bucket/0.3.0;
+  };
   tokenleaderclient = {
     "1.5.1" = import ./overrides/tokenleaderclient/1.5.1;
   };
