@@ -18887,6 +18887,9 @@
   setuptools-lint = {
     "0.6.0" = import ./overrides/setuptools-lint/0.6.0;
   };
+  setuptools-odoo = {
+    "3.3" = import ./overrides/setuptools-odoo/3.3;
+  };
   setuptools-scm = {
     "8.1.0" = import ./overrides/setuptools-scm/8.1.0;
   };
