@@ -4464,6 +4464,9 @@
   flask-graphql = {
     "2.0.1" = import ./overrides/flask-graphql/2.0.1;
   };
+  flask-healthz = {
+    "1.0.1" = import ./overrides/flask-healthz/1.0.1;
+  };
   flask-iiif = {
     "0.6.3" = import ./overrides/flask-iiif/0.6.3;
   };
