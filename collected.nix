@@ -3475,6 +3475,9 @@
   cppimport = {
     "22.8.2" = import ./overrides/cppimport/22.8.2;
   };
+  cpplint = {
+    "1.6.1" = import ./overrides/cpplint/1.6.1;
+  };
   cppyy = {
     "3.1.2" = import ./overrides/cppyy/3.1.2;
   };
