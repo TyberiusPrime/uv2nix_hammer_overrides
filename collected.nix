@@ -19510,6 +19510,9 @@
   slimurl = {
     "0.7.8" = import ./overrides/slimurl/0.7.8;
   };
+  slippers = {
+    "0.6.2" = import ./overrides/slippers/0.6.2;
+  };
   slixmpp = {
     "1.8.5" = import ./overrides/slixmpp/1.8.5;
   };
