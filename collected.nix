@@ -14322,6 +14322,9 @@
   trx-utils = {
     "1.0.4" = import ./overrides/trx-utils/1.0.4;
   };
+  trytond = {
+    "7.2.8" = import ./overrides/trytond/7.2.8;
+  };
   trytond-health = {
     "3.2.10" = import ./overrides/trytond-health/3.2.10;
   };
