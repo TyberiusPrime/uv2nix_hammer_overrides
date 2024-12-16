@@ -11685,6 +11685,9 @@
   python-ndn = {
     "0.4.2" = import ./overrides/python-ndn/0.4.2;
   };
+  python-musicpd = {
+    "0.9.1" = import ./overrides/python-musicpd/0.9.1;
+  };
   python-nest = {
     "4.2.0" = import ./overrides/python-nest/4.2.0;
   };
