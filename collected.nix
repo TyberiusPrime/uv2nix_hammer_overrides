@@ -6276,6 +6276,9 @@
   jsonpath-rw = {
     "1.4.0" = import ./overrides/jsonpath-rw/1.4.0;
   };
+  jsonpath2 = {
+    "0.4.5" = import ./overrides/jsonpath2/0.4.5;
+  };
   jsonpickle = {
     "0.9.3" = import ./overrides/jsonpickle/0.9.3;
   };
