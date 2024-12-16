@@ -21028,6 +21028,9 @@
   tesla-wall-connector = {
     "1.0.2" = import ./overrides/tesla-wall-connector/1.0.2;
   };
+  tess-point = {
+    "0.8.1" = import ./overrides/tess-point/0.8.1;
+  };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
