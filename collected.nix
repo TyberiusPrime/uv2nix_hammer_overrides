@@ -9432,6 +9432,9 @@
   products-resourceregistries = {
     "3.0.8" = import ./overrides/products-resourceregistries/3.0.8;
   };
+  products-salesforcebaseconnector = {
+    "1.4" = import ./overrides/products-salesforcebaseconnector/1.4;
+  };
   products-silvametadata = {
     "3.0.1" = import ./overrides/products-silvametadata/3.0.1;
   };
