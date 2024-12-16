@@ -4521,6 +4521,9 @@
   django-avatar = {
     "8.0.1" = import ./overrides/django-avatar/8.0.1;
   };
+  django-background-tasks = {
+    "1.2.8" = import ./overrides/django-background-tasks/1.2.8;
+  };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
