@@ -2805,6 +2805,9 @@
   clickgen = {
     "2.2.5" = import ./overrides/clickgen/2.2.5;
   };
+  click-repl = {
+    "0.3.0" = import ./overrides/click-repl/0.3.0;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
