@@ -3363,6 +3363,9 @@
   djinn-workflow = {
     "1.0.0" = import ./overrides/djinn-workflow/1.0.0;
   };
+  djlint = {
+    "1.35.2" = import ./overrides/djlint/1.35.2;
+  };
   djongo = {
     "1.3.6" = import ./overrides/djongo/1.3.6;
   };
