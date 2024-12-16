@@ -11181,6 +11181,7 @@
     "1.5.8" = import ./overrides/python-daemon-3k/1.5.8;
   };
   python-dateutil = {
+    "1.5" = import ./overrides/python-dateutil/1.5;
     "2.9.0.post0" = import ./overrides/python-dateutil/2.9.0.post0;
   };
   python-ddp = {
