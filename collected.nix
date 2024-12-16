@@ -4824,6 +4824,9 @@
   django-login-required-middleware = {
     "0.9.0" = import ./overrides/django-login-required-middleware/0.9.0;
   };
+  django-loginas = {
+    "0.3.11" = import ./overrides/django-loginas/0.3.11;
+  };
   django-m2m-history = {
     "0.3.6" = import ./overrides/django-m2m-history/0.3.6;
   };
