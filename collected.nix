@@ -2877,6 +2877,9 @@
   django-autoconfig = {
     "0.8.0" = import ./overrides/django-autoconfig/0.8.0;
   };
+  django-bakery = {
+    "0.13.4" = import ./overrides/django-bakery/0.13.4;
+  };
   django-bitfield = {
     "2.2.0" = import ./overrides/django-bitfield/2.2.0;
   };
