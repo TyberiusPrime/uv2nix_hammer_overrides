@@ -13719,6 +13719,9 @@
   torrequest = {
     "0.1.0" = import ./overrides/torrequest/0.1.0;
   };
+  tortoise-orm = {
+    "0.21.6" = import ./overrides/tortoise-orm/0.21.6;
+  };
   tossi = {
     "0.3.1" = import ./overrides/tossi/0.3.1;
   };
