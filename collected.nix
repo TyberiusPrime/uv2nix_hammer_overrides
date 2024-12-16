@@ -9289,6 +9289,9 @@
   jsii = {
     "1.103.1" = import ./overrides/jsii/1.103.1;
   };
+  jschema-to-python = {
+    "1.2.3" = import ./overrides/jschema-to-python/1.2.3;
+  };
   jsl = {
     "0.2.4" = import ./overrides/jsl/0.2.4;
   };
