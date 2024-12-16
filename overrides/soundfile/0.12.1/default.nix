@@ -1,5 +1,7 @@
-{final, pkgs, ...}
-        : old: let
+{final, helpers, pkgs, resolveBuildSystem, ...}
+        :
+            old:
+            let funcs = [(old: old // ( if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];});})) (old: old // ( let
   sharedLibExt = pkgs.stdenv.hostPlatform.extensions.sharedLibrary;
   patch = ''
     substituteInPlace soundfile.py \
@@ -13,5 +15,7 @@ in
     popd
   '';
 }
-
-        
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    

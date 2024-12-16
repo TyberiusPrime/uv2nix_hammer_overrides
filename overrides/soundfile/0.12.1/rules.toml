@@ -1,1 +1,2 @@
+BuildSystems = [ "setuptools",]
 ManualOverrides = "__file__:soundfile/0.12.1/default.nix"
