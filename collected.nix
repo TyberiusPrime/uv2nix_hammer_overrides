@@ -13075,6 +13075,9 @@
   ofxparse = {
     "0.21" = import ./overrides/ofxparse/0.21;
   };
+  ofxstatement = {
+    "0.9.1" = import ./overrides/ofxstatement/0.9.1;
+  };
   ofxtools = {
     "0.9.5" = import ./overrides/ofxtools/0.9.5;
   };
