@@ -3998,6 +3998,9 @@
   datacleaner = {
     "0.1.5" = import ./overrides/datacleaner/0.1.5;
   };
+  datacompy = {
+    "0.13.2" = import ./overrides/datacompy/0.13.2;
+  };
   datadbs = {
     "0.1.8" = import ./overrides/datadbs/0.1.8;
   };
