@@ -17399,6 +17399,9 @@
   python-musicpd = {
     "0.9.1" = import ./overrides/python-musicpd/0.9.1;
   };
+  python-mystrom = {
+    "2.2.0" = import ./overrides/python-mystrom/2.2.0;
+  };
   python-nest = {
     "4.2.0" = import ./overrides/python-nest/4.2.0;
   };
