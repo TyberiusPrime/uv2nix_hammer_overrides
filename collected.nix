@@ -20034,6 +20034,9 @@
   spikefeatures = {
     "0.1.2" = import ./overrides/spikefeatures/0.1.2;
   };
+  spikeinterface = {
+    "0.101.0" = import ./overrides/spikeinterface/0.101.0;
+  };
   spikemetrics = {
     "0.2.4" = import ./overrides/spikemetrics/0.2.4;
   };
