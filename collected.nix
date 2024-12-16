@@ -12020,6 +12020,9 @@
   quantile-python = {
     "1.1" = import ./overrides/quantile-python/1.1;
   };
+  quantiphy = {
+    "2.20" = import ./overrides/quantiphy/2.20;
+  };
   quantiphyse-fabber = {
     "0.9.2" = import ./overrides/quantiphyse-fabber/0.9.2;
   };
