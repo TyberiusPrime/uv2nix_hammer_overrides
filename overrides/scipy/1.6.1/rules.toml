@@ -1,3 +1,4 @@
+BuildInputs = [ "~literal:!:pkgs.openblas", "~literal:!:pkgs.pkg-config",]
 BuildSystems = [ "cython_0", "numpy", "pybind11", "setuptools", "wheel",]
 DowngradeNumpy = "<1.22"
 TomlRequiresPatcher = [ false, false, true, true, false, false,]
