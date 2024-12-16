@@ -1739,6 +1739,9 @@
   clime = {
     "0.3.1" = import ./overrides/clime/0.3.1;
   };
+  clingo = {
+    "5.7.1" = import ./overrides/clingo/5.7.1;
+  };
   clint = {
     "0.5.1" = import ./overrides/clint/0.5.1;
   };
