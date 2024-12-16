@@ -20919,6 +20919,9 @@
   tftpy = {
     "0.8.2" = import ./overrides/tftpy/0.8.2;
   };
+  tgext-admin = {
+    "0.7.4" = import ./overrides/tgext-admin/0.7.4;
+  };
   tgext-crud = {
     "0.9.0" = import ./overrides/tgext-crud/0.9.0;
   };
