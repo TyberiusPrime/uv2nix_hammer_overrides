@@ -14070,6 +14070,9 @@
   tissue = {
     "0.9.2" = import ./overrides/tissue/0.9.2;
   };
+  titiler-core = {
+    "0.19.2" = import ./overrides/titiler-core/0.19.2;
+  };
   titlecase = {
     "2.4.1" = import ./overrides/titlecase/2.4.1;
   };
