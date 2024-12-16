@@ -8823,6 +8823,9 @@
   pexif = {
     "0.15" = import ./overrides/pexif/0.15;
   };
+  pexpect = {
+    "4.9.0" = import ./overrides/pexpect/4.9.0;
+  };
   pfmisc = {
     "2.2.14" = import ./overrides/pfmisc/2.2.14;
   };
