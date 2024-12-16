@@ -7860,6 +7860,7 @@
     "1.24.3" = import ./overrides/numpy/1.24.3;
     "1.24.4" = import ./overrides/numpy/1.24.4;
     "2.1.0" = import ./overrides/numpy/2.1.0;
+    "2.1.1" = import ./overrides/numpy/2.1.1;
   };
   numpy-stl = {
     "3.1.2" = import ./overrides/numpy-stl/3.1.2;
