@@ -202,6 +202,9 @@
   aiomysensors = {
     "0.3.19" = import ./overrides/aiomysensors/0.3.19;
   };
+  aiomultiprocess = {
+    "0.9.1" = import ./overrides/aiomultiprocess/0.9.1;
+  };
   aioopenssl = {
     "0.6.0" = import ./overrides/aioopenssl/0.6.0;
   };
