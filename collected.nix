@@ -1885,6 +1885,9 @@
   collective-eeafaceted-dashboard = {
     "0.22.0" = import ./overrides/collective-eeafaceted-dashboard/0.22.0;
   };
+  collective-eeafaceted-z3ctable = {
+    "2.27" = import ./overrides/collective-eeafaceted-z3ctable/2.27;
+  };
   collective-excelexport = {
     "1.8.2" = import ./overrides/collective-excelexport/1.8.2;
   };
