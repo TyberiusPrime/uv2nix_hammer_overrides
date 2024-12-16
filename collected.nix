@@ -2264,6 +2264,7 @@
   };
   bs4 = {
     "0.0.1" = import ./overrides/bs4/0.0.1;
+    "0.0.2" = import ./overrides/bs4/0.0.2;
   };
   bsdiff4 = {
     "1.2.4" = import ./overrides/bsdiff4/1.2.4;
