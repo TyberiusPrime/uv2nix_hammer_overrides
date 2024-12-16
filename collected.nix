@@ -9535,6 +9535,9 @@
   jujuclient = {
     "0.54.0" = import ./overrides/jujuclient/0.54.0;
   };
+  juliacall = {
+    "0.9.23" = import ./overrides/juliacall/0.9.23;
+  };
   julian = {
     "0.14" = import ./overrides/julian/0.14;
   };
