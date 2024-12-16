@@ -691,6 +691,9 @@
   astutils = {
     "0.0.6" = import ./overrides/astutils/0.0.6;
   };
+  asyauth = {
+    "0.0.21" = import ./overrides/asyauth/0.0.21;
+  };
   async = {
     "0.6.2" = import ./overrides/async/0.6.2;
   };
