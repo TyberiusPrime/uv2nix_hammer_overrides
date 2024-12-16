@@ -1335,6 +1335,9 @@
   btest = {
     "1.1" = import ./overrides/btest/1.1;
   };
+  bthome-ble = {
+    "3.11.0" = import ./overrides/bthome-ble/3.11.0;
+  };
   btlewrap = {
     "0.1.1" = import ./overrides/btlewrap/0.1.1;
   };
