@@ -2908,6 +2908,9 @@
   click-help-colors = {
     "0.9.4" = import ./overrides/click-help-colors/0.9.4;
   };
+  clickclick = {
+    "20.10.2" = import ./overrides/clickclick/20.10.2;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
