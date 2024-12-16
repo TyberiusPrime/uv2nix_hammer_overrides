@@ -12539,6 +12539,9 @@
   numpy-stl = {
     "3.1.2" = import ./overrides/numpy-stl/3.1.2;
   };
+  numpy-financial = {
+    "1.0.0" = import ./overrides/numpy-financial/1.0.0;
+  };
   numpy-sugar = {
     "1.5.3" = import ./overrides/numpy-sugar/1.5.3;
     "1.5.4" = import ./overrides/numpy-sugar/1.5.4;
