@@ -1242,6 +1242,9 @@
   brainflow = {
     "5.13.3" = import ./overrides/brainflow/5.13.3;
   };
+  brainglobe-napari-io = {
+    "0.3.4" = import ./overrides/brainglobe-napari-io/0.3.4;
+  };
   bravado-core = {
     "6.1.1" = import ./overrides/bravado-core/6.1.1;
   };
