@@ -5136,6 +5136,9 @@
   hetzner = {
     "0.8.3" = import ./overrides/hetzner/0.8.3;
   };
+  hexagonit-testing = {
+    "1.2.2" = import ./overrides/hexagonit-testing/1.2.2;
+  };
   hexathon = {
     "0.1.7" = import ./overrides/hexathon/0.1.7;
   };
