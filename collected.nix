@@ -8208,6 +8208,9 @@
   nlptoolkit-wordnet = {
     "1.0.24" = import ./overrides/nlptoolkit-wordnet/1.0.24;
   };
+  nltk = {
+    "3.9.1" = import ./overrides/nltk/3.9.1;
+  };
   nmigen = {
     "0.2" = import ./overrides/nmigen/0.2;
   };
