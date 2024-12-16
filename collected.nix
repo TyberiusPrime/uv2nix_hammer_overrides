@@ -7802,6 +7802,7 @@
     "0.8.2" = import ./overrides/gwtrigfind/0.8.2;
   };
   gym = {
+    "0.25.2" = import ./overrides/gym/0.25.2;
     "0.26.2" = import ./overrides/gym/0.26.2;
   };
   h2 = {
