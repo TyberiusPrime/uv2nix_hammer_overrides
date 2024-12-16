@@ -13526,6 +13526,9 @@
   tdqm = {
     "0.0.1" = import ./overrides/tdqm/0.0.1;
   };
+  teamcity-messages = {
+    "1.32" = import ./overrides/teamcity-messages/1.32;
+  };
   technicolor = {
     "2017.1.16.1544" = import ./overrides/technicolor/2017.1.16.1544;
   };
