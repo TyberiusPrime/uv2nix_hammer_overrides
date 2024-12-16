@@ -1269,6 +1269,9 @@
   atomicwrites = {
     "1.4.1" = import ./overrides/atomicwrites/1.4.1;
   };
+  atomicwrites-homeassistant = {
+    "1.4.1" = import ./overrides/atomicwrites-homeassistant/1.4.1;
+  };
   atomman = {
     "1.4.11" = import ./overrides/atomman/1.4.11;
   };
