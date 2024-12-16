@@ -1,1 +1,1 @@
-BuildSystems = [ "pytest-runner",]
+BuildSystems = [ "pytest-runner", "setuptools",]
