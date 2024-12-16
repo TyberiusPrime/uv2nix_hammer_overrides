@@ -2999,6 +2999,9 @@
   collections2 = {
     "0.3.0" = import ./overrides/collections2/0.3.0;
   };
+  collective-behavior-talcondition = {
+    "0.14" = import ./overrides/collective-behavior-talcondition/0.14;
+  };
   collective-compoundcriterion = {
     "0.7" = import ./overrides/collective-compoundcriterion/0.7;
   };
