@@ -10684,6 +10684,9 @@
   pyres = {
     "1.5" = import ./overrides/pyres/1.5;
   };
+  pyresample = {
+    "1.30.0" = import ./overrides/pyresample/1.30.0;
+  };
   pyrestcli = {
     "0.6.11" = import ./overrides/pyrestcli/0.6.11;
   };
