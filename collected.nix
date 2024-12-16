@@ -1444,6 +1444,9 @@
   capacity = {
     "1.3.14" = import ./overrides/capacity/1.3.14;
   };
+  capstone = {
+    "5.0.3" = import ./overrides/capstone/5.0.3;
+  };
   captain = {
     "4.5.0" = import ./overrides/captain/4.5.0;
   };
