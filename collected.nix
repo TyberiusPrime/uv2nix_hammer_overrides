@@ -15297,6 +15297,9 @@
   webssh = {
     "1.6.2" = import ./overrides/webssh/1.6.2;
   };
+  webtest-aiohttp = {
+    "2.0.0" = import ./overrides/webtest-aiohttp/2.0.0;
+  };
   webthing-ws = {
     "0.2.0" = import ./overrides/webthing-ws/0.2.0;
   };
