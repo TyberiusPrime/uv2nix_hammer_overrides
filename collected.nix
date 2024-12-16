@@ -11377,6 +11377,9 @@
   python-openid = {
     "2.2.5" = import ./overrides/python-openid/2.2.5;
   };
+  python-openid-cla = {
+    "1.2" = import ./overrides/python-openid-cla/1.2;
+  };
   python-openzwave = {
     "0.4.19" = import ./overrides/python-openzwave/0.4.19;
   };
