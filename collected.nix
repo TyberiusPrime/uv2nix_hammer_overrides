@@ -13924,6 +13924,7 @@
     "0.4.2" = import ./overrides/peepdf/0.4.2;
   };
   peewee = {
+    "3.17.3" = import ./overrides/peewee/3.17.3;
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
   peewee-migrate = {
