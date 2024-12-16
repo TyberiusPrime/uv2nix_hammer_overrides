@@ -1,1 +1,2 @@
 BuildInputs = [ "~literal:!:pkgs.krb5",]
+BuildSystems = [ "setuptools",]
