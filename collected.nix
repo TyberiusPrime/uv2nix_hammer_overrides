@@ -15297,6 +15297,9 @@
   webservices = {
     "0.7" = import ./overrides/webservices/0.7;
   };
+  websocket = {
+    "0.2.1" = import ./overrides/websocket/0.2.1;
+  };
   websocket-client = {
     "0.40.0" = import ./overrides/websocket-client/0.40.0;
   };
