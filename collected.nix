@@ -8099,6 +8099,9 @@
   hammock = {
     "0.2.4" = import ./overrides/hammock/0.2.4;
   };
+  hampy = {
+    "1.4.2" = import ./overrides/hampy/1.4.2;
+  };
   handout = {
     "1.1.2" = import ./overrides/handout/1.1.2;
   };
