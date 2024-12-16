@@ -19654,6 +19654,9 @@
   signalslot = {
     "0.2.0" = import ./overrides/signalslot/0.2.0;
   };
+  signedjson = {
+    "1.1.4" = import ./overrides/signedjson/1.1.4;
+  };
   signify = {
     "0.6.1" = import ./overrides/signify/0.6.1;
   };
