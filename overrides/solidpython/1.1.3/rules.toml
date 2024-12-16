@@ -1,0 +1,2 @@
+BuildSystems = [ "poetry-core", "pytest-runner", "setuptools", "setuptools-scm", "wheel",]
+PoetryMasonry = true
