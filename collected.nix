@@ -14914,6 +14914,9 @@
   xerox = {
     "0.4.1" = import ./overrides/xerox/0.4.1;
   };
+  xesmf = {
+    "0.8.7" = import ./overrides/xesmf/0.8.7;
+  };
   xformers = {
     "0.0.27.post2" = import ./overrides/xformers/0.0.27.post2;
   };
