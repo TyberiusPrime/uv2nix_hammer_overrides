@@ -11999,6 +11999,9 @@
     "5.4.1" = import ./overrides/pyyaml/5.4.1;
     "6.0" = import ./overrides/pyyaml/6.0;
   };
+  pyyaml-include = {
+    "2.1" = import ./overrides/pyyaml-include/2.1;
+  };
   pyyardian = {
     "1.2.0" = import ./overrides/pyyardian/1.2.0;
   };
