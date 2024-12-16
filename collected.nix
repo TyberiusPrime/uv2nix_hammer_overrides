@@ -15854,6 +15854,9 @@
   pylzma = {
     "0.5.0" = import ./overrides/pylzma/0.5.0;
   };
+  pymacaroons = {
+    "0.13.0" = import ./overrides/pymacaroons/0.13.0;
+  };
   pymailgunner = {
     "1.5" = import ./overrides/pymailgunner/1.5;
   };
