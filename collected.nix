@@ -12986,6 +12986,9 @@
   sphinxcontrib-mscgen = {
     "0.6" = import ./overrides/sphinxcontrib-mscgen/0.6;
   };
+  sphinxcontrib-napoleon = {
+    "0.7" = import ./overrides/sphinxcontrib-napoleon/0.7;
+  };
   sphinxcontrib-newsfeed = {
     "0.1.4" = import ./overrides/sphinxcontrib-newsfeed/0.1.4;
   };
