@@ -14604,6 +14604,9 @@
   urltools = {
     "0.4.0" = import ./overrides/urltools/0.4.0;
   };
+  ursina = {
+    "7.0.0" = import ./overrides/ursina/7.0.0;
+  };
   urwid = {
     "2.1.2" = import ./overrides/urwid/2.1.2;
   };
