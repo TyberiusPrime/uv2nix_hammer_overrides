@@ -1,1 +1,2 @@
+BuildSystems = [ "setuptools",]
 ManualOverrides = "__file__:sciviso/1.0.9/default.nix"
