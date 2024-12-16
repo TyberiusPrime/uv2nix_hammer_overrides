@@ -21323,6 +21323,7 @@
     "0.5.1" = import ./overrides/topp-utils/0.5.1;
   };
   torch = {
+    "2.3.1" = import ./overrides/torch/2.3.1;
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;
     "2.5.1" = import ./overrides/torch/2.5.1;
