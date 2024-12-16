@@ -23475,6 +23475,9 @@
   zipstream = {
     "1.1.4" = import ./overrides/zipstream/1.1.4;
   };
+  zipstream-new = {
+    "1.1.8" = import ./overrides/zipstream-new/1.1.8;
+  };
   zk = {
     "0.8.5" = import ./overrides/zk/0.8.5;
   };
