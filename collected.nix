@@ -22255,6 +22255,9 @@
   vdk-core = {
     "0.3.1424848411" = import ./overrides/vdk-core/0.3.1424848411;
   };
+  vdom = {
+    "1.0.0" = import ./overrides/vdom/1.0.0;
+  };
   vdt-versionplugin-default = {
     "0.0.3" = import ./overrides/vdt-versionplugin-default/0.0.3;
   };
