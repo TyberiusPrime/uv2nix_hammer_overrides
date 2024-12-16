@@ -22150,6 +22150,9 @@
   unqlite = {
     "0.9.6" = import ./overrides/unqlite/0.9.6;
   };
+  unrar = {
+    "0.4" = import ./overrides/unrar/0.4;
+  };
   unrardll = {
     "0.1.7" = import ./overrides/unrardll/0.1.7;
   };
