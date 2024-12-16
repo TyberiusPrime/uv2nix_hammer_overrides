@@ -15729,6 +15729,9 @@
   pyi2cflash = {
     "0.2.2" = import ./overrides/pyi2cflash/0.2.2;
   };
+  pyialarm = {
+    "2.2.0" = import ./overrides/pyialarm/2.2.0;
+  };
   pyiceberg = {
     "0.7.1" = import ./overrides/pyiceberg/0.7.1;
   };
