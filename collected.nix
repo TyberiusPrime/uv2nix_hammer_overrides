@@ -13119,6 +13119,9 @@
   static = {
     "1.1.1" = import ./overrides/static/1.1.1;
   };
+  static-ffmpeg = {
+    "2.7" = import ./overrides/static-ffmpeg/2.7;
+  };
   static3 = {
     "0.7.0" = import ./overrides/static3/0.7.0;
   };
