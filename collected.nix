@@ -885,6 +885,9 @@
     "3.2.1" = import ./overrides/appium-python-client/3.2.1;
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
+  applauncher = {
+    "2.3.0" = import ./overrides/applauncher/2.3.0;
+  };
   applescript = {
     "2021.2.9" = import ./overrides/applescript/2021.2.9;
   };
