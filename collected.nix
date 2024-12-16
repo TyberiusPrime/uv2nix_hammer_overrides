@@ -5168,6 +5168,9 @@
   gpt4all = {
     "2.8.2" = import ./overrides/gpt4all/2.8.2;
   };
+  gpuctypes = {
+    "0.3.0" = import ./overrides/gpuctypes/0.3.0;
+  };
   gpustat = {
     "1.1.1" = import ./overrides/gpustat/1.1.1;
   };
