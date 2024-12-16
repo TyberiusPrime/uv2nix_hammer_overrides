@@ -2407,6 +2407,9 @@
   can = {
     "0.0.0" = import ./overrides/can/0.0.0;
   };
+  canals = {
+    "0.11.0" = import ./overrides/canals/0.11.0;
+  };
   candv = {
     "1.3.1" = import ./overrides/candv/1.3.1;
     "1.5.0" = import ./overrides/candv/1.5.0;
