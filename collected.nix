@@ -14542,6 +14542,9 @@
   torchdata = {
     "0.8.0" = import ./overrides/torchdata/0.8.0;
   };
+  torchdiffeq = {
+    "0.2.4" = import ./overrides/torchdiffeq/0.2.4;
+  };
   torchfile = {
     "0.1.0" = import ./overrides/torchfile/0.1.0;
   };
