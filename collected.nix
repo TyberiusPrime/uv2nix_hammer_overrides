@@ -11286,6 +11286,9 @@
   mkdocs-simple-hooks = {
     "0.1.5" = import ./overrides/mkdocs-simple-hooks/0.1.5;
   };
+  mkdocs-swagger-ui-tag = {
+    "0.6.10" = import ./overrides/mkdocs-swagger-ui-tag/0.6.10;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
