@@ -7773,6 +7773,9 @@
   names = {
     "0.3.0" = import ./overrides/names/0.3.0;
   };
+  nampa = {
+    "0.1.1" = import ./overrides/nampa/0.1.1;
+  };
   nanoget = {
     "1.19.3" = import ./overrides/nanoget/1.19.3;
   };
