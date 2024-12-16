@@ -1,0 +1,4 @@
+BuildSystems = [ "numpy", "setuptools", "wheel",]
+DowngradeNumpy = "<2"
+DowngradePython = "3.10"
+NativeBuildInputs = [ "~literal:!:pkgs.ta-lib",]
