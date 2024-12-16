@@ -16194,6 +16194,9 @@
   pymediaroom = {
     "0.6.5.4" = import ./overrides/pymediaroom/0.6.5.4;
   };
+  pymedio = {
+    "0.2.14" = import ./overrides/pymedio/0.2.14;
+  };
   pymeeus = {
     "0.5.12" = import ./overrides/pymeeus/0.5.12;
   };
