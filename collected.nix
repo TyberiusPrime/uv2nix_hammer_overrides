@@ -18574,6 +18574,9 @@
   ring = {
     "0.10.1" = import ./overrides/ring/0.10.1;
   };
+  ring-doorbell = {
+    "0.9.4" = import ./overrides/ring-doorbell/0.9.4;
+  };
   ringo = {
     "1.14.0" = import ./overrides/ringo/1.14.0;
   };
