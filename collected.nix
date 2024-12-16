@@ -6407,6 +6407,9 @@
   jsonrpcserver = {
     "5.0.9" = import ./overrides/jsonrpcserver/5.0.9;
   };
+  jsonschema = {
+    "4.23.0" = import ./overrides/jsonschema/4.23.0;
+  };
   jsonsir = {
     "0.0.2" = import ./overrides/jsonsir/0.0.2;
   };
