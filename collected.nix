@@ -3790,6 +3790,9 @@
   d8s-dicts = {
     "0.6.0" = import ./overrides/d8s-dicts/0.6.0;
   };
+  d8s-file-system = {
+    "0.10.0" = import ./overrides/d8s-file-system/0.10.0;
+  };
   d8s-hypothesis = {
     "0.6.0" = import ./overrides/d8s-hypothesis/0.6.0;
   };
