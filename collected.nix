@@ -7411,6 +7411,9 @@
   mir-eval = {
     "0.7" = import ./overrides/mir-eval/0.7;
   };
+  mirdata = {
+    "0.3.8" = import ./overrides/mirdata/0.3.8;
+  };
   mirte = {
     "0.1.8" = import ./overrides/mirte/0.1.8;
   };
