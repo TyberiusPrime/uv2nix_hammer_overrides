@@ -15826,6 +15826,9 @@
   pyparser = {
     "1.0" = import ./overrides/pyparser/1.0;
   };
+  pyparsing = {
+    "3.1.4" = import ./overrides/pyparsing/3.1.4;
+  };
   pypattyrn = {
     "1.2" = import ./overrides/pypattyrn/1.2;
   };
