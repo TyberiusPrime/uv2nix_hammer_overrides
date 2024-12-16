@@ -15176,6 +15176,9 @@
   vapoursynth = {
     "70" = import ./overrides/vapoursynth/70;
   };
+  variants = {
+    "0.2.0" = import ./overrides/variants/0.2.0;
+  };
   varint = {
     "1.0.2" = import ./overrides/varint/1.0.2;
   };
