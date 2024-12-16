@@ -4737,6 +4737,9 @@
   django-hvad = {
     "1.8.0" = import ./overrides/django-hvad/1.8.0;
   };
+  django-i18nfield = {
+    "1.9.4" = import ./overrides/django-i18nfield/1.9.4;
+  };
   django-iban = {
     "0.3.1" = import ./overrides/django-iban/0.3.1;
   };
