@@ -5928,6 +5928,9 @@
   iso639 = {
     "0.1.4" = import ./overrides/iso639/0.1.4;
   };
+  iso639-lang = {
+    "2.3.0" = import ./overrides/iso639-lang/2.3.0;
+  };
   isodatetimehandler = {
     "1.0.2" = import ./overrides/isodatetimehandler/1.0.2;
   };
