@@ -9395,6 +9395,9 @@
   precise-runner = {
     "0.3.1" = import ./overrides/precise-runner/0.3.1;
   };
+  prefixmaps = {
+    "0.2.5" = import ./overrides/prefixmaps/0.2.5;
+  };
   preggy = {
     "1.4.4" = import ./overrides/preggy/1.4.4;
   };
