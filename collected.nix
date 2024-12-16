@@ -6082,6 +6082,9 @@
   ete3 = {
     "3.1.3" = import ./overrides/ete3/3.1.3;
   };
+  eternalegypt = {
+    "0.0.16" = import ./overrides/eternalegypt/0.0.16;
+  };
   etesync = {
     "0.12.1" = import ./overrides/etesync/0.12.1;
   };
