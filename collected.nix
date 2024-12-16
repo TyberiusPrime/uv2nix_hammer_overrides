@@ -15499,6 +15499,9 @@
   wolframclient = {
     "1.4.0" = import ./overrides/wolframclient/1.4.0;
   };
+  woodwork = {
+    "0.31.0" = import ./overrides/woodwork/0.31.0;
+  };
   word2number = {
     "1.1" = import ./overrides/word2number/1.1;
   };
