@@ -7157,6 +7157,9 @@
   mkdocs-redoc-tag = {
     "0.1.0" = import ./overrides/mkdocs-redoc-tag/0.1.0;
   };
+  mkdocs-linkcheck = {
+    "1.0.6" = import ./overrides/mkdocs-linkcheck/1.0.6;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
