@@ -9463,6 +9463,9 @@
   json-table-schema = {
     "0.2.1" = import ./overrides/json-table-schema/0.2.1;
   };
+  json-tricks = {
+    "3.17.3" = import ./overrides/json-tricks/3.17.3;
+  };
   json2html = {
     "1.3.0" = import ./overrides/json2html/1.3.0;
   };
