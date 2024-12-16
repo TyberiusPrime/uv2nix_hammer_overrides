@@ -12162,6 +12162,9 @@
   scrap-engine = {
     "1.4.1" = import ./overrides/scrap-engine/1.4.1;
   };
+  scrapbook = {
+    "0.5.0" = import ./overrides/scrapbook/0.5.0;
+  };
   scrapeasy = {
     "0.12" = import ./overrides/scrapeasy/0.12;
   };
