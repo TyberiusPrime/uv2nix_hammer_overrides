@@ -7063,6 +7063,9 @@
   metadir = {
     "0.0.2" = import ./overrides/metadir/0.0.2;
   };
+  metadrive = {
+    "1.4.35" = import ./overrides/metadrive/1.4.35;
+  };
   metaform = {
     "1.0.2.4" = import ./overrides/metaform/1.0.2.4;
   };
@@ -9577,6 +9580,7 @@
     "0.2.1" = import ./overrides/pyauto-util/0.2.1;
   };
   pyautogui = {
+    "0.9.42" = import ./overrides/pyautogui/0.9.42;
     "0.9.54" = import ./overrides/pyautogui/0.9.54;
   };
   pybalboa = {
