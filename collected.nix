@@ -4381,6 +4381,9 @@
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
+  fitbit = {
+    "0.3.1" = import ./overrides/fitbit/0.3.1;
+  };
   fitsio = {
     "1.2.4" = import ./overrides/fitsio/1.2.4;
   };
