@@ -5709,6 +5709,9 @@
   ecreall-helpers-upgrade = {
     "1.4" = import ./overrides/ecreall-helpers-upgrade/1.4;
   };
+  ecs-logging = {
+    "2.2.0" = import ./overrides/ecs-logging/2.2.0;
+  };
   ed25519-blake2b = {
     "1.4.1" = import ./overrides/ed25519-blake2b/1.4.1;
   };
