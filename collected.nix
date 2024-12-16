@@ -13575,6 +13575,9 @@
   sxsxml = {
     "0.0.0.5" = import ./overrides/sxsxml/0.0.0.5;
   };
+  syllables = {
+    "1.0.9" = import ./overrides/syllables/1.0.9;
+  };
   sym = {
     "0.3.5" = import ./overrides/sym/0.3.5;
   };
