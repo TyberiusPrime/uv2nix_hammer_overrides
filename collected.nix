@@ -21425,6 +21425,9 @@
   torch-spline-conv = {
     "1.2.2" = import ./overrides/torch-spline-conv/1.2.2;
   };
+  torch-tb-profiler = {
+    "0.4.3" = import ./overrides/torch-tb-profiler/0.4.3;
+  };
   torchaudio = {
     "2.4.1" = import ./overrides/torchaudio/2.4.1;
   };
