@@ -6302,6 +6302,7 @@
     "0.5.2" = import ./overrides/fcache/0.5.2;
   };
   fcm-django = {
+    "0.3.11" = import ./overrides/fcm-django/0.3.11;
     "2.2.1" = import ./overrides/fcm-django/2.2.1;
   };
   fcore = {
@@ -10271,6 +10272,7 @@
     "0.42.0" = import ./overrides/m2crypto/0.42.0;
   };
   m2r = {
+    "0.2.1" = import ./overrides/m2r/0.2.1;
     "0.3.1" = import ./overrides/m2r/0.3.1;
   };
   m3-ui = {
