@@ -2851,6 +2851,9 @@
   click-option-group = {
     "0.5.6" = import ./overrides/click-option-group/0.5.6;
   };
+  click-odoo = {
+    "1.6.0" = import ./overrides/click-odoo/1.6.0;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
