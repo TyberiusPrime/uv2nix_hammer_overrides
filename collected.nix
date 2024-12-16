@@ -19136,6 +19136,9 @@
   shortid = {
     "0.1.2" = import ./overrides/shortid/0.1.2;
   };
+  shortuuid = {
+    "1.0.13" = import ./overrides/shortuuid/1.0.13;
+  };
   showast = {
     "0.2.4" = import ./overrides/showast/0.2.4;
   };
