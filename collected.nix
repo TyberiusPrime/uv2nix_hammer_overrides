@@ -357,6 +357,9 @@
   "amuse_framework" = {
     "2024.6.0" = import ./overrides/amuse_framework/2024.6.0;
   };
+  analytics-python = {
+    "1.4.post1" = import ./overrides/analytics-python/1.4.post1;
+  };
   anchor-kr = {
     "0.1.3" = import ./overrides/anchor-kr/0.1.3;
   };
