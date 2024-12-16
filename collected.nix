@@ -5293,6 +5293,9 @@
   h2o = {
     "3.46.0.5" = import ./overrides/h2o/3.46.0.5;
   };
+  h3 = {
+    "3.7.7" = import ./overrides/h3/3.7.7;
+  };
   h5py = {
     "3.11.0" = import ./overrides/h5py/3.11.0;
     "3.7.0" = import ./overrides/h5py/3.7.0;
