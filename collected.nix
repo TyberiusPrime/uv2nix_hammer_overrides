@@ -8840,6 +8840,9 @@
   peewee = {
     "3.17.6" = import ./overrides/peewee/3.17.6;
   };
+  peewee-migrate = {
+    "1.13.0" = import ./overrides/peewee-migrate/1.13.0;
+  };
   pefile = {
     "2019.4.18" = import ./overrides/pefile/2019.4.18;
   };
