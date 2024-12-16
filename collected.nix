@@ -19391,6 +19391,9 @@
   speg = {
     "0.3" = import ./overrides/speg/0.3;
   };
+  spektral = {
+    "1.3.1" = import ./overrides/spektral/1.3.1;
+  };
   sphfile = {
     "1.0.3" = import ./overrides/sphfile/1.0.3;
   };
