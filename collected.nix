@@ -19756,6 +19756,9 @@
   simplegeneric = {
     "0.8.1" = import ./overrides/simplegeneric/0.8.1;
   };
+  simplehound = {
+    "0.6" = import ./overrides/simplehound/0.6;
+  };
   simplejson = {
     "3.11.1" = import ./overrides/simplejson/3.11.1;
   };
