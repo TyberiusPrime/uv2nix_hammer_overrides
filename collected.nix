@@ -19644,6 +19644,9 @@
   sjcl = {
     "0.2.1" = import ./overrides/sjcl/0.2.1;
   };
+  skan = {
+    "0.11.1" = import ./overrides/skan/0.11.1;
+  };
   skidl = {
     "1.2.3" = import ./overrides/skidl/1.2.3;
   };
