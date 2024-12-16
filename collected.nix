@@ -3012,6 +3012,9 @@
   cmsis-svd = {
     "0.4" = import ./overrides/cmsis-svd/0.4;
   };
+  cobaya = {
+    "3.5.4" = import ./overrides/cobaya/3.5.4;
+  };
   cobs = {
     "1.2.1" = import ./overrides/cobs/1.2.1;
   };
