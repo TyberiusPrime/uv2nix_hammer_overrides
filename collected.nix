@@ -14178,6 +14178,7 @@
     "1.0.3" = import ./overrides/tuspy/1.0.3;
   };
   tutor = {
+    "12.2.0" = import ./overrides/tutor/12.2.0;
     "18.1.3" = import ./overrides/tutor/18.1.3;
   };
   tutor-openedx = {
