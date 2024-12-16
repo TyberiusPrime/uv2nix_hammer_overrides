@@ -3529,6 +3529,9 @@
   crcmod = {
     "1.7" = import ./overrides/crcmod/1.7;
   };
+  crds = {
+    "11.18.4" = import ./overrides/crds/11.18.4;
+  };
   credis = {
     "2.0.2" = import ./overrides/credis/2.0.2;
   };
