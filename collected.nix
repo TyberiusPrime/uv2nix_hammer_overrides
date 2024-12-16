@@ -18178,6 +18178,9 @@
   reana-commons = {
     "0.9.8" = import ./overrides/reana-commons/0.9.8;
   };
+  rebulk = {
+    "3.2.0" = import ./overrides/rebulk/3.2.0;
+  };
   recaptcha-client = {
     "1.0.6" = import ./overrides/recaptcha-client/1.0.6;
   };
