@@ -8702,6 +8702,9 @@
     "1.18.0" = import ./overrides/patch-ng/1.18.0;
     "1.18.1" = import ./overrides/patch-ng/1.18.1;
   };
+  patchwork = {
+    "1.0.1" = import ./overrides/patchwork/1.0.1;
+  };
   path-and-address = {
     "2.0.1" = import ./overrides/path-and-address/2.0.1;
   };
