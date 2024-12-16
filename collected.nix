@@ -11139,6 +11139,9 @@
   mkdocs-mermaid2-plugin = {
     "1.1.1" = import ./overrides/mkdocs-mermaid2-plugin/1.1.1;
   };
+  mkdocs-macros-plugin = {
+    "1.0.5" = import ./overrides/mkdocs-macros-plugin/1.0.5;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
