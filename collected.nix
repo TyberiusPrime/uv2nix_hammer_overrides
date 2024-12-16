@@ -2902,6 +2902,9 @@
   click-log = {
     "0.4.0" = import ./overrides/click-log/0.4.0;
   };
+  clickhouse-cityhash = {
+    "1.0.2.4" = import ./overrides/clickhouse-cityhash/1.0.2.4;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
