@@ -12501,6 +12501,9 @@
   sciviso = {
     "1.0.9" = import ./overrides/sciviso/1.0.9;
   };
+  scmrepo = {
+    "3.3.7" = import ./overrides/scmrepo/3.3.7;
+  };
   scoop = {
     "0.7.2.0" = import ./overrides/scoop/0.7.2.0;
   };
