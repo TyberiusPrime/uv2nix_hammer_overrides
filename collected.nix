@@ -17375,6 +17375,9 @@
   python-slugify = {
     "1.2.6" = import ./overrides/python-slugify/1.2.6;
   };
+  python-smarttub = {
+    "0.0.37" = import ./overrides/python-smarttub/0.0.37;
+  };
   python-smpp = {
     "0.1.9" = import ./overrides/python-smpp/0.1.9;
   };
