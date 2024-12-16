@@ -2854,6 +2854,9 @@
   click-odoo = {
     "1.6.0" = import ./overrides/click-odoo/1.6.0;
   };
+  click-pathlib = {
+    "2020.3.13.0" = import ./overrides/click-pathlib/2020.3.13.0;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
