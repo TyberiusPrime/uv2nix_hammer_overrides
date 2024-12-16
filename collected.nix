@@ -18717,6 +18717,9 @@
   robotframework-sshlibrary = {
     "3.8.0" = import ./overrides/robotframework-sshlibrary/3.8.0;
   };
+  robotpy-cppheaderparser = {
+    "5.1.2" = import ./overrides/robotpy-cppheaderparser/5.1.2;
+  };
   robotpy-hal-base = {
     "2019.2.3" = import ./overrides/robotpy-hal-base/2019.2.3;
   };
