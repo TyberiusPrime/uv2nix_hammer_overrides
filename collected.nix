@@ -7183,6 +7183,9 @@
   maxminddb-geolite2 = {
     "2018.703" = import ./overrides/maxminddb-geolite2/2018.703;
   };
+  maya = {
+    "0.6.1" = import ./overrides/maya/0.6.1;
+  };
   mayavi = {
     "4.8.2" = import ./overrides/mayavi/4.8.2;
   };
