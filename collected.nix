@@ -17471,6 +17471,9 @@
   pyvmomi = {
     "8.0.3.0.1" = import ./overrides/pyvmomi/8.0.3.0.1;
   };
+  pyvolumio = {
+    "0.1.5" = import ./overrides/pyvolumio/0.1.5;
+  };
   pyvoro = {
     "1.3.2" = import ./overrides/pyvoro/1.3.2;
   };
