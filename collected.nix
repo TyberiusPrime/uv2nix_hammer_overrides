@@ -13924,6 +13924,9 @@
   strict-rfc3339 = {
     "0.7" = import ./overrides/strict-rfc3339/0.7;
   };
+  string-color = {
+    "1.2.3" = import ./overrides/string-color/1.2.3;
+  };
   stringcase = {
     "1.2.0" = import ./overrides/stringcase/1.2.0;
   };
