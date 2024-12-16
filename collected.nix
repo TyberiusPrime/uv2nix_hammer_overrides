@@ -18615,6 +18615,9 @@
   scales = {
     "1.0.9" = import ./overrides/scales/1.0.9;
   };
+  scalpl = {
+    "0.4.2" = import ./overrides/scalpl/0.4.2;
+  };
   scandir = {
     "1.10.0" = import ./overrides/scandir/1.10.0;
   };
