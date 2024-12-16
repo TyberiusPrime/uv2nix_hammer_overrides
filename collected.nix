@@ -13109,6 +13109,9 @@
   sphinxcontrib-fulltoc = {
     "1.2.0" = import ./overrides/sphinxcontrib-fulltoc/1.2.0;
   };
+  sphinxcontrib-htmlhelp = {
+    "2.1.0" = import ./overrides/sphinxcontrib-htmlhelp/2.1.0;
+  };
   sphinxcontrib-issuetracker = {
     "0.11" = import ./overrides/sphinxcontrib-issuetracker/0.11;
   };
