@@ -14577,6 +14577,9 @@
   unrardll = {
     "0.1.7" = import ./overrides/unrardll/0.1.7;
   };
+  unstructured-api-tools = {
+    "0.10.11" = import ./overrides/unstructured-api-tools/0.10.11;
+  };
   unsync = {
     "1.4.0" = import ./overrides/unsync/1.4.0;
   };
