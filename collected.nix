@@ -14244,6 +14244,9 @@
   products-addremovewidget = {
     "1.5.2" = import ./overrides/products-addremovewidget/1.5.2;
   };
+  products-attachmenttypes = {
+    "1.6" = import ./overrides/products-attachmenttypes/1.6;
+  };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
   };
