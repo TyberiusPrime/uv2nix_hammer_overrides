@@ -10398,6 +10398,7 @@
     "0.1.19" = import ./overrides/llamaindex-py-client/0.1.19;
   };
   llist = {
+    "0.7.1" = import ./overrides/llist/0.7.1;
     "0.8" = import ./overrides/llist/0.8;
   };
   llm = {
