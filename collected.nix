@@ -1017,6 +1017,9 @@
   baycomp = {
     "1.0.3" = import ./overrides/baycomp/1.0.3;
   };
+  bayesian-optimization = {
+    "1.5.1" = import ./overrides/bayesian-optimization/1.5.1;
+  };
   bayespy = {
     "0.6.2" = import ./overrides/bayespy/0.6.2;
   };
