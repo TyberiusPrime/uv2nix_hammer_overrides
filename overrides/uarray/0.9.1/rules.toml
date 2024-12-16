@@ -1,0 +1,2 @@
+BuildSystems = [ "scikit-build-core", "setuptools-scm",]
+NativeBuildInputs = [ "~literal:!:pkgs.cmake",]
