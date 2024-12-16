@@ -8222,6 +8222,7 @@
   };
   humanize = {
     "0.5.1" = import ./overrides/humanize/0.5.1;
+    "4.10.0" = import ./overrides/humanize/4.10.0;
   };
   humblewx = {
     "0.2.2" = import ./overrides/humblewx/0.2.2;
