@@ -2732,6 +2732,9 @@
   dictobject = {
     "1.1.1" = import ./overrides/dictobject/1.1.1;
   };
+  dictop = {
+    "0.2.2" = import ./overrides/dictop/0.2.2;
+  };
   dictor = {
     "0.1.12" = import ./overrides/dictor/0.1.12;
   };
