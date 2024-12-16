@@ -2898,6 +2898,9 @@
   django-bootstrap-toolkit = {
     "2.15.0" = import ./overrides/django-bootstrap-toolkit/2.15.0;
   };
+  django-bootstrap3 = {
+    "24.2" = import ./overrides/django-bootstrap3/24.2;
+  };
   django-bootstrap3-datetimepicker = {
     "2.2.3" = import ./overrides/django-bootstrap3-datetimepicker/2.2.3;
   };
