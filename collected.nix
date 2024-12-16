@@ -18371,6 +18371,9 @@
   reconfigure = {
     "0.1.82" = import ./overrides/reconfigure/0.1.82;
   };
+  reconplogger = {
+    "4.16.1" = import ./overrides/reconplogger/4.16.1;
+  };
   recordclass = {
     "0.22.1" = import ./overrides/recordclass/0.22.1;
   };
