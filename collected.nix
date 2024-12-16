@@ -92,6 +92,9 @@
   aerich = {
     "0.7.2" = import ./overrides/aerich/0.7.2;
   };
+  aesara-theano-fallback = {
+    "0.1.0" = import ./overrides/aesara-theano-fallback/0.1.0;
+  };
   aescipher = {
     "6.0.0" = import ./overrides/aescipher/6.0.0;
   };
