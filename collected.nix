@@ -584,6 +584,7 @@
   };
   argon2-cffi = {
     "16.3.0" = import ./overrides/argon2-cffi/16.3.0;
+    "23.1.0" = import ./overrides/argon2-cffi/23.1.0;
   };
   argon2-cffi-bindings = {
     "21.2.0" = import ./overrides/argon2-cffi-bindings/21.2.0;
