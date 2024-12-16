@@ -13457,6 +13457,9 @@
     "1.5.1" = import ./overrides/pendulum/1.5.1;
     "2.1.2" = import ./overrides/pendulum/2.1.2;
   };
+  pep257 = {
+    "0.7.0" = import ./overrides/pep257/0.7.0;
+  };
   pep3143daemon = {
     "0.1.0" = import ./overrides/pep3143daemon/0.1.0;
   };
