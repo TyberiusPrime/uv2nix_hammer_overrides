@@ -845,6 +845,9 @@
   awesome-slugify = {
     "1.6.5" = import ./overrides/awesome-slugify/1.6.5;
   };
+  awesomeversion = {
+    "24.6.0" = import ./overrides/awesomeversion/24.6.0;
+  };
   awkward = {
     "1.10.5" = import ./overrides/awkward/1.10.5;
     "2.6.7" = import ./overrides/awkward/2.6.7;
