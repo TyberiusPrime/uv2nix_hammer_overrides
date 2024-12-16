@@ -675,6 +675,9 @@
   android-backup = {
     "0.2.0" = import ./overrides/android-backup/0.2.0;
   };
+  androidtvremote2 = {
+    "0.1.2" = import ./overrides/androidtvremote2/0.1.2;
+  };
   angr = {
     "9.2.117" = import ./overrides/angr/9.2.117;
     "9.2.120" = import ./overrides/angr/9.2.120;
