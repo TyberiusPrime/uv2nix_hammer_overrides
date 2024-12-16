@@ -10995,6 +10995,9 @@
   mkdocs-linkcheck = {
     "1.0.6" = import ./overrides/mkdocs-linkcheck/1.0.6;
   };
+  mkdocs-mermaid2-plugin = {
+    "1.1.1" = import ./overrides/mkdocs-mermaid2-plugin/1.1.1;
+  };
   ml-collections = {
     "0.1.1" = import ./overrides/ml-collections/0.1.1;
   };
