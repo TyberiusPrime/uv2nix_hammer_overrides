@@ -14578,6 +14578,9 @@
   psqlparse = {
     "1.0rc7" = import ./overrides/psqlparse/1.0rc7;
   };
+  psrpcore = {
+    "0.3.0" = import ./overrides/psrpcore/0.3.0;
+  };
   psutil = {
     "5.8.0" = import ./overrides/psutil/5.8.0;
     "5.9.0" = import ./overrides/psutil/5.9.0;
