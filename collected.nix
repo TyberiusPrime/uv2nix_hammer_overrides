@@ -7275,6 +7275,9 @@
   monkeyhex = {
     "1.7.4" = import ./overrides/monkeyhex/1.7.4;
   };
+  monotonic = {
+    "1.6" = import ./overrides/monotonic/1.6;
+  };
   monthdelta = {
     "0.9.1" = import ./overrides/monthdelta/0.9.1;
   };
