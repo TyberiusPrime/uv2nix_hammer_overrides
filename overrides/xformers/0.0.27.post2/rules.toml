@@ -1,2 +1,4 @@
 BuildInputs = [ "~literal:!:pkgs.cudaPackages.cuda_cudart",]
+BuildSystems = [ "setuptools",]
+NativeBuildInputs = [ "~literal:!:final.torch", "~literal:!:pkgs.which",]
 Torch = true
