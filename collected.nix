@@ -1972,6 +1972,9 @@
   bitmath = {
     "1.3.3.1" = import ./overrides/bitmath/1.3.3.1;
   };
+  bitmex = {
+    "0.2.2" = import ./overrides/bitmex/0.2.2;
+  };
   bitsandbytes = {
     "0.43.3" = import ./overrides/bitsandbytes/0.43.3;
   };
