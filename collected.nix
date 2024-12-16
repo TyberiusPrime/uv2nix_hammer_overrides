@@ -8012,6 +8012,9 @@
   nes-py = {
     "8.2.1" = import ./overrides/nes-py/8.2.1;
   };
+  nessclient = {
+    "1.1.2" = import ./overrides/nessclient/1.1.2;
+  };
   nested-dict = {
     "1.61" = import ./overrides/nested-dict/1.61;
   };
