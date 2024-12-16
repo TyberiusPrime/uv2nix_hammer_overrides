@@ -17963,6 +17963,9 @@
     "1.7.0" = import ./overrides/reedsolo/1.7.0;
     "2.0.13" = import ./overrides/reedsolo/2.0.13;
   };
+  refery = {
+    "2.1.0" = import ./overrides/refery/2.1.0;
+  };
   reflink = {
     "0.2.2" = import ./overrides/reflink/0.2.2;
   };
