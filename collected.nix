@@ -10536,6 +10536,9 @@
   pylatexenc = {
     "2.10" = import ./overrides/pylatexenc/2.10;
   };
+  pylaunches = {
+    "2.0.0" = import ./overrides/pylaunches/2.0.0;
+  };
   pyld = {
     "1.0.5" = import ./overrides/pyld/1.0.5;
   };
