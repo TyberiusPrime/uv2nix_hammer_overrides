@@ -10529,6 +10529,9 @@
   loremipsum = {
     "1.0.5" = import ./overrides/loremipsum/1.0.5;
   };
+  losant-rest = {
+    "1.19.10" = import ./overrides/losant-rest/1.19.10;
+  };
   lottie = {
     "0.7.0" = import ./overrides/lottie/0.7.0;
   };
