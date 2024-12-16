@@ -14472,6 +14472,9 @@
   urlparse2 = {
     "1.1.1" = import ./overrides/urlparse2/1.1.1;
   };
+  urlpy = {
+    "0.5" = import ./overrides/urlpy/0.5;
+  };
   urltools = {
     "0.4.0" = import ./overrides/urltools/0.4.0;
   };
