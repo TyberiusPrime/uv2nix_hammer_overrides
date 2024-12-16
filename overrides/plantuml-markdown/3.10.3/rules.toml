@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+MissingEmptyFiles = [ "/build/plantuml-markdown-3.10.3/test-requirements.txt",]
