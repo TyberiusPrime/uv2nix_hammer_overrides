@@ -22757,6 +22757,9 @@
   wit = {
     "6.0.1" = import ./overrides/wit/6.0.1;
   };
+  withings-api = {
+    "2.4.0" = import ./overrides/withings-api/2.4.0;
+  };
   withings-sync = {
     "4.2.5" = import ./overrides/withings-sync/4.2.5;
   };
