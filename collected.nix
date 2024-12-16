@@ -1805,6 +1805,9 @@
   bencoder = {
     "0.2.0" = import ./overrides/bencoder/0.2.0;
   };
+  beniget = {
+    "0.4.2.post1" = import ./overrides/beniget/0.4.2.post1;
+  };
   bernhard = {
     "0.2.6" = import ./overrides/bernhard/0.2.6;
   };
