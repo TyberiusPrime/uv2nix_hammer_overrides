@@ -4027,6 +4027,9 @@
   fdm = {
     "0.4.1" = import ./overrides/fdm/0.4.1;
   };
+  fe25519 = {
+    "1.5.0" = import ./overrides/fe25519/1.5.0;
+  };
   feather-format = {
     "0.4.1" = import ./overrides/feather-format/0.4.1;
   };
