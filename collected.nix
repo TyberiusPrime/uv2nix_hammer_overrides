@@ -3651,6 +3651,9 @@
   curlify = {
     "2.2.1" = import ./overrides/curlify/2.2.1;
   };
+  curses-menu = {
+    "0.9.0" = import ./overrides/curses-menu/0.9.0;
+  };
   cursor = {
     "1.3.5" = import ./overrides/cursor/1.3.5;
   };
