@@ -15393,6 +15393,9 @@
   wordninja = {
     "2.0.0" = import ./overrides/wordninja/2.0.0;
   };
+  wordsegment = {
+    "1.3.1" = import ./overrides/wordsegment/1.3.1;
+  };
   workdays = {
     "1.4" = import ./overrides/workdays/1.4;
   };
