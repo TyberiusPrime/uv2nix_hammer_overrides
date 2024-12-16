@@ -5699,6 +5699,9 @@
   eebrightbox = {
     "0.0.6" = import ./overrides/eebrightbox/0.0.6;
   };
+  eel = {
+    "0.17.0" = import ./overrides/eel/0.17.0;
+  };
   eemont = {
     "0.3.6" = import ./overrides/eemont/0.3.6;
   };
