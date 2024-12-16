@@ -14406,6 +14406,9 @@
   protocoin = {
     "0.2" = import ./overrides/protocoin/0.2;
   };
+  protoletariat = {
+    "3.2.19" = import ./overrides/protoletariat/3.2.19;
+  };
   protorpc = {
     "0.12.0" = import ./overrides/protorpc/0.12.0;
   };
