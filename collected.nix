@@ -8368,6 +8368,9 @@
     "0.1.0" = import ./overrides/optional-django/0.1.0;
     "0.3.0" = import ./overrides/optional-django/0.3.0;
   };
+  optlang = {
+    "1.8.2" = import ./overrides/optlang/1.8.2;
+  };
   optproblems = {
     "1.3" = import ./overrides/optproblems/1.3;
   };
