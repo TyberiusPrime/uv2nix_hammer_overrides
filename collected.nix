@@ -21035,6 +21035,9 @@
   tensorflow-addons = {
     "0.23.0" = import ./overrides/tensorflow-addons/0.23.0;
   };
+  tensorflow-datasets = {
+    "4.9.6" = import ./overrides/tensorflow-datasets/4.9.6;
+  };
   tensorflow-io-gcs-filesystem = {
     "0.37.1" = import ./overrides/tensorflow-io-gcs-filesystem/0.37.1;
   };
