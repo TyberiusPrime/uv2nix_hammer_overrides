@@ -14112,6 +14112,7 @@
   };
   termcolor = {
     "1.1.0" = import ./overrides/termcolor/1.1.0;
+    "2.4.0" = import ./overrides/termcolor/2.4.0;
   };
   terminado = {
     "0.18.1" = import ./overrides/terminado/0.18.1;
