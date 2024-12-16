@@ -4575,6 +4575,9 @@
   django-debug-panel = {
     "0.8.3" = import ./overrides/django-debug-panel/0.8.3;
   };
+  django-defender = {
+    "0.9.8" = import ./overrides/django-defender/0.9.8;
+  };
   django-deprecate-fields = {
     "0.1.2" = import ./overrides/django-deprecate-fields/0.1.2;
   };
