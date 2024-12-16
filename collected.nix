@@ -5552,6 +5552,7 @@
   };
   dpt-file = {
     "1.0.3" = import ./overrides/dpt-file/1.0.3;
+    "1.0.3.post1" = import ./overrides/dpt-file/1.0.3.post1;
   };
   dpt-json = {
     "1.0.3" = import ./overrides/dpt-json/1.0.3;
