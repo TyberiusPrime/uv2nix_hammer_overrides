@@ -8555,6 +8555,9 @@
   ilock = {
     "1.0.3" = import ./overrides/ilock/1.0.3;
   };
+  ilua = {
+    "0.2.1" = import ./overrides/ilua/0.2.1;
+  };
   image = {
     "1.5.33" = import ./overrides/image/1.5.33;
   };
