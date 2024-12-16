@@ -5534,6 +5534,9 @@
   hwdata = {
     "2.4.1" = import ./overrides/hwdata/2.4.1;
   };
+  hwi = {
+    "3.0.0" = import ./overrides/hwi/3.0.0;
+  };
   hy = {
     "0.29.0" = import ./overrides/hy/0.29.0;
   };
