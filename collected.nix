@@ -9847,6 +9847,9 @@
   keyutils = {
     "0.6" = import ./overrides/keyutils/0.6;
   };
+  kfp = {
+    "2.8.0" = import ./overrides/kfp/2.8.0;
+  };
   kfp-server-api = {
     "2.0.5" = import ./overrides/kfp-server-api/2.0.5;
   };
