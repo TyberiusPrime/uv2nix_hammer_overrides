@@ -12250,6 +12250,9 @@
   nanohttp = {
     "1.11.10" = import ./overrides/nanohttp/1.11.10;
   };
+  nanoid = {
+    "2.0.0" = import ./overrides/nanoid/2.0.0;
+  };
   nanolib = {
     "0.4.3" = import ./overrides/nanolib/0.4.3;
   };
