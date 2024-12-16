@@ -2940,6 +2940,9 @@
   django-compat = {
     "1.0.15" = import ./overrides/django-compat/1.0.15;
   };
+  django-compression-middleware = {
+    "0.5.0" = import ./overrides/django-compression-middleware/0.5.0;
+  };
   django-concurrency = {
     "2.5" = import ./overrides/django-concurrency/2.5;
   };
