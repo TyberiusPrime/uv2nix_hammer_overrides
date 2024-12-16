@@ -2504,6 +2504,9 @@
   dark-matter = {
     "4.0.89" = import ./overrides/dark-matter/4.0.89;
   };
+  darkdetect = {
+    "0.8.0" = import ./overrides/darkdetect/0.8.0;
+  };
   dartsclone = {
     "0.10.2" = import ./overrides/dartsclone/0.10.2;
   };
