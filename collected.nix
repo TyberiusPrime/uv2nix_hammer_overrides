@@ -9424,6 +9424,7 @@
     "1.5.0" = import ./overrides/kanjize/1.5.0;
   };
   kappa = {
+    "0.6.0" = import ./overrides/kappa/0.6.0;
     "0.7.0" = import ./overrides/kappa/0.7.0;
   };
   kasa-crypt = {
@@ -13836,6 +13837,7 @@
   };
   placebo = {
     "0.10.0" = import ./overrides/placebo/0.10.0;
+    "0.9.0" = import ./overrides/placebo/0.9.0;
   };
   plaid-python = {
     "25.0.0" = import ./overrides/plaid-python/25.0.0;
