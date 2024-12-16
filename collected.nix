@@ -4864,6 +4864,9 @@
   git-sweep = {
     "0.1.1" = import ./overrides/git-sweep/0.1.1;
   };
+  git-url-parse = {
+    "1.2.2" = import ./overrides/git-url-parse/1.2.2;
+  };
   gitapi = {
     "1.0.1" = import ./overrides/gitapi/1.0.1;
     "1.1.0a2" = import ./overrides/gitapi/1.1.0a2;
