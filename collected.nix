@@ -2628,6 +2628,9 @@
   db = {
     "0.1.1" = import ./overrides/db/0.1.1;
   };
+  db-dtypes = {
+    "1.3.0" = import ./overrides/db-dtypes/1.3.0;
+  };
   db-sqlite3 = {
     "0.0.1" = import ./overrides/db-sqlite3/0.0.1;
   };
