@@ -1600,6 +1600,9 @@
   chirptext = {
     "0.1.2" = import ./overrides/chirptext/0.1.2;
   };
+  chispa = {
+    "0.10.1" = import ./overrides/chispa/0.10.1;
+  };
   chroma-hnswlib = {
     "0.7.3" = import ./overrides/chroma-hnswlib/0.7.3;
   };
