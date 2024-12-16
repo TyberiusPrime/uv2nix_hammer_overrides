@@ -24174,6 +24174,9 @@
   zmq = {
     "0.0.0" = import ./overrides/zmq/0.0.0;
   };
+  zmtools = {
+    "3.0.1" = import ./overrides/zmtools/3.0.1;
+  };
   zodb3 = {
     "3.11.0" = import ./overrides/zodb3/3.11.0;
   };
