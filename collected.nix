@@ -1731,6 +1731,9 @@
   batchgenerators = {
     "0.25" = import ./overrides/batchgenerators/0.25;
   };
+  batchspawner = {
+    "1.3.0" = import ./overrides/batchspawner/1.3.0;
+  };
   batinfo = {
     "0.4.2" = import ./overrides/batinfo/0.4.2;
   };
