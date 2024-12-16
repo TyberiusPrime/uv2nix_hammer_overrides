@@ -8519,6 +8519,9 @@
   ingots = {
     "0.2.1" = import ./overrides/ingots/0.2.1;
   };
+  iniconfig = {
+    "2.0.0" = import ./overrides/iniconfig/2.0.0;
+  };
   inifile = {
     "0.4.1" = import ./overrides/inifile/0.4.1;
   };
