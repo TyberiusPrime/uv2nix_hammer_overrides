@@ -2879,6 +2879,9 @@
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
     "2.20.0" = import ./overrides/cloudflare/2.20.0;
   };
+  cloudflare-dyndns = {
+    "4.1" = import ./overrides/cloudflare-dyndns/4.1;
+  };
   cloudify-common = {
     "7.0.4" = import ./overrides/cloudify-common/7.0.4;
   };
