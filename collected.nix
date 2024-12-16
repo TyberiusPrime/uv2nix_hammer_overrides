@@ -2558,6 +2558,9 @@
   cement = {
     "2.8.2" = import ./overrides/cement/2.8.2;
   };
+  cemm = {
+    "0.5.1" = import ./overrides/cemm/0.5.1;
+  };
   cenpy = {
     "1.0.1" = import ./overrides/cenpy/1.0.1;
   };
