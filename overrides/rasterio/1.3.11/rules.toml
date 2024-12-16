@@ -1,0 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.gdal",]
+BuildSystems = [ "cython", "numpy", "oldest-supported-numpy", "setuptools", "wheel",]
+NativeBuildInputs = [ "~literal:!:pkgs.gdal",]
