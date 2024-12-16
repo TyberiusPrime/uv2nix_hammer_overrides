@@ -8775,6 +8775,9 @@
   pathquery = {
     "0.3.0" = import ./overrides/pathquery/0.3.0;
   };
+  patiencediff = {
+    "0.2.15" = import ./overrides/patiencediff/0.2.15;
+  };
   pause = {
     "0.3" = import ./overrides/pause/0.3;
   };
