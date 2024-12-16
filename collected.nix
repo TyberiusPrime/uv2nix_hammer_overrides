@@ -2318,6 +2318,9 @@
   bx-python = {
     "0.10.0" = import ./overrides/bx-python/0.10.0;
   };
+  bytecode = {
+    "0.15.1" = import ./overrides/bytecode/0.15.1;
+  };
   bz2file = {
     "0.98" = import ./overrides/bz2file/0.98;
   };
