@@ -13467,6 +13467,9 @@
   sockio = {
     "0.15.0" = import ./overrides/sockio/0.15.0;
   };
+  sockjs = {
+    "0.13.0" = import ./overrides/sockjs/0.13.0;
+  };
   sockjs-tornado = {
     "1.0.7" = import ./overrides/sockjs-tornado/1.0.7;
   };
