@@ -1,0 +1,2 @@
+BuildSystems = [ "setuptools",]
+MissingEmptyFiles = [ "/build/pysubtypes-0.3.18/requirements.txt",]
