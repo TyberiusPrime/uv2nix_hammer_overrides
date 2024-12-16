@@ -17692,6 +17692,9 @@
   pywinusb = {
     "0.4.2" = import ./overrides/pywinusb/0.4.2;
   };
+  pywizlight = {
+    "0.5.14" = import ./overrides/pywizlight/0.5.14;
+  };
   pywlroots = {
     "0.17.0" = import ./overrides/pywlroots/0.17.0;
   };
