@@ -18015,6 +18015,9 @@
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
+  resolvelib = {
+    "1.0.1" = import ./overrides/resolvelib/1.0.1;
+  };
   resolver = {
     "0.2.1" = import ./overrides/resolver/0.2.1;
   };
