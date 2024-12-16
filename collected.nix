@@ -11744,6 +11744,9 @@
   radical-utils = {
     "1.81.0" = import ./overrides/radical-utils/1.81.0;
   };
+  radios = {
+    "0.3.1" = import ./overrides/radios/0.3.1;
+  };
   radiotherm = {
     "2.1.0" = import ./overrides/radiotherm/2.1.0;
   };
