@@ -22690,6 +22690,9 @@
     "3.0.0" = import ./overrides/vortexpy/3.0.0;
     "3.1.0" = import ./overrides/vortexpy/3.1.0;
   };
+  vos = {
+    "3.6.1.1" = import ./overrides/vos/3.6.1.1;
+  };
   vowpalwabbit = {
     "9.10.0" = import ./overrides/vowpalwabbit/9.10.0;
   };
