@@ -9357,6 +9357,9 @@
   jsondiff = {
     "1.1.1" = import ./overrides/jsondiff/1.1.1;
   };
+  jsonextended = {
+    "0.7.11" = import ./overrides/jsonextended/0.7.11;
+  };
   jsonfeed = {
     "0.0.1" = import ./overrides/jsonfeed/0.0.1;
   };
