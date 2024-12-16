@@ -9799,6 +9799,9 @@
   keeper-secrets-manager-core = {
     "16.6.5" = import ./overrides/keeper-secrets-manager-core/16.6.5;
   };
+  keepkey = {
+    "6.3.1" = import ./overrides/keepkey/6.3.1;
+  };
   kegbot-pyutils = {
     "1.0.0" = import ./overrides/kegbot-pyutils/1.0.0;
   };
