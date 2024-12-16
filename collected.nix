@@ -2648,6 +2648,9 @@
   dev0s = {
     "3.36.6" = import ./overrides/dev0s/3.36.6;
   };
+  devialet = {
+    "1.4.5" = import ./overrides/devialet/1.4.5;
+  };
   device-detector = {
     "5.0.1" = import ./overrides/device-detector/5.0.1;
   };
