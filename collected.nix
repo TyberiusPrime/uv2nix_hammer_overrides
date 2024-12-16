@@ -6095,6 +6095,9 @@
   jsonpickle = {
     "0.9.3" = import ./overrides/jsonpickle/0.9.3;
   };
+  jsonref = {
+    "1.1.0" = import ./overrides/jsonref/1.1.0;
+  };
   jsonrpc-async = {
     "2.1.2" = import ./overrides/jsonrpc-async/2.1.2;
   };
