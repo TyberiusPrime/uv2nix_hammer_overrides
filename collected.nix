@@ -16221,6 +16221,9 @@
   pync = {
     "2.0.3" = import ./overrides/pync/2.0.3;
   };
+  pynello = {
+    "2.0.3" = import ./overrides/pynello/2.0.3;
+  };
   pyneqsys = {
     "0.5.7" = import ./overrides/pyneqsys/0.5.7;
   };
