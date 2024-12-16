@@ -10447,6 +10447,9 @@
   m3-ui = {
     "3.0.1.6" = import ./overrides/m3-ui/3.0.1.6;
   };
+  m3u8 = {
+    "6.0.0" = import ./overrides/m3u8/6.0.0;
+  };
   m9s-trytond = {
     "7.0.7" = import ./overrides/m9s-trytond/7.0.7;
   };
