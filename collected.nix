@@ -470,6 +470,9 @@
   apiage = {
     "0.1.4" = import ./overrides/apiage/0.1.4;
   };
+  apiai = {
+    "1.2.3" = import ./overrides/apiai/1.2.3;
+  };
   apiclient = {
     "1.0.4" = import ./overrides/apiclient/1.0.4;
   };
