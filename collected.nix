@@ -12949,6 +12949,9 @@
   nvidia-cusparse-cu12 = {
     "12.1.0.106" = import ./overrides/nvidia-cusparse-cu12/12.1.0.106;
   };
+  nvidia-ml-py = {
+    "12.560.30" = import ./overrides/nvidia-ml-py/12.560.30;
+  };
   nvidia-ml-py3 = {
     "7.352.0" = import ./overrides/nvidia-ml-py3/7.352.0;
   };
