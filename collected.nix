@@ -2477,6 +2477,9 @@
   d8s-math = {
     "0.7.0" = import ./overrides/d8s-math/0.7.0;
   };
+  d8s-networking = {
+    "0.4.2" = import ./overrides/d8s-networking/0.4.2;
+  };
   d8s-strings = {
     "0.5.0" = import ./overrides/d8s-strings/0.5.0;
   };
