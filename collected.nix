@@ -4663,6 +4663,9 @@
   getch = {
     "1.0" = import ./overrides/getch/1.0;
   };
+  getconf = {
+    "1.11.1" = import ./overrides/getconf/1.11.1;
+  };
   getdist = {
     "1.5.2" = import ./overrides/getdist/1.5.2;
   };
