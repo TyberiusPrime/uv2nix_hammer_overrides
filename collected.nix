@@ -11021,6 +11021,9 @@
   miniful = {
     "0.0.6" = import ./overrides/miniful/0.0.6;
   };
+  minify-html = {
+    "0.15.0" = import ./overrides/minify-html/0.15.0;
+  };
   minikanren = {
     "1.0.3" = import ./overrides/minikanren/1.0.3;
   };
