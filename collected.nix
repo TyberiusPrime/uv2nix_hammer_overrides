@@ -10512,6 +10512,9 @@
   louvain = {
     "0.8.2" = import ./overrides/louvain/0.8.2;
   };
+  lovely-memcached = {
+    "0.2.2" = import ./overrides/lovely-memcached/0.2.2;
+  };
   lovely-pytest-docker = {
     "1.0.0" = import ./overrides/lovely-pytest-docker/1.0.0;
   };
