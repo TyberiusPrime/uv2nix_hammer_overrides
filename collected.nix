@@ -6587,6 +6587,9 @@
   khmer = {
     "2.1.1" = import ./overrides/khmer/2.1.1;
   };
+  kiara = {
+    "0.5.12" = import ./overrides/kiara/0.5.12;
+  };
   kindi = {
     "0.0.4" = import ./overrides/kindi/0.0.4;
   };
