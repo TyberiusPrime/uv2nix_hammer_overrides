@@ -13477,6 +13477,9 @@
   stdiomask = {
     "0.0.6" = import ./overrides/stdiomask/0.0.6;
   };
+  stdlib-list = {
+    "0.10.0" = import ./overrides/stdlib-list/0.10.0;
+  };
   steam = {
     "1.4.4" = import ./overrides/steam/1.4.4;
   };
