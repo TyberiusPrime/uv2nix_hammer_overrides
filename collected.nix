@@ -2152,6 +2152,9 @@
   bpycv = {
     "0.4.0" = import ./overrides/bpycv/0.4.0;
   };
+  bpython = {
+    "0.24" = import ./overrides/bpython/0.24;
+  };
   brabbel = {
     "0.4.4" = import ./overrides/brabbel/0.4.4;
   };
