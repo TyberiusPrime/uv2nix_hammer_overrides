@@ -1004,6 +1004,9 @@
   argparse-dataclass = {
     "2.0.0" = import ./overrides/argparse-dataclass/2.0.0;
   };
+  argparse-ext = {
+    "1.4.2" = import ./overrides/argparse-ext/1.4.2;
+  };
   argparse-manpage = {
     "4.6" = import ./overrides/argparse-manpage/4.6;
   };
