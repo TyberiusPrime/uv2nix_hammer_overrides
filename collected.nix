@@ -16978,6 +16978,9 @@
   python-logstash = {
     "0.4.8" = import ./overrides/python-logstash/0.4.8;
   };
+  python-logstash-async = {
+    "3.0.0" = import ./overrides/python-logstash-async/3.0.0;
+  };
   python-louvain = {
     "0.16" = import ./overrides/python-louvain/0.16;
   };
