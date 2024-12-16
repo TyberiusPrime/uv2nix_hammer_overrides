@@ -10653,6 +10653,9 @@
   pyphases = {
     "1.2.8" = import ./overrides/pyphases/1.2.8;
   };
+  pyphen = {
+    "0.16.0" = import ./overrides/pyphen/0.16.0;
+  };
   pypi-publisher = {
     "0.0.4" = import ./overrides/pypi-publisher/0.0.4;
   };
