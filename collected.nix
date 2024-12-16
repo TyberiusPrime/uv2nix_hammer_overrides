@@ -22250,6 +22250,9 @@
   umap = {
     "0.1.1" = import ./overrides/umap/0.1.1;
   };
+  umap-learn = {
+    "0.5.6" = import ./overrides/umap-learn/0.5.6;
+  };
   umi-tools = {
     "1.1.5" = import ./overrides/umi-tools/1.1.5;
   };
