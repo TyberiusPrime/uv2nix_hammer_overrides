@@ -13813,6 +13813,9 @@
   termcolor = {
     "1.1.0" = import ./overrides/termcolor/1.1.0;
   };
+  terminado = {
+    "0.18.1" = import ./overrides/terminado/0.18.1;
+  };
   terminal = {
     "0.4.0" = import ./overrides/terminal/0.4.0;
   };
