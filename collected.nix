@@ -10049,6 +10049,9 @@
   pydevccu = {
     "0.1.8" = import ./overrides/pydevccu/0.1.8;
   };
+  pydevd = {
+    "3.1.0" = import ./overrides/pydevd/3.1.0;
+  };
   pydevd-pycharm = {
     "242.21829.153" = import ./overrides/pydevd-pycharm/242.21829.153;
   };
