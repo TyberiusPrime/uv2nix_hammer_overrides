@@ -7646,6 +7646,9 @@
   gprof2dot = {
     "2021.2.21" = import ./overrides/gprof2dot/2021.2.21;
   };
+  gprofiler-official = {
+    "1.0.0" = import ./overrides/gprofiler-official/1.0.0;
+  };
   gpsd-py3 = {
     "0.3.0" = import ./overrides/gpsd-py3/0.3.0;
   };
