@@ -17227,6 +17227,9 @@
   python-djvulibre = {
     "0.8.8" = import ./overrides/python-djvulibre/0.8.8;
   };
+  python-docx = {
+    "1.1.2" = import ./overrides/python-docx/1.1.2;
+  };
   python-doi = {
     "0.2.0" = import ./overrides/python-doi/0.2.0;
   };
