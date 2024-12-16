@@ -14126,6 +14126,9 @@
   texta-tools = {
     "2.2.0" = import ./overrides/texta-tools/2.2.0;
   };
+  textacy = {
+    "0.13.0" = import ./overrides/textacy/0.13.0;
+  };
   textbisect = {
     "0.1.0" = import ./overrides/textbisect/0.1.0;
   };
