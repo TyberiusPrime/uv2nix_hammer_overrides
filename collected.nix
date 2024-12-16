@@ -2877,6 +2877,9 @@
   click-plugins = {
     "1.1.1" = import ./overrides/click-plugins/1.1.1;
   };
+  click-log = {
+    "0.4.0" = import ./overrides/click-log/0.4.0;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
