@@ -1,0 +1,2 @@
+BuildSystems = [ "cython", "numpy", "poetry-core", "setuptools", "setuptools-rust", "wheel",]
+Rust = [ "setuptools_rust", "hammer_build_river_0.21.2/overrides/overrides/river/0.21.2/Cargo.lock",]
