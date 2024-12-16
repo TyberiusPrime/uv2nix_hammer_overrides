@@ -7120,6 +7120,9 @@
   gazpacho = {
     "1.1" = import ./overrides/gazpacho/1.1;
   };
+  gb-io = {
+    "0.3.3" = import ./overrides/gb-io/0.3.3;
+  };
   gb2seq = {
     "0.2.23" = import ./overrides/gb2seq/0.2.23;
   };
