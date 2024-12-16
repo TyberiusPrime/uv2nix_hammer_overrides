@@ -98,6 +98,9 @@
   adapter-transformers = {
     "4.0.0" = import ./overrides/adapter-transformers/4.0.0;
   };
+  adax = {
+    "0.4.0" = import ./overrides/adax/0.4.0;
+  };
   adb-shell = {
     "0.4.4" = import ./overrides/adb-shell/0.4.4;
   };
