@@ -9781,6 +9781,7 @@
     "2.8.6" = import ./overrides/psycopg2-binary/2.8.6;
     "2.9.3" = import ./overrides/psycopg2-binary/2.9.3;
     "2.9.5" = import ./overrides/psycopg2-binary/2.9.5;
+    "2.9.9" = import ./overrides/psycopg2-binary/2.9.9;
   };
   psycopg2cffi = {
     "2.9.0" = import ./overrides/psycopg2cffi/2.9.0;
