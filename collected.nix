@@ -358,6 +358,9 @@
   annoy = {
     "1.17.3" = import ./overrides/annoy/1.17.3;
   };
+  ansi = {
+    "0.3.7" = import ./overrides/ansi/0.3.7;
+  };
   ansi2image = {
     "0.1.4" = import ./overrides/ansi2image/0.1.4;
   };
