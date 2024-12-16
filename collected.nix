@@ -12339,6 +12339,9 @@
   reprshed = {
     "1.0.6" = import ./overrides/reprshed/1.0.6;
   };
+  reptor = {
+    "0.22" = import ./overrides/reptor/0.22;
+  };
   reqif = {
     "0.0.42" = import ./overrides/reqif/0.0.42;
   };
