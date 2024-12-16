@@ -3078,6 +3078,9 @@
   django-jinja2 = {
     "0.1" = import ./overrides/django-jinja2/0.1;
   };
+  django-jquery = {
+    "3.1.0" = import ./overrides/django-jquery/3.1.0;
+  };
   django-jquery-js = {
     "3.1.1" = import ./overrides/django-jquery-js/3.1.1;
   };
