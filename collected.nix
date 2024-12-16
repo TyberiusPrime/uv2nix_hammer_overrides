@@ -19881,6 +19881,9 @@
   stellar-base-sseclient = {
     "0.0.21" = import ./overrides/stellar-base-sseclient/0.0.21;
   };
+  stellargraph = {
+    "1.2.1" = import ./overrides/stellargraph/1.2.1;
+  };
   stem = {
     "1.8.2" = import ./overrides/stem/1.8.2;
   };
