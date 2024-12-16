@@ -7627,6 +7627,9 @@
   google-gax = {
     "0.12.5" = import ./overrides/google-gax/0.12.5;
   };
+  google-i18n-address = {
+    "3.1.1" = import ./overrides/google-i18n-address/3.1.1;
+  };
   google-images-download = {
     "2.8.0" = import ./overrides/google-images-download/2.8.0;
   };
