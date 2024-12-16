@@ -9403,6 +9403,9 @@
     "5.9.0" = import ./overrides/psutil/5.9.0;
     "6.0.0" = import ./overrides/psutil/6.0.0;
   };
+  psy-simple = {
+    "1.5.1" = import ./overrides/psy-simple/1.5.1;
+  };
   psychrolib = {
     "2.5.0" = import ./overrides/psychrolib/2.5.0;
   };
