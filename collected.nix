@@ -10353,6 +10353,9 @@
   lyrebird = {
     "3.0.5" = import ./overrides/lyrebird/3.0.5;
   };
+  lyricsgenius = {
+    "3.0.1" = import ./overrides/lyricsgenius/3.0.1;
+  };
   lyricwikia = {
     "0.1.11" = import ./overrides/lyricwikia/0.1.11;
   };
