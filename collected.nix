@@ -9820,6 +9820,9 @@
   pydotplus = {
     "2.0.2" = import ./overrides/pydotplus/2.0.2;
   };
+  pydpkg = {
+    "1.9.3" = import ./overrides/pydpkg/1.9.3;
+  };
   pydrive = {
     "1.3.1" = import ./overrides/pydrive/1.3.1;
   };
