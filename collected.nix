@@ -1945,6 +1945,12 @@
   collective-iconifieddocumentactions = {
     "1.3.2" = import ./overrides/collective-iconifieddocumentactions/1.3.2;
   };
+  collective-js-bootstrap = {
+    "3.3.7" = import ./overrides/collective-js-bootstrap/3.3.7;
+  };
+  collective-js-galleria = {
+    "1.2.5" = import ./overrides/collective-js-galleria/1.2.5;
+  };
   collective-js-iframeresizer = {
     "0.4" = import ./overrides/collective-js-iframeresizer/0.4;
   };
