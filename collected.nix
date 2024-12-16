@@ -4653,6 +4653,7 @@
   };
   ftfy = {
     "4.4.3" = import ./overrides/ftfy/4.4.3;
+    "6.2.3" = import ./overrides/ftfy/6.2.3;
   };
   ftpretty = {
     "0.4.0" = import ./overrides/ftpretty/0.4.0;
