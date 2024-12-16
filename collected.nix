@@ -14714,6 +14714,9 @@
   unsync = {
     "1.4.0" = import ./overrides/unsync/1.4.0;
   };
+  untangle = {
+    "1.2.1" = import ./overrides/untangle/1.2.1;
+  };
   untokenize = {
     "0.1.1" = import ./overrides/untokenize/0.1.1;
   };
