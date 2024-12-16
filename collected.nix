@@ -9926,6 +9926,9 @@
   lazy-write = {
     "0.0.1" = import ./overrides/lazy-write/0.0.1;
   };
+  lazyarray = {
+    "0.6.0" = import ./overrides/lazyarray/0.6.0;
+  };
   lazyasd = {
     "0.1.4" = import ./overrides/lazyasd/0.1.4;
   };
