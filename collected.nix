@@ -2964,6 +2964,9 @@
   cmdline = {
     "0.2.0" = import ./overrides/cmdline/0.2.0;
   };
+  cmdstanpy = {
+    "1.2.4" = import ./overrides/cmdstanpy/1.2.4;
+  };
   cmeel-urdfdom = {
     "3.1.1.1" = import ./overrides/cmeel-urdfdom/3.1.1.1;
   };
