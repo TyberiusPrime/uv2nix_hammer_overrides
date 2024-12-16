@@ -6736,6 +6736,9 @@
   fireworks = {
     "2.0.3" = import ./overrides/fireworks/2.0.3;
   };
+  first = {
+    "2.0.2" = import ./overrides/first/2.0.2;
+  };
   fishbase = {
     "1.6" = import ./overrides/fishbase/1.6;
   };
