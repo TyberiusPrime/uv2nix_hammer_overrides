@@ -11112,6 +11112,9 @@
   pysheds = {
     "0.4" = import ./overrides/pysheds/0.4;
   };
+  pyshortcuts = {
+    "1.9.1" = import ./overrides/pyshortcuts/1.9.1;
+  };
   pyshorteners = {
     "1.0.1" = import ./overrides/pyshorteners/1.0.1;
   };
