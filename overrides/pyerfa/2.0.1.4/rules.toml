@@ -1,0 +1,1 @@
+BuildSystems = [ "jinja2", "numpy", "setuptools", "setuptools-scm",]
