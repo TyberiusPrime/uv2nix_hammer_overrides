@@ -20365,6 +20365,9 @@
   theano-pymc = {
     "1.1.2" = import ./overrides/theano-pymc/1.1.2;
   };
+  thefuzz = {
+    "0.22.1" = import ./overrides/thefuzz/0.22.1;
+  };
   thepiratebay = {
     "1.3.5" = import ./overrides/thepiratebay/1.3.5;
   };
