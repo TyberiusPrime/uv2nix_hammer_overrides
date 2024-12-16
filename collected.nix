@@ -23223,6 +23223,9 @@
   xdsmjs = {
     "2.0.0" = import ./overrides/xdsmjs/2.0.0;
   };
+  xdxf2html = {
+    "0.1.0" = import ./overrides/xdxf2html/0.1.0;
+  };
   xerox = {
     "0.4.1" = import ./overrides/xerox/0.4.1;
   };
