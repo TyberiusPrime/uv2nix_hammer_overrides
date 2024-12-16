@@ -6105,6 +6105,9 @@
   iwlib = {
     "1.7.0" = import ./overrides/iwlib/1.7.0;
   };
+  izaber = {
+    "3.1.20240731" = import ./overrides/izaber/3.1.20240731;
+  };
   jabberbot = {
     "0.16" = import ./overrides/jabberbot/0.16;
   };
