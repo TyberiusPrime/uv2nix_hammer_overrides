@@ -14969,6 +14969,9 @@
   pwndbg = {
     "0.1.1" = import ./overrides/pwndbg/0.1.1;
   };
+  pwntools = {
+    "4.13.0" = import ./overrides/pwntools/4.13.0;
+  };
   px-pipeline = {
     "0.1.2" = import ./overrides/px-pipeline/0.1.2;
   };
