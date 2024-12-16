@@ -56,6 +56,9 @@
   acor = {
     "1.1.1" = import ./overrides/acor/1.1.1;
   };
+  acora = {
+    "2.4" = import ./overrides/acora/2.4;
+  };
   acoustics = {
     "0.2.6" = import ./overrides/acoustics/0.2.6;
   };
