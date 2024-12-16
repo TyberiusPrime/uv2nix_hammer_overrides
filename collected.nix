@@ -8559,6 +8559,9 @@
   onetrick = {
     "2.1.1" = import ./overrides/onetrick/2.1.1;
   };
+  onigurumacffi = {
+    "1.3.0" = import ./overrides/onigurumacffi/1.3.0;
+  };
   onkyo-eiscp = {
     "1.2.7" = import ./overrides/onkyo-eiscp/1.2.7;
   };
