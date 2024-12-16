@@ -1,0 +1,1 @@
+BuildSystems = [ "h5py", "numpy", "scipy", "setuptools", "wheel",]
