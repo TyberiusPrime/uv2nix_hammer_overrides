@@ -12506,6 +12506,9 @@
   ng-adapter = {
     "0.2.1" = import ./overrides/ng-adapter/0.2.1;
   };
+  ng-app-converter = {
+    "1.0.8" = import ./overrides/ng-app-converter/1.0.8;
+  };
   ng-app-objectqueue = {
     "0.0.8" = import ./overrides/ng-app-objectqueue/0.0.8;
   };
