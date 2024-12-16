@@ -1673,6 +1673,9 @@
   click-threading = {
     "0.5.0" = import ./overrides/click-threading/0.5.0;
   };
+  click-odoo-contrib = {
+    "1.19" = import ./overrides/click-odoo-contrib/1.19;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
