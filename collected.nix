@@ -13138,6 +13138,9 @@
   sphinx-autodoc-annotation = {
     "1.0.post1" = import ./overrides/sphinx-autodoc-annotation/1.0.post1;
   };
+  sphinx-automodapi = {
+    "0.17.0" = import ./overrides/sphinx-automodapi/0.17.0;
+  };
   sphinx-better-theme = {
     "0.1.5" = import ./overrides/sphinx-better-theme/0.1.5;
   };
