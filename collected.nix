@@ -12087,6 +12087,9 @@
   sceptre-file-resolver = {
     "1.0.6" = import ./overrides/sceptre-file-resolver/1.0.6;
   };
+  schedula = {
+    "1.5.23" = import ./overrides/schedula/1.5.23;
+  };
   scheduler-cron = {
     "0.1" = import ./overrides/scheduler-cron/0.1;
   };
