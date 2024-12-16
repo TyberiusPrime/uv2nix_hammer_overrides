@@ -5024,6 +5024,9 @@
   hapiclient = {
     "0.2.6" = import ./overrides/hapiclient/0.2.6;
   };
+  happi = {
+    "2.5.0" = import ./overrides/happi/2.5.0;
+  };
   happybase = {
     "1.2.0" = import ./overrides/happybase/1.2.0;
   };
