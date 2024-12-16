@@ -5057,6 +5057,9 @@
   gsutil = {
     "5.30" = import ./overrides/gsutil/5.30;
   };
+  gto = {
+    "1.7.1" = import ./overrides/gto/1.7.1;
+  };
   gtts-token = {
     "1.1.4" = import ./overrides/gtts-token/1.1.4;
   };
