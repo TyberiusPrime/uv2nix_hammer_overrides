@@ -1,1 +1,2 @@
 BuildInputs = [ "~literal:!:pkgs.cudaPackages.libcurand", "~literal:!:pkgs.cudaPackages_11.cuda_cudart", "~literal:!:pkgs.cudaPackages_11.libcublas",]
+BuildSystems = [ "cmake", "cython", "ninja", "scikit-build", "scipy", "setuptools", "wheel",]
