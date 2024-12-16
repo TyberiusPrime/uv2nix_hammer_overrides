@@ -4337,6 +4337,9 @@
   flatbencode = {
     "0.2.1" = import ./overrides/flatbencode/0.2.1;
   };
+  flatbuffers = {
+    "24.3.25" = import ./overrides/flatbuffers/24.3.25;
+  };
   flatdict = {
     "4.0.1" = import ./overrides/flatdict/4.0.1;
   };
