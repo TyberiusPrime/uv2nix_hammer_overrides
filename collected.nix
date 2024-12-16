@@ -1914,6 +1914,9 @@
   colorlog = {
     "6.8.2" = import ./overrides/colorlog/6.8.2;
   };
+  colored-traceback = {
+    "0.4.2" = import ./overrides/colored-traceback/0.4.2;
+  };
   colormath = {
     "3.0.0" = import ./overrides/colormath/3.0.0;
   };
