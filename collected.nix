@@ -18857,6 +18857,9 @@
   seqeval = {
     "1.2.2" = import ./overrides/seqeval/1.2.2;
   };
+  sequana-pipetools = {
+    "1.1.1" = import ./overrides/sequana-pipetools/1.1.1;
+  };
   serafin = {
     "0.12.2" = import ./overrides/serafin/0.12.2;
   };
