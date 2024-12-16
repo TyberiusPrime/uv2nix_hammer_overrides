@@ -7464,6 +7464,9 @@
   mongodict = {
     "0.3.1" = import ./overrides/mongodict/0.3.1;
   };
+  mongoengine = {
+    "0.29.0" = import ./overrides/mongoengine/0.29.0;
+  };
   mongokit = {
     "0.9.1.1" = import ./overrides/mongokit/0.9.1.1;
   };
