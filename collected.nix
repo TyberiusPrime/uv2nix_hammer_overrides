@@ -10634,6 +10634,9 @@
   meinheld = {
     "1.0.2" = import ./overrides/meinheld/1.0.2;
   };
+  mementos = {
+    "1.3.1" = import ./overrides/mementos/1.3.1;
+  };
   memoization = {
     "0.4.0" = import ./overrides/memoization/0.4.0;
   };
