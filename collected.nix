@@ -23704,6 +23704,9 @@
   yamlreader = {
     "3.0.4" = import ./overrides/yamlreader/3.0.4;
   };
+  yams = {
+    "1.0" = import ./overrides/yams/1.0;
+  };
   yanc = {
     "0.3.3" = import ./overrides/yanc/0.3.3;
   };
