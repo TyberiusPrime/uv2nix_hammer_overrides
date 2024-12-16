@@ -10276,6 +10276,9 @@
   pykmtronic = {
     "0.3.0" = import ./overrides/pykmtronic/0.3.0;
   };
+  pykoplenti = {
+    "1.2.2" = import ./overrides/pykoplenti/1.2.2;
+  };
   pykrakenapi = {
     "0.3.2" = import ./overrides/pykrakenapi/0.3.2;
   };
