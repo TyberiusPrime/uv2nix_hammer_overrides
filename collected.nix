@@ -6320,6 +6320,9 @@
   kegbot-pyutils = {
     "1.0.0" = import ./overrides/kegbot-pyutils/1.0.0;
   };
+  kegtron-ble = {
+    "0.4.0" = import ./overrides/kegtron-ble/0.4.0;
+  };
   kenlm = {
     "0.2.0" = import ./overrides/kenlm/0.2.0;
   };
