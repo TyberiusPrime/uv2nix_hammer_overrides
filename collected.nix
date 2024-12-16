@@ -12088,6 +12088,9 @@
   nested-lookup = {
     "0.2.25" = import ./overrides/nested-lookup/0.2.25;
   };
+  nestedtext = {
+    "3.7" = import ./overrides/nestedtext/3.7;
+  };
   nestle = {
     "0.2.0" = import ./overrides/nestle/0.2.0;
   };
