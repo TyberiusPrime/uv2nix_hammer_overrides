@@ -4322,6 +4322,9 @@
   diffimg = {
     "0.3.0" = import ./overrides/diffimg/0.3.0;
   };
+  diffprivlib = {
+    "0.6.4" = import ./overrides/diffprivlib/0.6.4;
+  };
   diffpy-structure = {
     "3.2.1" = import ./overrides/diffpy-structure/3.2.1;
   };
