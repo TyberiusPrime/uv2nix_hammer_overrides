@@ -56,6 +56,9 @@
   acoustics = {
     "0.2.6" = import ./overrides/acoustics/0.2.6;
   };
+  acquisition-sanitizer = {
+    "0.4.1" = import ./overrides/acquisition-sanitizer/0.4.1;
+  };
   active-alchemy = {
     "1.1.0" = import ./overrides/active-alchemy/1.1.0;
   };
