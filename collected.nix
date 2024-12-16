@@ -14222,6 +14222,9 @@
   products-atextensions = {
     "1.1" = import ./overrides/products-atextensions/1.1;
   };
+  products-addremovewidget = {
+    "1.5.2" = import ./overrides/products-addremovewidget/1.5.2;
+  };
   products-cmfcalendar = {
     "2.2.3" = import ./overrides/products-cmfcalendar/2.2.3;
   };
