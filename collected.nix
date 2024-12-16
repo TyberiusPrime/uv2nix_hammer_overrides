@@ -10428,6 +10428,9 @@
   pyhull = {
     "2015.2.1" = import ./overrides/pyhull/2015.2.1;
   };
+  pyhumps = {
+    "3.8.0" = import ./overrides/pyhumps/3.8.0;
+  };
   pyi2cflash = {
     "0.2.2" = import ./overrides/pyi2cflash/0.2.2;
   };
