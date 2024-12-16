@@ -2894,6 +2894,9 @@
   cloudshell-orch-core = {
     "4.5.0.5000" = import ./overrides/cloudshell-orch-core/4.5.0.5000;
   };
+  cloudshell-shell-connectivity-flow = {
+    "4.2.0" = import ./overrides/cloudshell-shell-connectivity-flow/4.2.0;
+  };
   cloudshell-shell-core = {
     "4.0.242" = import ./overrides/cloudshell-shell-core/4.0.242;
   };
