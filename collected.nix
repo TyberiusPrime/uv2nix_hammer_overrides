@@ -321,6 +321,9 @@
   aiohttp-route-decorator = {
     "0.1.4" = import ./overrides/aiohttp-route-decorator/0.1.4;
   };
+  aiohttp-rpc = {
+    "1.3.1" = import ./overrides/aiohttp-rpc/1.3.1;
+  };
   aiohttp-security = {
     "0.5.0" = import ./overrides/aiohttp-security/0.5.0;
   };
