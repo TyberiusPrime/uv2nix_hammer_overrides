@@ -4641,6 +4641,9 @@
   funcy = {
     "1.10.1" = import ./overrides/funcy/1.10.1;
   };
+  fundamentals = {
+    "2.7.0" = import ./overrides/fundamentals/2.7.0;
+  };
   funga = {
     "0.5.7" = import ./overrides/funga/0.5.7;
   };
