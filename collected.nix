@@ -5880,11 +5880,35 @@
   js-jquery-form = {
     "3.9" = import ./overrides/js-jquery-form/3.9;
   };
+  js-jquery-maskedinput = {
+    "1.4.1" = import ./overrides/js-jquery-maskedinput/1.4.1;
+  };
+  js-jquery-maskmoney = {
+    "3.0.2" = import ./overrides/js-jquery-maskmoney/3.0.2;
+  };
+  js-jquery-sortable = {
+    "0.9.13" = import ./overrides/js-jquery-sortable/0.9.13;
+  };
+  js-jquery-tablednd = {
+    "0.4" = import ./overrides/js-jquery-tablednd/0.4;
+  };
   js-jquery-timepicker-addon = {
     "1.5.3" = import ./overrides/js-jquery-timepicker-addon/1.5.3;
   };
   js-jqueryui = {
     "1.10.3" = import ./overrides/js-jqueryui/1.10.3;
+  };
+  js-jqueryui-tagit = {
+    "2.0.24.post2" = import ./overrides/js-jqueryui-tagit/2.0.24.post2;
+  };
+  js-modernizr = {
+    "2.5.3.1" = import ./overrides/js-modernizr/2.5.3.1;
+  };
+  js-select2 = {
+    "4.0.4.post1" = import ./overrides/js-select2/4.0.4.post1;
+  };
+  js-tinymce = {
+    "4.5.4" = import ./overrides/js-tinymce/4.5.4;
   };
   jsbeautifier = {
     "1.15.1" = import ./overrides/jsbeautifier/1.15.1;
@@ -6215,6 +6239,9 @@
   };
   kotti = {
     "2.0.9" = import ./overrides/kotti/2.0.9;
+  };
+  kotti-settings = {
+    "0.3" = import ./overrides/kotti-settings/0.3;
   };
   kotti-tinymce = {
     "0.7.1" = import ./overrides/kotti-tinymce/0.7.1;
