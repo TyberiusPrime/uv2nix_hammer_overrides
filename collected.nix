@@ -18740,6 +18740,9 @@
   samplerate = {
     "0.2.1" = import ./overrides/samplerate/0.2.1;
   };
+  samsungctl = {
+    "0.7.1" = import ./overrides/samsungctl/0.7.1;
+  };
   samsungtvws = {
     "2.6.0" = import ./overrides/samsungtvws/2.6.0;
   };
