@@ -591,6 +591,9 @@
   arpy = {
     "2.3.0" = import ./overrides/arpy/2.3.0;
   };
+  arq = {
+    "0.26.1" = import ./overrides/arq/0.26.1;
+  };
   array-api-compat = {
     "1.8" = import ./overrides/array-api-compat/1.8;
   };
