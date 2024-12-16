@@ -5328,6 +5328,9 @@
   dlib = {
     "19.24.6" = import ./overrides/dlib/19.24.6;
   };
+  dlnpyutils = {
+    "1.0.67" = import ./overrides/dlnpyutils/1.0.67;
+  };
   dlx = {
     "1.0.4" = import ./overrides/dlx/1.0.4;
   };
