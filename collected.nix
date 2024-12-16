@@ -4570,6 +4570,9 @@
   gatt = {
     "0.2.7" = import ./overrides/gatt/0.2.7;
   };
+  gawd = {
+    "1.1.1" = import ./overrides/gawd/1.1.1;
+  };
   gax-google-logging-v2 = {
     "0.8.3" = import ./overrides/gax-google-logging-v2/0.8.3;
   };
