@@ -1,0 +1,2 @@
+BuildSystems = [ "meson", "meson-python", "ninja", "pybind11",]
+NativeBuildInputs = [ "~literal:!:pkgs.meson",]
