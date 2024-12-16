@@ -1856,6 +1856,9 @@
   bgconfig = {
     "0.10" = import ./overrides/bgconfig/0.10;
   };
+  bgen-reader = {
+    "4.0.8" = import ./overrides/bgen-reader/4.0.8;
+  };
   bibtexparser = {
     "1.4.1" = import ./overrides/bibtexparser/1.4.1;
   };
