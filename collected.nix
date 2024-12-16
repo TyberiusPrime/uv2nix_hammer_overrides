@@ -1990,6 +1990,9 @@
   bitvector = {
     "3.5.0" = import ./overrides/bitvector/3.5.0;
   };
+  bizerror = {
+    "0.4.11" = import ./overrides/bizerror/0.4.11;
+  };
   bizkaibus = {
     "0.1.4" = import ./overrides/bizkaibus/0.1.4;
   };
