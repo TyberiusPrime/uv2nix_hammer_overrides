@@ -15791,6 +15791,9 @@
   xml-utils = {
     "1.21.0" = import ./overrides/xml-utils/1.21.0;
   };
+  xml2rfc = {
+    "3.23.0" = import ./overrides/xml2rfc/3.23.0;
+  };
   xmlbuilder = {
     "1.0" = import ./overrides/xmlbuilder/1.0;
   };
