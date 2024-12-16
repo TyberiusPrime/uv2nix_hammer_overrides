@@ -12984,6 +12984,9 @@
   stream2py = {
     "1.0.42" = import ./overrides/stream2py/1.0.42;
   };
+  streamdeck = {
+    "0.9.5" = import ./overrides/streamdeck/0.9.5;
+  };
   streaming-form-data = {
     "1.16.0" = import ./overrides/streaming-form-data/1.16.0;
   };
