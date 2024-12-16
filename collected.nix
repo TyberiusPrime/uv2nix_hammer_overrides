@@ -10646,6 +10646,9 @@
   pykafka = {
     "2.8.0" = import ./overrides/pykafka/2.8.0;
   };
+  pykalman = {
+    "0.9.7" = import ./overrides/pykalman/0.9.7;
+  };
   pykcs11 = {
     "1.5.17" = import ./overrides/pykcs11/1.5.17;
   };
