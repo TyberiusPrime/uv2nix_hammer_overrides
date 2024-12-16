@@ -8130,6 +8130,9 @@
   netifaces = {
     "0.11.0" = import ./overrides/netifaces/0.11.0;
   };
+  netmap = {
+    "0.7.0.2" = import ./overrides/netmap/0.7.0.2;
+  };
   netstruct = {
     "1.1.2" = import ./overrides/netstruct/1.1.2;
   };
