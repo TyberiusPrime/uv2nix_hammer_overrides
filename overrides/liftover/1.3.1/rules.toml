@@ -1,0 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.zlib",]
+BuildSystems = [ "cython", "setuptools", "wheel",]
