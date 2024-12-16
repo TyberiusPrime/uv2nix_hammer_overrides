@@ -11599,6 +11599,9 @@
   pywinpty = {
     "2.0.13" = import ./overrides/pywinpty/2.0.13;
   };
+  pywinrm = {
+    "0.5.0" = import ./overrides/pywinrm/0.5.0;
+  };
   pywinusb = {
     "0.4.2" = import ./overrides/pywinusb/0.4.2;
   };
