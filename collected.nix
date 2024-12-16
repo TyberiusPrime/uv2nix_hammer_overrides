@@ -23512,6 +23512,9 @@
   zstd = {
     "1.5.5.1" = import ./overrides/zstd/1.5.5.1;
   };
+  ztfquery = {
+    "1.28.0" = import ./overrides/ztfquery/1.28.0;
+  };
   ztfy-jqueryui = {
     "0.7.12" = import ./overrides/ztfy-jqueryui/0.7.12;
   };
