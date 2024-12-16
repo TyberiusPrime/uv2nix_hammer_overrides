@@ -9573,6 +9573,9 @@
   pycld2 = {
     "0.41" = import ./overrides/pycld2/0.41;
   };
+  pycldf = {
+    "1.39.0" = import ./overrides/pycldf/1.39.0;
+  };
   pycli = {
     "2.0.3" = import ./overrides/pycli/2.0.3;
   };
