@@ -11195,6 +11195,9 @@
   python-augeas = {
     "1.1.0" = import ./overrides/python-augeas/1.1.0;
   };
+  python-axolotl = {
+    "0.2.3" = import ./overrides/python-axolotl/0.2.3;
+  };
   python-axolotl-curve25519 = {
     "0.4.1.post2" = import ./overrides/python-axolotl-curve25519/0.4.1.post2;
   };
