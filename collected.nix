@@ -11926,6 +11926,7 @@
     "3.0.0" = import ./overrides/redo/3.0.0;
   };
   reedsolo = {
+    "1.7.0" = import ./overrides/reedsolo/1.7.0;
     "2.0.13" = import ./overrides/reedsolo/2.0.13;
   };
   reflink = {
