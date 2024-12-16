@@ -897,6 +897,9 @@
   aqualogic = {
     "3.4" = import ./overrides/aqualogic/3.4;
   };
+  arabic-reshaper = {
+    "3.0.0" = import ./overrides/arabic-reshaper/3.0.0;
+  };
   aranet4 = {
     "2.4.0" = import ./overrides/aranet4/2.4.0;
   };
