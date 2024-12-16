@@ -879,6 +879,7 @@
     "1.34.4" = import ./overrides/appier/1.34.4;
   };
   appium-python-client = {
+    "3.2.1" = import ./overrides/appium-python-client/3.2.1;
     "4.1.0" = import ./overrides/appium-python-client/4.1.0;
   };
   applescript = {
