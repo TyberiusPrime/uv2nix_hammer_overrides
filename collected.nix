@@ -4508,6 +4508,9 @@
   flex = {
     "6.14.1" = import ./overrides/flex/6.14.1;
   };
+  flexmock = {
+    "0.12.1" = import ./overrides/flexmock/0.12.1;
+  };
   flexsolve = {
     "0.5.7" = import ./overrides/flexsolve/0.5.7;
   };
