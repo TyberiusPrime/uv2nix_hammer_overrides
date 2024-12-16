@@ -12906,6 +12906,9 @@
   slackweb = {
     "1.0.5" = import ./overrides/slackweb/1.0.5;
   };
+  sleepyq = {
+    "0.8.1" = import ./overrides/sleepyq/0.8.1;
+  };
   slimit = {
     "0.8.1" = import ./overrides/slimit/0.8.1;
   };
