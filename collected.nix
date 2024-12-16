@@ -14,6 +14,9 @@
   aadict = {
     "0.2.3" = import ./overrides/aadict/0.2.3;
   };
+  aafigure = {
+    "0.6" = import ./overrides/aafigure/0.6;
+  };
   abjad = {
     "3.19" = import ./overrides/abjad/3.19;
   };
