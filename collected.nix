@@ -793,6 +793,9 @@
   autobreadcrumbs = {
     "2.0.0" = import ./overrides/autobreadcrumbs/2.0.0;
   };
+  autoconf = {
+    "2024.7.16.1" = import ./overrides/autoconf/2024.7.16.1;
+  };
   autocorrect = {
     "2.6.1" = import ./overrides/autocorrect/2.6.1;
   };
