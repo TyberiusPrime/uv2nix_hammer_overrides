@@ -10359,6 +10359,9 @@
   lucene-querybuilder = {
     "0.2" = import ./overrides/lucene-querybuilder/0.2;
   };
+  luftdaten = {
+    "0.7.4" = import ./overrides/luftdaten/0.7.4;
+  };
   luhn = {
     "0.2.0" = import ./overrides/luhn/0.2.0;
   };
