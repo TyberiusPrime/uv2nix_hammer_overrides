@@ -22411,6 +22411,12 @@
   unisos-x822msg = {
     "0.10" = import ./overrides/unisos-x822msg/0.10;
   };
+  unisos2-icm = {
+    "0.19" = import ./overrides/unisos2-icm/0.19;
+  };
+  unisos2-ucf = {
+    "0.12" = import ./overrides/unisos2-ucf/0.12;
+  };
   units = {
     "0.7" = import ./overrides/units/0.7;
   };
