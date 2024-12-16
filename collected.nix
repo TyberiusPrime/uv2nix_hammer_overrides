@@ -8777,6 +8777,9 @@
   pdfminer3 = {
     "2018.12.3.0" = import ./overrides/pdfminer3/2018.12.3.0;
   };
+  pdfplumber = {
+    "0.11.4" = import ./overrides/pdfplumber/0.11.4;
+  };
   pdfquery = {
     "0.4.3" = import ./overrides/pdfquery/0.4.3;
   };
