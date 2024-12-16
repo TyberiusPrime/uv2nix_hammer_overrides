@@ -23272,6 +23272,9 @@
   xdis = {
     "6.1.1" = import ./overrides/xdis/6.1.1;
   };
+  xdoctest = {
+    "1.2.0" = import ./overrides/xdoctest/1.2.0;
+  };
   xdsmjs = {
     "2.0.0" = import ./overrides/xdsmjs/2.0.0;
   };
