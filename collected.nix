@@ -15569,6 +15569,9 @@
   pyderive3 = {
     "0.0.6" = import ./overrides/pyderive3/0.0.6;
   };
+  pyderman = {
+    "3.3.2" = import ./overrides/pyderman/3.3.2;
+  };
   pydes = {
     "2.0.1" = import ./overrides/pydes/2.0.1;
   };
