@@ -5018,6 +5018,9 @@
   happybase = {
     "1.2.0" = import ./overrides/happybase/1.2.0;
   };
+  harmony-pytorch = {
+    "0.1.8" = import ./overrides/harmony-pytorch/0.1.8;
+  };
   hash-ring = {
     "1.3.1" = import ./overrides/hash-ring/1.3.1;
   };
