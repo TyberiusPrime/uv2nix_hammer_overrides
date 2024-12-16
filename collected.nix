@@ -2965,6 +2965,7 @@
   cloudflare = {
     "2.19.4" = import ./overrides/cloudflare/2.19.4;
     "2.20.0" = import ./overrides/cloudflare/2.20.0;
+    "3.1.0" = import ./overrides/cloudflare/3.1.0;
   };
   cloudflare-dyndns = {
     "4.1" = import ./overrides/cloudflare-dyndns/4.1;
