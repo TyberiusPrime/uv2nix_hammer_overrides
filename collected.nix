@@ -1633,6 +1633,9 @@
   bar = {
     "0.2.1" = import ./overrides/bar/0.2.1;
   };
+  bareasgi = {
+    "4.4.1" = import ./overrides/bareasgi/4.4.1;
+  };
   barenecessities = {
     "0.2.8" = import ./overrides/barenecessities/0.2.8;
   };
