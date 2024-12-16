@@ -10229,6 +10229,9 @@
   logster = {
     "0.10.0" = import ./overrides/logster/0.10.0;
   };
+  logtool = {
+    "0.4.post2" = import ./overrides/logtool/0.4.post2;
+  };
   logutils = {
     "0.3.5" = import ./overrides/logutils/0.3.5;
   };
