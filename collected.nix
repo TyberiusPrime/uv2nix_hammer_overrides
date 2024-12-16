@@ -15165,6 +15165,9 @@
   valideer = {
     "0.4.2" = import ./overrides/valideer/0.4.2;
   };
+  validictory = {
+    "1.1.3" = import ./overrides/validictory/1.1.3;
+  };
   validr = {
     "1.2.2" = import ./overrides/validr/1.2.2;
   };
