@@ -2303,6 +2303,9 @@
   busrt = {
     "0.1.2" = import ./overrides/busrt/0.1.2;
   };
+  busypie = {
+    "0.5.1" = import ./overrides/busypie/0.5.1;
+  };
   bw2analyzer = {
     "0.10" = import ./overrides/bw2analyzer/0.10;
   };
