@@ -2888,6 +2888,9 @@
   clint = {
     "0.5.1" = import ./overrides/clint/0.5.1;
   };
+  clintermission = {
+    "0.3.1" = import ./overrides/clintermission/0.3.1;
+  };
   clip = {
     "0.2.0" = import ./overrides/clip/0.2.0;
   };
