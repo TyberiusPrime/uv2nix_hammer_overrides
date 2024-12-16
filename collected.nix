@@ -3369,6 +3369,9 @@
   django-token-tools = {
     "0.2.0" = import ./overrides/django-token-tools/0.2.0;
   };
+  django-tools = {
+    "0.56.2" = import ./overrides/django-tools/0.56.2;
+  };
   django-transmeta = {
     "0.7.3" = import ./overrides/django-transmeta/0.7.3;
   };
