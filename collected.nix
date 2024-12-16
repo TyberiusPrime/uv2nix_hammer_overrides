@@ -6760,6 +6760,9 @@
   flask-classy = {
     "0.6.10" = import ./overrides/flask-classy/0.6.10;
   };
+  flask-codemirror = {
+    "1.3" = import ./overrides/flask-codemirror/1.3;
+  };
   flask-collect-invenio = {
     "1.4.0" = import ./overrides/flask-collect-invenio/1.4.0;
   };
