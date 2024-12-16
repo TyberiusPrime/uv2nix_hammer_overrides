@@ -2407,6 +2407,9 @@
     "1.3.1" = import ./overrides/candv/1.3.1;
     "1.5.0" = import ./overrides/candv/1.5.0;
   };
+  canmatrix = {
+    "1.0" = import ./overrides/canmatrix/1.0;
+  };
   canonical = {
     "0.52.0" = import ./overrides/canonical/0.52.0;
   };
