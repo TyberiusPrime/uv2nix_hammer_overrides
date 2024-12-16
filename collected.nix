@@ -281,6 +281,9 @@
   algebra = {
     "1.2.1" = import ./overrides/algebra/1.2.1;
   };
+  alibabacloud-tea = {
+    "0.3.9" = import ./overrides/alibabacloud-tea/0.3.9;
+  };
   alibabacloud-tea-py2 = {
     "0.1.0" = import ./overrides/alibabacloud-tea-py2/0.1.0;
   };
