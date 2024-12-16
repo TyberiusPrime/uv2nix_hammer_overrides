@@ -3428,6 +3428,9 @@
   django-tabbed-admin = {
     "1.0.4" = import ./overrides/django-tabbed-admin/1.0.4;
   };
+  django-tables2 = {
+    "2.7.0" = import ./overrides/django-tables2/2.7.0;
+  };
   django-tablib = {
     "3.2" = import ./overrides/django-tablib/3.2;
   };
