@@ -14081,6 +14081,9 @@
   pixiedust = {
     "1.1.19" = import ./overrides/pixiedust/1.1.19;
   };
+  pkce = {
+    "1.0.3" = import ./overrides/pkce/1.0.3;
+  };
   pkcs7 = {
     "0.1.2" = import ./overrides/pkcs7/0.1.2;
   };
