@@ -14433,6 +14433,9 @@
   unidic-lite = {
     "1.0.8" = import ./overrides/unidic-lite/1.0.8;
   };
+  unidiff = {
+    "0.7.5" = import ./overrides/unidiff/0.7.5;
+  };
   unifi = {
     "1.2.5" = import ./overrides/unifi/1.2.5;
   };
