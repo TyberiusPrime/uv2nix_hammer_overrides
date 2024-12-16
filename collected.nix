@@ -2830,6 +2830,9 @@
   click-repl = {
     "0.3.0" = import ./overrides/click-repl/0.3.0;
   };
+  click-option-group = {
+    "0.5.6" = import ./overrides/click-option-group/0.5.6;
+  };
   clickhouse-cli = {
     "0.3.9" = import ./overrides/clickhouse-cli/0.3.9;
   };
