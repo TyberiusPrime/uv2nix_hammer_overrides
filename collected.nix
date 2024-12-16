@@ -12428,6 +12428,9 @@
   rpdb = {
     "0.1.6" = import ./overrides/rpdb/0.1.6;
   };
+  rpds-py = {
+    "0.20.0" = import ./overrides/rpds-py/0.20.0;
+  };
   rpi-gpio = {
     "0.7.1" = import ./overrides/rpi-gpio/0.7.1;
   };
