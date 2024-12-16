@@ -12685,6 +12685,9 @@
   sanic-graphql = {
     "1.1.0" = import ./overrides/sanic-graphql/1.1.0;
   };
+  sanic-jinja2 = {
+    "2022.11.11" = import ./overrides/sanic-jinja2/2022.11.11;
+  };
   sanic-jwt = {
     "1.4.0" = import ./overrides/sanic-jwt/1.4.0;
   };
