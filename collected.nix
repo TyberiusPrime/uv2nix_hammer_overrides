@@ -2308,6 +2308,9 @@
   bwapy = {
     "0.1.4" = import ./overrides/bwapy/0.1.4;
   };
+  bx-py-utils = {
+    "101" = import ./overrides/bx-py-utils/101;
+  };
   bx-python = {
     "0.10.0" = import ./overrides/bx-python/0.10.0;
   };
