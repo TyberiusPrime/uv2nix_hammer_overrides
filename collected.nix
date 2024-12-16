@@ -11178,6 +11178,9 @@
   python-ligo-lw = {
     "1.8.3" = import ./overrides/python-ligo-lw/1.8.3;
   };
+  python-logging-loki = {
+    "0.3.1" = import ./overrides/python-logging-loki/0.3.1;
+  };
   python-logstash = {
     "0.4.8" = import ./overrides/python-logstash/0.4.8;
   };
