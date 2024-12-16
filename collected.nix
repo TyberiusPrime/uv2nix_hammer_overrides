@@ -4336,6 +4336,9 @@
   dexy = {
     "2.0.9" = import ./overrides/dexy/2.0.9;
   };
+  dfa = {
+    "4.7.1" = import ./overrides/dfa/4.7.1;
+  };
   dfdatetime = {
     "20240504" = import ./overrides/dfdatetime/20240504;
   };
