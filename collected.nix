@@ -17919,6 +17919,9 @@
   reportlab-qrcode = {
     "0.1.6" = import ./overrides/reportlab-qrcode/0.1.6;
   };
+  reportportal-client = {
+    "5.5.7" = import ./overrides/reportportal-client/5.5.7;
+  };
   repoze-bfg = {
     "1.3" = import ./overrides/repoze-bfg/1.3;
   };
