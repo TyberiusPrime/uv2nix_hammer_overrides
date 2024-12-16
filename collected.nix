@@ -2213,6 +2213,9 @@
   crispy-forms-foundation = {
     "1.0.2" = import ./overrides/crispy-forms-foundation/1.0.2;
   };
+  criticality-score = {
+    "1.0.8" = import ./overrides/criticality-score/1.0.8;
+  };
   crlibm = {
     "1.0.3" = import ./overrides/crlibm/1.0.3;
   };
