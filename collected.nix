@@ -1441,6 +1441,9 @@
   awsebcli = {
     "3.20.10" = import ./overrides/awsebcli/3.20.10;
   };
+  awsiotsdk = {
+    "1.22.0" = import ./overrides/awsiotsdk/1.22.0;
+  };
   axial-positional-embedding = {
     "0.2.1" = import ./overrides/axial-positional-embedding/0.2.1;
   };
