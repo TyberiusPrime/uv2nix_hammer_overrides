@@ -8670,6 +8670,9 @@
   ifconfig-parser = {
     "0.0.5" = import ./overrides/ifconfig-parser/0.0.5;
   };
+  igittigitt = {
+    "2.1.4" = import ./overrides/igittigitt/2.1.4;
+  };
   igor = {
     "0.3" = import ./overrides/igor/0.3;
   };
