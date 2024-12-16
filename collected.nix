@@ -7127,6 +7127,9 @@
   manage-py = {
     "0.2.10" = import ./overrides/manage-py/0.2.10;
   };
+  managesieve = {
+    "0.8" = import ./overrides/managesieve/0.8;
+  };
   mandrill = {
     "1.0.60" = import ./overrides/mandrill/1.0.60;
   };
