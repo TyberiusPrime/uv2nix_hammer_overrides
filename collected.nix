@@ -2032,6 +2032,9 @@
   configparser2 = {
     "4.0.0" = import ./overrides/configparser2/4.0.0;
   };
+  configset = {
+    "1.42" = import ./overrides/configset/1.42;
+  };
   configspace = {
     "1.2.0" = import ./overrides/configspace/1.2.0;
   };
