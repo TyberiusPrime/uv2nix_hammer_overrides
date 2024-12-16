@@ -12657,6 +12657,9 @@
   nmigen = {
     "0.2" = import ./overrides/nmigen/0.2;
   };
+  nmrglue = {
+    "0.10" = import ./overrides/nmrglue/0.10;
+  };
   nmslib = {
     "2.1.1" = import ./overrides/nmslib/2.1.1;
   };
