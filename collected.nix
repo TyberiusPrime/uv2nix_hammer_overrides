@@ -10690,6 +10690,9 @@
   pymatsolver = {
     "0.2.0" = import ./overrides/pymatsolver/0.2.0;
   };
+  pymavlink = {
+    "2.4.41" = import ./overrides/pymavlink/2.4.41;
+  };
   pymbolic = {
     "2022.2" = import ./overrides/pymbolic/2022.2;
   };
