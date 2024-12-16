@@ -9085,6 +9085,9 @@
   iopath = {
     "0.1.10" = import ./overrides/iopath/0.1.10;
   };
+  iotile-core = {
+    "5.2.0" = import ./overrides/iotile-core/5.2.0;
+  };
   iotlabcli = {
     "3.3.0" = import ./overrides/iotlabcli/3.3.0;
   };
