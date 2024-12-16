@@ -11402,6 +11402,9 @@
   multipartposthandler = {
     "0.1.0" = import ./overrides/multipartposthandler/0.1.0;
   };
+  multipledispatch = {
+    "1.0.0" = import ./overrides/multipledispatch/1.0.0;
+  };
   multiprocess = {
     "0.70.15" = import ./overrides/multiprocess/0.70.15;
   };
