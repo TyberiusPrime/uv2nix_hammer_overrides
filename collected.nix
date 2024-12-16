@@ -14685,6 +14685,9 @@
   py-sonic = {
     "1.0.1" = import ./overrides/py-sonic/1.0.1;
   };
+  py-sr25519-bindings = {
+    "0.2.0" = import ./overrides/py-sr25519-bindings/0.2.0;
+  };
   py-stringmatching = {
     "0.4.6" = import ./overrides/py-stringmatching/0.4.6;
   };
