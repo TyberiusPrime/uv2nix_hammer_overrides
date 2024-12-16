@@ -9435,6 +9435,9 @@
   progressbar-latest = {
     "2.4" = import ./overrides/progressbar-latest/2.4;
   };
+  progressbar2 = {
+    "4.5.0" = import ./overrides/progressbar2/4.5.0;
+  };
   progressbar33 = {
     "2.4" = import ./overrides/progressbar33/2.4;
   };
