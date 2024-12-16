@@ -10846,6 +10846,9 @@
   pytado = {
     "1.0.3" = import ./overrides/pytado/1.0.3;
   };
+  pytak = {
+    "7.0.2" = import ./overrides/pytak/7.0.2;
+  };
   pytankerkoenig = {
     "0.0.7" = import ./overrides/pytankerkoenig/0.0.7;
   };
