@@ -625,6 +625,9 @@
   array-api-compat = {
     "1.8" = import ./overrides/array-api-compat/1.8;
   };
+  arrayqueues = {
+    "1.4.1" = import ./overrides/arrayqueues/1.4.1;
+  };
   arrayterator = {
     "1.0.1" = import ./overrides/arrayterator/1.0.1;
   };
