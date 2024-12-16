@@ -9299,6 +9299,9 @@
   price-parser = {
     "0.3.4" = import ./overrides/price-parser/0.3.4;
   };
+  prices = {
+    "1.1.1" = import ./overrides/prices/1.1.1;
+  };
   primesieve = {
     "2.3.3" = import ./overrides/primesieve/2.3.3;
   };
