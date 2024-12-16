@@ -4400,6 +4400,9 @@
   fleep = {
     "1.0.1" = import ./overrides/fleep/1.0.1;
   };
+  fleming = {
+    "0.7.0" = import ./overrides/fleming/0.7.0;
+  };
   flex = {
     "6.14.1" = import ./overrides/flex/6.14.1;
   };
