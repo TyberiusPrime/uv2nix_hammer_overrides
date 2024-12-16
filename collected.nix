@@ -9803,6 +9803,9 @@
   kinet2pcb = {
     "1.1.2" = import ./overrides/kinet2pcb/1.1.2;
   };
+  kink = {
+    "0.8.0" = import ./overrides/kink/0.8.0;
+  };
   kinparse = {
     "1.2.1" = import ./overrides/kinparse/1.2.1;
     "1.2.2" = import ./overrides/kinparse/1.2.2;
