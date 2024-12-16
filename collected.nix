@@ -11365,6 +11365,9 @@
   python-singleton-metaclasses = {
     "0.2.1" = import ./overrides/python-singleton-metaclasses/0.2.1;
   };
+  python-slimta = {
+    "5.0.5" = import ./overrides/python-slimta/5.0.5;
+  };
   python-slugify = {
     "1.2.6" = import ./overrides/python-slugify/1.2.6;
   };
