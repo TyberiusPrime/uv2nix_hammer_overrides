@@ -10687,6 +10687,9 @@
   pymummer = {
     "0.11.0" = import ./overrides/pymummer/0.11.0;
   };
+  pymunk = {
+    "6.8.1" = import ./overrides/pymunk/6.8.1;
+  };
   pymupdf = {
     "1.24.10" = import ./overrides/pymupdf/1.24.10;
   };
