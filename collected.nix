@@ -12804,6 +12804,9 @@
   serialize = {
     "0.2.1" = import ./overrides/serialize/0.2.1;
   };
+  serpent = {
+    "1.41" = import ./overrides/serpent/1.41;
+  };
   serverfiles = {
     "0.3.1" = import ./overrides/serverfiles/0.3.1;
   };
