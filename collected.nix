@@ -9640,6 +9640,9 @@
   propyte = {
     "2018.3.14.1447" = import ./overrides/propyte/2018.3.14.1447;
   };
+  protean = {
+    "0.12.1" = import ./overrides/protean/0.12.1;
+  };
   proto-google-cloud-datastore-v1 = {
     "0.90.4" = import ./overrides/proto-google-cloud-datastore-v1/0.90.4;
   };
