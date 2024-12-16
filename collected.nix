@@ -13800,6 +13800,9 @@
   parmed = {
     "4.2.2" = import ./overrides/parmed/4.2.2;
   };
+  parquet = {
+    "1.3.1" = import ./overrides/parquet/1.3.1;
+  };
   parse = {
     "1.6.5" = import ./overrides/parse/1.6.5;
   };
