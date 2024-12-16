@@ -3207,6 +3207,9 @@
   colorful = {
     "0.5.6" = import ./overrides/colorful/0.5.6;
   };
+  colorhash = {
+    "2.0.0" = import ./overrides/colorhash/2.0.0;
+  };
   colormath = {
     "3.0.0" = import ./overrides/colormath/3.0.0;
   };
