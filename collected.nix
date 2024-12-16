@@ -21061,6 +21061,9 @@
   tess-point = {
     "0.8.1" = import ./overrides/tess-point/0.8.1;
   };
+  termtables = {
+    "0.2.4" = import ./overrides/termtables/0.2.4;
+  };
   tesseract = {
     "0.1.3" = import ./overrides/tesseract/0.1.3;
   };
