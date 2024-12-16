@@ -11680,6 +11680,9 @@
   multio = {
     "0.2.5" = import ./overrides/multio/0.2.5;
   };
+  multipart = {
+    "0.2.5" = import ./overrides/multipart/0.2.5;
+  };
   multipartposthandler = {
     "0.1.0" = import ./overrides/multipartposthandler/0.1.0;
   };
