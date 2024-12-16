@@ -21806,6 +21806,9 @@
   typedecorator = {
     "0.0.5" = import ./overrides/typedecorator/0.0.5;
   };
+  typeguard = {
+    "4.3.0" = import ./overrides/typeguard/4.3.0;
+  };
   typelike = {
     "0.0.32" = import ./overrides/typelike/0.0.32;
   };
