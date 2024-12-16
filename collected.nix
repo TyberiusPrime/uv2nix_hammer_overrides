@@ -11917,6 +11917,9 @@
   pyutil = {
     "3.3.6" = import ./overrides/pyutil/3.3.6;
   };
+  pyutmodel = {
+    "1.5.1" = import ./overrides/pyutmodel/1.5.1;
+  };
   pyuv = {
     "1.4.0" = import ./overrides/pyuv/1.4.0;
   };
