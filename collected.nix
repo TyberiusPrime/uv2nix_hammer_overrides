@@ -1398,6 +1398,9 @@
   cairo-lang = {
     "0.13.2" = import ./overrides/cairo-lang/0.13.2;
   };
+  cairocffi = {
+    "1.7.1" = import ./overrides/cairocffi/1.7.1;
+  };
   calendarweek = {
     "0.5.3" = import ./overrides/calendarweek/0.5.3;
   };
