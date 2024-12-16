@@ -9592,6 +9592,9 @@
   products-maps = {
     "3.3" = import ./overrides/products-maps/3.3;
   };
+  products-membrane = {
+    "6.0.0" = import ./overrides/products-membrane/6.0.0;
+  };
   products-ploneldap = {
     "1.2" = import ./overrides/products-ploneldap/1.2;
   };
