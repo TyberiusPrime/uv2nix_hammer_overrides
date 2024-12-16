@@ -13069,6 +13069,9 @@
   sqlitedict = {
     "2.1.0" = import ./overrides/sqlitedict/2.1.0;
   };
+  sqliteschema = {
+    "2.0.0" = import ./overrides/sqliteschema/2.0.0;
+  };
   sqlmap = {
     "1.8.9" = import ./overrides/sqlmap/1.8.9;
   };
