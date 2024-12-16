@@ -19041,6 +19041,9 @@
   sasl = {
     "0.3.1" = import ./overrides/sasl/0.3.1;
   };
+  saspy = {
+    "5.100.2" = import ./overrides/saspy/5.100.2;
+  };
   sass = {
     "2.3" = import ./overrides/sass/2.3;
   };
