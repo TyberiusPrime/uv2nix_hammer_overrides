@@ -10006,6 +10006,9 @@
   lavalink = {
     "5.7.2" = import ./overrides/lavalink/5.7.2;
   };
+  layoutparser = {
+    "0.3.4" = import ./overrides/layoutparser/0.3.4;
+  };
   lazr-uri = {
     "1.0.6" = import ./overrides/lazr-uri/1.0.6;
   };
