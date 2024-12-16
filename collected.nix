@@ -10870,6 +10870,9 @@
   minidb = {
     "2.0.8" = import ./overrides/minidb/2.0.8;
   };
+  minidump = {
+    "0.0.24" = import ./overrides/minidump/0.0.24;
+  };
   miniful = {
     "0.0.6" = import ./overrides/miniful/0.0.6;
   };
