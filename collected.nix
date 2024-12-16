@@ -3877,6 +3877,9 @@
   elixir = {
     "0.7.1" = import ./overrides/elixir/0.7.1;
   };
+  ella = {
+    "3.0.13" = import ./overrides/ella/3.0.13;
+  };
   ellc = {
     "1.8.9" = import ./overrides/ellc/1.8.9;
   };
