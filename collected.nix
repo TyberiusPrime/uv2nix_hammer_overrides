@@ -3724,6 +3724,9 @@
   cursor = {
     "1.3.5" = import ./overrides/cursor/1.3.5;
   };
+  curtsies = {
+    "0.4.2" = import ./overrides/curtsies/0.4.2;
+  };
   curve25519-donna = {
     "1.3" = import ./overrides/curve25519-donna/1.3;
   };
