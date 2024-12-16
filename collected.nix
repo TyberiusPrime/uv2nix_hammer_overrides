@@ -3893,6 +3893,9 @@
     "1.8.3" = import ./overrides/dash-renderer/1.8.3;
     "1.9.1" = import ./overrides/dash-renderer/1.9.1;
   };
+  dash-table = {
+    "5.0.0" = import ./overrides/dash-table/5.0.0;
+  };
   dashing = {
     "0.1.0" = import ./overrides/dashing/0.1.0;
   };
