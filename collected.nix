@@ -14574,6 +14574,9 @@
   vdt-versionplugin-default = {
     "0.0.3" = import ./overrides/vdt-versionplugin-default/0.0.3;
   };
+  vector = {
+    "1.5.1" = import ./overrides/vector/1.5.1;
+  };
   vectormath = {
     "0.2.2" = import ./overrides/vectormath/0.2.2;
   };
