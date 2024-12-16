@@ -4807,6 +4807,9 @@
   genpy = {
     "2022.1" = import ./overrides/genpy/2022.1;
   };
+  gensim = {
+    "4.3.3" = import ./overrides/gensim/4.3.3;
+  };
   genson = {
     "1.2.2" = import ./overrides/genson/1.2.2;
   };
