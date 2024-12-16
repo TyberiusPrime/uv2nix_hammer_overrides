@@ -11391,6 +11391,9 @@
   mo-imports = {
     "3.149.20327" = import ./overrides/mo-imports/3.149.20327;
   };
+  mo-json = {
+    "6.647.24166" = import ./overrides/mo-json/6.647.24166;
+  };
   mo-kwargs = {
     "4.22.21108" = import ./overrides/mo-kwargs/4.22.21108;
   };
