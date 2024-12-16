@@ -1,8 +1,3 @@
-{ resolveBuildSystem, helpers, ... }:
-old:
-if (helpers.isWheel old) then
-  { }
-else
-  {
-    nativeBuildInputs = old.nativeBuildInputs or [ ] ++ (resolveBuildSystem { setuptools-git = [ ]; });
-  }
+{final, helpers, resolveBuildSystem, ...}
+        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];setuptools-git = [];});}
+        

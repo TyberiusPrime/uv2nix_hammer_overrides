@@ -1,1 +1,1 @@
-BuildSystems = [ "setuptools-git",]
+BuildSystems = [ "setuptools", "setuptools-git",]
