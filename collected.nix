@@ -6852,6 +6852,9 @@
   libusb-package = {
     "1.0.26.1" = import ./overrides/libusb-package/1.0.26.1;
   };
+  libusb1 = {
+    "3.1.0" = import ./overrides/libusb1/3.1.0;
+  };
   libusbsio = {
     "2.1.12" = import ./overrides/libusbsio/2.1.12;
   };
