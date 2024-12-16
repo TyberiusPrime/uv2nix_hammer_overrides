@@ -11550,6 +11550,9 @@
   python-highcharts = {
     "0.4.2" = import ./overrides/python-highcharts/0.4.2;
   };
+  python-homeassistant-analytics = {
+    "0.7.0" = import ./overrides/python-homeassistant-analytics/0.7.0;
+  };
   python-hostlist = {
     "1.23.0" = import ./overrides/python-hostlist/1.23.0;
   };
