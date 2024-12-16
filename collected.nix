@@ -4181,6 +4181,9 @@
   deeplift = {
     "0.6.13.0" = import ./overrides/deeplift/0.6.13.0;
   };
+  deepmerge = {
+    "2.0" = import ./overrides/deepmerge/2.0;
+  };
   deepspeed = {
     "0.15.1" = import ./overrides/deepspeed/0.15.1;
   };
