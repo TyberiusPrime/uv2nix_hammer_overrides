@@ -2546,6 +2546,9 @@
   datasize = {
     "1.0.0" = import ./overrides/datasize/1.0.0;
   };
+  datazets = {
+    "0.1.9" = import ./overrides/datazets/0.1.9;
+  };
   datazilla = {
     "1.4" = import ./overrides/datazilla/1.4;
   };
