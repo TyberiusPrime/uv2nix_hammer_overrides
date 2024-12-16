@@ -11819,6 +11819,9 @@
   qprompt = {
     "0.16.3" = import ./overrides/qprompt/0.16.3;
   };
+  qpsolvers = {
+    "4.3.3" = import ./overrides/qpsolvers/4.3.3;
+  };
   qrcode = {
     "7.3.1" = import ./overrides/qrcode/7.3.1;
   };
