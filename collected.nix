@@ -4567,6 +4567,9 @@
   fuzzy = {
     "1.2.2" = import ./overrides/fuzzy/1.2.2;
   };
+  fuzzyfinder = {
+    "2.2.0" = import ./overrides/fuzzyfinder/2.2.0;
+  };
   fuzzysearch = {
     "0.7.3" = import ./overrides/fuzzysearch/0.7.3;
   };
