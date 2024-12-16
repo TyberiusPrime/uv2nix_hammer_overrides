@@ -12455,6 +12455,9 @@
   reserved = {
     "0.1.1" = import ./overrides/reserved/0.1.1;
   };
+  resilient = {
+    "51.0.2.2.1096" = import ./overrides/resilient/51.0.2.2.1096;
+  };
   resize-image = {
     "0.4.0" = import ./overrides/resize-image/0.4.0;
   };
