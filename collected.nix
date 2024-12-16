@@ -1114,6 +1114,9 @@
   betterproto = {
     "1.2.5" = import ./overrides/betterproto/1.2.5;
   };
+  bg-atlasapi = {
+    "1.0.3" = import ./overrides/bg-atlasapi/1.0.3;
+  };
   bgconfig = {
     "0.10" = import ./overrides/bgconfig/0.10;
   };
