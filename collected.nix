@@ -5444,6 +5444,9 @@
   dpt-runtime = {
     "2.1.4" = import ./overrides/dpt-runtime/2.1.4;
   };
+  dpt-settings = {
+    "1.1.4" = import ./overrides/dpt-settings/1.1.4;
+  };
   dpt-threading = {
     "2.0.2" = import ./overrides/dpt-threading/2.0.2;
   };
