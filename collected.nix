@@ -4021,6 +4021,9 @@
   ez-setup = {
     "0.9" = import ./overrides/ez-setup/0.9;
   };
+  ezdxf = {
+    "1.3.3" = import ./overrides/ezdxf/1.3.3;
+  };
   ezodf = {
     "0.3.2" = import ./overrides/ezodf/0.3.2;
   };
