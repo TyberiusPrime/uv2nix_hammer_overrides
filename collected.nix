@@ -4704,6 +4704,9 @@
   django-fluent-dashboard = {
     "0.6.1" = import ./overrides/django-fluent-dashboard/0.6.1;
   };
+  django-fluent-utils = {
+    "3.0.1" = import ./overrides/django-fluent-utils/3.0.1;
+  };
   django-form-utils = {
     "1.0.3" = import ./overrides/django-form-utils/1.0.3;
   };
