@@ -1095,6 +1095,9 @@
   betamax-matchers = {
     "0.4.0" = import ./overrides/betamax-matchers/0.4.0;
   };
+  better-exceptions = {
+    "0.3.3" = import ./overrides/better-exceptions/0.3.3;
+  };
   betterproto = {
     "1.2.5" = import ./overrides/betterproto/1.2.5;
   };
