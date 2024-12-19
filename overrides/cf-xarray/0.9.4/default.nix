@@ -1,3 +1,14 @@
-{final, helpers, resolveBuildSystem, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {setuptools = [];setuptools-scm = [];xarray = [];});}
-        
+{ helpers, resolveBuildSystem, ... }:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  {
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ (resolveBuildSystem {
+        setuptools = [ ];
+        setuptools-scm = [ ];
+        xarray = [ ];
+      });
+  }

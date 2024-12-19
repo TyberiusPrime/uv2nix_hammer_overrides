@@ -1,5 +1,6 @@
-{helpers, pkgs, ...}
-        : old: if (!helpers.isWheel old) then
+{ helpers, pkgs, ... }:
+old:
+if (!helpers.isWheel old) then
   {
     postConfigure = ''
       substituteInPlace setup.py \
@@ -8,5 +9,3 @@
   }
 else
   { }
-
-        

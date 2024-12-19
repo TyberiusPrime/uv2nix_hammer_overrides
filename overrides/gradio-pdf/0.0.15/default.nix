@@ -1,3 +1,14 @@
-{final, helpers, resolveBuildSystem, ...}
-        : old: if (helpers.isWheel old) then {} else {nativeBuildInputs = old.nativeBuildInputs or [] ++ ( resolveBuildSystem {hatch-fancy-pypi-readme = [];hatch-requirements-txt = [];hatchling = [];});}
-        
+{ helpers, resolveBuildSystem, ... }:
+old:
+if (helpers.isWheel old) then
+  { }
+else
+  {
+    nativeBuildInputs =
+      old.nativeBuildInputs or [ ]
+      ++ (resolveBuildSystem {
+        hatch-fancy-pypi-readme = [ ];
+        hatch-requirements-txt = [ ];
+        hatchling = [ ];
+      });
+  }

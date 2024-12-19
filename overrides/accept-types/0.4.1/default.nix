@@ -1,8 +1,4 @@
-{
-  helpers,
-  resolveBuildSystem,
-  ...
-}:
+{ helpers, resolveBuildSystem, ... }:
 old:
 if (helpers.isWheel old) then
   { }

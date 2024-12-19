@@ -173,7 +173,7 @@ for chosen in order:
             excluded_pkgs[chosen] = "Automatic: no run performed, uv failure?"
             write_excluded_pkgs()
         if run_0 is not None and run_0.exists():
-            r0 = run_0.read_text(errors='replaces')
+            r0 = run_0.read_text(errors='replace')
             if "error: infinite recursion encountered" in r0:
                 print("infinite recursion encountered", chosen)
                 excluded_pkgs[chosen] = "Automatic: infinite recursion encountered"

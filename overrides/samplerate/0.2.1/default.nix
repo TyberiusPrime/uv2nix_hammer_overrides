@@ -1,5 +1,5 @@
-{pkgs, ...}
-        : old: {
+{ pkgs, ... }:
+old: {
   # from nixpkgs
   postPatch = ''
     # unvendor pybind11, libsamplerate
@@ -13,5 +13,3 @@
     rm -rf samplerate
   '';
 }
-
-        
