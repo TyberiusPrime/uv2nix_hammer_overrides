@@ -29,7 +29,11 @@
           # Generate overlay
           overlay = workspace.mkPyprojectOverlay { sourcePreference = "wheel"; };
           pyprojectOverrides = pkgs.lib.composeExtensions (uv2nix_hammer_overrides.overrides pkgs) (
-            # use uv2nix_hammer_overrides.overrides_debug to see which versions were matched to which overrides
+            # use uv2nix_hammer_overrides.overrides_debug
+            #   to see which versions were matched to which overrides
+            #  use uv2nix_hammer_overrides.overrides_strict / overrides_strict_debug
+            #  to use only overrides exactly matching your python package versions
+
             _final: _prev: {
               # place additional overlays here.
               #a_pkg = prev.a_pkg.overrideAttrs (old: nativeBuildInputs = old.nativeBuildInputs ++ [pkgs.someBuildTool] ++ (final.resolveBuildSystems { setuptools = [];});
