@@ -17084,6 +17084,7 @@
     "2.2" = import ./overrides/mattermostwrapper/2.2;
   };
   maturin = {
+    "1.5.1" = import ./overrides/maturin/1.5.1;
     "1.7.1" = import ./overrides/maturin/1.7.1;
   };
   maubot = {
