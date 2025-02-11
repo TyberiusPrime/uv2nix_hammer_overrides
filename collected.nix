@@ -25841,6 +25841,9 @@
   pypipegraph = {
     "0.197" = import ./overrides/pypipegraph/0.197;
   };
+  pypipegraph2 = {
+    "3.4.2" = import ./overrides/pypipegraph2/3.4.2;
+  };
   pypiserver = {
     "2.1.1" = import ./overrides/pypiserver/2.1.1;
   };
