@@ -7101,6 +7101,9 @@
   dingz = {
     "0.5.0" = import ./overrides/dingz/0.5.0;
   };
+  diopy = {
+    "0.5.5" = import ./overrides/diopy/0.5.5;
+  };
   diot = {
     "0.2.3" = import ./overrides/diot/0.2.3;
   };
