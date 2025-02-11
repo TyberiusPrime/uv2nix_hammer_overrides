@@ -5,9 +5,16 @@
 	"umi-tools",
 	"feather-format",
 	"matplotlib-venn",
-	pybktree",
+	"pybktree",
 	"venn",
 	"lark-parser",
 	"pyaes",
-	"telethon"
+	"telethon",
+	"custatevec-cu12",
+	"cudensitymat-cu12",
+	"nvidia-cusolver-cu12",
+	"nvidia-cusparse-cu12",
+	"cutensornet-cu12",
+	"cutensor-cu12",
+	"qiskit-aer-gpu"
 ]
