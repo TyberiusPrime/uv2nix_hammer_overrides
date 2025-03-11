@@ -38,7 +38,7 @@
           final.packaging
           final.setuptools
         ]
-        ++ lib.optionals stdenv.isLinux [
+        ++ pkgs.lib.optionals stdenv.isLinux [
           # optional
           qt3d
           qtcharts
