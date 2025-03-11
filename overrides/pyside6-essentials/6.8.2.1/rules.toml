@@ -1,1 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.cairo", "~literal:!:pkgs.dbus", "~literal:!:pkgs.fontconfig", "~literal:!:pkgs.freetype", "~literal:!:pkgs.pango", "~literal:!:pkgs.unixODBC",]
 QTDontWrap = true
