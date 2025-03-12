@@ -26301,6 +26301,7 @@
   };
   pyside6-essentials = {
     "6.7.3" = import ./overrides/pyside6-essentials/6.7.3;
+    "6.8.2.1" = import ./overrides/pyside6-essentials/6.8.2.1;
   };
   pysigma-backend-insightidr = {
     "0.2.2" = import ./overrides/pysigma-backend-insightidr/0.2.2;
