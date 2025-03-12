@@ -1,65 +1,27 @@
-{final, pkgs, ...}
-        : old: {
-  patches = [
-    # stripped down version of https://github.com/pyside/pyside-setup/commit/a0d68856d67ce6e178e3cfc2fccc236707e02fcd
-    # FIXME: remove in next release
-    ./qt-6.7.1.patch
-  ];
-
-  sourceRoot = "pyside-setup-everywhere-src-${old.version}/sources/${old.pname}";
-
-  # FIXME: cmake/Macros/PySideModules.cmake supposes that all Qt frameworks on macOS
-  # reside in the same directory as QtCore.framework, which is not true for Nix.
-  postPatch = pkgs.lib.optionalString pkgs.stdenv.isLinux ''
-    # Don't ignore optional Qt modules
-    substituteInPlace cmake/PySideHelpers.cmake \
-      --replace-fail \
-        'string(FIND "''${_module_dir}" "''${_core_abs_dir}" found_basepath)' \
-        'set (found_basepath 0)'
-  '';
-
-  nativeBuildInputs =
-    old.nativeBuildInputs
-    or []
-    ++ [
-      pkgs.cmake
-      pkgs.ninja
-      final.python
-    ]
-    ++ pkgs.lib.optionals pkgs.stdenv.isDarwin [pkgs.moveBuildTree];
+{final, helpers, pkgs, ...}
+        :
+            old:
+            let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.unixODBC];})) (old: old // ( {
+  dontWrapQtApps = true;
   buildInputs =
     (old.buildInputs or [])
-    ++ (
-      with (pkgs.qt6.override {python3 = final.python;});
-        [
-          # required
-          qtbase
-          final.ninja
-          final.packaging
-          final.setuptools
-        ]
-        ++ pkgs.lib.optionals pkgs.stdenv.isLinux [
-          # optional
-          qt3d
-          qtcharts
-          qtconnectivity
-          qtdatavis3d
-          qtdeclarative
-          qthttpserver
-          qtmultimedia
-          qtnetworkauth
-          qtquick3d
-          qtremoteobjects
-          qtscxml
-          qtsensors
-          qtspeech
-          qtsvg
-          qttools
-          qtwebchannel
-          qtwebengine
-          qtwebsockets
-        ]
-    );
+    ++ [
+      pkgs.qt6.full
+      pkgs.gtk3
+      pkgs.libxkbcommon
+      pkgs.postgresql.lib
+    ];
+  autoPatchelfIgnoreMissingDeps = [
+    "libmysqlclient.so.21"
+    "libmimerapi.so"
+    "libQt6EglFsKmsGbmSupport.so*"
+  ];
+  # Somehow `autopatchelf` does not find the `shiboken6` library.
+  preFixup = ''
+    addAutoPatchelfSearchPath ${final.shiboken6}/${final.python.sitePackages}/shiboken6
+  '';
 }
-
-        
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    
