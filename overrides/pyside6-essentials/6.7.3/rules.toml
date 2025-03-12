@@ -1,1 +1,3 @@
+BuildInputs = [ "~literal:!:pkgs.unixODBC",]
+ManualOverrideAdditionalFiles = [ "PosixPath('hammer_build_pyside6-essentials_6.7.3/overrides/manual_overrides/pyside6-essentials/6.7.3/qt-6.7.1.patch')",]
 ManualOverrides = "__file__:pyside6-essentials/6.7.3/default.nix"

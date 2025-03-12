@@ -19,5 +19,7 @@
     addAutoPatchelfSearchPath ${final.shiboken6}/${final.python.sitePackages}/shiboken6
   '';
 }
-
-        
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    
