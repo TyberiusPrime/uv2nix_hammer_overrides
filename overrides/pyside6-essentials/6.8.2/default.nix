@@ -1,5 +1,7 @@
-{final, pkgs, ...}
-        : old: {
+{final, helpers, pkgs, ...}
+        :
+            old:
+            let funcs = [(old: old // ( {buildInputs = old.buildInputs or [] ++ [pkgs.unixODBC];})) (old: old // ( {
   dontWrapQtApps = true;
   buildInputs = (old.buildInputs or [ ]) ++ [
     pkgs.qt6.full
@@ -17,5 +19,7 @@
     addAutoPatchelfSearchPath ${final.shiboken6}/${final.python.sitePackages}/shiboken6
   '';
 }
-
-        
+))];
+            in
+            pkgs.lib.trivial.pipe old funcs
+    
