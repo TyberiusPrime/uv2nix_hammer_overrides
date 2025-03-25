@@ -1,5 +1,4 @@
-_:
-old: {
+_: old: {
   postInstall =
     old.postInstall or ""
     + ''

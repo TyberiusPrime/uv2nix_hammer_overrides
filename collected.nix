@@ -26444,6 +26444,9 @@
   pyspiflash = {
     "0.6.3" = import ./overrides/pyspiflash/0.6.3;
   };
+  pyspike = {
+    "0.8.0" = import ./overrides/pyspike/0.8.0;
+  };
   pyspinel = {
     "1.0.3" = import ./overrides/pyspinel/1.0.3;
   };
