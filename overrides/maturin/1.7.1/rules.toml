@@ -1,2 +1,0 @@
-BuildSystems = [ "setuptools", "setuptools-rust", "tomli", "wheel",]
-Rust = [ "setuptools_rust", "None",]
