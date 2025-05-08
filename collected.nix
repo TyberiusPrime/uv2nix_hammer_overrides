@@ -17086,10 +17086,6 @@
   mattermostwrapper = {
     "2.2" = import ./overrides/mattermostwrapper/2.2;
   };
-  maturin = {
-    "1.5.1" = import ./overrides/maturin/1.5.1;
-    "1.7.1" = import ./overrides/maturin/1.7.1;
-  };
   maubot = {
     "0.5.0" = import ./overrides/maubot/0.5.0;
   };
@@ -18172,6 +18168,9 @@
   };
   mpire = {
     "2.10.2" = import ./overrides/mpire/2.10.2;
+  };
+  mpl-axes-aligner = {
+    "1.3" = import ./overrides/mpl-axes-aligner/1.3;
   };
   mpl-scatter-density = {
     "0.7" = import ./overrides/mpl-scatter-density/0.7;
