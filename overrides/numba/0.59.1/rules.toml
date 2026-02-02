@@ -1,1 +1,0 @@
-BuildInputs = [ "~literal:!:pkgs.tbb_2021_11.out",]

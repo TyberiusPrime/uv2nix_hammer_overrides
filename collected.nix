@@ -20454,12 +20454,6 @@
   num2words = {
     "0.5.13" = import ./overrides/num2words/0.5.13;
   };
-  numba = {
-    "0.53.1" = import ./overrides/numba/0.53.1;
-    "0.58.0" = import ./overrides/numba/0.58.0;
-    "0.59.1" = import ./overrides/numba/0.59.1;
-    "0.60.0" = import ./overrides/numba/0.60.0;
-  };
   numba-scipy = {
     "0.4.0" = import ./overrides/numba-scipy/0.4.0;
   };
