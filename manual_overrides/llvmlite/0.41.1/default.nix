@@ -3,7 +3,9 @@ let
   inherit (pkgs) stdenv;
   # see https://github.com/numba/llvmlite#compatibility
   llvm_version = toString (
-    if lib.versionAtLeast old.version "0.40.0" then
+    if lib.versionAtLeast old.version "0.42.0" then
+      19
+    else if lib.versionAtLeast old.version "0.40.0" then
       14
     else if lib.versionAtLeast old.version "0.37.0" then
       11
