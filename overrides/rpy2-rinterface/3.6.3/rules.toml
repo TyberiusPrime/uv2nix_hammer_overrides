@@ -1,0 +1,4 @@
+BuildInputs = [ "~literal:!:pkgs.zlib",]
+BuildSystems = [ "cffi", "packaging", "setuptools", "wheel",]
+MissingR = "Unable to determine R home"
+NativeBuildInputs = [ "~literal:!:pkgs.bzip2.dev", "~literal:!:pkgs.icu.dev", "~literal:!:pkgs.libdeflate", "~literal:!:pkgs.xz",]

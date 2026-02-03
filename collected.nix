@@ -29692,6 +29692,9 @@
   rpy2 = {
     "3.5.16" = import ./overrides/rpy2/3.5.16;
   };
+  rpy2-rinterface = {
+    "3.6.3" = import ./overrides/rpy2-rinterface/3.6.3;
+  };
   rpyc = {
     "6.0.0" = import ./overrides/rpyc/6.0.0;
   };

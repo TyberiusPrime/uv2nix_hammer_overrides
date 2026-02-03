@@ -1,0 +1,3 @@
+{final, helpers, pkgs, resolveBuildSystem, ...}
+        : old: if (helpers.isWheel old) then {buildInputs = old.buildInputs or [] ++ [pkgs.zlib];} else {"R_HOME" = "${pkgs.R}/lib/R";buildInputs = old.buildInputs or [] ++ [pkgs.zlib];nativeBuildInputs = old.nativeBuildInputs or [] ++ [pkgs.bzip2.dev pkgs.icu.dev pkgs.libdeflate pkgs.xz] ++ ( resolveBuildSystem {cffi = [];packaging = [];setuptools = [];wheel = [];});}
+        
