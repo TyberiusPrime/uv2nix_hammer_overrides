@@ -20545,6 +20545,9 @@
   nvidia-cufft-cu12 = {
     "11.0.2.54" = import ./overrides/nvidia-cufft-cu12/11.0.2.54;
   };
+  nvidia-cufile-cu12 = {
+    "1.14.1.1" = import ./overrides/nvidia-cufile-cu12/1.14.1.1;
+  };
   nvidia-curand-cu12 = {
     "10.3.2.106" = import ./overrides/nvidia-curand-cu12/10.3.2.106;
   };
