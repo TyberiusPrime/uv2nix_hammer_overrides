@@ -1,1 +1,2 @@
+BuildInputs = [ "~literal:!:pkgs.onetbb.out",]
 BuildSystems = [ "numpy", "setuptools",]
