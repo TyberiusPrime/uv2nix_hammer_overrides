@@ -20549,6 +20549,7 @@
     "11.0.2.54" = import ./overrides/nvidia-cufft-cu12/11.0.2.54;
   };
   nvidia-cufile-cu12 = {
+    "1.13.1.3" = import ./overrides/nvidia-cufile-cu12/1.13.1.3;
     "1.14.1.1" = import ./overrides/nvidia-cufile-cu12/1.14.1.1;
   };
   nvidia-curand-cu12 = {
@@ -33658,6 +33659,7 @@
     "0.0.1" = import ./overrides/topsispy/0.0.1;
   };
   torch = {
+    "2.10.0" = import ./overrides/torch/2.10.0;
     "2.3.1" = import ./overrides/torch/2.3.1;
     "2.4.0" = import ./overrides/torch/2.4.0;
     "2.4.1" = import ./overrides/torch/2.4.1;

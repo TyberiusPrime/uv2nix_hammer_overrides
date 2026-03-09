@@ -1,0 +1,3 @@
+IgnoredSos = true
+MissingR = "Unable to determine R home"
+NvidiaCollision = true

@@ -1,0 +1,3 @@
+{final, helpers, pkgs, ...}
+        : old: if (helpers.isWheel old) then {autoPatchelfIgnoreMissingDeps = true;buildInputs = old.buildInputs or [] ++ [(pkgs.cudaPackages.libcusparse or pkgs.cudaPackages.libcusparse_lt) pkgs.cudaPackages.libcufile];} else {"R_HOME" = "${pkgs.R}";buildInputs = old.buildInputs or [] ++ [(pkgs.cudaPackages.libcusparse or pkgs.cudaPackages.libcusparse_lt) pkgs.cudaPackages.libcufile];}
+        
