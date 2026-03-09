@@ -66,7 +66,7 @@
             ((prev.${name}.overridePythonAttrs or prev.${name}.overrideAttrs) (
               available_versions.${
                 if debug then
-                  builtins.trace (name + " matched to " + matched_version) matched_version
+                  builtins.trace (name  + " "+ prev.${name}.version + " matched to " + matched_version) matched_version
                 else
                   matched_version
               }
