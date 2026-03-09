@@ -20575,6 +20575,9 @@
   nvidia-nvjitlink-cu12 = {
     "12.6.77" = import ./overrides/nvidia-nvjitlink-cu12/12.6.77;
   };
+  nvidia-nvshmem-cu12 = {
+    "3.4.5" = import ./overrides/nvidia-nvshmem-cu12/3.4.5;
+  };
   nvidia-nvtx-cu12 = {
     "12.1.105" = import ./overrides/nvidia-nvtx-cu12/12.1.105;
   };
