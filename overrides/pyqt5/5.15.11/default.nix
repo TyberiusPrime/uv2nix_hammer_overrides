@@ -38,8 +38,9 @@ let
             version:
             let
               selector = builtins.concatStringsSep "" (lib.take 2 (builtins.splitVersion version));
+              selected = builtins.tryEval (pkgs."qt${selector}" or pkgs.qt5);
             in
-            pkgs."qt${selector}" or pkgs.qt5;
+            if selected.success then selected.value else pkgs.qt5;
 
           qt5 = selectQt5 prev.pyqt5-qt5.version;
           pyQt5Modules =
